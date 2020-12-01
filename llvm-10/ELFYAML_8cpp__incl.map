@@ -1,0 +1,17 @@
+<map id="lib/ObjectYAML/ELFYAML.cpp" name="lib/ObjectYAML/ELFYAML.cpp">
+<area shape="rect" id="node2" href="$ELFYAML_8h.html" title="This file declares classes for handling the YAML representation of ELF. " alt="" coords="1615,87,1814,114"/>
+<area shape="rect" id="node3" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="943,319,1089,345"/>
+<area shape="rect" id="node8" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1612,468,1801,495"/>
+<area shape="rect" id="node20" href="$YAMLTraits_8h.html" title="llvm/Support/YAMLTraits.h" alt="" coords="1500,244,1679,271"/>
+<area shape="rect" id="node23" href="$MapVector_8h.html" title="llvm/ADT/MapVector.h" alt="" coords="360,319,515,345"/>
+<area shape="rect" id="node25" href="$BinaryFormat_2ELF_8h.html" title="llvm/BinaryFormat/ELF.h" alt="" coords="2537,393,2703,420"/>
+<area shape="rect" id="node35" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="1645,393,1800,420"/>
+<area shape="rect" id="node36" href="$MipsABIFlags_8h.html" title="llvm/Support/MipsABIFlags.h" alt="" coords="2317,87,2509,114"/>
+<area shape="rect" id="node37" href="$WithColor_8h.html" title="llvm/Support/WithColor.h" alt="" coords="1037,169,1205,196"/>
+<area shape="rect" id="node19" href="$YAML_8h.html" title="llvm/ObjectYAML/YAML.h" alt="" coords="1627,169,1802,196"/>
+<area shape="rect" id="node4" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="773,393,928,420"/>
+<area shape="rect" id="node5" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="780,468,951,495"/>
+<area shape="rect" id="node9" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1443,543,1605,569"/>
+<area shape="rect" id="node21" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1104,393,1267,420"/>
+<area shape="rect" id="node24" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="493,393,648,420"/>
+</map>

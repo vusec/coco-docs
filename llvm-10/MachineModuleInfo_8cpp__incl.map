@@ -1,0 +1,39 @@
+<map id="lib/CodeGen/MachineModuleInfo.cpp" name="lib/CodeGen/MachineModuleInfo.cpp">
+<area shape="rect" id="node2" href="$MachineModuleInfo_8h.html" title="llvm/CodeGen/MachineModule\lInfo.h" alt="" coords="3903,95,4103,136"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2496,423,2640,449"/>
+<area shape="rect" id="node5" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="3331,572,3520,599"/>
+<area shape="rect" id="node25" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="3485,266,3640,293"/>
+<area shape="rect" id="node27" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="4317,423,4464,449"/>
+<area shape="rect" id="node32" href="$TinyPtrVector_8h.html" title="llvm/ADT/TinyPtrVector.h" alt="" coords="1406,348,1578,375"/>
+<area shape="rect" id="node33" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="2145,348,2266,375"/>
+<area shape="rect" id="node34" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="5229,266,5320,293"/>
+<area shape="rect" id="node35" href="$MCContext_8h.html" title="llvm/MC/MCContext.h" alt="" coords="2981,184,3134,211"/>
+<area shape="rect" id="node36" href="$MCSymbol_8h.html" title="llvm/MC/MCSymbol.h" alt="" coords="4091,348,4242,375"/>
+<area shape="rect" id="node37" href="$PostOrderIterator_8h.html" title="llvm/ADT/PostOrderIterator.h" alt="" coords="5128,423,5320,449"/>
+<area shape="rect" id="node39" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="3159,184,3377,211"/>
+<area shape="rect" id="node40" href="$CodeGen_2Passes_8h.html" title="llvm/CodeGen/Passes.h" alt="" coords="5801,102,5965,129"/>
+<area shape="rect" id="node41" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="845,348,990,375"/>
+<area shape="rect" id="node42" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="1067,423,1179,449"/>
+<area shape="rect" id="node43" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="1557,497,1712,524"/>
+<area shape="rect" id="node44" href="$DerivedTypes_8h.html" title="llvm/IR/DerivedTypes.h" alt="" coords="1831,348,1991,375"/>
+<area shape="rect" id="node45" href="$Instructions_8h.html" title="llvm/IR/Instructions.h" alt="" coords="1593,266,1740,293"/>
+<area shape="rect" id="node46" href="$ValueHandle_8h.html" title="llvm/IR/ValueHandle.h" alt="" coords="1765,266,1918,293"/>
+<area shape="rect" id="node47" href="$InitializePasses_8h.html" title="llvm/InitializePasses.h" alt="" coords="5989,102,6142,129"/>
+<area shape="rect" id="node48" href="$MCSymbolXCOFF_8h.html" title="llvm/MC/MCSymbolXCOFF.h" alt="" coords="4439,266,4635,293"/>
+<area shape="rect" id="node49" href="$TargetLoweringObjectFile_8h.html" title="llvm/Target/TargetLowering\lObjectFile.h" alt="" coords="2393,259,2573,300"/>
+<area shape="rect" id="node50" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="5233,184,5421,211"/>
+<area shape="rect" id="node30" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="3591,423,3761,449"/>
+<area shape="rect" id="node31" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM. " alt="" coords="4205,184,4363,211"/>
+<area shape="rect" id="node4" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="3905,497,4045,524"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3227,647,3389,673"/>
+<area shape="rect" id="node13" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="1259,497,1381,524"/>
+<area shape="rect" id="node14" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3205,497,3368,524"/>
+<area shape="rect" id="node22" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2419,497,2573,524"/>
+<area shape="rect" id="node7" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="3696,572,3867,599"/>
+<area shape="rect" id="node15" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2523,572,2677,599"/>
+<area shape="rect" id="node17" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="4065,572,4242,599"/>
+<area shape="rect" id="node26" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="3003,348,3181,375"/>
+<area shape="rect" id="node28" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="3691,348,3864,375"/>
+<area shape="rect" id="node29" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="3459,348,3666,375"/>
+<area shape="rect" id="node38" href="$GraphTraits_8h.html" title="llvm/ADT/GraphTraits.h" alt="" coords="5261,497,5421,524"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="include/llvm/Object/IRObjectFile.h" name="include/llvm/Object/IRObjectFile.h">
+<area shape="rect" id="node2" href="$PointerUnion_8h.html" title="llvm/ADT/PointerUnion.h" alt="" coords="4518,483,4685,509"/>
+<area shape="rect" id="node32" href="$IRSymtab_8h.html" title="llvm/Object/IRSymtab.h" alt="" coords="3051,102,3213,129"/>
+<area shape="rect" id="node38" href="$SymbolicFile_8h.html" title="llvm/Object/SymbolicFile.h" alt="" coords="1835,184,2013,211"/>
+<area shape="rect" id="node48" href="$ModuleSymbolTable_8h.html" title="llvm/Object/ModuleSymbol\lTable.h" alt="" coords="2743,95,2921,136"/>
+<area shape="rect" id="node3" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="3513,557,3690,584"/>
+<area shape="rect" id="node28" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="4542,781,4706,823"/>
+<area shape="rect" id="node31" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="4296,707,4467,733"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2904,632,3048,659"/>
+<area shape="rect" id="node5" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="2054,707,2194,733"/>
+<area shape="rect" id="node27" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2215,632,2361,659"/>
+<area shape="rect" id="node30" href="$TypeSize_8h.html" title="llvm/Support/TypeSize.h" alt="" coords="3765,632,3931,659"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="4076,871,4239,897"/>
+<area shape="rect" id="node15" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="3131,707,3253,733"/>
+<area shape="rect" id="node16" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1765,707,1928,733"/>
+<area shape="rect" id="node22" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2219,707,2373,733"/>
+<area shape="rect" id="node6" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="4403,871,4578,897"/>
+<area shape="rect" id="node7" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2172,789,2343,815"/>
+<area shape="rect" id="node17" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1185,789,1356,815"/>
+<area shape="rect" id="node33" href="$GlobalValue_8h.html" title="llvm/IR/GlobalValue.h" alt="" coords="2427,483,2576,509"/>
+<area shape="rect" id="node42" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="1855,483,1993,509"/>
+<area shape="rect" id="node47" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="3867,707,4018,733"/>
+<area shape="rect" id="node34" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="2022,557,2149,584"/>
+<area shape="rect" id="node35" href="$Constant_8h.html" title="llvm/IR/Constant.h" alt="" coords="2326,557,2458,584"/>
+<area shape="rect" id="node36" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="1919,632,2031,659"/>
+<area shape="rect" id="node37" href="$DerivedTypes_8h.html" title="llvm/IR/DerivedTypes.h" alt="" coords="3741,557,3901,584"/>
+<area shape="rect" id="node39" href="$Magic_8h.html" title="llvm/BinaryFormat/Magic.h" alt="" coords="1652,483,1831,509"/>
+<area shape="rect" id="node41" href="$Binary_8h.html" title="llvm/Object/Binary.h" alt="" coords="569,259,709,285"/>
+<area shape="rect" id="node43" href="$Format_8h.html" title="llvm/Support/Format.h" alt="" coords="2686,557,2837,584"/>
+<area shape="rect" id="node44" href="$MemoryBuffer_8h.html" title="llvm/Support/MemoryBuffer.h" alt="" coords="2015,333,2207,360"/>
+<area shape="rect" id="node45" href="$FileSystem_8h.html" title="llvm/Support/FileSystem.h" alt="" coords="2123,408,2299,435"/>
+<area shape="rect" id="node49" href="$Mangler_8h.html" title="llvm/IR/Mangler.h" alt="" coords="2576,184,2701,211"/>
+<area shape="rect" id="node50" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="2413,632,2574,659"/>
+</map>

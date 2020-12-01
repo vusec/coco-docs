@@ -1,0 +1,35 @@
+<map id="llvm::AlignmentFromAssumptionsPass" name="llvm::AlignmentFromAssumptionsPass">
+<area shape="rect" id="node2" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; AlignmentFromAssumptions\lPass \&gt;" alt="" coords="3660,116,3859,172"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes. " alt="" coords="3277,123,3414,165"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ScalarEvolution.html" title="The main scalar evolution driver. " alt="" coords="3687,196,3832,223"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DominatorTree.html" title="Concrete subclass of DominatorTreeBase that is used to compute a normal dominator tree..." alt="" coords="3689,247,3829,273"/>
+<area shape="rect" id="node6" href="$classllvm_1_1DominatorTreeBase.html" title="llvm::DominatorTreeBase\l\&lt; BasicBlock, false \&gt;" alt="" coords="3260,239,3431,281"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l BasicBlock *, IsPostDom\l ? 4 :1 \&gt;" alt="" coords="2533,612,2708,668"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; BasicBlock * \&gt;" alt="" coords="2142,683,2293,725"/>
+<area shape="rect" id="node9" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="1128,758,1307,799"/>
+<area shape="rect" id="node10" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="llvm::SmallVectorTemplate\lCommon\&lt; T \&gt;" alt="" coords="649,654,828,695"/>
+<area shape="rect" id="node16" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; T \&gt;" alt="" coords="1353,662,1531,703"/>
+<area shape="rect" id="node17" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="919,713,1098,754"/>
+<area shape="rect" id="node37" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="1577,603,1756,645"/>
+<area shape="rect" id="node11" href="$classllvm_1_1SmallVectorBase.html" title="This is all the non&#45;templated stuff common to all SmallVectors. " alt="" coords="181,603,336,629"/>
+<area shape="rect" id="node14" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="This is the part of SmallVectorTemplateBase which does not depend on whether the type T is a POD..." alt="" coords="385,595,564,637"/>
+<area shape="rect" id="node12" href="$classunsigned.html" title="unsigned" alt="" coords="5,299,80,325"/>
+<area shape="rect" id="node31" href="$classllvm_1_1DominatorTreeBase.html" title="Core dominator tree base class. " alt="" coords="2891,346,3062,387"/>
+<area shape="rect" id="node15" href="$classllvm_1_1SmallVectorImpl.html" title="This class consists of common code factored out of the SmallVector class to reduce code duplication b..." alt="" coords="1780,663,1963,689"/>
+<area shape="rect" id="node24" href="$classllvm_1_1SmallVector.html" title="This is a &#39;vector&#39; (really, a variable&#45;sized array), optimized for the case when the array is small..." alt="" coords="2151,553,2284,594"/>
+<area shape="rect" id="node36" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; NodeT * \&gt;" alt="" coords="2142,618,2293,659"/>
+<area shape="rect" id="node18" href="$structllvm_1_1SmallVectorStorage.html" title="llvm::SmallVectorStorage\l\&lt; BasicBlock *, N \&gt;" alt="" coords="2132,487,2303,529"/>
+<area shape="rect" id="node19" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; BasicBlock *\&gt;" alt="" coords="1347,525,1537,566"/>
+<area shape="rect" id="node20" href="$classchar.html" title="char" alt="" coords="715,447,762,473"/>
+<area shape="rect" id="node21" href="$structllvm_1_1AlignedCharArrayUnion.html" title="A suitably aligned and sized character array member which can hold elements of any type..." alt="" coords="913,482,1104,523"/>
+<area shape="rect" id="node23" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\&lt; T \&gt;" alt="" coords="1331,455,1553,481"/>
+<area shape="rect" id="node39" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; NodeT *\&gt;" alt="" coords="1347,361,1537,402"/>
+<area shape="rect" id="node22" href="$structllvm_1_1SmallVectorStorage.html" title="Storage for the SmallVector elements. " alt="" coords="1786,447,1957,489"/>
+<area shape="rect" id="node38" href="$structllvm_1_1SmallVectorStorage.html" title="llvm::SmallVectorStorage\l\&lt; NodeT *, N \&gt;" alt="" coords="2132,361,2303,402"/>
+<area shape="rect" id="node35" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l NodeT *, IsPostDom\l ? 4 :1 \&gt;" alt="" coords="2547,349,2695,405"/>
+<area shape="rect" id="node25" href="$classbool.html" title="bool" alt="" coords="2597,172,2644,199"/>
+<area shape="rect" id="node26" href="$classdecltype_07std_1_1declval_3_01BasicBlock_01_5_4_07_08_01-_4getParent_07_08_08.html" title="declval\&lt; BasicBlock\l *\&gt;() &#45;\&gt;getParent())" alt="" coords="2906,202,3047,243"/>
+<area shape="rect" id="node27" href="$classllvm_1_1DomTreeNodeBase.html" title="llvm::DomTreeNodeBase\l\&lt; BasicBlock \&gt;" alt="" coords="2892,7,3061,49"/>
+<area shape="rect" id="node28" href="$classllvm_1_1DomTreeNodeBase.html" title="Base class for the actual dominator tree node. " alt="" coords="2536,7,2705,49"/>
+<area shape="rect" id="node30" href="$classDenseMap_3_01BasicBlock_01_5_00_01std_1_1unique__ptr_3_01DomTreeNodeBase_3_01BasicBlock_01_4_01_4_4.html" title="unique_ptr\&lt; DomTreeNodeBase\l\&lt; BasicBlock \&gt; \&gt;\&gt;" alt="" coords="2872,411,3081,453"/>
+</map>

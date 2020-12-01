@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1MachineIRBuilder.html" title="Helper class to build MachineInstr. " alt="" coords="5,31,163,57"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ConstantFoldingMIRBuilder.html" title="An MIRBuilder which does trivial constant folding of binary ops. " alt="" coords="211,5,425,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1CSEMIRBuilder.html" title="Defines a builder that does CSE of MachineInstructions using GISelCSEInfo. " alt="" coords="245,56,391,83"/>
+</map>

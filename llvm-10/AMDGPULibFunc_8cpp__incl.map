@@ -1,0 +1,32 @@
+<map id="lib/Target/AMDGPU/AMDGPULibFunc.cpp" name="lib/Target/AMDGPU/AMDGPULibFunc.cpp">
+<area shape="rect" id="node2" href="$AMDGPU_8h.html" title="AMDGPU.h" alt="" coords="349,244,441,271"/>
+<area shape="rect" id="node27" href="$AMDGPULibFunc_8h.html" title="AMDGPULibFunc.h" alt="" coords="1608,169,1747,196"/>
+<area shape="rect" id="node28" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="1486,319,1645,345"/>
+<area shape="rect" id="node29" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2347,475,2509,502"/>
+<area shape="rect" id="node33" href="$StringSwitch_8h.html" title="llvm/ADT/StringSwitch.h" alt="" coords="3586,319,3753,345"/>
+<area shape="rect" id="node34" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="2729,319,2863,345"/>
+<area shape="rect" id="node43" href="$DerivedTypes_8h.html" title="llvm/IR/DerivedTypes.h" alt="" coords="4075,244,4235,271"/>
+<area shape="rect" id="node47" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="2626,169,2755,196"/>
+<area shape="rect" id="node48" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="2139,95,2261,121"/>
+<area shape="rect" id="node49" href="$ValueSymbolTable_8h.html" title="llvm/IR/ValueSymbolTable.h" alt="" coords="1873,319,2061,345"/>
+<area shape="rect" id="node50" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="997,319,1182,345"/>
+<area shape="rect" id="node3" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="407,319,595,345"/>
+<area shape="rect" id="node4" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1711,393,1857,420"/>
+<area shape="rect" id="node5" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3305,475,3460,502"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="4705,707,4868,733"/>
+<area shape="rect" id="node15" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1633,557,1804,584"/>
+<area shape="rect" id="node6" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="4130,557,4270,584"/>
+<area shape="rect" id="node17" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2347,632,2536,659"/>
+<area shape="rect" id="node9" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="4104,632,4275,659"/>
+<area shape="rect" id="node30" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2082,557,2235,584"/>
+<area shape="rect" id="node31" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3471,557,3649,584"/>
+<area shape="rect" id="node32" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="2513,557,2681,584"/>
+<area shape="rect" id="node35" href="$c_2Types_8h.html" title="llvm&#45;c/Types.h" alt="" coords="2187,393,2295,420"/>
+<area shape="rect" id="node36" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="3860,393,4004,420"/>
+<area shape="rect" id="node37" href="$FoldingSet_8h.html" title="llvm/ADT/FoldingSet.h" alt="" coords="2528,393,2683,420"/>
+<area shape="rect" id="node38" href="$Alignment_8h.html" title="llvm/Support/Alignment.h" alt="" coords="4332,475,4500,502"/>
+<area shape="rect" id="node39" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="2006,468,2170,509"/>
+<area shape="rect" id="node44" href="$Type_8h.html" title="llvm/IR/Type.h" alt="" coords="4190,319,4298,345"/>
+<area shape="rect" id="node45" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="5004,557,5159,584"/>
+<area shape="rect" id="node46" href="$TypeSize_8h.html" title="llvm/Support/TypeSize.h" alt="" coords="4961,393,5127,420"/>
+</map>

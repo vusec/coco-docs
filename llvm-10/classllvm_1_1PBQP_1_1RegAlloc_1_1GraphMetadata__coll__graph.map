@@ -1,0 +1,25 @@
+<map id="llvm::PBQP::RegAlloc::GraphMetadata" name="llvm::PBQP::RegAlloc::GraphMetadata">
+<area shape="rect" id="node2" href="$classllvm_1_1MachineFunction.html" title="llvm::MachineFunction" alt="" coords="2719,282,2872,309"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l VariableDbgInfo, 4 \&gt;" alt="" coords="2419,208,2565,249"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; VariableDbgInfo \&gt;" alt="" coords="2073,99,2223,140"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="1160,5,1339,47"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="llvm::SmallVectorTemplate\lCommon\&lt; T \&gt;" alt="" coords="651,51,830,92"/>
+<area shape="rect" id="node12" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; T \&gt;" alt="" coords="1385,104,1563,145"/>
+<area shape="rect" id="node13" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="937,109,1116,151"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SmallVectorBase.html" title="This is all the non&#45;templated stuff common to all SmallVectors. " alt="" coords="181,69,336,95"/>
+<area shape="rect" id="node10" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="This is the part of SmallVectorTemplateBase which does not depend on whether the type T is a POD..." alt="" coords="385,19,564,60"/>
+<area shape="rect" id="node8" href="$classunsigned.html" title="unsigned" alt="" coords="5,43,80,70"/>
+<area shape="rect" id="node11" href="$classllvm_1_1SmallVectorImpl.html" title="This class consists of common code factored out of the SmallVector class to reduce code duplication b..." alt="" coords="1692,111,1875,138"/>
+<area shape="rect" id="node20" href="$classllvm_1_1SmallVector.html" title="This is a &#39;vector&#39; (really, a variable&#45;sized array), optimized for the case when the array is small..." alt="" coords="2081,169,2215,211"/>
+<area shape="rect" id="node14" href="$structllvm_1_1SmallVectorStorage.html" title="llvm::SmallVectorStorage\l\&lt; VariableDbgInfo, N \&gt;" alt="" coords="2063,235,2233,276"/>
+<area shape="rect" id="node15" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; VariableDbgInfo \&gt;" alt="" coords="1379,255,1569,296"/>
+<area shape="rect" id="node16" href="$classchar.html" title="char" alt="" coords="717,306,764,333"/>
+<area shape="rect" id="node17" href="$structllvm_1_1AlignedCharArrayUnion.html" title="A suitably aligned and sized character array member which can hold elements of any type..." alt="" coords="931,239,1122,280"/>
+<area shape="rect" id="node19" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\&lt; T \&gt;" alt="" coords="1363,193,1585,219"/>
+<area shape="rect" id="node21" href="$classllvm_1_1MachineBlockFrequencyInfo.html" title="MachineBlockFrequencyInfo pass uses BlockFrequencyInfoImpl implementation to estimate machine basic b..." alt="" coords="917,367,1136,394"/>
+<area shape="rect" id="node25" href="$classllvm_1_1LiveIntervals.html" title="llvm::LiveIntervals" alt="" coords="963,423,1091,450"/>
+<area shape="rect" id="node18" href="$structllvm_1_1SmallVectorStorage.html" title="Storage for the SmallVector elements. " alt="" coords="1698,185,1869,227"/>
+<area shape="rect" id="node22" href="$classllvm_1_1MachineFunctionPass.html" title="MachineFunctionPass &#45; This class adapts the FunctionPass interface to allow convenient creation of pa..." alt="" coords="649,446,832,473"/>
+<area shape="rect" id="node23" href="$classllvm_1_1FunctionPass.html" title="FunctionPass class &#45; This class is used to implement most global optimizations. " alt="" coords="407,446,542,473"/>
+<area shape="rect" id="node24" href="$classllvm_1_1Pass.html" title="Pass interface &#45; Implemented by all &#39;passes&#39;. " alt="" coords="217,446,301,473"/>
+</map>

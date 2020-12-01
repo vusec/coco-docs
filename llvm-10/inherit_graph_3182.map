@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1MCInstrInfo.html" title="Interface to description of machine instruction set. " alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node2" href="$classllvm_1_1TargetInstrInfo.html" title="TargetInstrInfo &#45; Interface to description of machine instruction set. " alt="" coords="176,5,315,32"/>
+</map>

@@ -1,0 +1,36 @@
+<map id="lib/Target/Sparc/SparcMachineFunctionInfo.cpp" name="lib/Target/Sparc/SparcMachineFunctionInfo.cpp">
+<area shape="rect" id="node2" href="$SparcMachineFunctionInfo_8h.html" title="SparcMachineFunctionInfo.h" alt="" coords="3527,95,3715,121"/>
+<area shape="rect" id="node3" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="3512,169,3731,196"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2363,483,2507,509"/>
+<area shape="rect" id="node6" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="671,707,860,733"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="901,781,1064,808"/>
+<area shape="rect" id="node15" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1903,557,2065,584"/>
+<area shape="rect" id="node28" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="1299,632,1439,659"/>
+<area shape="rect" id="node29" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="3602,632,3734,659"/>
+<area shape="rect" id="node33" href="$BitVector_8h.html" title="llvm/ADT/BitVector.h" alt="" coords="3127,408,3273,435"/>
+<area shape="rect" id="node34" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2623,333,2777,360"/>
+<area shape="rect" id="node36" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3420,483,3567,509"/>
+<area shape="rect" id="node39" href="$FloatingPointMode_8h.html" title="llvm/ADT/FloatingPointMode.h" alt="" coords="3359,251,3559,278"/>
+<area shape="rect" id="node41" href="$GraphTraits_8h.html" title="llvm/ADT/GraphTraits.h" alt="" coords="5820,333,5980,360"/>
+<area shape="rect" id="node42" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="5228,483,5340,509"/>
+<area shape="rect" id="node43" href="$EHPersonalities_8h.html" title="llvm/Analysis/EHPersonalities.h" alt="" coords="2557,251,2766,278"/>
+<area shape="rect" id="node44" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="5535,244,5726,285"/>
+<area shape="rect" id="node45" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="5200,333,5395,360"/>
+<area shape="rect" id="node46" href="$MachineMemOperand_8h.html" title="llvm/CodeGen/MachineMemOperand.h" alt="" coords="4879,408,5126,435"/>
+<area shape="rect" id="node47" href="$AtomicOrdering_8h.html" title="Atomic ordering constants. " alt="" coords="4903,483,5103,509"/>
+<area shape="rect" id="node48" href="$ArrayRecycler_8h.html" title="llvm/Support/ArrayRecycler.h" alt="" coords="2549,408,2742,435"/>
+<area shape="rect" id="node49" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="2565,483,2726,509"/>
+<area shape="rect" id="node50" href="$Recycler_8h.html" title="llvm/Support/Recycler.h" alt="" coords="3540,408,3703,435"/>
+<area shape="rect" id="node5" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="2829,632,2969,659"/>
+<area shape="rect" id="node14" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="1236,707,1359,733"/>
+<area shape="rect" id="node27" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3412,557,3567,584"/>
+<area shape="rect" id="node8" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1721,707,1892,733"/>
+<area shape="rect" id="node16" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="4371,707,4541,733"/>
+<area shape="rect" id="node18" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1566,632,1719,659"/>
+<area shape="rect" id="node20" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="2170,632,2347,659"/>
+<area shape="rect" id="node22" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="853,632,1021,659"/>
+<area shape="rect" id="node35" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="4415,408,4593,435"/>
+<area shape="rect" id="node37" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="4761,557,4935,584"/>
+<area shape="rect" id="node38" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="1862,408,2069,435"/>
+<area shape="rect" id="node40" href="$StringSwitch_8h.html" title="llvm/ADT/StringSwitch.h" alt="" coords="3349,408,3515,435"/>
+</map>

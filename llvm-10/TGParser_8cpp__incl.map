@@ -1,0 +1,30 @@
+<map id="lib/TableGen/TGParser.cpp" name="lib/TableGen/TGParser.cpp">
+<area shape="rect" id="node2" href="$TGParser_8h.html" title="TGParser.h" alt="" coords="2257,80,2346,107"/>
+<area shape="rect" id="node5" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="144,603,267,629"/>
+<area shape="rect" id="node6" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2656,453,2819,480"/>
+<area shape="rect" id="node11" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2024,677,2187,704"/>
+<area shape="rect" id="node22" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="764,603,953,629"/>
+<area shape="rect" id="node29" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="4813,453,4968,480"/>
+<area shape="rect" id="node40" href="$Record_8h.html" title="llvm/TableGen/Record.h" alt="" coords="3088,229,3251,256"/>
+<area shape="rect" id="node45" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="2775,528,2929,555"/>
+<area shape="rect" id="node46" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="6158,304,6343,331"/>
+<area shape="rect" id="node49" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="4523,229,4687,256"/>
+<area shape="rect" id="node3" href="$TGLexer_8h.html" title="TGLexer.h" alt="" coords="1655,304,1737,331"/>
+<area shape="rect" id="node37" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="2775,304,2902,331"/>
+<area shape="rect" id="node38" href="$Support_2SourceMgr_8h.html" title="llvm/Support/SourceMgr.h" alt="" coords="1991,229,2164,256"/>
+<area shape="rect" id="node39" href="$TableGen_2Error_8h.html" title="llvm/TableGen/Error.h" alt="" coords="2115,155,2264,181"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1911,379,2055,405"/>
+<area shape="rect" id="node36" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="4643,379,4789,405"/>
+<area shape="rect" id="node7" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="4908,603,5079,629"/>
+<area shape="rect" id="node10" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="4069,528,4222,555"/>
+<area shape="rect" id="node15" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3663,528,3841,555"/>
+<area shape="rect" id="node21" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="1281,528,1449,555"/>
+<area shape="rect" id="node25" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="4255,603,4425,629"/>
+<area shape="rect" id="node30" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2559,528,2699,555"/>
+<area shape="rect" id="node31" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="5485,528,5617,555"/>
+<area shape="rect" id="node41" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="3675,453,3829,480"/>
+<area shape="rect" id="node42" href="$DenseSet_8h.html" title="llvm/ADT/DenseSet.h" alt="" coords="3461,379,3611,405"/>
+<area shape="rect" id="node43" href="$FoldingSet_8h.html" title="llvm/ADT/FoldingSet.h" alt="" coords="5881,379,6036,405"/>
+<area shape="rect" id="node44" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="4399,453,4569,480"/>
+<area shape="rect" id="node50" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="4694,304,4853,331"/>
+</map>

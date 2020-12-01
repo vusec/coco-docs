@@ -1,0 +1,7 @@
+<map id="llvm::LoopVectorizationCostModel::RegisterUsage" name="llvm::LoopVectorizationCostModel::RegisterUsage">
+<area shape="rect" id="node2" href="$structllvm_1_1SmallMapVector.html" title="llvm::SmallMapVector\l\&lt; unsigned, unsigned, 4 \&gt;" alt="" coords="1219,77,1392,118"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MapVector.html" title="llvm::MapVector\&lt; unsigned,\l unsigned, SmallDenseMap\l\&lt; unsigned, unsigned, N \&gt;\l, SmallVector\&lt; std::pair\&lt;\l unsigned, unsigned \&gt;, N \&gt; \&gt;" alt="" coords="648,25,840,111"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MapVector.html" title="This class implements a map that also provides access to all stored values in a deterministic order..." alt="" coords="5,86,221,127"/>
+<area shape="rect" id="node6" href="$classllvm_1_1MapVector.html" title="llvm::MapVector\&lt; KeyT,\l ValueT, SmallDenseMap\l\&lt; KeyT, unsigned, N \&gt;,\l SmallVector\&lt; std::pair\l\&lt; KeyT, ValueT \&gt;, N \&gt; \&gt;" alt="" coords="453,103,624,188"/>
+<area shape="rect" id="node5" href="$structllvm_1_1SmallMapVector.html" title="A MapVector that performs no allocations if smaller than a certain size. " alt="" coords="864,115,1015,157"/>
+</map>

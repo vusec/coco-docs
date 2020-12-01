@@ -1,0 +1,4 @@
+<map id="llvm::DbgEntity" name="llvm::DbgEntity">
+<area shape="rect" id="node2" href="$classllvm_1_1DbgLabel.html" title="This class is used to track label information. " alt="" coords="5,80,115,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DbgVariable.html" title="This class is used to track local variable information. " alt="" coords="139,80,264,107"/>
+</map>

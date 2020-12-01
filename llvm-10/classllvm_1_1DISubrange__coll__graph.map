@@ -1,0 +1,6 @@
+<map id="llvm::DISubrange" name="llvm::DISubrange">
+<area shape="rect" id="node2" href="$classllvm_1_1DINode.html" title="Tagged DWARF&#45;like metadata node. " alt="" coords="91,319,189,345"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MDNode.html" title="Metadata node. " alt="" coords="89,215,196,241"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy. " alt="" coords="13,139,121,165"/>
+<area shape="rect" id="node5" href="$classunsigned.html" title="unsigned" alt="" coords="29,5,104,32"/>
+</map>

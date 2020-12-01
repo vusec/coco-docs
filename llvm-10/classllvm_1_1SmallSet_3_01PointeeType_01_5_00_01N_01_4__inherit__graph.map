@@ -1,0 +1,8 @@
+<map id="llvm::SmallSet&lt; PointeeType *, N &gt;" name="llvm::SmallSet&lt; PointeeType *, N &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1SmallPtrSet.html" title="llvm::SmallPtrSet\&lt;\l PointeeType *, N \&gt;" alt="" coords="97,365,236,407"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SmallPtrSetImpl.html" title="llvm::SmallPtrSetImpl\l\&lt; PointeeType * \&gt;" alt="" coords="5,261,155,303"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SmallPtrSetImplBase.html" title="SmallPtrSetImplBase &#45; This is the common code shared among all the SmallPtrSet&lt;&gt;&#39;s, which is almost everything. " alt="" coords="7,81,185,108"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallPtrSetImpl.html" title="A templated base class for SmallPtrSet which provides the typesafe interface that is common across al..." alt="" coords="117,157,267,199"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DebugEpochBase.html" title="A base class for data structure classes wishing to make iterators (&quot;handles&quot;) pointing into themselve..." alt="" coords="17,5,175,32"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SmallPtrSet.html" title="SmallPtrSet &#45; This class implements a set which is optimized for holding SmallSize or less elements..." alt="" coords="179,261,330,303"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="include/llvm/IR/GlobalIndirectSymbol.h" name="include/llvm/IR/GlobalIndirectSymbol.h">
+<area shape="rect" id="node2" href="$GlobalObject_8h.html" title="llvm/IR/GlobalObject.h" alt="" coords="824,95,979,121"/>
+<area shape="rect" id="node26" href="$GlobalValue_8h.html" title="llvm/IR/GlobalValue.h" alt="" coords="2544,169,2693,196"/>
+<area shape="rect" id="node31" href="$User_8h.html" title="llvm/IR/User.h" alt="" coords="4379,319,4485,345"/>
+<area shape="rect" id="node38" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="4291,617,4445,644"/>
+<area shape="rect" id="node39" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="4243,393,4355,420"/>
+<area shape="rect" id="node50" href="$OperandTraits_8h.html" title="llvm/IR/OperandTraits.h" alt="" coords="4362,169,4523,196"/>
+<area shape="rect" id="node3" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="980,468,1127,495"/>
+<area shape="rect" id="node40" href="$Alignment_8h.html" title="llvm/Support/Alignment.h" alt="" coords="3112,543,3280,569"/>
+<area shape="rect" id="node4" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2173,543,2328,569"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3513,767,3676,793"/>
+<area shape="rect" id="node15" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1936,692,2107,719"/>
+<area shape="rect" id="node5" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3113,617,3253,644"/>
+<area shape="rect" id="node14" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1523,617,1655,644"/>
+<area shape="rect" id="node20" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="904,617,1093,644"/>
+<area shape="rect" id="node9" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2925,692,3096,719"/>
+<area shape="rect" id="node27" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="1478,393,1605,420"/>
+<area shape="rect" id="node30" href="$Constant_8h.html" title="llvm/IR/Constant.h" alt="" coords="4006,244,4138,271"/>
+<area shape="rect" id="node42" href="$DerivedTypes_8h.html" title="llvm/IR/DerivedTypes.h" alt="" coords="2792,319,2952,345"/>
+<area shape="rect" id="node47" href="$MD5_8h.html" title="llvm/Support/MD5.h" alt="" coords="1380,319,1519,345"/>
+<area shape="rect" id="node28" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1781,543,1944,569"/>
+<area shape="rect" id="node29" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="2222,617,2399,644"/>
+<area shape="rect" id="node32" href="$Use_8h.html" title="This defines the Use class. " alt="" coords="4507,468,4610,495"/>
+<area shape="rect" id="node33" href="$c_2Types_8h.html" title="llvm&#45;c/Types.h" alt="" coords="4622,617,4730,644"/>
+<area shape="rect" id="node36" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="3304,543,3475,569"/>
+<area shape="rect" id="node37" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="4309,543,4528,569"/>
+<area shape="rect" id="node34" href="$c_2DataTypes_8h.html" title="llvm&#45;c/DataTypes.h" alt="" coords="4645,692,4781,719"/>
+<area shape="rect" id="node35" href="$ExternC_8h.html" title="llvm&#45;c/ExternC.h" alt="" coords="4501,692,4621,719"/>
+<area shape="rect" id="node43" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2336,468,2480,495"/>
+<area shape="rect" id="node45" href="$Type_8h.html" title="llvm/IR/Type.h" alt="" coords="3489,393,3597,420"/>
+<area shape="rect" id="node46" href="$TypeSize_8h.html" title="llvm/Support/TypeSize.h" alt="" coords="3112,468,3277,495"/>
+<area shape="rect" id="node48" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="1142,393,1301,420"/>
+<area shape="rect" id="node49" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="702,543,853,569"/>
+</map>

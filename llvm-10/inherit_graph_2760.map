@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1jitlink_1_1EHFrameRegistrar.html" title="Supports registration/deregistration of EH&#45;frames in a target process. " alt="" coords="5,13,207,39"/>
+<area shape="rect" id="node2" href="$classllvm_1_1jitlink_1_1InProcessEHFrameRegistrar.html" title="Registers / Deregisters EH&#45;frames in the current process. " alt="" coords="255,5,405,47"/>
+</map>

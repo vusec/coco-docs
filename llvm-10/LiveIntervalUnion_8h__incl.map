@@ -1,0 +1,33 @@
+<map id="include/llvm/CodeGen/LiveIntervalUnion.h" name="include/llvm/CodeGen/LiveIntervalUnion.h">
+<area shape="rect" id="node2" href="$IntervalMap_8h.html" title="llvm/ADT/IntervalMap.h" alt="" coords="2772,251,2932,278"/>
+<area shape="rect" id="node14" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3201,587,3364,613"/>
+<area shape="rect" id="node35" href="$LiveInterval_8h.html" title="llvm/CodeGen/LiveInterval.h" alt="" coords="5238,95,5425,121"/>
+<area shape="rect" id="node41" href="$SlotIndexes_8h.html" title="llvm/CodeGen/SlotIndexes.h" alt="" coords="3718,169,3908,196"/>
+<area shape="rect" id="node3" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="692,587,862,613"/>
+<area shape="rect" id="node17" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2156,661,2310,688"/>
+<area shape="rect" id="node28" href="$bit_8h.html" title="llvm/ADT/bit.h" alt="" coords="238,661,345,688"/>
+<area shape="rect" id="node29" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="2844,505,3006,531"/>
+<area shape="rect" id="node32" href="$RecyclingAllocator_8h.html" title="llvm/Support/RecyclingAllocator.h" alt="" coords="2702,333,2921,360"/>
+<area shape="rect" id="node4" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1885,825,2048,852"/>
+<area shape="rect" id="node7" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="87,736,251,777"/>
+<area shape="rect" id="node9" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1066,743,1237,770"/>
+<area shape="rect" id="node15" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="4745,661,4916,688"/>
+<area shape="rect" id="node19" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1383,661,1560,688"/>
+<area shape="rect" id="node22" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="2841,661,3009,688"/>
+<area shape="rect" id="node23" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2506,743,2696,770"/>
+<area shape="rect" id="node30" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="1788,661,1928,688"/>
+<area shape="rect" id="node31" href="$Alignment_8h.html" title="llvm/Support/Alignment.h" alt="" coords="1494,587,1662,613"/>
+<area shape="rect" id="node33" href="$Recycler_8h.html" title="llvm/Support/Recycler.h" alt="" coords="2744,415,2906,442"/>
+<area shape="rect" id="node34" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="3950,661,4062,688"/>
+<area shape="rect" id="node36" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="4060,505,4204,531"/>
+<area shape="rect" id="node37" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="4110,587,4265,613"/>
+<area shape="rect" id="node40" href="$IntEqClasses_8h.html" title="llvm/ADT/IntEqClasses.h" alt="" coords="4485,415,4656,442"/>
+<area shape="rect" id="node45" href="$LaneBitmask_8h.html" title="A common definition of LaneBitmask for use in TableGen and CodeGen. " alt="" coords="5254,587,5417,613"/>
+<area shape="rect" id="node42" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1180,587,1334,613"/>
+<area shape="rect" id="node43" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="4598,497,4788,539"/>
+<area shape="rect" id="node44" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="4580,587,4774,613"/>
+<area shape="rect" id="node46" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="3670,333,3889,360"/>
+<area shape="rect" id="node47" href="$MachineFunctionPass_8h.html" title="llvm/CodeGen/MachineFunction\lPass.h" alt="" coords="3638,244,3846,285"/>
+<area shape="rect" id="node48" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="3556,333,3646,360"/>
+<area shape="rect" id="node49" href="$MachineInstrBundle_8h.html" title="llvm/CodeGen/MachineInstr\lBundle.h" alt="" coords="4730,408,4914,449"/>
+</map>

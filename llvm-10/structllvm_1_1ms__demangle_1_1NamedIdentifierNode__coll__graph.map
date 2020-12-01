@@ -1,0 +1,7 @@
+<map id="llvm::ms_demangle::NamedIdentifierNode" name="llvm::ms_demangle::NamedIdentifierNode">
+<area shape="rect" id="node2" href="$structllvm_1_1ms__demangle_1_1IdentifierNode.html" title="llvm::ms_demangle::\lIdentifierNode" alt="" coords="56,211,199,252"/>
+<area shape="rect" id="node3" href="$structllvm_1_1ms__demangle_1_1Node.html" title="llvm::ms_demangle::Node" alt="" coords="5,5,180,32"/>
+<area shape="rect" id="node4" href="$structllvm_1_1ms__demangle_1_1NodeArrayNode.html" title="llvm::ms_demangle::\lNodeArrayNode" alt="" coords="81,95,224,136"/>
+<area shape="rect" id="node5" href="$classsize__t.html" title="size_t" alt="" coords="228,5,285,32"/>
+<area shape="rect" id="node6" href="$classStringView.html" title="StringView" alt="" coords="238,160,323,187"/>
+</map>

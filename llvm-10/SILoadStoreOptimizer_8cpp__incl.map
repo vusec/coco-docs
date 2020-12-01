@@ -1,0 +1,39 @@
+<map id="lib/Target/AMDGPU/SILoadStoreOptimizer.cpp" name="lib/Target/AMDGPU/SILoadStoreOptimizer.cpp">
+<area shape="rect" id="node2" href="$AMDGPU_8h.html" title="AMDGPU.h" alt="" coords="1122,430,1214,457"/>
+<area shape="rect" id="node4" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="679,676,825,703"/>
+<area shape="rect" id="node9" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="704,594,795,621"/>
+<area shape="rect" id="node12" href="$AMDGPUSubtarget_8h.html" title="AMDGPU specific subclass of TargetSubtarget. " alt="" coords="1666,102,1814,129"/>
+<area shape="rect" id="node19" href="$SIInstrInfo_8h.html" title="Interface definition for SIInstrInfo. " alt="" coords="2710,266,2805,293"/>
+<area shape="rect" id="node20" href="$SIRegisterInfo_8h.html" title="Interface definition for SIRegisterInfo. " alt="" coords="3331,348,3448,375"/>
+<area shape="rect" id="node21" href="$MachineRegisterInfo_8h.html" title="llvm/CodeGen/MachineRegister\lInfo.h" alt="" coords="3135,423,3342,464"/>
+<area shape="rect" id="node22" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2968,594,3112,621"/>
+<area shape="rect" id="node23" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2173,676,2336,703"/>
+<area shape="rect" id="node24" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="819,751,997,777"/>
+<area shape="rect" id="node28" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="3238,587,3429,628"/>
+<area shape="rect" id="node29" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="2360,676,2555,703"/>
+<area shape="rect" id="node30" href="$MachineOperand_8h.html" title="llvm/CodeGen/MachineOperand.h" alt="" coords="3768,751,3987,777"/>
+<area shape="rect" id="node32" href="$DebugLoc_8h.html" title="llvm/IR/DebugLoc.h" alt="" coords="3555,751,3693,777"/>
+<area shape="rect" id="node34" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="2299,512,2517,539"/>
+<area shape="rect" id="node35" href="$AMDGPUBaseInfo_8h.html" title="Utils/AMDGPUBaseInfo.h" alt="" coords="614,348,789,375"/>
+<area shape="rect" id="node36" href="$MachineInstrBuilder_8h.html" title="llvm/CodeGen/MachineInstr\lBuilder.h" alt="" coords="2795,423,2979,464"/>
+<area shape="rect" id="node39" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="1355,594,1541,621"/>
+<area shape="rect" id="node45" href="$AMDGPUMCTargetDesc_8h.html" title="Provides AMDGPU specific target descriptions. " alt="" coords="3483,95,3715,136"/>
+<area shape="rect" id="node47" href="$AliasAnalysis_8h.html" title="llvm/Analysis/AliasAnalysis.h" alt="" coords="1928,512,2123,539"/>
+<area shape="rect" id="node48" href="$MachineFunctionPass_8h.html" title="llvm/CodeGen/MachineFunction\lPass.h" alt="" coords="723,423,931,464"/>
+<area shape="rect" id="node49" href="$InitializePasses_8h.html" title="llvm/InitializePasses.h" alt="" coords="4163,102,4317,129"/>
+<area shape="rect" id="node50" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="4341,102,4489,129"/>
+<area shape="rect" id="node3" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="755,512,943,539"/>
+<area shape="rect" id="node8" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="870,594,994,621"/>
+<area shape="rect" id="node13" href="$AMDGPUCallLowering_8h.html" title="This file describes how to lower LLVM calls to machine code calls. " alt="" coords="1367,266,1534,293"/>
+<area shape="rect" id="node14" href="$R600FrameLowering_8h.html" title="R600FrameLowering.h" alt="" coords="1721,184,1874,211"/>
+<area shape="rect" id="node15" href="$R600ISelLowering_8h.html" title="R600 DAG Lowering interface definition. " alt="" coords="1899,184,2037,211"/>
+<area shape="rect" id="node16" href="$R600InstrInfo_8h.html" title="Interface definition for R600InstrInfo. " alt="" coords="2061,184,2173,211"/>
+<area shape="rect" id="node17" href="$SIFrameLowering_8h.html" title="SIFrameLowering.h" alt="" coords="1358,184,1493,211"/>
+<area shape="rect" id="node18" href="$SIISelLowering_8h.html" title="SI DAG Lowering interface definition. " alt="" coords="2603,184,2725,211"/>
+<area shape="rect" id="node37" href="$InstructionSelector_8h.html" title="llvm/CodeGen/GlobalISel\l/InstructionSelector.h" alt="" coords="1718,587,1887,628"/>
+<area shape="rect" id="node38" href="$LegalizerInfo_8h.html" title="llvm/CodeGen/GlobalISel\l/LegalizerInfo.h" alt="" coords="1755,423,1925,464"/>
+<area shape="rect" id="node40" href="$RegisterBankInfo_8h.html" title="llvm/CodeGen/GlobalISel\l/RegisterBankInfo.h" alt="" coords="2622,587,2791,628"/>
+<area shape="rect" id="node41" href="$SelectionDAGTargetInfo_8h.html" title="llvm/CodeGen/SelectionDAGTarget\lInfo.h" alt="" coords="800,259,1029,300"/>
+<area shape="rect" id="node42" href="$MCInstrItineraries_8h.html" title="llvm/MC/MCInstrItineraries.h" alt="" coords="195,348,386,375"/>
+<area shape="rect" id="node31" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="3790,825,3965,852"/>
+</map>

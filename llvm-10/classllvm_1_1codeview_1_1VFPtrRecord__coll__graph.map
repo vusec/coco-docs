@@ -1,0 +1,5 @@
+<map id="llvm::codeview::VFPtrRecord" name="llvm::codeview::VFPtrRecord">
+<area shape="rect" id="node2" href="$classllvm_1_1codeview_1_1TypeRecord.html" title="llvm::codeview::TypeRecord" alt="" coords="5,139,193,165"/>
+<area shape="rect" id="node4" href="$classllvm_1_1codeview_1_1TypeIndex.html" title="A 32&#45;bit type reference. " alt="" coords="218,139,397,165"/>
+<area shape="rect" id="node5" href="$classuint32__t.html" title="uint32_t" alt="" coords="273,5,341,32"/>
+</map>

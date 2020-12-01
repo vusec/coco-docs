@@ -1,0 +1,4 @@
+<map id="llvm::codeview::CVRecord&lt; Kind &gt;" name="llvm::codeview::CVRecord&lt; Kind &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; uint8_t \&gt;" alt="" coords="10,95,179,121"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ArrayRef.html" title="ArrayRef &#45; Represent a constant reference to an array (0 or more elements consecutively in memory)..." alt="" coords="25,5,164,32"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="include/llvm/ObjectYAML/MachOYAML.h" name="include/llvm/ObjectYAML/MachOYAML.h">
+<area shape="rect" id="node2" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="4083,468,4229,495"/>
+<area shape="rect" id="node26" href="$BinaryFormat_2MachO_8h.html" title="llvm/BinaryFormat/MachO.h" alt="" coords="801,244,986,271"/>
+<area shape="rect" id="node34" href="$DWARFYAML_8h.html" title="This file declares classes for handling the YAML representation of DWARF Debug Info. " alt="" coords="2055,95,2281,121"/>
+<area shape="rect" id="node37" href="$YAMLTraits_8h.html" title="llvm/Support/YAMLTraits.h" alt="" coords="3776,169,3955,196"/>
+<area shape="rect" id="node50" href="$YAML_8h.html" title="llvm/ObjectYAML/YAML.h" alt="" coords="3778,95,3953,121"/>
+<area shape="rect" id="node3" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3544,543,3699,569"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2764,692,2927,719"/>
+<area shape="rect" id="node11" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="2343,692,2513,719"/>
+<area shape="rect" id="node4" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3238,617,3378,644"/>
+<area shape="rect" id="node10" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="2603,617,2735,644"/>
+<area shape="rect" id="node17" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1443,617,1632,644"/>
+<area shape="rect" id="node27" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="811,319,986,345"/>
+<area shape="rect" id="node28" href="$Host_8h.html" title="llvm/Support/Host.h" alt="" coords="1635,319,1773,345"/>
+<area shape="rect" id="node29" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="1887,393,2038,420"/>
+<area shape="rect" id="node30" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="2845,468,3006,495"/>
+<area shape="rect" id="node31" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3108,543,3271,569"/>
+<area shape="rect" id="node32" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="5419,617,5573,644"/>
+<area shape="rect" id="node35" href="$Dwarf_8h.html" title="This file contains constants used for implementing Dwarf debug support. " alt="" coords="1224,244,1403,271"/>
+<area shape="rect" id="node38" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="3903,319,4067,345"/>
+<area shape="rect" id="node41" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="3738,393,3865,420"/>
+<area shape="rect" id="node42" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="5383,244,5534,271"/>
+<area shape="rect" id="node43" href="$Regex_8h.html" title="llvm/Support/Regex.h" alt="" coords="275,543,423,569"/>
+<area shape="rect" id="node44" href="$Support_2SourceMgr_8h.html" title="llvm/Support/SourceMgr.h" alt="" coords="3212,319,3385,345"/>
+<area shape="rect" id="node45" href="$YAMLParser_8h.html" title="llvm/Support/YAMLParser.h" alt="" coords="4193,393,4377,420"/>
+<area shape="rect" id="node48" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="4777,393,4962,420"/>
+<area shape="rect" id="node39" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="3227,468,3371,495"/>
+</map>

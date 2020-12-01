@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1DominatorTreeBase.html" title="Core dominator tree base class. " alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node2" href="$classllvm_1_1PostDominatorTree.html" title="PostDominatorTree Class &#45; Concrete subclass of DominatorTree that is used to compute the post&#45;dominat..." alt="" coords="224,13,391,39"/>
+</map>

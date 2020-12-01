@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; EmitIndirectStubs, std\l::tuple\&lt; JITTargetAddress,\l JITTargetAddress, uint32\l_t \&gt;(ResourceIdMgr::ResourceId\l StubsOwnerID, uint32_t NumStubsRequired)\&gt;" alt="" coords="5,5,301,105"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1remote_1_1stubs_1_1EmitIndirectStubs.html" title="EmitIndirectStubs result is (StubsBase, PtrsBase, NumStubsEmitted). " alt="" coords="349,35,516,76"/>
+</map>

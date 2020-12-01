@@ -1,0 +1,46 @@
+<map id="lib/DebugInfo/PDB/Native/NativeEnumGlobals.cpp" name="lib/DebugInfo/PDB/Native/NativeEnumGlobals.cpp">
+<area shape="rect" id="node2" href="$NativeEnumGlobals_8h.html" title="llvm/DebugInfo/PDB\l/Native/NativeEnumGlobals.h" alt="" coords="1020,273,1215,315"/>
+<area shape="rect" id="node23" href="$IPDBEnumChildren_8h.html" title="llvm/DebugInfo/PDB\l/IPDBEnumChildren.h" alt="" coords="337,809,487,851"/>
+<area shape="rect" id="node24" href="$PDBSymbol_8h.html" title="llvm/DebugInfo/PDB\l/PDBSymbol.h" alt="" coords="459,541,602,583"/>
+<area shape="rect" id="node31" href="$SymbolDeserializer_8h.html" title="llvm/DebugInfo/CodeView\l/SymbolDeserializer.h" alt="" coords="4130,95,4305,136"/>
+<area shape="rect" id="node37" href="$GlobalsStream_8h.html" title="llvm/DebugInfo/PDB\l/Native/GlobalsStream.h" alt="" coords="2361,273,2527,315"/>
+<area shape="rect" id="node44" href="$NativeSession_8h.html" title="llvm/DebugInfo/PDB\l/Native/NativeSession.h" alt="" coords="1351,363,1515,404"/>
+<area shape="rect" id="node48" href="$PDBFile_8h.html" title="llvm/DebugInfo/PDB\l/Native/PDBFile.h" alt="" coords="1927,631,2070,672"/>
+<area shape="rect" id="node50" href="$SymbolStream_8h.html" title="llvm/DebugInfo/PDB\l/Native/SymbolStream.h" alt="" coords="3619,273,3784,315"/>
+<area shape="rect" id="node3" href="$SymbolRecord_8h.html" title="llvm/DebugInfo/CodeView\l/SymbolRecord.h" alt="" coords="3614,363,3789,404"/>
+<area shape="rect" id="node4" href="$APSInt_8h.html" title="llvm/ADT/APSInt.h" alt="" coords="3715,459,3850,486"/>
+<area shape="rect" id="node5" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="3308,817,3452,843"/>
+<area shape="rect" id="node7" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3055,973,3195,1000"/>
+<area shape="rect" id="node10" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="4809,973,4941,1000"/>
+<area shape="rect" id="node11" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="4737,1048,4908,1075"/>
+<area shape="rect" id="node14" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="4141,817,4288,843"/>
+<area shape="rect" id="node15" href="$CVRecord_8h.html" title="llvm/DebugInfo/CodeView\l/CVRecord.h" alt="" coords="3183,452,3358,493"/>
+<area shape="rect" id="node16" href="$TypeIndex_8h.html" title="llvm/DebugInfo/CodeView\l/TypeIndex.h" alt="" coords="2491,541,2666,583"/>
+<area shape="rect" id="node17" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="2385,899,2535,925"/>
+<area shape="rect" id="node19" href="$BinaryStreamArray_8h.html" title="llvm/Support/BinaryStream\lArray.h" alt="" coords="3723,631,3901,672"/>
+<area shape="rect" id="node22" href="$CodeView_8h.html" title="llvm/DebugInfo/CodeView\l/CodeView.h" alt="" coords="1457,809,1631,851"/>
+<area shape="rect" id="node6" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3861,899,4016,925"/>
+<area shape="rect" id="node18" href="$BinaryStreamReader_8h.html" title="llvm/Support/BinaryStream\lReader.h" alt="" coords="3409,541,3588,583"/>
+<area shape="rect" id="node20" href="$BinaryStreamRef_8h.html" title="llvm/Support/BinaryStream\lRef.h" alt="" coords="3308,720,3487,761"/>
+<area shape="rect" id="node21" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="3541,817,3680,843"/>
+<area shape="rect" id="node25" href="$ConcreteSymbolEnumerator_8h.html" title="ConcreteSymbolEnumerator.h" alt="" coords="245,638,443,665"/>
+<area shape="rect" id="node26" href="$PDBTypes_8h.html" title="llvm/DebugInfo/PDB\l/PDBTypes.h" alt="" coords="577,720,719,761"/>
+<area shape="rect" id="node28" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="195,727,349,754"/>
+<area shape="rect" id="node29" href="$IPDBRawSymbol_8h.html" title="IPDBRawSymbol.h" alt="" coords="792,638,928,665"/>
+<area shape="rect" id="node30" href="$PDBExtras_8h.html" title="PDBExtras.h" alt="" coords="568,638,667,665"/>
+<area shape="rect" id="node27" href="$RawTypes_8h.html" title="llvm/DebugInfo/PDB\l/Native/RawTypes.h" alt="" coords="1290,809,1433,851"/>
+<area shape="rect" id="node32" href="$SymbolRecordMapping_8h.html" title="llvm/DebugInfo/CodeView\l/SymbolRecordMapping.h" alt="" coords="4331,184,4506,225"/>
+<area shape="rect" id="node33" href="$SymbolVisitorCallbacks_8h.html" title="llvm/DebugInfo/CodeView\l/SymbolVisitorCallbacks.h" alt="" coords="4280,273,4456,315"/>
+<area shape="rect" id="node35" href="$SymbolVisitorDelegate_8h.html" title="llvm/DebugInfo/CodeView\l/SymbolVisitorDelegate.h" alt="" coords="4511,720,4686,761"/>
+<area shape="rect" id="node36" href="$BinaryByteStream_8h.html" title="llvm/Support/BinaryByteStream.h" alt="" coords="4169,727,4385,754"/>
+<area shape="rect" id="node38" href="$MappedBlockStream_8h.html" title="llvm/DebugInfo/MSF\l/MappedBlockStream.h" alt="" coords="2365,631,2523,672"/>
+<area shape="rect" id="node43" href="$RawConstants_8h.html" title="llvm/DebugInfo/PDB\l/Native/RawConstants.h" alt="" coords="1718,720,1885,761"/>
+<area shape="rect" id="node39" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1251,727,1405,754"/>
+<area shape="rect" id="node41" href="$MSFCommon_8h.html" title="llvm/DebugInfo/MSF\l/MSFCommon.h" alt="" coords="2113,720,2255,761"/>
+<area shape="rect" id="node42" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="1430,727,1591,754"/>
+<area shape="rect" id="node40" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1758,817,1935,843"/>
+<area shape="rect" id="node45" href="$IPDBSession_8h.html" title="llvm/DebugInfo/PDB\l/IPDBSession.h" alt="" coords="570,452,713,493"/>
+<area shape="rect" id="node46" href="$NativeRawSymbol_8h.html" title="llvm/DebugInfo/PDB\l/Native/NativeRawSymbol.h" alt="" coords="841,541,1029,583"/>
+<area shape="rect" id="node47" href="$SymbolCache_8h.html" title="llvm/DebugInfo/PDB\l/Native/SymbolCache.h" alt="" coords="1210,452,1371,493"/>
+<area shape="rect" id="node49" href="$IMSFFile_8h.html" title="llvm/DebugInfo/MSF\l/IMSFFile.h" alt="" coords="2279,720,2422,761"/>
+</map>

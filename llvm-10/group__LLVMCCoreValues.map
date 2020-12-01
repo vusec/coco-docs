@@ -1,0 +1,7 @@
+<map id="Values" name="Values">
+<area shape="rect" id="node2" href="$group__LLVMCCoreValueConstant.html" title="This section contains APIs for interacting with LLVMValueRef that correspond to llvm::Constant instan..." alt="" coords="223,5,306,32"/>
+<area shape="rect" id="node3" href="$group__LLVMCCoreValueGeneral.html" title="Functions in this section work on all LLVMValueRef instances, regardless of their sub&#45;type..." alt="" coords="215,56,315,83"/>
+<area shape="rect" id="node4" href="$group__LLVMCCoreValueUser.html" title="Function in this group pertain to LLVMValueRef instances that descent from llvm::User. " alt="" coords="222,107,307,133"/>
+<area shape="rect" id="node5" href="$group__LLVMCCoreValueUses.html" title="This module defines functions that allow you to inspect the uses of a LLVMValueRef. " alt="" coords="235,157,295,184"/>
+<area shape="rect" id="node6" href="$group__LLVMCCore.html" title="This modules provide an interface to libLLVMCore, which implements the LLVM intermediate representati..." alt="" coords="5,81,56,108"/>
+</map>

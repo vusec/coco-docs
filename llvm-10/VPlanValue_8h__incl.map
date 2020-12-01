@@ -1,0 +1,31 @@
+<map id="lib/Transforms/Vectorize/VPlanValue.h" name="lib/Transforms/Vectorize/VPlanValue.h">
+<area shape="rect" id="node2" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1791,95,1945,121"/>
+<area shape="rect" id="node19" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2453,333,2616,360"/>
+<area shape="rect" id="node39" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="607,169,719,196"/>
+<area shape="rect" id="node48" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="4151,95,4299,121"/>
+<area shape="rect" id="node49" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="4111,251,4297,278"/>
+<area shape="rect" id="node3" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="2671,169,2849,196"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="671,557,833,584"/>
+<area shape="rect" id="node14" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1860,483,2031,509"/>
+<area shape="rect" id="node22" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2119,408,2273,435"/>
+<area shape="rect" id="node23" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1815,408,1993,435"/>
+<area shape="rect" id="node37" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="4303,408,4476,435"/>
+<area shape="rect" id="node38" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="1906,169,2113,196"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2633,251,2777,278"/>
+<area shape="rect" id="node5" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="2743,408,2883,435"/>
+<area shape="rect" id="node34" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3432,333,3579,360"/>
+<area shape="rect" id="node35" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="1906,244,2070,285"/>
+<area shape="rect" id="node36" href="$TypeSize_8h.html" title="llvm/Support/TypeSize.h" alt="" coords="1119,333,1284,360"/>
+<area shape="rect" id="node31" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3313,408,3468,435"/>
+<area shape="rect" id="node6" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2833,483,3023,509"/>
+<area shape="rect" id="node11" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="2156,483,2359,509"/>
+<area shape="rect" id="node20" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3097,483,3268,509"/>
+<area shape="rect" id="node26" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="2399,408,2567,435"/>
+<area shape="rect" id="node40" href="$c_2Types_8h.html" title="llvm&#45;c/Types.h" alt="" coords="202,408,310,435"/>
+<area shape="rect" id="node43" href="$Use_8h.html" title="This defines the Use class. " alt="" coords="298,251,401,278"/>
+<area shape="rect" id="node44" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="449,333,668,360"/>
+<area shape="rect" id="node45" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="977,408,1132,435"/>
+<area shape="rect" id="node46" href="$Alignment_8h.html" title="llvm/Support/Alignment.h" alt="" coords="1359,333,1527,360"/>
+<area shape="rect" id="node41" href="$c_2DataTypes_8h.html" title="llvm&#45;c/DataTypes.h" alt="" coords="188,483,324,509"/>
+<area shape="rect" id="node42" href="$ExternC_8h.html" title="llvm&#45;c/ExternC.h" alt="" coords="44,483,164,509"/>
+</map>

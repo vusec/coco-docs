@@ -1,0 +1,3 @@
+<map id="llvm::SelectionDAG::DAGNodeDeletedListener" name="llvm::SelectionDAG::DAGNodeDeletedListener">
+<area shape="rect" id="node2" href="$structllvm_1_1SelectionDAG_1_1DAGUpdateListener.html" title="Clients of various APIs that cause global effects on the DAG can optionally implement this interface..." alt="" coords="23,5,169,47"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="include/llvm/Object/Wasm.h" name="include/llvm/Object/Wasm.h">
+<area shape="rect" id="node2" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2952,625,3096,651"/>
+<area shape="rect" id="node27" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="1370,543,1521,569"/>
+<area shape="rect" id="node28" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3475,625,3621,651"/>
+<area shape="rect" id="node31" href="$BinaryFormat_2Wasm_8h.html" title="llvm/BinaryFormat/Wasm.h" alt="" coords="1935,543,2116,569"/>
+<area shape="rect" id="node33" href="$MCSymbolWasm_8h.html" title="llvm/MC/MCSymbolWasm.h" alt="" coords="1056,393,1245,420"/>
+<area shape="rect" id="node35" href="$Binary_8h.html" title="llvm/Object/Binary.h" alt="" coords="2914,244,3054,271"/>
+<area shape="rect" id="node39" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="2580,468,2719,495"/>
+<area shape="rect" id="node43" href="$MemoryBuffer_8h.html" title="llvm/Support/MemoryBuffer.h" alt="" coords="3312,319,3504,345"/>
+<area shape="rect" id="node45" href="$ObjectFile_8h.html" title="llvm/Object/ObjectFile.h" alt="" coords="2921,95,3084,121"/>
+<area shape="rect" id="node3" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="3646,707,3786,733"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2003,856,2165,883"/>
+<area shape="rect" id="node12" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="2941,707,3064,733"/>
+<area shape="rect" id="node13" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2069,707,2232,733"/>
+<area shape="rect" id="node21" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2459,707,2613,733"/>
+<area shape="rect" id="node4" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2777,781,2967,808"/>
+<area shape="rect" id="node14" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1585,856,1756,883"/>
+<area shape="rect" id="node22" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="2469,781,2601,808"/>
+<area shape="rect" id="node29" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="1659,625,1821,651"/>
+<area shape="rect" id="node30" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="3747,617,3911,659"/>
+<area shape="rect" id="node34" href="$MCSymbol_8h.html" title="llvm/MC/MCSymbol.h" alt="" coords="2253,468,2403,495"/>
+<area shape="rect" id="node36" href="$c_2Types_8h.html" title="llvm&#45;c/Types.h" alt="" coords="3289,393,3397,420"/>
+<area shape="rect" id="node37" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="2771,319,2895,345"/>
+<area shape="rect" id="node38" href="$Object_2Error_8h.html" title="llvm/Object/Error.h" alt="" coords="2041,319,2172,345"/>
+<area shape="rect" id="node40" href="$c_2Error_8h.html" title="llvm&#45;c/Error.h" alt="" coords="2670,543,2770,569"/>
+<area shape="rect" id="node41" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="3081,543,3245,569"/>
+<area shape="rect" id="node44" href="$FileSystem_8h.html" title="llvm/Support/FileSystem.h" alt="" coords="3037,393,3213,420"/>
+<area shape="rect" id="node46" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="3777,543,3954,569"/>
+<area shape="rect" id="node47" href="$Magic_8h.html" title="llvm/BinaryFormat/Magic.h" alt="" coords="1461,244,1640,271"/>
+<area shape="rect" id="node48" href="$SubtargetFeature_8h.html" title="llvm/MC/SubtargetFeature.h" alt="" coords="3979,543,4165,569"/>
+<area shape="rect" id="node49" href="$SymbolicFile_8h.html" title="llvm/Object/SymbolicFile.h" alt="" coords="2617,169,2796,196"/>
+<area shape="rect" id="node50" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="4728,707,4883,733"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvm::ms_demangle::FunctionSignatureNode" name="llvm::ms_demangle::FunctionSignatureNode">
+<area shape="rect" id="node2" href="$structllvm_1_1ms__demangle_1_1TypeNode.html" title="llvm::ms_demangle::\lTypeNode" alt="" coords="271,121,413,162"/>
+<area shape="rect" id="node3" href="$structllvm_1_1ms__demangle_1_1Node.html" title="llvm::ms_demangle::Node" alt="" coords="5,95,180,121"/>
+<area shape="rect" id="node5" href="$structllvm_1_1ms__demangle_1_1NodeArrayNode.html" title="llvm::ms_demangle::\lNodeArrayNode" alt="" coords="271,46,413,87"/>
+<area shape="rect" id="node6" href="$classsize__t.html" title="size_t" alt="" coords="64,5,121,32"/>
+<area shape="rect" id="node9" href="$classbool.html" title="bool" alt="" coords="319,289,365,316"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="llvm::Init" name="llvm::Init">
+<area shape="rect" id="node2" href="$classllvm_1_1TypedInit.html" title="This is the common super&#45;class of types that have a specific, explicit, type. " alt="" coords="125,411,233,437"/>
+<area shape="rect" id="node23" href="$classllvm_1_1UnsetInit.html" title="&#39;?&#39; &#45; Represents an uninitialized value " alt="" coords="126,461,233,488"/>
+<area shape="rect" id="node3" href="$classllvm_1_1BitInit.html" title="&#39;true&#39;/&#39;false&#39; &#45; Represent a concrete initializer for a bit. " alt="" coords="318,5,406,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1BitsInit.html" title="&#39;{ a, b, c }&#39; &#45; Represents an initializer for a BitsRecTy value. " alt="" coords="315,56,409,83"/>
+<area shape="rect" id="node5" href="$classllvm_1_1CodeInit.html" title="llvm::CodeInit" alt="" coords="311,107,413,133"/>
+<area shape="rect" id="node6" href="$classllvm_1_1CondOpInit.html" title="!cond(condition_1: value1, ... " alt="" coords="302,157,422,184"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DagInit.html" title="(v a, b) &#45; Represent a DAG tree value. " alt="" coords="314,208,410,235"/>
+<area shape="rect" id="node8" href="$classllvm_1_1DefInit.html" title="AL &#45; Represent a reference to a &#39;def&#39; in the description. " alt="" coords="315,259,409,285"/>
+<area shape="rect" id="node9" href="$classllvm_1_1FieldInit.html" title="X.Y &#45; Represent a reference to a subfield of a variable. " alt="" coords="312,309,412,336"/>
+<area shape="rect" id="node10" href="$classllvm_1_1FoldOpInit.html" title="!foldl (a, b, expr, start, lst) &#45; Fold over a list. " alt="" coords="305,360,419,387"/>
+<area shape="rect" id="node11" href="$classllvm_1_1IntInit.html" title="&#39;7&#39; &#45; Represent an initialization by a literal integer value. " alt="" coords="319,411,405,437"/>
+<area shape="rect" id="node12" href="$classllvm_1_1IsAOpInit.html" title="!isa&lt;type&gt;(expr) &#45; Dynamically determine the type of an expression. " alt="" coords="307,461,417,488"/>
+<area shape="rect" id="node13" href="$classllvm_1_1ListInit.html" title="[AL, AH, CL] &#45; Represent a list of defs " alt="" coords="315,512,409,539"/>
+<area shape="rect" id="node14" href="$classllvm_1_1OpInit.html" title="Base class for operators. " alt="" coords="317,563,407,589"/>
+<area shape="rect" id="node18" href="$classllvm_1_1StringInit.html" title="&quot;foo&quot; &#45; Represent an initialization by a string value. " alt="" coords="309,613,415,640"/>
+<area shape="rect" id="node19" href="$classllvm_1_1VarBitInit.html" title="Opcode{0} &#45; Represent access to one bit of a variable or field. " alt="" coords="308,664,416,691"/>
+<area shape="rect" id="node20" href="$classllvm_1_1VarDefInit.html" title="classname&lt;targs...&gt; &#45; Represent an uninstantiated anonymous class instantiation. " alt="" coords="305,715,419,741"/>
+<area shape="rect" id="node21" href="$classllvm_1_1VarInit.html" title="&#39;Opcode&#39; &#45; Represent a reference to an entire variable object. " alt="" coords="316,765,408,792"/>
+<area shape="rect" id="node22" href="$classllvm_1_1VarListElementInit.html" title="List[4] &#45; Represent access to one element of a var or field. " alt="" coords="281,816,443,843"/>
+<area shape="rect" id="node15" href="$classllvm_1_1BinOpInit.html" title="!op (X, Y) &#45; Combine two inits. " alt="" coords="494,512,602,539"/>
+<area shape="rect" id="node16" href="$classllvm_1_1TernOpInit.html" title="!op (X, Y, Z) &#45; Combine two inits. " alt="" coords="491,563,605,589"/>
+<area shape="rect" id="node17" href="$classllvm_1_1UnOpInit.html" title="!op (X) &#45; Transform an init. " alt="" coords="495,613,601,640"/>
+</map>

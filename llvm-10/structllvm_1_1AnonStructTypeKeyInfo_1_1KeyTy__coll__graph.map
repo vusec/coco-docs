@@ -1,0 +1,5 @@
+<map id="llvm::AnonStructTypeKeyInfo::KeyTy" name="llvm::AnonStructTypeKeyInfo::KeyTy">
+<area shape="rect" id="node2" href="$classbool.html" title="bool" alt="" coords="27,102,73,129"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; llvm\l::Type *\&gt;" alt="" coords="97,95,240,136"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ArrayRef.html" title="ArrayRef &#45; Represent a constant reference to an array (0 or more elements consecutively in memory)..." alt="" coords="99,5,238,32"/>
+</map>

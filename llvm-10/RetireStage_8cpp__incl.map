@@ -1,0 +1,36 @@
+<map id="lib/MCA/Stages/RetireStage.cpp" name="lib/MCA/Stages/RetireStage.cpp">
+<area shape="rect" id="node2" href="$RetireStage_8h.html" title="This file defines the retire stage of a default instruction pipeline. " alt="" coords="1227,80,1436,107"/>
+<area shape="rect" id="node45" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="3888,557,4036,584"/>
+<area shape="rect" id="node48" href="$HWEventListener_8h.html" title="This file defines the main interface for hardware event listeners. " alt="" coords="830,237,1028,263"/>
+<area shape="rect" id="node3" href="$LSUnit_8h.html" title="A Load/Store unit class that models load/store queues and that implements a simple weak memory consis..." alt="" coords="1312,229,1482,271"/>
+<area shape="rect" id="node40" href="$RegisterFile_8h.html" title="This file defines a register mapping file class. " alt="" coords="1521,229,1692,271"/>
+<area shape="rect" id="node46" href="$RetireControlUnit_8h.html" title="This file simulates the hardware responsible for retiring instructions. " alt="" coords="1053,229,1224,271"/>
+<area shape="rect" id="node47" href="$Stage_8h.html" title="This file defines a stage. " alt="" coords="1182,155,1356,181"/>
+<area shape="rect" id="node4" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2944,408,3098,435"/>
+<area shape="rect" id="node18" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1510,632,1673,659"/>
+<area shape="rect" id="node35" href="$MCSchedule_8h.html" title="llvm/MC/MCSchedule.h" alt="" coords="755,483,916,509"/>
+<area shape="rect" id="node36" href="$HardwareUnit_8h.html" title="This file defines a base class for describing a simulated hardware unit. " alt="" coords="1312,319,1482,360"/>
+<area shape="rect" id="node37" href="$MCA_2Instruction_8h.html" title="This file defines abstractions used by the Pipeline to model register reads, register writes and inst..." alt="" coords="1080,326,1236,353"/>
+<area shape="rect" id="node5" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="3192,483,3370,509"/>
+<area shape="rect" id="node9" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2217,856,2380,883"/>
+<area shape="rect" id="node11" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2572,781,2742,808"/>
+<area shape="rect" id="node21" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2163,707,2316,733"/>
+<area shape="rect" id="node23" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3838,707,4015,733"/>
+<area shape="rect" id="node33" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="2560,483,2733,509"/>
+<area shape="rect" id="node34" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="2758,483,2964,509"/>
+<area shape="rect" id="node6" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="753,557,897,584"/>
+<area shape="rect" id="node7" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="3064,707,3204,733"/>
+<area shape="rect" id="node17" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="1449,781,1572,808"/>
+<area shape="rect" id="node29" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1066,632,1221,659"/>
+<area shape="rect" id="node8" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1918,781,2108,808"/>
+<area shape="rect" id="node19" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1866,707,2037,733"/>
+<area shape="rect" id="node24" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="1573,707,1741,733"/>
+<area shape="rect" id="node30" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2392,707,2532,733"/>
+<area shape="rect" id="node38" href="$MCRegister_8h.html" title="llvm/MC/MCRegister.h" alt="" coords="3198,408,3354,435"/>
+<area shape="rect" id="node39" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="1499,557,1684,584"/>
+<area shape="rect" id="node41" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="4093,632,4218,659"/>
+<area shape="rect" id="node42" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="3065,326,3244,353"/>
+<area shape="rect" id="node43" href="$MCSubtargetInfo_8h.html" title="llvm/MC/MCSubtargetInfo.h" alt="" coords="1398,408,1583,435"/>
+<area shape="rect" id="node44" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="1704,483,1842,509"/>
+<area shape="rect" id="node49" href="$MCA_2Support_8h.html" title="Helper functions used by various pipeline components. " alt="" coords="979,408,1119,435"/>
+</map>

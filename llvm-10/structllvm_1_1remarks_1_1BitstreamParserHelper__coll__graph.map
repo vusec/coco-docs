@@ -1,0 +1,6 @@
+<map id="llvm::remarks::BitstreamParserHelper" name="llvm::remarks::BitstreamParserHelper">
+<area shape="rect" id="node2" href="$classllvm_1_1BitstreamBlockInfo.html" title="This class maintains the abbreviations read from a block info block. " alt="" coords="5,171,171,197"/>
+<area shape="rect" id="node3" href="$classllvm_1_1BitstreamCursor.html" title="This represents a position within a bitcode file, implemented on top of a SimpleBitstreamCursor. " alt="" coords="195,171,344,197"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SimpleBitstreamCursor.html" title="This represents a position within a bitstream. " alt="" coords="325,95,515,121"/>
+<area shape="rect" id="node5" href="$classsize__t.html" title="size_t" alt="" coords="201,5,258,32"/>
+</map>

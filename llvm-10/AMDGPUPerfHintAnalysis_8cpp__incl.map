@@ -1,0 +1,37 @@
+<map id="lib/Target/AMDGPU/AMDGPUPerfHintAnalysis.cpp" name="lib/Target/AMDGPU/AMDGPUPerfHintAnalysis.cpp">
+<area shape="rect" id="node2" href="$AMDGPU_8h.html" title="AMDGPU.h" alt="" coords="1190,169,1282,196"/>
+<area shape="rect" id="node20" href="$AMDGPUPerfHintAnalysis_8h.html" title="Analyzes if a function potentially memory bound and if a kernel kernel may benefit from limiting numb..." alt="" coords="3509,169,3699,196"/>
+<area shape="rect" id="node23" href="$ValueMap_8h.html" title="llvm/IR/ValueMap.h" alt="" coords="2299,408,2437,435"/>
+<area shape="rect" id="node25" href="$AMDGPUBaseInfo_8h.html" title="Utils/AMDGPUBaseInfo.h" alt="" coords="1971,95,2146,121"/>
+<area shape="rect" id="node33" href="$SmallSet_8h.html" title="llvm/ADT/SmallSet.h" alt="" coords="1345,408,1490,435"/>
+<area shape="rect" id="node38" href="$Statistic_8h.html" title="llvm/ADT/Statistic.h" alt="" coords="14,326,154,353"/>
+<area shape="rect" id="node40" href="$CallGraph_8h.html" title="This file provides interfaces used to build and manipulate a call graph, which is a very useful tool ..." alt="" coords="3269,244,3443,271"/>
+<area shape="rect" id="node42" href="$ValueTracking_8h.html" title="llvm/Analysis/ValueTracking.h" alt="" coords="1135,244,1334,271"/>
+<area shape="rect" id="node43" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="1408,326,1547,353"/>
+<area shape="rect" id="node44" href="$TargetLowering_8h.html" title="This file describes how to lower LLVM code to machine code. " alt="" coords="2221,169,2430,196"/>
+<area shape="rect" id="node45" href="$Instructions_8h.html" title="llvm/IR/Instructions.h" alt="" coords="1672,326,1819,353"/>
+<area shape="rect" id="node46" href="$TargetPassConfig_8h.html" title="llvm/CodeGen/TargetPassConfig.h" alt="" coords="4277,244,4502,271"/>
+<area shape="rect" id="node47" href="$TargetSubtargetInfo_8h.html" title="llvm/CodeGen/TargetSubtarget\lInfo.h" alt="" coords="2893,319,3096,360"/>
+<area shape="rect" id="node48" href="$IntrinsicInst_8h.html" title="llvm/IR/IntrinsicInst.h" alt="" coords="1459,244,1605,271"/>
+<area shape="rect" id="node49" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="2747,326,2869,353"/>
+<area shape="rect" id="node50" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="2427,326,2621,353"/>
+<area shape="rect" id="node3" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="3467,244,3655,271"/>
+<area shape="rect" id="node4" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2867,408,3013,435"/>
+<area shape="rect" id="node17" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="3811,326,3901,353"/>
+<area shape="rect" id="node5" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2613,490,2768,517"/>
+<area shape="rect" id="node11" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1100,647,1263,673"/>
+<area shape="rect" id="node6" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1666,572,1798,599"/>
+<area shape="rect" id="node10" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2092,572,2281,599"/>
+<area shape="rect" id="node21" href="$CallGraphSCCPass_8h.html" title="llvm/Analysis/CallGraphSCCPass.h" alt="" coords="3731,244,3963,271"/>
+<area shape="rect" id="node24" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="1925,490,2048,517"/>
+<area shape="rect" id="node26" href="$AMDKernelCodeT_8h.html" title="AMDKernelCodeT.h" alt="" coords="331,490,469,517"/>
+<area shape="rect" id="node27" href="$SIDefines_8h.html" title="SIDefines.h" alt="" coords="3792,169,3883,196"/>
+<area shape="rect" id="node28" href="$MCInstrDesc_8h.html" title="llvm/MC/MCInstrDesc.h" alt="" coords="4038,244,4202,271"/>
+<area shape="rect" id="node29" href="$CallingConv_8h.html" title="llvm/IR/CallingConv.h" alt="" coords="1870,408,2021,435"/>
+<area shape="rect" id="node30" href="$AMDHSAKernelDescriptor_8h.html" title="AMDHSA kernel descriptor definitions. " alt="" coords="848,483,1043,524"/>
+<area shape="rect" id="node31" href="$TargetParser_8h.html" title="llvm/Support/TargetParser.h" alt="" coords="2857,169,3042,196"/>
+<area shape="rect" id="node34" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="1587,490,1749,517"/>
+<area shape="rect" id="node35" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1881,572,2052,599"/>
+<area shape="rect" id="node36" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2275,490,2437,517"/>
+<area shape="rect" id="node41" href="$GraphTraits_8h.html" title="llvm/ADT/GraphTraits.h" alt="" coords="3525,326,3685,353"/>
+</map>

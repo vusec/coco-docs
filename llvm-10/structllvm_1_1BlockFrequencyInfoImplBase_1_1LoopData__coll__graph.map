@@ -1,0 +1,35 @@
+<map id="llvm::BlockFrequencyInfoImplBase::LoopData" name="llvm::BlockFrequencyInfoImplBase::LoopData">
+<area shape="rect" id="node2" href="$classllvm_1_1ScaledNumber.html" title="llvm::ScaledNumber\l\&lt; uint64_t \&gt;" alt="" coords="2549,64,2689,105"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ScaledNumberBase.html" title="llvm::ScaledNumberBase" alt="" coords="1798,33,1969,59"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ScaledNumber.html" title="Simple representation of a scaled number. " alt="" coords="2182,5,2322,47"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l BlockMass, 1 \&gt;" alt="" coords="2552,313,2685,355"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; BlockMass \&gt;" alt="" coords="2177,511,2327,552"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="1134,576,1313,617"/>
+<area shape="rect" id="node9" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="llvm::SmallVectorTemplate\lCommon\&lt; T \&gt;" alt="" coords="649,531,828,572"/>
+<area shape="rect" id="node15" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; T \&gt;" alt="" coords="1365,491,1543,532"/>
+<area shape="rect" id="node16" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="919,472,1098,513"/>
+<area shape="rect" id="node26" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="1589,632,1768,673"/>
+<area shape="rect" id="node32" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="1128,407,1319,463"/>
+<area shape="rect" id="node10" href="$classllvm_1_1SmallVectorBase.html" title="This is all the non&#45;templated stuff common to all SmallVectors. " alt="" coords="181,538,336,565"/>
+<area shape="rect" id="node13" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="This is the part of SmallVectorTemplateBase which does not depend on whether the type T is a POD..." alt="" coords="385,560,564,601"/>
+<area shape="rect" id="node11" href="$classunsigned.html" title="unsigned" alt="" coords="5,513,80,539"/>
+<area shape="rect" id="node14" href="$classllvm_1_1SmallVectorImpl.html" title="This class consists of common code factored out of the SmallVector class to reduce code duplication b..." alt="" coords="1792,498,1975,525"/>
+<area shape="rect" id="node23" href="$classllvm_1_1SmallVector.html" title="This is a &#39;vector&#39; (really, a variable&#45;sized array), optimized for the case when the array is small..." alt="" coords="2185,349,2319,391"/>
+<area shape="rect" id="node25" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; BlockNode \&gt;" alt="" coords="2177,588,2327,629"/>
+<area shape="rect" id="node31" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; std::pair\&lt; BlockNode,\l BlockMass \&gt; \&gt;" alt="" coords="2171,430,2333,486"/>
+<area shape="rect" id="node17" href="$structllvm_1_1SmallVectorStorage.html" title="llvm::SmallVectorStorage\l\&lt; BlockMass, N \&gt;" alt="" coords="2167,219,2337,260"/>
+<area shape="rect" id="node18" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; BlockMass \&gt;" alt="" coords="1359,236,1549,277"/>
+<area shape="rect" id="node19" href="$classchar.html" title="char" alt="" coords="715,219,762,246"/>
+<area shape="rect" id="node20" href="$structllvm_1_1AlignedCharArrayUnion.html" title="A suitably aligned and sized character array member which can hold elements of any type..." alt="" coords="913,212,1104,253"/>
+<area shape="rect" id="node22" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\&lt; T \&gt;" alt="" coords="1343,183,1565,210"/>
+<area shape="rect" id="node28" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; BlockNode \&gt;" alt="" coords="1359,348,1549,389"/>
+<area shape="rect" id="node34" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; std::pair\&lt; BlockNode,\l BlockMass \&gt; \&gt;" alt="" coords="1359,90,1549,146"/>
+<area shape="rect" id="node21" href="$structllvm_1_1SmallVectorStorage.html" title="Storage for the SmallVector elements. " alt="" coords="1798,176,1969,217"/>
+<area shape="rect" id="node27" href="$structllvm_1_1SmallVectorStorage.html" title="llvm::SmallVectorStorage\l\&lt; BlockNode, N \&gt;" alt="" coords="2167,284,2337,325"/>
+<area shape="rect" id="node33" href="$structllvm_1_1SmallVectorStorage.html" title="llvm::SmallVectorStorage\l\&lt; std::pair\&lt; BlockNode,\l BlockMass \&gt;, N \&gt;" alt="" coords="2167,138,2337,194"/>
+<area shape="rect" id="node24" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l BlockNode, 4 \&gt;" alt="" coords="2552,431,2685,472"/>
+<area shape="rect" id="node30" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l std::pair\&lt; BlockNode,\l BlockMass \&gt;, 4 \&gt;" alt="" coords="2542,233,2695,289"/>
+<area shape="rect" id="node29" href="$classuint32__t.html" title="uint32_t" alt="" coords="2585,379,2653,406"/>
+<area shape="rect" id="node35" href="$classbool.html" title="bool" alt="" coords="2595,497,2642,523"/>
+<area shape="rect" id="node36" href="$classllvm_1_1bfi__detail_1_1BlockMass.html" title="Mass of a block. " alt="" coords="2529,547,2708,574"/>
+</map>

@@ -1,0 +1,36 @@
+<map id="lib/Transforms/Scalar/ConstantProp.cpp" name="lib/Transforms/Scalar/ConstantProp.cpp">
+<area shape="rect" id="node2" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="793,736,956,763"/>
+<area shape="rect" id="node16" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1374,661,1537,688"/>
+<area shape="rect" id="node25" href="$Statistic_8h.html" title="llvm/ADT/Statistic.h" alt="" coords="1676,273,1816,300"/>
+<area shape="rect" id="node28" href="$ConstantFolding_8h.html" title="llvm/Analysis/ConstantFolding.h" alt="" coords="3761,102,3972,129"/>
+<area shape="rect" id="node29" href="$TargetLibraryInfo_8h.html" title="llvm/Analysis/TargetLibrary\lInfo.h" alt="" coords="2335,95,2515,136"/>
+<area shape="rect" id="node37" href="$IR_2Instruction_8h.html" title="llvm/IR/Instruction.h" alt="" coords="3574,512,3714,539"/>
+<area shape="rect" id="node43" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="3561,273,3652,300"/>
+<area shape="rect" id="node45" href="$Constant_8h.html" title="llvm/IR/Constant.h" alt="" coords="3214,512,3346,539"/>
+<area shape="rect" id="node46" href="$InstIterator_8h.html" title="llvm/IR/InstIterator.h" alt="" coords="4212,273,4355,300"/>
+<area shape="rect" id="node47" href="$InitializePasses_8h.html" title="llvm/InitializePasses.h" alt="" coords="3995,102,4148,129"/>
+<area shape="rect" id="node48" href="$DebugCounter_8h.html" title="This file provides an implementation of debug counters. " alt="" coords="1572,587,1766,613"/>
+<area shape="rect" id="node49" href="$Transforms_2Scalar_8h.html" title="llvm/Transforms/Scalar.h" alt="" coords="4173,102,4341,129"/>
+<area shape="rect" id="node50" href="$Transforms_2Utils_2Local_8h.html" title="llvm/Transforms/Utils\l/Local.h" alt="" coords="2858,423,3005,464"/>
+<area shape="rect" id="node3" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="1050,811,1224,837"/>
+<area shape="rect" id="node4" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="290,885,453,912"/>
+<area shape="rect" id="node6" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="718,811,924,837"/>
+<area shape="rect" id="node7" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2268,811,2438,837"/>
+<area shape="rect" id="node17" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="4093,736,4264,763"/>
+<area shape="rect" id="node18" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1284,736,1438,763"/>
+<area shape="rect" id="node19" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1462,736,1639,763"/>
+<area shape="rect" id="node21" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="196,736,364,763"/>
+<area shape="rect" id="node22" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="94,811,284,837"/>
+<area shape="rect" id="node30" href="$BitVector_8h.html" title="llvm/ADT/BitVector.h" alt="" coords="1978,661,2125,688"/>
+<area shape="rect" id="node31" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1776,661,1930,688"/>
+<area shape="rect" id="node32" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2611,661,2751,688"/>
+<area shape="rect" id="node33" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="2135,191,2259,218"/>
+<area shape="rect" id="node34" href="$CallSite_8h.html" title="llvm/IR/CallSite.h" alt="" coords="3310,273,3436,300"/>
+<area shape="rect" id="node35" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="3624,348,3754,375"/>
+<area shape="rect" id="node41" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="2459,273,2580,300"/>
+<area shape="rect" id="node42" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM. " alt="" coords="2539,191,2698,218"/>
+<area shape="rect" id="node38" href="$User_8h.html" title="llvm/IR/User.h" alt="" coords="3253,587,3360,613"/>
+<area shape="rect" id="node39" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="3653,661,3765,688"/>
+<area shape="rect" id="node40" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="3408,736,3562,763"/>
+<area shape="rect" id="node36" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="3790,430,3935,457"/>
+</map>

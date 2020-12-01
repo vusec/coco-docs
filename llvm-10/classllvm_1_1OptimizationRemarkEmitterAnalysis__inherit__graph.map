@@ -1,0 +1,6 @@
+<map id="llvm::OptimizationRemarkEmitterAnalysis" name="llvm::OptimizationRemarkEmitterAnalysis">
+<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title="llvm::AnalysisInfoMixin\l\&lt; OptimizationRemarkEmitterAnalysis \&gt;" alt="" coords="788,47,1045,89"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; OptimizationRemarkEmitter\lAnalysis \&gt;" alt="" coords="368,5,563,61"/>
+<area shape="rect" id="node4" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes. " alt="" coords="5,50,143,91"/>
+<area shape="rect" id="node5" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes. " alt="" coords="387,86,544,127"/>
+</map>

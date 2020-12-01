@@ -1,0 +1,4 @@
+<map id="llvm::pdb::HashTableIterator&lt; ValueT &gt;" name="llvm::pdb::HashTableIterator&lt; ValueT &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; HashTableIterator\l\&lt; ValueT \&gt;, std::forward\l_iterator_tag, const std\l::pair\&lt; uint32_t, ValueT \&gt; \&gt;" alt="" coords="700,79,883,164"/>
+<area shape="rect" id="node4" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="267,145,491,215"/>
+</map>

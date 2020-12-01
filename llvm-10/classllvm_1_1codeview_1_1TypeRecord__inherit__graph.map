@@ -1,0 +1,38 @@
+<map id="llvm::codeview::TypeRecord" name="llvm::codeview::TypeRecord">
+<area shape="rect" id="node2" href="$classllvm_1_1codeview_1_1ArgListRecord.html" title="llvm::codeview::ArgListRecord" alt="" coords="249,5,449,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1codeview_1_1ArrayRecord.html" title="llvm::codeview::ArrayRecord" alt="" coords="253,56,444,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1codeview_1_1BaseClassRecord.html" title="llvm::codeview::BaseClass\lRecord" alt="" coords="258,107,439,149"/>
+<area shape="rect" id="node5" href="$classllvm_1_1codeview_1_1BitFieldRecord.html" title="llvm::codeview::BitField\lRecord" alt="" coords="268,173,429,214"/>
+<area shape="rect" id="node6" href="$classllvm_1_1codeview_1_1BuildInfoRecord.html" title="llvm::codeview::BuildInfo\lRecord" alt="" coords="265,238,433,279"/>
+<area shape="rect" id="node7" href="$classllvm_1_1codeview_1_1DataMemberRecord.html" title="llvm::codeview::DataMember\lRecord" alt="" coords="253,303,445,345"/>
+<area shape="rect" id="node8" href="$classllvm_1_1codeview_1_1EndPrecompRecord.html" title="llvm::codeview::EndPrecomp\lRecord" alt="" coords="253,369,445,410"/>
+<area shape="rect" id="node9" href="$classllvm_1_1codeview_1_1EnumeratorRecord.html" title="llvm::codeview::Enumerator\lRecord" alt="" coords="257,434,441,475"/>
+<area shape="rect" id="node10" href="$classllvm_1_1codeview_1_1FieldListRecord.html" title="llvm::codeview::FieldList\lRecord" alt="" coords="265,499,432,541"/>
+<area shape="rect" id="node11" href="$classllvm_1_1codeview_1_1FuncIdRecord.html" title="llvm::codeview::FuncIdRecord" alt="" coords="249,565,448,592"/>
+<area shape="rect" id="node12" href="$classllvm_1_1codeview_1_1LabelRecord.html" title="llvm::codeview::LabelRecord" alt="" coords="253,616,444,643"/>
+<area shape="rect" id="node13" href="$classllvm_1_1codeview_1_1ListContinuationRecord.html" title="LF_INDEX &#45; Used to chain two large LF_FIELDLIST or LF_METHODLIST records together. " alt="" coords="243,667,454,709"/>
+<area shape="rect" id="node14" href="$classllvm_1_1codeview_1_1MemberFuncIdRecord.html" title="llvm::codeview::MemberFunc\lIdRecord" alt="" coords="252,733,445,774"/>
+<area shape="rect" id="node15" href="$classllvm_1_1codeview_1_1MemberFunctionRecord.html" title="llvm::codeview::MemberFunction\lRecord" alt="" coords="241,798,456,839"/>
+<area shape="rect" id="node16" href="$classllvm_1_1codeview_1_1MethodOverloadListRecord.html" title="llvm::codeview::MethodOverload\lListRecord" alt="" coords="243,863,455,905"/>
+<area shape="rect" id="node17" href="$classllvm_1_1codeview_1_1ModifierRecord.html" title="llvm::codeview::Modifier\lRecord" alt="" coords="267,929,430,970"/>
+<area shape="rect" id="node18" href="$classllvm_1_1codeview_1_1NestedTypeRecord.html" title="llvm::codeview::NestedType\lRecord" alt="" coords="255,994,443,1035"/>
+<area shape="rect" id="node19" href="$classllvm_1_1codeview_1_1OneMethodRecord.html" title="llvm::codeview::OneMethod\lRecord" alt="" coords="257,1059,441,1101"/>
+<area shape="rect" id="node20" href="$classllvm_1_1codeview_1_1OverloadedMethodRecord.html" title="For method overload sets. LF_METHOD. " alt="" coords="257,1125,440,1166"/>
+<area shape="rect" id="node21" href="$classllvm_1_1codeview_1_1PointerRecord.html" title="llvm::codeview::PointerRecord" alt="" coords="249,1191,449,1217"/>
+<area shape="rect" id="node22" href="$classllvm_1_1codeview_1_1PrecompRecord.html" title="llvm::codeview::PrecompRecord" alt="" coords="243,1241,454,1268"/>
+<area shape="rect" id="node23" href="$classllvm_1_1codeview_1_1ProcedureRecord.html" title="llvm::codeview::Procedure\lRecord" alt="" coords="261,1293,437,1334"/>
+<area shape="rect" id="node24" href="$classllvm_1_1codeview_1_1StaticDataMemberRecord.html" title="llvm::codeview::StaticData\lMemberRecord" alt="" coords="259,1358,438,1399"/>
+<area shape="rect" id="node25" href="$classllvm_1_1codeview_1_1StringIdRecord.html" title="llvm::codeview::StringId\lRecord" alt="" coords="267,1423,430,1465"/>
+<area shape="rect" id="node26" href="$classllvm_1_1codeview_1_1StringListRecord.html" title="llvm::codeview::StringList\lRecord" alt="" coords="263,1489,435,1530"/>
+<area shape="rect" id="node27" href="$classllvm_1_1codeview_1_1TagRecord.html" title="llvm::codeview::TagRecord" alt="" coords="258,1555,439,1581"/>
+<area shape="rect" id="node31" href="$classllvm_1_1codeview_1_1TypeServer2Record.html" title="llvm::codeview::TypeServer2\lRecord" alt="" coords="253,1606,444,1647"/>
+<area shape="rect" id="node32" href="$classllvm_1_1codeview_1_1UdtModSourceLineRecord.html" title="llvm::codeview::UdtModSource\lLineRecord" alt="" coords="247,1671,451,1713"/>
+<area shape="rect" id="node33" href="$classllvm_1_1codeview_1_1UdtSourceLineRecord.html" title="llvm::codeview::UdtSource\lLineRecord" alt="" coords="259,1737,438,1778"/>
+<area shape="rect" id="node34" href="$classllvm_1_1codeview_1_1VFPtrRecord.html" title="llvm::codeview::VFPtrRecord" alt="" coords="252,1803,445,1829"/>
+<area shape="rect" id="node35" href="$classllvm_1_1codeview_1_1VFTableRecord.html" title="llvm::codeview::VFTableRecord" alt="" coords="245,1853,453,1880"/>
+<area shape="rect" id="node36" href="$classllvm_1_1codeview_1_1VFTableShapeRecord.html" title="llvm::codeview::VFTableShape\lRecord" alt="" coords="247,1905,450,1946"/>
+<area shape="rect" id="node37" href="$classllvm_1_1codeview_1_1VirtualBaseClassRecord.html" title="llvm::codeview::VirtualBase\lClassRecord" alt="" coords="257,1970,441,2011"/>
+<area shape="rect" id="node28" href="$classllvm_1_1codeview_1_1ClassRecord.html" title="llvm::codeview::ClassRecord" alt="" coords="504,1504,697,1531"/>
+<area shape="rect" id="node29" href="$classllvm_1_1codeview_1_1EnumRecord.html" title="llvm::codeview::EnumRecord" alt="" coords="504,1555,697,1581"/>
+<area shape="rect" id="node30" href="$structllvm_1_1codeview_1_1UnionRecord.html" title="llvm::codeview::UnionRecord" alt="" coords="504,1605,697,1632"/>
+</map>

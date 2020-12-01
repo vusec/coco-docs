@@ -1,0 +1,7 @@
+<map id="llvm::DISubroutineType" name="llvm::DISubroutineType">
+<area shape="rect" id="node2" href="$classllvm_1_1DIType.html" title="Base class for types. " alt="" coords="36,304,133,331"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DIScope.html" title="Base class for scope&#45;like contexts. " alt="" coords="32,229,137,256"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DINode.html" title="Tagged DWARF&#45;like metadata node. " alt="" coords="35,155,134,181"/>
+<area shape="rect" id="node5" href="$classllvm_1_1MDNode.html" title="Metadata node. " alt="" coords="31,80,138,107"/>
+<area shape="rect" id="node6" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy. " alt="" coords="31,5,139,32"/>
+</map>

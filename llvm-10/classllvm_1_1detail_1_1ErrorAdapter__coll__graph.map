@@ -1,0 +1,6 @@
+<map id="llvm::detail::ErrorAdapter" name="llvm::detail::ErrorAdapter">
+<area shape="rect" id="node2" href="$classllvm_1_1FormatAdapter.html" title="llvm::FormatAdapter\l\&lt; Error \&gt;" alt="" coords="117,199,257,240"/>
+<area shape="rect" id="node3" href="$classllvm_1_1detail_1_1format__adapter.html" title="llvm::detail::format\l_adapter" alt="" coords="5,5,136,47"/>
+<area shape="rect" id="node5" href="$classllvm_1_1FormatAdapter.html" title="llvm::FormatAdapter\&lt; T \&gt;" alt="" coords="101,109,273,136"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Error.html" title="Lightweight error class with error context and mandatory checking. " alt="" coords="297,109,380,136"/>
+</map>

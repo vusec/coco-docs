@@ -1,0 +1,40 @@
+<map id="lib/DebugInfo/CodeView/RecordName.cpp" name="lib/DebugInfo/CodeView/RecordName.cpp">
+<area shape="rect" id="node2" href="$RecordName_8h.html" title="llvm/DebugInfo/CodeView\l/RecordName.h" alt="" coords="1301,95,1475,136"/>
+<area shape="rect" id="node37" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="3254,638,3413,665"/>
+<area shape="rect" id="node38" href="$CVSymbolVisitor_8h.html" title="llvm/DebugInfo/CodeView\l/CVSymbolVisitor.h" alt="" coords="159,184,334,225"/>
+<area shape="rect" id="node40" href="$CVTypeVisitor_8h.html" title="llvm/DebugInfo/CodeView\l/CVTypeVisitor.h" alt="" coords="1394,184,1569,225"/>
+<area shape="rect" id="node41" href="$SymbolRecordMapping_8h.html" title="llvm/DebugInfo/CodeView\l/SymbolRecordMapping.h" alt="" coords="2157,95,2331,136"/>
+<area shape="rect" id="node45" href="$TypeVisitorCallbacks_8h.html" title="llvm/DebugInfo/CodeView\l/TypeVisitorCallbacks.h" alt="" coords="1769,95,1943,136"/>
+<area shape="rect" id="node47" href="$FormatVariadic_8h.html" title="llvm/Support/FormatVariadic.h" alt="" coords="2989,370,3187,397"/>
+<area shape="rect" id="node3" href="$SymbolRecord_8h.html" title="llvm/DebugInfo/CodeView\l/SymbolRecord.h" alt="" coords="1102,273,1277,315"/>
+<area shape="rect" id="node32" href="$TypeIndex_8h.html" title="llvm/DebugInfo/CodeView\l/TypeIndex.h" alt="" coords="714,452,889,493"/>
+<area shape="rect" id="node35" href="$TypeCollection_8h.html" title="llvm/DebugInfo/CodeView\l/TypeCollection.h" alt="" coords="1593,184,1767,225"/>
+<area shape="rect" id="node4" href="$APSInt_8h.html" title="llvm/ADT/APSInt.h" alt="" coords="2027,549,2162,575"/>
+<area shape="rect" id="node5" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1733,638,1877,665"/>
+<area shape="rect" id="node7" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1460,944,1631,971"/>
+<area shape="rect" id="node16" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3539,869,3679,896"/>
+<area shape="rect" id="node17" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="347,869,479,896"/>
+<area shape="rect" id="node22" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2357,720,2504,747"/>
+<area shape="rect" id="node24" href="$CVRecord_8h.html" title="llvm/DebugInfo/CodeView\l/CVRecord.h" alt="" coords="1379,363,1554,404"/>
+<area shape="rect" id="node25" href="$RecordSerialization_8h.html" title="llvm/DebugInfo/CodeView\l/RecordSerialization.h" alt="" coords="1310,452,1485,493"/>
+<area shape="rect" id="node26" href="$CodeView_8h.html" title="llvm/DebugInfo/CodeView\l/CodeView.h" alt="" coords="1006,541,1181,583"/>
+<area shape="rect" id="node28" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="1406,638,1557,665"/>
+<area shape="rect" id="node34" href="$BinaryStreamArray_8h.html" title="llvm/Support/BinaryStream\lArray.h" alt="" coords="460,452,639,493"/>
+<area shape="rect" id="node6" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2917,795,3080,821"/>
+<area shape="rect" id="node10" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3167,944,3329,971"/>
+<area shape="rect" id="node15" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1875,795,2029,821"/>
+<area shape="rect" id="node9" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2409,869,2562,896"/>
+<area shape="rect" id="node12" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="2790,869,2967,896"/>
+<area shape="rect" id="node14" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="2992,869,3160,896"/>
+<area shape="rect" id="node29" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="1864,549,2003,575"/>
+<area shape="rect" id="node30" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer. " alt="" coords="448,795,600,821"/>
+<area shape="rect" id="node31" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2790,638,2975,665"/>
+<area shape="rect" id="node33" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="651,549,829,575"/>
+<area shape="rect" id="node36" href="$TypeRecord_8h.html" title="llvm/DebugInfo/CodeView\l/TypeRecord.h" alt="" coords="1730,273,1905,315"/>
+<area shape="rect" id="node39" href="$SymbolVisitorDelegate_8h.html" title="llvm/DebugInfo/CodeView\l/SymbolVisitorDelegate.h" alt="" coords="1105,631,1279,672"/>
+<area shape="rect" id="node42" href="$CodeViewRecordIO_8h.html" title="llvm/DebugInfo/CodeView\l/CodeViewRecordIO.h" alt="" coords="2345,184,2519,225"/>
+<area shape="rect" id="node43" href="$SymbolVisitorCallbacks_8h.html" title="llvm/DebugInfo/CodeView\l/SymbolVisitorCallbacks.h" alt="" coords="2093,184,2269,225"/>
+<area shape="rect" id="node48" href="$FormatCommon_8h.html" title="llvm/Support/FormatCommon.h" alt="" coords="3057,459,3261,486"/>
+<area shape="rect" id="node49" href="$FormatVariadicDetails_8h.html" title="llvm/Support/FormatVariadic\lDetails.h" alt="" coords="2744,541,2931,583"/>
+<area shape="rect" id="node50" href="$FormatProviders_8h.html" title="llvm/Support/FormatProviders.h" alt="" coords="2673,459,2879,486"/>
+</map>

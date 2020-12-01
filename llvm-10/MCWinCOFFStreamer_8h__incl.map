@@ -1,0 +1,37 @@
+<map id="include/llvm/MC/MCWinCOFFStreamer.h" name="include/llvm/MC/MCWinCOFFStreamer.h">
+<area shape="rect" id="node2" href="$MCDirectives_8h.html" title="llvm/MC/MCDirectives.h" alt="" coords="5,304,172,331"/>
+<area shape="rect" id="node3" href="$MCObjectStreamer_8h.html" title="llvm/MC/MCObjectStreamer.h" alt="" coords="3397,80,3596,107"/>
+<area shape="rect" id="node4" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3369,543,3531,569"/>
+<area shape="rect" id="node24" href="$MCAssembler_8h.html" title="llvm/MC/MCAssembler.h" alt="" coords="2607,155,2776,181"/>
+<area shape="rect" id="node35" href="$MCSection_8h.html" title="llvm/MC/MCSection.h" alt="" coords="3420,304,3571,331"/>
+<area shape="rect" id="node47" href="$MCStreamer_8h.html" title="llvm/MC/MCStreamer.h" alt="" coords="3998,229,4158,256"/>
+<area shape="rect" id="node5" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="577,692,747,719"/>
+<area shape="rect" id="node8" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="3777,617,3931,644"/>
+<area shape="rect" id="node9" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="4878,767,5041,793"/>
+<area shape="rect" id="node11" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3220,617,3397,644"/>
+<area shape="rect" id="node16" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="4577,617,4745,644"/>
+<area shape="rect" id="node17" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="5275,692,5465,719"/>
+<area shape="rect" id="node20" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="3625,692,3795,719"/>
+<area shape="rect" id="node25" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2683,468,2827,495"/>
+<area shape="rect" id="node26" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1849,543,2003,569"/>
+<area shape="rect" id="node28" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="831,617,963,644"/>
+<area shape="rect" id="node31" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="2374,617,2537,644"/>
+<area shape="rect" id="node32" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2055,468,2202,495"/>
+<area shape="rect" id="node33" href="$BinaryFormat_2MachO_8h.html" title="llvm/BinaryFormat/MachO.h" alt="" coords="5851,229,6036,256"/>
+<area shape="rect" id="node34" href="$MCDwarf_8h.html" title="llvm/MC/MCDwarf.h" alt="" coords="3316,229,3459,256"/>
+<area shape="rect" id="node37" href="$MCFragment_8h.html" title="llvm/MC/MCFragment.h" alt="" coords="2771,386,2934,413"/>
+<area shape="rect" id="node38" href="$MCFixup_8h.html" title="llvm/MC/MCFixup.h" alt="" coords="2902,468,3041,495"/>
+<area shape="rect" id="node44" href="$MCLinkerOptimizationHint_8h.html" title="llvm/MC/MCLinkerOptimization\lHint.h" alt="" coords="2257,379,2461,420"/>
+<area shape="rect" id="node45" href="$MCSymbol_8h.html" title="llvm/MC/MCSymbol.h" alt="" coords="2780,304,2931,331"/>
+<area shape="rect" id="node46" href="$VersionTuple_8h.html" title="Defines the llvm::VersionTuple class, which represents a version in the form major[.minor[.subminor]]. " alt="" coords="5039,386,5226,413"/>
+<area shape="rect" id="node27" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="4412,617,4552,644"/>
+<area shape="rect" id="node42" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="4249,468,4387,495"/>
+<area shape="rect" id="node43" href="$MD5_8h.html" title="llvm/Support/MD5.h" alt="" coords="1891,386,2030,413"/>
+<area shape="rect" id="node36" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="1529,617,1641,644"/>
+<area shape="rect" id="node40" href="$Alignment_8h.html" title="llvm/Support/Alignment.h" alt="" coords="3915,543,4083,569"/>
+<area shape="rect" id="node41" href="$SectionKind_8h.html" title="llvm/MC/SectionKind.h" alt="" coords="3471,386,3627,413"/>
+<area shape="rect" id="node39" href="$SMLoc_8h.html" title="llvm/Support/SMLoc.h" alt="" coords="2844,543,2995,569"/>
+<area shape="rect" id="node48" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="3583,543,3738,569"/>
+<area shape="rect" id="node49" href="$MCWinEH_8h.html" title="llvm/MC/MCWinEH.h" alt="" coords="5554,468,5703,495"/>
+<area shape="rect" id="node50" href="$TargetParser_8h.html" title="llvm/Support/TargetParser.h" alt="" coords="5568,304,5753,331"/>
+</map>

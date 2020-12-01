@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1LiveRange.html" title="This class represents the liveness of a register, stack slot, etc. " alt="" coords="5,35,121,61"/>
+<area shape="rect" id="node2" href="$classllvm_1_1LiveInterval.html" title="LiveInterval &#45; This class represents the liveness of a register, or stack slot. " alt="" coords="169,5,291,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1LiveInterval_1_1SubRange.html" title="A live range for subregisters. " alt="" coords="169,57,291,98"/>
+</map>

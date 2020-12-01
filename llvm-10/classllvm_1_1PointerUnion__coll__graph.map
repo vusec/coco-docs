@@ -1,0 +1,4 @@
+<map id="llvm::PointerUnion&lt; PTs &gt;" name="llvm::PointerUnion&lt; PTs &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1pointer__union__detail_1_1PointerUnionMembers.html" title="llvm::pointer_union\l_detail::PointerUnionMembers\l\&lt; PointerUnion\&lt; PTs... \&gt;,\l PointerIntPair\&lt; void *, pointer\l_union_detail::bitsRequired(sizeof...\l(PTs)), int, pointer_union_detail::\lPointerUnionUIntTraits\&lt; PTs... \&gt; \&gt;,\l 0, PTs... \&gt;" alt="" coords="431,43,661,173"/>
+<area shape="rect" id="node3" href="$classllvm_1_1pointer__union__detail_1_1PointerUnionMembers.html" title="llvm::pointer_union\l_detail::PointerUnionMembers\l\&lt; Derived, ValTy, I, Types \&gt;" alt="" coords="5,80,203,136"/>
+</map>

@@ -1,0 +1,47 @@
+<map id="llvm::ScheduleDAGInstrs" name="llvm::ScheduleDAGInstrs">
+<area shape="rect" id="node2" href="$classllvm_1_1ScheduleDAG.html" title="llvm::ScheduleDAG" alt="" coords="1523,945,1661,972"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MachineFunction.html" title="llvm::MachineFunction" alt="" coords="1010,781,1163,808"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l VariableDbgInfo, 4 \&gt;" alt="" coords="605,734,751,775"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SmallVector.html" title="This is a &#39;vector&#39; (really, a variable&#45;sized array), optimized for the case when the array is small..." alt="" coords="214,742,347,783"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::SDep, 4 \&gt;" alt="" coords="611,669,745,710"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SUnit.html" title="Scheduling unit. This is a node in the scheduling DAG. " alt="" coords="1043,637,1130,664"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; llvm::SDep \&gt;" alt="" coords="205,606,356,647"/>
+<area shape="rect" id="node9" href="$structllvm_1_1SmallVectorStorage.html" title="llvm::SmallVectorStorage\l\&lt; llvm::SDep, N \&gt;" alt="" coords="195,671,366,713"/>
+<area shape="rect" id="node10" href="$structllvm_1_1MCSchedClassDesc.html" title="Summarize the scheduling resources required for an instruction of a particular scheduling class..." alt="" coords="589,307,767,333"/>
+<area shape="rect" id="node11" href="$classchar.html" title="char" alt="" coords="257,147,304,173"/>
+<area shape="rect" id="node24" href="$classllvm_1_1MachineLoopInfo.html" title="llvm::MachineLoopInfo" alt="" coords="601,116,755,143"/>
+<area shape="rect" id="node12" href="$classbool.html" title="bool" alt="" coords="257,307,304,333"/>
+<area shape="rect" id="node15" href="$classllvm_1_1TargetRegisterClass.html" title="llvm::TargetRegisterClass" alt="" coords="591,567,765,593"/>
+<area shape="rect" id="node13" href="$classunsigned.html" title="unsigned" alt="" coords="243,1009,318,1036"/>
+<area shape="rect" id="node17" href="$classllvm_1_1TargetMachine.html" title="Primary interface to the complete machine description for the target machine. " alt="" coords="608,1009,748,1036"/>
+<area shape="rect" id="node22" href="$classllvm_1_1TargetInstrInfo.html" title="TargetInstrInfo &#45; Interface to description of machine instruction set. " alt="" coords="609,1111,747,1137"/>
+<area shape="rect" id="node16" href="$classllvm_1_1LLVMTargetMachine.html" title="This class describes a target machine that is implemented with the LLVM target&#45;independent code gener..." alt="" coords="999,945,1174,972"/>
+<area shape="rect" id="node19" href="$classllvm_1_1MachineRegisterInfo.html" title="MachineRegisterInfo &#45; Keep track of information for virtual and physical registers, including vreg register classes, use/def chains for registers, etc. " alt="" coords="999,895,1174,921"/>
+<area shape="rect" id="node20" href="$classllvm_1_1TargetRegisterInfo.html" title="TargetRegisterInfo base class &#45; We assume that the target defines a static array of TargetRegisterDes..." alt="" coords="1005,996,1168,1023"/>
+<area shape="rect" id="node21" href="$classllvm_1_1MCRegisterInfo.html" title="MCRegisterInfo base class &#45; We assume that the target defines a static array of MCRegisterDesc object..." alt="" coords="605,1060,751,1087"/>
+<area shape="rect" id="node23" href="$classllvm_1_1MCInstrInfo.html" title="Interface to description of machine instruction set. " alt="" coords="219,1195,342,1221"/>
+<area shape="rect" id="node25" href="$classllvm_1_1MachineFunctionPass.html" title="MachineFunctionPass &#45; This class adapts the FunctionPass interface to allow convenient creation of pa..." alt="" coords="189,81,372,108"/>
+<area shape="rect" id="node26" href="$classllvm_1_1FunctionPass.html" title="FunctionPass class &#45; This class is used to implement most global optimizations. " alt="" coords="5,81,140,108"/>
+<area shape="rect" id="node27" href="$classllvm_1_1MachineInstrBundleIterator.html" title="llvm::MachineInstrBundle\lIterator\&lt; MachineInstr \&gt;" alt="" coords="1507,1213,1677,1254"/>
+<area shape="rect" id="node28" href="$structllvm_1_1MachineInstrBundleIteratorHelper_3_01false_01_4.html" title="llvm::MachineInstrBundle\lIteratorHelper\&lt; false \&gt;" alt="" coords="1002,1223,1171,1265"/>
+<area shape="rect" id="node29" href="$classllvm_1_1MachineInstrBundleIterator.html" title="MachineBasicBlock iterator that automatically skips over MIs that are inside bundles (i..." alt="" coords="1001,1289,1172,1330"/>
+<area shape="rect" id="node30" href="$structllvm_1_1MachineInstrBundleIteratorHelper.html" title="llvm::MachineInstrBundle\lIteratorHelper\&lt; IsReverse \&gt;" alt="" coords="585,1289,771,1330"/>
+<area shape="rect" id="node32" href="$classllvm_1_1MachineFrameInfo.html" title="The MachineFrameInfo class represents an abstract stack frame until prolog/epilog code is inserted..." alt="" coords="1511,1344,1673,1371"/>
+<area shape="rect" id="node33" href="$classllvm_1_1LivePhysRegs.html" title="A set of physical registers with utility functions to track liveness when walking backward/forward th..." alt="" coords="1523,1395,1661,1421"/>
+<area shape="rect" id="node34" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::MachineInstr *, llvm\l::SUnit *\&gt;" alt="" coords="1515,1445,1669,1501"/>
+<area shape="rect" id="node35" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; llvm::MachineInstr\l *, llvm::SUnit *, DenseMapInfo\l\&lt; llvm::MachineInstr *\&gt;, llvm\l::detail::DenseMapPair\&lt; llvm::MachineInstr\l *, llvm::SUnit *\&gt; \&gt;, llvm::MachineInstr\l *, llvm::SUnit *, DenseMapInfo\&lt; llvm::MachineInstr\l *\&gt;, llvm::detail::DenseMapPair\&lt; llvm::MachineInstr\l *, llvm::SUnit *\&gt; \&gt;" alt="" coords="924,1355,1249,1499"/>
+<area shape="rect" id="node36" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="988,1523,1185,1565"/>
+<area shape="rect" id="node37" href="$classllvm_1_1UndefValue.html" title="&#39;undef&#39; values are things that do not have specified contents. " alt="" coords="1531,1525,1653,1552"/>
+<area shape="rect" id="node38" href="$classllvm_1_1ConstantData.html" title="Base class for constants with no operands. " alt="" coords="1019,1589,1154,1616"/>
+<area shape="rect" id="node39" href="$classllvm_1_1AAResults.html" title="llvm::AAResults" alt="" coords="1533,1576,1651,1603"/>
+<area shape="rect" id="node40" href="$classllvm_1_1ScheduleDAGTopologicalSort.html" title="This class can compute a topological ordering for SUnits and provides methods for dynamically updatin..." alt="" coords="1479,1627,1705,1653"/>
+<area shape="rect" id="node41" href="$classllvm_1_1SparseMultiSet.html" title="llvm::SparseMultiSet\l\&lt; PhysRegSUOper, identity\l\&lt; unsigned \&gt;, uint16_t \&gt;" alt="" coords="1499,1677,1685,1733"/>
+<area shape="rect" id="node43" href="$classllvm_1_1SparseMultiSet.html" title="Fast multiset implementation for objects that can be identified by small unsigned keys..." alt="" coords="1005,1741,1168,1797"/>
+<area shape="rect" id="node48" href="$classllvm_1_1SparseMultiSet.html" title="llvm::SparseMultiSet\l\&lt; VReg2SUnit, VirtReg2Index\lFunctor \&gt;" alt="" coords="1493,1757,1691,1813"/>
+<area shape="rect" id="node50" href="$classllvm_1_1SparseMultiSet.html" title="llvm::SparseMultiSet\l\&lt; VReg2SUnitOperIdx,\l VirtReg2IndexFunctor \&gt;" alt="" coords="1509,1837,1675,1893"/>
+<area shape="rect" id="node44" href="$classllvm_1_1MachineBasicBlock.html" title="llvm::MachineBasicBlock" alt="" coords="1507,1917,1677,1944"/>
+<area shape="rect" id="node45" href="$classllvm_1_1ilist__node__with__parent.html" title="llvm::ilist_node_with\l_parent\&lt; MachineBasicBlock,\l MachineFunction \&gt;" alt="" coords="989,1951,1185,2007"/>
+<area shape="rect" id="node46" href="$classllvm_1_1MachineInstr.html" title="Representation of each machine instruction. " alt="" coords="1527,1968,1657,1995"/>
+<area shape="rect" id="node47" href="$classllvm_1_1ilist__node__with__parent.html" title="llvm::ilist_node_with\l_parent\&lt; MachineInstr,\l MachineBasicBlock, ilist\l_sentinel_tracking\&lt; true \&gt; \&gt;" alt="" coords="994,2031,1179,2102"/>
+<area shape="rect" id="node49" href="$classllvm_1_1TargetSchedModel.html" title="Provide an instruction scheduling machine model to CodeGen passes. " alt="" coords="1511,2019,1673,2045"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="llvm::X86TargetMachine" name="llvm::X86TargetMachine">
+<area shape="rect" id="node2" href="$classllvm_1_1LLVMTargetMachine.html" title="This class describes a target machine that is implemented with the LLVM target&#45;independent code gener..." alt="" coords="1236,936,1411,963"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TargetMachine.html" title="Primary interface to the complete machine description for the target machine. " alt="" coords="1047,936,1187,963"/>
+<area shape="rect" id="node4" href="$classllvm_1_1TargetOptions.html" title="llvm::TargetOptions" alt="" coords="761,385,897,412"/>
+<area shape="rect" id="node11" href="$classllvm_1_1MCTargetOptions.html" title="llvm::MCTargetOptions" alt="" coords="389,741,546,768"/>
+<area shape="rect" id="node15" href="$classbool.html" title="bool" alt="" coords="52,627,99,653"/>
+<area shape="rect" id="node18" href="$classunsigned.html" title="unsigned" alt="" coords="430,691,505,717"/>
+<area shape="rect" id="node22" href="$classllvm_1_1Target.html" title="Target &#45; Wrapper for Target specific information. " alt="" coords="784,995,875,1021"/>
+<area shape="rect" id="node24" href="$classllvm_1_1DataLayout.html" title="A parsed version of the target data layout string in and methods for querying it. ..." alt="" coords="769,1112,890,1139"/>
+<area shape="rect" id="node27" href="$classllvm_1_1Triple.html" title="Triple &#45; Helper class for working with autoconf configuration names. " alt="" coords="786,1280,873,1307"/>
+</map>

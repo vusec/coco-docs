@@ -1,0 +1,51 @@
+<map id="include/llvm/CodeGen/MachineJumpTableInfo.h" name="include/llvm/CodeGen/MachineJumpTableInfo.h">
+<area shape="rect" id="node2" href="$MIRYamlMapping_8h.html" title="include/llvm/CodeGen\l/MIRYamlMapping.h" alt="" coords="2639,95,2790,136"/>
+<area shape="rect" id="node4" href="$MIRPrinter_8cpp.html" title="lib/CodeGen/MIRPrinter.cpp" alt="" coords="2215,191,2401,218"/>
+<area shape="rect" id="node25" href="$WebAssemblyISelLowering_8cpp.html" title="This file implements the WebAssemblyTargetLowering class. " alt="" coords="4641,273,4852,315"/>
+<area shape="rect" id="node26" href="$AsmPrinter_8cpp.html" title="lib/CodeGen/AsmPrinter\l/AsmPrinter.cpp" alt="" coords="3159,95,3321,136"/>
+<area shape="rect" id="node27" href="$BranchFolding_8cpp.html" title="lib/CodeGen/BranchFolding.cpp" alt="" coords="3346,102,3553,129"/>
+<area shape="rect" id="node28" href="$MachineFunction_8cpp.html" title="lib/CodeGen/MachineFunction.cpp" alt="" coords="3577,102,3799,129"/>
+<area shape="rect" id="node29" href="$MachineOperand_8cpp.html" title="lib/CodeGen/MachineOperand.cpp" alt="" coords="3824,102,4045,129"/>
+<area shape="rect" id="node30" href="$LegalizeDAG_8cpp.html" title="lib/CodeGen/SelectionDAG\l/LegalizeDAG.cpp" alt="" coords="4069,95,4251,136"/>
+<area shape="rect" id="node31" href="$SelectionDAGBuilder_8cpp.html" title="lib/CodeGen/SelectionDAG\l/SelectionDAGBuilder.cpp" alt="" coords="4275,95,4456,136"/>
+<area shape="rect" id="node32" href="$TargetLowering_8cpp.html" title="lib/CodeGen/SelectionDAG\l/TargetLowering.cpp" alt="" coords="4480,95,4661,136"/>
+<area shape="rect" id="node33" href="$SwitchLoweringUtils_8cpp.html" title="lib/CodeGen/SwitchLowering\lUtils.cpp" alt="" coords="4686,95,4877,136"/>
+<area shape="rect" id="node34" href="$AArch64AsmPrinter_8cpp.html" title="lib/Target/AArch64\l/AArch64AsmPrinter.cpp" alt="" coords="4901,95,5067,136"/>
+<area shape="rect" id="node35" href="$AArch64BranchTargets_8cpp.html" title="lib/Target/AArch64\l/AArch64BranchTargets.cpp" alt="" coords="5092,95,5279,136"/>
+<area shape="rect" id="node36" href="$AArch64CompressJumpTables_8cpp.html" title="lib/Target/AArch64\l/AArch64CompressJumpTables.cpp" alt="" coords="5303,95,5535,136"/>
+<area shape="rect" id="node37" href="$AMDILCFGStructurizer_8cpp.html" title="lib/Target/AMDGPU/AMDILCFGStructurizer.cpp" alt="" coords="5559,102,5863,129"/>
+<area shape="rect" id="node38" href="$ARCISelLowering_8cpp.html" title="lib/Target/ARC/ARCISelLowering.cpp" alt="" coords="5887,102,6129,129"/>
+<area shape="rect" id="node39" href="$ARMAsmPrinter_8cpp.html" title="lib/Target/ARM/ARMAsmPrinter.cpp" alt="" coords="6153,102,6388,129"/>
+<area shape="rect" id="node40" href="$ARMConstantIslandPass_8cpp.html" title="lib/Target/ARM/ARMConstant\lIslandPass.cpp" alt="" coords="6412,95,6609,136"/>
+<area shape="rect" id="node41" href="$ARMFrameLowering_8cpp.html" title="lib/Target/ARM/ARMFrameLowering.cpp" alt="" coords="6633,102,6892,129"/>
+<area shape="rect" id="node42" href="$ARMInstrInfo_8cpp.html" title="lib/Target/ARM/ARMInstrInfo.cpp" alt="" coords="6917,102,7134,129"/>
+<area shape="rect" id="node43" href="$ARMISelLowering_8cpp.html" title="lib/Target/ARM/ARMISelLowering.cpp" alt="" coords="7158,102,7402,129"/>
+<area shape="rect" id="node44" href="$MipsAsmPrinter_8cpp.html" title="lib/Target/Mips/MipsAsmPrinter.cpp" alt="" coords="7426,102,7657,129"/>
+<area shape="rect" id="node45" href="$MipsInstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for Mips. " alt="" coords="7681,95,7882,136"/>
+<area shape="rect" id="node46" href="$MipsISelLowering_8cpp.html" title="lib/Target/Mips/MipsISel\lLowering.cpp" alt="" coords="7907,95,8069,136"/>
+<area shape="rect" id="node47" href="$PPCISelLowering_8cpp.html" title="lib/Target/PowerPC\l/PPCISelLowering.cpp" alt="" coords="8093,95,8248,136"/>
+<area shape="rect" id="node48" href="$X86ISelLowering_8cpp.html" title="lib/Target/X86/X86ISelLowering.cpp" alt="" coords="8273,102,8503,129"/>
+<area shape="rect" id="node49" href="$XCoreAsmPrinter_8cpp.html" title="lib/Target/XCore/XCoreAsm\lPrinter.cpp" alt="" coords="8527,95,8713,136"/>
+<area shape="rect" id="node50" href="$XCoreISelLowering_8cpp.html" title="lib/Target/XCore/XCoreISel\lLowering.cpp" alt="" coords="8737,95,8919,136"/>
+<area shape="rect" id="node3" href="$MIRParser_8cpp.html" title="lib/CodeGen/MIRParser\l/MIRParser.cpp" alt="" coords="2426,184,2587,225"/>
+<area shape="rect" id="node5" href="$SIMachineFunctionInfo_8h.html" title="lib/Target/AMDGPU/SIMachine\lFunctionInfo.h" alt="" coords="2612,184,2817,225"/>
+<area shape="rect" id="node24" href="$WebAssemblyMachineFunctionInfo_8h.html" title="This file declares WebAssembly&#45;specific per&#45;machine&#45;function information. " alt="" coords="2841,184,3084,225"/>
+<area shape="rect" id="node6" href="$AMDGPUAsmPrinter_8cpp.html" title="The AMDGPUAsmPrinter is used to print both assembly string and also binary code. " alt="" coords="5,273,235,315"/>
+<area shape="rect" id="node7" href="$AMDGPUCallLowering_8cpp.html" title="This file implements the lowering of LLVM calls to machine code calls for GlobalISel. " alt="" coords="259,273,485,315"/>
+<area shape="rect" id="node8" href="$AMDGPUHSAMetadataStreamer_8cpp.html" title="AMDGPU HSA Metadata Streamer. " alt="" coords="509,273,793,315"/>
+<area shape="rect" id="node9" href="$AMDGPUInstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for AMDGPU. " alt="" coords="817,273,1079,315"/>
+<area shape="rect" id="node10" href="$AMDGPUISelDAGToDAG_8cpp.html" title="Defines an instruction selector for the AMDGPU target. " alt="" coords="1103,273,1329,315"/>
+<area shape="rect" id="node11" href="$AMDGPUISelLowering_8cpp.html" title="This is the parent TargetLowering class for hardware code gen targets. " alt="" coords="1353,273,1578,315"/>
+<area shape="rect" id="node12" href="$AMDGPULegalizerInfo_8cpp.html" title="This file implements the targeting of the Machinelegalizer class for AMDGPU. " alt="" coords="1602,273,1857,315"/>
+<area shape="rect" id="node13" href="$AMDGPURegisterBankInfo_8cpp.html" title="This file implements the targeting of the RegisterBankInfo class for AMDGPU. " alt="" coords="1881,273,2132,315"/>
+<area shape="rect" id="node14" href="$AMDGPURegisterInfo_8cpp.html" title="Parent TargetRegisterInfo class common to all hw codegen targets. " alt="" coords="2156,273,2407,315"/>
+<area shape="rect" id="node15" href="$AMDGPUSubtarget_8cpp.html" title="Implements the AMDGPU specific subclass of TargetSubtarget. " alt="" coords="2431,281,2713,307"/>
+<area shape="rect" id="node16" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="2738,273,2977,315"/>
+<area shape="rect" id="node17" href="$GCNIterativeScheduler_8cpp.html" title="lib/Target/AMDGPU/GCNIterative\lScheduler.cpp" alt="" coords="3001,273,3221,315"/>
+<area shape="rect" id="node18" href="$GCNNSAReassign_8cpp.html" title="Try to reassign registers on GFX10+ from non&#45;sequential to sequential in NSA image instructions..." alt="" coords="3245,281,3526,307"/>
+<area shape="rect" id="node19" href="$GCNRegBankReassign_8cpp.html" title="Try to reassign registers on GFX10+ to reduce register bank conflicts. " alt="" coords="3551,273,3748,315"/>
+<area shape="rect" id="node20" href="$GCNSchedStrategy_8cpp.html" title="This contains a MachineSchedStrategy implementation for maximizing wave occupancy on GCN hardware..." alt="" coords="3772,273,3983,315"/>
+<area shape="rect" id="node21" href="$SIFoldOperands_8cpp.html" title="lib/Target/AMDGPU/SIFold\lOperands.cpp" alt="" coords="4007,273,4188,315"/>
+<area shape="rect" id="node22" href="$SIFormMemoryClauses_8cpp.html" title="This pass creates bundles of SMEM and VMEM instructions forming memory clauses if XNACK is enabled..." alt="" coords="4212,273,4399,315"/>
+<area shape="rect" id="node23" href="$SIFrameLowering_8cpp.html" title="lib/Target/AMDGPU/SIFrame\lLowering.cpp" alt="" coords="4423,273,4617,315"/>
+</map>

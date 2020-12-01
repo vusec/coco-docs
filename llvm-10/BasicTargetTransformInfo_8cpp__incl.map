@@ -1,0 +1,44 @@
+<map id="lib/CodeGen/BasicTargetTransformInfo.cpp" name="lib/CodeGen/BasicTargetTransformInfo.cpp">
+<area shape="rect" id="node2" href="$BasicTTIImpl_8h.html" title="This file provides a helper that implements much of the TTI interface in terms of the target&#45;independ..." alt="" coords="3535,95,3734,121"/>
+<area shape="rect" id="node29" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="4769,579,4898,606"/>
+<area shape="rect" id="node41" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="2249,497,2437,524"/>
+<area shape="rect" id="node43" href="$TargetSubtargetInfo_8h.html" title="llvm/CodeGen/TargetSubtarget\lInfo.h" alt="" coords="459,572,661,613"/>
+<area shape="rect" id="node50" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="6155,661,6349,688"/>
+<area shape="rect" id="node3" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="1288,661,1413,688"/>
+<area shape="rect" id="node4" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="2017,975,2194,1001"/>
+<area shape="rect" id="node8" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2219,811,2363,837"/>
+<area shape="rect" id="node9" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2605,893,2768,919"/>
+<area shape="rect" id="node10" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="4313,975,4503,1001"/>
+<area shape="rect" id="node14" href="$BitVector_8h.html" title="llvm/ADT/BitVector.h" alt="" coords="1091,736,1237,763"/>
+<area shape="rect" id="node16" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="6415,811,6577,837"/>
+<area shape="rect" id="node17" href="$LoopInfo_8h.html" title="llvm/Analysis/LoopInfo.h" alt="" coords="6035,348,6200,375"/>
+<area shape="rect" id="node19" href="$IR_2Instruction_8h.html" title="llvm/IR/Instruction.h" alt="" coords="5301,736,5441,763"/>
+<area shape="rect" id="node21" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="4675,811,4787,837"/>
+<area shape="rect" id="node22" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="3931,893,4085,919"/>
+<area shape="rect" id="node23" href="$Instructions_8h.html" title="llvm/IR/Instructions.h" alt="" coords="5320,423,5467,449"/>
+<area shape="rect" id="node25" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="5782,661,5927,688"/>
+<area shape="rect" id="node26" href="$Constant_8h.html" title="llvm/IR/Constant.h" alt="" coords="4054,661,4186,688"/>
+<area shape="rect" id="node27" href="$DerivedTypes_8h.html" title="llvm/IR/DerivedTypes.h" alt="" coords="3819,661,3979,688"/>
+<area shape="rect" id="node28" href="$Type_8h.html" title="llvm/IR/Type.h" alt="" coords="4769,736,4877,763"/>
+<area shape="rect" id="node30" href="$InstrTypes_8h.html" title="llvm/IR/InstrTypes.h" alt="" coords="4199,497,4340,524"/>
+<area shape="rect" id="node31" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="3464,579,3603,606"/>
+<area shape="rect" id="node32" href="$TargetTransformInfo_8h.html" title="This pass exposes codegen information to IR&#45;level passes. " alt="" coords="4968,259,5168,300"/>
+<area shape="rect" id="node33" href="$Operator_8h.html" title="llvm/IR/Operator.h" alt="" coords="4817,497,4946,524"/>
+<area shape="rect" id="node34" href="$TargetTransformInfoImpl_8h.html" title="This file provides helpers for the implementation of a TargetTransformInfo&#45;conforming class..." alt="" coords="4527,169,4727,211"/>
+<area shape="rect" id="node35" href="$CallSite_8h.html" title="llvm/IR/CallSite.h" alt="" coords="3799,348,3924,375"/>
+<area shape="rect" id="node36" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="2724,579,2871,606"/>
+<area shape="rect" id="node37" href="$ISDOpcodes_8h.html" title="llvm/CodeGen/ISDOpcodes.h" alt="" coords="1685,348,1880,375"/>
+<area shape="rect" id="node38" href="$ValueTypes_8h.html" title="llvm/CodeGen/ValueTypes.h" alt="" coords="1667,736,1856,763"/>
+<area shape="rect" id="node39" href="$MachineValueType_8h.html" title="llvm/Support/MachineValue\lType.h" alt="" coords="1744,885,1925,927"/>
+<area shape="rect" id="node40" href="$TargetLowering_8h.html" title="This file describes how to lower LLVM code to machine code. " alt="" coords="2522,266,2731,293"/>
+<area shape="rect" id="node48" href="$MCSchedule_8h.html" title="llvm/MC/MCSchedule.h" alt="" coords="195,736,357,763"/>
+<area shape="rect" id="node49" href="$Intrinsics_8h.html" title="llvm/IR/Intrinsics.h" alt="" coords="1534,423,1666,449"/>
+<area shape="rect" id="node18" href="$DenseSet_8h.html" title="llvm/ADT/DenseSet.h" alt="" coords="5863,893,6014,919"/>
+<area shape="rect" id="node20" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="4100,811,4247,837"/>
+<area shape="rect" id="node24" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="5618,736,5745,763"/>
+<area shape="rect" id="node42" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="483,736,648,763"/>
+<area shape="rect" id="node44" href="$PBQPRAConstraint_8h.html" title="llvm/CodeGen/PBQPRAConstraint.h" alt="" coords="999,811,1235,837"/>
+<area shape="rect" id="node45" href="$ScheduleDAGMutation_8h.html" title="llvm/CodeGen/ScheduleDAGMutation.h" alt="" coords="808,661,1061,688"/>
+<area shape="rect" id="node46" href="$SchedulerRegistry_8h.html" title="llvm/CodeGen/SchedulerRegistry.h" alt="" coords="296,661,523,688"/>
+<area shape="rect" id="node47" href="$MCSubtargetInfo_8h.html" title="llvm/MC/MCSubtargetInfo.h" alt="" coords="598,661,783,688"/>
+</map>

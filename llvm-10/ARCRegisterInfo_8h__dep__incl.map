@@ -1,0 +1,17 @@
+<map id="lib/Target/ARC/ARCRegisterInfo.h" name="lib/Target/ARC/ARCRegisterInfo.h">
+<area shape="rect" id="node2" href="$ARCInstrInfo_8h.html" title="lib/Target/ARC/ARCInstrInfo.h" alt="" coords="1281,102,1482,129"/>
+<area shape="rect" id="node11" href="$ARCExpandPseudos_8cpp.html" title="lib/Target/ARC/ARCExpand\lPseudos.cpp" alt="" coords="5,259,192,300"/>
+<area shape="rect" id="node14" href="$ARCRegisterInfo_8cpp.html" title="lib/Target/ARC/ARCRegister\lInfo.cpp" alt="" coords="1286,259,1477,300"/>
+<area shape="rect" id="node16" href="$ARCDisassembler_8cpp.html" title="This file is part of the ARC Disassembler. " alt="" coords="1654,95,1847,136"/>
+<area shape="rect" id="node3" href="$ARCSubtarget_8h.html" title="lib/Target/ARC/ARCSubtarget.h" alt="" coords="757,184,966,211"/>
+<area shape="rect" id="node6" href="$ARCBranchFinalize_8cpp.html" title="lib/Target/ARC/ARCBranch\lFinalize.cpp" alt="" coords="1185,348,1367,389"/>
+<area shape="rect" id="node9" href="$ARCOptAddrMode_8cpp.html" title="This pass folds LD/ST + ADD pairs into Pre/Post&#45;increment form of load/store instructions. " alt="" coords="1443,348,1634,389"/>
+<area shape="rect" id="node13" href="$ARCInstrInfo_8cpp.html" title="lib/Target/ARC/ARCInstrInfo.cpp" alt="" coords="1047,266,1262,293"/>
+<area shape="rect" id="node4" href="$ARCAsmPrinter_8cpp.html" title="lib/Target/ARC/ARCAsmPrinter.cpp" alt="" coords="824,355,1056,382"/>
+<area shape="rect" id="node5" href="$ARCTargetMachine_8h.html" title="lib/Target/ARC/ARCTarget\lMachine.h" alt="" coords="267,259,445,300"/>
+<area shape="rect" id="node8" href="$ARCISelLowering_8cpp.html" title="lib/Target/ARC/ARCISelLowering.cpp" alt="" coords="25,355,268,382"/>
+<area shape="rect" id="node12" href="$ARCFrameLowering_8cpp.html" title="lib/Target/ARC/ARCFrameLowering.cpp" alt="" coords="469,266,725,293"/>
+<area shape="rect" id="node15" href="$ARCSubtarget_8cpp.html" title="lib/Target/ARC/ARCSubtarget.cpp" alt="" coords="750,266,973,293"/>
+<area shape="rect" id="node7" href="$ARCISelDAGToDAG_8cpp.html" title="lib/Target/ARC/ARCISelDAGTo\lDAG.cpp" alt="" coords="495,348,705,389"/>
+<area shape="rect" id="node10" href="$ARCTargetMachine_8cpp.html" title="lib/Target/ARC/ARCTarget\lMachine.cpp" alt="" coords="292,348,471,389"/>
+</map>

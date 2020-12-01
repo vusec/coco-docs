@@ -1,0 +1,37 @@
+<map id="lib/Target/AMDGPU/AMDGPUArgumentUsageInfo.cpp" name="lib/Target/AMDGPU/AMDGPUArgumentUsageInfo.cpp">
+<area shape="rect" id="node2" href="$AMDGPU_8h.html" title="AMDGPU.h" alt="" coords="349,95,441,121"/>
+<area shape="rect" id="node30" href="$AMDGPUArgumentUsageInfo_8h.html" title="AMDGPUArgumentUsageInfo.h" alt="" coords="1433,95,1641,121"/>
+<area shape="rect" id="node44" href="$SIRegisterInfo_8h.html" title="Interface definition for SIRegisterInfo. " alt="" coords="4780,169,4897,196"/>
+<area shape="rect" id="node48" href="$NativeFormatting_8h.html" title="llvm/Support/NativeFormatting.h" alt="" coords="2563,251,2773,278"/>
+<area shape="rect" id="node49" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="1862,333,2047,360"/>
+<area shape="rect" id="node3" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="407,169,595,196"/>
+<area shape="rect" id="node4" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1665,483,1812,509"/>
+<area shape="rect" id="node15" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="1018,251,1142,278"/>
+<area shape="rect" id="node24" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="1691,333,1837,360"/>
+<area shape="rect" id="node25" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="537,408,628,435"/>
+<area shape="rect" id="node26" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="380,251,545,278"/>
+<area shape="rect" id="node27" href="$TargetOptions_8h.html" title="llvm/Target/TargetOptions.h" alt="" coords="121,251,305,278"/>
+<area shape="rect" id="node5" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="4451,557,4621,584"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3469,557,3632,584"/>
+<area shape="rect" id="node16" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="1109,333,1235,360"/>
+<area shape="rect" id="node17" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3265,408,3428,435"/>
+<area shape="rect" id="node18" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="3791,483,3945,509"/>
+<area shape="rect" id="node19" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="2613,483,2790,509"/>
+<area shape="rect" id="node20" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="3343,483,3513,509"/>
+<area shape="rect" id="node31" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="3540,333,3695,360"/>
+<area shape="rect" id="node35" href="$Register_8h.html" title="llvm/CodeGen/Register.h" alt="" coords="722,251,891,278"/>
+<area shape="rect" id="node37" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="1473,169,1602,196"/>
+<area shape="rect" id="node32" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="2042,408,2219,435"/>
+<area shape="rect" id="node33" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="2599,408,2772,435"/>
+<area shape="rect" id="node34" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="3909,408,4115,435"/>
+<area shape="rect" id="node36" href="$MCRegister_8h.html" title="llvm/MC/MCRegister.h" alt="" coords="775,333,931,360"/>
+<area shape="rect" id="node38" href="$DenseSet_8h.html" title="llvm/ADT/DenseSet.h" alt="" coords="3466,251,3617,278"/>
+<area shape="rect" id="node39" href="$ilist__node_8h.html" title="llvm/ADT/ilist_node.h" alt="" coords="1419,333,1565,360"/>
+<area shape="rect" id="node40" href="$Argument_8h.html" title="llvm/IR/Argument.h" alt="" coords="1365,251,1499,278"/>
+<area shape="rect" id="node41" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="1259,333,1394,360"/>
+<area shape="rect" id="node43" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="2811,251,2957,278"/>
+<area shape="rect" id="node42" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3101,408,3241,435"/>
+<area shape="rect" id="node45" href="$AMDGPURegisterInfo_8h.html" title="TargetRegisterInfo interface that is implemented by all hw codegen targets. " alt="" coords="5093,251,5256,278"/>
+<area shape="rect" id="node46" href="$SIDefines_8h.html" title="SIDefines.h" alt="" coords="4979,251,5069,278"/>
+<area shape="rect" id="node47" href="$MachineRegisterInfo_8h.html" title="llvm/CodeGen/MachineRegister\lInfo.h" alt="" coords="4546,244,4753,285"/>
+</map>

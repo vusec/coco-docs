@@ -1,0 +1,31 @@
+<map id="lib/Target/Hexagon/MCTargetDesc/HexagonShuffler.h" name="lib/Target/Hexagon/MCTargetDesc/HexagonShuffler.h">
+<area shape="rect" id="node2" href="$HexagonMCInstrInfo_8h.html" title="MCTargetDesc/HexagonMCInstr\lInfo.h" alt="" coords="3239,259,3454,300"/>
+<area shape="rect" id="node3" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2952,423,3115,449"/>
+<area shape="rect" id="node10" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1619,497,1797,524"/>
+<area shape="rect" id="node26" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3493,423,3640,449"/>
+<area shape="rect" id="node33" href="$SMLoc_8h.html" title="llvm/Support/SMLoc.h" alt="" coords="6222,423,6373,449"/>
+<area shape="rect" id="node34" href="$HexagonMCTargetDesc_8h.html" title="MCTargetDesc/HexagonMCTarget\lDesc.h" alt="" coords="4930,95,5155,136"/>
+<area shape="rect" id="node49" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1275,184,1429,211"/>
+<area shape="rect" id="node4" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3389,572,3560,599"/>
+<area shape="rect" id="node32" href="$MCInst_8h.html" title="llvm/MC/MCInst.h" alt="" coords="4007,348,4137,375"/>
+<area shape="rect" id="node7" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="803,497,957,524"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2235,721,2397,748"/>
+<area shape="rect" id="node18" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="3875,497,4043,524"/>
+<area shape="rect" id="node19" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="5008,572,5197,599"/>
+<area shape="rect" id="node22" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2480,647,2651,673"/>
+<area shape="rect" id="node11" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1341,572,1544,599"/>
+<area shape="rect" id="node27" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3696,497,3851,524"/>
+<area shape="rect" id="node28" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="4539,572,4679,599"/>
+<area shape="rect" id="node29" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="6400,647,6523,673"/>
+<area shape="rect" id="node35" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="4945,184,5140,211"/>
+<area shape="rect" id="node36" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2964,348,3108,375"/>
+<area shape="rect" id="node38" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="2395,423,2557,449"/>
+<area shape="rect" id="node41" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="3833,348,3983,375"/>
+<area shape="rect" id="node42" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="5734,348,5861,375"/>
+<area shape="rect" id="node43" href="$ManagedStatic_8h.html" title="llvm/Support/ManagedStatic.h" alt="" coords="1595,266,1792,293"/>
+<area shape="rect" id="node44" href="$VirtualFileSystem_8h.html" title="Defines the virtual file system interface vfs::FileSystem. " alt="" coords="5861,259,6019,300"/>
+<area shape="rect" id="node45" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="3343,348,3529,375"/>
+<area shape="rect" id="node39" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="5080,497,5253,524"/>
+<area shape="rect" id="node40" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="1185,497,1391,524"/>
+<area shape="rect" id="node50" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="3743,266,3921,293"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="llvm::yaml::SIArgument" name="llvm::yaml::SIArgument">
+<area shape="rect" id="node3" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; unsigned \&gt;" alt="" coords="157,199,336,225"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; T \&gt;" alt="" coords="179,109,314,136"/>
+<area shape="rect" id="node5" href="$structllvm_1_1yaml_1_1StringValue.html" title="A wrapper around std::string which contains a source range that&#39;s being set during parsing..." alt="" coords="360,199,517,225"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SMRange.html" title="Represents a range in source code. " alt="" coords="360,109,472,136"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SMLoc.html" title="Represents a location in source code. " alt="" coords="369,5,463,32"/>
+<area shape="rect" id="node9" href="$classbool.html" title="bool" alt="" coords="542,199,589,225"/>
+<area shape="rect" id="node10" href="$classunsigned.html" title="unsigned" alt="" coords="620,199,695,225"/>
+</map>

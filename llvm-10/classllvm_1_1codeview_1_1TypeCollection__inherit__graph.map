@@ -1,0 +1,7 @@
+<map id="llvm::codeview::TypeCollection" name="llvm::codeview::TypeCollection">
+<area shape="rect" id="node2" href="$classllvm_1_1codeview_1_1AppendingTypeTableBuilder.html" title="llvm::codeview::Appending\lTypeTableBuilder" alt="" coords="265,5,444,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1codeview_1_1GlobalTypeTableBuilder.html" title="llvm::codeview::GlobalType\lTableBuilder" alt="" coords="263,71,446,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1codeview_1_1LazyRandomTypeCollection.html" title="Provides amortized O(1) random access to a CodeView type stream. " alt="" coords="257,136,452,177"/>
+<area shape="rect" id="node5" href="$classllvm_1_1codeview_1_1MergingTypeTableBuilder.html" title="llvm::codeview::MergingType\lTableBuilder" alt="" coords="259,201,451,243"/>
+<area shape="rect" id="node6" href="$classllvm_1_1codeview_1_1TypeTableCollection.html" title="llvm::codeview::TypeTable\lCollection" alt="" coords="265,267,444,308"/>
+</map>

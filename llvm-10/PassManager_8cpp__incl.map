@@ -1,0 +1,31 @@
+<map id="lib/IR/PassManager.cpp" name="lib/IR/PassManager.cpp">
+<area shape="rect" id="node2" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM. " alt="" coords="3417,80,3575,107"/>
+<area shape="rect" id="node6" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1821,379,1976,405"/>
+<area shape="rect" id="node48" href="$LLVMContext_8h.html" title="llvm/IR/LLVMContext.h" alt="" coords="414,155,573,181"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="4348,155,4503,181"/>
+<area shape="rect" id="node5" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3507,304,3653,331"/>
+<area shape="rect" id="node34" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="2309,304,2472,331"/>
+<area shape="rect" id="node35" href="$TinyPtrVector_8h.html" title="llvm/ADT/TinyPtrVector.h" alt="" coords="4994,453,5166,480"/>
+<area shape="rect" id="node36" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="3063,229,3193,256"/>
+<area shape="rect" id="node37" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="1399,155,1521,181"/>
+<area shape="rect" id="node41" href="$PassInstrumentation_8h.html" title="This file defines the Pass Instrumentation classes that provide instrumentation points into the pass ..." alt="" coords="5107,155,5306,181"/>
+<area shape="rect" id="node42" href="$TypeName_8h.html" title="llvm/Support/TypeName.h" alt="" coords="3534,229,3709,256"/>
+<area shape="rect" id="node43" href="$PassManagerInternal_8h.html" title="This header provides internal APIs and implementation details used by the pass management interfaces ..." alt="" coords="1573,229,1776,256"/>
+<area shape="rect" id="node44" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="3368,229,3459,256"/>
+<area shape="rect" id="node45" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="3635,155,3783,181"/>
+<area shape="rect" id="node46" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="3806,229,3991,256"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="4101,229,4278,256"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3244,603,3407,629"/>
+<area shape="rect" id="node9" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2581,528,2752,555"/>
+<area shape="rect" id="node30" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="2736,379,2909,405"/>
+<area shape="rect" id="node31" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="4613,453,4766,480"/>
+<area shape="rect" id="node32" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="4793,304,4970,331"/>
+<area shape="rect" id="node33" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="2505,379,2711,405"/>
+<area shape="rect" id="node16" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1432,528,1603,555"/>
+<area shape="rect" id="node7" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2150,453,2290,480"/>
+<area shape="rect" id="node15" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1729,453,1861,480"/>
+<area shape="rect" id="node21" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1936,453,2125,480"/>
+<area shape="rect" id="node38" href="$c_2Types_8h.html" title="llvm&#45;c/Types.h" alt="" coords="847,304,955,331"/>
+<area shape="rect" id="node39" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="792,229,1011,256"/>
+<area shape="rect" id="node49" href="$DiagnosticHandler_8h.html" title="llvm/IR/DiagnosticHandler.h" alt="" coords="581,229,768,256"/>
+</map>

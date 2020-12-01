@@ -1,0 +1,5 @@
+<map id="include/llvm/MCA/Pipeline.h" name="include/llvm/MCA/Pipeline.h">
+<area shape="rect" id="node2" href="$Context_8h.html" title="This file defines a class for holding ownership of various simulated hardware units. " alt="" coords="5,80,192,107"/>
+<area shape="rect" id="node4" href="$Pipeline_8cpp.html" title="This file implements an ordered container of stages that simulate the pipeline of a hardware backend..." alt="" coords="216,80,360,107"/>
+<area shape="rect" id="node3" href="$Context_8cpp.html" title="This file defines a class for holding ownership of various simulated hardware units. " alt="" coords="27,155,171,181"/>
+</map>

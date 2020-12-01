@@ -1,0 +1,6 @@
+<map id="llvm::StatepointBase&lt; FunTy, InstructionTy, ValueTy, CallBaseTy &gt;" name="llvm::StatepointBase&lt; FunTy, InstructionTy, ValueTy, CallBaseTy &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1StatepointBase.html" title="llvm::StatepointBase\l\&lt; const Function, const\l Instruction, const Value,\l const CallBase \&gt;" alt="" coords="363,5,531,76"/>
+<area shape="rect" id="node4" href="$classllvm_1_1StatepointBase.html" title="llvm::StatepointBase\l\&lt; Function, Instruction,\l Value, CallBase \&gt;" alt="" coords="368,101,525,157"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ImmutableStatepoint.html" title="A specialization of it&#39;s base class for read only access to a gc.statepoint. " alt="" coords="580,27,755,54"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Statepoint.html" title="A specialization of it&#39;s base class for read&#45;write access to a gc.statepoint. " alt="" coords="611,115,724,142"/>
+</map>

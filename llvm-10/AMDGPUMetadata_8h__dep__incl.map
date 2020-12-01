@@ -1,0 +1,14 @@
+<map id="include/llvm/Support/AMDGPUMetadata.h" name="include/llvm/Support/AMDGPUMetadata.h">
+<area shape="rect" id="node2" href="$AMDGPUMetadataVerifier_8cpp.html" title="Implements a verifier for AMDGPU HSA metadata. " alt="" coords="5,95,240,136"/>
+<area shape="rect" id="node3" href="$AMDGPUMetadata_8cpp.html" title="AMDGPU metadata definitions and in&#45;memory representations. " alt="" coords="264,102,491,129"/>
+<area shape="rect" id="node4" href="$AMDGPUHSAMetadataStreamer_8h.html" title="AMDGPU HSA Metadata Streamer. " alt="" coords="693,95,977,136"/>
+<area shape="rect" id="node6" href="$AMDGPUAsmPrinter_8cpp.html" title="The AMDGPUAsmPrinter is used to print both assembly string and also binary code. " alt="" coords="489,273,719,315"/>
+<area shape="rect" id="node8" href="$AMDGPUPALMetadata_8cpp.html" title="This class has methods called by AMDGPUAsmPrinter to accumulate and print the PAL metadata..." alt="" coords="1608,273,1797,315"/>
+<area shape="rect" id="node10" href="$AMDGPUTargetStreamer_8h.html" title="lib/Target/AMDGPU/MCTarget\lDesc/AMDGPUTargetStreamer.h" alt="" coords="1186,95,1403,136"/>
+<area shape="rect" id="node11" href="$AMDGPUAsmParser_8cpp.html" title="lib/Target/AMDGPU/AsmParser\l/AMDGPUAsmParser.cpp" alt="" coords="1740,184,1948,225"/>
+<area shape="rect" id="node5" href="$AMDGPUAsmPrinter_8h.html" title="AMDGPU Assembly printer class. " alt="" coords="565,184,795,225"/>
+<area shape="rect" id="node9" href="$AMDGPUHSAMetadataStreamer_8cpp.html" title="AMDGPU HSA Metadata Streamer. " alt="" coords="819,184,1103,225"/>
+<area shape="rect" id="node7" href="$AMDGPUMCInstLower_8cpp.html" title="Code to lower AMDGPU MachineInstrs to their corresponding MCInst. " alt="" coords="743,273,988,315"/>
+<area shape="rect" id="node12" href="$AMDGPUMCTargetDesc_8cpp.html" title="This file provides AMDGPU specific target descriptions. " alt="" coords="1179,184,1410,225"/>
+<area shape="rect" id="node13" href="$AMDGPUTargetStreamer_8cpp.html" title="lib/Target/AMDGPU/MCTarget\lDesc/AMDGPUTargetStreamer.cpp" alt="" coords="1434,184,1665,225"/>
+</map>

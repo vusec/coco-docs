@@ -1,0 +1,4 @@
+<map id="llvm::BlockFrequencyInfoImpl&lt; BT &gt;" name="llvm::BlockFrequencyInfoImpl&lt; BT &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1BlockFrequencyInfoImplBase.html" title="Base class for BlockFrequencyInfoImpl. " alt="" coords="359,104,529,145"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SparseBitVector.html" title="llvm::SparseBitVector\l\&lt; ElementSize \&gt;" alt="" coords="35,5,184,47"/>
+</map>

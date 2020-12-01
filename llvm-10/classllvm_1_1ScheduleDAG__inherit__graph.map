@@ -1,0 +1,12 @@
+<map id="llvm::ScheduleDAG" name="llvm::ScheduleDAG">
+<area shape="rect" id="node2" href="$classllvm_1_1ScheduleDAGInstrs.html" title="A ScheduleDAG for scheduling lists of MachineInstr. " alt="" coords="203,81,373,108"/>
+<area shape="rect" id="node11" href="$classllvm_1_1ScheduleDAGSDNodes.html" title="ScheduleDAGSDNodes &#45; A ScheduleDAG for scheduling SDNode&#45;based DAGs. " alt="" coords="191,132,385,159"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DefaultVLIWScheduler.html" title="llvm::DefaultVLIWScheduler" alt="" coords="433,31,620,57"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ScheduleDAGMI.html" title="ScheduleDAGMI is an implementation of ScheduleDAGInstrs that simply schedules machine instructions ac..." alt="" coords="451,81,603,108"/>
+<area shape="rect" id="node10" href="$classllvm_1_1SwingSchedulerDAG.html" title="This class builds the dependence graph for the instructions in a loop, and attempts to schedule the i..." alt="" coords="438,132,615,159"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ScheduleDAGMILive.html" title="ScheduleDAGMILive is an implementation of ScheduleDAGInstrs that schedules machine instructions while..." alt="" coords="668,81,844,108"/>
+<area shape="rect" id="node6" href="$classllvm_1_1GCNIterativeScheduler.html" title="llvm::GCNIterativeScheduler" alt="" coords="901,5,1090,32"/>
+<area shape="rect" id="node7" href="$classllvm_1_1GCNScheduleDAGMILive.html" title="llvm::GCNScheduleDAGMILive" alt="" coords="892,56,1099,83"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SIScheduleDAGMI.html" title="llvm::SIScheduleDAGMI" alt="" coords="913,107,1078,133"/>
+<area shape="rect" id="node9" href="$classllvm_1_1VLIWMachineScheduler.html" title="Extend the standard ScheduleDAGMI to provide more context and override the top&#45;level schedule() drive..." alt="" coords="898,157,1093,184"/>
+</map>

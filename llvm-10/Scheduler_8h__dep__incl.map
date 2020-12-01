@@ -1,0 +1,12 @@
+<map id="include/llvm/MCA/HardwareUnits/Scheduler.h" name="include/llvm/MCA/HardwareUnits/Scheduler.h">
+<area shape="rect" id="node2" href="$Pipeline_8h.html" title="This file implements an ordered container of stages that simulate the pipeline of a hardware backend..." alt="" coords="173,102,360,129"/>
+<area shape="rect" id="node4" href="$Context_8cpp.html" title="This file defines a class for holding ownership of various simulated hardware units. " alt="" coords="325,273,469,300"/>
+<area shape="rect" id="node6" href="$ExecuteStage_8h.html" title="This file defines the execution stage of a default instruction pipeline. " alt="" coords="435,95,605,136"/>
+<area shape="rect" id="node8" href="$InstructionTables_8h.html" title="This file implements a custom stage to generate instruction tables. " alt="" coords="629,95,800,136"/>
+<area shape="rect" id="node10" href="$Scheduler_8cpp.html" title="lib/MCA/HardwareUnits\l/Scheduler.cpp" alt="" coords="824,95,984,136"/>
+<area shape="rect" id="node11" href="$DispatchStage_8cpp.html" title="This file models the dispatch component of an instruction pipeline. " alt="" coords="1008,102,1237,129"/>
+<area shape="rect" id="node3" href="$Context_8h.html" title="This file defines a class for holding ownership of various simulated hardware units. " alt="" coords="5,191,192,218"/>
+<area shape="rect" id="node5" href="$Pipeline_8cpp.html" title="This file implements an ordered container of stages that simulate the pipeline of a hardware backend..." alt="" coords="216,191,360,218"/>
+<area shape="rect" id="node7" href="$ExecuteStage_8cpp.html" title="This file defines the execution stage of an instruction pipeline. " alt="" coords="485,191,710,218"/>
+<area shape="rect" id="node9" href="$InstructionTables_8cpp.html" title="This file implements the method InstructionTables::execute(). " alt="" coords="735,184,913,225"/>
+</map>

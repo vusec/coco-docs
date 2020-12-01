@@ -1,0 +1,48 @@
+<map id="lib/Target/WebAssembly/WebAssemblyAsmPrinter.cpp" name="lib/Target/WebAssembly/WebAssemblyAsmPrinter.cpp">
+<area shape="rect" id="node2" href="$WebAssemblyAsmPrinter_8h.html" title="WebAssemblyAsmPrinter.h" alt="" coords="1169,102,1351,129"/>
+<area shape="rect" id="node3" href="$WebAssemblyMachineFunctionInfo_8h.html" title="This file declares WebAssembly&#45;specific per&#45;machine&#45;function information. " alt="" coords="1534,184,1741,225"/>
+<area shape="rect" id="node4" href="$WebAssemblyMCTargetDesc_8h.html" title="This file provides WebAssembly&#45;specific target descriptions. " alt="" coords="712,273,912,315"/>
+<area shape="rect" id="node6" href="$BinaryFormat_2Wasm_8h.html" title="llvm/BinaryFormat/Wasm.h" alt="" coords="1808,370,1989,397"/>
+<area shape="rect" id="node15" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2674,370,2859,397"/>
+<area shape="rect" id="node17" href="$MCSymbolWasm_8h.html" title="llvm/MC/MCSymbolWasm.h" alt="" coords="1501,281,1691,307"/>
+<area shape="rect" id="node18" href="$MCSymbol_8h.html" title="llvm/MC/MCSymbol.h" alt="" coords="1089,370,1239,397"/>
+<area shape="rect" id="node19" href="$AsmPrinter_8h.html" title="llvm/CodeGen/AsmPrinter.h" alt="" coords="857,191,1042,218"/>
+<area shape="rect" id="node20" href="$MCStreamer_8h.html" title="llvm/MC/MCStreamer.h" alt="" coords="1139,281,1299,307"/>
+<area shape="rect" id="node22" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="1933,281,2080,307"/>
+<area shape="rect" id="node24" href="$WebAssemblyInstPrinter_8h.html" title="This class prints an WebAssembly MCInst to wasm file syntax. " alt="" coords="2543,184,2743,225"/>
+<area shape="rect" id="node27" href="$WebAssemblyTargetStreamer_8h.html" title="This file declares WebAssembly&#45;specific target streamer classes. " alt="" coords="1816,184,2016,225"/>
+<area shape="rect" id="node28" href="$WebAssemblyTargetInfo_8h.html" title="This file registers the WebAssembly target. " alt="" coords="1478,95,1685,136"/>
+<area shape="rect" id="node29" href="$WebAssembly_8h.html" title="This file contains the entry points for global functions defined in the LLVM WebAssembly back&#45;end..." alt="" coords="467,191,586,218"/>
+<area shape="rect" id="node31" href="$WebAssemblyMCInstLower_8h.html" title="This file declares the class to lower WebAssembly MachineInstrs to their corresponding MCInst records..." alt="" coords="2953,281,3149,307"/>
+<area shape="rect" id="node33" href="$WebAssemblyRegisterInfo_8h.html" title="This file contains the WebAssembly implementation of the WebAssemblyRegisterInfo class. " alt="" coords="5,102,195,129"/>
+<area shape="rect" id="node34" href="$WebAssemblyTargetMachine_8h.html" title="This file declares the WebAssembly&#45;specific subclass of TargetMachine. " alt="" coords="1709,102,1913,129"/>
+<area shape="rect" id="node35" href="$SmallSet_8h.html" title="llvm/ADT/SmallSet.h" alt="" coords="3534,370,3679,397"/>
+<area shape="rect" id="node39" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="2303,102,2467,129"/>
+<area shape="rect" id="node40" href="$CodeGen_2Analysis_8h.html" title="llvm/CodeGen/Analysis.h" alt="" coords="661,191,832,218"/>
+<area shape="rect" id="node41" href="$MachineConstantPool_8h.html" title="This file declares the MachineConstantPool class which is an abstract constant pool to keep track of ..." alt="" coords="2543,95,2753,136"/>
+<area shape="rect" id="node42" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="304,281,499,307"/>
+<area shape="rect" id="node43" href="$MachineModuleInfoImpls_8h.html" title="llvm/CodeGen/MachineModule\lInfoImpls.h" alt="" coords="2828,95,3028,136"/>
+<area shape="rect" id="node44" href="$DebugInfoMetadata_8h.html" title="llvm/IR/DebugInfoMetadata.h" alt="" coords="3173,281,3366,307"/>
+<area shape="rect" id="node45" href="$Metadata_8h.html" title="This file contains the declarations for metadata subclasses. " alt="" coords="3139,370,3272,397"/>
+<area shape="rect" id="node46" href="$GlobalVariable_8h.html" title="llvm/IR/GlobalVariable.h" alt="" coords="3153,102,3316,129"/>
+<area shape="rect" id="node47" href="$MCContext_8h.html" title="llvm/MC/MCContext.h" alt="" coords="3442,281,3595,307"/>
+<area shape="rect" id="node48" href="$MCSectionWasm_8h.html" title="llvm/MC/MCSectionWasm.h" alt="" coords="2089,102,2279,129"/>
+<area shape="rect" id="node49" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="2091,191,2239,218"/>
+<area shape="rect" id="node50" href="$TargetRegistry_8h.html" title="llvm/Support/TargetRegistry.h" alt="" coords="195,191,391,218"/>
+<area shape="rect" id="node5" href="$WebAssemblySubtarget_8h.html" title="This file declares the WebAssembly&#45;specific subclass of TargetSubtarget. " alt="" coords="1365,370,1552,397"/>
+<area shape="rect" id="node21" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="1270,191,1458,218"/>
+<area shape="rect" id="node14" href="$MIRYamlMapping_8h.html" title="llvm/CodeGen/MIRYamlMapping.h" alt="" coords="2104,281,2328,307"/>
+<area shape="rect" id="node16" href="$MachineRegisterInfo_8h.html" title="llvm/CodeGen/MachineRegister\lInfo.h" alt="" coords="1577,363,1783,404"/>
+<area shape="rect" id="node10" href="$MCInstrDesc_8h.html" title="llvm/MC/MCInstrDesc.h" alt="" coords="422,370,586,397"/>
+<area shape="rect" id="node11" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="439,452,614,479"/>
+<area shape="rect" id="node7" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2540,452,2703,479"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3380,527,3543,553"/>
+<area shape="rect" id="node23" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="523,281,688,307"/>
+<area shape="rect" id="node25" href="$MCInstPrinter_8h.html" title="llvm/MC/MCInstPrinter.h" alt="" coords="2659,281,2826,307"/>
+<area shape="rect" id="node26" href="$MachineValueType_8h.html" title="llvm/Support/MachineValue\lType.h" alt="" coords="2352,273,2533,315"/>
+<area shape="rect" id="node30" href="$PassRegistry_8h.html" title="llvm/PassRegistry.h" alt="" coords="190,452,330,479"/>
+<area shape="rect" id="node32" href="$MCInst_8h.html" title="llvm/MC/MCInst.h" alt="" coords="2883,370,3013,397"/>
+<area shape="rect" id="node36" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="3251,452,3373,479"/>
+<area shape="rect" id="node37" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="3499,452,3661,479"/>
+<area shape="rect" id="node38" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="3737,452,3869,479"/>
+</map>

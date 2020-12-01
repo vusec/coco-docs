@@ -1,0 +1,28 @@
+<map id="llvm::MachineOptimizationRemark" name="llvm::MachineOptimizationRemark">
+<area shape="rect" id="node2" href="$classllvm_1_1DiagnosticInfoMIROptimization.html" title="Common features for diagnostics dealing with optimization remarks that are used by machine passes..." alt="" coords="3313,266,3549,293"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DiagnosticInfoOptimizationBase.html" title="Common features for diagnostics dealing with optimization remarks that are used by both IR and MIR pa..." alt="" coords="3023,266,3264,293"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DiagnosticInfoWithLocationBase.html" title="Common features for diagnostics with an associated location. " alt="" coords="2671,5,2837,47"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DiagnosticInfo.html" title="This is the base abstract class for diagnostic reporting in the backend. " alt="" coords="2213,13,2351,39"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::DiagnosticInfoOptimization\lBase::Argument, 4 \&gt;" alt="" coords="2647,186,2861,242"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; llvm::DiagnosticInfoOptimization\lBase::Argument \&gt;" alt="" coords="2171,286,2393,342"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="1128,302,1381,358"/>
+<area shape="rect" id="node9" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="llvm::SmallVectorTemplate\lCommon\&lt; T \&gt;" alt="" coords="649,367,828,408"/>
+<area shape="rect" id="node15" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; T \&gt;" alt="" coords="1427,368,1606,409"/>
+<area shape="rect" id="node16" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="919,425,1098,467"/>
+<area shape="rect" id="node10" href="$classllvm_1_1SmallVectorBase.html" title="This is all the non&#45;templated stuff common to all SmallVectors. " alt="" coords="181,374,336,401"/>
+<area shape="rect" id="node13" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="This is the part of SmallVectorTemplateBase which does not depend on whether the type T is a POD..." alt="" coords="385,396,564,437"/>
+<area shape="rect" id="node11" href="$classunsigned.html" title="unsigned" alt="" coords="5,349,80,375"/>
+<area shape="rect" id="node14" href="$classllvm_1_1SmallVectorImpl.html" title="This class consists of common code factored out of the SmallVector class to reduce code duplication b..." alt="" coords="1735,375,1917,402"/>
+<area shape="rect" id="node23" href="$classllvm_1_1SmallVector.html" title="This is a &#39;vector&#39; (really, a variable&#45;sized array), optimized for the case when the array is small..." alt="" coords="2215,220,2349,261"/>
+<area shape="rect" id="node17" href="$structllvm_1_1SmallVectorStorage.html" title="llvm::SmallVectorStorage\l\&lt; llvm::DiagnosticInfoOptimization\lBase::Argument, N \&gt;" alt="" coords="2171,139,2393,195"/>
+<area shape="rect" id="node18" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::DiagnosticInfoOptimization\lBase::Argument \&gt;" alt="" coords="1405,122,1628,178"/>
+<area shape="rect" id="node19" href="$classchar.html" title="char" alt="" coords="715,141,762,167"/>
+<area shape="rect" id="node20" href="$structllvm_1_1AlignedCharArrayUnion.html" title="A suitably aligned and sized character array member which can hold elements of any type..." alt="" coords="913,185,1104,227"/>
+<area shape="rect" id="node22" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\&lt; T \&gt;" alt="" coords="1405,223,1628,250"/>
+<area shape="rect" id="node21" href="$structllvm_1_1SmallVectorStorage.html" title="Storage for the SmallVector elements. " alt="" coords="1741,216,1911,257"/>
+<area shape="rect" id="node24" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; uint64_t \&gt;" alt="" coords="2668,266,2840,293"/>
+<area shape="rect" id="node25" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; T \&gt;" alt="" coords="2215,366,2349,393"/>
+<area shape="rect" id="node27" href="$classbool.html" title="bool" alt="" coords="2731,367,2777,394"/>
+<area shape="rect" id="node28" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e. " alt="" coords="2699,418,2809,445"/>
+<area shape="rect" id="node29" href="$classsize__t.html" title="size_t" alt="" coords="2253,418,2311,445"/>
+</map>

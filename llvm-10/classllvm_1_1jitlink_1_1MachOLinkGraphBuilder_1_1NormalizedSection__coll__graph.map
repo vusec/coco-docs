@@ -1,0 +1,5 @@
+<map id="llvm::jitlink::MachOLinkGraphBuilder::NormalizedSection" name="llvm::jitlink::MachOLinkGraphBuilder::NormalizedSection">
+<area shape="rect" id="node3" href="$classchar.html" title="char" alt="" coords="103,5,149,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1jitlink_1_1Section.html" title="Represents an object file section. " alt="" coords="174,5,310,32"/>
+<area shape="rect" id="node5" href="$classuint32__t.html" title="uint32_t" alt="" coords="335,5,403,32"/>
+</map>

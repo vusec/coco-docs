@@ -1,0 +1,35 @@
+<map id="lib/Object/WindowsResource.cpp" name="lib/Object/WindowsResource.cpp">
+<area shape="rect" id="node2" href="$WindowsResource_8h.html" title="llvm/Object/WindowsResource.h" alt="" coords="1652,80,1865,107"/>
+<area shape="rect" id="node28" href="$Object_2COFF_8h.html" title="llvm/Object/COFF.h" alt="" coords="1893,155,2032,181"/>
+<area shape="rect" id="node30" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1209,632,1386,659"/>
+<area shape="rect" id="node40" href="$FileOutputBuffer_8h.html" title="llvm/Support/FileOutputBuffer.h" alt="" coords="1987,304,2192,331"/>
+<area shape="rect" id="node44" href="$FormatVariadic_8h.html" title="llvm/Support/FormatVariadic.h" alt="" coords="3350,304,3549,331"/>
+<area shape="rect" id="node48" href="$ScopedPrinter_8h.html" title="llvm/Support/ScopedPrinter.h" alt="" coords="583,475,775,502"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1065,557,1209,584"/>
+<area shape="rect" id="node19" href="$BinaryFormat_2COFF_8h.html" title="llvm/BinaryFormat/COFF.h" alt="" coords="145,632,324,659"/>
+<area shape="rect" id="node22" href="$Binary_8h.html" title="llvm/Object/Binary.h" alt="" coords="1771,304,1911,331"/>
+<area shape="rect" id="node23" href="$Object_2Error_8h.html" title="llvm/Object/Error.h" alt="" coords="2127,386,2257,413"/>
+<area shape="rect" id="node24" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="1828,475,1967,502"/>
+<area shape="rect" id="node34" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="881,632,1031,659"/>
+<area shape="rect" id="node39" href="$BinaryByteStream_8h.html" title="llvm/Support/BinaryByteStream.h" alt="" coords="1329,229,1545,256"/>
+<area shape="rect" id="node41" href="$ConvertUTF_8h.html" title="llvm/Support/ConvertUTF.h" alt="" coords="3885,557,4067,584"/>
+<area shape="rect" id="node42" href="$BinaryStreamReader_8h.html" title="llvm/Support/BinaryStream\lReader.h" alt="" coords="1593,379,1772,420"/>
+<area shape="rect" id="node4" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2823,707,2977,733"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="957,856,1120,883"/>
+<area shape="rect" id="node5" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3141,781,3281,808"/>
+<area shape="rect" id="node9" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="4151,781,4321,808"/>
+<area shape="rect" id="node10" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1983,781,2172,808"/>
+<area shape="rect" id="node20" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="46,781,221,808"/>
+<area shape="rect" id="node25" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2197,557,2382,584"/>
+<area shape="rect" id="node26" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2721,632,2868,659"/>
+<area shape="rect" id="node29" href="$SubtargetFeature_8h.html" title="llvm/MC/SubtargetFeature.h" alt="" coords="2609,557,2796,584"/>
+<area shape="rect" id="node33" href="$CVDebugRecord_8h.html" title="llvm/Object/CVDebugRecord.h" alt="" coords="913,229,1116,256"/>
+<area shape="rect" id="node35" href="$ObjectFile_8h.html" title="llvm/Object/ObjectFile.h" alt="" coords="2317,229,2480,256"/>
+<area shape="rect" id="node31" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1007,707,1209,733"/>
+<area shape="rect" id="node36" href="$FileSystem_8h.html" title="llvm/Support/FileSystem.h" alt="" coords="2832,386,3008,413"/>
+<area shape="rect" id="node37" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="2962,475,3121,502"/>
+<area shape="rect" id="node45" href="$FormatCommon_8h.html" title="llvm/Support/FormatCommon.h" alt="" coords="2383,386,2587,413"/>
+<area shape="rect" id="node46" href="$FormatVariadicDetails_8h.html" title="llvm/Support/FormatVariadic\lDetails.h" alt="" coords="2396,468,2583,509"/>
+<area shape="rect" id="node47" href="$FormatProviders_8h.html" title="llvm/Support/FormatProviders.h" alt="" coords="3399,386,3606,413"/>
+<area shape="rect" id="node49" href="$APSInt_8h.html" title="llvm/ADT/APSInt.h" alt="" coords="501,557,635,584"/>
+</map>

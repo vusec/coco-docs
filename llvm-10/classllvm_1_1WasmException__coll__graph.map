@@ -1,0 +1,40 @@
+<map id="llvm::WasmException" name="llvm::WasmException">
+<area shape="rect" id="node2" href="$classllvm_1_1EHStreamer.html" title="Emits exception handling directives. " alt="" coords="1601,57,1728,84"/>
+<area shape="rect" id="node3" href="$classllvm_1_1AsmPrinterHandler.html" title="Collects and handles AsmPrinter objects required to build debug or EH information. " alt="" coords="1357,5,1521,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MachineModuleInfo.html" title="This class contains meta information specific to a module. " alt="" coords="956,60,1123,87"/>
+<area shape="rect" id="node5" href="$classllvm_1_1AsmPrinter.html" title="This class is intended to be used as a driving class for all asm writers. " alt="" coords="1380,515,1499,541"/>
+<area shape="rect" id="node6" href="$classllvm_1_1MachineFunctionPass.html" title="MachineFunctionPass &#45; This class adapts the FunctionPass interface to allow convenient creation of pa..." alt="" coords="495,283,678,309"/>
+<area shape="rect" id="node9" href="$classllvm_1_1MachineLoopInfo.html" title="llvm::MachineLoopInfo" alt="" coords="963,363,1116,389"/>
+<area shape="rect" id="node15" href="$classllvm_1_1MachineDominatorTree.html" title="DominatorTree Class &#45; Concrete subclass of DominatorTreeBase that is used to compute a normal dominat..." alt="" coords="945,515,1134,541"/>
+<area shape="rect" id="node38" href="$classllvm_1_1MachineBlockFrequencyInfo.html" title="MachineBlockFrequencyInfo pass uses BlockFrequencyInfoImpl implementation to estimate machine basic b..." alt="" coords="930,413,1149,440"/>
+<area shape="rect" id="node7" href="$classllvm_1_1FunctionPass.html" title="FunctionPass class &#45; This class is used to implement most global optimizations. " alt="" coords="56,283,191,309"/>
+<area shape="rect" id="node8" href="$classllvm_1_1MachineOptimizationRemarkEmitter.html" title="The optimization diagnostic interface. " alt="" coords="951,297,1127,338"/>
+<area shape="rect" id="node10" href="$classchar.html" title="char" alt="" coords="563,436,610,463"/>
+<area shape="rect" id="node47" href="$classllvm_1_1MCAsmInfo.html" title="This class is intended to be used as a base class for asm properties and features specific to the tar..." alt="" coords="977,780,1101,807"/>
+<area shape="rect" id="node11" href="$classllvm_1_1MachineFunction.html" title="llvm::MachineFunction" alt="" coords="963,729,1116,756"/>
+<area shape="rect" id="node12" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l VariableDbgInfo, 4 \&gt;" alt="" coords="513,627,660,669"/>
+<area shape="rect" id="node13" href="$classllvm_1_1SmallVector.html" title="This is a &#39;vector&#39; (really, a variable&#45;sized array), optimized for the case when the array is small..." alt="" coords="57,649,190,690"/>
+<area shape="rect" id="node16" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::AsmPrinter::Handler\lInfo, 1 \&gt;" alt="" coords="499,547,675,603"/>
+<area shape="rect" id="node35" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::AsmPrinter::XRayFunction\lEntry, 4 \&gt;" alt="" coords="479,1967,694,2023"/>
+<area shape="rect" id="node14" href="$classllvm_1_1ProfileSummaryInfo.html" title="Analysis providing profile information. " alt="" coords="955,464,1124,491"/>
+<area shape="rect" id="node17" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; llvm::AsmPrinter::Handler\lInfo \&gt;" alt="" coords="31,547,215,603"/>
+<area shape="rect" id="node18" href="$structllvm_1_1SmallVectorStorage.html" title="llvm::SmallVectorStorage\l\&lt; llvm::AsmPrinter::HandlerInfo, N \&gt;" alt="" coords="5,481,241,522"/>
+<area shape="rect" id="node19" href="$classllvm_1_1TargetMachine.html" title="Primary interface to the complete machine description for the target machine. " alt="" coords="969,1195,1109,1221"/>
+<area shape="rect" id="node20" href="$classllvm_1_1TargetOptions.html" title="llvm::TargetOptions" alt="" coords="519,1107,655,1133"/>
+<area shape="rect" id="node22" href="$classunsigned.html" title="unsigned" alt="" coords="86,1291,161,1317"/>
+<area shape="rect" id="node39" href="$classllvm_1_1MCSymbol.html" title="MCSymbol &#45; Instances of this class represent a symbol name in the MC file, and MCSymbols are created ..." alt="" coords="527,2119,646,2145"/>
+<area shape="rect" id="node25" href="$classllvm_1_1Target.html" title="Target &#45; Wrapper for Target specific information. " alt="" coords="541,1535,632,1561"/>
+<area shape="rect" id="node27" href="$classllvm_1_1DataLayout.html" title="A parsed version of the target data layout string in and methods for querying it. ..." alt="" coords="526,1005,647,1032"/>
+<area shape="rect" id="node31" href="$classllvm_1_1Triple.html" title="Triple &#45; Helper class for working with autoconf configuration names. " alt="" coords="543,1224,630,1251"/>
+<area shape="rect" id="node32" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::MCSection *, unsigned \&gt;" alt="" coords="937,1769,1141,1810"/>
+<area shape="rect" id="node33" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; const llvm\l::MCSection *, unsigned,\l DenseMapInfo\&lt; const llvm\l::MCSection *\&gt;, llvm::detail\l::DenseMapPair\&lt; const llvm::\lMCSection *, unsigned \&gt; \&gt;, const\l llvm::MCSection *, unsigned, DenseMapInfo\l\&lt; const llvm::MCSection *\&gt;, llvm::detail\l::DenseMapPair\&lt; const llvm::MCSection *,\l unsigned \&gt; \&gt;" alt="" coords="444,1703,729,1876"/>
+<area shape="rect" id="node34" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="488,1901,685,1942"/>
+<area shape="rect" id="node36" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; llvm::AsmPrinter::XRayFunction\lEntry \&gt;" alt="" coords="12,1880,235,1936"/>
+<area shape="rect" id="node37" href="$structllvm_1_1SmallVectorStorage.html" title="llvm::SmallVectorStorage\l\&lt; llvm::AsmPrinter::XRayFunction\lEntry, N \&gt;" alt="" coords="12,1960,235,2016"/>
+<area shape="rect" id="node40" href="$classllvm_1_1MCExpr.html" title="Base class for the full range of assembler expressions which are needed for parsing. " alt="" coords="72,2259,175,2285"/>
+<area shape="rect" id="node43" href="$classllvm_1_1MCFragment.html" title="llvm::MCFragment" alt="" coords="58,2091,189,2117"/>
+<area shape="rect" id="node44" href="$classllvm_1_1PointerIntPair.html" title="llvm::PointerIntPair\l\&lt; llvm::MCFragment *, 1 \&gt;" alt="" coords="34,2142,213,2183"/>
+<area shape="rect" id="node45" href="$classuint32__t.html" title="uint32_t" alt="" coords="89,2208,157,2235"/>
+<area shape="rect" id="node46" href="$classllvm_1_1MCContext.html" title="Context object for machine code objects. " alt="" coords="979,1961,1100,1988"/>
+<area shape="rect" id="node50" href="$classllvm_1_1MapVector.html" title="llvm::MapVector\&lt; const\l llvm::MCSymbol *, GOTEquivUse\lPair \&gt;" alt="" coords="927,165,1152,221"/>
+</map>

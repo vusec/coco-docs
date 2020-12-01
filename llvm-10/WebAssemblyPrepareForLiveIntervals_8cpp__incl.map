@@ -1,0 +1,43 @@
+<map id="lib/Target/WebAssembly/WebAssemblyPrepareForLiveIntervals.cpp" name="lib/Target/WebAssembly/WebAssemblyPrepareForLiveIntervals.cpp">
+<area shape="rect" id="node2" href="$WebAssemblyMCTargetDesc_8h.html" title="This file provides WebAssembly&#45;specific target descriptions. " alt="" coords="1203,452,1403,493"/>
+<area shape="rect" id="node3" href="$WebAssemblySubtarget_8h.html" title="This file declares the WebAssembly&#45;specific subclass of TargetSubtarget. " alt="" coords="769,541,955,568"/>
+<area shape="rect" id="node23" href="$WebAssembly_8h.html" title="This file contains the entry points for global functions defined in the LLVM WebAssembly back&#45;end..." alt="" coords="1641,459,1760,486"/>
+<area shape="rect" id="node26" href="$WebAssemblyMachineFunctionInfo_8h.html" title="This file declares WebAssembly&#45;specific per&#45;machine&#45;function information. " alt="" coords="1848,95,2055,136"/>
+<area shape="rect" id="node28" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2313,459,2499,486"/>
+<area shape="rect" id="node30" href="$MachineRegisterInfo_8h.html" title="llvm/CodeGen/MachineRegister\lInfo.h" alt="" coords="2735,184,2941,225"/>
+<area shape="rect" id="node43" href="$WebAssemblyUtilities_8h.html" title="This file contains the declaration of the WebAssembly&#45;specific utility functions. ..." alt="" coords="4095,191,4258,218"/>
+<area shape="rect" id="node44" href="$MachineFunctionPass_8h.html" title="llvm/CodeGen/MachineFunction\lPass.h" alt="" coords="4282,184,4490,225"/>
+<area shape="rect" id="node46" href="$MachineInstrBuilder_8h.html" title="llvm/CodeGen/MachineInstr\lBuilder.h" alt="" coords="3887,184,4071,225"/>
+<area shape="rect" id="node49" href="$CodeGen_2Passes_8h.html" title="llvm/CodeGen/Passes.h" alt="" coords="4740,370,4904,397"/>
+<area shape="rect" id="node50" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="4791,102,4939,129"/>
+<area shape="rect" id="node19" href="$BinaryFormat_2Wasm_8h.html" title="llvm/BinaryFormat/Wasm.h" alt="" coords="2086,541,2267,568"/>
+<area shape="rect" id="node20" href="$MCInstrDesc_8h.html" title="llvm/MC/MCInstrDesc.h" alt="" coords="1897,541,2061,568"/>
+<area shape="rect" id="node21" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="1985,623,2160,650"/>
+<area shape="rect" id="node4" href="$WebAssemblyFrameLowering_8h.html" title="This class implements WebAssembly&#45;specific bits of TargetFrameLowering class. " alt="" coords="223,623,429,650"/>
+<area shape="rect" id="node5" href="$WebAssemblyISelLowering_8h.html" title="This file defines the interfaces that WebAssembly uses to lower LLVM code into a selection DAG..." alt="" coords="5,623,199,650"/>
+<area shape="rect" id="node6" href="$WebAssemblyInstrInfo_8h.html" title="This file contains the WebAssembly implementation of the TargetInstrInfo class. " alt="" coords="1057,623,1224,650"/>
+<area shape="rect" id="node15" href="$WebAssemblySelectionDAGInfo_8h.html" title="This file defines the WebAssembly subclass for SelectionDAGTargetInfo. " alt="" coords="453,623,676,650"/>
+<area shape="rect" id="node16" href="$TargetSubtargetInfo_8h.html" title="llvm/CodeGen/TargetSubtarget\lInfo.h" alt="" coords="1758,616,1961,657"/>
+<area shape="rect" id="node7" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2867,705,3011,732"/>
+<area shape="rect" id="node8" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2761,780,2923,807"/>
+<area shape="rect" id="node9" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="4254,855,4443,881"/>
+<area shape="rect" id="node17" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="1637,705,1802,732"/>
+<area shape="rect" id="node24" href="$PassRegistry_8h.html" title="llvm/PassRegistry.h" alt="" coords="1631,541,1771,568"/>
+<area shape="rect" id="node25" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2697,623,2851,650"/>
+<area shape="rect" id="node27" href="$MIRYamlMapping_8h.html" title="llvm/CodeGen/MIRYamlMapping.h" alt="" coords="2313,370,2537,397"/>
+<area shape="rect" id="node42" href="$MCSymbolWasm_8h.html" title="llvm/MC/MCSymbolWasm.h" alt="" coords="1897,370,2086,397"/>
+<area shape="rect" id="node31" href="$BitVector_8h.html" title="llvm/ADT/BitVector.h" alt="" coords="2827,459,2974,486"/>
+<area shape="rect" id="node32" href="$IndexedMap_8h.html" title="llvm/ADT/IndexedMap.h" alt="" coords="3182,705,3345,732"/>
+<area shape="rect" id="node33" href="$PointerUnion_8h.html" title="llvm/ADT/PointerUnion.h" alt="" coords="3303,459,3469,486"/>
+<area shape="rect" id="node34" href="$StringSet_8h.html" title="llvm/ADT/StringSet.h" alt="" coords="2539,780,2686,807"/>
+<area shape="rect" id="node35" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="3873,363,4064,404"/>
+<area shape="rect" id="node37" href="$MachineOperand_8h.html" title="llvm/CodeGen/MachineOperand.h" alt="" coords="3723,541,3942,568"/>
+<area shape="rect" id="node39" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="3099,281,3318,307"/>
+<area shape="rect" id="node40" href="$MachineInstrBundle_8h.html" title="llvm/CodeGen/MachineInstr\lBundle.h" alt="" coords="3822,273,4006,315"/>
+<area shape="rect" id="node41" href="$TargetRegisterInfo_8h.html" title="llvm/CodeGen/TargetRegister\lInfo.h" alt="" coords="3502,273,3697,315"/>
+<area shape="rect" id="node36" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="3697,459,3891,486"/>
+<area shape="rect" id="node38" href="$Intrinsics_8h.html" title="llvm/IR/Intrinsics.h" alt="" coords="3817,623,3949,650"/>
+<area shape="rect" id="node45" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="4689,780,4779,807"/>
+<area shape="rect" id="node47" href="$CodeGen_2GlobalISel_2Utils_8h.html" title="llvm/CodeGen/GlobalISel\l/Utils.h" alt="" coords="4343,273,4512,315"/>
+<area shape="rect" id="node48" href="$InstrTypes_8h.html" title="llvm/IR/InstrTypes.h" alt="" coords="4321,459,4462,486"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1AllocatorBase.html" title="llvm::AllocatorBase\l\&lt; BumpPtrAllocatorImpl\l\&lt; MallocAllocator, SlabSize,\l SlabSize \&gt; \&gt;" alt="" coords="5,5,192,76"/>
+<area shape="rect" id="node2" href="$classllvm_1_1BumpPtrAllocatorImpl.html" title="llvm::BumpPtrAllocatorImpl\l\&lt; MallocAllocator, 65536 \&gt;" alt="" coords="240,20,421,61"/>
+</map>

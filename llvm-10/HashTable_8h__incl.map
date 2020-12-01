@@ -1,0 +1,32 @@
+<map id="include/llvm/DebugInfo/PDB/Native/HashTable.h" name="include/llvm/DebugInfo/PDB/Native/HashTable.h">
+<area shape="rect" id="node2" href="$SparseBitVector_8h.html" title="llvm/ADT/SparseBitVector.h" alt="" coords="317,527,504,553"/>
+<area shape="rect" id="node27" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="4267,825,4399,852"/>
+<area shape="rect" id="node33" href="$RawError_8h.html" title="llvm/DebugInfo/PDB\l/Native/RawError.h" alt="" coords="1799,363,1942,404"/>
+<area shape="rect" id="node34" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="3053,452,3192,479"/>
+<area shape="rect" id="node43" href="$BinaryStreamReader_8h.html" title="llvm/Support/BinaryStream\lReader.h" alt="" coords="3000,95,3179,136"/>
+<area shape="rect" id="node48" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="1721,751,1871,777"/>
+<area shape="rect" id="node50" href="$BinaryStreamWriter_8h.html" title="llvm/Support/BinaryStream\lWriter.h" alt="" coords="3987,95,4165,136"/>
+<area shape="rect" id="node3" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="655,825,844,852"/>
+<area shape="rect" id="node6" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1998,751,2175,777"/>
+<area shape="rect" id="node15" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2057,601,2242,628"/>
+<area shape="rect" id="node4" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1764,900,1927,927"/>
+<area shape="rect" id="node7" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="2080,825,2283,852"/>
+<area shape="rect" id="node16" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2389,676,2552,703"/>
+<area shape="rect" id="node25" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3461,676,3608,703"/>
+<area shape="rect" id="node17" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3824,900,3995,927"/>
+<area shape="rect" id="node20" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1851,825,2005,852"/>
+<area shape="rect" id="node21" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2709,825,2880,852"/>
+<area shape="rect" id="node26" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3968,751,4123,777"/>
+<area shape="rect" id="node35" href="$c_2Error_8h.html" title="llvm&#45;c/Error.h" alt="" coords="2982,527,3082,553"/>
+<area shape="rect" id="node36" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="2659,527,2823,553"/>
+<area shape="rect" id="node39" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="2577,601,2703,628"/>
+<area shape="rect" id="node40" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="3106,527,3254,553"/>
+<area shape="rect" id="node41" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer. " alt="" coords="2829,751,2981,777"/>
+<area shape="rect" id="node42" href="$Format_8h.html" title="llvm/Support/Format.h" alt="" coords="3710,527,3861,553"/>
+<area shape="rect" id="node37" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="4019,601,4163,628"/>
+<area shape="rect" id="node44" href="$BinaryStreamArray_8h.html" title="llvm/Support/BinaryStream\lArray.h" alt="" coords="4349,184,4528,225"/>
+<area shape="rect" id="node45" href="$BinaryStreamRef_8h.html" title="llvm/Support/BinaryStream\lRef.h" alt="" coords="4876,273,5055,315"/>
+<area shape="rect" id="node47" href="$ConvertUTF_8h.html" title="llvm/Support/ConvertUTF.h" alt="" coords="905,751,1087,777"/>
+<area shape="rect" id="node46" href="$BinaryStreamError_8h.html" title="llvm/Support/BinaryStream\lError.h" alt="" coords="3355,363,3533,404"/>
+<area shape="rect" id="node49" href="$Host_8h.html" title="llvm/Support/Host.h" alt="" coords="1587,825,1725,852"/>
+</map>

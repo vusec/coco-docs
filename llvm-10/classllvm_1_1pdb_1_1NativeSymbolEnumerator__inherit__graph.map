@@ -1,0 +1,4 @@
+<map id="llvm::pdb::NativeSymbolEnumerator" name="llvm::pdb::NativeSymbolEnumerator">
+<area shape="rect" id="node2" href="$classllvm_1_1pdb_1_1NativeRawSymbol.html" title="llvm::pdb::NativeRawSymbol" alt="" coords="25,80,217,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1pdb_1_1IPDBRawSymbol.html" title="IPDBRawSymbol defines an interface used to represent an arbitrary symbol. " alt="" coords="28,5,215,32"/>
+</map>

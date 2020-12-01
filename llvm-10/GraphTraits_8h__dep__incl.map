@@ -1,0 +1,51 @@
+<map id="include/llvm/ADT/GraphTraits.h" name="include/llvm/ADT/GraphTraits.h">
+<area shape="rect" id="node2" href="$BreadthFirstIterator_8h.html" title="include/llvm/ADT/Breadth\lFirstIterator.h" alt="" coords="53,80,224,121"/>
+<area shape="rect" id="node4" href="$DepthFirstIterator_8h.html" title="include/llvm/ADT/DepthFirst\lIterator.h" alt="" coords="2672,80,2859,121"/>
+<area shape="rect" id="node8" href="$RegionInfoImpl_8h.html" title="include/llvm/Analysis\l/RegionInfoImpl.h" alt="" coords="2557,437,2702,479"/>
+<area shape="rect" id="node9" href="$HexagonCommonGEP_8cpp.html" title="lib/Target/Hexagon\l/HexagonCommonGEP.cpp" alt="" coords="1016,348,1200,389"/>
+<area shape="rect" id="node10" href="$ADCE_8cpp.html" title="lib/Transforms/Scalar\l/ADCE.cpp" alt="" coords="2692,348,2839,389"/>
+<area shape="rect" id="node11" href="$RegionInfo_8h.html" title="include/llvm/Analysis\l/RegionInfo.h" alt="" coords="3031,259,3177,300"/>
+<area shape="rect" id="node12" href="$RegionIterator_8h.html" title="include/llvm/Analysis\l/RegionIterator.h" alt="" coords="3142,348,3287,389"/>
+<area shape="rect" id="node15" href="$Dominators_8h.html" title="include/llvm/IR/Dominators.h" alt="" coords="1410,177,1601,203"/>
+<area shape="rect" id="node16" href="$MemorySSA_8h.html" title="This file exposes an interface to building/using memory SSA to walk memory instructions using a use/d..." alt="" coords="1399,259,1545,300"/>
+<area shape="rect" id="node18" href="$NewGVN_8cpp.html" title="This file implements the new LLVM&#39;s Global Value Numbering pass. " alt="" coords="2096,348,2243,389"/>
+<area shape="rect" id="node21" href="$HexagonGenExtract_8cpp.html" title="lib/Target/Hexagon\l/HexagonGenExtract.cpp" alt="" coords="615,259,785,300"/>
+<area shape="rect" id="node22" href="$VPlanDominatorTree_8h.html" title="This file implements dominator tree analysis for a single level of a VPlan&#39;s H&#45;CFG. " alt="" coords="3466,259,3630,300"/>
+<area shape="rect" id="node27" href="$VPlan_8h.html" title="This file contains the declarations of the Vectorization Plan base classes: " alt="" coords="3570,169,3734,211"/>
+<area shape="rect" id="node28" href="$VPlanPredicator_8cpp.html" title="This file implements the VPlanPredicator class which contains the public interfaces to predicate and ..." alt="" coords="3654,259,3818,300"/>
+<area shape="rect" id="node29" href="$DirectedGraph_8h.html" title="include/llvm/ADT/Directed\lGraph.h" alt="" coords="4993,80,5167,121"/>
+<area shape="rect" id="node30" href="$PostOrderIterator_8h.html" title="include/llvm/ADT/PostOrder\lIterator.h" alt="" coords="3309,169,3494,211"/>
+<area shape="rect" id="node31" href="$BlockFrequencyInfoImpl_8h.html" title="include/llvm/Analysis\l/BlockFrequencyInfoImpl.h" alt="" coords="4400,259,4579,300"/>
+<area shape="rect" id="node32" href="$BlockFrequencyInfoImpl_8cpp.html" title="lib/Analysis/BlockFrequency\lInfoImpl.cpp" alt="" coords="4715,348,4901,389"/>
+<area shape="rect" id="node33" href="$HexagonGenInsert_8cpp.html" title="lib/Target/Hexagon\l/HexagonGenInsert.cpp" alt="" coords="3893,259,4053,300"/>
+<area shape="rect" id="node34" href="$LowerMatrixIntrinsics_8cpp.html" title="lib/Transforms/Scalar\l/LowerMatrixIntrinsics.cpp" alt="" coords="417,259,591,300"/>
+<area shape="rect" id="node35" href="$SCCIterator_8h.html" title="This builds on the llvm/ADT/GraphTraits.h file to find the strongly connected components (SCCs) of a ..." alt="" coords="4762,87,4969,114"/>
+<area shape="rect" id="node36" href="$CallGraph_8h.html" title="This file provides interfaces used to build and manipulate a call graph, which is a very useful tool ..." alt="" coords="5191,80,5337,121"/>
+<area shape="rect" id="node37" href="$DominanceFrontier_8h.html" title="include/llvm/Analysis\l/DominanceFrontier.h" alt="" coords="1777,169,1924,211"/>
+<area shape="rect" id="node38" href="$DominanceFrontierImpl_8h.html" title="include/llvm/Analysis\l/DominanceFrontierImpl.h" alt="" coords="2207,259,2379,300"/>
+<area shape="rect" id="node39" href="$Interval_8h.html" title="include/llvm/Analysis\l/Interval.h" alt="" coords="4439,80,4585,121"/>
+<area shape="rect" id="node40" href="$IntervalIterator_8h.html" title="include/llvm/Analysis\l/IntervalIterator.h" alt="" coords="4493,169,4638,211"/>
+<area shape="rect" id="node41" href="$LoopInfo_8h.html" title="include/llvm/Analysis\l/LoopInfo.h" alt="" coords="961,169,1106,211"/>
+<area shape="rect" id="node42" href="$MachineBasicBlock_8h.html" title="include/llvm/CodeGen\l/MachineBasicBlock.h" alt="" coords="4161,80,4313,121"/>
+<area shape="rect" id="node43" href="$MachineFunction_8h.html" title="include/llvm/CodeGen\l/MachineFunction.h" alt="" coords="4114,169,4265,211"/>
+<area shape="rect" id="node44" href="$HexagonBitSimplify_8cpp.html" title="lib/Target/Hexagon\l/HexagonBitSimplify.cpp" alt="" coords="4603,259,4770,300"/>
+<area shape="rect" id="node45" href="$ScheduleDAG_8h.html" title="include/llvm/CodeGen\l/ScheduleDAG.h" alt="" coords="5361,80,5511,121"/>
+<area shape="rect" id="node46" href="$SelectionDAGNodes_8h.html" title="include/llvm/CodeGen\l/SelectionDAGNodes.h" alt="" coords="5535,80,5694,121"/>
+<area shape="rect" id="node47" href="$IR_2CFG_8h.html" title="This file provides various utilities for inspecting and working with the control flow graph in LLVM I..." alt="" coords="804,87,956,114"/>
+<area shape="rect" id="node48" href="$CFGDiff_8h.html" title="include/llvm/IR/CFGDiff.h" alt="" coords="467,177,640,203"/>
+<area shape="rect" id="node49" href="$GenericDomTree_8h.html" title="This file defines a set of templates that efficiently compute a dominator tree over a generic graph..." alt="" coords="1781,80,1921,121"/>
+<area shape="rect" id="node50" href="$GraphWriter_8h.html" title="include/llvm/Support\l/GraphWriter.h" alt="" coords="5718,80,5858,121"/>
+<area shape="rect" id="node3" href="$LoopCacheAnalysis_8cpp.html" title="This file defines the implementation for the loop cache analysis. " alt="" coords="5,177,240,203"/>
+<area shape="rect" id="node5" href="$LoopInfoImpl_8h.html" title="include/llvm/Analysis\l/LoopInfoImpl.h" alt="" coords="1986,259,2131,300"/>
+<area shape="rect" id="node6" href="$LoopInfo_8cpp.html" title="lib/Analysis/LoopInfo.cpp" alt="" coords="1333,355,1501,382"/>
+<area shape="rect" id="node7" href="$PostDominators_8h.html" title="include/llvm/Analysis\l/PostDominators.h" alt="" coords="2557,259,2702,300"/>
+<area shape="rect" id="node13" href="$MachineRegionInfo_8h.html" title="include/llvm/CodeGen\l/MachineRegionInfo.h" alt="" coords="3103,437,3254,479"/>
+<area shape="rect" id="node14" href="$RegionPrinter_8cpp.html" title="lib/Analysis/RegionPrinter.cpp" alt="" coords="3279,445,3476,471"/>
+<area shape="rect" id="node17" href="$MemorySSA_8cpp.html" title="lib/Analysis/MemorySSA.cpp" alt="" coords="1751,355,1943,382"/>
+<area shape="rect" id="node19" href="$LoopAccessAnalysis_8cpp.html" title="lib/Analysis/LoopAccessAnalysis.cpp" alt="" coords="1569,266,1809,293"/>
+<area shape="rect" id="node20" href="$ScalarEvolution_8cpp.html" title="lib/Analysis/ScalarEvolution.cpp" alt="" coords="1063,266,1273,293"/>
+<area shape="rect" id="node23" href="$GenericDomTreeConstruction_8h.html" title="Generic dominator tree construction &#45; This file provides routines to construct immediate dominator in..." alt="" coords="1948,169,2159,211"/>
+<area shape="rect" id="node24" href="$CFIInstrInserter_8cpp.html" title="lib/CodeGen/CFIInstrInserter.cpp" alt="" coords="2437,177,2651,203"/>
+<area shape="rect" id="node25" href="$LiveIntervals_8cpp.html" title="lib/CodeGen/LiveIntervals.cpp" alt="" coords="4077,266,4275,293"/>
+<area shape="rect" id="node26" href="$LiveVariables_8cpp.html" title="lib/CodeGen/LiveVariables.cpp" alt="" coords="2930,177,3131,203"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; LoopCachePrinterPass \&gt;" alt="" coords="5,5,185,47"/>
+<area shape="rect" id="node2" href="$classllvm_1_1LoopCachePrinterPass.html" title="Printer pass for the CacheCost results. " alt="" coords="233,13,421,39"/>
+</map>

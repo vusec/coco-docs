@@ -1,0 +1,35 @@
+<map id="lib/Analysis/AssumptionCache.cpp" name="lib/Analysis/AssumptionCache.cpp">
+<area shape="rect" id="node2" href="$AssumptionCache_8h.html" title="llvm/Analysis/Assumption\lCache.h" alt="" coords="4260,155,4433,196"/>
+<area shape="rect" id="node4" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3639,617,3801,644"/>
+<area shape="rect" id="node18" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1821,767,2011,793"/>
+<area shape="rect" id="node24" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2592,617,2747,644"/>
+<area shape="rect" id="node35" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM. " alt="" coords="6073,244,6231,271"/>
+<area shape="rect" id="node36" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="6277,543,6440,569"/>
+<area shape="rect" id="node37" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="1303,319,1433,345"/>
+<area shape="rect" id="node38" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="497,393,642,420"/>
+<area shape="rect" id="node40" href="$IR_2Instruction_8h.html" title="llvm/IR/Instruction.h" alt="" coords="1821,468,1961,495"/>
+<area shape="rect" id="node41" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="1544,543,1699,569"/>
+<area shape="rect" id="node42" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="6531,319,6621,345"/>
+<area shape="rect" id="node43" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="4587,543,4773,569"/>
+<area shape="rect" id="node45" href="$InstrTypes_8h.html" title="llvm/IR/InstrTypes.h" alt="" coords="1480,244,1621,271"/>
+<area shape="rect" id="node46" href="$Instructions_8h.html" title="llvm/IR/Instructions.h" alt="" coords="1273,162,1420,189"/>
+<area shape="rect" id="node47" href="$Intrinsics_8h.html" title="llvm/IR/Intrinsics.h" alt="" coords="3297,244,3429,271"/>
+<area shape="rect" id="node48" href="$PatternMatch_8h.html" title="llvm/IR/PatternMatch.h" alt="" coords="1935,80,2092,107"/>
+<area shape="rect" id="node49" href="$InitializePasses_8h.html" title="llvm/InitializePasses.h" alt="" coords="6950,80,7103,107"/>
+<area shape="rect" id="node50" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="3311,468,3505,495"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2597,543,2741,569"/>
+<area shape="rect" id="node31" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="5164,393,5319,420"/>
+<area shape="rect" id="node32" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="4334,468,4511,495"/>
+<area shape="rect" id="node44" href="$ValueHandle_8h.html" title="llvm/IR/ValueHandle.h" alt="" coords="4435,393,4589,420"/>
+<area shape="rect" id="node9" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3616,841,3779,868"/>
+<area shape="rect" id="node5" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="636,767,807,793"/>
+<area shape="rect" id="node8" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="4619,692,4773,719"/>
+<area shape="rect" id="node11" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="5102,692,5279,719"/>
+<area shape="rect" id="node17" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="3672,692,3840,719"/>
+<area shape="rect" id="node20" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="4243,767,4413,793"/>
+<area shape="rect" id="node25" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3355,692,3495,719"/>
+<area shape="rect" id="node26" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="374,692,506,719"/>
+<area shape="rect" id="node33" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="5557,617,5731,644"/>
+<area shape="rect" id="node34" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="5907,617,6114,644"/>
+<area shape="rect" id="node39" href="$c_2Types_8h.html" title="llvm&#45;c/Types.h" alt="" coords="449,468,557,495"/>
+</map>

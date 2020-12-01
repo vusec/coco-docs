@@ -1,0 +1,51 @@
+<map id="include/llvm/Analysis/OptimizationRemarkEmitter.h" name="include/llvm/Analysis/OptimizationRemarkEmitter.h">
+<area shape="rect" id="node2" href="$InlineCost_8h.html" title="include/llvm/Analysis\l/InlineCost.h" alt="" coords="1041,102,1187,143"/>
+<area shape="rect" id="node4" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="5,295,188,322"/>
+<area shape="rect" id="node6" href="$Inliner_8cpp.html" title="lib/Transforms/IPO\l/Inliner.cpp" alt="" coords="496,288,628,329"/>
+<area shape="rect" id="node9" href="$ControlHeightReduction_8cpp.html" title="lib/Transforms/Instrumentation\l/ControlHeightReduction.cpp" alt="" coords="652,288,851,329"/>
+<area shape="rect" id="node10" href="$HotColdSplitting_8cpp.html" title="The goal of hot/cold splitting is to improve the memory locality of code. " alt="" coords="875,288,1022,329"/>
+<area shape="rect" id="node11" href="$PartialInlining_8cpp.html" title="lib/Transforms/IPO\l/PartialInlining.cpp" alt="" coords="1411,288,1543,329"/>
+<area shape="rect" id="node12" href="$SampleProfile_8cpp.html" title="lib/Transforms/IPO\l/SampleProfile.cpp" alt="" coords="1255,288,1387,329"/>
+<area shape="rect" id="node13" href="$LoopDistribute_8cpp.html" title="lib/Transforms/Scalar\l/LoopDistribute.cpp" alt="" coords="1567,288,1714,329"/>
+<area shape="rect" id="node14" href="$LoopUnroll_8cpp.html" title="lib/Transforms/Utils\l/LoopUnroll.cpp" alt="" coords="1738,288,1874,329"/>
+<area shape="rect" id="node15" href="$LoopUnrollAndJam_8cpp.html" title="lib/Transforms/Utils\l/LoopUnrollAndJam.cpp" alt="" coords="1899,288,2060,329"/>
+<area shape="rect" id="node17" href="$TailRecursionElimination_8cpp.html" title="lib/Transforms/Scalar\l/TailRecursionElimination.cpp" alt="" coords="1414,199,1609,240"/>
+<area shape="rect" id="node18" href="$MachineOptimizationRemarkEmitter_8h.html" title="===&#45; MachineOptimizationRemarkEmitter.h &#45; Opt Diagnostics &#45;*&#45; C++ &#45;*&#45;—===// " alt="" coords="1936,102,2183,143"/>
+<area shape="rect" id="node19" href="$AsmPrinter_8cpp.html" title="lib/CodeGen/AsmPrinter\l/AsmPrinter.cpp" alt="" coords="1886,199,2049,240"/>
+<area shape="rect" id="node20" href="$PrologEpilogInserter_8cpp.html" title="lib/CodeGen/PrologEpilog\lInserter.cpp" alt="" coords="2073,199,2243,240"/>
+<area shape="rect" id="node21" href="$RegAllocGreedy_8cpp.html" title="lib/CodeGen/RegAllocGreedy.cpp" alt="" coords="2267,206,2486,233"/>
+<area shape="rect" id="node22" href="$LoopVectorizationLegality_8h.html" title="This file defines the LoopVectorizationLegality class. " alt="" coords="2358,95,2547,151"/>
+<area shape="rect" id="node23" href="$LoopVectorize_8cpp.html" title="lib/Transforms/Vectorize\l/LoopVectorize.cpp" alt="" coords="2511,199,2675,240"/>
+<area shape="rect" id="node24" href="$LoopAccessAnalysis_8cpp.html" title="lib/Analysis/LoopAccessAnalysis.cpp" alt="" coords="2571,109,2811,136"/>
+<area shape="rect" id="node25" href="$OptimizationRemarkEmitter_8cpp.html" title="lib/Analysis/Optimization\lRemarkEmitter.cpp" alt="" coords="2836,102,3003,143"/>
+<area shape="rect" id="node26" href="$ValueTracking_8cpp.html" title="lib/Analysis/ValueTracking.cpp" alt="" coords="3027,109,3228,136"/>
+<area shape="rect" id="node27" href="$IRTranslator_8cpp.html" title="This file implements the IRTranslator class. " alt="" coords="3252,102,3411,143"/>
+<area shape="rect" id="node28" href="$HardwareLoops_8cpp.html" title="Insert hardware loop intrinsics into loops which are deemed profitable by the target, by querying TargetTransformInfo. " alt="" coords="3435,109,3649,136"/>
+<area shape="rect" id="node29" href="$InterleavedLoadCombinePass_8cpp.html" title="lib/CodeGen/InterleavedLoad\lCombinePass.cpp" alt="" coords="3673,102,3864,143"/>
+<area shape="rect" id="node30" href="$SelectionDAGISel_8cpp.html" title="lib/CodeGen/SelectionDAG\l/SelectionDAGISel.cpp" alt="" coords="3889,102,4070,143"/>
+<area shape="rect" id="node31" href="$StackProtector_8cpp.html" title="lib/CodeGen/StackProtector.cpp" alt="" coords="4094,109,4305,136"/>
+<area shape="rect" id="node32" href="$InstructionCombining_8cpp.html" title="lib/Transforms/InstCombine\l/InstructionCombining.cpp" alt="" coords="4329,102,4512,143"/>
+<area shape="rect" id="node33" href="$IndirectCallPromotion_8cpp.html" title="lib/Transforms/Instrumentation\l/IndirectCallPromotion.cpp" alt="" coords="4536,102,4735,143"/>
+<area shape="rect" id="node34" href="$PGOInstrumentation_8cpp.html" title="lib/Transforms/Instrumentation\l/PGOInstrumentation.cpp" alt="" coords="4759,102,4957,143"/>
+<area shape="rect" id="node35" href="$PGOMemOPSizeOpt_8cpp.html" title="lib/Transforms/Instrumentation\l/PGOMemOPSizeOpt.cpp" alt="" coords="4981,102,5180,143"/>
+<area shape="rect" id="node36" href="$WholeProgramDevirt_8cpp.html" title="lib/Transforms/IPO\l/WholeProgramDevirt.cpp" alt="" coords="5204,102,5376,143"/>
+<area shape="rect" id="node37" href="$GVN_8cpp.html" title="lib/Transforms/Scalar\l/GVN.cpp" alt="" coords="5401,102,5547,143"/>
+<area shape="rect" id="node38" href="$InstSimplifyPass_8cpp.html" title="lib/Transforms/Scalar\l/InstSimplifyPass.cpp" alt="" coords="5572,102,5723,143"/>
+<area shape="rect" id="node39" href="$LICM_8cpp.html" title="lib/Transforms/Scalar\l/LICM.cpp" alt="" coords="5747,102,5894,143"/>
+<area shape="rect" id="node40" href="$LoopDataPrefetch_8cpp.html" title="lib/Transforms/Scalar\l/LoopDataPrefetch.cpp" alt="" coords="5919,102,6075,143"/>
+<area shape="rect" id="node41" href="$LoopFuse_8cpp.html" title="This file implements the loop fusion pass. " alt="" coords="6099,102,6246,143"/>
+<area shape="rect" id="node42" href="$LoopIdiomRecognize_8cpp.html" title="lib/Transforms/Scalar\l/LoopIdiomRecognize.cpp" alt="" coords="6270,102,6443,143"/>
+<area shape="rect" id="node43" href="$LoopInterchange_8cpp.html" title="lib/Transforms/Scalar\l/LoopInterchange.cpp" alt="" coords="6467,102,6614,143"/>
+<area shape="rect" id="node44" href="$LoopUnrollAndJamPass_8cpp.html" title="lib/Transforms/Scalar\l/LoopUnrollAndJamPass.cpp" alt="" coords="6639,102,6829,143"/>
+<area shape="rect" id="node45" href="$LoopUnrollPass_8cpp.html" title="lib/Transforms/Scalar\l/LoopUnrollPass.cpp" alt="" coords="6854,102,7001,143"/>
+<area shape="rect" id="node46" href="$LoopVersioningLICM_8cpp.html" title="lib/Transforms/Scalar\l/LoopVersioningLICM.cpp" alt="" coords="7025,102,7197,143"/>
+<area shape="rect" id="node47" href="$WarnMissedTransforms_8cpp.html" title="lib/Transforms/Scalar\l/WarnMissedTransforms.cpp" alt="" coords="7221,102,7412,143"/>
+<area shape="rect" id="node48" href="$MisExpect_8cpp.html" title="lib/Transforms/Utils\l/MisExpect.cpp" alt="" coords="7437,102,7573,143"/>
+<area shape="rect" id="node49" href="$SimplifyLibCalls_8cpp.html" title="lib/Transforms/Utils\l/SimplifyLibCalls.cpp" alt="" coords="7597,102,7743,143"/>
+<area shape="rect" id="node50" href="$SLPVectorizer_8cpp.html" title="lib/Transforms/Vectorize\l/SLPVectorizer.cpp" alt="" coords="7767,102,7931,143"/>
+<area shape="rect" id="node3" href="$Inliner_8h.html" title="include/llvm/Transforms\l/IPO/Inliner.h" alt="" coords="439,199,600,240"/>
+<area shape="rect" id="node5" href="$AMDGPUInline_8cpp.html" title="This is AMDGPU specific replacement of the standard inliner. " alt="" coords="213,295,471,322"/>
+<area shape="rect" id="node7" href="$Cloning_8h.html" title="include/llvm/Transforms\l/Utils/Cloning.h" alt="" coords="1177,199,1339,240"/>
+<area shape="rect" id="node8" href="$SafeStack_8cpp.html" title="lib/CodeGen/SafeStack.cpp" alt="" coords="1046,295,1230,322"/>
+<area shape="rect" id="node16" href="$InlineCost_8cpp.html" title="lib/Analysis/InlineCost.cpp" alt="" coords="873,206,1051,233"/>
+</map>

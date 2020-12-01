@@ -1,0 +1,37 @@
+<map id="llvm::Constant" name="llvm::Constant">
+<area shape="rect" id="node4" href="$classllvm_1_1BlockAddress.html" title="The address of a basic block. " alt="" coords="441,56,576,83"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ConstantAggregate.html" title="Base class for aggregate constants (with operands). " alt="" coords="425,107,592,133"/>
+<area shape="rect" id="node9" href="$classllvm_1_1ConstantData.html" title="Base class for constants with no operands. " alt="" coords="441,309,576,336"/>
+<area shape="rect" id="node19" href="$classllvm_1_1ConstantExpr.html" title="A constant value that is initialized with an expression using other constant values. " alt="" coords="441,715,576,741"/>
+<area shape="rect" id="node30" href="$classllvm_1_1GlobalValue.html" title="llvm::GlobalValue" alt="" coords="447,1019,571,1045"/>
+<area shape="rect" id="node2" href="$classllvm_1_1User.html" title="llvm::User" alt="" coords="140,309,223,336"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="5,309,92,336"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ConstantArray.html" title="ConstantArray &#45; Constant Array Declarations. " alt="" coords="683,5,821,32"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ConstantStruct.html" title="llvm::ConstantStruct" alt="" coords="681,56,823,83"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ConstantVector.html" title="Constant Vector Declarations. " alt="" coords="679,107,825,133"/>
+<area shape="rect" id="node10" href="$classllvm_1_1ConstantAggregateZero.html" title="All zero aggregate value. " alt="" coords="656,157,848,184"/>
+<area shape="rect" id="node11" href="$classllvm_1_1ConstantDataSequential.html" title="ConstantDataSequential &#45; A vector or array constant whose element type is a simple 1/2/4/8&#45;byte integ..." alt="" coords="654,208,850,235"/>
+<area shape="rect" id="node14" href="$classllvm_1_1ConstantFP.html" title="ConstantFP &#45; Floating Point Values [float, double]. " alt="" coords="690,259,814,285"/>
+<area shape="rect" id="node15" href="$classllvm_1_1ConstantInt.html" title="This is the shared class of boolean and integer constants. " alt="" coords="691,309,813,336"/>
+<area shape="rect" id="node16" href="$classllvm_1_1ConstantPointerNull.html" title="A constant pointer value that points to null. " alt="" coords="667,360,837,387"/>
+<area shape="rect" id="node17" href="$classllvm_1_1ConstantTokenNone.html" title="A constant token which is empty. " alt="" coords="665,411,839,437"/>
+<area shape="rect" id="node18" href="$classllvm_1_1UndefValue.html" title="&#39;undef&#39; values are things that do not have specified contents. " alt="" coords="691,461,813,488"/>
+<area shape="rect" id="node12" href="$classllvm_1_1ConstantDataArray.html" title="An array constant whose element type is a simple 1/2/4/8&#45;byte integer or float/double, and whose elements are just simple data values (i.e. " alt="" coords="915,183,1082,209"/>
+<area shape="rect" id="node13" href="$classllvm_1_1ConstantDataVector.html" title="A vector constant whose element type is a simple 1/2/4/8&#45;byte integer or float/double, and whose elements are just simple data values (i.e. " alt="" coords="912,233,1085,260"/>
+<area shape="rect" id="node20" href="$classllvm_1_1BinaryConstantExpr.html" title="BinaryConstantExpr &#45; This class is private to Constants.cpp, and is used behind the scenes to impleme..." alt="" coords="667,512,837,539"/>
+<area shape="rect" id="node21" href="$classllvm_1_1CompareConstantExpr.html" title="llvm::CompareConstantExpr" alt="" coords="659,563,845,589"/>
+<area shape="rect" id="node22" href="$classllvm_1_1ExtractElementConstantExpr.html" title="ExtractElementConstantExpr &#45; This class is private to Constants.cpp, and is used behind the scenes to..." alt="" coords="640,613,864,640"/>
+<area shape="rect" id="node23" href="$classllvm_1_1ExtractValueConstantExpr.html" title="ExtractValueConstantExpr &#45; This class is private to Constants.cpp, and is used behind the scenes to i..." alt="" coords="647,664,857,691"/>
+<area shape="rect" id="node24" href="$classllvm_1_1GetElementPtrConstantExpr.html" title="GetElementPtrConstantExpr &#45; This class is private to Constants.cpp, and is used behind the scenes to ..." alt="" coords="642,715,862,741"/>
+<area shape="rect" id="node25" href="$classllvm_1_1InsertElementConstantExpr.html" title="InsertElementConstantExpr &#45; This class is private to Constants.cpp, and is used behind the scenes to ..." alt="" coords="645,765,859,792"/>
+<area shape="rect" id="node26" href="$classllvm_1_1InsertValueConstantExpr.html" title="InsertValueConstantExpr &#45; This class is private to Constants.cpp, and is used behind the scenes to im..." alt="" coords="652,816,852,843"/>
+<area shape="rect" id="node27" href="$classllvm_1_1SelectConstantExpr.html" title="SelectConstantExpr &#45; This class is private to Constants.cpp, and is used behind the scenes to impleme..." alt="" coords="667,867,837,893"/>
+<area shape="rect" id="node28" href="$classllvm_1_1ShuffleVectorConstantExpr.html" title="ShuffleVectorConstantExpr &#45; This class is private to Constants.cpp, and is used behind the scenes to ..." alt="" coords="645,917,859,944"/>
+<area shape="rect" id="node29" href="$classllvm_1_1UnaryConstantExpr.html" title="UnaryConstantExpr &#45; This class is private to Constants.cpp, and is used behind the scenes to implemen..." alt="" coords="667,968,837,995"/>
+<area shape="rect" id="node31" href="$classllvm_1_1GlobalIndirectSymbol.html" title="llvm::GlobalIndirectSymbol" alt="" coords="663,1019,841,1045"/>
+<area shape="rect" id="node34" href="$classllvm_1_1GlobalObject.html" title="llvm::GlobalObject" alt="" coords="687,1069,817,1096"/>
+<area shape="rect" id="node32" href="$classllvm_1_1GlobalAlias.html" title="llvm::GlobalAlias" alt="" coords="939,968,1059,995"/>
+<area shape="rect" id="node33" href="$classllvm_1_1GlobalIFunc.html" title="llvm::GlobalIFunc" alt="" coords="937,1019,1061,1045"/>
+<area shape="rect" id="node35" href="$classllvm_1_1Function.html" title="llvm::Function" alt="" coords="947,1069,1051,1096"/>
+<area shape="rect" id="node36" href="$classllvm_1_1GlobalVariable.html" title="llvm::GlobalVariable" alt="" coords="929,1120,1068,1147"/>
+</map>

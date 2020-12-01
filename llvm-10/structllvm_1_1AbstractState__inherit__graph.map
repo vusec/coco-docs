@@ -1,0 +1,50 @@
+<map id="llvm::AbstractState" name="llvm::AbstractState">
+<area shape="rect" id="node2" href="$structllvm_1_1IntegerStateBase.html" title="llvm::IntegerStateBase\l\&lt; base_ty, 0, ~base_ty(0)\&gt;" alt="" coords="567,1200,747,1241"/>
+<area shape="rect" id="node4" href="$structllvm_1_1IntegerStateBase.html" title="llvm::IntegerStateBase\l\&lt; bool, 1, 0 \&gt;" alt="" coords="579,827,734,868"/>
+<area shape="rect" id="node26" href="$structllvm_1_1IntegerStateBase.html" title="llvm::IntegerStateBase\l\&lt; uint16_t, BestState,\l WorstState \&gt;" alt="" coords="579,1119,734,1175"/>
+<area shape="rect" id="node30" href="$structllvm_1_1IntegerStateBase.html" title="llvm::IntegerStateBase\l\&lt; uint8_t, BestState, 0 \&gt;" alt="" coords="573,973,740,1015"/>
+<area shape="rect" id="node34" href="$structllvm_1_1DerefState.html" title="State for dereferenceable attribute. " alt="" coords="212,1278,329,1305"/>
+<area shape="rect" id="node38" href="$structllvm_1_1IntegerRangeState.html" title="State for an integer range. " alt="" coords="189,1330,352,1357"/>
+<area shape="rect" id="node45" href="$structllvm_1_1IntegerStateBase.html" title="Simple state with integers encoding. " alt="" coords="193,934,348,990"/>
+<area shape="rect" id="node3" href="$structllvm_1_1DecIntegerState.html" title="Specialization of the integer state for a decreasing value, hence 0 is the best state and ~0u the wor..." alt="" coords="943,1191,1092,1232"/>
+<area shape="rect" id="node5" href="$structllvm_1_1BooleanState.html" title="Simple wrapper for a single bit (boolean) state. " alt="" coords="951,607,1083,634"/>
+<area shape="rect" id="node6" href="$structllvm_1_1StateWrapper.html" title="llvm::StateWrapper\l\&lt; BooleanState, AbstractAttribute \&gt;" alt="" coords="1167,541,1397,583"/>
+<area shape="rect" id="node7" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::NoAlias,\l StateWrapper\&lt; BooleanState,\l AbstractAttribute \&gt; \&gt;" alt="" coords="1473,733,1673,804"/>
+<area shape="rect" id="node9" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::NoFree,\l StateWrapper\&lt; BooleanState,\l AbstractAttribute \&gt; \&gt;" alt="" coords="1473,828,1673,899"/>
+<area shape="rect" id="node11" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::NonNull,\l StateWrapper\&lt; BooleanState,\l AbstractAttribute \&gt; \&gt;" alt="" coords="1473,923,1673,993"/>
+<area shape="rect" id="node13" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::NoRecurse,\l StateWrapper\&lt; BooleanState,\l AbstractAttribute \&gt; \&gt;" alt="" coords="1473,5,1673,76"/>
+<area shape="rect" id="node15" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::NoReturn,\l StateWrapper\&lt; BooleanState,\l AbstractAttribute \&gt; \&gt;" alt="" coords="1473,100,1673,171"/>
+<area shape="rect" id="node17" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::NoSync,\l StateWrapper\&lt; BooleanState,\l AbstractAttribute \&gt; \&gt;" alt="" coords="1473,195,1673,265"/>
+<area shape="rect" id="node19" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::NoUnwind,\l StateWrapper\&lt; BooleanState,\l AbstractAttribute \&gt; \&gt;" alt="" coords="1473,289,1673,360"/>
+<area shape="rect" id="node20" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::WillReturn,\l StateWrapper\&lt; BooleanState,\l AbstractAttribute \&gt; \&gt;" alt="" coords="1473,384,1673,455"/>
+<area shape="rect" id="node21" href="$structllvm_1_1AAHeapToStack.html" title="llvm::AAHeapToStack" alt="" coords="1497,479,1649,506"/>
+<area shape="rect" id="node22" href="$structllvm_1_1AAIsDead.html" title="An abstract interface for liveness abstract attribute. " alt="" coords="1515,530,1630,557"/>
+<area shape="rect" id="node23" href="$structllvm_1_1AAReachability.html" title="An abstract interface to determine reachability of point A to B. " alt="" coords="1501,581,1645,607"/>
+<area shape="rect" id="node24" href="$structllvm_1_1AAUndefinedBehavior.html" title="An abstract attribute for undefined behavior. " alt="" coords="1481,631,1664,658"/>
+<area shape="rect" id="node25" href="$structllvm_1_1AAValueSimplify.html" title="An abstract interface for value simplify abstract attribute. " alt="" coords="1497,682,1649,709"/>
+<area shape="rect" id="node8" href="$structllvm_1_1AANoAlias.html" title="An abstract interface for all noalias attributes. " alt="" coords="1758,755,1877,782"/>
+<area shape="rect" id="node10" href="$structllvm_1_1AANoFree.html" title="An AbstractAttribute for nofree. " alt="" coords="1760,850,1875,877"/>
+<area shape="rect" id="node12" href="$structllvm_1_1AANonNull.html" title="An abstract interface for all nonnull attributes. " alt="" coords="1758,945,1877,971"/>
+<area shape="rect" id="node14" href="$structllvm_1_1AANoRecurse.html" title="An abstract attribute for norecurse. " alt="" coords="1748,27,1887,54"/>
+<area shape="rect" id="node16" href="$structllvm_1_1AANoReturn.html" title="An AbstractAttribute for noreturn. " alt="" coords="1753,122,1881,149"/>
+<area shape="rect" id="node18" href="$structllvm_1_1AANoSync.html" title="llvm::AANoSync" alt="" coords="1758,217,1877,243"/>
+<area shape="rect" id="node27" href="$structllvm_1_1BitIntegerState.html" title="llvm::BitIntegerState\l\&lt; uint16_t, 7, 0 \&gt;" alt="" coords="947,1125,1088,1167"/>
+<area shape="rect" id="node28" href="$structllvm_1_1StateWrapper.html" title="llvm::StateWrapper\l\&lt; BitIntegerState\&lt; uint16\l_t, 7, 0 \&gt;, AbstractAttribute \&gt;" alt="" coords="1185,1118,1379,1174"/>
+<area shape="rect" id="node29" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::NoCapture,\l StateWrapper\&lt; BitIntegerState\l\&lt; uint16_t, 7, 0 \&gt;, AbstractAttribute \&gt; \&gt;" alt="" coords="1447,1112,1699,1183"/>
+<area shape="rect" id="node31" href="$structllvm_1_1BitIntegerState.html" title="llvm::BitIntegerState\l\&lt; uint8_t, 3 \&gt;" alt="" coords="947,1032,1088,1073"/>
+<area shape="rect" id="node32" href="$structllvm_1_1StateWrapper.html" title="llvm::StateWrapper\l\&lt; BitIntegerState\&lt; uint8\l_t, 3 \&gt;, AbstractAttribute \&gt;" alt="" coords="1193,1025,1371,1081"/>
+<area shape="rect" id="node33" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::ReadNone,\l StateWrapper\&lt; BitIntegerState\l\&lt; uint8_t, 3 \&gt;, AbstractAttribute \&gt; \&gt;" alt="" coords="1457,1017,1688,1088"/>
+<area shape="rect" id="node35" href="$structllvm_1_1StateWrapper.html" title="llvm::StateWrapper\l\&lt; DerefState, AbstractAttribute \&gt;" alt="" coords="549,1271,764,1312"/>
+<area shape="rect" id="node36" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::Dereferenceable,\l StateWrapper\&lt; DerefState,\l AbstractAttribute \&gt; \&gt;" alt="" coords="925,1256,1110,1327"/>
+<area shape="rect" id="node37" href="$structllvm_1_1AADereferenceable.html" title="An abstract interface for all dereferenceable attribute. " alt="" coords="1199,1263,1365,1290"/>
+<area shape="rect" id="node39" href="$structllvm_1_1AAValueConstantRange.html" title="An abstract interface for range value analysis. " alt="" coords="559,1341,755,1367"/>
+<area shape="rect" id="node40" href="$structAAValueConstantRangeImpl.html" title="&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;— Value Constant Range Attribute &#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;— " alt="" coords="923,1365,1112,1391"/>
+<area shape="rect" id="node41" href="$structAAValueConstantRangeArgument.html" title="AAValueConstantRangeArgument" alt="" coords="1172,1365,1392,1391"/>
+<area shape="rect" id="node42" href="$structAAValueConstantRangeFloating.html" title="AAValueConstantRangeFloating" alt="" coords="1177,1415,1387,1442"/>
+<area shape="rect" id="node43" href="$structAAValueConstantRangeFunction.html" title="AAValueConstantRangeFunction" alt="" coords="1175,1466,1389,1493"/>
+<area shape="rect" id="node44" href="$structAAValueConstantRangeReturned.html" title="AAValueConstantRangeReturned" alt="" coords="1173,1314,1391,1341"/>
+<area shape="rect" id="node46" href="$structllvm_1_1BitIntegerState.html" title="Specialization of the integer state for a bit&#45;wise encoding. " alt="" coords="581,1039,732,1095"/>
+<area shape="rect" id="node47" href="$structllvm_1_1IncIntegerState.html" title="Specialization of the integer state for an increasing value, hence ~0u is the best state and 0 the wo..." alt="" coords="581,893,732,949"/>
+<area shape="rect" id="node48" href="$structllvm_1_1StateWrapper.html" title="StateWrapper\&lt; AAAlignment\lStateType, AbstractAttribute \&gt;" alt="" coords="917,900,1117,941"/>
+<area shape="rect" id="node49" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::Alignment,\l StateWrapper\&lt; AAAlignmentState\lType, AbstractAttribute \&gt; \&gt;" alt="" coords="1169,885,1395,956"/>
+</map>

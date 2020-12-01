@@ -1,0 +1,51 @@
+<map id="include/llvm/Analysis/AliasSetTracker.h" name="include/llvm/Analysis/AliasSetTracker.h">
+<area shape="rect" id="node2" href="$LoopAccessAnalysis_8h.html" title="include/llvm/Analysis\l/LoopAccessAnalysis.h" alt="" coords="1200,95,1359,136"/>
+<area shape="rect" id="node9" href="$LoopAccessAnalysis_8cpp.html" title="lib/Analysis/LoopAccessAnalysis.cpp" alt="" coords="5455,295,5695,322"/>
+<area shape="rect" id="node39" href="$LoopVersioningLICM_8cpp.html" title="lib/Transforms/Scalar\l/LoopVersioningLICM.cpp" alt="" coords="5,288,177,329"/>
+<area shape="rect" id="node46" href="$LinkAllPasses_8h.html" title="include/llvm/LinkAllPasses.h" alt="" coords="5717,102,5906,129"/>
+<area shape="rect" id="node47" href="$AliasSetTracker_8cpp.html" title="lib/Analysis/AliasSetTracker.cpp" alt="" coords="5930,102,6141,129"/>
+<area shape="rect" id="node48" href="$LICM_8cpp.html" title="lib/Transforms/Scalar\l/LICM.cpp" alt="" coords="6165,95,6311,136"/>
+<area shape="rect" id="node49" href="$LoopRerollPass_8cpp.html" title="lib/Transforms/Scalar\l/LoopRerollPass.cpp" alt="" coords="6335,95,6482,136"/>
+<area shape="rect" id="node50" href="$LoopSink_8cpp.html" title="lib/Transforms/Scalar\l/LoopSink.cpp" alt="" coords="6506,95,6653,136"/>
+<area shape="rect" id="node3" href="$VectorUtils_8h.html" title="include/llvm/Analysis\l/VectorUtils.h" alt="" coords="3161,191,3307,233"/>
+<area shape="rect" id="node29" href="$LoopVectorize_8cpp.html" title="lib/Transforms/Vectorize\l/LoopVectorize.cpp" alt="" coords="2963,556,3127,597"/>
+<area shape="rect" id="node35" href="$SLPVectorizer_8cpp.html" title="lib/Transforms/Vectorize\l/SLPVectorizer.cpp" alt="" coords="1109,288,1273,329"/>
+<area shape="rect" id="node36" href="$LoopVersioning_8h.html" title="include/llvm/Transforms\l/Utils/LoopVersioning.h" alt="" coords="231,191,392,233"/>
+<area shape="rect" id="node37" href="$LoopDistribute_8cpp.html" title="lib/Transforms/Scalar\l/LoopDistribute.cpp" alt="" coords="613,288,759,329"/>
+<area shape="rect" id="node38" href="$LoopLoadElimination_8cpp.html" title="lib/Transforms/Scalar\l/LoopLoadElimination.cpp" alt="" coords="202,288,373,329"/>
+<area shape="rect" id="node40" href="$LoopVersioning_8cpp.html" title="lib/Transforms/Utils\l/LoopVersioning.cpp" alt="" coords="448,288,588,329"/>
+<area shape="rect" id="node41" href="$LoopVectorizationLegality_8h.html" title="This file defines the LoopVectorizationLegality class. " alt="" coords="1367,184,1557,240"/>
+<area shape="rect" id="node42" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="416,199,599,225"/>
+<area shape="rect" id="node43" href="$ARMParallelDSP_8cpp.html" title="Armv6 introduced instructions to perform 32&#45;bit SIMD operations. " alt="" coords="623,191,810,233"/>
+<area shape="rect" id="node44" href="$LoopAccessAnalysisPrinter_8cpp.html" title="lib/Transforms/Scalar\l/LoopAccessAnalysisPrinter.cpp" alt="" coords="834,191,1045,233"/>
+<area shape="rect" id="node45" href="$LoopIdiomRecognize_8cpp.html" title="lib/Transforms/Scalar\l/LoopIdiomRecognize.cpp" alt="" coords="1069,191,1242,233"/>
+<area shape="rect" id="node4" href="$TargetTransformInfoImpl_8h.html" title="This file provides helpers for the implementation of a TargetTransformInfo&#45;conforming class..." alt="" coords="3723,288,3903,329"/>
+<area shape="rect" id="node7" href="$ConstantFolding_8cpp.html" title="lib/Analysis/ConstantFolding.cpp" alt="" coords="3927,295,4141,322"/>
+<area shape="rect" id="node8" href="$InstructionSimplify_8cpp.html" title="lib/Analysis/Instruction\lSimplify.cpp" alt="" coords="4165,288,4319,329"/>
+<area shape="rect" id="node10" href="$VectorUtils_8cpp.html" title="lib/Analysis/VectorUtils.cpp" alt="" coords="4344,295,4527,322"/>
+<area shape="rect" id="node11" href="$VFABIDemangling_8cpp.html" title="lib/Analysis/VFABIDemangling.cpp" alt="" coords="4551,295,4778,322"/>
+<area shape="rect" id="node12" href="$CodeGenPrepare_8cpp.html" title="lib/CodeGen/CodeGenPrepare.cpp" alt="" coords="4803,295,5025,322"/>
+<area shape="rect" id="node13" href="$SelectionDAGBuilder_8cpp.html" title="lib/CodeGen/SelectionDAG\l/SelectionDAGBuilder.cpp" alt="" coords="5050,288,5231,329"/>
+<area shape="rect" id="node14" href="$AArch64ISelLowering_8cpp.html" title="lib/Target/AArch64\l/AArch64ISelLowering.cpp" alt="" coords="5255,288,5431,329"/>
+<area shape="rect" id="node15" href="$ARMISelLowering_8cpp.html" title="lib/Target/ARM/ARMISelLowering.cpp" alt="" coords="1297,295,1541,322"/>
+<area shape="rect" id="node16" href="$X86InterleavedAccess_8cpp.html" title="This file contains the X86 implementation of the interleaved accesses optimization generating X86&#45;spe..." alt="" coords="1566,288,1761,329"/>
+<area shape="rect" id="node17" href="$InstCombineCalls_8cpp.html" title="lib/Transforms/InstCombine\l/InstCombineCalls.cpp" alt="" coords="1785,288,1968,329"/>
+<area shape="rect" id="node18" href="$InstCombineVectorOps_8cpp.html" title="lib/Transforms/InstCombine\l/InstCombineVectorOps.cpp" alt="" coords="1993,288,2179,329"/>
+<area shape="rect" id="node19" href="$LowerMatrixIntrinsics_8cpp.html" title="lib/Transforms/Scalar\l/LowerMatrixIntrinsics.cpp" alt="" coords="2204,288,2379,329"/>
+<area shape="rect" id="node20" href="$Scalarizer_8cpp.html" title="lib/Transforms/Scalar\l/Scalarizer.cpp" alt="" coords="2403,288,2550,329"/>
+<area shape="rect" id="node21" href="$InjectTLIMappings_8cpp.html" title="lib/Transforms/Utils\l/InjectTLIMappings.cpp" alt="" coords="2575,288,2733,329"/>
+<area shape="rect" id="node22" href="$InlineFunction_8cpp.html" title="lib/Transforms/Utils\l/InlineFunction.cpp" alt="" coords="2758,288,2894,329"/>
+<area shape="rect" id="node23" href="$Local_8cpp.html" title="lib/Transforms/Utils\l/Local.cpp" alt="" coords="2918,288,3054,329"/>
+<area shape="rect" id="node24" href="$ModuleUtils_8cpp.html" title="lib/Transforms/Utils\l/ModuleUtils.cpp" alt="" coords="3078,288,3214,329"/>
+<area shape="rect" id="node25" href="$LoadStoreVectorizer_8cpp.html" title="lib/Transforms/Vectorize\l/LoadStoreVectorizer.cpp" alt="" coords="3239,288,3408,329"/>
+<area shape="rect" id="node26" href="$LoopVectorizationLegality_8cpp.html" title="lib/Transforms/Vectorize\l/LoopVectorizationLegality.cpp" alt="" coords="885,288,1085,329"/>
+<area shape="rect" id="node27" href="$VPlan_8h.html" title="This file contains the declarations of the Vectorization Plan base classes: " alt="" coords="3432,288,3596,329"/>
+<area shape="rect" id="node34" href="$VPlanSLP_8cpp.html" title="lib/Transforms/Vectorize\l/VPlanSLP.cpp" alt="" coords="3487,377,3651,419"/>
+<area shape="rect" id="node5" href="$BasicTTIImpl_8h.html" title="This file provides a helper that implements much of the TTI interface in terms of the target&#45;independ..." alt="" coords="3731,377,3881,419"/>
+<area shape="rect" id="node6" href="$TargetTransformInfo_8cpp.html" title="lib/Analysis/TargetTransform\lInfo.cpp" alt="" coords="3906,377,4095,419"/>
+<area shape="rect" id="node28" href="$LoopVectorizationPlanner_8h.html" title="This file provides a LoopVectorizationPlanner class. " alt="" coords="3037,377,3223,419"/>
+<area shape="rect" id="node30" href="$VPRecipeBuilder_8h.html" title="lib/Transforms/Vectorize\l/VPRecipeBuilder.h" alt="" coords="2963,467,3127,508"/>
+<area shape="rect" id="node31" href="$VPlanHCFGBuilder_8h.html" title="This file defines the VPlanHCFGBuilder class which contains the public interface (buildHierarchicalCF..." alt="" coords="3203,467,3367,508"/>
+<area shape="rect" id="node32" href="$VPlanDominatorTree_8h.html" title="This file implements dominator tree analysis for a single level of a VPlan&#39;s H&#45;CFG. " alt="" coords="3299,377,3463,419"/>
+<area shape="rect" id="node33" href="$VPlanTransforms_8h.html" title="This file provides utility VPlan to VPlan transformations. " alt="" coords="2723,377,2887,419"/>
+</map>

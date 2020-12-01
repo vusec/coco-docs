@@ -1,0 +1,34 @@
+<map id="include/llvm/MC/MCSectionWasm.h" name="include/llvm/MC/MCSectionWasm.h">
+<area shape="rect" id="node2" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="4347,319,4474,345"/>
+<area shape="rect" id="node29" href="$MCSection_8h.html" title="llvm/MC/MCSection.h" alt="" coords="239,169,390,196"/>
+<area shape="rect" id="node42" href="$MCSymbolWasm_8h.html" title="llvm/MC/MCSymbolWasm.h" alt="" coords="3560,95,3749,121"/>
+<area shape="rect" id="node48" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="4628,95,4776,121"/>
+<area shape="rect" id="node49" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="4498,319,4683,345"/>
+<area shape="rect" id="node3" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2349,393,2512,420"/>
+<area shape="rect" id="node18" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="4338,543,4528,569"/>
+<area shape="rect" id="node25" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3177,393,3324,420"/>
+<area shape="rect" id="node4" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="820,543,990,569"/>
+<area shape="rect" id="node7" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2450,468,2603,495"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2445,692,2608,719"/>
+<area shape="rect" id="node11" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3287,468,3464,495"/>
+<area shape="rect" id="node17" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="2257,468,2425,495"/>
+<area shape="rect" id="node21" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="3394,617,3565,644"/>
+<area shape="rect" id="node26" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1825,468,1980,495"/>
+<area shape="rect" id="node27" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="1522,543,1662,569"/>
+<area shape="rect" id="node30" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="957,393,1069,420"/>
+<area shape="rect" id="node33" href="$MCFragment_8h.html" title="llvm/MC/MCFragment.h" alt="" coords="2710,244,2873,271"/>
+<area shape="rect" id="node39" href="$Alignment_8h.html" title="llvm/Support/Alignment.h" alt="" coords="1177,393,1345,420"/>
+<area shape="rect" id="node41" href="$SectionKind_8h.html" title="llvm/MC/SectionKind.h" alt="" coords="44,244,200,271"/>
+<area shape="rect" id="node31" href="$simple__ilist_8h.html" title="llvm/ADT/simple_ilist.h" alt="" coords="934,468,1092,495"/>
+<area shape="rect" id="node32" href="$ilist__node_8h.html" title="llvm/ADT/ilist_node.h" alt="" coords="598,543,745,569"/>
+<area shape="rect" id="node34" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1704,319,1848,345"/>
+<area shape="rect" id="node35" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="2654,319,2812,345"/>
+<area shape="rect" id="node36" href="$MCFixup_8h.html" title="llvm/MC/MCFixup.h" alt="" coords="2888,319,3026,345"/>
+<area shape="rect" id="node37" href="$SMLoc_8h.html" title="llvm/Support/SMLoc.h" alt="" coords="2900,393,3051,420"/>
+<area shape="rect" id="node38" href="$MCInst_8h.html" title="llvm/MC/MCInst.h" alt="" coords="3051,319,3180,345"/>
+<area shape="rect" id="node40" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="3856,543,4010,569"/>
+<area shape="rect" id="node43" href="$BinaryFormat_2Wasm_8h.html" title="llvm/BinaryFormat/Wasm.h" alt="" coords="2298,244,2480,271"/>
+<area shape="rect" id="node45" href="$MCSymbol_8h.html" title="llvm/MC/MCSymbol.h" alt="" coords="3579,169,3730,196"/>
+<area shape="rect" id="node46" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="4046,468,4217,495"/>
+<area shape="rect" id="node47" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="2427,319,2578,345"/>
+</map>

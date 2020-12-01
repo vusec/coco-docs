@@ -1,0 +1,51 @@
+<map id="include/llvm/Analysis/PostDominators.h" name="include/llvm/Analysis/PostDominators.h">
+<area shape="rect" id="node2" href="$DomTreeUpdater_8h.html" title="include/llvm/Analysis\l/DomTreeUpdater.h" alt="" coords="2127,95,2272,136"/>
+<area shape="rect" id="node4" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="5,281,188,307"/>
+<area shape="rect" id="node14" href="$SanitizerCoverage_8cpp.html" title="lib/Transforms/Instrumentation\l/SanitizerCoverage.cpp" alt="" coords="4995,273,5193,315"/>
+<area shape="rect" id="node15" href="$HotColdSplitting_8cpp.html" title="The goal of hot/cold splitting is to improve the memory locality of code. " alt="" coords="711,273,858,315"/>
+<area shape="rect" id="node17" href="$LoopFuse_8cpp.html" title="This file implements the loop fusion pass. " alt="" coords="4605,273,4751,315"/>
+<area shape="rect" id="node21" href="$TailRecursionElimination_8cpp.html" title="lib/Transforms/Scalar\l/TailRecursionElimination.cpp" alt="" coords="4775,273,4970,315"/>
+<area shape="rect" id="node22" href="$BasicBlockUtils_8cpp.html" title="lib/Transforms/Utils\l/BasicBlockUtils.cpp" alt="" coords="373,273,517,315"/>
+<area shape="rect" id="node23" href="$BreakCriticalEdges_8cpp.html" title="lib/Transforms/Utils\l/BreakCriticalEdges.cpp" alt="" coords="5218,273,5381,315"/>
+<area shape="rect" id="node28" href="$AMDGPUUnifyDivergentExitNodes_8cpp.html" title="lib/Target/AMDGPU/AMDGPUUnify\lDivergentExitNodes.cpp" alt="" coords="3557,273,3791,315"/>
+<area shape="rect" id="node29" href="$HexagonCommonGEP_8cpp.html" title="lib/Target/Hexagon\l/HexagonCommonGEP.cpp" alt="" coords="3815,273,3999,315"/>
+<area shape="rect" id="node31" href="$GVNHoist_8cpp.html" title="lib/Transforms/Scalar\l/GVNHoist.cpp" alt="" coords="4274,273,4421,315"/>
+<area shape="rect" id="node33" href="$DomTreeUpdater_8cpp.html" title="lib/Analysis/DomTreeUpdater.cpp" alt="" coords="3241,191,3459,218"/>
+<area shape="rect" id="node35" href="$ADCE_8cpp.html" title="lib/Transforms/Scalar\l/ADCE.cpp" alt="" coords="3487,184,3634,225"/>
+<area shape="rect" id="node36" href="$RegionInfoImpl_8h.html" title="include/llvm/Analysis\l/RegionInfoImpl.h" alt="" coords="4016,95,4161,136"/>
+<area shape="rect" id="node39" href="$LinkAllPasses_8h.html" title="include/llvm/LinkAllPasses.h" alt="" coords="4186,102,4375,129"/>
+<area shape="rect" id="node40" href="$BranchProbabilityInfo_8cpp.html" title="lib/Analysis/BranchProbability\lInfo.cpp" alt="" coords="4399,95,4594,136"/>
+<area shape="rect" id="node41" href="$DivergenceAnalysis_8cpp.html" title="lib/Analysis/DivergenceAnalysis.cpp" alt="" coords="4618,102,4853,129"/>
+<area shape="rect" id="node42" href="$DomPrinter_8cpp.html" title="lib/Analysis/DomPrinter.cpp" alt="" coords="4877,102,5061,129"/>
+<area shape="rect" id="node43" href="$LegacyDivergenceAnalysis_8cpp.html" title="lib/Analysis/LegacyDivergence\lAnalysis.cpp" alt="" coords="5085,95,5287,136"/>
+<area shape="rect" id="node44" href="$MustExecute_8cpp.html" title="lib/Analysis/MustExecute.cpp" alt="" coords="5311,102,5506,129"/>
+<area shape="rect" id="node45" href="$PostDominators_8cpp.html" title="lib/Analysis/PostDominators.cpp" alt="" coords="5531,102,5743,129"/>
+<area shape="rect" id="node46" href="$SyncDependenceAnalysis_8cpp.html" title="lib/Analysis/SyncDependence\lAnalysis.cpp" alt="" coords="5767,95,5963,136"/>
+<area shape="rect" id="node47" href="$SampleProfile_8cpp.html" title="lib/Transforms/IPO\l/SampleProfile.cpp" alt="" coords="5987,95,6119,136"/>
+<area shape="rect" id="node48" href="$IPO_2SCCP_8cpp.html" title="lib/Transforms/IPO\l/SCCP.cpp" alt="" coords="6143,95,6275,136"/>
+<area shape="rect" id="node49" href="$GuardWidening_8cpp.html" title="lib/Transforms/Scalar\l/GuardWidening.cpp" alt="" coords="6299,95,6446,136"/>
+<area shape="rect" id="node50" href="$CodeMoverUtils_8cpp.html" title="lib/Transforms/Utils\l/CodeMoverUtils.cpp" alt="" coords="6471,95,6616,136"/>
+<area shape="rect" id="node3" href="$JumpThreading_8h.html" title="See the comments on JumpThreadingPass. " alt="" coords="924,184,1091,225"/>
+<area shape="rect" id="node5" href="$JumpThreading_8cpp.html" title="lib/Transforms/Scalar\l/JumpThreading.cpp" alt="" coords="541,273,687,315"/>
+<area shape="rect" id="node6" href="$BasicBlockUtils_8h.html" title="include/llvm/Transforms\l/Utils/BasicBlockUtils.h" alt="" coords="2323,184,2484,225"/>
+<area shape="rect" id="node13" href="$PGOMemOPSizeOpt_8cpp.html" title="lib/Transforms/Instrumentation\l/PGOMemOPSizeOpt.cpp" alt="" coords="883,273,1081,315"/>
+<area shape="rect" id="node16" href="$GVN_8cpp.html" title="lib/Transforms/Scalar\l/GVN.cpp" alt="" coords="3386,273,3533,315"/>
+<area shape="rect" id="node18" href="$LoopSimplifyCFG_8cpp.html" title="lib/Transforms/Scalar\l/LoopSimplifyCFG.cpp" alt="" coords="1105,273,1259,315"/>
+<area shape="rect" id="node19" href="$MergeICmps_8cpp.html" title="lib/Transforms/Scalar\l/MergeICmps.cpp" alt="" coords="1510,273,1657,315"/>
+<area shape="rect" id="node20" href="$RewriteStatepointsForGC_8cpp.html" title="lib/Transforms/Scalar\l/RewriteStatepointsForGC.cpp" alt="" coords="1284,273,1485,315"/>
+<area shape="rect" id="node24" href="$CloneFunction_8cpp.html" title="lib/Transforms/Utils\l/CloneFunction.cpp" alt="" coords="1681,273,1817,315"/>
+<area shape="rect" id="node25" href="$LoopRotationUtils_8cpp.html" title="lib/Transforms/Utils\l/LoopRotationUtils.cpp" alt="" coords="2978,273,3133,315"/>
+<area shape="rect" id="node26" href="$LoopUtils_8cpp.html" title="lib/Transforms/Utils\l/LoopUtils.cpp" alt="" coords="4445,273,4581,315"/>
+<area shape="rect" id="node27" href="$Transforms_2Utils_2Local_8h.html" title="include/llvm/Transforms\l/Utils/Local.h" alt="" coords="1915,184,2076,225"/>
+<area shape="rect" id="node30" href="$CorrelatedValuePropagation_8cpp.html" title="lib/Transforms/Scalar\l/CorrelatedValuePropagation.cpp" alt="" coords="2741,273,2954,315"/>
+<area shape="rect" id="node32" href="$Local_8cpp.html" title="lib/Transforms/Utils\l/Local.cpp" alt="" coords="213,273,349,315"/>
+<area shape="rect" id="node34" href="$IVDescriptors_8cpp.html" title="lib/Analysis/IVDescriptors.cpp" alt="" coords="2100,191,2299,218"/>
+<area shape="rect" id="node7" href="$CodeGenPrepare_8cpp.html" title="lib/CodeGen/CodeGenPrepare.cpp" alt="" coords="2049,281,2272,307"/>
+<area shape="rect" id="node8" href="$HardwareLoops_8cpp.html" title="Insert hardware loop intrinsics into loops which are deemed profitable by the target, by querying TargetTransformInfo. " alt="" coords="2296,281,2511,307"/>
+<area shape="rect" id="node9" href="$SafeStack_8cpp.html" title="lib/CodeGen/SafeStack.cpp" alt="" coords="1841,281,2025,307"/>
+<area shape="rect" id="node10" href="$SelectionDAGISel_8cpp.html" title="lib/CodeGen/SelectionDAG\l/SelectionDAGISel.cpp" alt="" coords="2535,273,2717,315"/>
+<area shape="rect" id="node11" href="$UnreachableBlockElim_8cpp.html" title="lib/CodeGen/UnreachableBlock\lElim.cpp" alt="" coords="3157,273,3361,315"/>
+<area shape="rect" id="node12" href="$WasmEHPrepare_8cpp.html" title="lib/CodeGen/WasmEHPrepare.cpp" alt="" coords="4024,281,4249,307"/>
+<area shape="rect" id="node37" href="$RegionInfo_8cpp.html" title="lib/Analysis/RegionInfo.cpp" alt="" coords="4015,191,4197,218"/>
+<area shape="rect" id="node38" href="$MachineRegionInfo_8cpp.html" title="lib/CodeGen/MachineRegion\lInfo.cpp" alt="" coords="4221,184,4409,225"/>
+</map>

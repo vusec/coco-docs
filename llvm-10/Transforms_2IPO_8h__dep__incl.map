@@ -1,0 +1,41 @@
+<map id="include/llvm/Transforms/IPO.h" name="include/llvm/Transforms/IPO.h">
+<area shape="rect" id="node2" href="$LinkAllPasses_8h.html" title="include/llvm/LinkAllPasses.h" alt="" coords="5,102,195,129"/>
+<area shape="rect" id="node3" href="$LTO_8cpp.html" title="lib/LTO/LTO.cpp" alt="" coords="219,102,338,129"/>
+<area shape="rect" id="node4" href="$LTOBackend_8cpp.html" title="lib/LTO/LTOBackend.cpp" alt="" coords="362,102,531,129"/>
+<area shape="rect" id="node5" href="$LTOCodeGenerator_8cpp.html" title="lib/LTO/LTOCodeGenerator.cpp" alt="" coords="555,102,762,129"/>
+<area shape="rect" id="node6" href="$ThinLTOCodeGenerator_8cpp.html" title="lib/LTO/ThinLTOCodeGenerator.cpp" alt="" coords="786,102,1017,129"/>
+<area shape="rect" id="node7" href="$AMDGPUInline_8cpp.html" title="This is AMDGPU specific replacement of the standard inliner. " alt="" coords="1041,102,1300,129"/>
+<area shape="rect" id="node8" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="1325,95,1563,136"/>
+<area shape="rect" id="node9" href="$Coroutines_8cpp.html" title="lib/Transforms/Coroutines\l/Coroutines.cpp" alt="" coords="1587,95,1759,136"/>
+<area shape="rect" id="node10" href="$AlwaysInliner_8cpp.html" title="lib/Transforms/IPO\l/AlwaysInliner.cpp" alt="" coords="1783,95,1915,136"/>
+<area shape="rect" id="node11" href="$ArgumentPromotion_8cpp.html" title="lib/Transforms/IPO\l/ArgumentPromotion.cpp" alt="" coords="1939,95,2106,136"/>
+<area shape="rect" id="node12" href="$BarrierNoopPass_8cpp.html" title="lib/Transforms/IPO\l/BarrierNoopPass.cpp" alt="" coords="2130,95,2281,136"/>
+<area shape="rect" id="node13" href="$BlockExtractor_8cpp.html" title="lib/Transforms/IPO\l/BlockExtractor.cpp" alt="" coords="2305,95,2442,136"/>
+<area shape="rect" id="node14" href="$CalledValuePropagation_8cpp.html" title="lib/Transforms/IPO\l/CalledValuePropagation.cpp" alt="" coords="2466,95,2657,136"/>
+<area shape="rect" id="node15" href="$ConstantMerge_8cpp.html" title="lib/Transforms/IPO\l/ConstantMerge.cpp" alt="" coords="2681,95,2821,136"/>
+<area shape="rect" id="node16" href="$CrossDSOCFI_8cpp.html" title="lib/Transforms/IPO\l/CrossDSOCFI.cpp" alt="" coords="2845,95,2982,136"/>
+<area shape="rect" id="node17" href="$DeadArgumentElimination_8cpp.html" title="lib/Transforms/IPO\l/DeadArgumentElimination.cpp" alt="" coords="3007,95,3209,136"/>
+<area shape="rect" id="node18" href="$ElimAvailExtern_8cpp.html" title="lib/Transforms/IPO\l/ElimAvailExtern.cpp" alt="" coords="3233,95,3377,136"/>
+<area shape="rect" id="node19" href="$ExtractGV_8cpp.html" title="lib/Transforms/IPO\l/ExtractGV.cpp" alt="" coords="3402,95,3534,136"/>
+<area shape="rect" id="node20" href="$FunctionAttrs_8cpp.html" title="This file implements interprocedural passes which walk the call&#45;graph deducing and/or propagating fun..." alt="" coords="3558,95,3690,136"/>
+<area shape="rect" id="node21" href="$GlobalDCE_8cpp.html" title="lib/Transforms/IPO\l/GlobalDCE.cpp" alt="" coords="3714,95,3846,136"/>
+<area shape="rect" id="node22" href="$GlobalOpt_8cpp.html" title="lib/Transforms/IPO\l/GlobalOpt.cpp" alt="" coords="3870,95,4002,136"/>
+<area shape="rect" id="node23" href="$GlobalSplit_8cpp.html" title="lib/Transforms/IPO\l/GlobalSplit.cpp" alt="" coords="4026,95,4158,136"/>
+<area shape="rect" id="node24" href="$HotColdSplitting_8cpp.html" title="The goal of hot/cold splitting is to improve the memory locality of code. " alt="" coords="4183,95,4329,136"/>
+<area shape="rect" id="node25" href="$InlineSimple_8cpp.html" title="lib/Transforms/IPO\l/InlineSimple.cpp" alt="" coords="4354,95,4486,136"/>
+<area shape="rect" id="node26" href="$Internalize_8cpp.html" title="lib/Transforms/IPO\l/Internalize.cpp" alt="" coords="4510,95,4642,136"/>
+<area shape="rect" id="node27" href="$IPConstantPropagation_8cpp.html" title="lib/Transforms/IPO\l/IPConstantPropagation.cpp" alt="" coords="4667,95,4853,136"/>
+<area shape="rect" id="node28" href="$IPO_8cpp.html" title="lib/Transforms/IPO\l/IPO.cpp" alt="" coords="4878,95,5010,136"/>
+<area shape="rect" id="node29" href="$LoopExtractor_8cpp.html" title="lib/Transforms/IPO\l/LoopExtractor.cpp" alt="" coords="5034,95,5166,136"/>
+<area shape="rect" id="node30" href="$LowerTypeTests_8cpp.html" title="lib/Transforms/IPO\l/LowerTypeTests.cpp" alt="" coords="5190,95,5338,136"/>
+<area shape="rect" id="node31" href="$MergeFunctions_8cpp.html" title="lib/Transforms/IPO\l/MergeFunctions.cpp" alt="" coords="5363,95,5507,136"/>
+<area shape="rect" id="node32" href="$PartialInlining_8cpp.html" title="lib/Transforms/IPO\l/PartialInlining.cpp" alt="" coords="5531,95,5663,136"/>
+<area shape="rect" id="node33" href="$PassManagerBuilder_8cpp.html" title="lib/Transforms/IPO\l/PassManagerBuilder.cpp" alt="" coords="5688,95,5859,136"/>
+<area shape="rect" id="node34" href="$PruneEH_8cpp.html" title="lib/Transforms/IPO\l/PruneEH.cpp" alt="" coords="5883,95,6015,136"/>
+<area shape="rect" id="node35" href="$SampleProfile_8cpp.html" title="lib/Transforms/IPO\l/SampleProfile.cpp" alt="" coords="6039,95,6171,136"/>
+<area shape="rect" id="node36" href="$IPO_2SCCP_8cpp.html" title="lib/Transforms/IPO\l/SCCP.cpp" alt="" coords="6195,95,6327,136"/>
+<area shape="rect" id="node37" href="$StripDeadPrototypes_8cpp.html" title="lib/Transforms/IPO\l/StripDeadPrototypes.cpp" alt="" coords="6351,95,6523,136"/>
+<area shape="rect" id="node38" href="$StripSymbols_8cpp.html" title="lib/Transforms/IPO\l/StripSymbols.cpp" alt="" coords="6547,95,6679,136"/>
+<area shape="rect" id="node39" href="$ThinLTOBitcodeWriter_8cpp.html" title="lib/Transforms/IPO\l/ThinLTOBitcodeWriter.cpp" alt="" coords="6703,95,6883,136"/>
+<area shape="rect" id="node40" href="$WholeProgramDevirt_8cpp.html" title="lib/Transforms/IPO\l/WholeProgramDevirt.cpp" alt="" coords="6907,95,7079,136"/>
+</map>

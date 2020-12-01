@@ -1,0 +1,15 @@
+<map id="include/llvm/TextAPI/ELF/ELFStub.h" name="include/llvm/TextAPI/ELF/ELFStub.h">
+<area shape="rect" id="node2" href="$BinaryFormat_2ELF_8h.html" title="llvm/BinaryFormat/ELF.h" alt="" coords="1753,319,1919,345"/>
+<area shape="rect" id="node23" href="$VersionTuple_8h.html" title="Defines the llvm::VersionTuple class, which represents a version in the form major[.minor[.subminor]]. " alt="" coords="3773,95,3960,121"/>
+<area shape="rect" id="node24" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="4710,393,4850,420"/>
+<area shape="rect" id="node35" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3869,244,4016,271"/>
+<area shape="rect" id="node46" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="3707,169,3893,196"/>
+<area shape="rect" id="node25" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="4992,468,5115,495"/>
+<area shape="rect" id="node26" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="4700,543,4863,569"/>
+<area shape="rect" id="node29" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="4696,468,4867,495"/>
+<area shape="rect" id="node36" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="4145,319,4300,345"/>
+<area shape="rect" id="node38" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3680,468,3851,495"/>
+<area shape="rect" id="node37" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="3887,393,4019,420"/>
+<area shape="rect" id="node42" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="4115,468,4304,495"/>
+<area shape="rect" id="node47" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="4444,393,4607,420"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="include/llvm/Analysis/TypeMetadataUtils.h" name="include/llvm/Analysis/TypeMetadataUtils.h">
+<area shape="rect" id="node2" href="$ModuleSummaryAnalysis_8cpp.html" title="lib/Analysis/ModuleSummary\lAnalysis.cpp" alt="" coords="5,95,196,136"/>
+<area shape="rect" id="node3" href="$TypeMetadataUtils_8cpp.html" title="lib/Analysis/TypeMetadata\lUtils.cpp" alt="" coords="221,95,397,136"/>
+<area shape="rect" id="node4" href="$GlobalDCE_8cpp.html" title="lib/Transforms/IPO\l/GlobalDCE.cpp" alt="" coords="421,95,553,136"/>
+<area shape="rect" id="node5" href="$LowerTypeTests_8cpp.html" title="lib/Transforms/IPO\l/LowerTypeTests.cpp" alt="" coords="577,95,725,136"/>
+<area shape="rect" id="node6" href="$ThinLTOBitcodeWriter_8cpp.html" title="lib/Transforms/IPO\l/ThinLTOBitcodeWriter.cpp" alt="" coords="749,95,929,136"/>
+<area shape="rect" id="node7" href="$WholeProgramDevirt_8cpp.html" title="lib/Transforms/IPO\l/WholeProgramDevirt.cpp" alt="" coords="953,95,1125,136"/>
+</map>

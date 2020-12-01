@@ -1,0 +1,48 @@
+<map id="lib/Target/AMDGPU/AMDGPUTargetMachine.cpp" name="lib/Target/AMDGPU/AMDGPUTargetMachine.cpp">
+<area shape="rect" id="node2" href="$AMDGPUTargetMachine_8h.html" title="The AMDGPU TargetMachine interface definition for hw codgen targets. " alt="" coords="1221,191,1400,218"/>
+<area shape="rect" id="node4" href="$AMDGPU_8h.html" title="AMDGPU.h" alt="" coords="611,459,703,486"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1659,780,1821,807"/>
+<area shape="rect" id="node9" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="940,616,1031,643"/>
+<area shape="rect" id="node13" href="$AMDGPUCallLowering_8h.html" title="This file describes how to lower LLVM calls to machine code calls. " alt="" coords="574,370,741,397"/>
+<area shape="rect" id="node18" href="$AMDGPUAliasAnalysis_8h.html" title="This is the AMGPU address space based alias analysis pass. " alt="" coords="720,102,891,129"/>
+<area shape="rect" id="node19" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="1425,191,1554,218"/>
+<area shape="rect" id="node20" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="1726,281,1861,307"/>
+<area shape="rect" id="node21" href="$AMDGPUInstructionSelector_8h.html" title="This file declares the targeting of the InstructionSelector class for AMDGPU. " alt="" coords="195,370,397,397"/>
+<area shape="rect" id="node22" href="$AMDGPULegalizerInfo_8h.html" title="This file declares the targeting of the Machinelegalizer class for AMDGPU. " alt="" coords="915,102,1082,129"/>
+<area shape="rect" id="node23" href="$AMDGPUMacroFusion_8h.html" title="AMDGPUMacroFusion.h" alt="" coords="1106,102,1273,129"/>
+<area shape="rect" id="node24" href="$AMDGPUTargetObjectFile_8h.html" title="This file declares the AMDGPU&#45;specific subclass of TargetLoweringObjectFile. " alt="" coords="765,370,953,397"/>
+<area shape="rect" id="node25" href="$AMDGPUTargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the AMDGPU target machine..." alt="" coords="485,102,696,129"/>
+<area shape="rect" id="node26" href="$GCNIterativeScheduler_8h.html" title="GCNIterativeScheduler.h" alt="" coords="2723,191,2891,218"/>
+<area shape="rect" id="node27" href="$GCNSchedStrategy_8h.html" title="GCNSchedStrategy.h" alt="" coords="1449,102,1599,129"/>
+<area shape="rect" id="node28" href="$R600MachineScheduler_8h.html" title="R600 Machine Scheduler interface. " alt="" coords="1623,102,1793,129"/>
+<area shape="rect" id="node29" href="$SIMachineFunctionInfo_8h.html" title="SIMachineFunctionInfo.h" alt="" coords="2510,281,2677,307"/>
+<area shape="rect" id="node30" href="$SIMachineScheduler_8h.html" title="SI Machine Scheduler interface. " alt="" coords="2798,370,2951,397"/>
+<area shape="rect" id="node31" href="$AMDGPUTargetInfo_8h.html" title="TargetInfo/AMDGPUTargetInfo.h" alt="" coords="1919,102,2134,129"/>
+<area shape="rect" id="node32" href="$IRTranslator_8h.html" title="This file declares the IRTranslator pass. " alt="" coords="2990,184,3159,225"/>
+<area shape="rect" id="node33" href="$InstructionSelect_8h.html" title="llvm/CodeGen/GlobalISel\l/InstructionSelect.h" alt="" coords="2210,95,2379,136"/>
+<area shape="rect" id="node34" href="$Legalizer_8h.html" title="llvm/CodeGen/GlobalISel\l/Legalizer.h" alt="" coords="2403,95,2573,136"/>
+<area shape="rect" id="node35" href="$RegBankSelect_8h.html" title="llvm/CodeGen/GlobalISel\l/RegBankSelect.h" alt="" coords="3041,363,3210,404"/>
+<area shape="rect" id="node36" href="$MIParser_8h.html" title="llvm/CodeGen/MIRParser\l/MIParser.h" alt="" coords="2146,184,2318,225"/>
+<area shape="rect" id="node37" href="$CodeGen_2Passes_8h.html" title="llvm/CodeGen/Passes.h" alt="" coords="2699,102,2863,129"/>
+<area shape="rect" id="node38" href="$TargetPassConfig_8h.html" title="llvm/CodeGen/TargetPassConfig.h" alt="" coords="313,541,538,568"/>
+<area shape="rect" id="node39" href="$LegacyPassManager_8h.html" title="llvm/IR/LegacyPassManager.h" alt="" coords="94,459,295,486"/>
+<area shape="rect" id="node40" href="$InitializePasses_8h.html" title="llvm/InitializePasses.h" alt="" coords="2990,102,3143,129"/>
+<area shape="rect" id="node41" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="2343,191,2537,218"/>
+<area shape="rect" id="node42" href="$TargetRegistry_8h.html" title="llvm/Support/TargetRegistry.h" alt="" coords="1885,281,2081,307"/>
+<area shape="rect" id="node43" href="$TargetLoweringObjectFile_8h.html" title="llvm/Target/TargetLowering\lObjectFile.h" alt="" coords="1650,452,1830,493"/>
+<area shape="rect" id="node44" href="$Transforms_2IPO_8h.html" title="llvm/Transforms/IPO.h" alt="" coords="3320,102,3475,129"/>
+<area shape="rect" id="node45" href="$AlwaysInliner_8h.html" title="Provides passes to inlining &quot;always_inline&quot; functions. " alt="" coords="3499,95,3642,136"/>
+<area shape="rect" id="node46" href="$Transforms_2IPO_2PassManagerBuilder_8h.html" title="llvm/Transforms/IPO\l/PassManagerBuilder.h" alt="" coords="3235,184,3392,225"/>
+<area shape="rect" id="node47" href="$Transforms_2Scalar_8h.html" title="llvm/Transforms/Scalar.h" alt="" coords="3717,102,3885,129"/>
+<area shape="rect" id="node48" href="$GVN_8h.html" title="This file provides the interface for LLVM&#39;s Global Value Numbering pass which eliminates fully redund..." alt="" coords="2949,691,3107,732"/>
+<area shape="rect" id="node49" href="$Transforms_2Utils_8h.html" title="llvm/Transforms/Utils.h" alt="" coords="3961,102,4119,129"/>
+<area shape="rect" id="node50" href="$Transforms_2Vectorize_8h.html" title="llvm/Transforms/Vectorize.h" alt="" coords="4144,102,4331,129"/>
+<area shape="rect" id="node3" href="$AMDGPUSubtarget_8h.html" title="AMDGPU specific subclass of TargetSubtarget. " alt="" coords="847,281,995,307"/>
+<area shape="rect" id="node5" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="1074,541,1262,568"/>
+<area shape="rect" id="node6" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1667,698,1813,725"/>
+<area shape="rect" id="node10" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="1175,616,1340,643"/>
+<area shape="rect" id="node15" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2109,370,2249,397"/>
+<area shape="rect" id="node16" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="2157,281,2307,307"/>
+<area shape="rect" id="node17" href="$TargetTransformInfo_8h.html" title="This pass exposes codegen information to IR&#45;level passes. " alt="" coords="1071,273,1271,315"/>
+<area shape="rect" id="node8" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="1365,616,1489,643"/>
+</map>

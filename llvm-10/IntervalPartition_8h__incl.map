@@ -1,0 +1,27 @@
+<map id="include/llvm/Analysis/IntervalPartition.h" name="include/llvm/Analysis/IntervalPartition.h">
+<area shape="rect" id="node2" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="2541,95,2632,121"/>
+<area shape="rect" id="node3" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1601,393,1748,420"/>
+<area shape="rect" id="node31" href="$PassAnalysisSupport_8h.html" title="llvm/PassAnalysisSupport.h" alt="" coords="2493,319,2680,345"/>
+<area shape="rect" id="node39" href="$PassSupport_8h.html" title="llvm/PassSupport.h" alt="" coords="3401,169,3537,196"/>
+<area shape="rect" id="node4" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1371,468,1525,495"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3909,692,4072,719"/>
+<area shape="rect" id="node17" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="397,617,568,644"/>
+<area shape="rect" id="node5" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2827,543,2967,569"/>
+<area shape="rect" id="node16" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="929,543,1061,569"/>
+<area shape="rect" id="node22" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1637,617,1827,644"/>
+<area shape="rect" id="node6" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="2827,617,2949,644"/>
+<area shape="rect" id="node10" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="3283,617,3453,644"/>
+<area shape="rect" id="node32" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2505,468,2668,495"/>
+<area shape="rect" id="node33" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="3621,543,3774,569"/>
+<area shape="rect" id="node34" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3419,543,3597,569"/>
+<area shape="rect" id="node37" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="2027,543,2195,569"/>
+<area shape="rect" id="node35" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="3477,617,3680,644"/>
+<area shape="rect" id="node40" href="$PassInfo_8h.html" title="llvm/PassInfo.h" alt="" coords="3626,319,3739,345"/>
+<area shape="rect" id="node41" href="$PassRegistry_8h.html" title="llvm/PassRegistry.h" alt="" coords="3286,244,3426,271"/>
+<area shape="rect" id="node46" href="$Threading_8h.html" title="llvm/Support/Threading.h" alt="" coords="4586,393,4753,420"/>
+<area shape="rect" id="node42" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="3304,468,3459,495"/>
+<area shape="rect" id="node43" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="1763,319,1914,345"/>
+<area shape="rect" id="node44" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="3075,319,3293,345"/>
+<area shape="rect" id="node45" href="$RWMutex_8h.html" title="llvm/Support/RWMutex.h" alt="" coords="4462,319,4631,345"/>
+<area shape="rect" id="node47" href="$FunctionExtras_8h.html" title="This file provides a collection of function (or more generally, callable) type erasure utilities supp..." alt="" coords="3798,543,3978,569"/>
+</map>

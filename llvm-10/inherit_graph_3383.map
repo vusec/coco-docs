@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1objcarc_1_1PtrState.html" title="This class summarizes several per&#45;pointer runtime properties which are propagated through the flow gr..." alt="" coords="5,46,157,73"/>
+<area shape="rect" id="node2" href="$structllvm_1_1objcarc_1_1BottomUpPtrState.html" title="llvm::objcarc::BottomUpPtr\lState" alt="" coords="205,5,385,47"/>
+<area shape="rect" id="node3" href="$structllvm_1_1objcarc_1_1TopDownPtrState.html" title="llvm::objcarc::TopDownPtr\lState" alt="" coords="207,71,384,112"/>
+</map>

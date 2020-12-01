@@ -1,0 +1,32 @@
+<map id="lib/Target/VE/VERegisterInfo.cpp" name="lib/Target/VE/VERegisterInfo.cpp">
+<area shape="rect" id="node2" href="$VERegisterInfo_8h.html" title="VERegisterInfo.h" alt="" coords="3916,251,4039,278"/>
+<area shape="rect" id="node16" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="4265,751,4455,777"/>
+<area shape="rect" id="node22" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1485,676,1640,703"/>
+<area shape="rect" id="node30" href="$VE_8h.html" title="VE.h" alt="" coords="4979,251,5029,278"/>
+<area shape="rect" id="node35" href="$Type_8h.html" title="llvm/IR/Type.h" alt="" coords="4022,505,4130,531"/>
+<area shape="rect" id="node37" href="$VESubtarget_8h.html" title="VESubtarget.h" alt="" coords="5001,95,5108,121"/>
+<area shape="rect" id="node42" href="$TargetInstrInfo_8h.html" title="llvm/CodeGen/TargetInstr\lInfo.h" alt="" coords="3719,244,3891,285"/>
+<area shape="rect" id="node43" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="3355,423,3573,449"/>
+<area shape="rect" id="node44" href="$BitVector_8h.html" title="llvm/ADT/BitVector.h" alt="" coords="2605,505,2752,531"/>
+<area shape="rect" id="node45" href="$MachineInstrBuilder_8h.html" title="llvm/CodeGen/MachineInstr\lBuilder.h" alt="" coords="3671,333,3855,375"/>
+<area shape="rect" id="node48" href="$MachineFrameInfo_8h.html" title="llvm/CodeGen/MachineFrame\lInfo.h" alt="" coords="3024,587,3219,628"/>
+<area shape="rect" id="node49" href="$MachineRegisterInfo_8h.html" title="llvm/CodeGen/MachineRegister\lInfo.h" alt="" coords="2329,333,2535,375"/>
+<area shape="rect" id="node50" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="1497,505,1692,531"/>
+<area shape="rect" id="node3" href="$TargetRegisterInfo_8h.html" title="llvm/CodeGen/TargetRegister\lInfo.h" alt="" coords="2827,497,3021,539"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1957,594,2101,621"/>
+<area shape="rect" id="node5" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2285,676,2448,703"/>
+<area shape="rect" id="node6" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="416,825,587,852"/>
+<area shape="rect" id="node9" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="2709,751,2886,777"/>
+<area shape="rect" id="node23" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3013,751,3153,777"/>
+<area shape="rect" id="node24" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1177,751,1309,777"/>
+<area shape="rect" id="node31" href="$VEMCTargetDesc_8h.html" title="MCTargetDesc/VEMCTargetDesc.h" alt="" coords="4915,341,5149,367"/>
+<area shape="rect" id="node33" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="4550,341,4738,367"/>
+<area shape="rect" id="node34" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="3977,423,4124,449"/>
+<area shape="rect" id="node36" href="$Alignment_8h.html" title="llvm/Support/Alignment.h" alt="" coords="3000,676,3168,703"/>
+<area shape="rect" id="node38" href="$VEFrameLowering_8h.html" title="VEFrameLowering.h" alt="" coords="5063,169,5203,196"/>
+<area shape="rect" id="node39" href="$TargetFrameLowering_8h.html" title="llvm/CodeGen/TargetFrame\lLowering.h" alt="" coords="5330,244,5513,285"/>
+<area shape="rect" id="node40" href="$VEISelLowering_8h.html" title="VEISelLowering.h" alt="" coords="4913,169,5039,196"/>
+<area shape="rect" id="node41" href="$VEInstrInfo_8h.html" title="VEInstrInfo.h" alt="" coords="3841,169,3940,196"/>
+<area shape="rect" id="node46" href="$SelectionDAGTargetInfo_8h.html" title="llvm/CodeGen/SelectionDAGTarget\lInfo.h" alt="" coords="5423,587,5652,628"/>
+<area shape="rect" id="node47" href="$TargetSubtargetInfo_8h.html" title="llvm/CodeGen/TargetSubtarget\lInfo.h" alt="" coords="2227,497,2429,539"/>
+</map>

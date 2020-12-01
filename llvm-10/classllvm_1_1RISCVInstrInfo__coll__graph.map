@@ -1,0 +1,5 @@
+<map id="llvm::RISCVInstrInfo" name="llvm::RISCVInstrInfo">
+<area shape="rect" id="node2" href="$classRISCVGenInstrInfo.html" title="RISCVGenInstrInfo" alt="" coords="376,79,512,105"/>
+<area shape="rect" id="node3" href="$classllvm_1_1RISCVSubtarget.html" title="llvm::RISCVSubtarget" alt="" coords="368,129,520,156"/>
+<area shape="rect" id="node4" href="$classRISCVGenSubtargetInfo.html" title="RISCVGenSubtargetInfo" alt="" coords="29,5,195,32"/>
+</map>

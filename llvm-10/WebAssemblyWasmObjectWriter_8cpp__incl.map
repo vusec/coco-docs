@@ -1,0 +1,42 @@
+<map id="lib/Target/WebAssembly/MCTargetDesc/WebAssemblyWasmObjectWriter.cpp" name="lib/Target/WebAssembly/MCTargetDesc/WebAssemblyWasmObjectWriter.cpp">
+<area shape="rect" id="node2" href="$WebAssemblyFixupKinds_8h.html" title="MCTargetDesc/WebAssembly\lFixupKinds.h" alt="" coords="3788,109,3988,151"/>
+<area shape="rect" id="node3" href="$MCFixup_8h.html" title="llvm/MC/MCFixup.h" alt="" coords="4045,452,4184,479"/>
+<area shape="rect" id="node9" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2819,601,3008,628"/>
+<area shape="rect" id="node12" href="$WebAssemblyMCTargetDesc_8h.html" title="This file provides WebAssembly&#45;specific target descriptions. " alt="" coords="1489,199,1689,240"/>
+<area shape="rect" id="node27" href="$BinaryFormat_2Wasm_8h.html" title="llvm/BinaryFormat/Wasm.h" alt="" coords="1904,288,2085,315"/>
+<area shape="rect" id="node32" href="$MCAsmBackend_8h.html" title="llvm/MC/MCAsmBackend.h" alt="" coords="2223,288,2409,315"/>
+<area shape="rect" id="node36" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="1821,527,1976,553"/>
+<area shape="rect" id="node38" href="$MCFixupKindInfo_8h.html" title="llvm/MC/MCFixupKindInfo.h" alt="" coords="2883,117,3069,143"/>
+<area shape="rect" id="node39" href="$MCObjectWriter_8h.html" title="llvm/MC/MCObjectWriter.h" alt="" coords="3011,288,3191,315"/>
+<area shape="rect" id="node44" href="$MCSectionWasm_8h.html" title="llvm/MC/MCSectionWasm.h" alt="" coords="2669,117,2859,143"/>
+<area shape="rect" id="node46" href="$MCSymbolWasm_8h.html" title="llvm/MC/MCSymbolWasm.h" alt="" coords="2499,206,2688,233"/>
+<area shape="rect" id="node49" href="$MCValue_8h.html" title="llvm/MC/MCValue.h" alt="" coords="4151,206,4291,233"/>
+<area shape="rect" id="node50" href="$MCWasmObjectWriter_8h.html" title="llvm/MC/MCWasmObjectWriter.h" alt="" coords="2256,206,2475,233"/>
+<area shape="rect" id="node4" href="$MCExpr_8h.html" title="llvm/MC/MCExpr.h" alt="" coords="4209,527,4343,553"/>
+<area shape="rect" id="node5" href="$SMLoc_8h.html" title="llvm/Support/SMLoc.h" alt="" coords="4026,601,4177,628"/>
+<area shape="rect" id="node8" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="3958,527,4133,553"/>
+<area shape="rect" id="node10" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1904,676,2067,703"/>
+<area shape="rect" id="node13" href="$WebAssemblySubtarget_8h.html" title="This file declares the WebAssembly&#45;specific subclass of TargetSubtarget. " alt="" coords="1141,288,1328,315"/>
+<area shape="rect" id="node29" href="$MCInstrDesc_8h.html" title="llvm/MC/MCInstrDesc.h" alt="" coords="3667,452,3831,479"/>
+<area shape="rect" id="node14" href="$WebAssemblyFrameLowering_8h.html" title="This class implements WebAssembly&#45;specific bits of TargetFrameLowering class. " alt="" coords="1031,370,1238,397"/>
+<area shape="rect" id="node15" href="$WebAssemblyISelLowering_8h.html" title="This file defines the interfaces that WebAssembly uses to lower LLVM code into a selection DAG..." alt="" coords="313,370,506,397"/>
+<area shape="rect" id="node16" href="$WebAssemblyInstrInfo_8h.html" title="This file contains the WebAssembly implementation of the TargetInstrInfo class. " alt="" coords="1262,370,1429,397"/>
+<area shape="rect" id="node23" href="$WebAssemblySelectionDAGInfo_8h.html" title="This file defines the WebAssembly subclass for SelectionDAGTargetInfo. " alt="" coords="530,370,753,397"/>
+<area shape="rect" id="node24" href="$TargetSubtargetInfo_8h.html" title="llvm/CodeGen/TargetSubtarget\lInfo.h" alt="" coords="1605,363,1808,404"/>
+<area shape="rect" id="node17" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1676,452,1820,479"/>
+<area shape="rect" id="node18" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2259,527,2421,553"/>
+<area shape="rect" id="node19" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1813,601,1984,628"/>
+<area shape="rect" id="node25" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2496,527,2643,553"/>
+<area shape="rect" id="node30" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="3501,527,3680,553"/>
+<area shape="rect" id="node33" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="1657,527,1797,553"/>
+<area shape="rect" id="node34" href="$MCDirectives_8h.html" title="llvm/MC/MCDirectives.h" alt="" coords="2233,370,2399,397"/>
+<area shape="rect" id="node35" href="$MCFragment_8h.html" title="llvm/MC/MCFragment.h" alt="" coords="2525,370,2688,397"/>
+<area shape="rect" id="node37" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="3073,527,3223,553"/>
+<area shape="rect" id="node40" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="3182,370,3306,397"/>
+<area shape="rect" id="node42" href="$EndianStream_8h.html" title="llvm/Support/EndianStream.h" alt="" coords="2864,370,3056,397"/>
+<area shape="rect" id="node43" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2683,452,2869,479"/>
+<area shape="rect" id="node41" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="2995,452,3122,479"/>
+<area shape="rect" id="node45" href="$MCSection_8h.html" title="llvm/MC/MCSection.h" alt="" coords="2559,288,2710,315"/>
+<area shape="rect" id="node48" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="2814,206,2962,233"/>
+<area shape="rect" id="node47" href="$MCSymbol_8h.html" title="llvm/MC/MCSymbol.h" alt="" coords="3459,288,3610,315"/>
+</map>

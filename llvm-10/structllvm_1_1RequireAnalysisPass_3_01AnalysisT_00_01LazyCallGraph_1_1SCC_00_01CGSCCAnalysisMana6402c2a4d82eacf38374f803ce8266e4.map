@@ -1,0 +1,4 @@
+<map id="llvm::RequireAnalysisPass&lt; AnalysisT, LazyCallGraph::SCC, CGSCCAnalysisManager, LazyCallGraph &amp;, CGSCCUpdateResult &amp; &gt;" name="llvm::RequireAnalysisPass&lt; AnalysisT, LazyCallGraph::SCC, CGSCCAnalysisManager, LazyCallGraph &amp;, CGSCCUpdateResult &amp; &gt;">
+<area shape="rect" id="node2" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; RequireAnalysisPass\l\&lt; AnalysisT, LazyCallGraph\l::SCC, CGSCCAnalysisManager,\l LazyCallGraph &amp;, CGSCCUpdateResult &amp;\&gt; \&gt;" alt="" coords="464,21,759,107"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes. " alt="" coords="5,43,143,85"/>
+</map>

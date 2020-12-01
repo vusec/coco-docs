@@ -1,0 +1,37 @@
+<map id="include/llvm/Analysis/IVDescriptors.h" name="include/llvm/Analysis/IVDescriptors.h">
+<area shape="rect" id="node2" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1553,423,1708,449"/>
+<area shape="rect" id="node6" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3407,647,3569,673"/>
+<area shape="rect" id="node28" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="190,721,330,748"/>
+<area shape="rect" id="node30" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="4481,572,4628,599"/>
+<area shape="rect" id="node33" href="$SetVector_8h.html" title="llvm/ADT/SetVector.h" alt="" coords="3402,259,3553,285"/>
+<area shape="rect" id="node35" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="1172,647,1335,673"/>
+<area shape="rect" id="node36" href="$AliasAnalysis_8h.html" title="llvm/Analysis/AliasAnalysis.h" alt="" coords="1649,95,1844,121"/>
+<area shape="rect" id="node40" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="5640,572,5795,599"/>
+<area shape="rect" id="node42" href="$DemandedBits_8h.html" title="llvm/Analysis/DemandedBits.h" alt="" coords="423,341,625,367"/>
+<area shape="rect" id="node43" href="$EHPersonalities_8h.html" title="llvm/Analysis/EHPersonalities.h" alt="" coords="5097,341,5306,367"/>
+<area shape="rect" id="node44" href="$MustExecute_8h.html" title="Contains a collection of routines for determining if a given instruction is guaranteed to execute if ..." alt="" coords="1987,259,2179,285"/>
+<area shape="rect" id="node45" href="$Dominators_8h.html" title="llvm/IR/Dominators.h" alt="" coords="640,423,787,449"/>
+<area shape="rect" id="node46" href="$TargetTransformInfo_8h.html" title="This pass exposes codegen information to IR&#45;level passes. " alt="" coords="793,333,993,375"/>
+<area shape="rect" id="node47" href="$Operator_8h.html" title="llvm/IR/Operator.h" alt="" coords="1733,423,1862,449"/>
+<area shape="rect" id="node48" href="$IRBuilder_8h.html" title="llvm/IR/IRBuilder.h" alt="" coords="3613,95,3747,121"/>
+<area shape="rect" id="node49" href="$InstrTypes_8h.html" title="llvm/IR/InstrTypes.h" alt="" coords="3717,177,3859,203"/>
+<area shape="rect" id="node50" href="$ValueHandle_8h.html" title="llvm/IR/ValueHandle.h" alt="" coords="5787,423,5941,449"/>
+<area shape="rect" id="node3" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="2203,497,2381,524"/>
+<area shape="rect" id="node10" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2630,721,2783,748"/>
+<area shape="rect" id="node11" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3693,871,3856,897"/>
+<area shape="rect" id="node13" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="4067,721,4245,748"/>
+<area shape="rect" id="node23" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1260,796,1431,823"/>
+<area shape="rect" id="node31" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="608,721,781,748"/>
+<area shape="rect" id="node32" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="907,721,1114,748"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="3499,572,3643,599"/>
+<area shape="rect" id="node5" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="1455,796,1577,823"/>
+<area shape="rect" id="node27" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3813,647,3968,673"/>
+<area shape="rect" id="node7" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3163,721,3333,748"/>
+<area shape="rect" id="node19" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="4320,721,4488,748"/>
+<area shape="rect" id="node20" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="5717,796,5907,823"/>
+<area shape="rect" id="node34" href="$DenseSet_8h.html" title="llvm/ADT/DenseSet.h" alt="" coords="2457,341,2607,367"/>
+<area shape="rect" id="node37" href="$MemoryLocation_8h.html" title="This file provides utility analysis objects describing memory locations. " alt="" coords="1141,423,1352,449"/>
+<area shape="rect" id="node38" href="$TargetLibraryInfo_8h.html" title="llvm/Analysis/TargetLibrary\lInfo.h" alt="" coords="1529,169,1709,211"/>
+<area shape="rect" id="node39" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="4295,259,4425,285"/>
+<area shape="rect" id="node41" href="$IR_2Instruction_8h.html" title="llvm/IR/Instruction.h" alt="" coords="3147,497,3287,524"/>
+</map>

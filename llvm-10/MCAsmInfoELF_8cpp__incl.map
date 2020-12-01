@@ -1,0 +1,27 @@
+<map id="lib/MC/MCAsmInfoELF.cpp" name="lib/MC/MCAsmInfoELF.cpp">
+<area shape="rect" id="node2" href="$MCAsmInfoELF_8h.html" title="llvm/MC/MCAsmInfoELF.h" alt="" coords="2797,80,2977,107"/>
+<area shape="rect" id="node11" href="$BinaryFormat_2ELF_8h.html" title="llvm/BinaryFormat/ELF.h" alt="" coords="4358,304,4525,331"/>
+<area shape="rect" id="node31" href="$MCContext_8h.html" title="llvm/MC/MCContext.h" alt="" coords="1849,80,2002,107"/>
+<area shape="rect" id="node50" href="$MCSectionELF_8h.html" title="llvm/MC/MCSectionELF.h" alt="" coords="3042,80,3217,107"/>
+<area shape="rect" id="node3" href="$MCAsmInfo_8h.html" title="llvm/MC/MCAsmInfo.h" alt="" coords="2769,155,2925,181"/>
+<area shape="rect" id="node4" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2271,379,2417,405"/>
+<area shape="rect" id="node10" href="$MCTargetOptions_8h.html" title="llvm/MC/MCTargetOptions.h" alt="" coords="2685,229,2875,256"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="392,453,555,480"/>
+<area shape="rect" id="node32" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="889,379,1044,405"/>
+<area shape="rect" id="node33" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="573,379,713,405"/>
+<area shape="rect" id="node34" href="$SetVector_8h.html" title="llvm/ADT/SetVector.h" alt="" coords="398,379,549,405"/>
+<area shape="rect" id="node35" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="2614,304,2773,331"/>
+<area shape="rect" id="node36" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1321,379,1484,405"/>
+<area shape="rect" id="node37" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="994,229,1145,256"/>
+<area shape="rect" id="node38" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="831,304,993,331"/>
+<area shape="rect" id="node39" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="1735,304,1862,331"/>
+<area shape="rect" id="node40" href="$Dwarf_8h.html" title="This file contains constants used for implementing Dwarf debug support. " alt="" coords="43,304,221,331"/>
+<area shape="rect" id="node41" href="$XCOFF_8h.html" title="llvm/BinaryFormat/XCOFF.h" alt="" coords="2039,304,2227,331"/>
+<area shape="rect" id="node42" href="$MCAsmMacro_8h.html" title="llvm/MC/MCAsmMacro.h" alt="" coords="2440,229,2611,256"/>
+<area shape="rect" id="node43" href="$MCDwarf_8h.html" title="llvm/MC/MCDwarf.h" alt="" coords="1375,155,1518,181"/>
+<area shape="rect" id="node44" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="1220,229,1359,256"/>
+<area shape="rect" id="node45" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="1423,304,1609,331"/>
+<area shape="rect" id="node46" href="$MD5_8h.html" title="llvm/Support/MD5.h" alt="" coords="2227,229,2365,256"/>
+<area shape="rect" id="node47" href="$MCSubtargetInfo_8h.html" title="llvm/MC/MCSubtargetInfo.h" alt="" coords="2251,304,2437,331"/>
+<area shape="rect" id="node48" href="$SectionKind_8h.html" title="llvm/MC/SectionKind.h" alt="" coords="3051,155,3207,181"/>
+</map>

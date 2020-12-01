@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1xray_1_1RecordVisitor.html" title="llvm::xray::RecordVisitor" alt="" coords="5,157,172,184"/>
+<area shape="rect" id="node2" href="$classllvm_1_1xray_1_1BlockIndexer.html" title="llvm::xray::BlockIndexer" alt="" coords="230,5,393,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1xray_1_1BlockPrinter.html" title="llvm::xray::BlockPrinter" alt="" coords="232,56,391,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1xray_1_1BlockVerifier.html" title="llvm::xray::BlockVerifier" alt="" coords="231,107,392,133"/>
+<area shape="rect" id="node5" href="$classllvm_1_1xray_1_1FDRTraceWriter.html" title="The FDRTraceWriter allows us to hand&#45;craft an XRay Flight Data Recorder (FDR) mode log file..." alt="" coords="220,157,403,184"/>
+<area shape="rect" id="node6" href="$classllvm_1_1xray_1_1RecordInitializer.html" title="llvm::xray::RecordInitializer" alt="" coords="221,208,402,235"/>
+<area shape="rect" id="node7" href="$classllvm_1_1xray_1_1RecordPrinter.html" title="llvm::xray::RecordPrinter" alt="" coords="228,259,395,285"/>
+<area shape="rect" id="node8" href="$classllvm_1_1xray_1_1TraceExpander.html" title="llvm::xray::TraceExpander" alt="" coords="224,309,399,336"/>
+</map>

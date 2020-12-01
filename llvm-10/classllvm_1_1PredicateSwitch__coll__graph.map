@@ -1,0 +1,25 @@
+<map id="llvm::PredicateSwitch" name="llvm::PredicateSwitch">
+<area shape="rect" id="node2" href="$classllvm_1_1PredicateWithEdge.html" title="llvm::PredicateWithEdge" alt="" coords="2537,213,2704,240"/>
+<area shape="rect" id="node3" href="$classllvm_1_1PredicateWithCondition.html" title="llvm::PredicateWithCondition" alt="" coords="2264,187,2455,213"/>
+<area shape="rect" id="node4" href="$classllvm_1_1PredicateBase.html" title="llvm::PredicateBase" alt="" coords="2072,65,2211,92"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Predicate\lBase \&gt;" alt="" coords="1298,137,1474,178"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; PredicateBase,\l Options... \&gt;::type \&gt;" alt="" coords="693,122,900,193"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ilist__node__impl.html" title="Implementation for an ilist node. " alt="" coords="277,287,417,329"/>
+<area shape="rect" id="node11" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; T, Options...\l \&gt;::type \&gt;" alt="" coords="701,219,892,290"/>
+<area shape="rect" id="node19" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; BasicBlock,\l Options... \&gt;::type \&gt;" alt="" coords="703,314,891,385"/>
+<area shape="rect" id="node23" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; NodeTy,\l Options... \&gt;::type \&gt;" alt="" coords="713,423,881,494"/>
+<area shape="rect" id="node30" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; Instruction,\l Options... \&gt;::type \&gt;" alt="" coords="705,526,888,597"/>
+<area shape="rect" id="node10" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; T,\l Options \&gt;" alt="" coords="949,257,1083,298"/>
+<area shape="rect" id="node18" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; BasicBlock,\l Options... \&gt;" alt="" coords="1291,257,1481,298"/>
+<area shape="rect" id="node22" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; NodeTy,\l Options... \&gt;" alt="" coords="1301,438,1471,479"/>
+<area shape="rect" id="node29" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Instruction,\l Options... \&gt;" alt="" coords="1293,541,1479,582"/>
+<area shape="rect" id="node14" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="1719,192,1805,219"/>
+<area shape="rect" id="node16" href="$classllvm_1_1BasicBlock.html" title="LLVM Basic Block Representation. " alt="" coords="2299,239,2419,265"/>
+<area shape="rect" id="node27" href="$classllvm_1_1User.html" title="llvm::User" alt="" coords="2100,289,2183,316"/>
+<area shape="rect" id="node15" href="$classunsigned.html" title="unsigned" alt="" coords="1349,385,1423,412"/>
+<area shape="rect" id="node25" href="$classllvm_1_1SwitchInst.html" title="Multiway switch. " alt="" coords="2563,421,2679,448"/>
+<area shape="rect" id="node17" href="$classllvm_1_1ilist__node__with__parent.html" title="llvm::ilist_node_with\l_parent\&lt; BasicBlock,\l Function \&gt;" alt="" coords="2068,340,2215,396"/>
+<area shape="rect" id="node21" href="$classllvm_1_1ilist__node__with__parent.html" title="An ilist node that can access its parent list. " alt="" coords="1668,472,1856,528"/>
+<area shape="rect" id="node28" href="$classllvm_1_1ilist__node__with__parent.html" title="llvm::ilist_node_with\l_parent\&lt; Instruction,\l BasicBlock \&gt;" alt="" coords="2070,483,2213,539"/>
+<area shape="rect" id="node26" href="$classllvm_1_1Instruction.html" title="llvm::Instruction" alt="" coords="2302,472,2417,499"/>
+</map>

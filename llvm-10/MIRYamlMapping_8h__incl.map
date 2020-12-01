@@ -1,0 +1,29 @@
+<map id="include/llvm/CodeGen/MIRYamlMapping.h" name="include/llvm/CodeGen/MIRYamlMapping.h">
+<area shape="rect" id="node2" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="5275,497,5415,524"/>
+<area shape="rect" id="node13" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2883,341,3029,367"/>
+<area shape="rect" id="node29" href="$MachineJumpTableInfo_8h.html" title="llvm/CodeGen/MachineJump\lTableInfo.h" alt="" coords="297,333,487,375"/>
+<area shape="rect" id="node32" href="$TargetFrameLowering_8h.html" title="llvm/CodeGen/TargetFrame\lLowering.h" alt="" coords="618,169,801,211"/>
+<area shape="rect" id="node35" href="$SMLoc_8h.html" title="llvm/Support/SMLoc.h" alt="" coords="4811,341,4962,367"/>
+<area shape="rect" id="node36" href="$YAMLTraits_8h.html" title="llvm/Support/YAMLTraits.h" alt="" coords="3725,95,3904,121"/>
+<area shape="rect" id="node49" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="3515,259,3701,285"/>
+<area shape="rect" id="node3" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="5845,572,5968,599"/>
+<area shape="rect" id="node4" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="5257,647,5420,673"/>
+<area shape="rect" id="node7" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="5029,572,5200,599"/>
+<area shape="rect" id="node14" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2552,423,2707,449"/>
+<area shape="rect" id="node16" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1843,572,2013,599"/>
+<area shape="rect" id="node15" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="2065,497,2197,524"/>
+<area shape="rect" id="node21" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="3717,497,3907,524"/>
+<area shape="rect" id="node30" href="$Printable_8h.html" title="llvm/Support/Printable.h" alt="" coords="339,423,501,449"/>
+<area shape="rect" id="node33" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="614,333,805,375"/>
+<area shape="rect" id="node34" href="$StringSwitch_8h.html" title="llvm/ADT/StringSwitch.h" alt="" coords="2451,259,2618,285"/>
+<area shape="rect" id="node37" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="4059,423,4221,449"/>
+<area shape="rect" id="node38" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="4843,497,4997,524"/>
+<area shape="rect" id="node39" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="2874,177,3038,203"/>
+<area shape="rect" id="node40" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="3262,259,3389,285"/>
+<area shape="rect" id="node41" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="2009,259,2159,285"/>
+<area shape="rect" id="node42" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="3731,341,3893,367"/>
+<area shape="rect" id="node43" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="4753,423,4903,449"/>
+<area shape="rect" id="node44" href="$Regex_8h.html" title="llvm/Support/Regex.h" alt="" coords="1430,177,1578,203"/>
+<area shape="rect" id="node45" href="$Support_2SourceMgr_8h.html" title="llvm/Support/SourceMgr.h" alt="" coords="3377,177,3551,203"/>
+<area shape="rect" id="node46" href="$YAMLParser_8h.html" title="llvm/Support/YAMLParser.h" alt="" coords="4408,259,4592,285"/>
+</map>

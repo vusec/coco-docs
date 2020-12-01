@@ -1,0 +1,51 @@
+<map id="include/llvm/Analysis/BlockFrequencyInfo.h" name="include/llvm/Analysis/BlockFrequencyInfo.h">
+<area shape="rect" id="node2" href="$LazyBlockFrequencyInfo_8h.html" title="include/llvm/Analysis\l/LazyBlockFrequencyInfo.h" alt="" coords="791,95,972,136"/>
+<area shape="rect" id="node7" href="$InstructionCombining_8cpp.html" title="lib/Transforms/InstCombine\l/InstructionCombining.cpp" alt="" coords="201,191,383,233"/>
+<area shape="rect" id="node8" href="$LoopLoadElimination_8cpp.html" title="lib/Transforms/Scalar\l/LoopLoadElimination.cpp" alt="" coords="5,191,176,233"/>
+<area shape="rect" id="node9" href="$LoopUnrollPass_8cpp.html" title="lib/Transforms/Scalar\l/LoopUnrollPass.cpp" alt="" coords="895,191,1041,233"/>
+<area shape="rect" id="node10" href="$OptimizationRemarkEmitter_8h.html" title="include/llvm/Analysis\l/OptimizationRemarkEmitter.h" alt="" coords="3315,95,3514,136"/>
+<area shape="rect" id="node12" href="$InlineCost_8cpp.html" title="lib/Analysis/InlineCost.cpp" alt="" coords="2587,295,2765,322"/>
+<area shape="rect" id="node13" href="$Inliner_8cpp.html" title="lib/Transforms/IPO\l/Inliner.cpp" alt="" coords="3709,288,3841,329"/>
+<area shape="rect" id="node14" href="$PartialInlining_8cpp.html" title="lib/Transforms/IPO\l/PartialInlining.cpp" alt="" coords="3145,288,3277,329"/>
+<area shape="rect" id="node18" href="$LoopVectorize_8cpp.html" title="lib/Transforms/Vectorize\l/LoopVectorize.cpp" alt="" coords="2339,288,2503,329"/>
+<area shape="rect" id="node24" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="5115,199,5298,225"/>
+<area shape="rect" id="node25" href="$ControlHeightReduction_8cpp.html" title="lib/Transforms/Instrumentation\l/ControlHeightReduction.cpp" alt="" coords="4397,191,4595,233"/>
+<area shape="rect" id="node26" href="$PGOInstrumentation_8cpp.html" title="lib/Transforms/Instrumentation\l/PGOInstrumentation.cpp" alt="" coords="5494,191,5693,233"/>
+<area shape="rect" id="node27" href="$PGOMemOPSizeOpt_8cpp.html" title="lib/Transforms/Instrumentation\l/PGOMemOPSizeOpt.cpp" alt="" coords="4619,191,4818,233"/>
+<area shape="rect" id="node28" href="$HotColdSplitting_8cpp.html" title="The goal of hot/cold splitting is to improve the memory locality of code. " alt="" coords="4843,191,4989,233"/>
+<area shape="rect" id="node29" href="$SimplifyLibCalls_8cpp.html" title="lib/Transforms/Utils\l/SimplifyLibCalls.cpp" alt="" coords="2142,191,2287,233"/>
+<area shape="rect" id="node30" href="$JumpThreading_8h.html" title="See the comments on JumpThreadingPass. " alt="" coords="5106,95,5273,136"/>
+<area shape="rect" id="node31" href="$JumpThreading_8cpp.html" title="lib/Transforms/Scalar\l/JumpThreading.cpp" alt="" coords="5323,191,5469,233"/>
+<area shape="rect" id="node32" href="$SizeOpts_8h.html" title="include/llvm/Transforms\l/Utils/SizeOpts.h" alt="" coords="1543,95,1705,136"/>
+<area shape="rect" id="node33" href="$CodeGenPrepare_8cpp.html" title="lib/CodeGen/CodeGenPrepare.cpp" alt="" coords="1513,199,1735,225"/>
+<area shape="rect" id="node34" href="$SelectionDAG_8cpp.html" title="lib/CodeGen/SelectionDAG\l/SelectionDAG.cpp" alt="" coords="1760,191,1941,233"/>
+<area shape="rect" id="node35" href="$ConstantHoisting_8cpp.html" title="lib/Transforms/Scalar\l/ConstantHoisting.cpp" alt="" coords="1965,191,2117,233"/>
+<area shape="rect" id="node36" href="$BlockFrequencyInfo_8cpp.html" title="lib/Analysis/BlockFrequency\lInfo.cpp" alt="" coords="5621,95,5808,136"/>
+<area shape="rect" id="node37" href="$ModuleSummaryAnalysis_8cpp.html" title="lib/Analysis/ModuleSummary\lAnalysis.cpp" alt="" coords="5833,95,6023,136"/>
+<area shape="rect" id="node38" href="$ProfileSummaryInfo_8cpp.html" title="lib/Analysis/ProfileSummary\lInfo.cpp" alt="" coords="6048,95,6235,136"/>
+<area shape="rect" id="node39" href="$SelectionDAGBuilder_8cpp.html" title="lib/CodeGen/SelectionDAG\l/SelectionDAGBuilder.cpp" alt="" coords="6259,95,6440,136"/>
+<area shape="rect" id="node40" href="$SpeculateAnalyses_8cpp.html" title="lib/ExecutionEngine\l/Orc/SpeculateAnalyses.cpp" alt="" coords="6465,95,6653,136"/>
+<area shape="rect" id="node41" href="$X86ISelLowering_8cpp.html" title="lib/Target/X86/X86ISelLowering.cpp" alt="" coords="6677,102,6907,129"/>
+<area shape="rect" id="node42" href="$CFGMST_8h.html" title="lib/Transforms/Instrumentation\l/CFGMST.h" alt="" coords="5398,95,5597,136"/>
+<area shape="rect" id="node43" href="$CGProfile_8cpp.html" title="lib/Transforms/Instrumentation\l/CGProfile.cpp" alt="" coords="6931,95,7130,136"/>
+<area shape="rect" id="node44" href="$InstrProfiling_8cpp.html" title="lib/Transforms/Instrumentation\l/InstrProfiling.cpp" alt="" coords="7154,95,7353,136"/>
+<area shape="rect" id="node45" href="$GlobalOpt_8cpp.html" title="lib/Transforms/IPO\l/GlobalOpt.cpp" alt="" coords="7377,95,7509,136"/>
+<area shape="rect" id="node46" href="$SyntheticCountsPropagation_8cpp.html" title="lib/Transforms/IPO\l/SyntheticCountsPropagation.cpp" alt="" coords="7533,95,7750,136"/>
+<area shape="rect" id="node47" href="$LoopSink_8cpp.html" title="lib/Transforms/Scalar\l/LoopSink.cpp" alt="" coords="7775,95,7921,136"/>
+<area shape="rect" id="node48" href="$BreakCriticalEdges_8cpp.html" title="lib/Transforms/Utils\l/BreakCriticalEdges.cpp" alt="" coords="7945,95,8108,136"/>
+<area shape="rect" id="node49" href="$CodeExtractor_8cpp.html" title="lib/Transforms/Utils\l/CodeExtractor.cpp" alt="" coords="8132,95,8268,136"/>
+<area shape="rect" id="node50" href="$InlineFunction_8cpp.html" title="lib/Transforms/Utils\l/InlineFunction.cpp" alt="" coords="8292,95,8428,136"/>
+<area shape="rect" id="node3" href="$LazyBlockFrequencyInfo_8cpp.html" title="lib/Analysis/LazyBlockFrequency\lInfo.cpp" alt="" coords="407,191,622,233"/>
+<area shape="rect" id="node4" href="$OptimizationRemarkEmitter_8cpp.html" title="lib/Analysis/Optimization\lRemarkEmitter.cpp" alt="" coords="1322,191,1489,233"/>
+<area shape="rect" id="node5" href="$ExpandMemCmp_8cpp.html" title="lib/CodeGen/ExpandMemCmp.cpp" alt="" coords="647,199,871,225"/>
+<area shape="rect" id="node6" href="$SelectionDAGISel_8cpp.html" title="lib/CodeGen/SelectionDAG\l/SelectionDAGISel.cpp" alt="" coords="1116,191,1297,233"/>
+<area shape="rect" id="node11" href="$InlineCost_8h.html" title="include/llvm/Analysis\l/InlineCost.h" alt="" coords="3138,191,3283,233"/>
+<area shape="rect" id="node15" href="$MachineOptimizationRemarkEmitter_8h.html" title="===&#45; MachineOptimizationRemarkEmitter.h &#45; Opt Diagnostics &#45;*&#45; C++ &#45;*&#45;—===// " alt="" coords="4126,191,4373,233"/>
+<area shape="rect" id="node16" href="$AsmPrinter_8cpp.html" title="lib/CodeGen/AsmPrinter\l/AsmPrinter.cpp" alt="" coords="4088,288,4251,329"/>
+<area shape="rect" id="node17" href="$LoopVectorizationLegality_8h.html" title="This file defines the LoopVectorizationLegality class. " alt="" coords="2363,184,2552,240"/>
+<area shape="rect" id="node19" href="$LoopAccessAnalysis_8cpp.html" title="lib/Analysis/LoopAccessAnalysis.cpp" alt="" coords="3812,199,4052,225"/>
+<area shape="rect" id="node20" href="$ValueTracking_8cpp.html" title="lib/Analysis/ValueTracking.cpp" alt="" coords="2678,199,2879,225"/>
+<area shape="rect" id="node21" href="$IRTranslator_8cpp.html" title="This file implements the IRTranslator class. " alt="" coords="2903,191,3062,233"/>
+<area shape="rect" id="node22" href="$HardwareLoops_8cpp.html" title="Insert hardware loop intrinsics into loops which are deemed profitable by the target, by querying TargetTransformInfo. " alt="" coords="3307,199,3522,225"/>
+<area shape="rect" id="node23" href="$InterleavedLoadCombinePass_8cpp.html" title="lib/CodeGen/InterleavedLoad\lCombinePass.cpp" alt="" coords="3546,191,3737,233"/>
+</map>

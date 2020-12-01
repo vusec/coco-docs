@@ -1,0 +1,35 @@
+<map id="lib/TableGen/TGParser.h" name="lib/TableGen/TGParser.h">
+<area shape="rect" id="node2" href="$TGLexer_8h.html" title="TGLexer.h" alt="" coords="6259,155,6341,181"/>
+<area shape="rect" id="node37" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="5779,304,5906,331"/>
+<area shape="rect" id="node38" href="$Support_2SourceMgr_8h.html" title="llvm/Support/SourceMgr.h" alt="" coords="5783,155,5956,181"/>
+<area shape="rect" id="node42" href="$TableGen_2Error_8h.html" title="llvm/TableGen/Error.h" alt="" coords="5943,80,6092,107"/>
+<area shape="rect" id="node43" href="$Record_8h.html" title="llvm/TableGen/Record.h" alt="" coords="4024,229,4187,256"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="4796,379,4940,405"/>
+<area shape="rect" id="node5" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="6185,528,6359,555"/>
+<area shape="rect" id="node31" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3617,379,3764,405"/>
+<area shape="rect" id="node32" href="$StringSet_8h.html" title="llvm/ADT/StringSet.h" alt="" coords="3275,229,3421,256"/>
+<area shape="rect" id="node35" href="$SMLoc_8h.html" title="llvm/Support/SMLoc.h" alt="" coords="6257,304,6407,331"/>
+<area shape="rect" id="node4" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="4798,453,4938,480"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1640,677,1803,704"/>
+<area shape="rect" id="node16" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="6235,453,6357,480"/>
+<area shape="rect" id="node17" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2333,453,2496,480"/>
+<area shape="rect" id="node27" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3613,453,3768,480"/>
+<area shape="rect" id="node7" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="4715,603,4904,629"/>
+<area shape="rect" id="node10" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1032,528,1203,555"/>
+<area shape="rect" id="node6" href="$c_2DataTypes_8h.html" title="llvm&#45;c/DataTypes.h" alt="" coords="6204,603,6340,629"/>
+<area shape="rect" id="node18" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3061,528,3232,555"/>
+<area shape="rect" id="node20" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="803,528,957,555"/>
+<area shape="rect" id="node22" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1633,528,1810,555"/>
+<area shape="rect" id="node24" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="2667,528,2835,555"/>
+<area shape="rect" id="node33" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="3273,304,3423,331"/>
+<area shape="rect" id="node34" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="2765,379,2926,405"/>
+<area shape="rect" id="node39" href="$PointerUnion_8h.html" title="llvm/ADT/PointerUnion.h" alt="" coords="4965,379,5131,405"/>
+<area shape="rect" id="node41" href="$MemoryBuffer_8h.html" title="llvm/Support/MemoryBuffer.h" alt="" coords="5544,229,5736,256"/>
+<area shape="rect" id="node40" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="4603,453,4773,480"/>
+<area shape="rect" id="node44" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1347,453,1501,480"/>
+<area shape="rect" id="node45" href="$DenseSet_8h.html" title="llvm/ADT/DenseSet.h" alt="" coords="1455,379,1606,405"/>
+<area shape="rect" id="node46" href="$FoldingSet_8h.html" title="llvm/ADT/FoldingSet.h" alt="" coords="3093,304,3248,331"/>
+<area shape="rect" id="node47" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="884,453,1039,480"/>
+<area shape="rect" id="node48" href="$TrailingObjects_8h.html" title="This header defines support for implementing classes that have some trailing object (or arrays of obj..." alt="" coords="499,453,696,480"/>
+<area shape="rect" id="node49" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2883,304,3069,331"/>
+</map>

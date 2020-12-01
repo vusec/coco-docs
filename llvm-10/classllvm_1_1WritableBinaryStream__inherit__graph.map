@@ -1,0 +1,7 @@
+<map id="llvm::WritableBinaryStream" name="llvm::WritableBinaryStream">
+<area shape="rect" id="node3" href="$classllvm_1_1AppendingBinaryByteStream.html" title="An implementation of WritableBinaryStream which can write at its end causing the underlying data to g..." alt="" coords="430,5,609,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1FileBufferByteStream.html" title="An implementation of WritableBinaryStream backed by an llvm FileOutputBuffer. " alt="" coords="430,71,609,98"/>
+<area shape="rect" id="node5" href="$classllvm_1_1msf_1_1WritableMappedBlockStream.html" title="llvm::msf::WritableMapped\lBlockStream" alt="" coords="430,123,609,164"/>
+<area shape="rect" id="node6" href="$classllvm_1_1MutableBinaryByteStream.html" title="An implementation of BinaryStream which holds its entire data set in a single contiguous buffer..." alt="" coords="416,189,623,215"/>
+<area shape="rect" id="node2" href="$classllvm_1_1BinaryStream.html" title="An interface for accessing data in a stream&#45;like format, but which discourages copying. " alt="" coords="5,101,139,127"/>
+</map>

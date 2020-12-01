@@ -1,0 +1,26 @@
+<map id="include/llvm/IR/CFGDiff.h" name="include/llvm/IR/CFGDiff.h">
+<area shape="rect" id="node2" href="$IteratedDominanceFrontier_8h.html" title="include/llvm/Analysis\l/IteratedDominanceFrontier.h" alt="" coords="3265,80,3455,121"/>
+<area shape="rect" id="node9" href="$MemorySSAUpdater_8h.html" title="include/llvm/Analysis\l/MemorySSAUpdater.h" alt="" coords="1584,80,1741,121"/>
+<area shape="rect" id="node3" href="$MemorySSA_8cpp.html" title="lib/Analysis/MemorySSA.cpp" alt="" coords="3665,177,3857,203"/>
+<area shape="rect" id="node4" href="$MemorySSAUpdater_8cpp.html" title="lib/Analysis/MemorySSAUpdater.cpp" alt="" coords="2821,177,3059,203"/>
+<area shape="rect" id="node5" href="$ADCE_8cpp.html" title="lib/Transforms/Scalar\l/ADCE.cpp" alt="" coords="3881,169,4028,211"/>
+<area shape="rect" id="node6" href="$GVNHoist_8cpp.html" title="lib/Transforms/Scalar\l/GVNHoist.cpp" alt="" coords="3084,169,3231,211"/>
+<area shape="rect" id="node7" href="$PromoteMemoryToRegister_8cpp.html" title="lib/Transforms/Utils\l/PromoteMemoryToRegister.cpp" alt="" coords="3255,169,3465,211"/>
+<area shape="rect" id="node8" href="$SSAUpdaterBulk_8cpp.html" title="lib/Transforms/Utils\l/SSAUpdaterBulk.cpp" alt="" coords="3490,169,3641,211"/>
+<area shape="rect" id="node10" href="$LoopInfo_8cpp.html" title="lib/Analysis/LoopInfo.cpp" alt="" coords="2413,177,2581,203"/>
+<area shape="rect" id="node11" href="$InterleavedLoadCombinePass_8cpp.html" title="lib/CodeGen/InterleavedLoad\lCombinePass.cpp" alt="" coords="2606,169,2797,211"/>
+<area shape="rect" id="node12" href="$EarlyCSE_8cpp.html" title="lib/Transforms/Scalar\l/EarlyCSE.cpp" alt="" coords="5,169,152,211"/>
+<area shape="rect" id="node13" href="$LICM_8cpp.html" title="lib/Transforms/Scalar\l/LICM.cpp" alt="" coords="176,169,323,211"/>
+<area shape="rect" id="node14" href="$LoopInstSimplify_8cpp.html" title="lib/Transforms/Scalar\l/LoopInstSimplify.cpp" alt="" coords="347,169,495,211"/>
+<area shape="rect" id="node15" href="$LoopRotation_8cpp.html" title="lib/Transforms/Scalar\l/LoopRotation.cpp" alt="" coords="520,169,667,211"/>
+<area shape="rect" id="node16" href="$LoopSimplifyCFG_8cpp.html" title="lib/Transforms/Scalar\l/LoopSimplifyCFG.cpp" alt="" coords="691,169,845,211"/>
+<area shape="rect" id="node17" href="$LoopUnswitch_8cpp.html" title="lib/Transforms/Scalar\l/LoopUnswitch.cpp" alt="" coords="869,169,1016,211"/>
+<area shape="rect" id="node18" href="$SimpleLoopUnswitch_8cpp.html" title="lib/Transforms/Scalar\l/SimpleLoopUnswitch.cpp" alt="" coords="1041,169,1215,211"/>
+<area shape="rect" id="node19" href="$BasicBlockUtils_8cpp.html" title="lib/Transforms/Utils\l/BasicBlockUtils.cpp" alt="" coords="1240,169,1384,211"/>
+<area shape="rect" id="node20" href="$BreakCriticalEdges_8cpp.html" title="lib/Transforms/Utils\l/BreakCriticalEdges.cpp" alt="" coords="1408,169,1571,211"/>
+<area shape="rect" id="node21" href="$Local_8cpp.html" title="lib/Transforms/Utils\l/Local.cpp" alt="" coords="1595,169,1731,211"/>
+<area shape="rect" id="node22" href="$LoopRotationUtils_8cpp.html" title="lib/Transforms/Utils\l/LoopRotationUtils.cpp" alt="" coords="1755,169,1909,211"/>
+<area shape="rect" id="node23" href="$LoopSimplify_8cpp.html" title="lib/Transforms/Utils\l/LoopSimplify.cpp" alt="" coords="1933,169,2069,211"/>
+<area shape="rect" id="node24" href="$LoopUtils_8cpp.html" title="lib/Transforms/Utils\l/LoopUtils.cpp" alt="" coords="2093,169,2229,211"/>
+<area shape="rect" id="node25" href="$SimplifyCFG_8cpp.html" title="lib/Transforms/Utils\l/SimplifyCFG.cpp" alt="" coords="2253,169,2389,211"/>
+</map>

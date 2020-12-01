@@ -1,0 +1,28 @@
+<map id="lib/CodeGen/AsmPrinter/ErlangGCPrinter.cpp" name="lib/CodeGen/AsmPrinter/ErlangGCPrinter.cpp">
+<area shape="rect" id="node2" href="$BinaryFormat_2ELF_8h.html" title="llvm/BinaryFormat/ELF.h" alt="" coords="1765,348,1931,375"/>
+<area shape="rect" id="node23" href="$AsmPrinter_8h.html" title="llvm/CodeGen/AsmPrinter.h" alt="" coords="5371,184,5557,211"/>
+<area shape="rect" id="node39" href="$BuiltinGCs_8h.html" title="llvm/CodeGen/BuiltinGCs.h" alt="" coords="4873,102,5055,129"/>
+<area shape="rect" id="node40" href="$GCMetadata_8h.html" title="llvm/CodeGen/GCMetadata.h" alt="" coords="4216,266,4411,293"/>
+<area shape="rect" id="node41" href="$GCStrategy_8h.html" title="llvm/CodeGen/GCStrategy.h" alt="" coords="3371,348,3560,375"/>
+<area shape="rect" id="node42" href="$GCMetadataPrinter_8h.html" title="llvm/CodeGen/GCMetadataPrinter.h" alt="" coords="5080,102,5312,129"/>
+<area shape="rect" id="node43" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="4653,348,4800,375"/>
+<area shape="rect" id="node44" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="3809,266,3938,293"/>
+<area shape="rect" id="node45" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="3941,184,4062,211"/>
+<area shape="rect" id="node46" href="$MCContext_8h.html" title="llvm/MC/MCContext.h" alt="" coords="4873,266,5026,293"/>
+<area shape="rect" id="node47" href="$MCSectionELF_8h.html" title="llvm/MC/MCSectionELF.h" alt="" coords="4499,184,4674,211"/>
+<area shape="rect" id="node48" href="$MCStreamer_8h.html" title="llvm/MC/MCStreamer.h" alt="" coords="4485,266,4645,293"/>
+<area shape="rect" id="node49" href="$MCSymbol_8h.html" title="llvm/MC/MCSymbol.h" alt="" coords="4225,348,4375,375"/>
+<area shape="rect" id="node50" href="$TargetLoweringObjectFile_8h.html" title="llvm/Target/TargetLowering\lObjectFile.h" alt="" coords="3455,95,3635,136"/>
+<area shape="rect" id="node24" href="$MapVector_8h.html" title="llvm/ADT/MapVector.h" alt="" coords="6203,266,6357,293"/>
+<area shape="rect" id="node27" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="5171,423,5333,449"/>
+<area shape="rect" id="node28" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="5039,497,5228,524"/>
+<area shape="rect" id="node31" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="4653,423,4800,449"/>
+<area shape="rect" id="node32" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="4875,348,5002,375"/>
+<area shape="rect" id="node33" href="$AsmPrinterHandler_8h.html" title="llvm/CodeGen/AsmPrinterHandler.h" alt="" coords="5462,266,5693,293"/>
+<area shape="rect" id="node34" href="$DwarfStringPoolEntry_8h.html" title="llvm/CodeGen/DwarfString\lPoolEntry.h" alt="" coords="5717,259,5896,300"/>
+<area shape="rect" id="node35" href="$MachineFunctionPass_8h.html" title="llvm/CodeGen/MachineFunction\lPass.h" alt="" coords="5920,259,6128,300"/>
+<area shape="rect" id="node36" href="$InlineAsm_8h.html" title="llvm/IR/InlineAsm.h" alt="" coords="5102,266,5239,293"/>
+<area shape="rect" id="node37" href="$LLVMContext_8h.html" title="llvm/IR/LLVMContext.h" alt="" coords="3635,348,3794,375"/>
+<area shape="rect" id="node38" href="$Support_2SourceMgr_8h.html" title="llvm/Support/SourceMgr.h" alt="" coords="5264,266,5437,293"/>
+<area shape="rect" id="node25" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="5229,348,5384,375"/>
+</map>

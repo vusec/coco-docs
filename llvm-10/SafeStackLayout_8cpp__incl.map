@@ -1,0 +1,32 @@
+<map id="lib/CodeGen/SafeStackLayout.cpp" name="lib/CodeGen/SafeStackLayout.cpp">
+<area shape="rect" id="node2" href="$SafeStackLayout_8h.html" title="SafeStackLayout.h" alt="" coords="1528,80,1661,107"/>
+<area shape="rect" id="node3" href="$SafeStackColoring_8h.html" title="SafeStackColoring.h" alt="" coords="2481,155,2623,181"/>
+<area shape="rect" id="node10" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2016,617,2179,644"/>
+<area shape="rect" id="node13" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1173,468,1350,495"/>
+<area shape="rect" id="node40" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="3063,319,3175,345"/>
+<area shape="rect" id="node43" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="3453,319,3638,345"/>
+<area shape="rect" id="node45" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="3768,155,3963,181"/>
+<area shape="rect" id="node50" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="6271,80,6419,107"/>
+<area shape="rect" id="node6" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1804,393,1967,420"/>
+<area shape="rect" id="node32" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1009,393,1164,420"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2488,319,2632,345"/>
+<area shape="rect" id="node31" href="$BitVector_8h.html" title="llvm/ADT/BitVector.h" alt="" coords="2376,237,2523,263"/>
+<area shape="rect" id="node33" href="$Instructions_8h.html" title="llvm/IR/Instructions.h" alt="" coords="3115,237,3261,263"/>
+<area shape="rect" id="node5" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="5773,617,5896,644"/>
+<area shape="rect" id="node26" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3881,468,4036,495"/>
+<area shape="rect" id="node7" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3328,543,3499,569"/>
+<area shape="rect" id="node22" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="5215,543,5404,569"/>
+<area shape="rect" id="node14" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1215,543,1417,569"/>
+<area shape="rect" id="node27" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="4847,543,4987,569"/>
+<area shape="rect" id="node34" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3852,393,3999,420"/>
+<area shape="rect" id="node35" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="5039,319,5166,345"/>
+<area shape="rect" id="node36" href="$Use_8h.html" title="This defines the Use class. " alt="" coords="2310,393,2413,420"/>
+<area shape="rect" id="node39" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="2689,543,2844,569"/>
+<area shape="rect" id="node37" href="$c_2Types_8h.html" title="llvm&#45;c/Types.h" alt="" coords="2246,543,2354,569"/>
+<area shape="rect" id="node38" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="2337,468,2556,495"/>
+<area shape="rect" id="node41" href="$Alignment_8h.html" title="llvm/Support/Alignment.h" alt="" coords="3609,393,3777,420"/>
+<area shape="rect" id="node46" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="2631,468,2793,495"/>
+<area shape="rect" id="node47" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="3677,319,3827,345"/>
+<area shape="rect" id="node48" href="$ManagedStatic_8h.html" title="llvm/Support/ManagedStatic.h" alt="" coords="564,237,761,263"/>
+<area shape="rect" id="node49" href="$VirtualFileSystem_8h.html" title="Defines the virtual file system interface vfs::FileSystem. " alt="" coords="5277,229,5435,271"/>
+</map>

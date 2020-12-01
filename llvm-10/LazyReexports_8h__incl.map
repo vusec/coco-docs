@@ -1,0 +1,36 @@
+<map id="include/llvm/ExecutionEngine/Orc/LazyReexports.h" name="include/llvm/ExecutionEngine/Orc/LazyReexports.h">
+<area shape="rect" id="node2" href="$ExecutionEngine_2Orc_2Core_8h.html" title="llvm/ExecutionEngine\l/Orc/Core.h" alt="" coords="3105,273,3253,315"/>
+<area shape="rect" id="node43" href="$IndirectionUtils_8h.html" title="llvm/ExecutionEngine\l/Orc/IndirectionUtils.h" alt="" coords="3603,184,3752,225"/>
+<area shape="rect" id="node47" href="$Speculation_8h.html" title="llvm/ExecutionEngine\l/Orc/Speculation.h" alt="" coords="810,95,958,136"/>
+<area shape="rect" id="node3" href="$BitmaskEnum_8h.html" title="llvm/ADT/BitmaskEnum.h" alt="" coords="4321,616,4495,643"/>
+<area shape="rect" id="node9" href="$FunctionExtras_8h.html" title="This file provides a collection of function (or more generally, callable) type erasure utilities supp..." alt="" coords="3603,541,3783,568"/>
+<area shape="rect" id="node16" href="$JITSymbol_8h.html" title="llvm/ExecutionEngine\l/JITSymbol.h" alt="" coords="3715,363,3863,404"/>
+<area shape="rect" id="node27" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="955,541,1103,568"/>
+<area shape="rect" id="node30" href="$SymbolStringPool_8h.html" title="llvm/ExecutionEngine\l/Orc/SymbolStringPool.h" alt="" coords="1763,452,1930,493"/>
+<area shape="rect" id="node35" href="$OrcV1Deprecation_8h.html" title="llvm/ExecutionEngine\l/OrcV1Deprecation.h" alt="" coords="3105,363,3253,404"/>
+<area shape="rect" id="node36" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="1907,370,2029,397"/>
+<area shape="rect" id="node7" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="2390,691,2567,717"/>
+<area shape="rect" id="node10" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="3683,691,3853,717"/>
+<area shape="rect" id="node11" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2761,840,2932,867"/>
+<area shape="rect" id="node13" href="$PointerUnion_8h.html" title="llvm/ADT/PointerUnion.h" alt="" coords="3723,616,3890,643"/>
+<area shape="rect" id="node21" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2944,616,3091,643"/>
+<area shape="rect" id="node25" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="3172,459,3311,486"/>
+<area shape="rect" id="node22" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2845,691,3000,717"/>
+<area shape="rect" id="node24" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="4171,765,4341,792"/>
+<area shape="rect" id="node23" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="1370,765,1510,792"/>
+<area shape="rect" id="node26" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="3249,541,3375,568"/>
+<area shape="rect" id="node31" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1701,616,1856,643"/>
+<area shape="rect" id="node32" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="3859,541,4010,568"/>
+<area shape="rect" id="node37" href="$c_2Types_8h.html" title="llvm&#45;c/Types.h" alt="" coords="1366,616,1474,643"/>
+<area shape="rect" id="node38" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="2209,541,2343,568"/>
+<area shape="rect" id="node40" href="$IR_2Comdat_8h.html" title="This file contains the declaration of the Comdat class, which represents a single COMDAT in LLVM..." alt="" coords="1461,459,1587,486"/>
+<area shape="rect" id="node41" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="2571,541,2717,568"/>
+<area shape="rect" id="node42" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="2211,459,2341,486"/>
+<area shape="rect" id="node39" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1197,616,1341,643"/>
+<area shape="rect" id="node44" href="$Memory_8h.html" title="llvm/Support/Memory.h" alt="" coords="3588,459,3745,486"/>
+<area shape="rect" id="node45" href="$Process_8h.html" title="Provides a library for accessing information about this process and other processes on the operating ..." alt="" coords="3481,370,3639,397"/>
+<area shape="rect" id="node46" href="$ValueMapper_8h.html" title="llvm/Transforms/Utils\l/ValueMapper.h" alt="" coords="600,273,747,315"/>
+<area shape="rect" id="node48" href="$IRCompileLayer_8h.html" title="llvm/ExecutionEngine\l/Orc/IRCompileLayer.h" alt="" coords="2423,273,2579,315"/>
+<area shape="rect" id="node49" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM. " alt="" coords="771,281,930,307"/>
+<area shape="rect" id="node50" href="$PassBuilder_8h.html" title="Interfaces for registering analysis passes, producing common pass manager configurations, and parsing of pass pipelines. " alt="" coords="668,191,847,218"/>
+</map>

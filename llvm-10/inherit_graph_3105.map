@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1MapVector.html" title="llvm::MapVector\&lt; unsigned,\l unsigned, SmallDenseMap\l\&lt; unsigned, unsigned, N \&gt;\l, SmallVector\&lt; std::pair\&lt;\l unsigned, unsigned \&gt;, N \&gt; \&gt;" alt="" coords="5,5,197,91"/>
+<area shape="rect" id="node2" href="$structllvm_1_1SmallMapVector.html" title="llvm::SmallMapVector\l\&lt; unsigned, unsigned, 4 \&gt;" alt="" coords="245,27,419,69"/>
+</map>

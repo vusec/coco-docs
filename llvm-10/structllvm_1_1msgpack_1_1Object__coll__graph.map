@@ -1,0 +1,6 @@
+<map id="llvm::msgpack::Object" name="llvm::msgpack::Object">
+<area shape="rect" id="node4" href="$structllvm_1_1msgpack_1_1ExtensionType.html" title="Extension types are composed of a user&#45;defined type ID and an uninterpreted sequence of bytes..." alt="" coords="345,189,548,216"/>
+<area shape="rect" id="node6" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e. " alt="" coords="144,208,253,235"/>
+<area shape="rect" id="node7" href="$classsize__t.html" title="size_t" alt="" coords="5,157,63,184"/>
+<area shape="rect" id="node11" href="$classbool.html" title="bool" alt="" coords="423,455,470,481"/>
+</map>

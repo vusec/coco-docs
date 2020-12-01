@@ -1,0 +1,39 @@
+<map id="lib/LTO/Caching.cpp" name="lib/LTO/Caching.cpp">
+<area shape="rect" id="node2" href="$Caching_8h.html" title="llvm/LTO/Caching.h" alt="" coords="3873,80,4012,107"/>
+<area shape="rect" id="node31" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="1723,393,1887,420"/>
+<area shape="rect" id="node32" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2542,393,2727,420"/>
+<area shape="rect" id="node44" href="$Errc_8h.html" title="llvm/Support/Errc.h" alt="" coords="4591,155,4726,181"/>
+<area shape="rect" id="node45" href="$MemoryBuffer_8h.html" title="llvm/Support/MemoryBuffer.h" alt="" coords="3740,155,3932,181"/>
+<area shape="rect" id="node48" href="$Path_8h.html" title="llvm/Support/Path.h" alt="" coords="2803,393,2940,420"/>
+<area shape="rect" id="node49" href="$Process_8h.html" title="Provides a library for accessing information about this process and other processes on the operating ..." alt="" coords="4326,237,4484,263"/>
+<area shape="rect" id="node3" href="$LTO_8h.html" title="llvm/LTO/LTO.h" alt="" coords="1677,155,1792,181"/>
+<area shape="rect" id="node4" href="$MapVector_8h.html" title="llvm/ADT/MapVector.h" alt="" coords="738,468,893,495"/>
+<area shape="rect" id="node14" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="968,393,1119,420"/>
+<area shape="rect" id="node21" href="$StringSet_8h.html" title="llvm/ADT/StringSet.h" alt="" coords="1076,319,1222,345"/>
+<area shape="rect" id="node22" href="$DiagnosticInfo_8h.html" title="llvm/IR/DiagnosticInfo.h" alt="" coords="2965,393,3128,420"/>
+<area shape="rect" id="node26" href="$ModuleSummaryIndex_8h.html" title="ModuleSummaryIndex.h This file contains the declarations the classes that hold the module index and s..." alt="" coords="1834,319,2043,345"/>
+<area shape="rect" id="node34" href="$RemarkStreamer_8h.html" title="llvm/IR/RemarkStreamer.h" alt="" coords="2586,237,2765,263"/>
+<area shape="rect" id="node35" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="2902,319,3041,345"/>
+<area shape="rect" id="node37" href="$ToolOutputFile_8h.html" title="llvm/Support/ToolOutputFile.h" alt="" coords="2317,319,2512,345"/>
+<area shape="rect" id="node38" href="$Config_8h.html" title="llvm/LTO/Config.h" alt="" coords="1670,237,1798,263"/>
+<area shape="rect" id="node39" href="$TargetOptions_8h.html" title="llvm/Target/TargetOptions.h" alt="" coords="1473,319,1657,345"/>
+<area shape="rect" id="node40" href="$IRMover_8h.html" title="llvm/Linker/IRMover.h" alt="" coords="1298,319,1448,345"/>
+<area shape="rect" id="node41" href="$IRSymtab_8h.html" title="llvm/Object/IRSymtab.h" alt="" coords="2890,237,3053,263"/>
+<area shape="rect" id="node42" href="$thread_8h.html" title="llvm/Support/thread.h" alt="" coords="1348,237,1494,263"/>
+<area shape="rect" id="node43" href="$FunctionImport_8h.html" title="llvm/Transforms/IPO\l/FunctionImport.h" alt="" coords="2099,229,2242,271"/>
+<area shape="rect" id="node5" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1504,543,1666,569"/>
+<area shape="rect" id="node15" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2004,543,2150,569"/>
+<area shape="rect" id="node17" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="536,543,668,569"/>
+<area shape="rect" id="node18" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="1019,468,1180,495"/>
+<area shape="rect" id="node19" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3064,543,3204,569"/>
+<area shape="rect" id="node23" href="$c_2Types_8h.html" title="llvm&#45;c/Types.h" alt="" coords="4319,543,4427,569"/>
+<area shape="rect" id="node24" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="2976,468,3103,495"/>
+<area shape="rect" id="node25" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="4264,468,4482,495"/>
+<area shape="rect" id="node27" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1592,468,1736,495"/>
+<area shape="rect" id="node30" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="1408,468,1567,495"/>
+<area shape="rect" id="node28" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="2798,543,2938,569"/>
+<area shape="rect" id="node29" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="3256,617,3431,644"/>
+<area shape="rect" id="node36" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer. " alt="" coords="3506,393,3658,420"/>
+<area shape="rect" id="node46" href="$FileSystem_8h.html" title="llvm/Support/FileSystem.h" alt="" coords="3862,237,4038,263"/>
+<area shape="rect" id="node47" href="$Chrono_8h.html" title="llvm/Support/Chrono.h" alt="" coords="4216,319,4368,345"/>
+</map>

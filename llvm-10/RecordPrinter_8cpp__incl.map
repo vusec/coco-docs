@@ -1,0 +1,32 @@
+<map id="lib/XRay/RecordPrinter.cpp" name="lib/XRay/RecordPrinter.cpp">
+<area shape="rect" id="node2" href="$RecordPrinter_8h.html" title="llvm/XRay/RecordPrinter.h" alt="" coords="2272,80,2451,107"/>
+<area shape="rect" id="node44" href="$FormatVariadic_8h.html" title="llvm/Support/FormatVariadic.h" alt="" coords="2406,155,2605,181"/>
+<area shape="rect" id="node3" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2563,393,2749,420"/>
+<area shape="rect" id="node35" href="$FDRRecords_8h.html" title="llvm/XRay/FDRRecords.h" alt="" coords="775,155,950,181"/>
+<area shape="rect" id="node4" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2241,468,2404,495"/>
+<area shape="rect" id="node25" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2919,468,3065,495"/>
+<area shape="rect" id="node5" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1376,692,1547,719"/>
+<area shape="rect" id="node8" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2221,543,2374,569"/>
+<area shape="rect" id="node9" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2677,767,2840,793"/>
+<area shape="rect" id="node11" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3411,543,3589,569"/>
+<area shape="rect" id="node17" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="1876,543,2044,569"/>
+<area shape="rect" id="node18" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1061,617,1251,644"/>
+<area shape="rect" id="node21" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2673,692,2844,719"/>
+<area shape="rect" id="node26" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1479,543,1633,569"/>
+<area shape="rect" id="node27" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3263,617,3403,644"/>
+<area shape="rect" id="node29" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1579,617,1711,644"/>
+<area shape="rect" id="node28" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="3275,692,3397,719"/>
+<area shape="rect" id="node36" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="2804,617,2959,644"/>
+<area shape="rect" id="node37" href="$DataExtractor_8h.html" title="llvm/Support/DataExtractor.h" alt="" coords="1323,229,1514,256"/>
+<area shape="rect" id="node39" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="1551,311,1689,338"/>
+<area shape="rect" id="node43" href="$XRayRecord_8h.html" title="llvm/XRay/XRayRecord.h" alt="" coords="195,311,368,338"/>
+<area shape="rect" id="node38" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="1130,311,1305,338"/>
+<area shape="rect" id="node40" href="$c_2Error_8h.html" title="llvm&#45;c/Error.h" alt="" coords="1381,393,1481,420"/>
+<area shape="rect" id="node41" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="2045,393,2171,420"/>
+<area shape="rect" id="node45" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="2965,393,3123,420"/>
+<area shape="rect" id="node46" href="$FormatCommon_8h.html" title="llvm/Support/FormatCommon.h" alt="" coords="2785,229,2989,256"/>
+<area shape="rect" id="node47" href="$FormatVariadicDetails_8h.html" title="llvm/Support/FormatVariadic\lDetails.h" alt="" coords="2937,304,3124,345"/>
+<area shape="rect" id="node48" href="$FormatProviders_8h.html" title="llvm/Support/FormatProviders.h" alt="" coords="2553,229,2759,256"/>
+<area shape="rect" id="node49" href="$StringSwitch_8h.html" title="llvm/ADT/StringSwitch.h" alt="" coords="3999,393,4166,420"/>
+<area shape="rect" id="node50" href="$NativeFormatting_8h.html" title="llvm/Support/NativeFormatting.h" alt="" coords="2551,311,2761,338"/>
+</map>

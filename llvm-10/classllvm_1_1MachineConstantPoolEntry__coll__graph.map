@@ -1,0 +1,7 @@
+<map id="llvm::MachineConstantPoolEntry" name="llvm::MachineConstantPoolEntry">
+<area shape="rect" id="node3" href="$classllvm_1_1Constant.html" title="This is an important base class in LLVM. " alt="" coords="192,357,299,383"/>
+<area shape="rect" id="node4" href="$classllvm_1_1User.html" title="llvm::User" alt="" coords="241,273,324,300"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="215,197,302,224"/>
+<area shape="rect" id="node6" href="$classunsigned.html" title="unsigned" alt="" coords="139,5,213,32"/>
+<area shape="rect" id="node7" href="$classllvm_1_1MachineConstantPoolValue.html" title="Abstract base class for all machine specific constantpool value subclasses. " alt="" coords="323,349,506,391"/>
+</map>

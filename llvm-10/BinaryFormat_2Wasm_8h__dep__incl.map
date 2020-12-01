@@ -1,0 +1,51 @@
+<map id="include/llvm/BinaryFormat/Wasm.h" name="include/llvm/BinaryFormat/Wasm.h">
+<area shape="rect" id="node2" href="$MCSymbolWasm_8h.html" title="include/llvm/MC/MCSymbol\lWasm.h" alt="" coords="1821,102,2006,143"/>
+<area shape="rect" id="node5" href="$WasmAsmParser_8cpp.html" title="lib/MC/MCParser/WasmAsmParser.cpp" alt="" coords="845,317,1099,344"/>
+<area shape="rect" id="node7" href="$WasmObjectWriter_8cpp.html" title="lib/MC/WasmObjectWriter.cpp" alt="" coords="1124,317,1324,344"/>
+<area shape="rect" id="node10" href="$WebAssemblyWasmObjectWriter_8cpp.html" title="This file handles Wasm&#45;specific object emission, converting LLVM&#39;s internal fixups into the appropria..." alt="" coords="1755,303,1997,359"/>
+<area shape="rect" id="node11" href="$WebAssemblyAsmPrinter_8cpp.html" title="This file contains a printer that converts from our internal representation of machine&#45;dependent LLVM..." alt="" coords="2582,310,2783,351"/>
+<area shape="rect" id="node12" href="$Object_2Wasm_8h.html" title="include/llvm/Object\l/Wasm.h" alt="" coords="683,206,816,247"/>
+<area shape="rect" id="node15" href="$WasmObjectFile_8cpp.html" title="lib/Object/WasmObjectFile.cpp" alt="" coords="5,317,208,344"/>
+<area shape="rect" id="node18" href="$WebAssemblyMachineFunctionInfo_8h.html" title="This file declares WebAssembly&#45;specific per&#45;machine&#45;function information. " alt="" coords="4279,206,4521,247"/>
+<area shape="rect" id="node33" href="$WasmTraits_8h.html" title="include/llvm/Object\l/WasmTraits.h" alt="" coords="2287,102,2420,143"/>
+<area shape="rect" id="node34" href="$WasmYAML_8h.html" title="This file declares classes for handling the YAML representation of wasm binaries. ..." alt="" coords="466,102,635,143"/>
+<area shape="rect" id="node37" href="$Wasm_8cpp.html" title="lib/BinaryFormat/Wasm.cpp" alt="" coords="2703,109,2887,136"/>
+<area shape="rect" id="node38" href="$WebAssemblyInstPrinter_8h.html" title="This class prints an WebAssembly MCInst to wasm file syntax. " alt="" coords="2811,199,3037,255"/>
+<area shape="rect" id="node40" href="$WebAssemblyMCTargetDesc_8h.html" title="This file provides WebAssembly&#45;specific target descriptions. " alt="" coords="4453,95,4715,151"/>
+<area shape="rect" id="node49" href="$WebAssemblyTargetStreamer_8h.html" title="This file declares WebAssembly&#45;specific target streamer classes. " alt="" coords="2285,199,2526,255"/>
+<area shape="rect" id="node50" href="$WebAssemblyMCInstLower_8h.html" title="This file declares the class to lower WebAssembly MachineInstrs to their corresponding MCInst records..." alt="" coords="3163,206,3363,247"/>
+<area shape="rect" id="node3" href="$MCSectionWasm_8h.html" title="include/llvm/MC/MCSection\lWasm.h" alt="" coords="1690,206,1875,247"/>
+<area shape="rect" id="node4" href="$MCContext_8cpp.html" title="lib/MC/MCContext.cpp" alt="" coords="1349,317,1505,344"/>
+<area shape="rect" id="node6" href="$MCWasmStreamer_8cpp.html" title="lib/MC/MCWasmStreamer.cpp" alt="" coords="1529,317,1730,344"/>
+<area shape="rect" id="node8" href="$WebAssemblyAsmParser_8cpp.html" title="This file is part of the WebAssembly Assembler. " alt="" coords="2022,310,2293,351"/>
+<area shape="rect" id="node9" href="$WebAssemblyTargetStreamer_8cpp.html" title="This file defines WebAssembly&#45;specific target streamer classes. " alt="" coords="2317,303,2558,359"/>
+<area shape="rect" id="node17" href="$WebAssemblyDisassembler_8cpp.html" title="This file is part of the WebAssembly Disassembler. " alt="" coords="3094,310,3394,351"/>
+<area shape="rect" id="node28" href="$WebAssemblyMCInstLower_8cpp.html" title="This file contains code to lower WebAssembly MachineInstrs to their corresponding MCInst records..." alt="" coords="3418,310,3633,351"/>
+<area shape="rect" id="node13" href="$RelocationResolver_8h.html" title="include/llvm/Object\l/RelocationResolver.h" alt="" coords="479,310,630,351"/>
+<area shape="rect" id="node14" href="$ObjectFile_8cpp.html" title="lib/Object/ObjectFile.cpp" alt="" coords="655,317,820,344"/>
+<area shape="rect" id="node16" href="$WasmEmitter_8cpp.html" title="The Wasm component of yaml2obj. " alt="" coords="233,317,455,344"/>
+<area shape="rect" id="node19" href="$WebAssemblyInstPrinter_8cpp.html" title="Print MCInst instructions to wasm format. " alt="" coords="3657,303,3884,359"/>
+<area shape="rect" id="node20" href="$WebAssemblyArgumentMove_8cpp.html" title="This file moves ARGUMENT instructions after ScheduleDAG scheduling. " alt="" coords="4439,310,4663,351"/>
+<area shape="rect" id="node21" href="$WebAssemblyCallIndirectFixup_8cpp.html" title="This file converts pseudo call_indirect instructions into real call_indirects. " alt="" coords="4687,310,4921,351"/>
+<area shape="rect" id="node22" href="$WebAssemblyExplicitLocals_8cpp.html" title="This file converts any remaining registers into WebAssembly locals. " alt="" coords="4946,310,5163,351"/>
+<area shape="rect" id="node23" href="$WebAssemblyFastISel_8cpp.html" title="This file defines the WebAssembly&#45;specific support for the FastISel class. " alt="" coords="5187,310,5373,351"/>
+<area shape="rect" id="node24" href="$WebAssemblyFrameLowering_8cpp.html" title="This file contains the WebAssembly implementation of TargetFrameLowering class. " alt="" coords="5397,310,5622,351"/>
+<area shape="rect" id="node25" href="$WebAssemblyInstrInfo_8cpp.html" title="This file contains the WebAssembly implementation of the TargetInstrInfo class. " alt="" coords="5647,310,5831,351"/>
+<area shape="rect" id="node26" href="$WebAssemblyISelLowering_8cpp.html" title="This file implements the WebAssemblyTargetLowering class. " alt="" coords="5855,310,6065,351"/>
+<area shape="rect" id="node27" href="$WebAssemblyLowerBrUnless_8cpp.html" title="This file lowers br_unless into br_if with an inverted condition. " alt="" coords="6089,310,6314,351"/>
+<area shape="rect" id="node29" href="$WebAssemblyMemIntrinsicResults_8cpp.html" title="This file implements an optimization pass using memory intrinsic results. " alt="" coords="6339,310,6595,351"/>
+<area shape="rect" id="node30" href="$WebAssemblyPeephole_8cpp.html" title="Late peephole optimizations for WebAssembly. " alt="" coords="6619,310,6810,351"/>
+<area shape="rect" id="node31" href="$WebAssemblyPrepareForLiveIntervals_8cpp.html" title="Fix up code to meet LiveInterval&#39;s requirements. " alt="" coords="3908,310,4183,351"/>
+<area shape="rect" id="node32" href="$WebAssemblyRegisterInfo_8cpp.html" title="This file contains the WebAssembly implementation of the TargetRegisterInfo class. " alt="" coords="4207,310,4414,351"/>
+<area shape="rect" id="node35" href="$ObjectYAML_8h.html" title="include/llvm/ObjectYAML\l/ObjectYAML.h" alt="" coords="249,206,418,247"/>
+<area shape="rect" id="node36" href="$WasmYAML_8cpp.html" title="lib/ObjectYAML/WasmYAML.cpp" alt="" coords="443,213,659,240"/>
+<area shape="rect" id="node39" href="$WebAssemblyMCTargetDesc_8cpp.html" title="This file provides WebAssembly&#45;specific target descriptions. " alt="" coords="2807,303,3070,359"/>
+<area shape="rect" id="node41" href="$WebAssemblyAsmBackend_8cpp.html" title="This file implements the WebAssemblyAsmBackend class. " alt="" coords="4850,199,5081,255"/>
+<area shape="rect" id="node42" href="$WebAssemblyMCCodeEmitter_8cpp.html" title="This file implements the WebAssemblyMCCodeEmitter class. " alt="" coords="5105,199,5361,255"/>
+<area shape="rect" id="node43" href="$WebAssemblyCFGSort_8cpp.html" title="This file implements a CFG sorting pass. " alt="" coords="5386,206,5574,247"/>
+<area shape="rect" id="node44" href="$WebAssemblyExceptionInfo_8cpp.html" title="This file implements WebAssemblyException information analysis. " alt="" coords="5649,206,5865,247"/>
+<area shape="rect" id="node45" href="$WebAssemblyFixIrreducibleControlFlow_8cpp.html" title="This file implements a pass that removes irreducible control flow. " alt="" coords="5890,199,6121,255"/>
+<area shape="rect" id="node46" href="$WebAssemblyISelDAGToDAG_8cpp.html" title="This file defines an instruction selector for the WebAssembly target. " alt="" coords="6145,206,6377,247"/>
+<area shape="rect" id="node47" href="$WebAssemblyLateEHPrepare_8cpp.html" title="Does various transformations for exception handling. " alt="" coords="6402,206,6627,247"/>
+<area shape="rect" id="node48" href="$WebAssemblyRuntimeLibcallSignatures_8h.html" title="This file provides signature information for runtime libcalls. " alt="" coords="3641,206,3911,247"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="lib/Target/Lanai/LanaiMachineFunctionInfo.h" name="lib/Target/Lanai/LanaiMachineFunctionInfo.h">
+<area shape="rect" id="node2" href="$LanaiISelDAGToDAG_8cpp.html" title="lib/Target/Lanai/LanaiISel\lDAGToDAG.cpp" alt="" coords="5,95,175,136"/>
+<area shape="rect" id="node3" href="$LanaiISelLowering_8cpp.html" title="lib/Target/Lanai/LanaiISel\lLowering.cpp" alt="" coords="199,95,368,136"/>
+<area shape="rect" id="node4" href="$LanaiMachineFunctionInfo_8cpp.html" title="lib/Target/Lanai/LanaiMachine\lFunctionInfo.cpp" alt="" coords="393,95,587,136"/>
+</map>

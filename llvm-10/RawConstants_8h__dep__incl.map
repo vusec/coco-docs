@@ -1,0 +1,35 @@
+<map id="include/llvm/DebugInfo/PDB/Native/RawConstants.h" name="include/llvm/DebugInfo/PDB/Native/RawConstants.h">
+<area shape="rect" id="node2" href="$DbiStream_8h.html" title="include/llvm/DebugInfo\l/PDB/Native/DbiStream.h" alt="" coords="1523,95,1696,136"/>
+<area shape="rect" id="node3" href="$DbiStream_8cpp.html" title="lib/DebugInfo/PDB/Native\l/DbiStream.cpp" alt="" coords="1088,184,1261,225"/>
+<area shape="rect" id="node9" href="$DbiStreamBuilder_8h.html" title="include/llvm/DebugInfo\l/PDB/Native/DbiStreamBuilder.h" alt="" coords="1885,95,2099,136"/>
+<area shape="rect" id="node10" href="$PDB_2Native_2Formatters_8h.html" title="include/llvm/DebugInfo\l/PDB/Native/Formatters.h" alt="" coords="1222,95,1397,136"/>
+<area shape="rect" id="node11" href="$GlobalsStream_8h.html" title="include/llvm/DebugInfo\l/PDB/Native/GlobalsStream.h" alt="" coords="669,95,867,136"/>
+<area shape="rect" id="node12" href="$GSIStreamBuilder_8h.html" title="include/llvm/DebugInfo\l/PDB/Native/GSIStreamBuilder.h" alt="" coords="131,184,347,225"/>
+<area shape="rect" id="node13" href="$DbiModuleDescriptorBuilder_8cpp.html" title="lib/DebugInfo/PDB/Native\l/DbiModuleDescriptorBuilder.cpp" alt="" coords="5,273,219,315"/>
+<area shape="rect" id="node15" href="$PublicsStream_8h.html" title="include/llvm/DebugInfo\l/PDB/Native/PublicsStream.h" alt="" coords="867,184,1063,225"/>
+<area shape="rect" id="node19" href="$InfoStream_8h.html" title="include/llvm/DebugInfo\l/PDB/Native/InfoStream.h" alt="" coords="2214,95,2389,136"/>
+<area shape="rect" id="node20" href="$InfoStream_8cpp.html" title="lib/DebugInfo/PDB/Native\l/InfoStream.cpp" alt="" coords="2373,184,2547,225"/>
+<area shape="rect" id="node23" href="$InfoStreamBuilder_8h.html" title="include/llvm/DebugInfo\l/PDB/Native/InfoStreamBuilder.h" alt="" coords="2465,95,2679,136"/>
+<area shape="rect" id="node24" href="$PDBFileBuilder_8h.html" title="include/llvm/DebugInfo\l/PDB/Native/PDBFileBuilder.h" alt="" coords="2704,95,2904,136"/>
+<area shape="rect" id="node25" href="$TpiStream_8h.html" title="include/llvm/DebugInfo\l/PDB/Native/TpiStream.h" alt="" coords="2928,95,3099,136"/>
+<area shape="rect" id="node29" href="$TpiStream_8cpp.html" title="lib/DebugInfo/PDB/Native\l/TpiStream.cpp" alt="" coords="3576,184,3749,225"/>
+<area shape="rect" id="node30" href="$TpiStreamBuilder_8h.html" title="include/llvm/DebugInfo\l/PDB/Native/TpiStreamBuilder.h" alt="" coords="3173,95,3384,136"/>
+<area shape="rect" id="node32" href="$PDB_2Native_2EnumTables_8cpp.html" title="lib/DebugInfo/PDB/Native\l/EnumTables.cpp" alt="" coords="3408,95,3581,136"/>
+<area shape="rect" id="node33" href="$InjectedSourceStream_8cpp.html" title="lib/DebugInfo/PDB/Native\l/InjectedSourceStream.cpp" alt="" coords="3606,95,3786,136"/>
+<area shape="rect" id="node34" href="$ModuleDebugStream_8cpp.html" title="lib/DebugInfo/PDB/Native\l/ModuleDebugStream.cpp" alt="" coords="3811,95,3984,136"/>
+<area shape="rect" id="node4" href="$DbiStreamBuilder_8cpp.html" title="lib/DebugInfo/PDB/Native\l/DbiStreamBuilder.cpp" alt="" coords="1584,184,1757,225"/>
+<area shape="rect" id="node5" href="$NativeExeSymbol_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeExeSymbol.cpp" alt="" coords="1781,184,1955,225"/>
+<area shape="rect" id="node6" href="$PDBFile_8cpp.html" title="lib/DebugInfo/PDB/Native\l/PDBFile.cpp" alt="" coords="1409,273,1583,315"/>
+<area shape="rect" id="node7" href="$PDBFileBuilder_8cpp.html" title="lib/DebugInfo/PDB/Native\l/PDBFileBuilder.cpp" alt="" coords="2373,273,2547,315"/>
+<area shape="rect" id="node8" href="$SymbolCache_8cpp.html" title="lib/DebugInfo/PDB/Native\l/SymbolCache.cpp" alt="" coords="1285,184,1459,225"/>
+<area shape="rect" id="node14" href="$GSIStreamBuilder_8cpp.html" title="lib/DebugInfo/PDB/Native\l/GSIStreamBuilder.cpp" alt="" coords="261,273,435,315"/>
+<area shape="rect" id="node17" href="$GlobalsStream_8cpp.html" title="lib/DebugInfo/PDB/Native\l/GlobalsStream.cpp" alt="" coords="619,184,792,225"/>
+<area shape="rect" id="node18" href="$NativeEnumGlobals_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeEnumGlobals.cpp" alt="" coords="421,184,595,225"/>
+<area shape="rect" id="node16" href="$PublicsStream_8cpp.html" title="lib/DebugInfo/PDB/Native\l/PublicsStream.cpp" alt="" coords="879,273,1052,315"/>
+<area shape="rect" id="node21" href="$InfoStreamBuilder_8cpp.html" title="lib/DebugInfo/PDB/Native\l/InfoStreamBuilder.cpp" alt="" coords="2621,184,2795,225"/>
+<area shape="rect" id="node22" href="$NativeEnumInjectedSources_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeEnumInjectedSources.cpp" alt="" coords="2081,184,2298,225"/>
+<area shape="rect" id="node26" href="$NativeSession_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeSession.cpp" alt="" coords="3181,184,3355,225"/>
+<area shape="rect" id="node27" href="$NativeTypeEnum_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeTypeEnum.cpp" alt="" coords="3379,184,3552,225"/>
+<area shape="rect" id="node28" href="$NativeTypeFunctionSig_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeTypeFunctionSig.cpp" alt="" coords="2920,184,3107,225"/>
+<area shape="rect" id="node31" href="$TpiStreamBuilder_8cpp.html" title="lib/DebugInfo/PDB/Native\l/TpiStreamBuilder.cpp" alt="" coords="3824,184,3997,225"/>
+</map>

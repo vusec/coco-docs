@@ -1,0 +1,9 @@
+<map id="llvm::DerivedUser" name="llvm::DerivedUser">
+<area shape="rect" id="node4" href="$classllvm_1_1MemoryAccess.html" title="llvm::MemoryAccess" alt="" coords="74,229,219,256"/>
+<area shape="rect" id="node2" href="$classllvm_1_1User.html" title="llvm::User" alt="" coords="105,80,188,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="103,5,190,32"/>
+<area shape="rect" id="node5" href="$classllvm_1_1MemoryPhi.html" title="Represents phi nodes for memory accesses. " alt="" coords="5,304,125,331"/>
+<area shape="rect" id="node6" href="$classllvm_1_1MemoryUseOrDef.html" title="Class that has the common methods + fields of memory uses/defs. " alt="" coords="149,304,309,331"/>
+<area shape="rect" id="node7" href="$classllvm_1_1MemoryDef.html" title="Represents a read&#45;write access to memory, whether it is a must&#45;alias, or a may&#45;alias. " alt="" coords="93,379,216,405"/>
+<area shape="rect" id="node8" href="$classllvm_1_1MemoryUse.html" title="Represents read&#45;only accesses to memory. " alt="" coords="240,379,365,405"/>
+</map>

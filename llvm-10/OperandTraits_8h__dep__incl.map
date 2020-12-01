@@ -1,0 +1,51 @@
+<map id="include/llvm/IR/OperandTraits.h" name="include/llvm/IR/OperandTraits.h">
+<area shape="rect" id="node2" href="$MemorySSAUpdater_8h.html" title="include/llvm/Analysis\l/MemorySSAUpdater.h" alt="" coords="1179,363,1337,404"/>
+<area shape="rect" id="node21" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="3662,87,3846,114"/>
+<area shape="rect" id="node27" href="$LoopStrengthReduce_8cpp.html" title="lib/Transforms/Scalar\l/LoopStrengthReduce.cpp" alt="" coords="4542,452,4715,493"/>
+<area shape="rect" id="node36" href="$AArch64ISelLowering_8cpp.html" title="lib/Target/AArch64\l/AArch64ISelLowering.cpp" alt="" coords="5098,452,5274,493"/>
+<area shape="rect" id="node41" href="$MetadataLoader_8cpp.html" title="lib/Bitcode/Reader\l/MetadataLoader.cpp" alt="" coords="4119,452,4263,493"/>
+<area shape="rect" id="node42" href="$InstrTypes_8h.html" title="include/llvm/IR/InstrTypes.h" alt="" coords="2497,184,2683,211"/>
+<area shape="rect" id="node43" href="$Instructions_8h.html" title="include/llvm/IR/Instructions.h" alt="" coords="2758,281,2950,307"/>
+<area shape="rect" id="node45" href="$PredicateInfo_8h.html" title="This file implements the PredicateInfo analysis, which creates an Extended SSA form for operations us..." alt="" coords="3307,452,3468,493"/>
+<area shape="rect" id="node46" href="$PPCBoolRetToInt_8cpp.html" title="lib/Target/PowerPC\l/PPCBoolRetToInt.cpp" alt="" coords="3939,452,4095,493"/>
+<area shape="rect" id="node47" href="$ConstantsContext_8h.html" title="lib/IR/ConstantsContext.h" alt="" coords="5123,184,5297,211"/>
+<area shape="rect" id="node48" href="$Function_8h.html" title="include/llvm/IR/Function.h" alt="" coords="1489,87,1664,114"/>
+<area shape="rect" id="node49" href="$GlobalIndirectSymbol_8h.html" title="include/llvm/IR/GlobalIndirect\lSymbol.h" alt="" coords="5380,80,5573,121"/>
+<area shape="rect" id="node50" href="$GlobalVariable_8h.html" title="include/llvm/IR/GlobalVariable.h" alt="" coords="1078,281,1286,307"/>
+<area shape="rect" id="node3" href="$LoopInfo_8cpp.html" title="lib/Analysis/LoopInfo.cpp" alt="" coords="3114,459,3282,486"/>
+<area shape="rect" id="node4" href="$MemorySSAUpdater_8cpp.html" title="lib/Analysis/MemorySSAUpdater.cpp" alt="" coords="591,459,829,486"/>
+<area shape="rect" id="node5" href="$InterleavedLoadCombinePass_8cpp.html" title="lib/CodeGen/InterleavedLoad\lCombinePass.cpp" alt="" coords="5,452,196,493"/>
+<area shape="rect" id="node6" href="$EarlyCSE_8cpp.html" title="lib/Transforms/Scalar\l/EarlyCSE.cpp" alt="" coords="1883,452,2030,493"/>
+<area shape="rect" id="node7" href="$GVNHoist_8cpp.html" title="lib/Transforms/Scalar\l/GVNHoist.cpp" alt="" coords="2054,452,2201,493"/>
+<area shape="rect" id="node8" href="$LICM_8cpp.html" title="lib/Transforms/Scalar\l/LICM.cpp" alt="" coords="2731,452,2878,493"/>
+<area shape="rect" id="node9" href="$LoopInstSimplify_8cpp.html" title="lib/Transforms/Scalar\l/LoopInstSimplify.cpp" alt="" coords="1041,452,1189,493"/>
+<area shape="rect" id="node10" href="$LoopRotation_8cpp.html" title="lib/Transforms/Scalar\l/LoopRotation.cpp" alt="" coords="1374,452,1521,493"/>
+<area shape="rect" id="node11" href="$LoopSimplifyCFG_8cpp.html" title="lib/Transforms/Scalar\l/LoopSimplifyCFG.cpp" alt="" coords="1545,452,1699,493"/>
+<area shape="rect" id="node12" href="$LoopUnswitch_8cpp.html" title="lib/Transforms/Scalar\l/LoopUnswitch.cpp" alt="" coords="221,452,367,493"/>
+<area shape="rect" id="node13" href="$SimpleLoopUnswitch_8cpp.html" title="lib/Transforms/Scalar\l/SimpleLoopUnswitch.cpp" alt="" coords="392,452,567,493"/>
+<area shape="rect" id="node14" href="$BasicBlockUtils_8cpp.html" title="lib/Transforms/Utils\l/BasicBlockUtils.cpp" alt="" coords="2403,452,2547,493"/>
+<area shape="rect" id="node15" href="$BreakCriticalEdges_8cpp.html" title="lib/Transforms/Utils\l/BreakCriticalEdges.cpp" alt="" coords="854,452,1017,493"/>
+<area shape="rect" id="node16" href="$Local_8cpp.html" title="lib/Transforms/Utils\l/Local.cpp" alt="" coords="2942,452,3078,493"/>
+<area shape="rect" id="node17" href="$LoopRotationUtils_8cpp.html" title="lib/Transforms/Utils\l/LoopRotationUtils.cpp" alt="" coords="2225,452,2379,493"/>
+<area shape="rect" id="node18" href="$LoopSimplify_8cpp.html" title="lib/Transforms/Utils\l/LoopSimplify.cpp" alt="" coords="1214,452,1350,493"/>
+<area shape="rect" id="node19" href="$LoopUtils_8cpp.html" title="lib/Transforms/Utils\l/LoopUtils.cpp" alt="" coords="2571,452,2707,493"/>
+<area shape="rect" id="node20" href="$SimplifyCFG_8cpp.html" title="lib/Transforms/Utils\l/SimplifyCFG.cpp" alt="" coords="1723,452,1859,493"/>
+<area shape="rect" id="node22" href="$CFGPrinter_8h.html" title="include/llvm/Analysis\l/CFGPrinter.h" alt="" coords="3729,363,3875,404"/>
+<area shape="rect" id="node23" href="$GlobalsModRef_8h.html" title="This is the interface for a simple mod/ref and alias analysis over globals. " alt="" coords="1817,363,1963,404"/>
+<area shape="rect" id="node24" href="$LazyCallGraph_8h.html" title="Implements a lazy call graph analysis and related passes for the new pass manager. " alt="" coords="1716,177,1861,218"/>
+<area shape="rect" id="node25" href="$ObjCARCAnalysisUtils_8h.html" title="This file defines common analysis utilities used by the ObjC ARC Optimizer. " alt="" coords="3658,452,3831,493"/>
+<area shape="rect" id="node26" href="$ScalarEvolutionExpressions_8h.html" title="include/llvm/Analysis\l/ScalarEvolutionExpressions.h" alt="" coords="4239,363,4439,404"/>
+<area shape="rect" id="node28" href="$TargetFolder_8h.html" title="include/llvm/Analysis\l/TargetFolder.h" alt="" coords="3127,273,3272,315"/>
+<area shape="rect" id="node29" href="$ValueLattice_8h.html" title="include/llvm/Analysis\l/ValueLattice.h" alt="" coords="4147,177,4292,218"/>
+<area shape="rect" id="node30" href="$ValueTracking_8h.html" title="include/llvm/Analysis\l/ValueTracking.h" alt="" coords="2679,363,2824,404"/>
+<area shape="rect" id="node31" href="$BasicTTIImpl_8h.html" title="This file provides a helper that implements much of the TTI interface in terms of the target&#45;independ..." alt="" coords="3452,363,3603,404"/>
+<area shape="rect" id="node32" href="$InstructionSelectorImpl_8h.html" title="include/llvm/CodeGen\l/GlobalISel/InstructionSelector\lImpl.h" alt="" coords="4316,169,4515,225"/>
+<area shape="rect" id="node33" href="$MachineIRBuilder_8h.html" title="This file declares the MachineIRBuilder class. " alt="" coords="4539,177,4743,218"/>
+<area shape="rect" id="node34" href="$SelectionDAGNodes_8h.html" title="include/llvm/CodeGen\l/SelectionDAGNodes.h" alt="" coords="5275,363,5433,404"/>
+<area shape="rect" id="node35" href="$SwitchLoweringUtils_8h.html" title="include/llvm/CodeGen\l/SwitchLoweringUtils.h" alt="" coords="5360,452,5516,493"/>
+<area shape="rect" id="node37" href="$CompileOnDemandLayer_8h.html" title="include/llvm/ExecutionEngine\l/Orc/CompileOnDemandLayer.h" alt="" coords="238,363,446,404"/>
+<area shape="rect" id="node38" href="$OpDescriptor_8h.html" title="include/llvm/FuzzMutate\l/OpDescriptor.h" alt="" coords="3899,363,4063,404"/>
+<area shape="rect" id="node39" href="$ConstantFolder_8h.html" title="include/llvm/IR/Constant\lFolder.h" alt="" coords="3296,273,3463,315"/>
+<area shape="rect" id="node40" href="$DebugInfoMetadata_8h.html" title="include/llvm/IR/DebugInfo\lMetadata.h" alt="" coords="2899,363,3073,404"/>
+<area shape="rect" id="node44" href="$IntrinsicInst_8h.html" title="include/llvm/IR/Intrinsic\lInst.h" alt="" coords="2393,363,2552,404"/>
+</map>

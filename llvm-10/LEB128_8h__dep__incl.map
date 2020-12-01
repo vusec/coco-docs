@@ -1,0 +1,51 @@
+<map id="include/llvm/Support/LEB128.h" name="include/llvm/Support/LEB128.h">
+<area shape="rect" id="node2" href="$ByteStreamer_8h.html" title="lib/CodeGen/AsmPrinter\l/ByteStreamer.h" alt="" coords="336,102,499,143"/>
+<area shape="rect" id="node6" href="$DIE_8cpp.html" title="lib/CodeGen/AsmPrinter\l/DIE.cpp" alt="" coords="939,645,1101,687"/>
+<area shape="rect" id="node18" href="$EHStreamer_8cpp.html" title="lib/CodeGen/AsmPrinter\l/EHStreamer.cpp" alt="" coords="1175,102,1337,143"/>
+<area shape="rect" id="node19" href="$DWARFContext_8cpp.html" title="lib/DebugInfo/DWARF\l/DWARFContext.cpp" alt="" coords="1362,102,1515,143"/>
+<area shape="rect" id="node20" href="$FileWriter_8cpp.html" title="lib/DebugInfo/GSYM\l/FileWriter.cpp" alt="" coords="1539,102,1682,143"/>
+<area shape="rect" id="node21" href="$ELFObjectWriter_8cpp.html" title="lib/MC/ELFObjectWriter.cpp" alt="" coords="1707,109,1893,136"/>
+<area shape="rect" id="node22" href="$MCAsmStreamer_8cpp.html" title="lib/MC/MCAsmStreamer.cpp" alt="" coords="1918,109,2109,136"/>
+<area shape="rect" id="node23" href="$MCAssembler_8cpp.html" title="lib/MC/MCAssembler.cpp" alt="" coords="2133,109,2305,136"/>
+<area shape="rect" id="node24" href="$MCDwarf_8cpp.html" title="lib/MC/MCDwarf.cpp" alt="" coords="2329,109,2474,136"/>
+<area shape="rect" id="node25" href="$MCLinkerOptimizationHint_8cpp.html" title="lib/MC/MCLinkerOptimization\lHint.cpp" alt="" coords="2498,102,2691,143"/>
+<area shape="rect" id="node26" href="$MCStreamer_8cpp.html" title="lib/MC/MCStreamer.cpp" alt="" coords="2716,109,2879,136"/>
+<area shape="rect" id="node27" href="$WasmObjectWriter_8cpp.html" title="lib/MC/WasmObjectWriter.cpp" alt="" coords="2903,109,3103,136"/>
+<area shape="rect" id="node28" href="$WinCOFFObjectWriter_8cpp.html" title="lib/MC/WinCOFFObjectWriter.cpp" alt="" coords="3127,109,3348,136"/>
+<area shape="rect" id="node29" href="$ELF_8cpp.html" title="lib/Object/ELF.cpp" alt="" coords="3372,109,3503,136"/>
+<area shape="rect" id="node30" href="$MachOObjectFile_8cpp.html" title="lib/Object/MachOObjectFile.cpp" alt="" coords="3527,109,3734,136"/>
+<area shape="rect" id="node31" href="$WasmObjectFile_8cpp.html" title="lib/Object/WasmObjectFile.cpp" alt="" coords="3759,109,3961,136"/>
+<area shape="rect" id="node32" href="$DWARFEmitter_8cpp.html" title="The DWARF component of yaml2obj. " alt="" coords="3985,109,4220,136"/>
+<area shape="rect" id="node33" href="$ELFEmitter_8cpp.html" title="The ELF component of yaml2obj. " alt="" coords="4244,109,4452,136"/>
+<area shape="rect" id="node34" href="$MachOEmitter_8cpp.html" title="The Mach component of yaml2obj. " alt="" coords="4476,109,4703,136"/>
+<area shape="rect" id="node35" href="$WasmEmitter_8cpp.html" title="The Wasm component of yaml2obj. " alt="" coords="4727,109,4950,136"/>
+<area shape="rect" id="node36" href="$CoverageMappingReader_8cpp.html" title="lib/ProfileData/Coverage\l/CoverageMappingReader.cpp" alt="" coords="4974,102,5173,143"/>
+<area shape="rect" id="node37" href="$CoverageMappingWriter_8cpp.html" title="lib/ProfileData/Coverage\l/CoverageMappingWriter.cpp" alt="" coords="5197,102,5387,143"/>
+<area shape="rect" id="node38" href="$InstrProf_8cpp.html" title="lib/ProfileData/InstrProf.cpp" alt="" coords="5411,109,5594,136"/>
+<area shape="rect" id="node39" href="$SampleProf_8cpp.html" title="lib/ProfileData/SampleProf.cpp" alt="" coords="5618,109,5819,136"/>
+<area shape="rect" id="node40" href="$SampleProfReader_8cpp.html" title="lib/ProfileData/SampleProf\lReader.cpp" alt="" coords="5844,102,6020,143"/>
+<area shape="rect" id="node41" href="$SampleProfWriter_8cpp.html" title="lib/ProfileData/SampleProf\lWriter.cpp" alt="" coords="6044,102,6220,143"/>
+<area shape="rect" id="node42" href="$ARMAttributeParser_8cpp.html" title="lib/Support/ARMAttribute\lParser.cpp" alt="" coords="6245,102,6411,143"/>
+<area shape="rect" id="node43" href="$BinaryStreamReader_8cpp.html" title="lib/Support/BinaryStream\lReader.cpp" alt="" coords="6435,102,6602,143"/>
+<area shape="rect" id="node44" href="$BinaryStreamWriter_8cpp.html" title="lib/Support/BinaryStream\lWriter.cpp" alt="" coords="6626,102,6793,143"/>
+<area shape="rect" id="node45" href="$DataExtractor_8cpp.html" title="lib/Support/DataExtractor.cpp" alt="" coords="6817,109,7012,136"/>
+<area shape="rect" id="node46" href="$LEB128_8cpp.html" title="lib/Support/LEB128.cpp" alt="" coords="7037,109,7195,136"/>
+<area shape="rect" id="node47" href="$ARMELFStreamer_8cpp.html" title="lib/Target/ARM/MCTargetDesc\l/ARMELFStreamer.cpp" alt="" coords="7220,102,7423,143"/>
+<area shape="rect" id="node48" href="$ARMUnwindOpAsm_8cpp.html" title="lib/Target/ARM/MCTargetDesc\l/ARMUnwindOpAsm.cpp" alt="" coords="7447,102,7649,143"/>
+<area shape="rect" id="node49" href="$WebAssemblyDisassembler_8cpp.html" title="This file is part of the WebAssembly Disassembler. " alt="" coords="7674,102,7974,143"/>
+<area shape="rect" id="node50" href="$WebAssemblyMCCodeEmitter_8cpp.html" title="This file implements the WebAssemblyMCCodeEmitter class. " alt="" coords="7999,95,8255,151"/>
+<area shape="rect" id="node3" href="$DebugLocStream_8h.html" title="lib/CodeGen/AsmPrinter\l/DebugLocStream.h" alt="" coords="429,199,592,240"/>
+<area shape="rect" id="node8" href="$DwarfDebug_8cpp.html" title="lib/CodeGen/AsmPrinter\l/DwarfDebug.cpp" alt="" coords="5,645,168,687"/>
+<area shape="rect" id="node13" href="$DIEHash_8cpp.html" title="lib/CodeGen/AsmPrinter\l/DIEHash.cpp" alt="" coords="260,467,423,508"/>
+<area shape="rect" id="node15" href="$AsmPrinterDwarf_8cpp.html" title="lib/CodeGen/AsmPrinter\l/AsmPrinterDwarf.cpp" alt="" coords="243,199,405,240"/>
+<area shape="rect" id="node16" href="$DwarfExpression_8h.html" title="lib/CodeGen/AsmPrinter\l/DwarfExpression.h" alt="" coords="311,556,473,597"/>
+<area shape="rect" id="node4" href="$DwarfDebug_8h.html" title="lib/CodeGen/AsmPrinter\l/DwarfDebug.h" alt="" coords="508,377,671,419"/>
+<area shape="rect" id="node12" href="$DebugLocStream_8cpp.html" title="lib/CodeGen/AsmPrinter\l/DebugLocStream.cpp" alt="" coords="937,467,1100,508"/>
+<area shape="rect" id="node14" href="$DebugLocEntry_8h.html" title="lib/CodeGen/AsmPrinter\l/DebugLocEntry.h" alt="" coords="379,288,541,329"/>
+<area shape="rect" id="node5" href="$DwarfCompileUnit_8h.html" title="lib/CodeGen/AsmPrinter\l/DwarfCompileUnit.h" alt="" coords="548,556,711,597"/>
+<area shape="rect" id="node7" href="$DwarfCompileUnit_8cpp.html" title="lib/CodeGen/AsmPrinter\l/DwarfCompileUnit.cpp" alt="" coords="565,645,728,687"/>
+<area shape="rect" id="node10" href="$DwarfUnit_8cpp.html" title="lib/CodeGen/AsmPrinter\l/DwarfUnit.cpp" alt="" coords="752,645,915,687"/>
+<area shape="rect" id="node11" href="$DwarfUnit_8h.html" title="lib/CodeGen/AsmPrinter\l/DwarfUnit.h" alt="" coords="645,467,808,508"/>
+<area shape="rect" id="node9" href="$DwarfExpression_8cpp.html" title="lib/CodeGen/AsmPrinter\l/DwarfExpression.cpp" alt="" coords="379,645,541,687"/>
+<area shape="rect" id="node17" href="$CodeViewDebug_8cpp.html" title="lib/CodeGen/AsmPrinter\l/CodeViewDebug.cpp" alt="" coords="192,645,355,687"/>
+</map>

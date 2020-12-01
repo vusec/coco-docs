@@ -1,0 +1,45 @@
+<map id="lib/Transforms/ObjCARC/ObjCARCContract.cpp" name="lib/Transforms/ObjCARC/ObjCARCContract.cpp">
+<area shape="rect" id="node2" href="$ARCRuntimeEntryPoints_8h.html" title="This file contains a class ARCRuntimeEntryPoints for use in creating/managing references to entry poi..." alt="" coords="974,266,1153,293"/>
+<area shape="rect" id="node17" href="$DependencyAnalysis_8h.html" title="This file declares special dependency analysis routines used in Objective C ARC Optimizations. " alt="" coords="775,177,931,203"/>
+<area shape="rect" id="node19" href="$lib_2Transforms_2ObjCARC_2ObjCARC_8h.html" title="This file defines common definitions/declarations used by the ObjC ARC Optimizer. ..." alt="" coords="1935,95,2027,121"/>
+<area shape="rect" id="node35" href="$Dominators_8h.html" title="llvm/IR/Dominators.h" alt="" coords="2518,266,2665,293"/>
+<area shape="rect" id="node39" href="$Operator_8h.html" title="llvm/IR/Operator.h" alt="" coords="239,266,368,293"/>
+<area shape="rect" id="node41" href="$ProvenanceAnalysis_8h.html" title="This file declares a special form of Alias Analysis called ``Provenance Analysis&#39;&#39;. " alt="" coords="2690,177,2842,203"/>
+<area shape="rect" id="node42" href="$Statistic_8h.html" title="llvm/ADT/Statistic.h" alt="" coords="3447,348,3587,375"/>
+<area shape="rect" id="node44" href="$EHPersonalities_8h.html" title="llvm/Analysis/EHPersonalities.h" alt="" coords="5,266,215,293"/>
+<area shape="rect" id="node46" href="$InlineAsm_8h.html" title="llvm/IR/InlineAsm.h" alt="" coords="2169,348,2307,375"/>
+<area shape="rect" id="node47" href="$InitializePasses_8h.html" title="llvm/InitializePasses.h" alt="" coords="3497,95,3651,121"/>
+<area shape="rect" id="node48" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="1027,348,1222,375"/>
+<area shape="rect" id="node49" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="1239,423,1424,449"/>
+<area shape="rect" id="node50" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="3675,95,3823,121"/>
+<area shape="rect" id="node3" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1753,497,1899,524"/>
+<area shape="rect" id="node8" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="1652,423,1787,449"/>
+<area shape="rect" id="node9" href="$DerivedTypes_8h.html" title="llvm/IR/DerivedTypes.h" alt="" coords="843,348,1003,375"/>
+<area shape="rect" id="node10" href="$Type_8h.html" title="llvm/IR/Type.h" alt="" coords="599,423,707,449"/>
+<area shape="rect" id="node12" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="517,572,706,599"/>
+<area shape="rect" id="node13" href="$Intrinsics_8h.html" title="llvm/IR/Intrinsics.h" alt="" coords="1449,348,1581,375"/>
+<area shape="rect" id="node14" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="1807,348,1928,375"/>
+<area shape="rect" id="node4" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1745,647,1907,673"/>
+<area shape="rect" id="node11" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="851,497,1014,524"/>
+<area shape="rect" id="node18" href="$ObjCARCInstKind_8h.html" title="llvm/Analysis/ObjCARCInst\lKind.h" alt="" coords="1228,259,1413,300"/>
+<area shape="rect" id="node20" href="$StringSwitch_8h.html" title="llvm/ADT/StringSwitch.h" alt="" coords="2241,423,2408,449"/>
+<area shape="rect" id="node21" href="$AliasAnalysis_8h.html" title="llvm/Analysis/AliasAnalysis.h" alt="" coords="2147,266,2342,293"/>
+<area shape="rect" id="node25" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="1953,348,2043,375"/>
+<area shape="rect" id="node26" href="$ObjCARCAnalysisUtils_8h.html" title="This file defines common analysis utilities used by the ObjC ARC Optimizer. " alt="" coords="1761,169,1974,211"/>
+<area shape="rect" id="node27" href="$Analysis_2Passes_8h.html" title="llvm/Analysis/Passes.h" alt="" coords="1913,266,2072,293"/>
+<area shape="rect" id="node28" href="$ValueTracking_8h.html" title="llvm/Analysis/ValueTracking.h" alt="" coords="1437,266,1636,293"/>
+<area shape="rect" id="node29" href="$CallSite_8h.html" title="llvm/IR/CallSite.h" alt="" coords="1657,348,1782,375"/>
+<area shape="rect" id="node30" href="$InstIterator_8h.html" title="llvm/IR/InstIterator.h" alt="" coords="2919,266,3061,293"/>
+<area shape="rect" id="node33" href="$Transforms_2Utils_2Local_8h.html" title="llvm/Transforms/Utils\l/Local.h" alt="" coords="955,169,1102,211"/>
+<area shape="rect" id="node40" href="$include_2llvm_2Transforms_2ObjCARC_8h.html" title="llvm/Transforms/ObjCARC.h" alt="" coords="1999,177,2189,203"/>
+<area shape="rect" id="node22" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2803,348,2958,375"/>
+<area shape="rect" id="node23" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="2484,423,2661,449"/>
+<area shape="rect" id="node24" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="2268,497,2408,524"/>
+<area shape="rect" id="node32" href="$ValueHandle_8h.html" title="llvm/IR/ValueHandle.h" alt="" coords="2689,266,2843,293"/>
+<area shape="rect" id="node31" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="3124,423,3269,449"/>
+<area shape="rect" id="node34" href="$TinyPtrVector_8h.html" title="llvm/ADT/TinyPtrVector.h" alt="" coords="545,348,717,375"/>
+<area shape="rect" id="node36" href="$DepthFirstIterator_8h.html" title="llvm/ADT/DepthFirstIterator.h" alt="" coords="2534,348,2729,375"/>
+<area shape="rect" id="node37" href="$GraphTraits_8h.html" title="llvm/ADT/GraphTraits.h" alt="" coords="2889,423,3049,449"/>
+<area shape="rect" id="node38" href="$IR_2CFG_8h.html" title="This file provides various utilities for inspecting and working with the control flow graph in LLVM I..." alt="" coords="3033,348,3139,375"/>
+<area shape="rect" id="node45" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="48,348,172,375"/>
+</map>

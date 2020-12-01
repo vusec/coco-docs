@@ -1,0 +1,32 @@
+<map id="lib/ExecutionEngine/Orc/Core.cpp" name="lib/ExecutionEngine/Orc/Core.cpp">
+<area shape="rect" id="node2" href="$ExecutionEngine_2Orc_2Core_8h.html" title="llvm/ExecutionEngine\l/Orc/Core.h" alt="" coords="1927,95,2075,136"/>
+<area shape="rect" id="node16" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1584,512,1738,539"/>
+<area shape="rect" id="node31" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="2528,363,2676,389"/>
+<area shape="rect" id="node32" href="$Format_8h.html" title="llvm/Support/Format.h" alt="" coords="1610,363,1760,389"/>
+<area shape="rect" id="node43" href="$OrcError_8h.html" title="llvm/ExecutionEngine\l/Orc/OrcError.h" alt="" coords="3586,184,3734,225"/>
+<area shape="rect" id="node44" href="$Mangler_8h.html" title="llvm/IR/Mangler.h" alt="" coords="4873,191,4998,218"/>
+<area shape="rect" id="node46" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="3298,191,3493,218"/>
+<area shape="rect" id="node3" href="$BitmaskEnum_8h.html" title="llvm/ADT/BitmaskEnum.h" alt="" coords="4284,587,4459,613"/>
+<area shape="rect" id="node7" href="$FunctionExtras_8h.html" title="This file provides a collection of function (or more generally, callable) type erasure utilities supp..." alt="" coords="112,281,292,307"/>
+<area shape="rect" id="node9" href="$JITSymbol_8h.html" title="llvm/ExecutionEngine\l/JITSymbol.h" alt="" coords="1983,184,2131,225"/>
+<area shape="rect" id="node37" href="$SymbolStringPool_8h.html" title="llvm/ExecutionEngine\l/Orc/SymbolStringPool.h" alt="" coords="1774,273,1940,315"/>
+<area shape="rect" id="node40" href="$OrcV1Deprecation_8h.html" title="llvm/ExecutionEngine\l/OrcV1Deprecation.h" alt="" coords="1708,184,1856,225"/>
+<area shape="rect" id="node41" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="1236,281,1358,307"/>
+<area shape="rect" id="node15" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2218,437,2365,464"/>
+<area shape="rect" id="node28" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="2066,281,2205,307"/>
+<area shape="rect" id="node20" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="444,661,614,688"/>
+<area shape="rect" id="node17" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="4483,587,4623,613"/>
+<area shape="rect" id="node19" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1978,587,2110,613"/>
+<area shape="rect" id="node23" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="4901,587,5090,613"/>
+<area shape="rect" id="node18" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="4833,661,4956,688"/>
+<area shape="rect" id="node29" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2776,512,2938,539"/>
+<area shape="rect" id="node30" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="4128,363,4255,389"/>
+<area shape="rect" id="node35" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="3208,363,3394,389"/>
+<area shape="rect" id="node33" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2440,437,2584,464"/>
+<area shape="rect" id="node38" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="3317,512,3472,539"/>
+<area shape="rect" id="node39" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="1166,363,1316,389"/>
+<area shape="rect" id="node45" href="$GlobalValue_8h.html" title="llvm/IR/GlobalValue.h" alt="" coords="4861,281,5010,307"/>
+<area shape="rect" id="node47" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="3496,512,3658,539"/>
+<area shape="rect" id="node48" href="$ManagedStatic_8h.html" title="llvm/Support/ManagedStatic.h" alt="" coords="4098,437,4296,464"/>
+<area shape="rect" id="node49" href="$VirtualFileSystem_8h.html" title="Defines the virtual file system interface vfs::FileSystem. " alt="" coords="3997,273,4154,315"/>
+</map>

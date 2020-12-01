@@ -1,0 +1,4 @@
+<map id="llvm::DiagnosticInfoResourceLimit" name="llvm::DiagnosticInfoResourceLimit">
+<area shape="rect" id="node3" href="$classllvm_1_1DiagnosticInfoStackSize.html" title="llvm::DiagnosticInfoStackSize" alt="" coords="5,169,204,196"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DiagnosticInfo.html" title="This is the base abstract class for diagnostic reporting in the backend. " alt="" coords="35,5,174,32"/>
+</map>

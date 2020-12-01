@@ -1,0 +1,6 @@
+<map id="llvm::MachineRegion" name="llvm::MachineRegion">
+<area shape="rect" id="node2" href="$classllvm_1_1RegionBase.html" title="llvm::RegionBase\&lt; Region\lTraits\&lt; MachineFunction \&gt; \&gt;" alt="" coords="143,213,334,255"/>
+<area shape="rect" id="node3" href="$classllvm_1_1RegionNodeBase.html" title="llvm::RegionNodeBase\l\&lt; RegionTraits\&lt; MachineFunction \&gt; \&gt;" alt="" coords="5,109,248,151"/>
+<area shape="rect" id="node4" href="$classllvm_1_1RegionNodeBase.html" title="A RegionNode represents a subregion or a BasicBlock that is part of a Region. " alt="" coords="162,5,318,47"/>
+<area shape="rect" id="node5" href="$classllvm_1_1RegionBase.html" title="A single entry single exit Region. " alt="" coords="277,117,438,143"/>
+</map>

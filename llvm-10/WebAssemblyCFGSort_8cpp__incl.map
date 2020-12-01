@@ -1,0 +1,41 @@
+<map id="lib/Target/WebAssembly/WebAssemblyCFGSort.cpp" name="lib/Target/WebAssembly/WebAssemblyCFGSort.cpp">
+<area shape="rect" id="node2" href="$WebAssemblyMCTargetDesc_8h.html" title="This file provides WebAssembly&#45;specific target descriptions. " alt="" coords="1217,184,1417,225"/>
+<area shape="rect" id="node3" href="$WebAssemblySubtarget_8h.html" title="This file declares the WebAssembly&#45;specific subclass of TargetSubtarget. " alt="" coords="969,281,1156,307"/>
+<area shape="rect" id="node26" href="$WebAssembly_8h.html" title="This file contains the entry points for global functions defined in the LLVM WebAssembly back&#45;end..." alt="" coords="1685,191,1803,218"/>
+<area shape="rect" id="node29" href="$WebAssemblyExceptionInfo_8h.html" title="This file implements WebAssemblyException information analysis. " alt="" coords="2898,102,3097,129"/>
+<area shape="rect" id="node30" href="$SetVector_8h.html" title="llvm/ADT/SetVector.h" alt="" coords="2922,370,3073,397"/>
+<area shape="rect" id="node33" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="3325,281,3544,307"/>
+<area shape="rect" id="node39" href="$WebAssemblyUtilities_8h.html" title="This file contains the declaration of the WebAssembly&#45;specific utility functions. ..." alt="" coords="3904,102,4067,129"/>
+<area shape="rect" id="node40" href="$PriorityQueue_8h.html" title="llvm/ADT/PriorityQueue.h" alt="" coords="4404,281,4575,307"/>
+<area shape="rect" id="node42" href="$MachineDominators_8h.html" title="llvm/CodeGen/MachineDominators.h" alt="" coords="3170,102,3406,129"/>
+<area shape="rect" id="node45" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="4495,452,4681,479"/>
+<area shape="rect" id="node47" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="4533,370,4681,397"/>
+<area shape="rect" id="node48" href="$MachineLoopInfo_8h.html" title="llvm/CodeGen/MachineLoop\lInfo.h" alt="" coords="3431,95,3617,136"/>
+<area shape="rect" id="node49" href="$MachineRegisterInfo_8h.html" title="llvm/CodeGen/MachineRegister\lInfo.h" alt="" coords="2650,184,2857,225"/>
+<area shape="rect" id="node50" href="$CodeGen_2Passes_8h.html" title="llvm/CodeGen/Passes.h" alt="" coords="4802,191,4966,218"/>
+<area shape="rect" id="node22" href="$BinaryFormat_2Wasm_8h.html" title="llvm/BinaryFormat/Wasm.h" alt="" coords="2463,370,2644,397"/>
+<area shape="rect" id="node23" href="$MCInstrDesc_8h.html" title="llvm/MC/MCInstrDesc.h" alt="" coords="3934,527,4098,553"/>
+<area shape="rect" id="node24" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="2502,601,2677,628"/>
+<area shape="rect" id="node4" href="$WebAssemblyFrameLowering_8h.html" title="This class implements WebAssembly&#45;specific bits of TargetFrameLowering class. " alt="" coords="515,370,722,397"/>
+<area shape="rect" id="node5" href="$WebAssemblyISelLowering_8h.html" title="This file defines the interfaces that WebAssembly uses to lower LLVM code into a selection DAG..." alt="" coords="298,370,491,397"/>
+<area shape="rect" id="node6" href="$WebAssemblyInstrInfo_8h.html" title="This file contains the WebAssembly implementation of the TargetInstrInfo class. " alt="" coords="993,370,1159,397"/>
+<area shape="rect" id="node17" href="$WebAssemblySelectionDAGInfo_8h.html" title="This file defines the WebAssembly subclass for SelectionDAGTargetInfo. " alt="" coords="746,370,969,397"/>
+<area shape="rect" id="node18" href="$TargetSubtargetInfo_8h.html" title="llvm/CodeGen/TargetSubtarget\lInfo.h" alt="" coords="1932,363,2135,404"/>
+<area shape="rect" id="node7" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2481,452,2625,479"/>
+<area shape="rect" id="node8" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2653,527,2816,553"/>
+<area shape="rect" id="node9" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2212,601,2375,628"/>
+<area shape="rect" id="node14" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2975,527,3129,553"/>
+<area shape="rect" id="node19" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="1451,452,1616,479"/>
+<area shape="rect" id="node27" href="$PassRegistry_8h.html" title="llvm/PassRegistry.h" alt="" coords="1793,452,1933,479"/>
+<area shape="rect" id="node28" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="3204,527,3359,553"/>
+<area shape="rect" id="node32" href="$MachineFunctionPass_8h.html" title="llvm/CodeGen/MachineFunction\lPass.h" alt="" coords="3328,184,3536,225"/>
+<area shape="rect" id="node31" href="$DenseSet_8h.html" title="llvm/ADT/DenseSet.h" alt="" coords="3309,452,3459,479"/>
+<area shape="rect" id="node34" href="$BitVector_8h.html" title="llvm/ADT/BitVector.h" alt="" coords="3097,370,3244,397"/>
+<area shape="rect" id="node35" href="$FloatingPointMode_8h.html" title="llvm/ADT/FloatingPointMode.h" alt="" coords="3553,370,3753,397"/>
+<area shape="rect" id="node36" href="$GraphTraits_8h.html" title="llvm/ADT/GraphTraits.h" alt="" coords="3839,452,3999,479"/>
+<area shape="rect" id="node37" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="4082,363,4273,404"/>
+<area shape="rect" id="node38" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="4073,452,4268,479"/>
+<area shape="rect" id="node43" href="$SmallSet_8h.html" title="llvm/ADT/SmallSet.h" alt="" coords="1957,452,2102,479"/>
+<area shape="rect" id="node44" href="$GenericDomTree_8h.html" title="This file defines a set of templates that efficiently compute a dominator tree over a generic graph..." alt="" coords="3269,370,3478,397"/>
+<area shape="rect" id="node46" href="$GenericDomTreeConstruction_8h.html" title="Generic dominator tree construction &#45; This file provides routines to construct immediate dominator in..." alt="" coords="3758,273,3957,315"/>
+</map>

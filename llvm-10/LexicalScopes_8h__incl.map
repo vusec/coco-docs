@@ -1,0 +1,31 @@
+<map id="include/llvm/CodeGen/LexicalScopes.h" name="include/llvm/CodeGen/LexicalScopes.h">
+<area shape="rect" id="node2" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="4176,393,4320,420"/>
+<area shape="rect" id="node17" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3665,468,3828,495"/>
+<area shape="rect" id="node36" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2488,244,2643,271"/>
+<area shape="rect" id="node41" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="1365,393,1528,420"/>
+<area shape="rect" id="node42" href="$DebugInfoMetadata_8h.html" title="llvm/IR/DebugInfoMetadata.h" alt="" coords="4194,95,4387,121"/>
+<area shape="rect" id="node3" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="3625,543,3765,569"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="5625,692,5788,719"/>
+<area shape="rect" id="node16" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="6152,617,6275,644"/>
+<area shape="rect" id="node28" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2539,468,2693,495"/>
+<area shape="rect" id="node4" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="4389,692,4563,719"/>
+<area shape="rect" id="node5" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="3920,617,4109,644"/>
+<area shape="rect" id="node8" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="4375,617,4577,644"/>
+<area shape="rect" id="node11" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="3675,617,3845,644"/>
+<area shape="rect" id="node18" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1211,617,1381,644"/>
+<area shape="rect" id="node20" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="3294,543,3447,569"/>
+<area shape="rect" id="node21" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="4387,543,4565,569"/>
+<area shape="rect" id="node23" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="3789,543,3957,569"/>
+<area shape="rect" id="node29" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="5579,543,5719,569"/>
+<area shape="rect" id="node30" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1659,543,1791,569"/>
+<area shape="rect" id="node37" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="3041,319,3218,345"/>
+<area shape="rect" id="node39" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="1568,468,1741,495"/>
+<area shape="rect" id="node40" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="1006,468,1213,495"/>
+<area shape="rect" id="node38" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2120,393,2267,420"/>
+<area shape="rect" id="node43" href="$BitmaskEnum_8h.html" title="llvm/ADT/BitmaskEnum.h" alt="" coords="5329,468,5503,495"/>
+<area shape="rect" id="node44" href="$PointerUnion_8h.html" title="llvm/ADT/PointerUnion.h" alt="" coords="3219,244,3386,271"/>
+<area shape="rect" id="node45" href="$Dwarf_8h.html" title="This file contains constants used for implementing Dwarf debug support. " alt="" coords="6200,468,6379,495"/>
+<area shape="rect" id="node46" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="4629,319,4768,345"/>
+<area shape="rect" id="node47" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="5197,543,5352,569"/>
+<area shape="rect" id="node48" href="$Metadata_8h.html" title="This file contains the declarations for metadata subclasses. " alt="" coords="3344,169,3477,196"/>
+</map>

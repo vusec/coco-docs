@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1AccelTableBase.html" title="A base class holding non&#45;template&#45;dependant functionality of the AccelTable class. " alt="" coords="5,111,155,138"/>
+<area shape="rect" id="node2" href="$classllvm_1_1AccelTable.html" title="llvm::AccelTable\&lt; llvm\l::AppleAccelTableOffsetData \&gt;" alt="" coords="203,5,407,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1AccelTable.html" title="llvm::AccelTable\&lt; llvm\l::AppleAccelTableTypeData \&gt;" alt="" coords="206,71,403,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1AccelTable.html" title="llvm::AccelTable\&lt; llvm\l::DWARF5AccelTableData \&gt;" alt="" coords="209,136,401,177"/>
+<area shape="rect" id="node5" href="$classllvm_1_1AccelTable.html" title="This class holds an abstract representation of an Accelerator Table, consisting of a sequence of buck..." alt="" coords="215,202,394,229"/>
+</map>

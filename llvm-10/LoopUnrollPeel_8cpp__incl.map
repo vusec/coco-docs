@@ -1,0 +1,39 @@
+<map id="lib/Transforms/Utils/LoopUnrollPeel.cpp" name="lib/Transforms/Utils/LoopUnrollPeel.cpp">
+<area shape="rect" id="node2" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1453,661,1607,688"/>
+<area shape="rect" id="node21" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3505,661,3645,688"/>
+<area shape="rect" id="node24" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2213,661,2375,688"/>
+<area shape="rect" id="node25" href="$Statistic_8h.html" title="llvm/ADT/Statistic.h" alt="" coords="5900,811,6040,837"/>
+<area shape="rect" id="node26" href="$LoopInfo_8h.html" title="llvm/Analysis/LoopInfo.h" alt="" coords="1665,348,1830,375"/>
+<area shape="rect" id="node27" href="$IR_2Instruction_8h.html" title="llvm/IR/Instruction.h" alt="" coords="4303,736,4443,763"/>
+<area shape="rect" id="node28" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="4961,811,5115,837"/>
+<area shape="rect" id="node29" href="$Instructions_8h.html" title="llvm/IR/Instructions.h" alt="" coords="4302,430,4449,457"/>
+<area shape="rect" id="node30" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="4684,661,4829,688"/>
+<area shape="rect" id="node31" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="4481,587,4611,613"/>
+<area shape="rect" id="node32" href="$InstrTypes_8h.html" title="llvm/IR/InstrTypes.h" alt="" coords="4194,512,4335,539"/>
+<area shape="rect" id="node33" href="$LLVMContext_8h.html" title="llvm/IR/LLVMContext.h" alt="" coords="4956,661,5115,688"/>
+<area shape="rect" id="node34" href="$LoopIterator_8h.html" title="llvm/Analysis/LoopIterator.h" alt="" coords="1651,273,1835,300"/>
+<area shape="rect" id="node35" href="$ScalarEvolution_8h.html" title="llvm/Analysis/ScalarEvolution.h" alt="" coords="2831,273,3037,300"/>
+<area shape="rect" id="node36" href="$ScalarEvolutionExpressions_8h.html" title="llvm/Analysis/ScalarEvolution\lExpressions.h" alt="" coords="3191,184,3386,225"/>
+<area shape="rect" id="node37" href="$TargetTransformInfo_8h.html" title="This pass exposes codegen information to IR&#45;level passes. " alt="" coords="2834,184,3034,225"/>
+<area shape="rect" id="node38" href="$Dominators_8h.html" title="llvm/IR/Dominators.h" alt="" coords="2254,273,2401,300"/>
+<area shape="rect" id="node39" href="$MDBuilder_8h.html" title="llvm/IR/MDBuilder.h" alt="" coords="5,348,145,375"/>
+<area shape="rect" id="node40" href="$Metadata_8h.html" title="This file contains the declarations for metadata subclasses. " alt="" coords="3249,587,3382,613"/>
+<area shape="rect" id="node41" href="$PatternMatch_8h.html" title="llvm/IR/PatternMatch.h" alt="" coords="4297,348,4454,375"/>
+<area shape="rect" id="node42" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="2897,512,3091,539"/>
+<area shape="rect" id="node43" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2484,587,2669,613"/>
+<area shape="rect" id="node44" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="4851,102,4999,129"/>
+<area shape="rect" id="node45" href="$BasicBlockUtils_8h.html" title="llvm/Transforms/Utils\l/BasicBlockUtils.h" alt="" coords="4955,423,5102,464"/>
+<area shape="rect" id="node46" href="$Cloning_8h.html" title="llvm/Transforms/Utils\l/Cloning.h" alt="" coords="4401,95,4547,136"/>
+<area shape="rect" id="node47" href="$ValueMapper_8h.html" title="llvm/Transforms/Utils\l/ValueMapper.h" alt="" coords="4601,184,4747,225"/>
+<area shape="rect" id="node48" href="$LoopSimplify_8h.html" title="llvm/Transforms/Utils\l/LoopSimplify.h" alt="" coords="2646,184,2793,225"/>
+<area shape="rect" id="node49" href="$LoopUtils_8h.html" title="llvm/Transforms/Utils\l/LoopUtils.h" alt="" coords="2757,95,2903,136"/>
+<area shape="rect" id="node50" href="$UnrollLoop_8h.html" title="llvm/Transforms/Utils\l/UnrollLoop.h" alt="" coords="2927,95,3074,136"/>
+<area shape="rect" id="node3" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="2695,736,2872,763"/>
+<area shape="rect" id="node8" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="2101,736,2274,763"/>
+<area shape="rect" id="node9" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1923,736,2076,763"/>
+<area shape="rect" id="node10" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3589,960,3751,987"/>
+<area shape="rect" id="node11" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1163,736,1340,763"/>
+<area shape="rect" id="node16" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="829,736,1036,763"/>
+<area shape="rect" id="node17" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2023,885,2194,912"/>
+<area shape="rect" id="node22" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="4001,811,4123,837"/>
+</map>

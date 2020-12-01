@@ -1,0 +1,6 @@
+<map id="llvm::BinOpInit" name="llvm::BinOpInit">
+<area shape="rect" id="node2" href="$classllvm_1_1OpInit.html" title="Base class for operators. " alt="" coords="15,247,104,273"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TypedInit.html" title="This is the common super&#45;class of types that have a specific, explicit, type. " alt="" coords="5,171,113,197"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Init.html" title="llvm::Init" alt="" coords="23,95,95,121"/>
+<area shape="rect" id="node6" href="$classllvm_1_1FoldingSetBase_1_1Node.html" title="Node &#45; This class is used to maintain the singly linked bucket list in a folding set. " alt="" coords="129,247,243,273"/>
+</map>

@@ -1,0 +1,36 @@
+<map id="lib/Target/X86/MCTargetDesc/X86WinCOFFTargetStreamer.cpp" name="lib/Target/X86/MCTargetDesc/X86WinCOFFTargetStreamer.cpp">
+<area shape="rect" id="node2" href="$X86MCTargetDesc_8h.html" title="X86MCTargetDesc.h" alt="" coords="3745,169,3890,196"/>
+<area shape="rect" id="node27" href="$X86TargetStreamer_8h.html" title="X86TargetStreamer.h" alt="" coords="2738,95,2884,121"/>
+<area shape="rect" id="node28" href="$CodeView_8h.html" title="llvm/DebugInfo/CodeView\l/CodeView.h" alt="" coords="4285,319,4460,360"/>
+<area shape="rect" id="node33" href="$MCCodeView_8h.html" title="llvm/MC/MCCodeView.h" alt="" coords="3176,95,3342,121"/>
+<area shape="rect" id="node39" href="$MCContext_8h.html" title="llvm/MC/MCContext.h" alt="" coords="1833,169,1986,196"/>
+<area shape="rect" id="node45" href="$MCSubtargetInfo_8h.html" title="llvm/MC/MCSubtargetInfo.h" alt="" coords="3233,408,3418,435"/>
+<area shape="rect" id="node48" href="$MCInstPrinter_8h.html" title="llvm/MC/MCInstPrinter.h" alt="" coords="3572,95,3738,121"/>
+<area shape="rect" id="node49" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="894,408,1072,435"/>
+<area shape="rect" id="node50" href="$FormattedStream_8h.html" title="llvm/Support/FormattedStream.h" alt="" coords="3459,169,3670,196"/>
+<area shape="rect" id="node3" href="$MCRegister_8h.html" title="llvm/MC/MCRegister.h" alt="" coords="1124,483,1280,509"/>
+<area shape="rect" id="node5" href="$MCStreamer_8h.html" title="llvm/MC/MCStreamer.h" alt="" coords="2328,244,2488,271"/>
+<area shape="rect" id="node23" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="665,326,840,353"/>
+<area shape="rect" id="node6" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="894,483,1048,509"/>
+<area shape="rect" id="node11" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="374,483,514,509"/>
+<area shape="rect" id="node12" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1915,483,2078,509"/>
+<area shape="rect" id="node13" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2319,483,2466,509"/>
+<area shape="rect" id="node15" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="1963,326,2102,353"/>
+<area shape="rect" id="node20" href="$MD5_8h.html" title="llvm/Support/MD5.h" alt="" coords="2667,326,2806,353"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="496,557,659,584"/>
+<area shape="rect" id="node16" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="2076,408,2202,435"/>
+<area shape="rect" id="node18" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="3442,408,3628,435"/>
+<area shape="rect" id="node21" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="2430,408,2589,435"/>
+<area shape="rect" id="node22" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="3704,408,3854,435"/>
+<area shape="rect" id="node34" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="1086,326,1237,353"/>
+<area shape="rect" id="node36" href="$MCFragment_8h.html" title="llvm/MC/MCFragment.h" alt="" coords="2379,326,2542,353"/>
+<area shape="rect" id="node37" href="$MCObjectStreamer_8h.html" title="llvm/MC/MCObjectStreamer.h" alt="" coords="2309,169,2508,196"/>
+<area shape="rect" id="node35" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="1148,408,1309,435"/>
+<area shape="rect" id="node40" href="$SetVector_8h.html" title="llvm/ADT/SetVector.h" alt="" coords="286,326,437,353"/>
+<area shape="rect" id="node41" href="$Dwarf_8h.html" title="This file contains constants used for implementing Dwarf debug support. " alt="" coords="184,244,363,271"/>
+<area shape="rect" id="node42" href="$XCOFF_8h.html" title="llvm/BinaryFormat/XCOFF.h" alt="" coords="2969,408,3157,435"/>
+<area shape="rect" id="node43" href="$MCAsmMacro_8h.html" title="llvm/MC/MCAsmMacro.h" alt="" coords="1566,326,1736,353"/>
+<area shape="rect" id="node44" href="$MCDwarf_8h.html" title="llvm/MC/MCDwarf.h" alt="" coords="1745,244,1888,271"/>
+<area shape="rect" id="node46" href="$MCTargetOptions_8h.html" title="llvm/MC/MCTargetOptions.h" alt="" coords="2931,326,3120,353"/>
+<area shape="rect" id="node47" href="$SectionKind_8h.html" title="llvm/MC/SectionKind.h" alt="" coords="489,244,645,271"/>
+</map>

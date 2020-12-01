@@ -1,0 +1,6 @@
+<map id="llvm::WebAssemblyTargetLowering" name="llvm::WebAssemblyTargetLowering">
+<area shape="rect" id="node2" href="$classllvm_1_1TargetLowering.html" title="This class defines information used to lower LLVM code to legal SelectionDAG operators that the targe..." alt="" coords="61,317,204,344"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TargetLoweringBase.html" title="This base class for TargetLowering contains the SelectionDAG&#45;independent parts that can be used from ..." alt="" coords="46,241,219,268"/>
+<area shape="rect" id="node4" href="$classbool.html" title="bool" alt="" coords="5,5,52,32"/>
+<area shape="rect" id="node5" href="$classunsigned.html" title="unsigned" alt="" coords="201,5,275,32"/>
+</map>

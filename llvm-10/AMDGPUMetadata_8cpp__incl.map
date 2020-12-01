@@ -1,0 +1,33 @@
+<map id="lib/Support/AMDGPUMetadata.cpp" name="lib/Support/AMDGPUMetadata.cpp">
+<area shape="rect" id="node2" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="5314,304,5440,331"/>
+<area shape="rect" id="node31" href="$AMDGPUMetadata_8h.html" title="AMDGPU metadata definitions and in&#45;memory representations. " alt="" coords="6152,304,6375,331"/>
+<area shape="rect" id="node34" href="$YAMLTraits_8h.html" title="llvm/Support/YAMLTraits.h" alt="" coords="3640,80,3818,107"/>
+<area shape="rect" id="node3" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2493,453,2656,480"/>
+<area shape="rect" id="node18" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="4965,617,5154,644"/>
+<area shape="rect" id="node25" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="4064,379,4210,405"/>
+<area shape="rect" id="node4" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1742,617,1913,644"/>
+<area shape="rect" id="node7" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1019,535,1172,562"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="4046,692,4209,719"/>
+<area shape="rect" id="node10" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="4571,535,4748,562"/>
+<area shape="rect" id="node17" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="3416,535,3584,562"/>
+<area shape="rect" id="node21" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2530,617,2701,644"/>
+<area shape="rect" id="node11" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="4586,617,4789,644"/>
+<area shape="rect" id="node26" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2781,453,2936,480"/>
+<area shape="rect" id="node27" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="1806,535,1946,562"/>
+<area shape="rect" id="node29" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="2398,535,2530,562"/>
+<area shape="rect" id="node28" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="706,617,829,644"/>
+<area shape="rect" id="node35" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="3246,229,3410,256"/>
+<area shape="rect" id="node38" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="3574,304,3724,331"/>
+<area shape="rect" id="node39" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="3543,379,3704,405"/>
+<area shape="rect" id="node42" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="5560,155,5711,181"/>
+<area shape="rect" id="node44" href="$Regex_8h.html" title="llvm/Support/Regex.h" alt="" coords="6804,155,6952,181"/>
+<area shape="rect" id="node45" href="$Support_2SourceMgr_8h.html" title="llvm/Support/SourceMgr.h" alt="" coords="2854,229,3028,256"/>
+<area shape="rect" id="node47" href="$YAMLParser_8h.html" title="llvm/Support/YAMLParser.h" alt="" coords="3365,304,3549,331"/>
+<area shape="rect" id="node49" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="5842,304,6027,331"/>
+<area shape="rect" id="node36" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2049,379,2193,405"/>
+<area shape="rect" id="node37" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="3080,304,3239,331"/>
+<area shape="rect" id="node41" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="5280,528,5444,569"/>
+<area shape="rect" id="node40" href="$Alignment_8h.html" title="llvm/Support/Alignment.h" alt="" coords="4333,453,4501,480"/>
+<area shape="rect" id="node43" href="$Host_8h.html" title="llvm/Support/Host.h" alt="" coords="5414,229,5553,256"/>
+<area shape="rect" id="node46" href="$PointerUnion_8h.html" title="llvm/ADT/PointerUnion.h" alt="" coords="4940,453,5107,480"/>
+</map>

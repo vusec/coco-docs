@@ -1,0 +1,36 @@
+<map id="lib/Object/SymbolSize.cpp" name="lib/Object/SymbolSize.cpp">
+<area shape="rect" id="node2" href="$SymbolSize_8h.html" title="llvm/Object/SymbolSize.h" alt="" coords="1540,80,1713,107"/>
+<area shape="rect" id="node5" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1704,767,1859,793"/>
+<area shape="rect" id="node37" href="$Object_2COFF_8h.html" title="llvm/Object/COFF.h" alt="" coords="3536,80,3675,107"/>
+<area shape="rect" id="node43" href="$ELFObjectFile_8h.html" title="llvm/Object/ELFObjectFile.h" alt="" coords="2701,80,2888,107"/>
+<area shape="rect" id="node49" href="$Object_2MachO_8h.html" title="llvm/Object/MachO.h" alt="" coords="1370,80,1515,107"/>
+<area shape="rect" id="node3" href="$ObjectFile_8h.html" title="llvm/Object/ObjectFile.h" alt="" coords="1529,162,1692,189"/>
+<area shape="rect" id="node4" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1340,692,1487,719"/>
+<area shape="rect" id="node11" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="517,916,688,943"/>
+<area shape="rect" id="node24" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="1379,393,1503,420"/>
+<area shape="rect" id="node25" href="$SubtargetFeature_8h.html" title="llvm/MC/SubtargetFeature.h" alt="" coords="1963,244,2149,271"/>
+<area shape="rect" id="node26" href="$Binary_8h.html" title="llvm/Object/Binary.h" alt="" coords="1265,319,1405,345"/>
+<area shape="rect" id="node27" href="$Object_2Error_8h.html" title="llvm/Object/Error.h" alt="" coords="1629,393,1760,420"/>
+<area shape="rect" id="node28" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="1805,468,1944,495"/>
+<area shape="rect" id="node34" href="$MemoryBuffer_8h.html" title="llvm/Support/MemoryBuffer.h" alt="" coords="2416,468,2608,495"/>
+<area shape="rect" id="node35" href="$SymbolicFile_8h.html" title="llvm/Object/SymbolicFile.h" alt="" coords="903,244,1081,271"/>
+<area shape="rect" id="node36" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="3739,841,3893,868"/>
+<area shape="rect" id="node6" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2165,841,2305,868"/>
+<area shape="rect" id="node10" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="2009,841,2141,868"/>
+<area shape="rect" id="node17" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="3475,841,3664,868"/>
+<area shape="rect" id="node29" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2735,767,2897,793"/>
+<area shape="rect" id="node30" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="2158,543,2322,569"/>
+<area shape="rect" id="node31" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2375,692,2519,719"/>
+<area shape="rect" id="node32" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="2586,617,2745,644"/>
+<area shape="rect" id="node38" href="$BinaryFormat_2COFF_8h.html" title="llvm/BinaryFormat/COFF.h" alt="" coords="4847,617,5025,644"/>
+<area shape="rect" id="node39" href="$CVDebugRecord_8h.html" title="llvm/Object/CVDebugRecord.h" alt="" coords="4417,319,4620,345"/>
+<area shape="rect" id="node40" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="4266,393,4417,420"/>
+<area shape="rect" id="node41" href="$BinaryByteStream_8h.html" title="llvm/Support/BinaryByteStream.h" alt="" coords="2189,393,2405,420"/>
+<area shape="rect" id="node42" href="$ConvertUTF_8h.html" title="llvm/Support/ConvertUTF.h" alt="" coords="3258,468,3441,495"/>
+<area shape="rect" id="node44" href="$BinaryFormat_2ELF_8h.html" title="llvm/BinaryFormat/ELF.h" alt="" coords="3821,393,3987,420"/>
+<area shape="rect" id="node45" href="$Object_2ELF_8h.html" title="llvm/Object/ELF.h" alt="" coords="3506,244,3633,271"/>
+<area shape="rect" id="node46" href="$ELFTypes_8h.html" title="llvm/Object/ELFTypes.h" alt="" coords="3471,319,3633,345"/>
+<area shape="rect" id="node47" href="$ARMAttributeParser_8h.html" title="llvm/Support/ARMAttribute\lParser.h" alt="" coords="2933,155,3112,196"/>
+<area shape="rect" id="node48" href="$ARMBuildAttributes_8h.html" title="ARMBuildAttributes.h" alt="" coords="2915,244,3063,271"/>
+<area shape="rect" id="node50" href="$BinaryFormat_2MachO_8h.html" title="llvm/BinaryFormat/MachO.h" alt="" coords="94,162,279,189"/>
+</map>

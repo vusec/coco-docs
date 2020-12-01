@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1RegBankSelect_1_1InsertPoint.html" title="Abstract class used to represent an insertion point in a CFG. " alt="" coords="5,71,151,112"/>
+<area shape="rect" id="node2" href="$classllvm_1_1RegBankSelect_1_1EdgeInsertPoint.html" title="Insertion point on an edge. " alt="" coords="199,5,344,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1RegBankSelect_1_1InstrInsertPoint.html" title="Insertion point before or after an instruction. " alt="" coords="199,71,344,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1RegBankSelect_1_1MBBInsertPoint.html" title="Insertion point at the beginning or end of a basic block. " alt="" coords="199,136,344,177"/>
+</map>

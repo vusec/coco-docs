@@ -1,0 +1,32 @@
+<map id="lib/MCA/Stages/ExecuteStage.cpp" name="lib/MCA/Stages/ExecuteStage.cpp">
+<area shape="rect" id="node2" href="$ExecuteStage_8h.html" title="This file defines the execution stage of a default instruction pipeline. " alt="" coords="1560,80,1783,107"/>
+<area shape="rect" id="node20" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1909,587,2071,613"/>
+<area shape="rect" id="node47" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="3661,512,3809,539"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1097,512,1241,539"/>
+<area shape="rect" id="node37" href="$Scheduler_8h.html" title="A scheduler for Processor Resource Units and Processor Resource Groups. " alt="" coords="1969,155,2139,196"/>
+<area shape="rect" id="node41" href="$MCA_2Instruction_8h.html" title="This file defines abstractions used by the Pipeline to model register reads, register writes and inst..." alt="" coords="1643,430,1799,457"/>
+<area shape="rect" id="node48" href="$Stage_8h.html" title="This file defines a stage. " alt="" coords="1584,162,1759,189"/>
+<area shape="rect" id="node4" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="1339,661,1479,688"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2807,811,2970,837"/>
+<area shape="rect" id="node19" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="2342,736,2465,763"/>
+<area shape="rect" id="node32" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1191,587,1346,613"/>
+<area shape="rect" id="node5" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="1433,811,1608,837"/>
+<area shape="rect" id="node6" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2539,736,2729,763"/>
+<area shape="rect" id="node11" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1281,736,1483,763"/>
+<area shape="rect" id="node14" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1995,736,2166,763"/>
+<area shape="rect" id="node21" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="686,736,857,763"/>
+<area shape="rect" id="node23" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2733,661,2887,688"/>
+<area shape="rect" id="node24" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1035,661,1212,688"/>
+<area shape="rect" id="node27" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="2962,661,3130,688"/>
+<area shape="rect" id="node33" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2315,661,2455,688"/>
+<area shape="rect" id="node34" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="523,661,655,688"/>
+<area shape="rect" id="node38" href="$MCSchedule_8h.html" title="llvm/MC/MCSchedule.h" alt="" coords="2112,430,2273,457"/>
+<area shape="rect" id="node39" href="$HardwareUnit_8h.html" title="This file defines a base class for describing a simulated hardware unit. " alt="" coords="2461,423,2631,464"/>
+<area shape="rect" id="node40" href="$LSUnit_8h.html" title="A Load/Store unit class that models load/store queues and that implements a simple weak memory consis..." alt="" coords="2091,333,2262,375"/>
+<area shape="rect" id="node44" href="$ResourceManager_8h.html" title="The classes here represent processor resource units and their management strategy. " alt="" coords="1795,244,1966,285"/>
+<area shape="rect" id="node45" href="$MCA_2Support_8h.html" title="Helper functions used by various pipeline components. " alt="" coords="1825,341,1965,367"/>
+<area shape="rect" id="node42" href="$MCRegister_8h.html" title="llvm/MC/MCRegister.h" alt="" coords="1417,512,1573,539"/>
+<area shape="rect" id="node43" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="1597,512,1783,539"/>
+<area shape="rect" id="node46" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="2298,430,2437,457"/>
+<area shape="rect" id="node49" href="$HWEventListener_8h.html" title="This file defines the main interface for hardware event listeners. " alt="" coords="1572,251,1771,278"/>
+</map>

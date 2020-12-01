@@ -1,0 +1,4 @@
+<map id="llvm::SmallPriorityWorklist&lt; T, N &gt;" name="llvm::SmallPriorityWorklist&lt; T, N &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1PriorityWorklist.html" title="llvm::PriorityWorklist\l\&lt; T, SmallVector\&lt; T, N\l \&gt;, SmallDenseMap\&lt; T, ptrdiff_t \&gt; \&gt;" alt="" coords="5,139,240,195"/>
+<area shape="rect" id="node3" href="$classllvm_1_1PriorityWorklist.html" title="A FILO worklist that prioritizes on re&#45;insertion without duplication. " alt="" coords="48,5,197,47"/>
+</map>

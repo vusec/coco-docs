@@ -1,0 +1,6 @@
+<map id="lib/CodeGen/RegisterCoalescer.h" name="lib/CodeGen/RegisterCoalescer.h">
+<area shape="rect" id="node2" href="$LiveInterval_8cpp.html" title="lib/CodeGen/LiveInterval.cpp" alt="" coords="5,80,196,107"/>
+<area shape="rect" id="node3" href="$LiveRegMatrix_8cpp.html" title="lib/CodeGen/LiveRegMatrix.cpp" alt="" coords="220,80,427,107"/>
+<area shape="rect" id="node4" href="$RegAllocPBQP_8cpp.html" title="lib/CodeGen/RegAllocPBQP.cpp" alt="" coords="451,80,665,107"/>
+<area shape="rect" id="node5" href="$RegisterCoalescer_8cpp.html" title="lib/CodeGen/RegisterCoalescer.cpp" alt="" coords="689,80,920,107"/>
+</map>

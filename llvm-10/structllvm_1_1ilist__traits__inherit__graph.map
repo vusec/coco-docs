@@ -1,0 +1,36 @@
+<map id="llvm::ilist_traits&lt; NodeTy &gt;" name="llvm::ilist_traits&lt; NodeTy &gt;">
+<area shape="rect" id="node5" href="$structllvm_1_1ilist__traits.html" title="llvm::ilist_traits\l\&lt; llvm::IVStrideUse \&gt;" alt="" coords="704,259,853,301"/>
+<area shape="rect" id="node8" href="$structllvm_1_1ilist__traits.html" title="llvm::ilist_traits\l\&lt; llvm::SDNode \&gt;" alt="" coords="715,66,843,107"/>
+<area shape="rect" id="node11" href="$structllvm_1_1ilist__traits.html" title="llvm::ilist_traits\l\&lt; MachineBasicBlock \&gt;" alt="" coords="698,153,859,194"/>
+<area shape="rect" id="node14" href="$structllvm_1_1ilist__traits.html" title="llvm::ilist_traits\&lt; T \&gt;" alt="" coords="707,428,850,455"/>
+<area shape="rect" id="node24" href="$structllvm_1_1ilist__traits.html" title="llvm::ilist_traits\l\&lt; llvm::AliasSet \&gt;" alt="" coords="715,343,842,385"/>
+<area shape="rect" id="node26" href="$structllvm_1_1ilist__traits.html" title="llvm::ilist_traits\l\&lt; IndexListEntry \&gt;" alt="" coords="713,481,844,522"/>
+<area shape="rect" id="node28" href="$structllvm_1_1ilist__traits.html" title="llvm::ilist_traits\l\&lt; NamedMDNode \&gt;" alt="" coords="709,705,849,746"/>
+<area shape="rect" id="node30" href="$structllvm_1_1ilist__traits.html" title="llvm::ilist_traits\l\&lt; MCFragment \&gt;" alt="" coords="717,801,840,842"/>
+<area shape="rect" id="node32" href="$structllvm_1_1ilist__traits.html" title="llvm::ilist_traits\l\&lt; VPRecipeBase \&gt;" alt="" coords="711,550,846,591"/>
+<area shape="rect" id="node34" href="$structllvm_1_1ilist__traits.html" title="llvm::ilist_traits\l\&lt; llvm::PredicateBase \&gt;" alt="" coords="697,623,860,665"/>
+<area shape="rect" id="node2" href="$structllvm_1_1ilist__node__traits.html" title="A fragment for template traits for intrusive list that provides default node related operations..." alt="" coords="199,454,344,495"/>
+<area shape="rect" id="node3" href="$structllvm_1_1ilist__alloc__traits.html" title="Use delete by default for iplist and ilist. " alt="" coords="5,421,149,462"/>
+<area shape="rect" id="node4" href="$structllvm_1_1ilist__callback__traits.html" title="Callbacks do nothing by default in iplist and ilist. " alt="" coords="13,486,142,527"/>
+<area shape="rect" id="node6" href="$classllvm_1_1iplist__impl.html" title="llvm::iplist_impl\&lt;\l simple_ilist\&lt; llvm\l::IVStrideUse, Options...\l \&gt;, ilist_traits\&lt; llvm::\lIVStrideUse \&gt; \&gt;" alt="" coords="1148,184,1315,269"/>
+<area shape="rect" id="node7" href="$classllvm_1_1iplist.html" title="llvm::iplist\&lt; llvm\l::IVStrideUse \&gt;" alt="" coords="1818,175,1935,217"/>
+<area shape="rect" id="node9" href="$classllvm_1_1iplist__impl.html" title="llvm::iplist_impl\&lt;\l simple_ilist\&lt; llvm\l::SDNode, Options...\l \&gt;, ilist_traits\&lt; llvm\l::SDNode \&gt; \&gt;" alt="" coords="1159,5,1304,91"/>
+<area shape="rect" id="node10" href="$classllvm_1_1iplist.html" title="llvm::iplist\&lt; llvm\l::SDNode \&gt;" alt="" coords="1818,15,1935,57"/>
+<area shape="rect" id="node12" href="$classllvm_1_1iplist__impl.html" title="llvm::iplist_impl\&lt;\l simple_ilist\&lt; MachineBasic\lBlock, Options... \&gt;, ilist\l_traits\&lt; MachineBasicBlock \&gt; \&gt;" alt="" coords="1356,63,1565,134"/>
+<area shape="rect" id="node13" href="$classllvm_1_1iplist.html" title="llvm::iplist\&lt; MachineBasic\lBlock \&gt;" alt="" coords="1789,91,1964,133"/>
+<area shape="rect" id="node15" href="$classllvm_1_1iplist__impl.html" title="llvm::iplist_impl\&lt;\l simple_ilist\&lt; T, Options...\l \&gt;, ilist_traits\&lt; T \&gt; \&gt;" alt="" coords="920,411,1096,467"/>
+<area shape="rect" id="node16" href="$classllvm_1_1iplist.html" title="An intrusive list with ownership and callbacks specified/controlled by ilist_traits, only with API safe for polymorphic types. " alt="" coords="1377,423,1544,449"/>
+<area shape="rect" id="node17" href="$classllvm_1_1iplist.html" title="llvm::iplist\&lt; MachineInstr,\l ilist_sentinel_tracking\l\&lt; true \&gt; \&gt;" alt="" coords="1791,363,1963,419"/>
+<area shape="rect" id="node18" href="$classllvm_1_1iplist.html" title="llvm::iplist\&lt; llvm\l::AliasSet \&gt;" alt="" coords="1818,263,1935,305"/>
+<area shape="rect" id="node19" href="$classllvm_1_1iplist.html" title="llvm::iplist\&lt; IndexListEntry \&gt;" alt="" coords="1782,477,1971,504"/>
+<area shape="rect" id="node20" href="$classllvm_1_1iplist.html" title="llvm::iplist\&lt; NamedMDNode \&gt;" alt="" coords="1777,685,1976,712"/>
+<area shape="rect" id="node21" href="$classllvm_1_1iplist.html" title="llvm::iplist\&lt; MCFragment \&gt;" alt="" coords="1786,747,1967,773"/>
+<area shape="rect" id="node22" href="$classllvm_1_1iplist.html" title="llvm::iplist\&lt; VPRecipeBase \&gt;" alt="" coords="1779,560,1974,587"/>
+<area shape="rect" id="node23" href="$classllvm_1_1iplist.html" title="llvm::iplist\&lt; llvm\l::PredicateBase \&gt;" alt="" coords="1813,614,1940,655"/>
+<area shape="rect" id="node25" href="$classllvm_1_1iplist__impl.html" title="llvm::iplist_impl\&lt;\l simple_ilist\&lt; llvm\l::AliasSet, Options...\l \&gt;, ilist_traits\&lt; llvm\l::AliasSet \&gt; \&gt;" alt="" coords="1159,303,1303,388"/>
+<area shape="rect" id="node27" href="$classllvm_1_1iplist__impl.html" title="llvm::iplist_impl\&lt;\l simple_ilist\&lt; IndexListEntry,\l Options... \&gt;, ilist_traits\l\&lt; IndexListEntry \&gt; \&gt;" alt="" coords="1365,482,1556,553"/>
+<area shape="rect" id="node29" href="$classllvm_1_1iplist__impl.html" title="llvm::iplist_impl\&lt;\l simple_ilist\&lt; NamedMDNode,\l Options... \&gt;, ilist_traits\l\&lt; NamedMDNode \&gt; \&gt;" alt="" coords="1131,726,1332,797"/>
+<area shape="rect" id="node31" href="$classllvm_1_1iplist__impl.html" title="llvm::iplist_impl\&lt;\l simple_ilist\&lt; MCFragment,\l Options... \&gt;, ilist_traits\l\&lt; MCFragment \&gt; \&gt;" alt="" coords="1369,799,1552,870"/>
+<area shape="rect" id="node33" href="$classllvm_1_1iplist__impl.html" title="llvm::iplist_impl\&lt;\l simple_ilist\&lt; VPRecipeBase,\l Options... \&gt;, ilist_traits\l\&lt; VPRecipeBase \&gt; \&gt;" alt="" coords="910,542,1106,613"/>
+<area shape="rect" id="node35" href="$classllvm_1_1iplist__impl.html" title="llvm::iplist_impl\&lt;\l simple_ilist\&lt; llvm\l::PredicateBase, Options...\l \&gt;, ilist_traits\&lt; llvm::Predicate\lBase \&gt; \&gt;" alt="" coords="909,637,1107,723"/>
+</map>

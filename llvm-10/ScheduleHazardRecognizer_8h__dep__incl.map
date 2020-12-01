@@ -1,0 +1,32 @@
+<map id="include/llvm/CodeGen/ScheduleHazardRecognizer.h" name="include/llvm/CodeGen/ScheduleHazardRecognizer.h">
+<area shape="rect" id="node2" href="$ScoreboardHazardRecognizer_8h.html" title="include/llvm/CodeGen\l/ScoreboardHazardRecognizer.h" alt="" coords="442,95,653,136"/>
+<area shape="rect" id="node8" href="$PPCHazardRecognizers_8h.html" title="lib/Target/PowerPC\l/PPCHazardRecognizers.h" alt="" coords="737,184,917,225"/>
+<area shape="rect" id="node12" href="$MachineScheduler_8cpp.html" title="lib/CodeGen/MachineScheduler.cpp" alt="" coords="796,102,1027,129"/>
+<area shape="rect" id="node13" href="$PostRAHazardRecognizer_8cpp.html" title="This runs the hazard recognizer and emits noops when necessary. " alt="" coords="1051,95,1238,136"/>
+<area shape="rect" id="node14" href="$PostRASchedulerList_8cpp.html" title="lib/CodeGen/PostRAScheduler\lList.cpp" alt="" coords="1262,95,1465,136"/>
+<area shape="rect" id="node15" href="$ScheduleDAG_8cpp.html" title="lib/CodeGen/ScheduleDAG.cpp" alt="" coords="1489,102,1696,129"/>
+<area shape="rect" id="node16" href="$ScheduleDAGRRList_8cpp.html" title="lib/CodeGen/SelectionDAG\l/ScheduleDAGRRList.cpp" alt="" coords="1721,95,1902,136"/>
+<area shape="rect" id="node17" href="$ScheduleDAGVLIW_8cpp.html" title="lib/CodeGen/SelectionDAG\l/ScheduleDAGVLIW.cpp" alt="" coords="1926,95,2107,136"/>
+<area shape="rect" id="node18" href="$GCNHazardRecognizer_8h.html" title="lib/Target/AMDGPU/GCNHazard\lRecognizer.h" alt="" coords="2132,95,2347,136"/>
+<area shape="rect" id="node21" href="$HexagonHazardRecognizer_8h.html" title="lib/Target/Hexagon\l/HexagonHazardRecognizer.h" alt="" coords="2371,95,2569,136"/>
+<area shape="rect" id="node24" href="$HexagonMachineScheduler_8h.html" title="lib/Target/Hexagon\l/HexagonMachineScheduler.h" alt="" coords="2644,95,2840,136"/>
+<area shape="rect" id="node25" href="$HexagonMachineScheduler_8cpp.html" title="lib/Target/Hexagon\l/HexagonMachineScheduler.cpp" alt="" coords="2603,184,2814,225"/>
+<area shape="rect" id="node27" href="$SystemZHazardRecognizer_8h.html" title="lib/Target/SystemZ\l/SystemZHazardRecognizer.h" alt="" coords="3059,95,3257,136"/>
+<area shape="rect" id="node3" href="$ScoreboardHazardRecognizer_8cpp.html" title="lib/CodeGen/ScoreboardHazard\lRecognizer.cpp" alt="" coords="5,184,212,225"/>
+<area shape="rect" id="node4" href="$TargetInstrInfo_8cpp.html" title="lib/CodeGen/TargetInstrInfo.cpp" alt="" coords="237,191,445,218"/>
+<area shape="rect" id="node5" href="$ARMHazardRecognizer_8h.html" title="lib/Target/ARM/ARMHazard\lRecognizer.h" alt="" coords="519,184,706,225"/>
+<area shape="rect" id="node6" href="$ARMBaseInstrInfo_8cpp.html" title="lib/Target/ARM/ARMBaseInstr\lInfo.cpp" alt="" coords="295,273,495,315"/>
+<area shape="rect" id="node7" href="$ARMHazardRecognizer_8cpp.html" title="lib/Target/ARM/ARMHazard\lRecognizer.cpp" alt="" coords="519,273,706,315"/>
+<area shape="rect" id="node9" href="$PPCHazardRecognizers_8cpp.html" title="lib/Target/PowerPC\l/PPCHazardRecognizers.cpp" alt="" coords="730,273,925,315"/>
+<area shape="rect" id="node10" href="$PPCInstrInfo_8cpp.html" title="lib/Target/PowerPC\l/PPCInstrInfo.cpp" alt="" coords="949,273,1085,315"/>
+<area shape="rect" id="node11" href="$PPCVSXCopy_8cpp.html" title="lib/Target/PowerPC\l/PPCVSXCopy.cpp" alt="" coords="1109,273,1247,315"/>
+<area shape="rect" id="node19" href="$GCNHazardRecognizer_8cpp.html" title="lib/Target/AMDGPU/GCNHazard\lRecognizer.cpp" alt="" coords="1747,184,1961,225"/>
+<area shape="rect" id="node20" href="$SIInstrInfo_8cpp.html" title="SI Implementation of TargetInstrInfo. " alt="" coords="1985,184,2168,225"/>
+<area shape="rect" id="node22" href="$HexagonHazardRecognizer_8cpp.html" title="lib/Target/Hexagon\l/HexagonHazardRecognizer.cpp" alt="" coords="2193,184,2403,225"/>
+<area shape="rect" id="node23" href="$HexagonInstrInfo_8cpp.html" title="lib/Target/Hexagon\l/HexagonInstrInfo.cpp" alt="" coords="2428,184,2579,225"/>
+<area shape="rect" id="node26" href="$HexagonTargetMachine_8cpp.html" title="lib/Target/Hexagon\l/HexagonTargetMachine.cpp" alt="" coords="2838,184,3027,225"/>
+<area shape="rect" id="node28" href="$SystemZHazardRecognizer_8cpp.html" title="lib/Target/SystemZ\l/SystemZHazardRecognizer.cpp" alt="" coords="3052,184,3264,225"/>
+<area shape="rect" id="node29" href="$SystemZMachineScheduler_8h.html" title="lib/Target/SystemZ\l/SystemZMachineScheduler.h" alt="" coords="3289,184,3486,225"/>
+<area shape="rect" id="node30" href="$SystemZMachineScheduler_8cpp.html" title="lib/Target/SystemZ\l/SystemZMachineScheduler.cpp" alt="" coords="3169,273,3379,315"/>
+<area shape="rect" id="node31" href="$SystemZTargetMachine_8cpp.html" title="lib/Target/SystemZ\l/SystemZTargetMachine.cpp" alt="" coords="3404,273,3595,315"/>
+</map>

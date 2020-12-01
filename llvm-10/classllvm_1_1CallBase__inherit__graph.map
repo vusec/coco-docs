@@ -1,0 +1,46 @@
+<map id="llvm::CallBase" name="llvm::CallBase">
+<area shape="rect" id="node18" href="$classllvm_1_1CallBrInst.html" title="CallBr instruction, tracking function calls that may not return control but instead transfer it to a ..." alt="" coords="2379,613,2491,640"/>
+<area shape="rect" id="node19" href="$classllvm_1_1CallInst.html" title="This class represents a function call, abstracting a target machine&#39;s calling convention. " alt="" coords="2385,664,2484,691"/>
+<area shape="rect" id="node49" href="$classllvm_1_1InvokeInst.html" title="Invoke instruction. " alt="" coords="2377,715,2492,741"/>
+<area shape="rect" id="node2" href="$classllvm_1_1Instruction.html" title="llvm::Instruction" alt="" coords="2057,664,2172,691"/>
+<area shape="rect" id="node3" href="$classllvm_1_1User.html" title="llvm::User" alt="" coords="1895,631,1978,657"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="1516,631,1603,657"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ilist__node__with__parent.html" title="llvm::ilist_node_with\l_parent\&lt; Instruction,\l BasicBlock \&gt;" alt="" coords="1865,681,2008,737"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Instruction,\l Options... \&gt;" alt="" coords="1229,754,1416,795"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; Instruction,\l Options... \&gt;::type \&gt;" alt="" coords="657,797,840,867"/>
+<area shape="rect" id="node9" href="$classllvm_1_1ilist__node__impl.html" title="Implementation for an ilist node. " alt="" coords="265,706,405,747"/>
+<area shape="rect" id="node12" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; T, Options...\l \&gt;::type \&gt;" alt="" coords="653,702,844,773"/>
+<area shape="rect" id="node16" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; NodeTy,\l Options... \&gt;::type \&gt;" alt="" coords="665,607,833,678"/>
+<area shape="rect" id="node11" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; T,\l Options \&gt;" alt="" coords="893,717,1027,758"/>
+<area shape="rect" id="node15" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; NodeTy,\l Options... \&gt;" alt="" coords="1237,689,1408,730"/>
+<area shape="rect" id="node14" href="$classllvm_1_1ilist__node__with__parent.html" title="An ilist node that can access its parent list. " alt="" coords="1465,681,1653,737"/>
+<area shape="rect" id="node20" href="$classllvm_1_1IntrinsicInst.html" title="A wrapper class for inspecting calls to intrinsic functions. " alt="" coords="2541,664,2664,691"/>
+<area shape="rect" id="node21" href="$classllvm_1_1AnyCoroIdInst.html" title="This represents a common base class for llvm.coro.id instructions. " alt="" coords="2742,5,2881,32"/>
+<area shape="rect" id="node23" href="$classllvm_1_1AnyCoroSuspendInst.html" title="llvm::AnyCoroSuspendInst" alt="" coords="2722,56,2901,83"/>
+<area shape="rect" id="node24" href="$classllvm_1_1BinaryOpIntrinsic.html" title="This class represents an intrinsic that is based on a binary operation. " alt="" coords="2734,107,2889,133"/>
+<area shape="rect" id="node25" href="$classllvm_1_1ConstrainedFPIntrinsic.html" title="This is the common base class for constrained floating point intrinsics. " alt="" coords="2718,157,2905,184"/>
+<area shape="rect" id="node26" href="$classllvm_1_1CoroAllocaAllocInst.html" title="This represents the llvm.coro.alloca.alloc instruction. " alt="" coords="2727,208,2896,235"/>
+<area shape="rect" id="node27" href="$classllvm_1_1CoroAllocaFreeInst.html" title="This represents the llvm.coro.alloca.free instruction. " alt="" coords="2728,259,2895,285"/>
+<area shape="rect" id="node28" href="$classllvm_1_1CoroAllocaGetInst.html" title="This represents the llvm.coro.alloca.get instruction. " alt="" coords="2731,309,2892,336"/>
+<area shape="rect" id="node29" href="$classllvm_1_1CoroAllocInst.html" title="This represents the llvm.coro.alloc instruction. " alt="" coords="2745,360,2878,387"/>
+<area shape="rect" id="node30" href="$classllvm_1_1CoroBeginInst.html" title="This class represents the llvm.coro.begin instruction. " alt="" coords="2743,411,2880,437"/>
+<area shape="rect" id="node31" href="$classllvm_1_1CoroEndInst.html" title="This represents the llvm.coro.end instruction. " alt="" coords="2748,461,2875,488"/>
+<area shape="rect" id="node32" href="$classllvm_1_1CoroFrameInst.html" title="This represents the llvm.coro.frame instruction. " alt="" coords="2741,512,2882,539"/>
+<area shape="rect" id="node33" href="$classllvm_1_1CoroFreeInst.html" title="This represents the llvm.coro.free instruction. " alt="" coords="2746,563,2877,589"/>
+<area shape="rect" id="node34" href="$classllvm_1_1CoroPromiseInst.html" title="This represents the llvm.coro.promise instruction. " alt="" coords="2735,613,2887,640"/>
+<area shape="rect" id="node35" href="$classllvm_1_1CoroSaveInst.html" title="This represents the llvm.coro.save instruction. " alt="" coords="2744,664,2879,691"/>
+<area shape="rect" id="node36" href="$classllvm_1_1CoroSizeInst.html" title="This represents the llvm.coro.size instruction. " alt="" coords="2746,715,2877,741"/>
+<area shape="rect" id="node37" href="$classllvm_1_1CoroSubFnInst.html" title="This class represents the llvm.coro.subfn.addr instruction. " alt="" coords="2740,765,2883,792"/>
+<area shape="rect" id="node38" href="$classllvm_1_1DbgInfoIntrinsic.html" title="This is the common base class for debug info intrinsics. " alt="" coords="2738,816,2885,843"/>
+<area shape="rect" id="node39" href="$classllvm_1_1GCProjectionInst.html" title="Common base class for representing values projected from a statepoint. " alt="" coords="2734,867,2889,893"/>
+<area shape="rect" id="node40" href="$classllvm_1_1InstrProfIncrementInst.html" title="This represents the llvm.instrprof_increment intrinsic. " alt="" coords="2719,917,2903,944"/>
+<area shape="rect" id="node41" href="$classllvm_1_1InstrProfValueProfileInst.html" title="This represents the llvm.instrprof_value_profile intrinsic. " alt="" coords="2713,968,2909,995"/>
+<area shape="rect" id="node42" href="$classllvm_1_1MemIntrinsicBase.html" title="Common base class for all memory intrinsics. " alt="" coords="2732,1122,2891,1163"/>
+<area shape="rect" id="node43" href="$classllvm_1_1MemIntrinsicBase.html" title="llvm::MemIntrinsicBase\l\&lt; MemIntrinsic \&gt;" alt="" coords="3113,1035,3272,1077"/>
+<area shape="rect" id="node44" href="$classllvm_1_1MemIntrinsicBase.html" title="llvm::MemIntrinsicBase\l\&lt; AtomicMemIntrinsic \&gt;" alt="" coords="3111,1190,3274,1231"/>
+<area shape="rect" id="node45" href="$classllvm_1_1MemIntrinsicBase.html" title="llvm::MemIntrinsicBase\l\&lt; AnyMemIntrinsic \&gt;" alt="" coords="3113,1113,3272,1154"/>
+<area shape="rect" id="node46" href="$classllvm_1_1VACopyInst.html" title="This represents the llvm.va_copy intrinsic. " alt="" coords="2749,1256,2874,1283"/>
+<area shape="rect" id="node47" href="$classllvm_1_1VAEndInst.html" title="This represents the llvm.va_end intrinsic. " alt="" coords="2753,1307,2870,1333"/>
+<area shape="rect" id="node48" href="$classllvm_1_1VAStartInst.html" title="This represents the llvm.va_start intrinsic. " alt="" coords="2750,1357,2873,1384"/>
+<area shape="rect" id="node22" href="$classllvm_1_1AnyCoroIdRetconInst.html" title="This represents either the llvm.coro.id.retcon or llvm.coro.id.retcon.once instruction. " alt="" coords="3103,5,3283,32"/>
+</map>

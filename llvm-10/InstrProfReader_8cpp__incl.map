@@ -1,0 +1,32 @@
+<map id="lib/ProfileData/InstrProfReader.cpp" name="lib/ProfileData/InstrProfReader.cpp">
+<area shape="rect" id="node2" href="$InstrProfReader_8h.html" title="llvm/ProfileData/InstrProf\lReader.h" alt="" coords="3115,95,3285,136"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="4479,259,4623,285"/>
+<area shape="rect" id="node7" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="803,483,1005,509"/>
+<area shape="rect" id="node26" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3968,333,4123,360"/>
+<area shape="rect" id="node34" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2347,259,2493,285"/>
+<area shape="rect" id="node35" href="$ProfileSummary_8h.html" title="llvm/IR/ProfileSummary.h" alt="" coords="5271,259,5443,285"/>
+<area shape="rect" id="node36" href="$InstrProf_8h.html" title="llvm/ProfileData/InstrProf.h" alt="" coords="3049,184,3229,211"/>
+<area shape="rect" id="node37" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="763,333,914,360"/>
+<area shape="rect" id="node38" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="3811,259,3949,285"/>
+<area shape="rect" id="node39" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer. " alt="" coords="1293,333,1445,360"/>
+<area shape="rect" id="node42" href="$MemoryBuffer_8h.html" title="llvm/Support/MemoryBuffer.h" alt="" coords="2089,184,2281,211"/>
+<area shape="rect" id="node44" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1860,102,2015,129"/>
+<area shape="rect" id="node48" href="$ProfileCommon_8h.html" title="llvm/ProfileData/Profile\lCommon.h" alt="" coords="5137,95,5293,136"/>
+<area shape="rect" id="node49" href="$SymbolRemappingReader_8h.html" title="llvm/Support/SymbolRemapping\lReader.h" alt="" coords="2395,95,2605,136"/>
+<area shape="rect" id="node41" href="$LineIterator_8h.html" title="llvm/Support/LineIterator.h" alt="" coords="4127,184,4302,211"/>
+<area shape="rect" id="node43" href="$OnDiskHashTable_8h.html" title="Defines facilities for reading and writing on&#45;disk hash tables. " alt="" coords="1875,333,2093,360"/>
+<area shape="rect" id="node4" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="2958,408,3098,435"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2535,557,2697,584"/>
+<area shape="rect" id="node15" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="4796,483,4919,509"/>
+<area shape="rect" id="node16" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3561,333,3724,360"/>
+<area shape="rect" id="node5" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="3173,483,3363,509"/>
+<area shape="rect" id="node10" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2877,483,3048,509"/>
+<area shape="rect" id="node17" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="5841,483,6012,509"/>
+<area shape="rect" id="node19" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1158,408,1311,435"/>
+<area shape="rect" id="node20" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1814,408,1991,435"/>
+<area shape="rect" id="node27" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3969,408,4109,435"/>
+<area shape="rect" id="node28" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="5727,408,5859,435"/>
+<area shape="rect" id="node45" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="2458,184,2635,211"/>
+<area shape="rect" id="node46" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="2320,333,2493,360"/>
+<area shape="rect" id="node47" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="1491,259,1698,285"/>
+</map>

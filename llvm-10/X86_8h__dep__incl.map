@@ -1,0 +1,51 @@
+<map id="lib/Target/X86/X86.h" name="lib/Target/X86/X86.h">
+<area shape="rect" id="node2" href="$X86InstrFMA3Info_8h.html" title="lib/Target/X86/X86InstrFMA3\lInfo.h" alt="" coords="4482,80,4673,121"/>
+<area shape="rect" id="node8" href="$X86AvoidTrailingCall_8cpp.html" title="lib/Target/X86/X86AvoidTrailing\lCall.cpp" alt="" coords="245,333,451,375"/>
+<area shape="rect" id="node12" href="$X86CondBrFolding_8cpp.html" title="lib/Target/X86/X86CondBr\lFolding.cpp" alt="" coords="475,333,650,375"/>
+<area shape="rect" id="node13" href="$X86DiscriminateMemOps_8cpp.html" title="lib/Target/X86/X86Discriminate\lMemOps.cpp" alt="" coords="675,333,877,375"/>
+<area shape="rect" id="node14" href="$X86DomainReassignment_8cpp.html" title="lib/Target/X86/X86Domain\lReassignment.cpp" alt="" coords="902,333,1077,375"/>
+<area shape="rect" id="node15" href="$X86EvexToVex_8cpp.html" title="This file defines the pass that goes over all AVX&#45;512 instructions which are encoded using the EVEX p..." alt="" coords="1101,333,1275,375"/>
+<area shape="rect" id="node16" href="$X86ExpandPseudo_8cpp.html" title="lib/Target/X86/X86Expand\lPseudo.cpp" alt="" coords="1299,333,1474,375"/>
+<area shape="rect" id="node17" href="$X86FastISel_8cpp.html" title="lib/Target/X86/X86FastISel.cpp" alt="" coords="1211,430,1415,457"/>
+<area shape="rect" id="node20" href="$X86InstrInfo_8cpp.html" title="lib/Target/X86/X86InstrInfo.cpp" alt="" coords="4783,430,4985,457"/>
+<area shape="rect" id="node22" href="$X86ISelDAGToDAG_8cpp.html" title="lib/Target/X86/X86ISelDAGTo\lDAG.cpp" alt="" coords="2783,423,2980,464"/>
+<area shape="rect" id="node24" href="$X86Subtarget_8cpp.html" title="lib/Target/X86/X86Subtarget.cpp" alt="" coords="3725,430,3936,457"/>
+<area shape="rect" id="node25" href="$X86TargetMachine_8cpp.html" title="lib/Target/X86/X86Target\lMachine.cpp" alt="" coords="4485,512,4651,553"/>
+<area shape="rect" id="node26" href="$X86TargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the X86 target machine..." alt="" coords="5010,423,5177,464"/>
+<area shape="rect" id="node28" href="$X86FixupBWInsts_8cpp.html" title="This file defines the pass that looks through the machine instructions late in the compilation..." alt="" coords="1498,341,1737,367"/>
+<area shape="rect" id="node29" href="$X86FixupLEAs_8cpp.html" title="lib/Target/X86/X86FixupLEAs.cpp" alt="" coords="1761,341,1980,367"/>
+<area shape="rect" id="node30" href="$X86FixupSetCC_8cpp.html" title="lib/Target/X86/X86FixupSet\lCC.cpp" alt="" coords="4603,333,4786,375"/>
+<area shape="rect" id="node31" href="$X86FlagsCopyLowering_8cpp.html" title="Lowers COPY nodes of EFLAGS by directly extracting and preserving individual flag bits..." alt="" coords="4810,333,5003,375"/>
+<area shape="rect" id="node32" href="$X86IndirectBranchTracking_8cpp.html" title="lib/Target/X86/X86Indirect\lBranchTracking.cpp" alt="" coords="5028,333,5201,375"/>
+<area shape="rect" id="node33" href="$X86InsertPrefetch_8cpp.html" title="lib/Target/X86/X86Insert\lPrefetch.cpp" alt="" coords="5225,333,5388,375"/>
+<area shape="rect" id="node36" href="$X86OptimizeLEAs_8cpp.html" title="lib/Target/X86/X86Optimize\lLEAs.cpp" alt="" coords="5413,333,5595,375"/>
+<area shape="rect" id="node37" href="$X86PadShortFunction_8cpp.html" title="lib/Target/X86/X86PadShort\lFunction.cpp" alt="" coords="5620,333,5804,375"/>
+<area shape="rect" id="node39" href="$X86RetpolineThunks_8cpp.html" title="Pass that injects an MI thunk implementing a &quot;retpoline&quot;. " alt="" coords="6565,333,6750,375"/>
+<area shape="rect" id="node41" href="$X86SpeculativeLoadHardening_8cpp.html" title="Provide a pass which mitigates speculative execution attacks which operate by speculating incorrectly..." alt="" coords="5829,333,6027,375"/>
+<area shape="rect" id="node42" href="$X86VZeroUpper_8cpp.html" title="lib/Target/X86/X86VZeroUpper.cpp" alt="" coords="6051,341,6277,367"/>
+<area shape="rect" id="node43" href="$X86WinAllocaExpander_8cpp.html" title="lib/Target/X86/X86WinAlloca\lExpander.cpp" alt="" coords="6351,333,6540,375"/>
+<area shape="rect" id="node44" href="$X86CmovConversion_8cpp.html" title="This file implements a pass that converts X86 cmov instructions into branches when profitable..." alt="" coords="4697,251,4953,278"/>
+<area shape="rect" id="node45" href="$X86FloatingPoint_8cpp.html" title="lib/Target/X86/X86Floating\lPoint.cpp" alt="" coords="4977,244,5153,285"/>
+<area shape="rect" id="node50" href="$X86WinEHState_8cpp.html" title="lib/Target/X86/X86WinEHState.cpp" alt="" coords="7029,87,7257,114"/>
+<area shape="rect" id="node3" href="$X86InstrInfo_8h.html" title="lib/Target/X86/X86InstrInfo.h" alt="" coords="3453,169,3643,196"/>
+<area shape="rect" id="node46" href="$X86InstrFMA3Info_8cpp.html" title="lib/Target/X86/X86InstrFMA3\lInfo.cpp" alt="" coords="4482,244,4673,285"/>
+<area shape="rect" id="node4" href="$X86Subtarget_8h.html" title="lib/Target/X86/X86Subtarget.h" alt="" coords="3519,251,3716,278"/>
+<area shape="rect" id="node6" href="$X86AsmPrinter_8cpp.html" title="lib/Target/X86/X86AsmPrinter.cpp" alt="" coords="4538,430,4758,457"/>
+<area shape="rect" id="node7" href="$X86AvoidStoreForwardingBlocks_8cpp.html" title="lib/Target/X86/X86AvoidStore\lForwardingBlocks.cpp" alt="" coords="2004,333,2199,375"/>
+<area shape="rect" id="node9" href="$X86CallFrameOptimization_8cpp.html" title="lib/Target/X86/X86CallFrame\lOptimization.cpp" alt="" coords="2223,333,2414,375"/>
+<area shape="rect" id="node11" href="$X86CallLowering_8cpp.html" title="This file implements the lowering of LLVM calls to machine code calls for GlobalISel. " alt="" coords="2438,341,2669,367"/>
+<area shape="rect" id="node19" href="$X86FrameLowering_8cpp.html" title="lib/Target/X86/X86FrameLowering.cpp" alt="" coords="4270,430,4514,457"/>
+<area shape="rect" id="node21" href="$X86InstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for X86. " alt="" coords="3005,423,3195,464"/>
+<area shape="rect" id="node40" href="$X86SelectionDAGInfo_8cpp.html" title="lib/Target/X86/X86Selection\lDAGInfo.cpp" alt="" coords="2693,333,2877,375"/>
+<area shape="rect" id="node47" href="$X86InstrFoldTables_8cpp.html" title="lib/Target/X86/X86InstrFold\lTables.cpp" alt="" coords="1705,244,1887,285"/>
+<area shape="rect" id="node48" href="$X86IntrinsicsInfo_8h.html" title="lib/Target/X86/X86Intrinsics\lInfo.h" alt="" coords="1911,244,2094,285"/>
+<area shape="rect" id="node49" href="$X86RegisterBankInfo_8cpp.html" title="This file implements the targeting of the RegisterBankInfo class for X86. " alt="" coords="2119,244,2297,285"/>
+<area shape="rect" id="node5" href="$X86AsmPrinter_8h.html" title="lib/Target/X86/X86AsmPrinter.h" alt="" coords="4321,341,4527,367"/>
+<area shape="rect" id="node10" href="$X86CallingConv_8cpp.html" title="lib/Target/X86/X86Calling\lConv.cpp" alt="" coords="3731,333,3901,375"/>
+<area shape="rect" id="node18" href="$X86TargetMachine_8h.html" title="lib/Target/X86/X86Target\lMachine.h" alt="" coords="3977,333,4143,375"/>
+<area shape="rect" id="node23" href="$X86LegalizerInfo_8cpp.html" title="This file implements the targeting of the Machinelegalizer class for X86. " alt="" coords="4011,423,4194,464"/>
+<area shape="rect" id="node34" href="$X86InterleavedAccess_8cpp.html" title="This file contains the X86 implementation of the interleaved accesses optimization generating X86&#45;spe..." alt="" coords="3053,333,3248,375"/>
+<area shape="rect" id="node35" href="$X86MacroFusion_8cpp.html" title="lib/Target/X86/X86MacroFusion.cpp" alt="" coords="3273,341,3503,367"/>
+<area shape="rect" id="node38" href="$X86RegisterInfo_8cpp.html" title="lib/Target/X86/X86Register\lInfo.cpp" alt="" coords="3528,333,3707,375"/>
+<area shape="rect" id="node27" href="$X86TargetTransformInfo_8cpp.html" title="This file implements a TargetTransformInfo analysis pass specific to the X86 target machine..." alt="" coords="5010,512,5177,553"/>
+</map>

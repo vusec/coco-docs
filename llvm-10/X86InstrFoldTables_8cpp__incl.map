@@ -1,0 +1,33 @@
+<map id="lib/Target/X86/X86InstrFoldTables.cpp" name="lib/Target/X86/X86InstrFoldTables.cpp">
+<area shape="rect" id="node2" href="$X86InstrFoldTables_8h.html" title="X86InstrFoldTables.h" alt="" coords="99,177,245,203"/>
+<area shape="rect" id="node5" href="$X86InstrInfo_8h.html" title="X86InstrInfo.h" alt="" coords="1316,95,1420,121"/>
+<area shape="rect" id="node18" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2751,900,2905,927"/>
+<area shape="rect" id="node3" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="57,676,231,703"/>
+<area shape="rect" id="node4" href="$c_2DataTypes_8h.html" title="llvm&#45;c/DataTypes.h" alt="" coords="76,751,212,777"/>
+<area shape="rect" id="node6" href="$X86BaseInfo_8h.html" title="MCTargetDesc/X86BaseInfo.h" alt="" coords="298,527,499,553"/>
+<area shape="rect" id="node12" href="$X86InstrFMA3Info_8h.html" title="X86InstrFMA3Info.h" alt="" coords="3073,601,3212,628"/>
+<area shape="rect" id="node38" href="$X86RegisterInfo_8h.html" title="X86RegisterInfo.h" alt="" coords="554,266,681,293"/>
+<area shape="rect" id="node43" href="$ISDOpcodes_8h.html" title="llvm/CodeGen/ISDOpcodes.h" alt="" coords="436,177,631,203"/>
+<area shape="rect" id="node45" href="$TargetInstrInfo_8h.html" title="llvm/CodeGen/TargetInstr\lInfo.h" alt="" coords="1933,169,2105,211"/>
+<area shape="rect" id="node7" href="$X86MCTargetDesc_8h.html" title="X86MCTargetDesc.h" alt="" coords="333,601,478,628"/>
+<area shape="rect" id="node10" href="$MCInstrDesc_8h.html" title="llvm/MC/MCInstrDesc.h" alt="" coords="145,601,309,628"/>
+<area shape="rect" id="node11" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="959,975,1148,1001"/>
+<area shape="rect" id="node13" href="$X86_8h.html" title="X86.h" alt="" coords="3135,676,3191,703"/>
+<area shape="rect" id="node14" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2499,676,2653,703"/>
+<area shape="rect" id="node15" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="2983,751,3161,777"/>
+<area shape="rect" id="node16" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2756,825,2900,852"/>
+<area shape="rect" id="node17" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="3505,1049,3628,1076"/>
+<area shape="rect" id="node19" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2802,975,2942,1001"/>
+<area shape="rect" id="node23" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="2319,975,2451,1001"/>
+<area shape="rect" id="node24" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1791,1049,1961,1076"/>
+<area shape="rect" id="node39" href="$TargetRegisterInfo_8h.html" title="llvm/CodeGen/TargetRegister\lInfo.h" alt="" coords="925,348,1120,389"/>
+<area shape="rect" id="node40" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="1246,437,1437,479"/>
+<area shape="rect" id="node41" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="1877,527,2072,553"/>
+<area shape="rect" id="node42" href="$MachineOperand_8h.html" title="llvm/CodeGen/MachineOperand.h" alt="" coords="1668,601,1887,628"/>
+<area shape="rect" id="node44" href="$ValueTypes_8h.html" title="llvm/CodeGen/ValueTypes.h" alt="" coords="695,900,884,927"/>
+<area shape="rect" id="node46" href="$LiveRegUnits_8h.html" title="A set of register units. " alt="" coords="1015,266,1214,293"/>
+<area shape="rect" id="node47" href="$MIRFormatter_8h.html" title="llvm/CodeGen/MIRFormatter.h" alt="" coords="1918,445,2119,471"/>
+<area shape="rect" id="node48" href="$MachineCombinerPattern_8h.html" title="llvm/CodeGen/MachineCombiner\lPattern.h" alt="" coords="3119,259,3334,300"/>
+<area shape="rect" id="node49" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="2175,355,2393,382"/>
+<area shape="rect" id="node50" href="$MachineInstrBuilder_8h.html" title="llvm/CodeGen/MachineInstr\lBuilder.h" alt="" coords="1608,259,1792,300"/>
+</map>

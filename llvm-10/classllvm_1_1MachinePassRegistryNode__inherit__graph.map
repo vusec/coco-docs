@@ -1,0 +1,12 @@
+<map id="llvm::MachinePassRegistryNode&lt; PassCtorTy &gt;" name="llvm::MachinePassRegistryNode&lt; PassCtorTy &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1MachinePassRegistryNode.html" title="llvm::MachinePassRegistry\lNode\&lt; ScheduleDAGInstrs\l *(*)(MachineSchedContext *)\&gt;" alt="" coords="418,5,619,61"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MachinePassRegistryNode.html" title="llvm::MachinePassRegistry\lNode\&lt; ScheduleDAGCtor \&gt;" alt="" coords="426,86,611,127"/>
+<area shape="rect" id="node5" href="$classllvm_1_1MachinePassRegistryNode.html" title="llvm::MachinePassRegistry\lNode\&lt; ScheduleDAGSDNodes\l *(*)(SelectionDAGISel *,\l CodeGenOpt::Level)\&gt;" alt="" coords="416,151,621,222"/>
+<area shape="rect" id="node7" href="$classllvm_1_1MachinePassRegistryNode.html" title="llvm::MachinePassRegistry\lNode\&lt; FunctionPass *(*)()\&gt;" alt="" coords="427,246,610,287"/>
+<area shape="rect" id="node11" href="$classllvm_1_1MachinePassRegistryNode.html" title="llvm::MachinePassRegistry\lNode\&lt; FunctionPassCtor \&gt;" alt="" coords="427,311,610,353"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MachineSchedRegistry.html" title="MachineSchedRegistry provides a selection of available machine instruction schedulers. " alt="" coords="671,20,860,47"/>
+<area shape="rect" id="node6" href="$classllvm_1_1RegisterScheduler.html" title="llvm::RegisterScheduler" alt="" coords="685,173,846,200"/>
+<area shape="rect" id="node8" href="$classllvm_1_1RegisterRegAllocBase.html" title="RegisterRegAllocBase class &#45; Track the registration of register allocators. " alt="" coords="672,235,859,277"/>
+<area shape="rect" id="node9" href="$classllvm_1_1RegisterRegAllocBase.html" title="llvm::RegisterRegAllocBase\l\&lt; RegisterRegAlloc \&gt;" alt="" coords="1039,273,1225,314"/>
+<area shape="rect" id="node10" href="$classllvm_1_1RegisterRegAlloc.html" title="llvm::RegisterRegAlloc" alt="" coords="1275,280,1431,307"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="lib/Target/RISCV/Utils/RISCVBaseInfo.h" name="lib/Target/RISCV/Utils/RISCVBaseInfo.h">
+<area shape="rect" id="node2" href="$RISCVRegisterInfo_8h.html" title="RISCVRegisterInfo.h" alt="" coords="3256,95,3402,121"/>
+<area shape="rect" id="node31" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="658,266,805,293"/>
+<area shape="rect" id="node39" href="$RISCVMCTargetDesc_8h.html" title="MCTargetDesc/RISCVMCTarget\lDesc.h" alt="" coords="4708,169,4923,211"/>
+<area shape="rect" id="node46" href="$StringSwitch_8h.html" title="llvm/ADT/StringSwitch.h" alt="" coords="115,177,282,203"/>
+<area shape="rect" id="node47" href="$MCInstrDesc_8h.html" title="llvm/MC/MCInstrDesc.h" alt="" coords="3790,177,3954,203"/>
+<area shape="rect" id="node48" href="$SubtargetFeature_8h.html" title="llvm/MC/SubtargetFeature.h" alt="" coords="938,177,1125,203"/>
+<area shape="rect" id="node3" href="$TargetRegisterInfo_8h.html" title="llvm/CodeGen/TargetRegister\lInfo.h" alt="" coords="3232,169,3426,211"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2038,266,2182,293"/>
+<area shape="rect" id="node5" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1444,355,1606,382"/>
+<area shape="rect" id="node6" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3004,512,3174,539"/>
+<area shape="rect" id="node10" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="692,437,870,464"/>
+<area shape="rect" id="node16" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2862,437,3052,464"/>
+<area shape="rect" id="node32" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="3743,259,3934,300"/>
+<area shape="rect" id="node33" href="$LaneBitmask_8h.html" title="A common definition of LaneBitmask for use in TableGen and CodeGen. " alt="" coords="3769,437,3932,464"/>
+<area shape="rect" id="node34" href="$Printable_8h.html" title="llvm/Support/Printable.h" alt="" coords="4224,512,4386,539"/>
+<area shape="rect" id="node35" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="3500,355,3678,382"/>
+<area shape="rect" id="node36" href="$CallingConv_8h.html" title="llvm/IR/CallingConv.h" alt="" coords="3367,266,3518,293"/>
+<area shape="rect" id="node37" href="$MachineValueType_8h.html" title="llvm/Support/MachineValue\lType.h" alt="" coords="2857,348,3038,389"/>
+<area shape="rect" id="node9" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="852,512,1014,539"/>
+<area shape="rect" id="node22" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1868,355,2022,382"/>
+<area shape="rect" id="node23" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="1047,437,1187,464"/>
+<area shape="rect" id="node24" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="2402,437,2534,464"/>
+<area shape="rect" id="node41" href="$MCTargetOptions_8h.html" title="llvm/MC/MCTargetOptions.h" alt="" coords="4148,266,4337,293"/>
+<area shape="rect" id="node42" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="4463,266,4638,293"/>
+<area shape="rect" id="node43" href="$c_2DataTypes_8h.html" title="llvm&#45;c/DataTypes.h" alt="" coords="4482,355,4618,382"/>
+</map>

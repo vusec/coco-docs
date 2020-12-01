@@ -1,0 +1,11 @@
+<map id="include/llvm/Analysis/LazyBranchProbabilityInfo.h" name="include/llvm/Analysis/LazyBranchProbabilityInfo.h">
+<area shape="rect" id="node2" href="$LazyBlockFrequencyInfo_8h.html" title="include/llvm/Analysis\l/LazyBlockFrequencyInfo.h" alt="" coords="570,95,751,136"/>
+<area shape="rect" id="node3" href="$LazyBlockFrequencyInfo_8cpp.html" title="lib/Analysis/LazyBlockFrequency\lInfo.cpp" alt="" coords="5,184,220,225"/>
+<area shape="rect" id="node10" href="$LazyBranchProbabilityInfo_8cpp.html" title="lib/Analysis/LazyBranchProbability\lInfo.cpp" alt="" coords="776,95,999,136"/>
+<area shape="rect" id="node4" href="$OptimizationRemarkEmitter_8cpp.html" title="lib/Analysis/Optimization\lRemarkEmitter.cpp" alt="" coords="244,184,411,225"/>
+<area shape="rect" id="node5" href="$ExpandMemCmp_8cpp.html" title="lib/CodeGen/ExpandMemCmp.cpp" alt="" coords="435,191,659,218"/>
+<area shape="rect" id="node6" href="$SelectionDAGISel_8cpp.html" title="lib/CodeGen/SelectionDAG\l/SelectionDAGISel.cpp" alt="" coords="683,184,865,225"/>
+<area shape="rect" id="node7" href="$InstructionCombining_8cpp.html" title="lib/Transforms/InstCombine\l/InstructionCombining.cpp" alt="" coords="889,184,1072,225"/>
+<area shape="rect" id="node8" href="$LoopLoadElimination_8cpp.html" title="lib/Transforms/Scalar\l/LoopLoadElimination.cpp" alt="" coords="1097,184,1267,225"/>
+<area shape="rect" id="node9" href="$LoopUnrollPass_8cpp.html" title="lib/Transforms/Scalar\l/LoopUnrollPass.cpp" alt="" coords="1291,184,1438,225"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="llvm::MCExtraProcessorInfo" name="llvm::MCExtraProcessorInfo">
+<area shape="rect" id="node2" href="$structllvm_1_1MCRegisterFileDesc.html" title="A register file descriptor. " alt="" coords="202,169,378,196"/>
+<area shape="rect" id="node3" href="$classuint16__t.html" title="uint16_t" alt="" coords="5,5,73,32"/>
+<area shape="rect" id="node4" href="$classchar.html" title="char" alt="" coords="231,5,277,32"/>
+<area shape="rect" id="node5" href="$classbool.html" title="bool" alt="" coords="409,5,456,32"/>
+<area shape="rect" id="node6" href="$structllvm_1_1MCRegisterCostEntry.html" title="Specify the cost of a register definition in terms of number of physical register allocated at regist..." alt="" coords="521,169,704,196"/>
+<area shape="rect" id="node7" href="$classunsigned.html" title="unsigned" alt="" coords="727,5,802,32"/>
+</map>

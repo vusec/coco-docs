@@ -1,0 +1,42 @@
+<map id="lib/CodeGen/AsmPrinter/WasmException.cpp" name="lib/CodeGen/AsmPrinter/WasmException.cpp">
+<area shape="rect" id="node2" href="$WasmException_8h.html" title="WasmException.h" alt="" coords="1201,95,1330,121"/>
+<area shape="rect" id="node26" href="$Mangler_8h.html" title="llvm/IR/Mangler.h" alt="" coords="3693,169,3819,196"/>
+<area shape="rect" id="node30" href="$MCContext_8h.html" title="llvm/MC/MCContext.h" alt="" coords="2941,169,3094,196"/>
+<area shape="rect" id="node44" href="$MCStreamer_8h.html" title="llvm/MC/MCStreamer.h" alt="" coords="3509,169,3669,196"/>
+<area shape="rect" id="node3" href="$EHStreamer_8h.html" title="EHStreamer.h" alt="" coords="25,169,130,196"/>
+<area shape="rect" id="node11" href="$AsmPrinter_8h.html" title="llvm/CodeGen/AsmPrinter.h" alt="" coords="1173,169,1358,196"/>
+<area shape="rect" id="node4" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2656,497,2811,524"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="964,572,1127,599"/>
+<area shape="rect" id="node10" href="$AsmPrinterHandler_8h.html" title="llvm/CodeGen/AsmPrinterHandler.h" alt="" coords="38,251,269,278"/>
+<area shape="rect" id="node12" href="$MapVector_8h.html" title="llvm/ADT/MapVector.h" alt="" coords="2096,423,2251,449"/>
+<area shape="rect" id="node13" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1664,497,1827,524"/>
+<area shape="rect" id="node16" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3489,497,3636,524"/>
+<area shape="rect" id="node18" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="4033,423,4159,449"/>
+<area shape="rect" id="node20" href="$DwarfStringPoolEntry_8h.html" title="llvm/CodeGen/DwarfString\lPoolEntry.h" alt="" coords="1980,244,2159,285"/>
+<area shape="rect" id="node24" href="$MachineFunctionPass_8h.html" title="llvm/CodeGen/MachineFunction\lPass.h" alt="" coords="293,244,501,285"/>
+<area shape="rect" id="node25" href="$InlineAsm_8h.html" title="llvm/IR/InlineAsm.h" alt="" coords="3718,423,3855,449"/>
+<area shape="rect" id="node21" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="2991,341,3142,367"/>
+<area shape="rect" id="node22" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="1337,423,1498,449"/>
+<area shape="rect" id="node23" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="817,497,957,524"/>
+<area shape="rect" id="node27" href="$GlobalValue_8h.html" title="llvm/IR/GlobalValue.h" alt="" coords="5376,251,5525,278"/>
+<area shape="rect" id="node28" href="$MD5_8h.html" title="llvm/Support/MD5.h" alt="" coords="3700,341,3839,367"/>
+<area shape="rect" id="node29" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="3483,423,3642,449"/>
+<area shape="rect" id="node31" href="$SetVector_8h.html" title="llvm/ADT/SetVector.h" alt="" coords="1713,341,1863,367"/>
+<area shape="rect" id="node33" href="$Dwarf_8h.html" title="This file contains constants used for implementing Dwarf debug support. " alt="" coords="576,423,755,449"/>
+<area shape="rect" id="node34" href="$XCOFF_8h.html" title="llvm/BinaryFormat/XCOFF.h" alt="" coords="4235,423,4423,449"/>
+<area shape="rect" id="node35" href="$MCAsmMacro_8h.html" title="llvm/MC/MCAsmMacro.h" alt="" coords="3288,423,3459,449"/>
+<area shape="rect" id="node37" href="$MCDwarf_8h.html" title="llvm/MC/MCDwarf.h" alt="" coords="2891,251,3034,278"/>
+<area shape="rect" id="node38" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="2091,341,2229,367"/>
+<area shape="rect" id="node39" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="5017,423,5202,449"/>
+<area shape="rect" id="node40" href="$MCSubtargetInfo_8h.html" title="llvm/MC/MCSubtargetInfo.h" alt="" coords="3914,341,4099,367"/>
+<area shape="rect" id="node41" href="$MCTargetOptions_8h.html" title="llvm/MC/MCTargetOptions.h" alt="" coords="4499,423,4688,449"/>
+<area shape="rect" id="node42" href="$SectionKind_8h.html" title="llvm/MC/SectionKind.h" alt="" coords="2234,251,2390,278"/>
+<area shape="rect" id="node32" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1776,423,1920,449"/>
+<area shape="rect" id="node36" href="$SMLoc_8h.html" title="llvm/Support/SMLoc.h" alt="" coords="3661,497,3811,524"/>
+<area shape="rect" id="node45" href="$MCDirectives_8h.html" title="llvm/MC/MCDirectives.h" alt="" coords="6291,251,6458,278"/>
+<area shape="rect" id="node46" href="$MCLinkerOptimizationHint_8h.html" title="llvm/MC/MCLinkerOptimization\lHint.h" alt="" coords="4966,333,5170,375"/>
+<area shape="rect" id="node47" href="$MCSymbol_8h.html" title="llvm/MC/MCSymbol.h" alt="" coords="5201,251,5351,278"/>
+<area shape="rect" id="node48" href="$MCWinEH_8h.html" title="llvm/MC/MCWinEH.h" alt="" coords="2304,341,2453,367"/>
+<area shape="rect" id="node49" href="$TargetParser_8h.html" title="llvm/Support/TargetParser.h" alt="" coords="2782,341,2967,367"/>
+<area shape="rect" id="node50" href="$VersionTuple_8h.html" title="Defines the llvm::VersionTuple class, which represents a version in the form major[.minor[.subminor]]. " alt="" coords="4653,341,4840,367"/>
+</map>

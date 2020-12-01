@@ -1,0 +1,14 @@
+<map id="lib/Target/X86/X86InstrBuilder.h" name="lib/Target/X86/X86InstrBuilder.h">
+<area shape="rect" id="node2" href="$X86DiscriminateMemOps_8cpp.html" title="lib/Target/X86/X86Discriminate\lMemOps.cpp" alt="" coords="5,80,208,121"/>
+<area shape="rect" id="node3" href="$X86ExpandPseudo_8cpp.html" title="lib/Target/X86/X86Expand\lPseudo.cpp" alt="" coords="233,80,407,121"/>
+<area shape="rect" id="node4" href="$X86FastISel_8cpp.html" title="lib/Target/X86/X86FastISel.cpp" alt="" coords="431,87,635,114"/>
+<area shape="rect" id="node5" href="$X86FlagsCopyLowering_8cpp.html" title="Lowers COPY nodes of EFLAGS by directly extracting and preserving individual flag bits..." alt="" coords="659,80,853,121"/>
+<area shape="rect" id="node6" href="$X86FrameLowering_8cpp.html" title="lib/Target/X86/X86FrameLowering.cpp" alt="" coords="877,87,1121,114"/>
+<area shape="rect" id="node7" href="$X86InsertPrefetch_8cpp.html" title="lib/Target/X86/X86Insert\lPrefetch.cpp" alt="" coords="1145,80,1308,121"/>
+<area shape="rect" id="node8" href="$X86InstrInfo_8cpp.html" title="lib/Target/X86/X86InstrInfo.cpp" alt="" coords="1332,87,1535,114"/>
+<area shape="rect" id="node9" href="$X86InstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for X86. " alt="" coords="1559,80,1750,121"/>
+<area shape="rect" id="node10" href="$X86ISelLowering_8cpp.html" title="lib/Target/X86/X86ISelLowering.cpp" alt="" coords="1774,87,2005,114"/>
+<area shape="rect" id="node11" href="$X86RetpolineThunks_8cpp.html" title="Pass that injects an MI thunk implementing a &quot;retpoline&quot;. " alt="" coords="2029,80,2214,121"/>
+<area shape="rect" id="node12" href="$X86SpeculativeLoadHardening_8cpp.html" title="Provide a pass which mitigates speculative execution attacks which operate by speculating incorrectly..." alt="" coords="2238,80,2437,121"/>
+<area shape="rect" id="node13" href="$X86WinAllocaExpander_8cpp.html" title="lib/Target/X86/X86WinAlloca\lExpander.cpp" alt="" coords="2461,80,2651,121"/>
+</map>

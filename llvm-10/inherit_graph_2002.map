@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1DiagnosticPrinter.html" title="Interface for custom diagnostic printing. " alt="" coords="5,13,160,39"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DiagnosticPrinterRawOStream.html" title="Basic diagnostic printer that uses an underlying raw_ostream. " alt="" coords="208,5,389,47"/>
+</map>

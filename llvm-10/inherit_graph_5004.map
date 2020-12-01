@@ -1,0 +1,27 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1TargetLoweringBase.html" title="This base class for TargetLowering contains the SelectionDAG&#45;independent parts that can be used from ..." alt="" coords="5,461,179,488"/>
+<area shape="rect" id="node2" href="$classllvm_1_1TargetLowering.html" title="This class defines information used to lower LLVM code to legal SelectionDAG operators that the targe..." alt="" coords="227,461,369,488"/>
+<area shape="rect" id="node3" href="$classllvm_1_1AArch64TargetLowering.html" title="llvm::AArch64TargetLowering" alt="" coords="435,5,628,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1AMDGPUTargetLowering.html" title="llvm::AMDGPUTargetLowering" alt="" coords="430,56,633,83"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ARCTargetLowering.html" title="llvm::ARCTargetLowering" alt="" coords="445,107,617,133"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ARMTargetLowering.html" title="llvm::ARMTargetLowering" alt="" coords="445,157,618,184"/>
+<area shape="rect" id="node9" href="$classllvm_1_1AVRTargetLowering.html" title="Performs target lowering for the AVR. " alt="" coords="446,208,617,235"/>
+<area shape="rect" id="node10" href="$classllvm_1_1BPFTargetLowering.html" title="llvm::BPFTargetLowering" alt="" coords="447,259,616,285"/>
+<area shape="rect" id="node11" href="$classllvm_1_1HexagonTargetLowering.html" title="llvm::HexagonTargetLowering" alt="" coords="434,309,629,336"/>
+<area shape="rect" id="node12" href="$classllvm_1_1LanaiTargetLowering.html" title="llvm::LanaiTargetLowering" alt="" coords="444,360,619,387"/>
+<area shape="rect" id="node13" href="$classllvm_1_1MipsTargetLowering.html" title="llvm::MipsTargetLowering" alt="" coords="446,411,617,437"/>
+<area shape="rect" id="node16" href="$classllvm_1_1MSP430TargetLowering.html" title="llvm::MSP430TargetLowering" alt="" coords="435,461,628,488"/>
+<area shape="rect" id="node17" href="$classllvm_1_1NVPTXTargetLowering.html" title="llvm::NVPTXTargetLowering" alt="" coords="437,512,625,539"/>
+<area shape="rect" id="node18" href="$classllvm_1_1PPCTargetLowering.html" title="llvm::PPCTargetLowering" alt="" coords="446,563,617,589"/>
+<area shape="rect" id="node19" href="$classllvm_1_1RISCVTargetLowering.html" title="llvm::RISCVTargetLowering" alt="" coords="439,613,624,640"/>
+<area shape="rect" id="node20" href="$classllvm_1_1SparcTargetLowering.html" title="llvm::SparcTargetLowering" alt="" coords="443,664,620,691"/>
+<area shape="rect" id="node21" href="$classllvm_1_1SystemZTargetLowering.html" title="llvm::SystemZTargetLowering" alt="" coords="433,715,629,741"/>
+<area shape="rect" id="node22" href="$classllvm_1_1VETargetLowering.html" title="llvm::VETargetLowering" alt="" coords="451,765,612,792"/>
+<area shape="rect" id="node23" href="$classllvm_1_1WebAssemblyTargetLowering.html" title="llvm::WebAssemblyTargetLowering" alt="" coords="417,816,645,843"/>
+<area shape="rect" id="node24" href="$classllvm_1_1X86TargetLowering.html" title="llvm::X86TargetLowering" alt="" coords="448,867,615,893"/>
+<area shape="rect" id="node25" href="$classllvm_1_1XCoreTargetLowering.html" title="llvm::XCoreTargetLowering" alt="" coords="441,917,621,944"/>
+<area shape="rect" id="node5" href="$classllvm_1_1R600TargetLowering.html" title="llvm::R600TargetLowering" alt="" coords="701,31,875,57"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SITargetLowering.html" title="llvm::SITargetLowering" alt="" coords="710,81,866,108"/>
+<area shape="rect" id="node14" href="$classllvm_1_1Mips16TargetLowering.html" title="llvm::Mips16TargetLowering" alt="" coords="695,385,881,412"/>
+<area shape="rect" id="node15" href="$classllvm_1_1MipsSETargetLowering.html" title="llvm::MipsSETargetLowering" alt="" coords="693,436,883,463"/>
+</map>

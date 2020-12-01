@@ -1,0 +1,28 @@
+<map id="lib/Support/PluginLoader.cpp" name="lib/Support/PluginLoader.cpp">
+<area shape="rect" id="node2" href="$PluginLoader_8h.html" title="llvm/Support/PluginLoader.h" alt="" coords="3549,80,3734,107"/>
+<area shape="rect" id="node40" href="$ManagedStatic_8h.html" title="llvm/Support/ManagedStatic.h" alt="" coords="4573,237,4771,263"/>
+<area shape="rect" id="node44" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="3702,319,3887,345"/>
+<area shape="rect" id="node45" href="$DynamicLibrary_8h.html" title="llvm/Support/DynamicLibrary.h" alt="" coords="5014,155,5215,181"/>
+<area shape="rect" id="node46" href="$Mutex_8h.html" title="llvm/Support/Mutex.h" alt="" coords="4896,237,5043,263"/>
+<area shape="rect" id="node3" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="2691,155,2885,181"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="947,319,1091,345"/>
+<area shape="rect" id="node6" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="3720,543,3909,569"/>
+<area shape="rect" id="node16" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="71,617,193,644"/>
+<area shape="rect" id="node17" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2621,393,2784,420"/>
+<area shape="rect" id="node18" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="600,543,771,569"/>
+<area shape="rect" id="node30" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1461,468,1616,495"/>
+<area shape="rect" id="node31" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="1525,543,1665,569"/>
+<area shape="rect" id="node36" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="1893,468,2056,495"/>
+<area shape="rect" id="node37" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="1426,319,1577,345"/>
+<area shape="rect" id="node38" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3057,393,3204,420"/>
+<area shape="rect" id="node39" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="4289,319,4415,345"/>
+<area shape="rect" id="node42" href="$VirtualFileSystem_8h.html" title="Defines the virtual file system interface vfs::FileSystem. " alt="" coords="2709,229,2867,271"/>
+<area shape="rect" id="node5" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="2182,468,2322,495"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3004,692,3167,719"/>
+<area shape="rect" id="node10" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2099,617,2269,644"/>
+<area shape="rect" id="node20" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2641,468,2794,495"/>
+<area shape="rect" id="node22" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3326,468,3503,495"/>
+<area shape="rect" id="node25" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="2448,468,2616,495"/>
+<area shape="rect" id="node47" href="$Threading_8h.html" title="llvm/Support/Threading.h" alt="" coords="4846,319,5013,345"/>
+<area shape="rect" id="node48" href="$FunctionExtras_8h.html" title="This file provides a collection of function (or more generally, callable) type erasure utilities supp..." alt="" coords="1689,543,1869,569"/>
+</map>

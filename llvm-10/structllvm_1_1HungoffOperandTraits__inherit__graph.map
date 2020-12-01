@@ -1,0 +1,12 @@
+<map id="llvm::HungoffOperandTraits&lt; MINARITY &gt;" name="llvm::HungoffOperandTraits&lt; MINARITY &gt;">
+<area shape="rect" id="node2" href="$structllvm_1_1HungoffOperandTraits.html" title="llvm::HungoffOperandTraits\&lt; 1 \&gt;" alt="" coords="272,78,485,105"/>
+<area shape="rect" id="node5" href="$structllvm_1_1HungoffOperandTraits.html" title="llvm::HungoffOperandTraits\&lt; 2 \&gt;" alt="" coords="272,241,485,267"/>
+<area shape="rect" id="node10" href="$structllvm_1_1HungoffOperandTraits.html" title="llvm::HungoffOperandTraits\&lt; 3 \&gt;" alt="" coords="272,363,485,390"/>
+<area shape="rect" id="node3" href="$structllvm_1_1OperandTraits_3_01IndirectBrInst_01_4.html" title="llvm::OperandTraits\l\&lt; IndirectBrInst \&gt;" alt="" coords="538,5,674,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1OperandTraits_3_01LandingPadInst_01_4.html" title="llvm::OperandTraits\l\&lt; LandingPadInst \&gt;" alt="" coords="538,71,674,112"/>
+<area shape="rect" id="node6" href="$structllvm_1_1OperandTraits_3_01CatchSwitchInst_01_4.html" title="llvm::OperandTraits\l\&lt; CatchSwitchInst \&gt;" alt="" coords="535,136,677,177"/>
+<area shape="rect" id="node7" href="$structllvm_1_1OperandTraits_3_01MemoryPhi_01_4.html" title="llvm::OperandTraits\l\&lt; MemoryPhi \&gt;" alt="" coords="538,201,674,243"/>
+<area shape="rect" id="node8" href="$structllvm_1_1OperandTraits_3_01PHINode_01_4.html" title="llvm::OperandTraits\l\&lt; PHINode \&gt;" alt="" coords="538,267,674,308"/>
+<area shape="rect" id="node9" href="$structllvm_1_1OperandTraits_3_01SwitchInst_01_4.html" title="llvm::OperandTraits\l\&lt; SwitchInst \&gt;" alt="" coords="538,332,674,373"/>
+<area shape="rect" id="node11" href="$structllvm_1_1OperandTraits_3_01Function_01_4.html" title="llvm::OperandTraits\l\&lt; Function \&gt;" alt="" coords="538,397,674,439"/>
+</map>

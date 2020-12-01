@@ -1,0 +1,10 @@
+<map id="llvm::PriorityWorklist&lt; T, VectorT, MapT &gt;" name="llvm::PriorityWorklist&lt; T, VectorT, MapT &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1PriorityWorklist.html" title="llvm::PriorityWorklist\l\&lt; llvm::Loop *, SmallVector\l\&lt; llvm::Loop *, N \&gt;, SmallDenseMap\l\&lt; llvm::Loop *, ptrdiff_t \&gt; \&gt;" alt="" coords="665,30,903,101"/>
+<area shape="rect" id="node4" href="$classllvm_1_1PriorityWorklist.html" title="llvm::PriorityWorklist\l\&lt; llvm::LazyCallGraph\l::RefSCC *, SmallVector\l\&lt; llvm::LazyCallGraph::RefSCC\l *, N \&gt;, SmallDenseMap\&lt; llvm\l::LazyCallGraph::RefSCC *, ptrdiff_t \&gt; \&gt;" alt="" coords="655,213,913,313"/>
+<area shape="rect" id="node6" href="$classllvm_1_1PriorityWorklist.html" title="llvm::PriorityWorklist\l\&lt; T, SmallVector\&lt; T, N\l \&gt;, SmallDenseMap\&lt; T, ptrdiff_t \&gt; \&gt;" alt="" coords="396,119,631,175"/>
+<area shape="rect" id="node9" href="$classllvm_1_1PriorityWorklist.html" title="llvm::PriorityWorklist\l\&lt; llvm::LazyCallGraph\l::SCC *, SmallVector\&lt; llvm\l::LazyCallGraph::SCC *, N\l \&gt;, SmallDenseMap\&lt; llvm::LazyCallGraph\l::SCC *, ptrdiff_t \&gt; \&gt;" alt="" coords="937,318,1205,418"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SmallPriorityWorklist.html" title="llvm::SmallPriorityWorklist\l\&lt; llvm::Loop *, 4 \&gt;" alt="" coords="1423,67,1599,109"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SmallPriorityWorklist.html" title="llvm::SmallPriorityWorklist\l\&lt; llvm::LazyCallGraph::RefSCC *, 1 \&gt;" alt="" coords="1388,149,1635,190"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SmallPriorityWorklist.html" title="A version of PriorityWorklist that selects small size optimized data structures for the vector and ma..." alt="" coords="983,135,1159,177"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SmallPriorityWorklist.html" title="llvm::SmallPriorityWorklist\l\&lt; llvm::LazyCallGraph::SCC *, 1 \&gt;" alt="" coords="1399,247,1624,289"/>
+</map>

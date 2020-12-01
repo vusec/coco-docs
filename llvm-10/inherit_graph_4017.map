@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; BranchProbabilityAnalysis \&gt;" alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title="llvm::AnalysisInfoMixin\l\&lt; BranchProbabilityAnalysis \&gt;" alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1BranchProbabilityAnalysis.html" title="Analysis pass which computes BranchProbabilityInfo. " alt="" coords="499,13,705,39"/>
+</map>

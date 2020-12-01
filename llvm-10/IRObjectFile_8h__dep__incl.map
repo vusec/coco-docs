@@ -1,0 +1,15 @@
+<map id="include/llvm/Object/IRObjectFile.h" name="include/llvm/Object/IRObjectFile.h">
+<area shape="rect" id="node2" href="$LTOModule_8h.html" title="include/llvm/LTO/legacy\l/LTOModule.h" alt="" coords="235,95,398,136"/>
+<area shape="rect" id="node4" href="$LTOModule_8cpp.html" title="lib/LTO/LTOModule.cpp" alt="" coords="237,191,397,218"/>
+<area shape="rect" id="node5" href="$COFFImportFile_8h.html" title="include/llvm/Object\l/COFFImportFile.h" alt="" coords="551,95,685,136"/>
+<area shape="rect" id="node10" href="$SymbolicFile_8cpp.html" title="lib/Object/SymbolicFile.cpp" alt="" coords="941,191,1122,218"/>
+<area shape="rect" id="node11" href="$LTO_8cpp.html" title="lib/LTO/LTO.cpp" alt="" coords="760,102,879,129"/>
+<area shape="rect" id="node12" href="$ThinLTOCodeGenerator_8cpp.html" title="lib/LTO/ThinLTOCodeGenerator.cpp" alt="" coords="903,102,1133,129"/>
+<area shape="rect" id="node13" href="$IRObjectFile_8cpp.html" title="lib/Object/IRObjectFile.cpp" alt="" coords="1158,102,1337,129"/>
+<area shape="rect" id="node14" href="$IRSymtab_8cpp.html" title="lib/Object/IRSymtab.cpp" alt="" coords="1361,102,1526,129"/>
+<area shape="rect" id="node3" href="$LTOCodeGenerator_8cpp.html" title="lib/LTO/LTOCodeGenerator.cpp" alt="" coords="5,191,212,218"/>
+<area shape="rect" id="node6" href="$COFFModuleDefinition_8h.html" title="include/llvm/Object\l/COFFModuleDefinition.h" alt="" coords="471,184,642,225"/>
+<area shape="rect" id="node7" href="$COFFModuleDefinition_8cpp.html" title="lib/Object/COFFModuleDefinition.cpp" alt="" coords="325,281,564,307"/>
+<area shape="rect" id="node8" href="$DlltoolDriver_8cpp.html" title="lib/ToolDrivers/llvm\l&#45;dlltool/DlltoolDriver.cpp" alt="" coords="593,273,755,315"/>
+<area shape="rect" id="node9" href="$COFFImportFile_8cpp.html" title="lib/Object/COFFImportFile.cpp" alt="" coords="717,191,917,218"/>
+</map>

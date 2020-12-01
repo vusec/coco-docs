@@ -1,0 +1,16 @@
+<map id="llvm::AAAlign" name="llvm::AAAlign">
+<area shape="rect" id="node2" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::Alignment,\l StateWrapper\&lt; AAAlignmentState\lType, AbstractAttribute \&gt; \&gt;" alt="" coords="1401,190,1627,261"/>
+<area shape="rect" id="node3" href="$structllvm_1_1IRPosition.html" title="} " alt="" coords="633,153,747,180"/>
+<area shape="rect" id="node16" href="$structllvm_1_1IRAttribute.html" title="Helper class that provides common functionality to manifest IR attributes. " alt="" coords="999,205,1125,246"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="361,109,447,136"/>
+<area shape="rect" id="node5" href="$classunsigned.html" title="unsigned" alt="" coords="35,109,110,136"/>
+<area shape="rect" id="node7" href="$structllvm_1_1StateWrapper.html" title="llvm::StateWrapper\l\&lt; AAAlignmentStateType,\l AbstractAttribute \&gt;" alt="" coords="975,285,1149,341"/>
+<area shape="rect" id="node8" href="$structllvm_1_1IncIntegerState.html" title="Specialization of the integer state for an increasing value, hence ~0u is the best state and 0 the wo..." alt="" coords="611,383,769,409"/>
+<area shape="rect" id="node9" href="$structllvm_1_1IntegerStateBase.html" title="Simple state with integers encoding. " alt="" coords="327,372,481,428"/>
+<area shape="rect" id="node10" href="$structllvm_1_1AbstractState.html" title="An interface to query the internal state of an abstract attribute. " alt="" coords="5,412,140,439"/>
+<area shape="rect" id="node12" href="$structllvm_1_1AbstractAttribute.html" title="Base struct for all &quot;concrete attribute&quot; deductions. " alt="" coords="614,264,766,291"/>
+<area shape="rect" id="node13" href="$structllvm_1_1StateWrapper.html" title="Helper to tie a abstract state implementation to an abstract attribute. " alt="" coords="623,315,757,357"/>
+<area shape="rect" id="node14" href="$classllvm_1_1StateTy.html" title="StateTy" alt="" coords="370,321,438,348"/>
+<area shape="rect" id="node15" href="$classllvm_1_1Base.html" title="Base" alt="" coords="378,224,430,251"/>
+<area shape="rect" id="node17" href="$classchar.html" title="char" alt="" coords="1491,285,1537,312"/>
+</map>

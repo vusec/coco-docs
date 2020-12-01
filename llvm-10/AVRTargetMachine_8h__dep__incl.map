@@ -1,0 +1,11 @@
+<map id="lib/Target/AVR/AVRTargetMachine.h" name="lib/Target/AVR/AVRTargetMachine.h">
+<area shape="rect" id="node2" href="$AVRExpandPseudoInsts_8cpp.html" title="lib/Target/AVR/AVRExpand\lPseudoInsts.cpp" alt="" coords="5,95,189,136"/>
+<area shape="rect" id="node3" href="$AVRFrameLowering_8cpp.html" title="lib/Target/AVR/AVRFrameLowering.cpp" alt="" coords="214,102,469,129"/>
+<area shape="rect" id="node4" href="$AVRInstrInfo_8cpp.html" title="lib/Target/AVR/AVRInstrInfo.cpp" alt="" coords="493,102,707,129"/>
+<area shape="rect" id="node5" href="$AVRISelDAGToDAG_8cpp.html" title="lib/Target/AVR/AVRISelDAGTo\lDAG.cpp" alt="" coords="731,95,938,136"/>
+<area shape="rect" id="node6" href="$AVRISelLowering_8cpp.html" title="lib/Target/AVR/AVRISelLowering.cpp" alt="" coords="963,102,1203,129"/>
+<area shape="rect" id="node7" href="$AVRRegisterInfo_8cpp.html" title="lib/Target/AVR/AVRRegister\lInfo.cpp" alt="" coords="1227,95,1416,136"/>
+<area shape="rect" id="node8" href="$AVRRelaxMemOperations_8cpp.html" title="lib/Target/AVR/AVRRelaxMem\lOperations.cpp" alt="" coords="1440,95,1643,136"/>
+<area shape="rect" id="node9" href="$AVRSubtarget_8cpp.html" title="lib/Target/AVR/AVRSubtarget.cpp" alt="" coords="1667,102,1888,129"/>
+<area shape="rect" id="node10" href="$AVRTargetMachine_8cpp.html" title="lib/Target/AVR/AVRTarget\lMachine.cpp" alt="" coords="1913,95,2090,136"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="llvm::IRAttribute&lt; AK, Base &gt;" name="llvm::IRAttribute&lt; AK, Base &gt;">
+<area shape="rect" id="node4" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::NonNull,\l StateWrapper\&lt; BooleanState,\l AbstractAttribute \&gt; \&gt;" alt="" coords="599,33,799,103"/>
+<area shape="rect" id="node6" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::NoSync,\l StateWrapper\&lt; BooleanState,\l AbstractAttribute \&gt; \&gt;" alt="" coords="599,127,799,198"/>
+<area shape="rect" id="node8" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::NoRecurse,\l StateWrapper\&lt; BooleanState,\l AbstractAttribute \&gt; \&gt;" alt="" coords="599,222,799,293"/>
+<area shape="rect" id="node10" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::Alignment,\l StateWrapper\&lt; AAAlignmentState\lType, AbstractAttribute \&gt; \&gt;" alt="" coords="587,317,812,387"/>
+<area shape="rect" id="node12" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::NoFree,\l StateWrapper\&lt; BooleanState,\l AbstractAttribute \&gt; \&gt;" alt="" coords="599,411,799,482"/>
+<area shape="rect" id="node14" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::Dereferenceable,\l StateWrapper\&lt; DerefState,\l AbstractAttribute \&gt; \&gt;" alt="" coords="607,506,792,577"/>
+<area shape="rect" id="node16" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::NoReturn,\l StateWrapper\&lt; BooleanState,\l AbstractAttribute \&gt; \&gt;" alt="" coords="599,601,799,671"/>
+<area shape="rect" id="node18" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::ReadNone,\l StateWrapper\&lt; BitIntegerState\l\&lt; uint8_t, 3 \&gt;, AbstractAttribute \&gt; \&gt;" alt="" coords="584,695,815,766"/>
+<area shape="rect" id="node20" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::NoAlias,\l StateWrapper\&lt; BooleanState,\l AbstractAttribute \&gt; \&gt;" alt="" coords="599,790,799,861"/>
+<area shape="rect" id="node22" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::NoCapture,\l StateWrapper\&lt; BitIntegerState\l\&lt; uint16_t, 7, 0 \&gt;, AbstractAttribute \&gt; \&gt;" alt="" coords="573,885,825,955"/>
+<area shape="rect" id="node24" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::WillReturn,\l StateWrapper\&lt; BooleanState,\l AbstractAttribute \&gt; \&gt;" alt="" coords="599,979,799,1050"/>
+<area shape="rect" id="node26" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::NoUnwind,\l StateWrapper\&lt; BooleanState,\l AbstractAttribute \&gt; \&gt;" alt="" coords="599,1074,799,1145"/>
+<area shape="rect" id="node28" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::Returned,\l AbstractAttribute \&gt;" alt="" coords="629,1169,769,1225"/>
+<area shape="rect" id="node2" href="$structllvm_1_1IRPosition.html" title="} " alt="" coords="5,597,120,624"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Base.html" title="Base" alt="" coords="37,648,89,675"/>
+<area shape="rect" id="node5" href="$structllvm_1_1AANonNull.html" title="An abstract interface for all nonnull attributes. " alt="" coords="901,55,1019,81"/>
+<area shape="rect" id="node7" href="$structllvm_1_1AANoSync.html" title="llvm::AANoSync" alt="" coords="901,149,1019,176"/>
+<area shape="rect" id="node9" href="$structllvm_1_1AANoRecurse.html" title="An abstract attribute for norecurse. " alt="" coords="891,244,1029,271"/>
+<area shape="rect" id="node11" href="$structllvm_1_1AAAlign.html" title="An abstract interface for all align attributes. " alt="" coords="909,339,1011,365"/>
+<area shape="rect" id="node13" href="$structllvm_1_1AANoFree.html" title="An AbstractAttribute for nofree. " alt="" coords="903,433,1017,460"/>
+<area shape="rect" id="node15" href="$structllvm_1_1AADereferenceable.html" title="An abstract interface for all dereferenceable attribute. " alt="" coords="877,528,1043,555"/>
+<area shape="rect" id="node17" href="$structllvm_1_1AANoReturn.html" title="An AbstractAttribute for noreturn. " alt="" coords="896,623,1024,649"/>
+<area shape="rect" id="node19" href="$structllvm_1_1AAMemoryBehavior.html" title="An abstract interface for all memory related attributes. " alt="" coords="875,717,1045,744"/>
+<area shape="rect" id="node21" href="$structllvm_1_1AANoAlias.html" title="An abstract interface for all noalias attributes. " alt="" coords="901,812,1019,839"/>
+<area shape="rect" id="node23" href="$structllvm_1_1AANoCapture.html" title="An abstract interface for all nocapture attributes. " alt="" coords="893,907,1027,933"/>
+<area shape="rect" id="node25" href="$structllvm_1_1AAWillReturn.html" title="An abstract attribute for willreturn. " alt="" coords="893,1001,1027,1028"/>
+<area shape="rect" id="node27" href="$structllvm_1_1AANoUnwind.html" title="llvm::AANoUnwind" alt="" coords="893,1096,1027,1123"/>
+<area shape="rect" id="node29" href="$structllvm_1_1AAReturnedValues.html" title=" Abstract Attribute Classes " alt="" coords="877,1184,1043,1211"/>
+</map>

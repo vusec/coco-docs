@@ -1,0 +1,6 @@
+<map id="llvm::LoopBodyTraits::WrappedSuccIterator" name="llvm::LoopBodyTraits::WrappedSuccIterator">
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__adaptor__base.html" title="llvm::iterator_adaptor\l_base\&lt; WrappedSuccIterator,\l succ_iterator, std::iterator\l_traits\&lt; succ_iterator \&gt;::iterator\l_category, NodeRef, std::ptrdiff\l_t, NodeRef *, NodeRef \&gt;" alt="" coords="1220,82,1427,182"/>
+<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; WrappedSuccIterator,\l std::iterator_traits\&lt; succ\l_iterator \&gt;::iterator_category,\l NodeRef, std::ptrdiff_t, NodeRef\l *, NodeRef \&gt;" alt="" coords="743,26,959,126"/>
+<area shape="rect" id="node5" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="267,133,491,203"/>
+<area shape="rect" id="node7" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type. " alt="" coords="724,150,977,221"/>
+</map>

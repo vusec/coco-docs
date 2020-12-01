@@ -1,0 +1,28 @@
+<map id="include/llvm/DebugInfo/PDB/Native/SymbolCache.h" name="include/llvm/DebugInfo/PDB/Native/SymbolCache.h">
+<area shape="rect" id="node2" href="$NativeSession_8h.html" title="include/llvm/DebugInfo\l/PDB/Native/NativeSession.h" alt="" coords="1662,95,1858,136"/>
+<area shape="rect" id="node5" href="$NativeExeSymbol_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeExeSymbol.cpp" alt="" coords="3239,273,3412,315"/>
+<area shape="rect" id="node6" href="$NativeSession_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeSession.cpp" alt="" coords="3042,273,3215,315"/>
+<area shape="rect" id="node9" href="$NativeTypeEnum_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeTypeEnum.cpp" alt="" coords="2647,273,2820,315"/>
+<area shape="rect" id="node13" href="$SymbolCache_8cpp.html" title="lib/DebugInfo/PDB/Native\l/SymbolCache.cpp" alt="" coords="1436,273,1610,315"/>
+<area shape="rect" id="node3" href="$NativeExeSymbol_8h.html" title="include/llvm/DebugInfo\l/PDB/Native/NativeExeSymbol.h" alt="" coords="2824,184,3040,225"/>
+<area shape="rect" id="node4" href="$NativeEnumModules_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeEnumModules.cpp" alt="" coords="2844,273,3018,315"/>
+<area shape="rect" id="node7" href="$NativeSymbolEnumerator_8h.html" title="include/llvm/DebugInfo\l/PDB/Native/NativeSymbolEnumerator.h" alt="" coords="2440,184,2700,225"/>
+<area shape="rect" id="node10" href="$NativeTypeEnum_8h.html" title="include/llvm/DebugInfo\l/PDB/Native/NativeTypeEnum.h" alt="" coords="2204,184,2416,225"/>
+<area shape="rect" id="node11" href="$NativeEnumTypes_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeEnumTypes.cpp" alt="" coords="2028,273,2202,315"/>
+<area shape="rect" id="node14" href="$NativeTypeFunctionSig_8h.html" title="include/llvm/DebugInfo\l/PDB/Native/NativeTypeFunctionSig.h" alt="" coords="1084,184,1330,225"/>
+<area shape="rect" id="node16" href="$NativeTypePointer_8h.html" title="include/llvm/DebugInfo\l/PDB/Native/NativeTypePointer.h" alt="" coords="1355,184,1574,225"/>
+<area shape="rect" id="node18" href="$NativeTypeTypedef_8h.html" title="include/llvm/DebugInfo\l/PDB/Native/NativeTypeTypedef.h" alt="" coords="1648,184,1873,225"/>
+<area shape="rect" id="node20" href="$NativeTypeUDT_8h.html" title="include/llvm/DebugInfo\l/PDB/Native/NativeTypeUDT.h" alt="" coords="853,184,1060,225"/>
+<area shape="rect" id="node22" href="$NativeTypeVTShape_8h.html" title="include/llvm/DebugInfo\l/PDB/Native/NativeTypeVTShape.h" alt="" coords="1898,184,2130,225"/>
+<area shape="rect" id="node24" href="$NativeCompilandSymbol_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeCompilandSymbol.cpp" alt="" coords="27,184,222,225"/>
+<area shape="rect" id="node25" href="$NativeEnumGlobals_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeEnumGlobals.cpp" alt="" coords="246,184,419,225"/>
+<area shape="rect" id="node26" href="$NativeRawSymbol_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeRawSymbol.cpp" alt="" coords="443,184,616,225"/>
+<area shape="rect" id="node27" href="$PDB_8cpp.html" title="lib/DebugInfo/PDB/PDB.cpp" alt="" coords="641,191,829,218"/>
+<area shape="rect" id="node8" href="$NativeSymbolEnumerator_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeSymbolEnumerator.cpp" alt="" coords="2423,273,2623,315"/>
+<area shape="rect" id="node12" href="$NativeTypeArray_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeTypeArray.cpp" alt="" coords="2226,273,2399,315"/>
+<area shape="rect" id="node15" href="$NativeTypeFunctionSig_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeTypeFunctionSig.cpp" alt="" coords="1028,273,1215,315"/>
+<area shape="rect" id="node17" href="$NativeTypePointer_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeTypePointer.cpp" alt="" coords="1239,273,1412,315"/>
+<area shape="rect" id="node19" href="$NativeTypeTypedef_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeTypeTypedef.cpp" alt="" coords="1634,273,1807,315"/>
+<area shape="rect" id="node21" href="$NativeTypeUDT_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeTypeUDT.cpp" alt="" coords="831,273,1004,315"/>
+<area shape="rect" id="node23" href="$NativeTypeVTShape_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeTypeVTShape.cpp" alt="" coords="1831,273,2004,315"/>
+</map>

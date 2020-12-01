@@ -1,0 +1,22 @@
+<map id="include/llvm/DebugInfo/CodeView/DebugSubsectionRecord.h" name="include/llvm/DebugInfo/CodeView/DebugSubsectionRecord.h">
+<area shape="rect" id="node2" href="$DebugSubsectionVisitor_8h.html" title="include/llvm/DebugInfo\l/CodeView/DebugSubsectionVisitor.h" alt="" coords="59,199,300,240"/>
+<area shape="rect" id="node3" href="$DebugSubsectionVisitor_8cpp.html" title="lib/DebugInfo/CodeView\l/DebugSubsectionVisitor.cpp" alt="" coords="5,288,196,329"/>
+<area shape="rect" id="node5" href="$StringsAndChecksums_8h.html" title="include/llvm/DebugInfo\l/CodeView/StringsAndChecksums.h" alt="" coords="271,102,506,143"/>
+<area shape="rect" id="node6" href="$StringsAndChecksums_8cpp.html" title="lib/DebugInfo/CodeView\l/StringsAndChecksums.cpp" alt="" coords="427,199,612,240"/>
+<area shape="rect" id="node8" href="$DbiModuleDescriptorBuilder_8h.html" title="include/llvm/DebugInfo\l/PDB/Native/DbiModuleDescriptor\lBuilder.h" alt="" coords="876,95,1099,151"/>
+<area shape="rect" id="node9" href="$DbiModuleDescriptorBuilder_8cpp.html" title="lib/DebugInfo/PDB/Native\l/DbiModuleDescriptorBuilder.cpp" alt="" coords="882,199,1095,240"/>
+<area shape="rect" id="node11" href="$ModuleDebugStream_8h.html" title="include/llvm/DebugInfo\l/PDB/Native/ModuleDebugStream.h" alt="" coords="1123,102,1356,143"/>
+<area shape="rect" id="node13" href="$CodeViewYAMLDebugSections_8h.html" title="include/llvm/ObjectYAML\l/CodeViewYAMLDebugSections.h" alt="" coords="580,102,803,143"/>
+<area shape="rect" id="node21" href="$DebugSubsectionRecord_8cpp.html" title="lib/DebugInfo/CodeView\l/DebugSubsectionRecord.cpp" alt="" coords="1380,102,1576,143"/>
+<area shape="rect" id="node4" href="$CodeViewYAMLDebugSections_8cpp.html" title="lib/ObjectYAML/CodeViewYAMLDebug\lSections.cpp" alt="" coords="375,288,626,329"/>
+<area shape="rect" id="node7" href="$COFFEmitter_8cpp.html" title="The COFF component of yaml2obj. " alt="" coords="312,377,532,404"/>
+<area shape="rect" id="node10" href="$DbiStreamBuilder_8cpp.html" title="lib/DebugInfo/PDB/Native\l/DbiStreamBuilder.cpp" alt="" coords="1119,199,1293,240"/>
+<area shape="rect" id="node12" href="$ModuleDebugStream_8cpp.html" title="lib/DebugInfo/PDB/Native\l/ModuleDebugStream.cpp" alt="" coords="1317,199,1490,240"/>
+<area shape="rect" id="node14" href="$COFFYAML_8h.html" title="include/llvm/ObjectYAML\l/COFFYAML.h" alt="" coords="688,199,857,240"/>
+<area shape="rect" id="node15" href="$ObjectYAML_8h.html" title="include/llvm/ObjectYAML\l/ObjectYAML.h" alt="" coords="889,288,1059,329"/>
+<area shape="rect" id="node20" href="$COFFYAML_8cpp.html" title="lib/ObjectYAML/COFFYAML.cpp" alt="" coords="651,295,865,322"/>
+<area shape="rect" id="node16" href="$MachOEmitter_8cpp.html" title="The Mach component of yaml2obj. " alt="" coords="818,377,1045,404"/>
+<area shape="rect" id="node17" href="$ObjectYAML_8cpp.html" title="lib/ObjectYAML/ObjectYAML.cpp" alt="" coords="1069,377,1285,404"/>
+<area shape="rect" id="node18" href="$WasmEmitter_8cpp.html" title="The Wasm component of yaml2obj. " alt="" coords="1309,377,1532,404"/>
+<area shape="rect" id="node19" href="$yaml2obj_8cpp.html" title="lib/ObjectYAML/yaml2obj.cpp" alt="" coords="599,377,794,404"/>
+</map>

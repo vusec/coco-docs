@@ -1,0 +1,11 @@
+<map id="include/llvm/DebugInfo/PDB/IPDBSourceFile.h" name="include/llvm/DebugInfo/PDB/IPDBSourceFile.h">
+<area shape="rect" id="node2" href="$DIAEnumSourceFiles_8h.html" title="include/llvm/DebugInfo\l/PDB/DIA/DIAEnumSourceFiles.h" alt="" coords="5,95,228,136"/>
+<area shape="rect" id="node5" href="$DIASourceFile_8h.html" title="include/llvm/DebugInfo\l/PDB/DIA/DIASourceFile.h" alt="" coords="253,95,434,136"/>
+<area shape="rect" id="node7" href="$IPDBSourceFile_8cpp.html" title="lib/DebugInfo/PDB/IPDBSource\lFile.cpp" alt="" coords="458,95,666,136"/>
+<area shape="rect" id="node8" href="$NativeSession_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeSession.cpp" alt="" coords="690,95,863,136"/>
+<area shape="rect" id="node9" href="$PDBContext_8cpp.html" title="lib/DebugInfo/PDB/PDBContext.cpp" alt="" coords="887,102,1122,129"/>
+<area shape="rect" id="node10" href="$PDBSymbolCompiland_8cpp.html" title="lib/DebugInfo/PDB/PDBSymbol\lCompiland.cpp" alt="" coords="1147,95,1353,136"/>
+<area shape="rect" id="node3" href="$DIAEnumSourceFiles_8cpp.html" title="lib/DebugInfo/PDB/DIA\l/DIAEnumSourceFiles.cpp" alt="" coords="220,184,397,225"/>
+<area shape="rect" id="node4" href="$DIASession_8cpp.html" title="lib/DebugInfo/PDB/DIA\l/DIASession.cpp" alt="" coords="37,184,196,225"/>
+<area shape="rect" id="node6" href="$DIASourceFile_8cpp.html" title="lib/DebugInfo/PDB/DIA\l/DIASourceFile.cpp" alt="" coords="421,184,580,225"/>
+</map>

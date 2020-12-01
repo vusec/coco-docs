@@ -1,0 +1,13 @@
+<map id="include/llvm/CodeGen/GCStrategy.h" name="include/llvm/CodeGen/GCStrategy.h">
+<area shape="rect" id="node2" href="$GCMetadata_8h.html" title="include/llvm/CodeGen\l/GCMetadata.h" alt="" coords="606,95,757,136"/>
+<area shape="rect" id="node3" href="$AsmPrinter_8cpp.html" title="lib/CodeGen/AsmPrinter\l/AsmPrinter.cpp" alt="" coords="5,184,168,225"/>
+<area shape="rect" id="node4" href="$ErlangGCPrinter_8cpp.html" title="lib/CodeGen/AsmPrinter\l/ErlangGCPrinter.cpp" alt="" coords="192,184,355,225"/>
+<area shape="rect" id="node6" href="$GCMetadata_8cpp.html" title="lib/CodeGen/GCMetadata.cpp" alt="" coords="379,191,576,218"/>
+<area shape="rect" id="node7" href="$GCRootLowering_8cpp.html" title="lib/CodeGen/GCRootLowering.cpp" alt="" coords="1198,191,1421,218"/>
+<area shape="rect" id="node10" href="$StatepointLowering_8cpp.html" title="lib/CodeGen/SelectionDAG\l/StatepointLowering.cpp" alt="" coords="1445,184,1627,225"/>
+<area shape="rect" id="node11" href="$BuiltinGCs_8cpp.html" title="lib/CodeGen/BuiltinGCs.cpp" alt="" coords="883,102,1069,129"/>
+<area shape="rect" id="node12" href="$GCStrategy_8cpp.html" title="lib/CodeGen/GCStrategy.cpp" alt="" coords="1093,102,1285,129"/>
+<area shape="rect" id="node5" href="$OcamlGCPrinter_8cpp.html" title="lib/CodeGen/AsmPrinter\l/OcamlGCPrinter.cpp" alt="" coords="600,184,763,225"/>
+<area shape="rect" id="node8" href="$SelectionDAGBuilder_8cpp.html" title="lib/CodeGen/SelectionDAG\l/SelectionDAGBuilder.cpp" alt="" coords="787,184,968,225"/>
+<area shape="rect" id="node9" href="$SelectionDAGISel_8cpp.html" title="lib/CodeGen/SelectionDAG\l/SelectionDAGISel.cpp" alt="" coords="992,184,1173,225"/>
+</map>

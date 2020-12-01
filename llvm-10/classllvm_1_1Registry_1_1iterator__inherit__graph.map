@@ -1,0 +1,4 @@
+<map id="llvm::Registry&lt; T &gt;::iterator" name="llvm::Registry&lt; T &gt;::iterator">
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; iterator, std\l::forward_iterator_tag,\l const entry \&gt;" alt="" coords="696,65,845,135"/>
+<area shape="rect" id="node4" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="267,115,491,186"/>
+</map>

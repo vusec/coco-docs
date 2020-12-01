@@ -1,0 +1,5 @@
+<map id="NewGVN::ValueDFS" name="NewGVN::ValueDFS">
+<area shape="rect" id="node3" href="$classllvm_1_1Use.html" title="A Use represents the edge between a Value definition and its users. " alt="" coords="80,131,159,158"/>
+<area shape="rect" id="node4" href="$classllvm_1_1PointerIntPair.html" title="llvm::PointerIntPair\l\&lt; Value *, 1, bool \&gt;" alt="" coords="183,124,317,165"/>
+<area shape="rect" id="node5" href="$classllvm_1_1PointerIntPair.html" title="PointerIntPair &#45; This class implements a pair of a pointer and small integer. " alt="" coords="165,5,335,61"/>
+</map>

@@ -1,0 +1,36 @@
+<map id="include/llvm/Transforms/Utils/Cloning.h" name="include/llvm/Transforms/Utils/Cloning.h">
+<area shape="rect" id="node2" href="$SafeStack_8cpp.html" title="lib/CodeGen/SafeStack.cpp" alt="" coords="5,102,189,129"/>
+<area shape="rect" id="node3" href="$WinEHPrepare_8cpp.html" title="lib/CodeGen/WinEHPrepare.cpp" alt="" coords="213,102,424,129"/>
+<area shape="rect" id="node4" href="$IndirectionUtils_8cpp.html" title="lib/ExecutionEngine\l/Orc/IndirectionUtils.cpp" alt="" coords="448,95,611,136"/>
+<area shape="rect" id="node5" href="$ThreadSafeModule_8cpp.html" title="lib/ExecutionEngine\l/Orc/ThreadSafeModule.cpp" alt="" coords="635,95,821,136"/>
+<area shape="rect" id="node6" href="$IRMover_8cpp.html" title="lib/Linker/IRMover.cpp" alt="" coords="845,102,998,129"/>
+<area shape="rect" id="node7" href="$AMDGPUAlwaysInlinePass_8cpp.html" title="This pass marks all internal functions as always_inline and creates duplicates of all other functions..." alt="" coords="1023,95,1268,136"/>
+<area shape="rect" id="node8" href="$AMDGPUPropagateAttributes_8cpp.html" title="This pass propagates attributes from kernels to the non&#45;entry functions. " alt="" coords="1292,95,1553,136"/>
+<area shape="rect" id="node9" href="$R600OpenCLImageTypeLoweringPass_8cpp.html" title="This pass resolves calls to OpenCL image attribute, image resource ID and sampler resource ID getter ..." alt="" coords="1577,95,1788,136"/>
+<area shape="rect" id="node10" href="$CoroSplit_8cpp.html" title="lib/Transforms/Coroutines\l/CoroSplit.cpp" alt="" coords="1813,95,1985,136"/>
+<area shape="rect" id="node11" href="$ControlHeightReduction_8cpp.html" title="lib/Transforms/Instrumentation\l/ControlHeightReduction.cpp" alt="" coords="2009,95,2207,136"/>
+<area shape="rect" id="node12" href="$AlwaysInliner_8cpp.html" title="lib/Transforms/IPO\l/AlwaysInliner.cpp" alt="" coords="2231,95,2363,136"/>
+<area shape="rect" id="node13" href="$FunctionImport_8cpp.html" title="lib/Transforms/IPO\l/FunctionImport.cpp" alt="" coords="2388,95,2527,136"/>
+<area shape="rect" id="node14" href="$HotColdSplitting_8cpp.html" title="The goal of hot/cold splitting is to improve the memory locality of code. " alt="" coords="2551,95,2697,136"/>
+<area shape="rect" id="node15" href="$Inliner_8cpp.html" title="lib/Transforms/IPO\l/Inliner.cpp" alt="" coords="2722,95,2854,136"/>
+<area shape="rect" id="node16" href="$PartialInlining_8cpp.html" title="lib/Transforms/IPO\l/PartialInlining.cpp" alt="" coords="2878,95,3010,136"/>
+<area shape="rect" id="node17" href="$SampleProfile_8cpp.html" title="lib/Transforms/IPO\l/SampleProfile.cpp" alt="" coords="3034,95,3166,136"/>
+<area shape="rect" id="node18" href="$ThinLTOBitcodeWriter_8cpp.html" title="lib/Transforms/IPO\l/ThinLTOBitcodeWriter.cpp" alt="" coords="3190,95,3370,136"/>
+<area shape="rect" id="node19" href="$CallSiteSplitting_8cpp.html" title="lib/Transforms/Scalar\l/CallSiteSplitting.cpp" alt="" coords="3395,95,3541,136"/>
+<area shape="rect" id="node20" href="$InductiveRangeCheckElimination_8cpp.html" title="lib/Transforms/Scalar\l/InductiveRangeCheckElimination.cpp" alt="" coords="3566,95,3810,136"/>
+<area shape="rect" id="node21" href="$JumpThreading_8cpp.html" title="lib/Transforms/Scalar\l/JumpThreading.cpp" alt="" coords="3835,95,3981,136"/>
+<area shape="rect" id="node22" href="$LoopDistribute_8cpp.html" title="lib/Transforms/Scalar\l/LoopDistribute.cpp" alt="" coords="4005,95,4152,136"/>
+<area shape="rect" id="node23" href="$LoopUnswitch_8cpp.html" title="lib/Transforms/Scalar\l/LoopUnswitch.cpp" alt="" coords="4176,95,4323,136"/>
+<area shape="rect" id="node24" href="$PlaceSafepoints_8cpp.html" title="lib/Transforms/Scalar\l/PlaceSafepoints.cpp" alt="" coords="4347,95,4493,136"/>
+<area shape="rect" id="node25" href="$SimpleLoopUnswitch_8cpp.html" title="lib/Transforms/Scalar\l/SimpleLoopUnswitch.cpp" alt="" coords="4518,95,4693,136"/>
+<area shape="rect" id="node26" href="$BreakCriticalEdges_8cpp.html" title="lib/Transforms/Utils\l/BreakCriticalEdges.cpp" alt="" coords="4717,95,4880,136"/>
+<area shape="rect" id="node27" href="$CloneFunction_8cpp.html" title="lib/Transforms/Utils\l/CloneFunction.cpp" alt="" coords="4904,95,5040,136"/>
+<area shape="rect" id="node28" href="$CloneModule_8cpp.html" title="lib/Transforms/Utils\l/CloneModule.cpp" alt="" coords="5064,95,5200,136"/>
+<area shape="rect" id="node29" href="$InlineFunction_8cpp.html" title="lib/Transforms/Utils\l/InlineFunction.cpp" alt="" coords="5224,95,5360,136"/>
+<area shape="rect" id="node30" href="$LoopUnroll_8cpp.html" title="lib/Transforms/Utils\l/LoopUnroll.cpp" alt="" coords="5384,95,5520,136"/>
+<area shape="rect" id="node31" href="$LoopUnrollAndJam_8cpp.html" title="lib/Transforms/Utils\l/LoopUnrollAndJam.cpp" alt="" coords="5545,95,5706,136"/>
+<area shape="rect" id="node32" href="$LoopUnrollPeel_8cpp.html" title="lib/Transforms/Utils\l/LoopUnrollPeel.cpp" alt="" coords="5731,95,5869,136"/>
+<area shape="rect" id="node33" href="$LoopUnrollRuntime_8cpp.html" title="lib/Transforms/Utils\l/LoopUnrollRuntime.cpp" alt="" coords="5893,95,6056,136"/>
+<area shape="rect" id="node34" href="$LoopVersioning_8cpp.html" title="lib/Transforms/Utils\l/LoopVersioning.cpp" alt="" coords="6081,95,6221,136"/>
+<area shape="rect" id="node35" href="$SplitModule_8cpp.html" title="lib/Transforms/Utils\l/SplitModule.cpp" alt="" coords="6245,95,6381,136"/>
+</map>

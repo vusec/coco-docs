@@ -1,0 +1,5 @@
+<map id="llvm::cl::OptionValueBase&lt; DataType, isClass &gt;" name="llvm::cl::OptionValueBase&lt; DataType, isClass &gt;">
+<area shape="rect" id="node3" href="$structllvm_1_1cl_1_1OptionValueBase.html" title="llvm::cl::OptionValueBase\l\&lt; DataType, std::is_class\l\&lt; DataType \&gt;::value \&gt;" alt="" coords="13,215,186,271"/>
+<area shape="rect" id="node2" href="$structllvm_1_1cl_1_1GenericOptionValue.html" title="llvm::cl::GenericOptionValue" alt="" coords="5,5,193,32"/>
+<area shape="rect" id="node4" href="$structllvm_1_1cl_1_1OptionValue.html" title="llvm::cl::OptionValue\l\&lt; DataType \&gt;" alt="" coords="28,320,171,361"/>
+</map>

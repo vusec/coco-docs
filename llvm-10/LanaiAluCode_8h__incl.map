@@ -1,0 +1,20 @@
+<map id="lib/Target/Lanai/LanaiAluCode.h" name="lib/Target/Lanai/LanaiAluCode.h">
+<area shape="rect" id="node2" href="$StringSwitch_8h.html" title="llvm/ADT/StringSwitch.h" alt="" coords="2210,95,2377,121"/>
+<area shape="rect" id="node22" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2668,333,2857,360"/>
+<area shape="rect" id="node31" href="$ISDOpcodes_8h.html" title="llvm/CodeGen/ISDOpcodes.h" alt="" coords="2401,95,2596,121"/>
+<area shape="rect" id="node3" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1573,169,1720,196"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2085,483,2248,509"/>
+<area shape="rect" id="node4" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1056,251,1211,278"/>
+<area shape="rect" id="node17" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="23,408,193,435"/>
+<area shape="rect" id="node5" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="1063,333,1203,360"/>
+<area shape="rect" id="node16" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="855,333,987,360"/>
+<area shape="rect" id="node6" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="920,408,1043,435"/>
+<area shape="rect" id="node10" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1067,408,1237,435"/>
+<area shape="rect" id="node32" href="$ValueTypes_8h.html" title="llvm/CodeGen/ValueTypes.h" alt="" coords="2255,169,2444,196"/>
+<area shape="rect" id="node33" href="$MachineValueType_8h.html" title="llvm/Support/MachineValue\lType.h" alt="" coords="2159,244,2340,285"/>
+<area shape="rect" id="node34" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1973,333,2150,360"/>
+<area shape="rect" id="node44" href="$TypeSize_8h.html" title="llvm/Support/TypeSize.h" alt="" coords="2175,333,2340,360"/>
+<area shape="rect" id="node35" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1996,408,2199,435"/>
+<area shape="rect" id="node36" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="2273,483,2447,509"/>
+<area shape="rect" id="node37" href="$c_2DataTypes_8h.html" title="llvm&#45;c/DataTypes.h" alt="" coords="2292,557,2428,584"/>
+</map>

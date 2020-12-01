@@ -1,0 +1,5 @@
+<map id="llvm::DecIntegerState&lt; base_ty &gt;" name="llvm::DecIntegerState&lt; base_ty &gt;">
+<area shape="rect" id="node2" href="$structllvm_1_1IntegerStateBase.html" title="llvm::IntegerStateBase\l\&lt; base_ty, 0, ~base_ty(0)\&gt;" alt="" coords="5,215,185,256"/>
+<area shape="rect" id="node3" href="$structllvm_1_1AbstractState.html" title="An interface to query the internal state of an abstract attribute. " alt="" coords="23,5,157,32"/>
+<area shape="rect" id="node4" href="$structllvm_1_1IntegerStateBase.html" title="Simple state with integers encoding. " alt="" coords="111,81,266,137"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="llvm::COFF::Auxiliary" name="llvm::COFF::Auxiliary">
+<area shape="rect" id="node2" href="$structllvm_1_1COFF_1_1AuxiliaryWeakExternal.html" title="llvm::COFF::AuxiliaryWeak\lExternal" alt="" coords="268,119,451,161"/>
+<area shape="rect" id="node3" href="$classuint32__t.html" title="uint32_t" alt="" coords="5,272,73,299"/>
+<area shape="rect" id="node5" href="$structllvm_1_1COFF_1_1AuxiliarybfAndefSymbol.html" title="llvm::COFF::AuxiliarybfAndef\lSymbol" alt="" coords="263,219,456,261"/>
+<area shape="rect" id="node7" href="$structllvm_1_1COFF_1_1AuxiliaryFunctionDefinition.html" title="llvm::COFF::AuxiliaryFunction\lDefinition" alt="" coords="260,419,459,461"/>
+<area shape="rect" id="node9" href="$structllvm_1_1COFF_1_1AuxiliarySectionDefinition.html" title="llvm::COFF::AuxiliarySection\lDefinition" alt="" coords="263,330,455,371"/>
+<area shape="rect" id="node6" href="$classuint16__t.html" title="uint16_t" alt="" coords="5,432,73,459"/>
+<area shape="rect" id="node8" href="$classchar.html" title="char" alt="" coords="16,555,63,581"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="llvm::ARMSubtarget" name="llvm::ARMSubtarget">
+<area shape="rect" id="node2" href="$classARMGenSubtargetInfo.html" title="ARMGenSubtargetInfo" alt="" coords="1849,13,2004,40"/>
+<area shape="rect" id="node4" href="$classllvm_1_1TargetOptions.html" title="llvm::TargetOptions" alt="" coords="801,1900,937,1926"/>
+<area shape="rect" id="node38" href="$classllvm_1_1TargetMachine.html" title="Primary interface to the complete machine description for the target machine. " alt="" coords="1209,2321,1349,2348"/>
+<area shape="rect" id="node11" href="$classllvm_1_1MCTargetOptions.html" title="llvm::MCTargetOptions" alt="" coords="400,2108,557,2134"/>
+<area shape="rect" id="node23" href="$structllvm_1_1MCProcResourceDesc.html" title="Define a kind of processor resource that will be modeled by the scheduler. " alt="" coords="384,676,573,702"/>
+<area shape="rect" id="node32" href="$structllvm_1_1InstrStage.html" title="These values represent a non&#45;pipelined step in the execution of an instruction. " alt="" coords="421,221,536,248"/>
+<area shape="rect" id="node15" href="$classbool.html" title="bool" alt="" coords="52,1054,99,1081"/>
+<area shape="rect" id="node22" href="$structllvm_1_1MCSchedModel.html" title="Machine model for scheduling, bundling, and heuristics. " alt="" coords="1206,862,1353,889"/>
+<area shape="rect" id="node25" href="$structllvm_1_1MCSchedClassDesc.html" title="Summarize the scheduling resources required for an instruction of a particular scheduling class..." alt="" coords="390,801,567,828"/>
+<area shape="rect" id="node30" href="$structllvm_1_1MCRegisterFileDesc.html" title="A register file descriptor. " alt="" coords="391,869,567,896"/>
+<area shape="rect" id="node31" href="$structllvm_1_1MCRegisterCostEntry.html" title="Specify the cost of a register definition in terms of number of physical register allocated at regist..." alt="" coords="387,1040,570,1066"/>
+<area shape="rect" id="node36" href="$classllvm_1_1ARMBaseTargetMachine.html" title="llvm::ARMBaseTargetMachine" alt="" coords="1827,1498,2027,1525"/>
+<area shape="rect" id="node18" href="$classunsigned.html" title="unsigned" alt="" coords="38,1226,113,1253"/>
+<area shape="rect" id="node21" href="$classllvm_1_1InstrItineraryData.html" title="Itinerary data supplied by a subtarget to be used by a target. " alt="" coords="1537,862,1691,889"/>
+<area shape="rect" id="node29" href="$structllvm_1_1MCExtraProcessorInfo.html" title="Provide extra details about the machine processor. " alt="" coords="776,940,963,966"/>
+<area shape="rect" id="node48" href="$classllvm_1_1StringMapImpl.html" title="StringMapImpl &#45; This is the base class of StringMap that is shared among all of its instantiations..." alt="" coords="409,1442,548,1469"/>
+<area shape="rect" id="node24" href="$classchar.html" title="char" alt="" coords="52,721,99,748"/>
+<area shape="rect" id="node26" href="$classuint16__t.html" title="uint16_t" alt="" coords="41,512,109,538"/>
+<area shape="rect" id="node27" href="$structllvm_1_1InstrItinerary.html" title="An itinerary represents the scheduling information for an instruction. " alt="" coords="806,642,933,669"/>
+<area shape="rect" id="node35" href="$structllvm_1_1Align.html" title="This struct is a compact representation of a valid (non&#45;zero power of two) alignment. " alt="" coords="1885,1776,1968,1802"/>
+<area shape="rect" id="node37" href="$classllvm_1_1LLVMTargetMachine.html" title="This class describes a target machine that is implemented with the LLVM target&#45;independent code gener..." alt="" coords="1527,1622,1701,1649"/>
+<area shape="rect" id="node41" href="$classllvm_1_1Target.html" title="Target &#45; Wrapper for Target specific information. " alt="" coords="824,2292,915,2318"/>
+<area shape="rect" id="node43" href="$classllvm_1_1DataLayout.html" title="A parsed version of the target data layout string in and methods for querying it. ..." alt="" coords="809,2409,930,2436"/>
+<area shape="rect" id="node44" href="$classllvm_1_1Triple.html" title="Triple &#45; Helper class for working with autoconf configuration names. " alt="" coords="826,2640,913,2666"/>
+<area shape="rect" id="node47" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; std\l::unique_ptr\&lt; llvm::ARMSubtarget \&gt; \&gt;" alt="" coords="1157,1454,1401,1495"/>
+<area shape="rect" id="node49" href="$classllvm_1_1StringMap.html" title="StringMap &#45; This is an unconventional map that is specialized for handling keys that are &quot;strings&quot;..." alt="" coords="781,1443,958,1484"/>
+</map>

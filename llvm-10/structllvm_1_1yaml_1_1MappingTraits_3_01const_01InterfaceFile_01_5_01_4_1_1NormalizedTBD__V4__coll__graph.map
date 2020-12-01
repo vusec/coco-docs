@@ -1,0 +1,22 @@
+<map id="llvm::yaml::MappingTraits&lt; T &gt;::NormalizedTBD_V4" name="llvm::yaml::MappingTraits&lt; T &gt;::NormalizedTBD_V4">
+<area shape="rect" id="node2" href="$classllvm_1_1MachO_1_1PackedVersion.html" title="llvm::MachO::PackedVersion" alt="" coords="2275,28,2467,55"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l Target, 5 \&gt;" alt="" coords="2304,289,2437,330"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; Target \&gt;" alt="" coords="1985,437,2135,478"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="1128,462,1307,503"/>
+<area shape="rect" id="node9" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="llvm::SmallVectorTemplate\lCommon\&lt; T \&gt;" alt="" coords="649,498,828,539"/>
+<area shape="rect" id="node15" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; T \&gt;" alt="" coords="1353,523,1531,565"/>
+<area shape="rect" id="node16" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="919,582,1098,623"/>
+<area shape="rect" id="node10" href="$classllvm_1_1SmallVectorBase.html" title="This is all the non&#45;templated stuff common to all SmallVectors. " alt="" coords="181,447,336,473"/>
+<area shape="rect" id="node13" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="This is the part of SmallVectorTemplateBase which does not depend on whether the type T is a POD..." alt="" coords="385,498,564,539"/>
+<area shape="rect" id="node11" href="$classunsigned.html" title="unsigned" alt="" coords="5,355,80,381"/>
+<area shape="rect" id="node14" href="$classllvm_1_1SmallVectorImpl.html" title="This class consists of common code factored out of the SmallVector class to reduce code duplication b..." alt="" coords="1660,512,1843,539"/>
+<area shape="rect" id="node23" href="$classllvm_1_1SmallVector.html" title="This is a &#39;vector&#39; (really, a variable&#45;sized array), optimized for the case when the array is small..." alt="" coords="1993,367,2127,409"/>
+<area shape="rect" id="node17" href="$structllvm_1_1SmallVectorStorage.html" title="llvm::SmallVectorStorage\l\&lt; Target, N \&gt;" alt="" coords="1975,289,2145,330"/>
+<area shape="rect" id="node18" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; Target \&gt;" alt="" coords="1347,289,1537,330"/>
+<area shape="rect" id="node19" href="$classchar.html" title="char" alt="" coords="715,359,762,385"/>
+<area shape="rect" id="node20" href="$structllvm_1_1AlignedCharArrayUnion.html" title="A suitably aligned and sized character array member which can hold elements of any type..." alt="" coords="913,351,1104,393"/>
+<area shape="rect" id="node22" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\&lt; T \&gt;" alt="" coords="1331,373,1553,400"/>
+<area shape="rect" id="node21" href="$structllvm_1_1SmallVectorStorage.html" title="Storage for the SmallVector elements. " alt="" coords="1666,366,1837,407"/>
+<area shape="rect" id="node27" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e. " alt="" coords="2316,507,2425,533"/>
+<area shape="rect" id="node28" href="$classsize__t.html" title="size_t" alt="" coords="2031,507,2089,533"/>
+</map>

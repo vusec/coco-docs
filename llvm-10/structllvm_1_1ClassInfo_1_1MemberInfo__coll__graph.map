@@ -1,0 +1,9 @@
+<map id="llvm::ClassInfo::MemberInfo" name="llvm::ClassInfo::MemberInfo">
+<area shape="rect" id="node3" href="$classllvm_1_1DIDerivedType.html" title="Derived types. " alt="" coords="106,653,249,680"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DIType.html" title="Base class for types. " alt="" coords="209,577,306,604"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DIScope.html" title="Base class for scope&#45;like contexts. " alt="" coords="237,501,342,528"/>
+<area shape="rect" id="node6" href="$classllvm_1_1DINode.html" title="Tagged DWARF&#45;like metadata node. " alt="" coords="300,358,399,385"/>
+<area shape="rect" id="node7" href="$classllvm_1_1MDNode.html" title="Metadata node. " alt="" coords="273,215,380,241"/>
+<area shape="rect" id="node8" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy. " alt="" coords="237,139,345,165"/>
+<area shape="rect" id="node9" href="$classunsigned.html" title="unsigned" alt="" coords="124,5,199,32"/>
+</map>

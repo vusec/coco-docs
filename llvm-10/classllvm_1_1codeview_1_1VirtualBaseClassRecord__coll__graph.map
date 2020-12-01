@@ -1,0 +1,7 @@
+<map id="llvm::codeview::VirtualBaseClassRecord" name="llvm::codeview::VirtualBaseClassRecord">
+<area shape="rect" id="node2" href="$classllvm_1_1codeview_1_1TypeRecord.html" title="llvm::codeview::TypeRecord" alt="" coords="317,7,505,33"/>
+<area shape="rect" id="node5" href="$structllvm_1_1codeview_1_1MemberAttributes.html" title="Equvalent to CV_fldattr_t in cvinfo.h. " alt="" coords="301,108,521,135"/>
+<area shape="rect" id="node6" href="$classuint16__t.html" title="uint16_t" alt="" coords="31,105,99,132"/>
+<area shape="rect" id="node7" href="$classllvm_1_1codeview_1_1TypeIndex.html" title="A 32&#45;bit type reference. " alt="" coords="322,177,501,204"/>
+<area shape="rect" id="node8" href="$classuint32__t.html" title="uint32_t" alt="" coords="31,195,99,221"/>
+</map>

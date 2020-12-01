@@ -1,0 +1,4 @@
+<map id="llvm::AMDGPURegisterInfo" name="llvm::AMDGPURegisterInfo">
+<area shape="rect" id="node3" href="$classllvm_1_1SIRegisterInfo.html" title="llvm::SIRegisterInfo" alt="" coords="28,155,167,181"/>
+<area shape="rect" id="node2" href="$classAMDGPUGenRegisterInfo.html" title="AMDGPUGenRegisterInfo" alt="" coords="9,5,185,32"/>
+</map>

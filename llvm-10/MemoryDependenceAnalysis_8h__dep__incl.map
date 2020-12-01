@@ -1,0 +1,21 @@
+<map id="include/llvm/Analysis/MemoryDependenceAnalysis.h" name="include/llvm/Analysis/MemoryDependenceAnalysis.h">
+<area shape="rect" id="node2" href="$GVN_8h.html" title="This file provides the interface for LLVM&#39;s Global Value Numbering pass which eliminates fully redund..." alt="" coords="881,95,1043,136"/>
+<area shape="rect" id="node4" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="5,191,188,218"/>
+<area shape="rect" id="node8" href="$GVN_8cpp.html" title="lib/Transforms/Scalar\l/GVN.cpp" alt="" coords="1461,184,1607,225"/>
+<area shape="rect" id="node9" href="$GVNHoist_8cpp.html" title="lib/Transforms/Scalar\l/GVNHoist.cpp" alt="" coords="1631,184,1778,225"/>
+<area shape="rect" id="node12" href="$MemDepPrinter_8cpp.html" title="lib/Analysis/MemDepPrinter.cpp" alt="" coords="1455,102,1664,129"/>
+<area shape="rect" id="node13" href="$MemoryDependenceAnalysis_8cpp.html" title="lib/Analysis/MemoryDependence\lAnalysis.cpp" alt="" coords="1689,95,1902,136"/>
+<area shape="rect" id="node14" href="$MachineFunctionPass_8cpp.html" title="lib/CodeGen/MachineFunction\lPass.cpp" alt="" coords="1926,95,2123,136"/>
+<area shape="rect" id="node15" href="$AMDGPUAnnotateUniformValues_8cpp.html" title="This pass adds amdgpu.uniform metadata to IR values so this information can be used during instructio..." alt="" coords="2148,95,2403,136"/>
+<area shape="rect" id="node16" href="$AMDGPURewriteOutArguments_8cpp.html" title="lib/Target/AMDGPU/AMDGPURewrite\lOutArguments.cpp" alt="" coords="2427,95,2673,136"/>
+<area shape="rect" id="node17" href="$DeadStoreElimination_8cpp.html" title="lib/Transforms/Scalar\l/DeadStoreElimination.cpp" alt="" coords="2697,95,2875,136"/>
+<area shape="rect" id="node18" href="$MemCpyOptimizer_8cpp.html" title="lib/Transforms/Scalar\l/MemCpyOptimizer.cpp" alt="" coords="2899,95,3059,136"/>
+<area shape="rect" id="node19" href="$BasicBlockUtils_8cpp.html" title="lib/Transforms/Utils\l/BasicBlockUtils.cpp" alt="" coords="3083,95,3227,136"/>
+<area shape="rect" id="node20" href="$VNCoercion_8cpp.html" title="lib/Transforms/Utils\l/VNCoercion.cpp" alt="" coords="3251,95,3387,136"/>
+<area shape="rect" id="node3" href="$LinkAllPasses_8h.html" title="include/llvm/LinkAllPasses.h" alt="" coords="749,191,938,218"/>
+<area shape="rect" id="node5" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="963,184,1201,225"/>
+<area shape="rect" id="node6" href="$NVPTXTargetMachine_8cpp.html" title="lib/Target/NVPTX/NVPTXTarget\lMachine.cpp" alt="" coords="1226,184,1437,225"/>
+<area shape="rect" id="node7" href="$PassManagerBuilder_8cpp.html" title="lib/Transforms/IPO\l/PassManagerBuilder.cpp" alt="" coords="213,184,383,225"/>
+<area shape="rect" id="node10" href="$GVNSink_8cpp.html" title="This pass attempts to sink instructions into successors, reducing static instruction count and enabli..." alt="" coords="407,184,554,225"/>
+<area shape="rect" id="node11" href="$Scalar_8cpp.html" title="lib/Transforms/Scalar\l/Scalar.cpp" alt="" coords="578,184,725,225"/>
+</map>

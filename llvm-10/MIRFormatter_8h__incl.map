@@ -1,0 +1,40 @@
+<map id="include/llvm/CodeGen/MIRFormatter.h" name="include/llvm/CodeGen/MIRFormatter.h">
+<area shape="rect" id="node2" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="1467,95,1662,121"/>
+<area shape="rect" id="node30" href="$PseudoSourceValue_8h.html" title="llvm/CodeGen/PseudoSource\lValue.h" alt="" coords="2577,244,2771,285"/>
+<area shape="rect" id="node3" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="1205,497,1383,524"/>
+<area shape="rect" id="node16" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3537,661,3707,688"/>
+<area shape="rect" id="node20" href="$PointerSumType_8h.html" title="llvm/ADT/PointerSumType.h" alt="" coords="982,415,1171,442"/>
+<area shape="rect" id="node22" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="3602,333,3714,360"/>
+<area shape="rect" id="node24" href="$ilist__node_8h.html" title="llvm/ADT/ilist_node.h" alt="" coords="2943,497,3090,524"/>
+<area shape="rect" id="node27" href="$MachineMemOperand_8h.html" title="llvm/CodeGen/MachineMemOperand.h" alt="" coords="1441,169,1688,196"/>
+<area shape="rect" id="node39" href="$MachineOperand_8h.html" title="llvm/CodeGen/MachineOperand.h" alt="" coords="509,333,727,360"/>
+<area shape="rect" id="node43" href="$TargetOpcodes_8h.html" title="llvm/CodeGen/TargetOpcodes.h" alt="" coords="1081,169,1291,196"/>
+<area shape="rect" id="node45" href="$DebugLoc_8h.html" title="llvm/IR/DebugLoc.h" alt="" coords="45,579,183,606"/>
+<area shape="rect" id="node46" href="$InlineAsm_8h.html" title="llvm/IR/InlineAsm.h" alt="" coords="2371,497,2508,524"/>
+<area shape="rect" id="node47" href="$MCInstrDesc_8h.html" title="llvm/MC/MCInstrDesc.h" alt="" coords="120,661,284,688"/>
+<area shape="rect" id="node48" href="$MCSymbol_8h.html" title="llvm/MC/MCSymbol.h" alt="" coords="2227,415,2377,442"/>
+<area shape="rect" id="node49" href="$ArrayRecycler_8h.html" title="llvm/Support/ArrayRecycler.h" alt="" coords="1763,169,1956,196"/>
+<area shape="rect" id="node50" href="$TrailingObjects_8h.html" title="This header defines support for implementing classes that have some trailing object (or arrays of obj..." alt="" coords="733,251,930,278"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="765,579,909,606"/>
+<area shape="rect" id="node5" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="853,661,993,688"/>
+<area shape="rect" id="node15" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2471,579,2618,606"/>
+<area shape="rect" id="node17" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="1336,572,1500,613"/>
+<area shape="rect" id="node18" href="$TypeSize_8h.html" title="llvm/Support/TypeSize.h" alt="" coords="663,661,829,688"/>
+<area shape="rect" id="node6" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="55,736,229,763"/>
+<area shape="rect" id="node21" href="$bit_8h.html" title="llvm/ADT/bit.h" alt="" coords="1023,497,1130,524"/>
+<area shape="rect" id="node23" href="$simple__ilist_8h.html" title="llvm/ADT/simple_ilist.h" alt="" coords="3695,415,3853,442"/>
+<area shape="rect" id="node26" href="$ilist__node__options_8h.html" title="llvm/ADT/ilist_node\l_options.h" alt="" coords="3090,572,3226,613"/>
+<area shape="rect" id="node25" href="$ilist__node__base_8h.html" title="llvm/ADT/ilist_node\l_base.h" alt="" coords="2930,572,3066,613"/>
+<area shape="rect" id="node28" href="$BitmaskEnum_8h.html" title="llvm/ADT/BitmaskEnum.h" alt="" coords="984,579,1159,606"/>
+<area shape="rect" id="node29" href="$PointerUnion_8h.html" title="llvm/ADT/PointerUnion.h" alt="" coords="1493,415,1660,442"/>
+<area shape="rect" id="node33" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="2743,579,2855,606"/>
+<area shape="rect" id="node38" href="$AtomicOrdering_8h.html" title="Atomic ordering constants. " alt="" coords="1898,251,2098,278"/>
+<area shape="rect" id="node31" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="3289,497,3440,524"/>
+<area shape="rect" id="node32" href="$GlobalValue_8h.html" title="llvm/IR/GlobalValue.h" alt="" coords="2583,497,2733,524"/>
+<area shape="rect" id="node34" href="$ValueMap_8h.html" title="llvm/IR/ValueMap.h" alt="" coords="2696,333,2833,360"/>
+<area shape="rect" id="node35" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1901,415,2055,442"/>
+<area shape="rect" id="node36" href="$TrackingMDRef_8h.html" title="llvm/IR/TrackingMDRef.h" alt="" coords="1745,661,1915,688"/>
+<area shape="rect" id="node40" href="$Register_8h.html" title="llvm/CodeGen/Register.h" alt="" coords="411,415,580,442"/>
+<area shape="rect" id="node41" href="$Intrinsics_8h.html" title="llvm/IR/Intrinsics.h" alt="" coords="461,497,593,524"/>
+<area shape="rect" id="node42" href="$LowLevelTypeImpl_8h.html" title="llvm/Support/LowLevelType\lImpl.h" alt="" coords="656,408,839,449"/>
+</map>

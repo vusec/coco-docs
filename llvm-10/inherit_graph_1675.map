@@ -1,0 +1,49 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structllvm_1_1ilist__detail_1_1explicitness.html" title="Helper trait for recording whether an option is specified explicitly. " alt="" coords="5,1395,183,1437"/>
+<area shape="rect" id="node2" href="$structllvm_1_1ilist__detail_1_1extract__sentinel__tracking_3_01ilist__sentinel__tracking_3_01Enad8d94c5ce1ebbb4f62b588c4bdfec7d2.html" title="llvm::ilist_detail\l::extract_sentinel_tracking\l\&lt; ilist_sentinel_tracking\l\&lt; EnableSentinelTracking \&gt;\l, Options... \&gt;" alt="" coords="253,1329,435,1415"/>
+<area shape="rect" id="node3" href="$structllvm_1_1ilist__detail_1_1extract__sentinel__tracking_3_4.html" title="llvm::ilist_detail\l::extract_sentinel_tracking\&lt;\&gt;" alt="" coords="249,1439,439,1481"/>
+<area shape="rect" id="node5" href="$structllvm_1_1detail_1_1ConstantLog2.html" title="A tiny meta function to compute the log2 of a compile time constant. " alt="" coords="240,5,448,32"/>
+<area shape="rect" id="node6" href="$structllvm_1_1detail_1_1ConstantLog2_3_011_01_4.html" title="llvm::detail::ConstantLog2\&lt; 1 \&gt;" alt="" coords="241,56,447,83"/>
+<area shape="rect" id="node7" href="$structllvm_1_1detail_1_1is__cstring.html" title="llvm::detail::is_cstring\&lt; T \&gt;" alt="" coords="253,107,435,133"/>
+<area shape="rect" id="node8" href="$structllvm_1_1detail_1_1PointerSumTypeHelper_1_1Min.html" title="llvm::detail::PointerSum\lTypeHelper\&lt; TagT, MemberTs\l \&gt;::Min\&lt; V, Vs \&gt;" alt="" coords="243,157,445,213"/>
+<area shape="rect" id="node9" href="$structllvm_1_1detail_1_1PointerSumTypeHelper_1_1Min_3_01V_01_4.html" title="llvm::detail::PointerSum\lTypeHelper\&lt; TagT, MemberTs\l \&gt;::Min\&lt; V \&gt;" alt="" coords="243,237,445,293"/>
+<area shape="rect" id="node10" href="$structllvm_1_1detail_1_1range__item__has__provider.html" title="llvm::detail::range\l_item_has_provider\&lt;\l IterT \&gt;" alt="" coords="273,317,415,373"/>
+<area shape="rect" id="node11" href="$structllvm_1_1detail_1_1use__char__formatter.html" title="llvm::detail::use_char\l_formatter\&lt; T \&gt;" alt="" coords="271,398,417,439"/>
+<area shape="rect" id="node12" href="$structllvm_1_1detail_1_1use__double__formatter.html" title="llvm::detail::use_double\l_formatter\&lt; T \&gt;" alt="" coords="265,463,423,505"/>
+<area shape="rect" id="node13" href="$structllvm_1_1detail_1_1use__integral__formatter.html" title="llvm::detail::use_integral\l_formatter\&lt; T \&gt;" alt="" coords="263,529,425,570"/>
+<area shape="rect" id="node14" href="$structllvm_1_1detail_1_1use__pointer__formatter.html" title="llvm::detail::use_pointer\l_formatter\&lt; T \&gt;" alt="" coords="264,594,424,635"/>
+<area shape="rect" id="node15" href="$structllvm_1_1detail_1_1use__string__formatter.html" title="llvm::detail::use_string\l_formatter\&lt; T \&gt;" alt="" coords="267,659,421,701"/>
+<area shape="rect" id="node16" href="$structllvm_1_1detail_1_1uses__format__member.html" title="llvm::detail::uses\l_format_member\&lt; T \&gt;" alt="" coords="268,725,420,766"/>
+<area shape="rect" id="node17" href="$structllvm_1_1detail_1_1uses__format__provider.html" title="llvm::detail::uses\l_format_provider\&lt; T \&gt;" alt="" coords="269,790,419,831"/>
+<area shape="rect" id="node18" href="$structllvm_1_1detail_1_1uses__missing__provider.html" title="llvm::detail::uses\l_missing_provider\&lt; T \&gt;" alt="" coords="265,855,423,897"/>
+<area shape="rect" id="node19" href="$structllvm_1_1detail_1_1uses__stream__operator.html" title="llvm::detail::uses\l_stream_operator\&lt; T \&gt;" alt="" coords="267,921,421,962"/>
+<area shape="rect" id="node20" href="$structllvm_1_1hashing_1_1detail_1_1is__hashable__data.html" title="Trait to indicate whether a type&#39;s bits can be hashed directly. " alt="" coords="263,986,425,1027"/>
+<area shape="rect" id="node21" href="$structllvm_1_1hashing_1_1detail_1_1is__hashable__data_3_01std_1_1pair_3_01T_00_01U_01_4_01_4.html" title="llvm::hashing::detail\l::is_hashable_data\&lt; std\l::pair\&lt; T, U \&gt; \&gt;" alt="" coords="263,1052,425,1108"/>
+<area shape="rect" id="node22" href="$structllvm_1_1ilist__detail_1_1check__options_3_01Option1_00_01Options_8_8_8_01_4.html" title="llvm::ilist_detail\l::check_options\&lt; Option1,\l Options... \&gt;" alt="" coords="257,1132,431,1188"/>
+<area shape="rect" id="node23" href="$structllvm_1_1negation.html" title="llvm::negation\&lt; T \&gt;" alt="" coords="277,1212,411,1239"/>
+<area shape="rect" id="node24" href="$structllvm_1_1parallel_1_1is__execution__policy.html" title="llvm::parallel::is\l_execution_policy\&lt; T \&gt;" alt="" coords="265,1263,423,1305"/>
+<area shape="rect" id="node26" href="$structllvm_1_1conjunction.html" title="llvm::conjunction\&lt;... \&gt;" alt="" coords="268,1505,420,1532"/>
+<area shape="rect" id="node27" href="$structllvm_1_1detail_1_1PointerSumTypeHelper_1_1Checker_3_01MemberT_01_4.html" title="llvm::detail::PointerSum\lTypeHelper\&lt; TagT, MemberTs\l \&gt;::Checker\&lt; MemberT \&gt;" alt="" coords="243,1556,445,1612"/>
+<area shape="rect" id="node28" href="$structllvm_1_1dwarf_1_1EnumTraits_3_01Attribute_01_4.html" title="llvm::dwarf::EnumTraits\l\&lt; Attribute \&gt;" alt="" coords="263,1637,425,1678"/>
+<area shape="rect" id="node29" href="$structllvm_1_1dwarf_1_1EnumTraits_3_01Form_01_4.html" title="llvm::dwarf::EnumTraits\l\&lt; Form \&gt;" alt="" coords="263,1702,425,1743"/>
+<area shape="rect" id="node30" href="$structllvm_1_1dwarf_1_1EnumTraits_3_01Index_01_4.html" title="llvm::dwarf::EnumTraits\l\&lt; Index \&gt;" alt="" coords="263,1767,425,1809"/>
+<area shape="rect" id="node31" href="$structllvm_1_1dwarf_1_1EnumTraits_3_01Tag_01_4.html" title="llvm::dwarf::EnumTraits\l\&lt; Tag \&gt;" alt="" coords="263,1833,425,1874"/>
+<area shape="rect" id="node32" href="$structllvm_1_1ilist__detail_1_1check__options_3_4.html" title="llvm::ilist_detail\l::check_options\&lt;\&gt;" alt="" coords="279,1898,409,1939"/>
+<area shape="rect" id="node33" href="$structllvm_1_1ilist__detail_1_1is__valid__option_3_01ilist__sentinel__tracking_3_01EnableSentinelTracking_01_4_01_4.html" title="llvm::ilist_detail\l::is_valid_option\&lt; ilist\l_sentinel_tracking\&lt; EnableSentinel\lTracking \&gt; \&gt;" alt="" coords="231,1963,457,2034"/>
+<area shape="rect" id="node34" href="$structllvm_1_1ilist__detail_1_1is__valid__option_3_01ilist__tag_3_01Tag_01_4_01_4.html" title="llvm::ilist_detail\l::is_valid_option\&lt; ilist\l_tag\&lt; Tag \&gt; \&gt;" alt="" coords="270,2059,418,2115"/>
+<area shape="rect" id="node35" href="$structllvm_1_1is__bitmask__enum_1_1type.html" title="llvm::is_bitmask_enum\l\&lt; E, Enable \&gt;::type" alt="" coords="266,2139,422,2181"/>
+<area shape="rect" id="node36" href="$structllvm_1_1is__trivially__copy__constructible_3_01T_01_6_01_4.html" title="llvm::is_trivially\l_copy_constructible\l\&lt; T &amp; \&gt;" alt="" coords="275,2205,413,2261"/>
+<area shape="rect" id="node37" href="$structllvm_1_1is__trivially__copyable_3_01PointerIntPair_3_01PointerTy_00_01IntBits_00_01IntType36f5fd1587d37664b81e2f9782e3adc4.html" title="llvm::is_trivially\l_copyable\&lt; PointerIntPair\l\&lt; PointerTy, IntBits, IntType,\l PtrTraits, Info \&gt; \&gt;" alt="" coords="248,2286,440,2357"/>
+<area shape="rect" id="node38" href="$classllvm_1_1is__trivially__copyable_3_01T_01_5_01_4.html" title="llvm::is_trivially\l_copyable\&lt; T * \&gt;" alt="" coords="283,2381,405,2422"/>
+<area shape="rect" id="node39" href="$structllvm_1_1is__trivially__move__constructible_3_01T_01_6_01_4.html" title="llvm::is_trivially\l_move_constructible\l\&lt; T &amp; \&gt;" alt="" coords="273,2447,415,2503"/>
+<area shape="rect" id="node40" href="$structllvm_1_1is__trivially__move__constructible_3_01T_01_6_6_01_4.html" title="llvm::is_trivially\l_move_constructible\l\&lt; T &amp;&amp; \&gt;" alt="" coords="273,2527,415,2583"/>
+<area shape="rect" id="node41" href="$structstd_1_1is__error__code__enum_3_01llvm_1_1BitcodeError_01_4.html" title="std::is_error_code\l_enum\&lt; llvm::BitcodeError \&gt;" alt="" coords="249,2607,439,2649"/>
+<area shape="rect" id="node42" href="$structstd_1_1is__error__code__enum_3_01llvm_1_1codeview_1_1cv__error__code_01_4.html" title="std::is_error_code\l_enum\&lt; llvm::codeview\l::cv_error_code \&gt;" alt="" coords="264,2673,424,2729"/>
+<area shape="rect" id="node43" href="$structstd_1_1is__error__code__enum_3_01llvm_1_1errc_01_4.html" title="std::is_error_code\l_enum\&lt; llvm::errc \&gt;" alt="" coords="275,2754,413,2795"/>
+<area shape="rect" id="node44" href="$structstd_1_1is__error__code__enum_3_01llvm_1_1msf_1_1msf__error__code_01_4.html" title="std::is_error_code\l_enum\&lt; llvm::msf::msf\l_error_code \&gt;" alt="" coords="265,2820,423,2876"/>
+<area shape="rect" id="node45" href="$structstd_1_1is__error__code__enum_3_01llvm_1_1object_1_1object__error_01_4.html" title="std::is_error_code\l_enum\&lt; llvm::object\l::object_error \&gt;" alt="" coords="274,2900,414,2956"/>
+<area shape="rect" id="node46" href="$structstd_1_1is__error__code__enum_3_01llvm_1_1pdb_1_1dia__error__code_01_4.html" title="std::is_error_code\l_enum\&lt; llvm::pdb::dia\l_error_code \&gt;" alt="" coords="269,2980,419,3036"/>
+<area shape="rect" id="node47" href="$structstd_1_1is__error__code__enum_3_01llvm_1_1pdb_1_1pdb__error__code_01_4.html" title="std::is_error_code\l_enum\&lt; llvm::pdb::pdb\l_error_code \&gt;" alt="" coords="267,3060,421,3116"/>
+<area shape="rect" id="node48" href="$structstd_1_1is__error__code__enum_3_01llvm_1_1pdb_1_1raw__error__code_01_4.html" title="std::is_error_code\l_enum\&lt; llvm::pdb::raw\l_error_code \&gt;" alt="" coords="267,3140,421,3196"/>
+<area shape="rect" id="node49" href="$structstd_1_1is__error__code__enum_3_01llvm_1_1sampleprof__error_01_4.html" title="std::is_error_code\l_enum\&lt; llvm::sampleprof\l_error \&gt;" alt="" coords="259,3220,429,3276"/>
+</map>

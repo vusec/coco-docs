@@ -1,0 +1,7 @@
+<map id="llvm::ELFYAML::Object" name="llvm::ELFYAML::Object">
+<area shape="rect" id="node3" href="$structllvm_1_1ELFYAML_1_1FileHeader.html" title="llvm::ELFYAML::FileHeader" alt="" coords="691,303,876,329"/>
+<area shape="rect" id="node6" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; llvm\l::yaml::Hex64 \&gt;" alt="" coords="333,171,472,213"/>
+<area shape="rect" id="node7" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; T \&gt;" alt="" coords="5,179,140,205"/>
+<area shape="rect" id="node9" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; llvm\l::yaml::Hex16 \&gt;" alt="" coords="333,237,472,278"/>
+<area shape="rect" id="node15" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; std\l::vector\&lt; llvm::ELFYAML\l::Symbol \&gt; \&gt;" alt="" coords="496,5,667,61"/>
+</map>

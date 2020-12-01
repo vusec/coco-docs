@@ -1,0 +1,12 @@
+<map id="lib/Target/WebAssembly/WebAssemblyTargetMachine.h" name="lib/Target/WebAssembly/WebAssemblyTargetMachine.h">
+<area shape="rect" id="node2" href="$WebAssemblyAsmPrinter_8cpp.html" title="This file contains a printer that converts from our internal representation of machine&#45;dependent LLVM..." alt="" coords="5,95,207,136"/>
+<area shape="rect" id="node3" href="$WebAssemblyFastISel_8cpp.html" title="This file defines the WebAssembly&#45;specific support for the FastISel class. " alt="" coords="231,95,416,136"/>
+<area shape="rect" id="node4" href="$WebAssemblyFrameLowering_8cpp.html" title="This file contains the WebAssembly implementation of TargetFrameLowering class. " alt="" coords="440,95,665,136"/>
+<area shape="rect" id="node5" href="$WebAssemblyISelDAGToDAG_8cpp.html" title="This file defines an instruction selector for the WebAssembly target. " alt="" coords="690,95,922,136"/>
+<area shape="rect" id="node6" href="$WebAssemblyISelLowering_8cpp.html" title="This file implements the WebAssemblyTargetLowering class. " alt="" coords="946,95,1157,136"/>
+<area shape="rect" id="node7" href="$WebAssemblySelectionDAGInfo_8cpp.html" title="This file implements the WebAssemblySelectionDAGInfo class. " alt="" coords="1181,95,1423,136"/>
+<area shape="rect" id="node8" href="$WebAssemblyTargetMachine_8cpp.html" title="This file defines the WebAssembly&#45;specific subclass of TargetMachine. " alt="" coords="1349,184,1572,225"/>
+<area shape="rect" id="node9" href="$WebAssemblyTargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the WebAssembly target machine..." alt="" coords="1498,95,1738,136"/>
+<area shape="rect" id="node11" href="$WebAssemblyTargetObjectFile_8cpp.html" title="This file defines the functions of the WebAssembly&#45;specific subclass of TargetLoweringObjectFile. " alt="" coords="1762,95,1994,136"/>
+<area shape="rect" id="node10" href="$WebAssemblyTargetTransformInfo_8cpp.html" title="This file defines the WebAssembly&#45;specific TargetTransformInfo implementation. " alt="" coords="1596,184,1851,225"/>
+</map>

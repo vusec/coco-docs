@@ -1,0 +1,45 @@
+<map id="lib/Target/X86/X86DiscriminateMemOps.cpp" name="lib/Target/X86/X86DiscriminateMemOps.cpp">
+<area shape="rect" id="node2" href="$X86_8h.html" title="X86.h" alt="" coords="2165,445,2221,471"/>
+<area shape="rect" id="node4" href="$X86InstrBuilder_8h.html" title="X86InstrBuilder.h" alt="" coords="665,266,787,293"/>
+<area shape="rect" id="node19" href="$X86InstrInfo_8h.html" title="X86InstrInfo.h" alt="" coords="1478,184,1582,211"/>
+<area shape="rect" id="node26" href="$X86MachineFunctionInfo_8h.html" title="X86MachineFunctionInfo.h" alt="" coords="1992,266,2169,293"/>
+<area shape="rect" id="node30" href="$X86Subtarget_8h.html" title="X86Subtarget.h" alt="" coords="2833,102,2945,129"/>
+<area shape="rect" id="node43" href="$MachineModuleInfo_8h.html" title="llvm/CodeGen/MachineModule\lInfo.h" alt="" coords="3153,437,3353,479"/>
+<area shape="rect" id="node46" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="4155,616,4303,643"/>
+<area shape="rect" id="node47" href="$DebugInfoMetadata_8h.html" title="llvm/IR/DebugInfoMetadata.h" alt="" coords="3428,445,3621,471"/>
+<area shape="rect" id="node48" href="$SampleProf_8h.html" title="llvm/ProfileData/SampleProf.h" alt="" coords="4092,534,4291,561"/>
+<area shape="rect" id="node49" href="$SampleProfReader_8h.html" title="llvm/ProfileData/SampleProf\lReader.h" alt="" coords="3962,437,4149,479"/>
+<area shape="rect" id="node50" href="$SampleProfile_8h.html" title="This file provides the interface for the sampled PGO loader pass. " alt="" coords="3799,95,3941,136"/>
+<area shape="rect" id="node3" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="2823,534,2989,561"/>
+<area shape="rect" id="node5" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2458,616,2621,643"/>
+<area shape="rect" id="node8" href="$MachineFrameInfo_8h.html" title="llvm/CodeGen/MachineFrame\lInfo.h" alt="" coords="2183,527,2378,568"/>
+<area shape="rect" id="node10" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="1287,445,1506,471"/>
+<area shape="rect" id="node14" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="537,534,731,561"/>
+<area shape="rect" id="node15" href="$MachineMemOperand_8h.html" title="llvm/CodeGen/MachineMemOperand.h" alt="" coords="471,616,717,643"/>
+<area shape="rect" id="node16" href="$MachineOperand_8h.html" title="llvm/CodeGen/MachineOperand.h" alt="" coords="791,616,1010,643"/>
+<area shape="rect" id="node17" href="$MCInstrDesc_8h.html" title="llvm/MC/MCInstrDesc.h" alt="" coords="181,616,345,643"/>
+<area shape="rect" id="node18" href="$MachineInstrBuilder_8h.html" title="llvm/CodeGen/MachineInstr\lBuilder.h" alt="" coords="725,348,909,389"/>
+<area shape="rect" id="node11" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2655,534,2799,561"/>
+<area shape="rect" id="node12" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1210,691,1365,717"/>
+<area shape="rect" id="node13" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3823,616,3970,643"/>
+<area shape="rect" id="node20" href="$X86BaseInfo_8h.html" title="MCTargetDesc/X86BaseInfo.h" alt="" coords="5,355,207,382"/>
+<area shape="rect" id="node21" href="$X86InstrFMA3Info_8h.html" title="X86InstrFMA3Info.h" alt="" coords="1237,355,1375,382"/>
+<area shape="rect" id="node22" href="$X86RegisterInfo_8h.html" title="X86RegisterInfo.h" alt="" coords="1281,266,1408,293"/>
+<area shape="rect" id="node23" href="$ISDOpcodes_8h.html" title="llvm/CodeGen/ISDOpcodes.h" alt="" coords="1433,266,1627,293"/>
+<area shape="rect" id="node24" href="$TargetInstrInfo_8h.html" title="llvm/CodeGen/TargetInstr\lInfo.h" alt="" coords="1012,259,1184,300"/>
+<area shape="rect" id="node27" href="$CallingConvLower_8h.html" title="llvm/CodeGen/CallingConv\lLower.h" alt="" coords="2347,348,2527,389"/>
+<area shape="rect" id="node29" href="$MachineValueType_8h.html" title="llvm/Support/MachineValue\lType.h" alt="" coords="1989,348,2170,389"/>
+<area shape="rect" id="node28" href="$CallingConv_8h.html" title="llvm/IR/CallingConv.h" alt="" coords="2605,445,2756,471"/>
+<area shape="rect" id="node31" href="$X86FrameLowering_8h.html" title="X86FrameLowering.h" alt="" coords="3007,184,3152,211"/>
+<area shape="rect" id="node32" href="$X86ISelLowering_8h.html" title="X86ISelLowering.h" alt="" coords="2346,184,2477,211"/>
+<area shape="rect" id="node33" href="$X86SelectionDAGInfo_8h.html" title="X86SelectionDAGInfo.h" alt="" coords="3228,184,3389,211"/>
+<area shape="rect" id="node34" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="2676,266,2800,293"/>
+<area shape="rect" id="node35" href="$CallLowering_8h.html" title="This file describes how to lower LLVM calls to machine code calls. " alt="" coords="2483,259,2652,300"/>
+<area shape="rect" id="node36" href="$InstructionSelector_8h.html" title="llvm/CodeGen/GlobalISel\l/InstructionSelector.h" alt="" coords="1888,527,2057,568"/>
+<area shape="rect" id="node37" href="$LegalizerInfo_8h.html" title="llvm/CodeGen/GlobalISel\l/LegalizerInfo.h" alt="" coords="1509,348,1679,389"/>
+<area shape="rect" id="node38" href="$RegisterBankInfo_8h.html" title="llvm/CodeGen/GlobalISel\l/RegisterBankInfo.h" alt="" coords="1491,527,1660,568"/>
+<area shape="rect" id="node39" href="$TargetSubtargetInfo_8h.html" title="llvm/CodeGen/TargetSubtarget\lInfo.h" alt="" coords="2926,437,3129,479"/>
+<area shape="rect" id="node40" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="2795,184,2983,211"/>
+<area shape="rect" id="node44" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="3701,691,3871,717"/>
+<area shape="rect" id="node45" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM. " alt="" coords="3605,534,3764,561"/>
+</map>

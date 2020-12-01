@@ -1,0 +1,7 @@
+<map id="llvm::irsymtab::storage::Range&lt; T &gt;" name="llvm::irsymtab::storage::Range&lt; T &gt;">
+<area shape="rect" id="node2" href="$structllvm_1_1irsymtab_1_1storage_1_1Range.html" title="llvm::irsymtab::storage\l::Range\&lt; llvm::irsymtab\l::storage::Uncommon \&gt;" alt="" coords="357,5,520,61"/>
+<area shape="rect" id="node3" href="$structllvm_1_1irsymtab_1_1storage_1_1Range.html" title="llvm::irsymtab::storage\l::Range\&lt; llvm::irsymtab\l::storage::Module \&gt;" alt="" coords="357,85,520,141"/>
+<area shape="rect" id="node4" href="$structllvm_1_1irsymtab_1_1storage_1_1Range.html" title="llvm::irsymtab::storage\l::Range\&lt; llvm::irsymtab\l::storage::Str \&gt;" alt="" coords="357,165,520,221"/>
+<area shape="rect" id="node5" href="$structllvm_1_1irsymtab_1_1storage_1_1Range.html" title="llvm::irsymtab::storage\l::Range\&lt; llvm::irsymtab\l::storage::Symbol \&gt;" alt="" coords="357,245,520,301"/>
+<area shape="rect" id="node6" href="$structllvm_1_1irsymtab_1_1storage_1_1Range.html" title="llvm::irsymtab::storage\l::Range\&lt; llvm::irsymtab\l::storage::Comdat \&gt;" alt="" coords="357,325,520,381"/>
+</map>

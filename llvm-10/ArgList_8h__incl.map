@@ -1,0 +1,29 @@
+<map id="include/llvm/Option/ArgList.h" name="include/llvm/Option/ArgList.h">
+<area shape="rect" id="node2" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1959,319,2103,345"/>
+<area shape="rect" id="node19" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2985,393,3148,420"/>
+<area shape="rect" id="node20" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1132,543,1303,569"/>
+<area shape="rect" id="node39" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2720,169,2875,196"/>
+<area shape="rect" id="node41" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3480,319,3627,345"/>
+<area shape="rect" id="node44" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="2987,244,3146,271"/>
+<area shape="rect" id="node45" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="3379,244,3506,271"/>
+<area shape="rect" id="node46" href="$Arg_8h.html" title="Defines the llvm::Arg class for parsed arguments. " alt="" coords="3653,95,3776,121"/>
+<area shape="rect" id="node47" href="$Option_8h.html" title="llvm/Option/Option.h" alt="" coords="3879,169,4020,196"/>
+<area shape="rect" id="node48" href="$OptSpecifier_8h.html" title="llvm/Option/OptSpecifier.h" alt="" coords="5101,319,5275,345"/>
+<area shape="rect" id="node3" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="2703,468,2843,495"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="4363,617,4525,644"/>
+<area shape="rect" id="node18" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="2153,543,2276,569"/>
+<area shape="rect" id="node30" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1839,393,1993,420"/>
+<area shape="rect" id="node4" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="2731,617,2906,644"/>
+<area shape="rect" id="node5" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="4532,543,4721,569"/>
+<area shape="rect" id="node10" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="2648,543,2851,569"/>
+<area shape="rect" id="node13" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="3149,543,3320,569"/>
+<area shape="rect" id="node22" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2423,468,2577,495"/>
+<area shape="rect" id="node23" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3591,468,3769,495"/>
+<area shape="rect" id="node25" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="4300,468,4468,495"/>
+<area shape="rect" id="node31" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2970,468,3110,495"/>
+<area shape="rect" id="node32" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1429,468,1561,495"/>
+<area shape="rect" id="node40" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="2453,244,2630,271"/>
+<area shape="rect" id="node42" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="381,393,555,420"/>
+<area shape="rect" id="node43" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="297,319,503,345"/>
+<area shape="rect" id="node49" href="$OptTable_8h.html" title="llvm/Option/OptTable.h" alt="" coords="3871,244,4027,271"/>
+</map>

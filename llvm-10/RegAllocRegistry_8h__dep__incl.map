@@ -1,0 +1,8 @@
+<map id="include/llvm/CodeGen/RegAllocRegistry.h" name="include/llvm/CodeGen/RegAllocRegistry.h">
+<area shape="rect" id="node2" href="$RegAllocBasic_8cpp.html" title="lib/CodeGen/RegAllocBasic.cpp" alt="" coords="5,102,215,129"/>
+<area shape="rect" id="node3" href="$RegAllocFast_8cpp.html" title="lib/CodeGen/RegAllocFast.cpp" alt="" coords="239,102,442,129"/>
+<area shape="rect" id="node4" href="$RegAllocGreedy_8cpp.html" title="lib/CodeGen/RegAllocGreedy.cpp" alt="" coords="466,102,685,129"/>
+<area shape="rect" id="node5" href="$RegAllocPBQP_8cpp.html" title="lib/CodeGen/RegAllocPBQP.cpp" alt="" coords="709,102,922,129"/>
+<area shape="rect" id="node6" href="$TargetPassConfig_8cpp.html" title="lib/CodeGen/TargetPassConfig.cpp" alt="" coords="947,102,1175,129"/>
+<area shape="rect" id="node7" href="$WebAssemblyTargetMachine_8cpp.html" title="This file defines the WebAssembly&#45;specific subclass of TargetMachine. " alt="" coords="1199,95,1421,136"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="llvm::AMDGPUMachineModuleInfo" name="llvm::AMDGPUMachineModuleInfo">
+<area shape="rect" id="node2" href="$classllvm_1_1MachineModuleInfoELF.html" title="MachineModuleInfoELF &#45; This is a MachineModuleInfoImpl implementation for ELF targets. " alt="" coords="23,80,214,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MachineModuleInfoImpl.html" title="This class can be derived from and used by targets to hold private target&#45;specific information for ea..." alt="" coords="23,5,215,32"/>
+</map>

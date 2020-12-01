@@ -1,0 +1,37 @@
+<map id="lib/MC/WinCOFFObjectWriter.cpp" name="lib/MC/WinCOFFObjectWriter.cpp">
+<area shape="rect" id="node2" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1586,453,1741,480"/>
+<area shape="rect" id="node4" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2562,603,2709,629"/>
+<area shape="rect" id="node5" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1344,677,1498,704"/>
+<area shape="rect" id="node14" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2760,752,2949,779"/>
+<area shape="rect" id="node24" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3323,677,3500,704"/>
+<area shape="rect" id="node26" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="2319,453,2478,480"/>
+<area shape="rect" id="node27" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1413,603,1576,629"/>
+<area shape="rect" id="node28" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="3171,528,3298,555"/>
+<area shape="rect" id="node29" href="$BinaryFormat_2COFF_8h.html" title="llvm/BinaryFormat/COFF.h" alt="" coords="4944,677,5122,704"/>
+<area shape="rect" id="node30" href="$MCAsmLayout_8h.html" title="llvm/MC/MCAsmLayout.h" alt="" coords="1088,379,1261,405"/>
+<area shape="rect" id="node31" href="$MCAssembler_8h.html" title="llvm/MC/MCAssembler.h" alt="" coords="3079,80,3248,107"/>
+<area shape="rect" id="node32" href="$MCFixup_8h.html" title="llvm/MC/MCFixup.h" alt="" coords="3120,304,3258,331"/>
+<area shape="rect" id="node33" href="$MCExpr_8h.html" title="llvm/MC/MCExpr.h" alt="" coords="3222,379,3356,405"/>
+<area shape="rect" id="node34" href="$MCFragment_8h.html" title="llvm/MC/MCFragment.h" alt="" coords="2436,229,2598,256"/>
+<area shape="rect" id="node35" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="1010,752,1165,779"/>
+<area shape="rect" id="node36" href="$MCSymbol_8h.html" title="llvm/MC/MCSymbol.h" alt="" coords="3536,155,3687,181"/>
+<area shape="rect" id="node38" href="$MCContext_8h.html" title="llvm/MC/MCContext.h" alt="" coords="1844,379,1998,405"/>
+<area shape="rect" id="node39" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="4480,528,4666,555"/>
+<area shape="rect" id="node40" href="$MCObjectWriter_8h.html" title="llvm/MC/MCObjectWriter.h" alt="" coords="3659,453,3839,480"/>
+<area shape="rect" id="node41" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="4235,603,4386,629"/>
+<area shape="rect" id="node42" href="$MCSection_8h.html" title="llvm/MC/MCSection.h" alt="" coords="2443,155,2594,181"/>
+<area shape="rect" id="node43" href="$MCSectionCOFF_8h.html" title="llvm/MC/MCSectionCOFF.h" alt="" coords="2724,80,2910,107"/>
+<area shape="rect" id="node44" href="$MCSymbolCOFF_8h.html" title="llvm/MC/MCSymbolCOFF.h" alt="" coords="3621,80,3808,107"/>
+<area shape="rect" id="node45" href="$MCValue_8h.html" title="llvm/MC/MCValue.h" alt="" coords="3456,80,3596,107"/>
+<area shape="rect" id="node46" href="$MCWinCOFFObjectWriter_8h.html" title="llvm/MC/MCWinCOFFObjectWriter.h" alt="" coords="2487,379,2726,405"/>
+<area shape="rect" id="node47" href="$StringTableBuilder_8h.html" title="llvm/MC/StringTableBuilder.h" alt="" coords="2022,379,2214,405"/>
+<area shape="rect" id="node48" href="$CRC_8h.html" title="llvm/Support/CRC.h" alt="" coords="5147,80,5287,107"/>
+<area shape="rect" id="node49" href="$LEB128_8h.html" title="llvm/Support/LEB128.h" alt="" coords="4543,229,4699,256"/>
+<area shape="rect" id="node3" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="2107,528,2284,555"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1409,901,1572,928"/>
+<area shape="rect" id="node8" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1125,827,1296,853"/>
+<area shape="rect" id="node22" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="2936,603,3109,629"/>
+<area shape="rect" id="node23" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1827,677,1980,704"/>
+<area shape="rect" id="node25" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="1419,528,1626,555"/>
+<area shape="rect" id="node6" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="846,752,986,779"/>
+</map>

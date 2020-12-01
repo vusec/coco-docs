@@ -1,0 +1,32 @@
+<map id="llvm::IVVisitor" name="llvm::IVVisitor">
+<area shape="rect" id="node2" href="$classllvm_1_1DominatorTree.html" title="Concrete subclass of DominatorTreeBase that is used to compute a normal dominator tree..." alt="" coords="3480,245,3620,271"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DominatorTreeBase.html" title="llvm::DominatorTreeBase\l\&lt; BasicBlock, false \&gt;" alt="" coords="3260,237,3431,279"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l BasicBlock *, IsPostDom\l ? 4 :1 \&gt;" alt="" coords="2533,610,2708,666"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; BasicBlock * \&gt;" alt="" coords="2142,681,2293,723"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="1128,761,1307,803"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="llvm::SmallVectorTemplate\lCommon\&lt; T \&gt;" alt="" coords="649,652,828,693"/>
+<area shape="rect" id="node13" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; T \&gt;" alt="" coords="1353,660,1531,701"/>
+<area shape="rect" id="node14" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="919,711,1098,752"/>
+<area shape="rect" id="node34" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="1577,601,1756,643"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SmallVectorBase.html" title="This is all the non&#45;templated stuff common to all SmallVectors. " alt="" coords="181,601,336,627"/>
+<area shape="rect" id="node11" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="This is the part of SmallVectorTemplateBase which does not depend on whether the type T is a POD..." alt="" coords="385,593,564,635"/>
+<area shape="rect" id="node9" href="$classunsigned.html" title="unsigned" alt="" coords="5,297,80,323"/>
+<area shape="rect" id="node28" href="$classllvm_1_1DominatorTreeBase.html" title="Core dominator tree base class. " alt="" coords="2891,344,3062,385"/>
+<area shape="rect" id="node12" href="$classllvm_1_1SmallVectorImpl.html" title="This class consists of common code factored out of the SmallVector class to reduce code duplication b..." alt="" coords="1780,661,1963,687"/>
+<area shape="rect" id="node21" href="$classllvm_1_1SmallVector.html" title="This is a &#39;vector&#39; (really, a variable&#45;sized array), optimized for the case when the array is small..." alt="" coords="2151,544,2284,585"/>
+<area shape="rect" id="node33" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; NodeT * \&gt;" alt="" coords="2142,609,2293,651"/>
+<area shape="rect" id="node15" href="$structllvm_1_1SmallVectorStorage.html" title="llvm::SmallVectorStorage\l\&lt; BasicBlock *, N \&gt;" alt="" coords="2132,479,2303,520"/>
+<area shape="rect" id="node16" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; BasicBlock *\&gt;" alt="" coords="1347,527,1537,568"/>
+<area shape="rect" id="node17" href="$classchar.html" title="char" alt="" coords="715,443,762,470"/>
+<area shape="rect" id="node18" href="$structllvm_1_1AlignedCharArrayUnion.html" title="A suitably aligned and sized character array member which can hold elements of any type..." alt="" coords="913,480,1104,521"/>
+<area shape="rect" id="node20" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\&lt; T \&gt;" alt="" coords="1331,457,1553,483"/>
+<area shape="rect" id="node36" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; NodeT *\&gt;" alt="" coords="1347,360,1537,401"/>
+<area shape="rect" id="node19" href="$structllvm_1_1SmallVectorStorage.html" title="Storage for the SmallVector elements. " alt="" coords="1786,449,1957,491"/>
+<area shape="rect" id="node35" href="$structllvm_1_1SmallVectorStorage.html" title="llvm::SmallVectorStorage\l\&lt; NodeT *, N \&gt;" alt="" coords="2132,360,2303,401"/>
+<area shape="rect" id="node32" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l NodeT *, IsPostDom\l ? 4 :1 \&gt;" alt="" coords="2547,347,2695,403"/>
+<area shape="rect" id="node22" href="$classbool.html" title="bool" alt="" coords="2597,158,2644,185"/>
+<area shape="rect" id="node23" href="$classdecltype_07std_1_1declval_3_01BasicBlock_01_5_4_07_08_01-_4getParent_07_08_08.html" title="declval\&lt; BasicBlock\l *\&gt;() &#45;\&gt;getParent())" alt="" coords="2906,200,3047,241"/>
+<area shape="rect" id="node24" href="$classllvm_1_1DomTreeNodeBase.html" title="llvm::DomTreeNodeBase\l\&lt; BasicBlock \&gt;" alt="" coords="2892,5,3061,47"/>
+<area shape="rect" id="node25" href="$classllvm_1_1DomTreeNodeBase.html" title="Base class for the actual dominator tree node. " alt="" coords="2536,5,2705,47"/>
+<area shape="rect" id="node27" href="$classDenseMap_3_01BasicBlock_01_5_00_01std_1_1unique__ptr_3_01DomTreeNodeBase_3_01BasicBlock_01_4_01_4_4.html" title="unique_ptr\&lt; DomTreeNodeBase\l\&lt; BasicBlock \&gt; \&gt;\&gt;" alt="" coords="2872,409,3081,451"/>
+</map>

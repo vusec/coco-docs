@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1mca_1_1ResourceStrategy.html" title="Resource allocation strategy used by hardware scheduler resources. " alt="" coords="5,13,197,39"/>
+<area shape="rect" id="node2" href="$classllvm_1_1mca_1_1DefaultResourceStrategy.html" title="Default resource allocation strategy used by processor resource groups and processor resources with m..." alt="" coords="245,5,431,47"/>
+</map>

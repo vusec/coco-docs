@@ -1,0 +1,10 @@
+<map id="llvm::object::ELFObjectFile&lt; ELFT &gt;" name="llvm::object::ELFObjectFile&lt; ELFT &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1object_1_1ELFObjectFileBase.html" title="llvm::object::ELFObjectFileBase" alt="" coords="936,7,1147,33"/>
+<area shape="rect" id="node3" href="$classllvm_1_1object_1_1ObjectFile.html" title="This class is the base class for all object file types. " alt="" coords="649,7,805,33"/>
+<area shape="rect" id="node4" href="$classllvm_1_1object_1_1SymbolicFile.html" title="llvm::object::SymbolicFile" alt="" coords="428,7,600,33"/>
+<area shape="rect" id="node5" href="$classllvm_1_1object_1_1Binary.html" title="llvm::object::Binary" alt="" coords="244,7,379,33"/>
+<area shape="rect" id="node6" href="$classllvm_1_1MemoryBufferRef.html" title="llvm::MemoryBufferRef" alt="" coords="5,7,163,33"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; Elf\l_Word \&gt;" alt="" coords="974,58,1109,99"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ArrayRef.html" title="ArrayRef &#45; Represent a constant reference to an array (0 or more elements consecutively in memory)..." alt="" coords="658,65,797,92"/>
+<area shape="rect" id="node10" href="$classbool.html" title="bool" alt="" coords="1018,175,1065,201"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="llvm::RuntimePointerChecking::CheckingPtrGroup" name="llvm::RuntimePointerChecking::CheckingPtrGroup">
+<area shape="rect" id="node2" href="$classllvm_1_1RuntimePointerChecking.html" title="Holds information about the memory runtime legality checks to verify that a group of pointers do not ..." alt="" coords="3212,345,3411,371"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::RuntimePointerChecking\l::PointerInfo, 2 \&gt;" alt="" coords="2860,410,3063,466"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; llvm::RuntimePointerChecking\l::PointerInfo \&gt;" alt="" coords="2408,518,2619,574"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="1207,561,1448,617"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="llvm::SmallVectorTemplate\lCommon\&lt; T \&gt;" alt="" coords="728,452,907,493"/>
+<area shape="rect" id="node12" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; T \&gt;" alt="" coords="1494,411,1673,452"/>
+<area shape="rect" id="node13" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="998,452,1177,493"/>
+<area shape="rect" id="node23" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="1719,486,1960,542"/>
+<area shape="rect" id="node31" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="1238,340,1417,381"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SmallVectorBase.html" title="This is all the non&#45;templated stuff common to all SmallVectors. " alt="" coords="260,490,415,517"/>
+<area shape="rect" id="node10" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="This is the part of SmallVectorTemplateBase which does not depend on whether the type T is a POD..." alt="" coords="464,505,643,547"/>
+<area shape="rect" id="node8" href="$classunsigned.html" title="unsigned" alt="" coords="25,571,100,598"/>
+<area shape="rect" id="node27" href="$classllvm_1_1SCEV.html" title="This class represents an analyzed expression in the program. " alt="" coords="292,627,383,654"/>
+<area shape="rect" id="node11" href="$classllvm_1_1SmallVectorImpl.html" title="This class consists of common code factored out of the SmallVector class to reduce code duplication b..." alt="" coords="1984,418,2167,445"/>
+<area shape="rect" id="node20" href="$classllvm_1_1SmallVector.html" title="This is a &#39;vector&#39; (really, a variable&#45;sized array), optimized for the case when the array is small..." alt="" coords="2447,304,2580,345"/>
+<area shape="rect" id="node22" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; llvm::RuntimePointerChecking\l::CheckingPtrGroup \&gt;" alt="" coords="2408,438,2619,494"/>
+<area shape="rect" id="node30" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; unsigned \&gt;" alt="" coords="2438,372,2589,413"/>
+<area shape="rect" id="node14" href="$structllvm_1_1SmallVectorStorage.html" title="llvm::SmallVectorStorage\l\&lt; llvm::RuntimePointerChecking\l::PointerInfo, N \&gt;" alt="" coords="2408,210,2619,266"/>
+<area shape="rect" id="node15" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::RuntimePointerChecking\l::PointerInfo \&gt;" alt="" coords="1478,263,1689,319"/>
+<area shape="rect" id="node16" href="$classchar.html" title="char" alt="" coords="794,131,841,158"/>
+<area shape="rect" id="node17" href="$structllvm_1_1AlignedCharArrayUnion.html" title="A suitably aligned and sized character array member which can hold elements of any type..." alt="" coords="992,124,1183,165"/>
+<area shape="rect" id="node19" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\&lt; T \&gt;" alt="" coords="1472,89,1695,115"/>
+<area shape="rect" id="node25" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::RuntimePointerChecking\l::CheckingPtrGroup \&gt;" alt="" coords="1478,139,1689,195"/>
+<area shape="rect" id="node33" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; unsigned \&gt;" alt="" coords="1488,5,1679,47"/>
+<area shape="rect" id="node18" href="$structllvm_1_1SmallVectorStorage.html" title="Storage for the SmallVector elements. " alt="" coords="1990,84,2161,125"/>
+<area shape="rect" id="node24" href="$structllvm_1_1SmallVectorStorage.html" title="llvm::SmallVectorStorage\l\&lt; llvm::RuntimePointerChecking\l::CheckingPtrGroup, N \&gt;" alt="" coords="2408,130,2619,186"/>
+<area shape="rect" id="node32" href="$structllvm_1_1SmallVectorStorage.html" title="llvm::SmallVectorStorage\l\&lt; unsigned, N \&gt;" alt="" coords="2428,40,2599,81"/>
+<area shape="rect" id="node21" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::RuntimePointerChecking\l::CheckingPtrGroup, 2 \&gt;" alt="" coords="2860,330,3063,386"/>
+<area shape="rect" id="node29" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l unsigned, 2 \&gt;" alt="" coords="2895,213,3028,255"/>
+<area shape="rect" id="node26" href="$classbool.html" title="bool" alt="" coords="2938,279,2985,306"/>
+<area shape="rect" id="node28" href="$classllvm_1_1FoldingSetBase_1_1Node.html" title="Node &#45; This class is used to maintain the singly linked bucket list in a folding set. " alt="" coords="5,649,120,675"/>
+</map>

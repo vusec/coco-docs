@@ -1,0 +1,6 @@
+<map id="llvm::lto::LTO::RegularLTOState::CommonResolution" name="llvm::lto::LTO::RegularLTOState::CommonResolution">
+<area shape="rect" id="node2" href="$structllvm_1_1MaybeAlign.html" title="This struct is a compact representation of a valid (power of two) or undefined (0) alignment..." alt="" coords="21,171,144,197"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; Align \&gt;" alt="" coords="5,95,160,121"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; T \&gt;" alt="" coords="15,5,150,32"/>
+<area shape="rect" id="node6" href="$classbool.html" title="bool" alt="" coords="261,171,307,197"/>
+</map>

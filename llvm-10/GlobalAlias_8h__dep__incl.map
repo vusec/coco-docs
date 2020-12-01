@@ -1,0 +1,51 @@
+<map id="include/llvm/IR/GlobalAlias.h" name="include/llvm/IR/GlobalAlias.h">
+<area shape="rect" id="node2" href="$CompileOnDemandLayer_8h.html" title="include/llvm/ExecutionEngine\l/Orc/CompileOnDemandLayer.h" alt="" coords="2541,169,2749,211"/>
+<area shape="rect" id="node6" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="2743,87,2909,114"/>
+<area shape="rect" id="node7" href="$Loads_8cpp.html" title="lib/Analysis/Loads.cpp" alt="" coords="5,177,159,203"/>
+<area shape="rect" id="node8" href="$ModuleSummaryAnalysis_8cpp.html" title="lib/Analysis/ModuleSummary\lAnalysis.cpp" alt="" coords="183,169,373,211"/>
+<area shape="rect" id="node9" href="$ValueTracking_8cpp.html" title="lib/Analysis/ValueTracking.cpp" alt="" coords="397,177,599,203"/>
+<area shape="rect" id="node10" href="$BitcodeReader_8cpp.html" title="lib/Bitcode/Reader\l/BitcodeReader.cpp" alt="" coords="623,169,760,211"/>
+<area shape="rect" id="node11" href="$MetadataLoader_8cpp.html" title="lib/Bitcode/Reader\l/MetadataLoader.cpp" alt="" coords="785,169,929,211"/>
+<area shape="rect" id="node12" href="$BitcodeWriter_8cpp.html" title="lib/Bitcode/Writer\l/BitcodeWriter.cpp" alt="" coords="953,169,1083,211"/>
+<area shape="rect" id="node13" href="$ValueEnumerator_8cpp.html" title="lib/Bitcode/Writer\l/ValueEnumerator.cpp" alt="" coords="1108,169,1259,211"/>
+<area shape="rect" id="node14" href="$AsmPrinter_8cpp.html" title="lib/CodeGen/AsmPrinter\l/AsmPrinter.cpp" alt="" coords="1283,169,1446,211"/>
+<area shape="rect" id="node15" href="$GlobalMerge_8cpp.html" title="lib/CodeGen/GlobalMerge.cpp" alt="" coords="1471,177,1667,203"/>
+<area shape="rect" id="node16" href="$TargetLoweringObjectFileImpl_8cpp.html" title="lib/CodeGen/TargetLowering\lObjectFileImpl.cpp" alt="" coords="1691,169,1878,211"/>
+<area shape="rect" id="node17" href="$AsmWriter_8cpp.html" title="lib/IR/AsmWriter.cpp" alt="" coords="1902,177,2046,203"/>
+<area shape="rect" id="node18" href="$ConstantFold_8cpp.html" title="lib/IR/ConstantFold.cpp" alt="" coords="2070,177,2230,203"/>
+<area shape="rect" id="node19" href="$IR_2Core_8cpp.html" title="lib/IR/Core.cpp" alt="" coords="2255,177,2365,203"/>
+<area shape="rect" id="node20" href="$Globals_8cpp.html" title="lib/IR/Globals.cpp" alt="" coords="2389,177,2516,203"/>
+<area shape="rect" id="node21" href="$Module_8cpp.html" title="lib/IR/Module.cpp" alt="" coords="2875,177,2999,203"/>
+<area shape="rect" id="node22" href="$Verifier_8cpp.html" title="lib/IR/Verifier.cpp" alt="" coords="3023,177,3146,203"/>
+<area shape="rect" id="node23" href="$IRSymtab_8cpp.html" title="lib/Object/IRSymtab.cpp" alt="" coords="3170,177,3335,203"/>
+<area shape="rect" id="node24" href="$ModuleSymbolTable_8cpp.html" title="lib/Object/ModuleSymbolTable.cpp" alt="" coords="3359,177,3583,203"/>
+<area shape="rect" id="node25" href="$ARMISelLowering_8cpp.html" title="lib/Target/ARM/ARMISelLowering.cpp" alt="" coords="3608,177,3852,203"/>
+<area shape="rect" id="node26" href="$AddressSanitizer_8cpp.html" title="lib/Transforms/Instrumentation\l/AddressSanitizer.cpp" alt="" coords="3876,169,4075,211"/>
+<area shape="rect" id="node27" href="$DataFlowSanitizer_8cpp.html" title="This file is a part of DataFlowSanitizer, a generalised dynamic data flow analysis. " alt="" coords="4099,169,4297,211"/>
+<area shape="rect" id="node28" href="$PGOInstrumentation_8cpp.html" title="lib/Transforms/Instrumentation\l/PGOInstrumentation.cpp" alt="" coords="4321,169,4520,211"/>
+<area shape="rect" id="node29" href="$FunctionImport_8cpp.html" title="lib/Transforms/IPO\l/FunctionImport.cpp" alt="" coords="4545,169,4683,211"/>
+<area shape="rect" id="node30" href="$GlobalOpt_8cpp.html" title="lib/Transforms/IPO\l/GlobalOpt.cpp" alt="" coords="4708,169,4840,211"/>
+<area shape="rect" id="node31" href="$LowerTypeTests_8cpp.html" title="lib/Transforms/IPO\l/LowerTypeTests.cpp" alt="" coords="4864,169,5012,211"/>
+<area shape="rect" id="node32" href="$WholeProgramDevirt_8cpp.html" title="lib/Transforms/IPO\l/WholeProgramDevirt.cpp" alt="" coords="5036,169,5208,211"/>
+<area shape="rect" id="node33" href="$SROA_8cpp.html" title="This transformation implements the well known scalar replacement of aggregates transformation. " alt="" coords="5233,169,5379,211"/>
+<area shape="rect" id="node34" href="$MetaRenamer_8cpp.html" title="lib/Transforms/Utils\l/MetaRenamer.cpp" alt="" coords="5403,169,5539,211"/>
+<area shape="rect" id="node35" href="$SplitModule_8cpp.html" title="lib/Transforms/Utils\l/SplitModule.cpp" alt="" coords="5563,169,5699,211"/>
+<area shape="rect" id="node36" href="$SymbolRewriter_8cpp.html" title="lib/Transforms/Utils\l/SymbolRewriter.cpp" alt="" coords="5723,169,5867,211"/>
+<area shape="rect" id="node37" href="$BasicAliasAnalysis_8cpp.html" title="lib/Analysis/BasicAliasAnalysis.cpp" alt="" coords="3745,87,3976,114"/>
+<area shape="rect" id="node38" href="$InlineCost_8cpp.html" title="lib/Analysis/InlineCost.cpp" alt="" coords="4000,87,4177,114"/>
+<area shape="rect" id="node39" href="$InstructionSimplify_8cpp.html" title="lib/Analysis/Instruction\lSimplify.cpp" alt="" coords="4202,80,4357,121"/>
+<area shape="rect" id="node40" href="$MemoryBuiltins_8cpp.html" title="lib/Analysis/MemoryBuiltins.cpp" alt="" coords="4381,87,4589,114"/>
+<area shape="rect" id="node41" href="$ScalarEvolution_8cpp.html" title="lib/Analysis/ScalarEvolution.cpp" alt="" coords="4613,87,4823,114"/>
+<area shape="rect" id="node42" href="$JITSymbol_8cpp.html" title="lib/ExecutionEngine\l/RuntimeDyld/JITSymbol.cpp" alt="" coords="4847,80,5042,121"/>
+<area shape="rect" id="node43" href="$MSP430ISelLowering_8cpp.html" title="lib/Target/MSP430/MSP430\lISelLowering.cpp" alt="" coords="5066,80,5250,121"/>
+<area shape="rect" id="node44" href="$PPCFastISel_8cpp.html" title="lib/Target/PowerPC\l/PPCFastISel.cpp" alt="" coords="5274,80,5410,121"/>
+<area shape="rect" id="node45" href="$TargetMachine_8cpp.html" title="lib/Target/TargetMachine.cpp" alt="" coords="5435,87,5625,114"/>
+<area shape="rect" id="node46" href="$WebAssemblyFastISel_8cpp.html" title="This file defines the WebAssembly&#45;specific support for the FastISel class. " alt="" coords="5649,80,5835,121"/>
+<area shape="rect" id="node47" href="$X86FastISel_8cpp.html" title="lib/Target/X86/X86FastISel.cpp" alt="" coords="5859,87,6063,114"/>
+<area shape="rect" id="node48" href="$X86ISelLowering_8cpp.html" title="lib/Target/X86/X86ISelLowering.cpp" alt="" coords="6087,87,6317,114"/>
+<area shape="rect" id="node49" href="$XCoreISelLowering_8cpp.html" title="lib/Target/XCore/XCoreISel\lLowering.cpp" alt="" coords="6342,80,6523,121"/>
+<area shape="rect" id="node50" href="$Evaluator_8cpp.html" title="lib/Transforms/Utils\l/Evaluator.cpp" alt="" coords="6547,80,6683,121"/>
+<area shape="rect" id="node3" href="$LLJIT_8h.html" title="include/llvm/ExecutionEngine\l/Orc/LLJIT.h" alt="" coords="2339,259,2532,300"/>
+<area shape="rect" id="node4" href="$CompileOnDemandLayer_8cpp.html" title="lib/ExecutionEngine\l/Orc/CompileOnDemandLayer.cpp" alt="" coords="2757,259,2980,300"/>
+<area shape="rect" id="node5" href="$OrcCBindingsStack_8h.html" title="lib/ExecutionEngine\l/Orc/OrcCBindingsStack.h" alt="" coords="2556,259,2733,300"/>
+</map>

@@ -1,0 +1,44 @@
+<map id="lib/Target/Mips/MipsSubtarget.cpp" name="lib/Target/Mips/MipsSubtarget.cpp">
+<area shape="rect" id="node2" href="$MipsSubtarget_8h.html" title="MipsSubtarget.h" alt="" coords="1411,155,1528,181"/>
+<area shape="rect" id="node5" href="$Mips_8h.html" title="Mips.h" alt="" coords="900,386,961,413"/>
+<area shape="rect" id="node22" href="$MipsRegisterInfo_8h.html" title="MipsRegisterInfo.h" alt="" coords="646,304,778,331"/>
+<area shape="rect" id="node30" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="2928,475,3123,502"/>
+<area shape="rect" id="node32" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2283,565,2469,591"/>
+<area shape="rect" id="node36" href="$MipsMachineFunction_8h.html" title="MipsMachineFunction.h" alt="" coords="1723,386,1883,413"/>
+<area shape="rect" id="node39" href="$MipsTargetMachine_8h.html" title="MipsTargetMachine.h" alt="" coords="2152,80,2299,107"/>
+<area shape="rect" id="node40" href="$MipsCallLowering_8h.html" title="This file describes how to lower LLVM calls to machine code calls. " alt="" coords="1209,155,1345,181"/>
+<area shape="rect" id="node41" href="$MipsLegalizerInfo_8h.html" title="This file declares the targeting of the Machinelegalizer class for Mips. " alt="" coords="2271,304,2406,331"/>
+<area shape="rect" id="node43" href="$MipsRegisterBankInfo_8h.html" title="This file declares the targeting of the RegisterBankInfo class for Mips. " alt="" coords="3681,80,3844,107"/>
+<area shape="rect" id="node45" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="3690,475,3825,502"/>
+<area shape="rect" id="node48" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="3987,386,4117,413"/>
+<area shape="rect" id="node49" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="3869,80,4017,107"/>
+<area shape="rect" id="node50" href="$TargetRegistry_8h.html" title="llvm/Support/TargetRegistry.h" alt="" coords="3249,475,3445,502"/>
+<area shape="rect" id="node3" href="$MipsABIInfo_8h.html" title="MCTargetDesc/MipsABIInfo.h" alt="" coords="1450,386,1649,413"/>
+<area shape="rect" id="node4" href="$MipsFrameLowering_8h.html" title="MipsFrameLowering.h" alt="" coords="1046,229,1197,256"/>
+<area shape="rect" id="node14" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="1808,565,1955,591"/>
+<area shape="rect" id="node16" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1676,647,1865,673"/>
+<area shape="rect" id="node19" href="$MipsISelLowering_8h.html" title="MipsISelLowering.h" alt="" coords="1011,304,1147,331"/>
+<area shape="rect" id="node21" href="$MipsInstrInfo_8h.html" title="MipsInstrInfo.h" alt="" coords="911,229,1020,256"/>
+<area shape="rect" id="node24" href="$SelectionDAGTargetInfo_8h.html" title="llvm/CodeGen/SelectionDAGTarget\lInfo.h" alt="" coords="720,468,949,509"/>
+<area shape="rect" id="node25" href="$TargetSubtargetInfo_8h.html" title="llvm/CodeGen/TargetSubtarget\lInfo.h" alt="" coords="2651,468,2853,509"/>
+<area shape="rect" id="node26" href="$CallLowering_8h.html" title="This file describes how to lower LLVM calls to machine code calls. " alt="" coords="1273,557,1442,599"/>
+<area shape="rect" id="node27" href="$LegalizerInfo_8h.html" title="llvm/CodeGen/GlobalISel\l/LegalizerInfo.h" alt="" coords="2254,379,2423,420"/>
+<area shape="rect" id="node33" href="$RegisterBankInfo_8h.html" title="llvm/CodeGen/GlobalISel\l/RegisterBankInfo.h" alt="" coords="4233,557,4402,599"/>
+<area shape="rect" id="node34" href="$InstructionSelector_8h.html" title="llvm/CodeGen/GlobalISel\l/InstructionSelector.h" alt="" coords="2406,468,2575,509"/>
+<area shape="rect" id="node35" href="$MCInstrItineraries_8h.html" title="llvm/MC/MCInstrItineraries.h" alt="" coords="1374,229,1565,256"/>
+<area shape="rect" id="node6" href="$MipsMCTargetDesc_8h.html" title="MCTargetDesc/MipsMCTarget\lDesc.h" alt="" coords="443,468,645,509"/>
+<area shape="rect" id="node10" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="1603,475,1791,502"/>
+<area shape="rect" id="node11" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2904,647,3051,673"/>
+<area shape="rect" id="node18" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="1467,565,1632,591"/>
+<area shape="rect" id="node12" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="4308,721,4479,748"/>
+<area shape="rect" id="node15" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2427,647,2571,673"/>
+<area shape="rect" id="node20" href="$MachineMemOperand_8h.html" title="llvm/CodeGen/MachineMemOperand.h" alt="" coords="685,565,931,591"/>
+<area shape="rect" id="node23" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="1006,557,1197,599"/>
+<area shape="rect" id="node28" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3126,565,3266,591"/>
+<area shape="rect" id="node29" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="1960,475,2179,502"/>
+<area shape="rect" id="node31" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="2646,565,2797,591"/>
+<area shape="rect" id="node37" href="$Mips16HardFloatInfo_8h.html" title="Mips16HardFloatInfo.h" alt="" coords="1373,475,1528,502"/>
+<area shape="rect" id="node42" href="$GISelChangeObserver_8h.html" title="llvm/CodeGen/GlobalISel\l/GISelChangeObserver.h" alt="" coords="2009,379,2178,420"/>
+<area shape="rect" id="node46" href="$c_2Types_8h.html" title="llvm&#45;c/Types.h" alt="" coords="3897,565,4005,591"/>
+<area shape="rect" id="node47" href="$FoldingSet_8h.html" title="llvm/ADT/FoldingSet.h" alt="" coords="3565,565,3720,591"/>
+</map>

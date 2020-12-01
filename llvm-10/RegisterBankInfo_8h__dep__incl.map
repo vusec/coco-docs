@@ -1,0 +1,51 @@
+<map id="include/llvm/CodeGen/GlobalISel/RegisterBankInfo.h" name="include/llvm/CodeGen/GlobalISel/RegisterBankInfo.h">
+<area shape="rect" id="node2" href="$InstructionSelectorImpl_8h.html" title="include/llvm/CodeGen\l/GlobalISel/InstructionSelector\lImpl.h" alt="" coords="4923,95,5122,151"/>
+<area shape="rect" id="node9" href="$RegBankSelect_8h.html" title="include/llvm/CodeGen\l/GlobalISel/RegBankSelect.h" alt="" coords="3135,102,3327,143"/>
+<area shape="rect" id="node10" href="$RegBankSelect_8cpp.html" title="This file implements the RegBankSelect class. " alt="" coords="2617,206,2775,247"/>
+<area shape="rect" id="node13" href="$ARMTargetMachine_8cpp.html" title="lib/Target/ARM/ARMTarget\lMachine.cpp" alt="" coords="3547,206,3728,247"/>
+<area shape="rect" id="node17" href="$RegisterBankInfo_8cpp.html" title="This file implements the RegisterBankInfo class. " alt="" coords="6531,102,6690,143"/>
+<area shape="rect" id="node18" href="$CodeGen_2GlobalISel_2Utils_8cpp.html" title="lib/CodeGen/GlobalISel\l/Utils.cpp" alt="" coords="6714,102,6873,143"/>
+<area shape="rect" id="node19" href="$MIParser_8cpp.html" title="lib/CodeGen/MIRParser\l/MIParser.cpp" alt="" coords="6897,102,7058,143"/>
+<area shape="rect" id="node20" href="$MIRParser_8cpp.html" title="lib/CodeGen/MIRParser\l/MIRParser.cpp" alt="" coords="7082,102,7243,143"/>
+<area shape="rect" id="node21" href="$AArch64Subtarget_8h.html" title="lib/Target/AArch64\l/AArch64Subtarget.h" alt="" coords="1386,102,1529,143"/>
+<area shape="rect" id="node35" href="$AArch64RegisterBankInfo_8h.html" title="This file declares the targeting of the RegisterBankInfo class for AArch64. " alt="" coords="3682,102,3870,143"/>
+<area shape="rect" id="node36" href="$AArch64RegisterBankInfo_8cpp.html" title="This file implements the targeting of the RegisterBankInfo class for AArch64. " alt="" coords="3803,206,4005,247"/>
+<area shape="rect" id="node37" href="$AMDGPUSubtarget_8h.html" title="AMDGPU specific subclass of TargetSubtarget. " alt="" coords="5635,109,5904,136"/>
+<area shape="rect" id="node38" href="$AMDGPURegisterBankInfo_8cpp.html" title="This file implements the targeting of the RegisterBankInfo class for AMDGPU. " alt="" coords="5651,206,5901,247"/>
+<area shape="rect" id="node39" href="$AMDGPURegisterBankInfo_8h.html" title="This file declares the targeting of the RegisterBankInfo class for AMDGPU. " alt="" coords="5360,102,5611,143"/>
+<area shape="rect" id="node40" href="$ARMSubtarget_8h.html" title="lib/Target/ARM/ARMSubtarget.h" alt="" coords="3996,109,4207,136"/>
+<area shape="rect" id="node41" href="$ARMRegisterBankInfo_8cpp.html" title="This file implements the targeting of the RegisterBankInfo class for ARM. " alt="" coords="4221,206,4414,247"/>
+<area shape="rect" id="node42" href="$ARMRegisterBankInfo_8h.html" title="This file declares the targeting of the RegisterBankInfo class for ARM. " alt="" coords="4231,102,4425,143"/>
+<area shape="rect" id="node43" href="$MipsSubtarget_8h.html" title="lib/Target/Mips/MipsSubtarget.h" alt="" coords="3367,109,3574,136"/>
+<area shape="rect" id="node44" href="$MipsRegisterBankInfo_8h.html" title="This file declares the targeting of the RegisterBankInfo class for Mips. " alt="" coords="5147,102,5336,143"/>
+<area shape="rect" id="node45" href="$RISCVSubtarget_8h.html" title="lib/Target/RISCV/RISCVSubtarget.h" alt="" coords="5979,109,6213,136"/>
+<area shape="rect" id="node46" href="$RISCVRegisterBankInfo_8h.html" title="This file declares the targeting of the RegisterBankInfo class for RISCV. " alt="" coords="6238,102,6455,143"/>
+<area shape="rect" id="node47" href="$RISCVRegisterBankInfo_8cpp.html" title="This file implements the targeting of the RegisterBankInfo class for RISCV. " alt="" coords="6311,206,6529,247"/>
+<area shape="rect" id="node48" href="$X86Subtarget_8h.html" title="lib/Target/X86/X86Subtarget.h" alt="" coords="4449,109,4647,136"/>
+<area shape="rect" id="node49" href="$X86RegisterBankInfo_8h.html" title="This file declares the targeting of the RegisterBankInfo class for X86. " alt="" coords="4671,102,4849,143"/>
+<area shape="rect" id="node50" href="$X86RegisterBankInfo_8cpp.html" title="This file implements the targeting of the RegisterBankInfo class for X86. " alt="" coords="4884,206,5063,247"/>
+<area shape="rect" id="node3" href="$AArch64InstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for AArch64. " alt="" coords="3067,303,3277,344"/>
+<area shape="rect" id="node4" href="$AMDGPUInstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for AMDGPU. " alt="" coords="5363,206,5626,247"/>
+<area shape="rect" id="node5" href="$ARMInstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for ARM. " alt="" coords="4439,206,4644,247"/>
+<area shape="rect" id="node6" href="$MipsInstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for Mips. " alt="" coords="5138,206,5339,247"/>
+<area shape="rect" id="node7" href="$RISCVInstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for RISCV. " alt="" coords="5981,206,6211,247"/>
+<area shape="rect" id="node8" href="$X86InstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for X86. " alt="" coords="4669,206,4859,247"/>
+<area shape="rect" id="node11" href="$AArch64TargetMachine_8cpp.html" title="lib/Target/AArch64\l/AArch64TargetMachine.cpp" alt="" coords="1639,303,1825,344"/>
+<area shape="rect" id="node12" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="2851,206,3090,247"/>
+<area shape="rect" id="node14" href="$MipsTargetMachine_8cpp.html" title="lib/Target/Mips/MipsTarget\lMachine.cpp" alt="" coords="3345,206,3522,247"/>
+<area shape="rect" id="node15" href="$RISCVTargetMachine_8cpp.html" title="lib/Target/RISCV/RISCVTarget\lMachine.cpp" alt="" coords="3115,206,3320,247"/>
+<area shape="rect" id="node16" href="$X86TargetMachine_8cpp.html" title="lib/Target/X86/X86Target\lMachine.cpp" alt="" coords="4030,206,4197,247"/>
+<area shape="rect" id="node22" href="$AArch64A57FPLoadBalancing_8cpp.html" title="lib/Target/AArch64\l/AArch64A57FPLoadBalancing.cpp" alt="" coords="1680,206,1907,247"/>
+<area shape="rect" id="node23" href="$AArch64AsmPrinter_8cpp.html" title="lib/Target/AArch64\l/AArch64AsmPrinter.cpp" alt="" coords="1931,206,2098,247"/>
+<area shape="rect" id="node24" href="$AArch64BranchTargets_8cpp.html" title="lib/Target/AArch64\l/AArch64BranchTargets.cpp" alt="" coords="2123,206,2309,247"/>
+<area shape="rect" id="node25" href="$AArch64CallingConvention_8cpp.html" title="lib/Target/AArch64\l/AArch64CallingConvention.cpp" alt="" coords="2334,206,2541,247"/>
+<area shape="rect" id="node26" href="$AArch64CallLowering_8cpp.html" title="This file implements the lowering of LLVM calls to machine code calls for GlobalISel. " alt="" coords="5,206,181,247"/>
+<area shape="rect" id="node27" href="$AArch64CompressJumpTables_8cpp.html" title="lib/Target/AArch64\l/AArch64CompressJumpTables.cpp" alt="" coords="205,206,437,247"/>
+<area shape="rect" id="node28" href="$AArch64CondBrTuning_8cpp.html" title="This file contains a pass that transforms CBZ/CBNZ/TBZ/TBNZ instructions into a conditional branch (B..." alt="" coords="461,206,645,247"/>
+<area shape="rect" id="node29" href="$AArch64DeadRegisterDefinitionsPass_8cpp.html" title="lib/Target/AArch64\l/AArch64DeadRegisterDefinitions\lPass.cpp" alt="" coords="669,199,888,255"/>
+<area shape="rect" id="node30" href="$AArch64ExpandPseudoInsts_8cpp.html" title="lib/Target/AArch64\l/AArch64ExpandPseudoInsts.cpp" alt="" coords="912,206,1131,247"/>
+<area shape="rect" id="node31" href="$AArch64FalkorHWPFFix_8cpp.html" title="lib/Target/AArch64\l/AArch64FalkorHWPFFix.cpp" alt="" coords="1204,303,1399,344"/>
+<area shape="rect" id="node32" href="$AArch64TargetMachine_8h.html" title="lib/Target/AArch64\l/AArch64TargetMachine.h" alt="" coords="1432,206,1605,247"/>
+<area shape="rect" id="node33" href="$AArch64FrameLowering_8cpp.html" title="lib/Target/AArch64\l/AArch64FrameLowering.cpp" alt="" coords="1423,303,1614,344"/>
+<area shape="rect" id="node34" href="$AArch64FastISel_8cpp.html" title="lib/Target/AArch64\l/AArch64FastISel.cpp" alt="" coords="1155,206,1306,247"/>
+</map>

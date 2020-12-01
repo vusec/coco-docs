@@ -1,0 +1,4 @@
+<map id="llvm::MCSectionCOFF" name="llvm::MCSectionCOFF">
+<area shape="rect" id="node2" href="$classllvm_1_1MCSection.html" title="Instances of this class represent a uniqued identifier for a section in the current translation unit..." alt="" coords="77,95,196,121"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SectionKind.html" title="SectionKind &#45; This is a simple POD value that classifies the properties of a section. " alt="" coords="5,5,129,32"/>
+</map>

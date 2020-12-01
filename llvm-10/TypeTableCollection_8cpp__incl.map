@@ -1,0 +1,41 @@
+<map id="lib/DebugInfo/CodeView/TypeTableCollection.cpp" name="lib/DebugInfo/CodeView/TypeTableCollection.cpp">
+<area shape="rect" id="node2" href="$TypeTableCollection_8h.html" title="llvm/DebugInfo/CodeView\l/TypeTableCollection.h" alt="" coords="3047,95,3222,136"/>
+<area shape="rect" id="node40" href="$BinaryStreamReader_8h.html" title="llvm/Support/BinaryStream\lReader.h" alt="" coords="1839,541,2017,583"/>
+<area shape="rect" id="node48" href="$CVTypeVisitor_8h.html" title="llvm/DebugInfo/CodeView\l/CVTypeVisitor.h" alt="" coords="2157,184,2331,225"/>
+<area shape="rect" id="node49" href="$RecordName_8h.html" title="llvm/DebugInfo/CodeView\l/RecordName.h" alt="" coords="1490,95,1665,136"/>
+<area shape="rect" id="node3" href="$TypeCollection_8h.html" title="llvm/DebugInfo/CodeView\l/TypeCollection.h" alt="" coords="1490,184,1665,225"/>
+<area shape="rect" id="node45" href="$StringSaver_8h.html" title="llvm/Support/StringSaver.h" alt="" coords="2627,884,2805,911"/>
+<area shape="rect" id="node4" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1193,1033,1340,1060"/>
+<area shape="rect" id="node20" href="$TypeIndex_8h.html" title="llvm/DebugInfo/CodeView\l/TypeIndex.h" alt="" coords="503,452,678,493"/>
+<area shape="rect" id="node23" href="$TypeRecord_8h.html" title="llvm/DebugInfo/CodeView\l/TypeRecord.h" alt="" coords="2733,273,2907,315"/>
+<area shape="rect" id="node5" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1587,1108,1741,1135"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3305,1332,3468,1359"/>
+<area shape="rect" id="node12" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1189,1183,1360,1209"/>
+<area shape="rect" id="node6" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3371,1183,3511,1209"/>
+<area shape="rect" id="node14" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2089,1183,2279,1209"/>
+<area shape="rect" id="node8" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="3240,1257,3411,1284"/>
+<area shape="rect" id="node21" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="2005,638,2155,665"/>
+<area shape="rect" id="node22" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="3638,1183,3791,1209"/>
+<area shape="rect" id="node24" href="$APSInt_8h.html" title="llvm/ADT/APSInt.h" alt="" coords="2253,549,2387,575"/>
+<area shape="rect" id="node25" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="3232,959,3376,985"/>
+<area shape="rect" id="node26" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2981,1108,3144,1135"/>
+<area shape="rect" id="node28" href="$CVRecord_8h.html" title="llvm/DebugInfo/CodeView\l/CVRecord.h" alt="" coords="2346,363,2521,404"/>
+<area shape="rect" id="node39" href="$CodeView_8h.html" title="llvm/DebugInfo/CodeView\l/CodeView.h" alt="" coords="957,541,1131,583"/>
+<area shape="rect" id="node41" href="$BinaryStreamArray_8h.html" title="llvm/Support/BinaryStream\lArray.h" alt="" coords="2503,631,2681,672"/>
+<area shape="rect" id="node44" href="$GUID_8h.html" title="llvm/DebugInfo/CodeView\l/GUID.h" alt="" coords="2858,720,3033,761"/>
+<area shape="rect" id="node29" href="$CodeViewError_8h.html" title="llvm/DebugInfo/CodeView\l/CodeViewError.h" alt="" coords="1109,720,1283,761"/>
+<area shape="rect" id="node30" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="1697,809,1836,836"/>
+<area shape="rect" id="node38" href="$RecordSerialization_8h.html" title="llvm/DebugInfo/CodeView\l/RecordSerialization.h" alt="" coords="1893,452,2067,493"/>
+<area shape="rect" id="node42" href="$BinaryStreamRef_8h.html" title="llvm/Support/BinaryStream\lRef.h" alt="" coords="3463,720,3641,761"/>
+<area shape="rect" id="node31" href="$c_2Error_8h.html" title="llvm&#45;c/Error.h" alt="" coords="1975,884,2075,911"/>
+<area shape="rect" id="node32" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="1685,884,1849,911"/>
+<area shape="rect" id="node33" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="1922,959,2049,985"/>
+<area shape="rect" id="node34" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="2099,884,2247,911"/>
+<area shape="rect" id="node35" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer. " alt="" coords="1056,1108,1208,1135"/>
+<area shape="rect" id="node36" href="$Format_8h.html" title="llvm/Support/Format.h" alt="" coords="1306,884,1457,911"/>
+<area shape="rect" id="node37" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="1205,959,1390,985"/>
+<area shape="rect" id="node43" href="$ConvertUTF_8h.html" title="llvm/Support/ConvertUTF.h" alt="" coords="698,809,881,836"/>
+<area shape="rect" id="node46" href="$DenseSet_8h.html" title="llvm/ADT/DenseSet.h" alt="" coords="3574,1108,3725,1135"/>
+<area shape="rect" id="node47" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="2729,1033,2890,1060"/>
+<area shape="rect" id="node50" href="$SymbolRecord_8h.html" title="llvm/DebugInfo/CodeView\l/SymbolRecord.h" alt="" coords="2043,273,2218,315"/>
+</map>

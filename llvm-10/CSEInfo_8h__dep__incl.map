@@ -1,0 +1,47 @@
+<map id="include/llvm/CodeGen/GlobalISel/CSEInfo.h" name="include/llvm/CodeGen/GlobalISel/CSEInfo.h">
+<area shape="rect" id="node2" href="$MachineIRBuilder_8h.html" title="This file declares the MachineIRBuilder class. " alt="" coords="2832,95,3036,136"/>
+<area shape="rect" id="node4" href="$Combiner_8cpp.html" title="lib/CodeGen/GlobalISel\l/Combiner.cpp" alt="" coords="5297,295,5456,337"/>
+<area shape="rect" id="node19" href="$Legalizer_8cpp.html" title="lib/CodeGen/GlobalISel\l/Legalizer.cpp" alt="" coords="1412,392,1571,433"/>
+<area shape="rect" id="node46" href="$CSEInfo_8cpp.html" title="lib/CodeGen/GlobalISel\l/CSEInfo.cpp" alt="" coords="5240,95,5399,136"/>
+<area shape="rect" id="node3" href="$Combiner_8h.html" title="include/llvm/CodeGen\l/GlobalISel/Combiner.h" alt="" coords="4957,191,5114,233"/>
+<area shape="rect" id="node5" href="$CombinerHelper_8cpp.html" title="lib/CodeGen/GlobalISel\l/CombinerHelper.cpp" alt="" coords="4624,295,4783,337"/>
+<area shape="rect" id="node8" href="$ConstantFoldingMIRBuilder_8h.html" title="This file implements a version of MachineIRBuilder which does trivial constant folding. " alt="" coords="1812,184,1997,240"/>
+<area shape="rect" id="node9" href="$CSEMIRBuilder_8h.html" title="This file implements a version of MachineIRBuilder which CSEs insts within a MachineBasicBlock. " alt="" coords="4509,191,4703,233"/>
+<area shape="rect" id="node20" href="$LegalizationArtifactCombiner_8h.html" title="include/llvm/CodeGen\l/GlobalISel/LegalizationArtifact\lCombiner.h" alt="" coords="1488,288,1689,344"/>
+<area shape="rect" id="node21" href="$AMDGPURegisterBankInfo_8cpp.html" title="This file implements the targeting of the RegisterBankInfo class for AMDGPU. " alt="" coords="1137,392,1387,433"/>
+<area shape="rect" id="node23" href="$Legalizer_8h.html" title="include/llvm/CodeGen\l/GlobalISel/Legalizer.h" alt="" coords="1583,191,1736,233"/>
+<area shape="rect" id="node24" href="$LegalizerHelper_8h.html" title="include/llvm/CodeGen\l/GlobalISel/LegalizerHelper.h" alt="" coords="708,191,899,233"/>
+<area shape="rect" id="node26" href="$AArch64LegalizerInfo_8cpp.html" title="This file implements the targeting of the Machinelegalizer class for AArch64. " alt="" coords="959,295,1133,337"/>
+<area shape="rect" id="node27" href="$AMDGPULegalizerInfo_8cpp.html" title="This file implements the targeting of the Machinelegalizer class for AMDGPU. " alt="" coords="1157,295,1412,337"/>
+<area shape="rect" id="node31" href="$Localizer_8h.html" title="include/llvm/CodeGen\l/GlobalISel/Localizer.h" alt="" coords="4728,191,4881,233"/>
+<area shape="rect" id="node33" href="$RegBankSelect_8h.html" title="include/llvm/CodeGen\l/GlobalISel/RegBankSelect.h" alt="" coords="2125,295,2317,337"/>
+<area shape="rect" id="node35" href="$CallLowering_8cpp.html" title="This file implements some simple delegations needed for call lowering. " alt="" coords="2021,191,2180,233"/>
+<area shape="rect" id="node36" href="$MachineIRBuilder_8cpp.html" title="This file implements the MachineIRBuidler class. " alt="" coords="2204,191,2363,233"/>
+<area shape="rect" id="node37" href="$AArch64CallLowering_8cpp.html" title="This file implements the lowering of LLVM calls to machine code calls for GlobalISel. " alt="" coords="2387,191,2563,233"/>
+<area shape="rect" id="node38" href="$AArch64InstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for AArch64. " alt="" coords="2587,191,2798,233"/>
+<area shape="rect" id="node39" href="$AMDGPUCallLowering_8cpp.html" title="This file implements the lowering of LLVM calls to machine code calls for GlobalISel. " alt="" coords="2821,191,3047,233"/>
+<area shape="rect" id="node40" href="$AMDGPUInstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for AMDGPU. " alt="" coords="3071,191,3333,233"/>
+<area shape="rect" id="node41" href="$ARMCallLowering_8cpp.html" title="This file implements the lowering of LLVM calls to machine code calls for GlobalISel. " alt="" coords="3357,199,3601,225"/>
+<area shape="rect" id="node42" href="$MipsCallLowering_8cpp.html" title="This file implements the lowering of LLVM calls to machine code calls for GlobalISel. " alt="" coords="3626,191,3789,233"/>
+<area shape="rect" id="node43" href="$MipsInstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for Mips. " alt="" coords="3813,191,4015,233"/>
+<area shape="rect" id="node44" href="$RISCVCallLowering_8cpp.html" title="This file implements the lowering of LLVM calls to machine code calls for GlobalISel. " alt="" coords="4039,191,4229,233"/>
+<area shape="rect" id="node45" href="$X86CallLowering_8cpp.html" title="This file implements the lowering of LLVM calls to machine code calls for GlobalISel. " alt="" coords="4253,199,4484,225"/>
+<area shape="rect" id="node6" href="$AArch64PreLegalizerCombiner_8cpp.html" title="lib/Target/AArch64\l/AArch64PreLegalizerCombiner.cpp" alt="" coords="5043,295,5273,337"/>
+<area shape="rect" id="node7" href="$MipsPreLegalizerCombiner_8cpp.html" title="lib/Target/Mips/MipsPreLegalizer\lCombiner.cpp" alt="" coords="4807,295,5019,337"/>
+<area shape="rect" id="node10" href="$IRTranslator_8h.html" title="This file declares the IRTranslator pass. " alt="" coords="2563,295,2737,337"/>
+<area shape="rect" id="node18" href="$CSEMIRBuilder_8cpp.html" title="This file implements the CSEMIRBuilder class which CSEs as it builds instructions. " alt="" coords="4207,295,4365,337"/>
+<area shape="rect" id="node11" href="$IRTranslator_8cpp.html" title="This file implements the IRTranslator class. " alt="" coords="2605,392,2764,433"/>
+<area shape="rect" id="node12" href="$AArch64TargetMachine_8cpp.html" title="lib/Target/AArch64\l/AArch64TargetMachine.cpp" alt="" coords="3051,392,3238,433"/>
+<area shape="rect" id="node13" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="2788,392,3027,433"/>
+<area shape="rect" id="node14" href="$ARMTargetMachine_8cpp.html" title="lib/Target/ARM/ARMTarget\lMachine.cpp" alt="" coords="2399,392,2581,433"/>
+<area shape="rect" id="node15" href="$MipsTargetMachine_8cpp.html" title="lib/Target/Mips/MipsTarget\lMachine.cpp" alt="" coords="1595,392,1772,433"/>
+<area shape="rect" id="node16" href="$RISCVTargetMachine_8cpp.html" title="lib/Target/RISCV/RISCVTarget\lMachine.cpp" alt="" coords="2170,392,2375,433"/>
+<area shape="rect" id="node17" href="$X86TargetMachine_8cpp.html" title="lib/Target/X86/X86Target\lMachine.cpp" alt="" coords="1796,392,1963,433"/>
+<area shape="rect" id="node22" href="$MipsRegisterBankInfo_8cpp.html" title="This file implements the targeting of the RegisterBankInfo class for Mips. " alt="" coords="411,392,601,433"/>
+<area shape="rect" id="node25" href="$LegalizerHelper_8cpp.html" title="lib/CodeGen/GlobalISel\l/LegalizerHelper.cpp" alt="" coords="237,295,396,337"/>
+<area shape="rect" id="node28" href="$ARMLegalizerInfo_8cpp.html" title="This file implements the targeting of the Machinelegalizer class for ARM. " alt="" coords="420,295,616,337"/>
+<area shape="rect" id="node29" href="$MipsLegalizerInfo_8cpp.html" title="This file implements the targeting of the Machinelegalizer class for Mips. " alt="" coords="641,295,833,337"/>
+<area shape="rect" id="node30" href="$X86LegalizerInfo_8cpp.html" title="This file implements the targeting of the Machinelegalizer class for X86. " alt="" coords="31,295,213,337"/>
+<area shape="rect" id="node32" href="$Localizer_8cpp.html" title="This file implements the Localizer class. " alt="" coords="4389,295,4548,337"/>
+<area shape="rect" id="node34" href="$RegBankSelect_8cpp.html" title="This file implements the RegBankSelect class. " alt="" coords="1987,392,2145,433"/>
+</map>

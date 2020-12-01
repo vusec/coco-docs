@@ -1,0 +1,40 @@
+<map id="lib/Target/AMDGPU/GCNHazardRecognizer.cpp" name="lib/Target/AMDGPU/GCNHazardRecognizer.cpp">
+<area shape="rect" id="node2" href="$GCNHazardRecognizer_8h.html" title="GCNHazardRecognizer.h" alt="" coords="1005,266,1176,293"/>
+<area shape="rect" id="node6" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="2989,780,3160,807"/>
+<area shape="rect" id="node8" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="736,780,925,807"/>
+<area shape="rect" id="node21" href="$AMDGPUSubtarget_8h.html" title="AMDGPU specific subclass of TargetSubtarget. " alt="" coords="2286,102,2434,129"/>
+<area shape="rect" id="node29" href="$SIInstrInfo_8h.html" title="Interface definition for SIInstrInfo. " alt="" coords="2354,266,2449,293"/>
+<area shape="rect" id="node31" href="$AMDGPUBaseInfo_8h.html" title="Utils/AMDGPUBaseInfo.h" alt="" coords="587,437,762,464"/>
+<area shape="rect" id="node32" href="$SIDefines_8h.html" title="SIDefines.h" alt="" coords="239,519,329,546"/>
+<area shape="rect" id="node33" href="$MCInstrDesc_8h.html" title="llvm/MC/MCInstrDesc.h" alt="" coords="507,698,671,725"/>
+<area shape="rect" id="node34" href="$SIRegisterInfo_8h.html" title="Interface definition for SIRegisterInfo. " alt="" coords="195,355,312,382"/>
+<area shape="rect" id="node37" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="3029,609,3224,635"/>
+<area shape="rect" id="node38" href="$MachineOperand_8h.html" title="llvm/CodeGen/MachineOperand.h" alt="" coords="3163,698,3381,725"/>
+<area shape="rect" id="node39" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="2492,437,2711,464"/>
+<area shape="rect" id="node40" href="$MachineInstrBuilder_8h.html" title="llvm/CodeGen/MachineInstr\lBuilder.h" alt="" coords="3113,348,3297,389"/>
+<area shape="rect" id="node48" href="$AMDGPUMCTargetDesc_8h.html" title="Provides AMDGPU specific target descriptions. " alt="" coords="3199,95,3431,136"/>
+<area shape="rect" id="node49" href="$ScheduleDAG_8h.html" title="llvm/CodeGen/ScheduleDAG.h" alt="" coords="2785,437,2988,464"/>
+<area shape="rect" id="node3" href="$BitVector_8h.html" title="llvm/ADT/BitVector.h" alt="" coords="2217,519,2364,546"/>
+<area shape="rect" id="node5" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1821,698,1976,725"/>
+<area shape="rect" id="node17" href="$ScheduleHazardRecognizer_8h.html" title="llvm/CodeGen/ScheduleHazard\lRecognizer.h" alt="" coords="539,348,744,389"/>
+<area shape="rect" id="node18" href="$TargetSchedule_8h.html" title="llvm/CodeGen/TargetSchedule.h" alt="" coords="1352,355,1563,382"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2304,609,2448,635"/>
+<area shape="rect" id="node16" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1051,698,1229,725"/>
+<area shape="rect" id="node9" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="749,855,912,881"/>
+<area shape="rect" id="node19" href="$MCInstrItineraries_8h.html" title="llvm/MC/MCInstrItineraries.h" alt="" coords="1033,437,1223,464"/>
+<area shape="rect" id="node22" href="$AMDGPU_8h.html" title="AMDGPU.h" alt="" coords="354,519,446,546"/>
+<area shape="rect" id="node23" href="$AMDGPUCallLowering_8h.html" title="This file describes how to lower LLVM calls to machine code calls. " alt="" coords="626,266,793,293"/>
+<area shape="rect" id="node24" href="$R600FrameLowering_8h.html" title="R600FrameLowering.h" alt="" coords="1739,184,1893,211"/>
+<area shape="rect" id="node25" href="$R600ISelLowering_8h.html" title="R600 DAG Lowering interface definition. " alt="" coords="1917,184,2056,211"/>
+<area shape="rect" id="node26" href="$R600InstrInfo_8h.html" title="Interface definition for R600InstrInfo. " alt="" coords="2080,184,2192,211"/>
+<area shape="rect" id="node27" href="$SIFrameLowering_8h.html" title="SIFrameLowering.h" alt="" coords="2217,184,2351,211"/>
+<area shape="rect" id="node28" href="$SIISelLowering_8h.html" title="SI DAG Lowering interface definition. " alt="" coords="2375,184,2497,211"/>
+<area shape="rect" id="node41" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="2573,184,2697,211"/>
+<area shape="rect" id="node42" href="$InstructionSelector_8h.html" title="llvm/CodeGen/GlobalISel\l/InstructionSelector.h" alt="" coords="1654,601,1823,643"/>
+<area shape="rect" id="node43" href="$LegalizerInfo_8h.html" title="llvm/CodeGen/GlobalISel\l/LegalizerInfo.h" alt="" coords="1841,348,2010,389"/>
+<area shape="rect" id="node44" href="$RegisterBankInfo_8h.html" title="llvm/CodeGen/GlobalISel\l/RegisterBankInfo.h" alt="" coords="3457,691,3626,732"/>
+<area shape="rect" id="node45" href="$SelectionDAGTargetInfo_8h.html" title="llvm/CodeGen/SelectionDAGTarget\lInfo.h" alt="" coords="3247,259,3476,300"/>
+<area shape="rect" id="node30" href="$AMDGPUInstrInfo_8h.html" title="Contains the definition of a TargetInstrInfo class that is common to all AMD GPUs. " alt="" coords="934,355,1074,382"/>
+<area shape="rect" id="node35" href="$SetVector_8h.html" title="llvm/ADT/SetVector.h" alt="" coords="2042,519,2193,546"/>
+<area shape="rect" id="node36" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="2845,512,3035,553"/>
+</map>

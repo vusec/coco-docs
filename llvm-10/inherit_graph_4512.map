@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1PseudoSourceValue.html" title="Special value supplied for machine level alias analysis. " alt="" coords="5,209,177,235"/>
+<area shape="rect" id="node2" href="$classllvm_1_1AMDGPUPseudoSourceValue.html" title="llvm::AMDGPUPseudoSource\lValue" alt="" coords="229,104,427,145"/>
+<area shape="rect" id="node6" href="$classllvm_1_1CallEntryPseudoSourceValue.html" title="llvm::CallEntryPseudoSource\lValue" alt="" coords="231,201,425,243"/>
+<area shape="rect" id="node9" href="$classllvm_1_1FixedStackPseudoSourceValue.html" title="A specialized PseudoSourceValue for holding FixedStack values, which must include a frame index..." alt="" coords="225,267,431,308"/>
+<area shape="rect" id="node3" href="$classllvm_1_1AMDGPUBufferPseudoSourceValue.html" title="llvm::AMDGPUBufferPseudo\lSourceValue" alt="" coords="505,5,697,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1AMDGPUGWSResourcePseudoSourceValue.html" title="llvm::AMDGPUGWSResourcePseudo\lSourceValue" alt="" coords="479,71,724,112"/>
+<area shape="rect" id="node5" href="$classllvm_1_1AMDGPUImagePseudoSourceValue.html" title="llvm::AMDGPUImagePseudoSource\lValue" alt="" coords="484,136,719,177"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ExternalSymbolPseudoSourceValue.html" title="A specialized pseudo source value for holding external symbol values. " alt="" coords="506,201,697,243"/>
+<area shape="rect" id="node8" href="$classllvm_1_1GlobalValuePseudoSourceValue.html" title="A specialized pseudo source value for holding GlobalValue values. " alt="" coords="497,267,706,308"/>
+</map>

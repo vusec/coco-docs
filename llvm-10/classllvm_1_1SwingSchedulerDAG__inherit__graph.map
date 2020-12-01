@@ -1,0 +1,4 @@
+<map id="llvm::SwingSchedulerDAG" name="llvm::SwingSchedulerDAG">
+<area shape="rect" id="node2" href="$classllvm_1_1ScheduleDAGInstrs.html" title="A ScheduleDAG for scheduling lists of MachineInstr. " alt="" coords="9,80,179,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ScheduleDAG.html" title="llvm::ScheduleDAG" alt="" coords="25,5,163,32"/>
+</map>

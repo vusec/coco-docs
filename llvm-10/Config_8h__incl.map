@@ -1,0 +1,38 @@
+<map id="include/llvm/LTO/Config.h" name="include/llvm/LTO/Config.h">
+<area shape="rect" id="node2" href="$DenseSet_8h.html" title="llvm/ADT/DenseSet.h" alt="" coords="954,244,1105,271"/>
+<area shape="rect" id="node21" href="$DiagnosticInfo_8h.html" title="llvm/IR/DiagnosticInfo.h" alt="" coords="3480,162,3643,189"/>
+<area shape="rect" id="node34" href="$GlobalValue_8h.html" title="llvm/IR/GlobalValue.h" alt="" coords="4248,80,4397,107"/>
+<area shape="rect" id="node39" href="$LLVMContext_8h.html" title="llvm/IR/LLVMContext.h" alt="" coords="5287,244,5446,271"/>
+<area shape="rect" id="node42" href="$PassBuilder_8h.html" title="Interfaces for registering analysis passes, producing common pass manager configurations, and parsing of pass pipelines. " alt="" coords="2180,80,2359,107"/>
+<area shape="rect" id="node48" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="5909,80,6075,107"/>
+<area shape="rect" id="node49" href="$TargetOptions_8h.html" title="llvm/Target/TargetOptions.h" alt="" coords="3864,80,4048,107"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1323,319,1477,345"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="814,393,991,420"/>
+<area shape="rect" id="node16" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1299,468,1477,495"/>
+<area shape="rect" id="node18" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2371,468,2541,495"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2813,543,2976,569"/>
+<area shape="rect" id="node14" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="3181,393,3355,420"/>
+<area shape="rect" id="node15" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2617,468,2770,495"/>
+<area shape="rect" id="node17" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="1118,393,1325,420"/>
+<area shape="rect" id="node5" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1809,468,1956,495"/>
+<area shape="rect" id="node22" href="$c_2Types_8h.html" title="llvm&#45;c/Types.h" alt="" coords="5035,393,5143,420"/>
+<area shape="rect" id="node23" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2966,393,3106,420"/>
+<area shape="rect" id="node25" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2373,393,2536,420"/>
+<area shape="rect" id="node27" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="3465,319,3591,345"/>
+<area shape="rect" id="node28" href="$DebugLoc_8h.html" title="llvm/IR/DebugLoc.h" alt="" coords="3545,244,3684,271"/>
+<area shape="rect" id="node29" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="4773,319,4992,345"/>
+<area shape="rect" id="node31" href="$YAMLTraits_8h.html" title="llvm/Support/YAMLTraits.h" alt="" coords="2813,244,2992,271"/>
+<area shape="rect" id="node26" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="4307,468,4496,495"/>
+<area shape="rect" id="node30" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="4341,393,4496,420"/>
+<area shape="rect" id="node35" href="$Constant_8h.html" title="llvm/IR/Constant.h" alt="" coords="4470,162,4602,189"/>
+<area shape="rect" id="node36" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="4767,244,4879,271"/>
+<area shape="rect" id="node37" href="$DerivedTypes_8h.html" title="llvm/IR/DerivedTypes.h" alt="" coords="4184,319,4344,345"/>
+<area shape="rect" id="node38" href="$MD5_8h.html" title="llvm/Support/MD5.h" alt="" coords="2008,393,2147,420"/>
+<area shape="rect" id="node40" href="$DiagnosticHandler_8h.html" title="llvm/IR/DiagnosticHandler.h" alt="" coords="3923,319,4109,345"/>
+<area shape="rect" id="node43" href="$CGSCCPassManager_8h.html" title="This header provides classes for managing passes over SCCs of the call graph. " alt="" coords="1374,162,1618,189"/>
+<area shape="rect" id="node44" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM. " alt="" coords="1583,244,1742,271"/>
+<area shape="rect" id="node45" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="3315,244,3453,271"/>
+<area shape="rect" id="node46" href="$Instrumentation_8h.html" title="llvm/Transforms/Instrumentation.h" alt="" coords="2060,244,2281,271"/>
+<area shape="rect" id="node47" href="$LoopPassManager_8h.html" title="This header provides classes for managing a pipeline of passes over loops in LLVM IR..." alt="" coords="1840,155,1997,196"/>
+<area shape="rect" id="node50" href="$MCTargetOptions_8h.html" title="llvm/MC/MCTargetOptions.h" alt="" coords="3860,244,4049,271"/>
+</map>

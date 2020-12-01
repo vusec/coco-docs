@@ -1,0 +1,9 @@
+<map id="llvm::CrashRecoveryContextCleanupBase&lt; Derived, T &gt;" name="llvm::CrashRecoveryContextCleanupBase&lt; Derived, T &gt;">
+<area shape="rect" id="node3" href="$classllvm_1_1CrashRecoveryContextCleanupBase.html" title="llvm::CrashRecoveryContext\lCleanupBase\&lt; CrashRecoveryContext\lReleaseRefCleanup\&lt; T \&gt;, T \&gt;" alt="" coords="699,5,948,61"/>
+<area shape="rect" id="node5" href="$classllvm_1_1CrashRecoveryContextCleanupBase.html" title="llvm::CrashRecoveryContext\lCleanupBase\&lt; CrashRecoveryContext\lDeleteCleanup\&lt; T \&gt;, T \&gt;" alt="" coords="699,85,948,141"/>
+<area shape="rect" id="node7" href="$classllvm_1_1CrashRecoveryContextCleanupBase.html" title="llvm::CrashRecoveryContext\lCleanupBase\&lt; CrashRecoveryContext\lDestructorCleanup\&lt; T \&gt;, T \&gt;" alt="" coords="699,165,948,221"/>
+<area shape="rect" id="node2" href="$classllvm_1_1CrashRecoveryContextCleanup.html" title="Abstract base class of cleanup handlers. " alt="" coords="5,93,196,134"/>
+<area shape="rect" id="node4" href="$classllvm_1_1CrashRecoveryContextReleaseRefCleanup.html" title="Cleanup handler that reclaims resource by calling its method &#39;Release&#39;. " alt="" coords="997,13,1188,54"/>
+<area shape="rect" id="node6" href="$classllvm_1_1CrashRecoveryContextDeleteCleanup.html" title="Cleanup handler that reclaims resource by calling &#39;delete&#39; on it. " alt="" coords="997,93,1188,134"/>
+<area shape="rect" id="node8" href="$classllvm_1_1CrashRecoveryContextDestructorCleanup.html" title="Cleanup handler that reclaims resource by calling destructor on it. " alt="" coords="997,173,1188,214"/>
+</map>

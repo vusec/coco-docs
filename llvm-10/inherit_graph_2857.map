@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1LoadedObjectInfo.html" title="An inferface for inquiring the load address of a loaded object file to be used by the DIContext imple..." alt="" coords="5,13,161,39"/>
+<area shape="rect" id="node2" href="$classllvm_1_1RuntimeDyld_1_1LoadedObjectInfo.html" title="Information about the loaded object. " alt="" coords="209,5,348,47"/>
+</map>

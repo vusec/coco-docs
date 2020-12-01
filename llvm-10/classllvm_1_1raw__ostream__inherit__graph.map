@@ -1,0 +1,12 @@
+<map id="llvm::raw_ostream" name="llvm::raw_ostream">
+<area shape="rect" id="node2" href="$classllvm_1_1circular__raw__ostream.html" title="circular_raw_ostream &#45; A raw_ostream which can save its data to a circular buffer, or can pass it through directly to an underlying stream if specified with a buffer of zero. " alt="" coords="205,5,329,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1formatted__raw__ostream.html" title="formatted_raw_ostream &#45; A raw_ostream that wraps another one and keeps track of line and column posit..." alt="" coords="198,71,335,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1raw__os__ostream.html" title="raw_os_ostream &#45; A raw_ostream that writes to an std::ostream. " alt="" coords="191,137,342,163"/>
+<area shape="rect" id="node5" href="$classllvm_1_1raw__pwrite__stream.html" title="An abstract base class for streams implementations that also support a pwrite operation. " alt="" coords="185,187,349,214"/>
+<area shape="rect" id="node10" href="$classllvm_1_1raw__sha1__ostream.html" title="A raw_ostream that hash the content using the sha1 algorithm. " alt="" coords="185,238,349,265"/>
+<area shape="rect" id="node11" href="$classllvm_1_1raw__string__ostream.html" title="A raw_ostream that writes to an std::string. " alt="" coords="183,289,351,315"/>
+<area shape="rect" id="node6" href="$classllvm_1_1raw__fd__ostream.html" title="A raw_ostream that writes to a file descriptor. " alt="" coords="415,137,561,163"/>
+<area shape="rect" id="node7" href="$classllvm_1_1raw__null__ostream.html" title="A raw_ostream that discards all output. " alt="" coords="410,187,566,214"/>
+<area shape="rect" id="node8" href="$classllvm_1_1raw__svector__ostream.html" title="A raw_ostream that writes to an SmallVector or SmallString. " alt="" coords="399,238,577,265"/>
+<area shape="rect" id="node9" href="$classllvm_1_1buffer__ostream.html" title="llvm::buffer_ostream" alt="" coords="625,238,767,265"/>
+</map>

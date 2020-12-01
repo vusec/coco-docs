@@ -1,0 +1,45 @@
+<map id="lib/DWARFLinker/DWARFLinkerDeclContext.cpp" name="lib/DWARFLinker/DWARFLinkerDeclContext.cpp">
+<area shape="rect" id="node2" href="$DWARFLinkerDeclContext_8h.html" title="llvm/DWARFLinker/DWARFLinker\lDeclContext.h" alt="" coords="574,184,798,225"/>
+<area shape="rect" id="node19" href="$DWARFUnit_8h.html" title="llvm/DebugInfo/DWARF\l/DWARFUnit.h" alt="" coords="2339,363,2503,404"/>
+<area shape="rect" id="node27" href="$DWARFDie_8h.html" title="llvm/DebugInfo/DWARF\l/DWARFDie.h" alt="" coords="3208,452,3372,493"/>
+<area shape="rect" id="node35" href="$DWARFContext_8h.html" title="llvm/DebugInfo/DWARF\l/DWARFContext.h" alt="" coords="2042,95,2206,136"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="818,713,973,739"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="1174,795,1351,821"/>
+<area shape="rect" id="node15" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="874,869,1021,896"/>
+<area shape="rect" id="node16" href="$DenseSet_8h.html" title="llvm/ADT/DenseSet.h" alt="" coords="830,631,980,657"/>
+<area shape="rect" id="node17" href="$NonRelocatableStringpool_8h.html" title="llvm/CodeGen/NonRelocatable\lStringpool.h" alt="" coords="1578,944,1781,985"/>
+<area shape="rect" id="node18" href="$DWARFLinkerCompileUnit_8h.html" title="llvm/DWARFLinker/DWARFLinker\lCompileUnit.h" alt="" coords="1189,273,1413,315"/>
+<area shape="rect" id="node34" href="$Path_8h.html" title="llvm/Support/Path.h" alt="" coords="308,370,446,397"/>
+<area shape="rect" id="node5" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2910,869,3054,896"/>
+<area shape="rect" id="node6" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3534,951,3697,978"/>
+<area shape="rect" id="node11" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1197,951,1352,978"/>
+<area shape="rect" id="node7" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="396,1108,566,1135"/>
+<area shape="rect" id="node12" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3851,1033,3991,1060"/>
+<area shape="rect" id="node13" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="554,1033,686,1060"/>
+<area shape="rect" id="node32" href="$DataExtractor_8h.html" title="llvm/Support/DataExtractor.h" alt="" coords="1266,631,1456,657"/>
+<area shape="rect" id="node20" href="$Dwarf_8h.html" title="This file contains constants used for implementing Dwarf debug support. " alt="" coords="3448,631,3626,657"/>
+<area shape="rect" id="node21" href="$DWARFDebugInfoEntry_8h.html" title="llvm/DebugInfo/DWARF\l/DWARFDebugInfoEntry.h" alt="" coords="2744,541,2922,583"/>
+<area shape="rect" id="node22" href="$DWARFDebugLoc_8h.html" title="llvm/DebugInfo/DWARF\l/DWARFDebugLoc.h" alt="" coords="3898,541,4062,583"/>
+<area shape="rect" id="node30" href="$DWARFSection_8h.html" title="llvm/DebugInfo/DWARF\l/DWARFSection.h" alt="" coords="823,452,987,493"/>
+<area shape="rect" id="node31" href="$DWARFUnitIndex_8h.html" title="llvm/DebugInfo/DWARF\l/DWARFUnitIndex.h" alt="" coords="2012,541,2176,583"/>
+<area shape="rect" id="node23" href="$DIContext_8h.html" title="llvm/DebugInfo/DIContext.h" alt="" coords="3035,631,3220,657"/>
+<area shape="rect" id="node24" href="$ObjectFile_8h.html" title="llvm/Object/ObjectFile.h" alt="" coords="1442,713,1605,739"/>
+<area shape="rect" id="node25" href="$Binary_8h.html" title="llvm/Object/Binary.h" alt="" coords="2675,795,2815,821"/>
+<area shape="rect" id="node26" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="1794,869,1933,896"/>
+<area shape="rect" id="node28" href="$DWARFAddressRange_8h.html" title="llvm/DebugInfo/DWARF\l/DWARFAddressRange.h" alt="" coords="2946,541,3120,583"/>
+<area shape="rect" id="node29" href="$DWARFAttribute_8h.html" title="llvm/DebugInfo/DWARF\l/DWARFAttribute.h" alt="" coords="3398,541,3562,583"/>
+<area shape="rect" id="node36" href="$MapVector_8h.html" title="llvm/ADT/MapVector.h" alt="" coords="4212,631,4366,657"/>
+<area shape="rect" id="node37" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="2288,795,2447,821"/>
+<area shape="rect" id="node38" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="440,795,591,821"/>
+<area shape="rect" id="node39" href="$DWARFAcceleratorTable_8h.html" title="llvm/DebugInfo/DWARF\l/DWARFAcceleratorTable.h" alt="" coords="3688,541,3874,583"/>
+<area shape="rect" id="node40" href="$DWARFCompileUnit_8h.html" title="llvm/DebugInfo/DWARF\l/DWARFCompileUnit.h" alt="" coords="2187,273,2351,315"/>
+<area shape="rect" id="node41" href="$DWARFDebugAbbrev_8h.html" title="llvm/DebugInfo/DWARF\l/DWARFDebugAbbrev.h" alt="" coords="1691,363,1858,404"/>
+<area shape="rect" id="node42" href="$DWARFDebugAranges_8h.html" title="llvm/DebugInfo/DWARF\l/DWARFDebugAranges.h" alt="" coords="865,541,1038,583"/>
+<area shape="rect" id="node43" href="$DWARFDebugFrame_8h.html" title="llvm/DebugInfo/DWARF\l/DWARFDebugFrame.h" alt="" coords="2435,705,2599,747"/>
+<area shape="rect" id="node44" href="$DWARFDebugLine_8h.html" title="llvm/DebugInfo/DWARF\l/DWARFDebugLine.h" alt="" coords="1896,184,2060,225"/>
+<area shape="rect" id="node45" href="$DWARFTypeUnit_8h.html" title="llvm/DebugInfo/DWARF\l/DWARFTypeUnit.h" alt="" coords="1744,273,1908,315"/>
+<area shape="rect" id="node46" href="$DWARFDebugMacro_8h.html" title="llvm/DebugInfo/DWARF\l/DWARFDebugMacro.h" alt="" coords="2200,541,2364,583"/>
+<area shape="rect" id="node47" href="$DWARFGdbIndex_8h.html" title="llvm/DebugInfo/DWARF\l/DWARFGdbIndex.h" alt="" coords="1468,541,1632,583"/>
+<area shape="rect" id="node48" href="$DWARFObject_8h.html" title="llvm/DebugInfo/DWARF\l/DWARFObject.h" alt="" coords="899,363,1063,404"/>
+<area shape="rect" id="node49" href="$Host_8h.html" title="llvm/Support/Host.h" alt="" coords="100,191,238,218"/>
+</map>

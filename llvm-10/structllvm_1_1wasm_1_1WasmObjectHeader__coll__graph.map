@@ -1,0 +1,5 @@
+<map id="llvm::wasm::WasmObjectHeader" name="llvm::wasm::WasmObjectHeader">
+<area shape="rect" id="node2" href="$classuint32__t.html" title="uint32_t" alt="" coords="39,95,107,121"/>
+<area shape="rect" id="node3" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e. " alt="" coords="131,95,241,121"/>
+<area shape="rect" id="node4" href="$classsize__t.html" title="size_t" alt="" coords="157,5,215,32"/>
+</map>

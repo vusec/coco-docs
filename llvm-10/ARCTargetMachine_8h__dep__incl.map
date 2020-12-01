@@ -1,0 +1,8 @@
+<map id="lib/Target/ARC/ARCTargetMachine.h" name="lib/Target/ARC/ARCTargetMachine.h">
+<area shape="rect" id="node2" href="$ARCAsmPrinter_8cpp.html" title="lib/Target/ARC/ARCAsmPrinter.cpp" alt="" coords="5,102,237,129"/>
+<area shape="rect" id="node3" href="$ARCBranchFinalize_8cpp.html" title="lib/Target/ARC/ARCBranch\lFinalize.cpp" alt="" coords="262,95,445,136"/>
+<area shape="rect" id="node4" href="$ARCISelDAGToDAG_8cpp.html" title="lib/Target/ARC/ARCISelDAGTo\lDAG.cpp" alt="" coords="469,95,678,136"/>
+<area shape="rect" id="node5" href="$ARCISelLowering_8cpp.html" title="lib/Target/ARC/ARCISelLowering.cpp" alt="" coords="703,102,945,129"/>
+<area shape="rect" id="node6" href="$ARCOptAddrMode_8cpp.html" title="This pass folds LD/ST + ADD pairs into Pre/Post&#45;increment form of load/store instructions. " alt="" coords="970,95,1161,136"/>
+<area shape="rect" id="node7" href="$ARCTargetMachine_8cpp.html" title="lib/Target/ARC/ARCTarget\lMachine.cpp" alt="" coords="1185,95,1364,136"/>
+</map>

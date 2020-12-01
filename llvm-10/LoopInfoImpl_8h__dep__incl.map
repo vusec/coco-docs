@@ -1,0 +1,20 @@
+<map id="include/llvm/Analysis/LoopInfoImpl.h" name="include/llvm/Analysis/LoopInfoImpl.h">
+<area shape="rect" id="node2" href="$LoopInfo_8cpp.html" title="lib/Analysis/LoopInfo.cpp" alt="" coords="213,102,381,129"/>
+<area shape="rect" id="node3" href="$MachineLoopInfo_8cpp.html" title="lib/CodeGen/MachineLoopInfo.cpp" alt="" coords="405,102,628,129"/>
+<area shape="rect" id="node4" href="$VPlanLoopInfo_8h.html" title="This file defines VPLoopInfo analysis and VPLoop class. " alt="" coords="652,95,816,136"/>
+<area shape="rect" id="node5" href="$VPlan_8h.html" title="This file contains the declarations of the Vectorization Plan base classes: " alt="" coords="652,184,816,225"/>
+<area shape="rect" id="node6" href="$LoopVectorizationPlanner_8h.html" title="This file provides a LoopVectorizationPlanner class. " alt="" coords="456,273,641,315"/>
+<area shape="rect" id="node7" href="$LoopVectorize_8cpp.html" title="lib/Transforms/Vectorize\l/LoopVectorize.cpp" alt="" coords="356,452,520,493"/>
+<area shape="rect" id="node8" href="$VPRecipeBuilder_8h.html" title="lib/Transforms/Vectorize\l/VPRecipeBuilder.h" alt="" coords="296,363,460,404"/>
+<area shape="rect" id="node9" href="$VPlanPredicator_8h.html" title="This file defines the VPlanPredicator class which contains the public interfaces to predicate and lin..." alt="" coords="587,363,751,404"/>
+<area shape="rect" id="node10" href="$VPlanPredicator_8cpp.html" title="This file implements the VPlanPredicator class which contains the public interfaces to predicate and ..." alt="" coords="1105,452,1269,493"/>
+<area shape="rect" id="node12" href="$VPlanHCFGBuilder_8h.html" title="This file defines the VPlanHCFGBuilder class which contains the public interface (buildHierarchicalCF..." alt="" coords="963,363,1127,404"/>
+<area shape="rect" id="node13" href="$VPlanDominatorTree_8h.html" title="This file implements dominator tree analysis for a single level of a VPlan&#39;s H&#45;CFG. " alt="" coords="772,273,936,315"/>
+<area shape="rect" id="node14" href="$VPlan_8cpp.html" title="This is the LLVM vectorization plan. " alt="" coords="775,363,939,404"/>
+<area shape="rect" id="node15" href="$VPlanVerifier_8h.html" title="This file declares the class VPlanVerifier, which contains utility functions to check the consistency..." alt="" coords="1012,273,1176,315"/>
+<area shape="rect" id="node17" href="$VPlanTransforms_8h.html" title="This file provides utility VPlan to VPlan transformations. " alt="" coords="56,273,220,315"/>
+<area shape="rect" id="node19" href="$VPlanSLP_8cpp.html" title="lib/Transforms/Vectorize\l/VPlanSLP.cpp" alt="" coords="1391,273,1555,315"/>
+<area shape="rect" id="node11" href="$VPlanHCFGBuilder_8cpp.html" title="This file implements the construction of a VPlan&#45;based Hierarchical CFG (H&#45;CFG) for an incoming IR..." alt="" coords="753,452,917,493"/>
+<area shape="rect" id="node16" href="$VPlanVerifier_8cpp.html" title="This file defines the class VPlanVerifier, which contains utility functions to check the consistency ..." alt="" coords="1151,363,1315,404"/>
+<area shape="rect" id="node18" href="$VPlanTransforms_8cpp.html" title="This file implements a set of utility VPlan to VPlan transformations. " alt="" coords="5,363,169,404"/>
+</map>

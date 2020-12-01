@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structllvm_1_1DefaultDOTGraphTraits.html" title="DefaultDOTGraphTraits &#45; This class provides the default implementations of all of the DOTGraphTraits ..." alt="" coords="5,518,197,545"/>
+<area shape="rect" id="node2" href="$structllvm_1_1DOTGraphTraits.html" title="llvm::DOTGraphTraits\l\&lt; DomTreeNode *\&gt;" alt="" coords="304,37,455,79"/>
+<area shape="rect" id="node5" href="$structllvm_1_1DOTGraphTraits.html" title="llvm::DOTGraphTraits\l\&lt; GraphType \&gt;" alt="" coords="304,103,455,144"/>
+<area shape="rect" id="node6" href="$structllvm_1_1DOTGraphTraits.html" title="llvm::DOTGraphTraits\l\&lt; RegionNode *\&gt;" alt="" coords="304,168,455,209"/>
+<area shape="rect" id="node8" href="$structllvm_1_1BFIDOTGraphTraitsBase.html" title="llvm::BFIDOTGraphTraitsBase\l\&lt; BlockFrequencyInfoT, BranchProbability\lInfoT \&gt;" alt="" coords="245,234,513,290"/>
+<area shape="rect" id="node11" href="$structllvm_1_1DOTGraphTraits.html" title="DOTGraphTraits &#45; Template class that can be specialized to customize how graphs are converted to &#39;dot..." alt="" coords="304,315,455,356"/>
+<area shape="rect" id="node12" href="$structllvm_1_1DOTGraphTraits_3_01BoUpSLP_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; BoUpSLP * \&gt;" alt="" coords="304,380,455,421"/>
+<area shape="rect" id="node13" href="$structllvm_1_1DOTGraphTraits_3_01CallGraph_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; CallGraph * \&gt;" alt="" coords="304,445,455,487"/>
+<area shape="rect" id="node14" href="$structllvm_1_1DOTGraphTraits_3_01const_01Function_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; const Function * \&gt;" alt="" coords="304,511,455,552"/>
+<area shape="rect" id="node15" href="$structllvm_1_1DOTGraphTraits_3_01const_01MachineFunction_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; const MachineFunction * \&gt;" alt="" coords="284,576,475,617"/>
+<area shape="rect" id="node16" href="$structllvm_1_1DOTGraphTraits_3_01DomTreeNode_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; DomTreeNode * \&gt;" alt="" coords="304,641,455,683"/>
+<area shape="rect" id="node17" href="$structllvm_1_1DOTGraphTraits_3_01PGOUseFunc_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; PGOUseFunc * \&gt;" alt="" coords="304,707,455,748"/>
+<area shape="rect" id="node18" href="$structllvm_1_1DOTGraphTraits_3_01RegionNode_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; RegionNode * \&gt;" alt="" coords="304,772,455,813"/>
+<area shape="rect" id="node19" href="$structllvm_1_1DOTGraphTraits_3_01ScheduleDAG_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; ScheduleDAG * \&gt;" alt="" coords="304,837,455,879"/>
+<area shape="rect" id="node20" href="$structllvm_1_1DOTGraphTraits_3_01ScheduleDAGMI_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; ScheduleDAGMI * \&gt;" alt="" coords="303,903,456,944"/>
+<area shape="rect" id="node21" href="$structllvm_1_1DOTGraphTraits_3_01SelectionDAG_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; SelectionDAG * \&gt;" alt="" coords="304,968,455,1009"/>
+<area shape="rect" id="node3" href="$structllvm_1_1DOTGraphTraits_3_01DominatorTree_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; DominatorTree * \&gt;" alt="" coords="596,5,747,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1DOTGraphTraits_3_01PostDominatorTree_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; PostDominatorTree * \&gt;" alt="" coords="587,71,755,112"/>
+<area shape="rect" id="node7" href="$structllvm_1_1DOTGraphTraits_3_01RegionInfo_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; RegionInfo * \&gt;" alt="" coords="596,168,747,209"/>
+<area shape="rect" id="node9" href="$structllvm_1_1DOTGraphTraits_3_01BlockFrequencyInfo_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; BlockFrequencyInfo * \&gt;" alt="" coords="586,237,757,279"/>
+<area shape="rect" id="node10" href="$structllvm_1_1DOTGraphTraits_3_01MachineBlockFrequencyInfo_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; MachineBlockFrequencyInfo * \&gt;" alt="" coords="561,303,781,344"/>
+</map>

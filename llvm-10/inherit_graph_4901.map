@@ -1,0 +1,82 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1StringMapImpl.html" title="StringMapImpl &#45; This is the base class of StringMap that is shared among all of its instantiations..." alt="" coords="5,2538,144,2565"/>
+<area shape="rect" id="node2" href="$classllvm_1_1StringMap.html" title="StringMap &#45; This is an unconventional map that is specialized for handling keys that are &quot;strings&quot;..." alt="" coords="235,5,413,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; bool \&gt;" alt="" coords="243,71,405,98"/>
+<area shape="rect" id="node4" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; bool,\l llvm::BumpPtrAllocatorImpl &amp;\&gt;" alt="" coords="221,123,427,164"/>
+<area shape="rect" id="node5" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; Comdat \&gt;" alt="" coords="233,189,415,215"/>
+<area shape="rect" id="node6" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; const\l llvm::DIE *\&gt;" alt="" coords="245,240,403,281"/>
+<area shape="rect" id="node7" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; const\l PassInfo * \&gt;" alt="" coords="245,305,403,347"/>
+<area shape="rect" id="node8" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; const\l RegisterBank * \&gt;" alt="" coords="245,371,403,412"/>
+<area shape="rect" id="node9" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; const\l TargetRegisterClass * \&gt;" alt="" coords="241,436,407,477"/>
+<area shape="rect" id="node10" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; const\l uint32_t *\&gt;" alt="" coords="245,501,403,543"/>
+<area shape="rect" id="node11" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; CountAnd\lDurationType \&gt;" alt="" coords="233,567,415,608"/>
+<area shape="rect" id="node12" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; DwarfString\lPoolEntry, BumpPtrAllocator \&gt;" alt="" coords="223,632,425,673"/>
+<area shape="rect" id="node13" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; GlobalResolution \&gt;" alt="" coords="206,698,442,725"/>
+<area shape="rect" id="node14" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; GlobalValue\l::LinkageTypes \&gt;" alt="" coords="227,749,421,791"/>
+<area shape="rect" id="node15" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; HashData,\l BumpPtrAllocator &amp; \&gt;" alt="" coords="230,815,418,856"/>
+<area shape="rect" id="node16" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; int \&gt;" alt="" coords="249,881,399,907"/>
+<area shape="rect" id="node17" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; JITTarget\lAddress \&gt;" alt="" coords="233,932,415,973"/>
+<area shape="rect" id="node18" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; llvm\l::cl::Option *\&gt;" alt="" coords="249,997,399,1039"/>
+<area shape="rect" id="node19" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; llvm\l::Constant *\&gt;" alt="" coords="249,1063,399,1104"/>
+<area shape="rect" id="node20" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; llvm\l::ConstantDataSequential *\&gt;" alt="" coords="229,1128,419,1169"/>
+<area shape="rect" id="node21" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; llvm\l::DenseMap \&gt;" alt="" coords="249,1193,399,1235"/>
+<area shape="rect" id="node22" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; llvm\l::DwarfStringPoolEntry,\l llvm::BumpPtrAllocatorImpl &amp;\&gt;" alt="" coords="221,1259,427,1315"/>
+<area shape="rect" id="node23" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; llvm\l::FileInfo::LineData \&gt;" alt="" coords="249,1340,399,1381"/>
+<area shape="rect" id="node24" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; llvm\l::GCStrategy *\&gt;" alt="" coords="249,1405,399,1447"/>
+<area shape="rect" id="node25" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; llvm\l::JITEvaluatedSymbol \&gt;" alt="" coords="243,1471,405,1512"/>
+<area shape="rect" id="node26" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; llvm\l::MCAsmMacro \&gt;" alt="" coords="249,1536,399,1577"/>
+<area shape="rect" id="node27" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; llvm\l::MCSectionMachO *\&gt;" alt="" coords="247,1601,401,1643"/>
+<area shape="rect" id="node28" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; llvm\l::MDString, llvm::BumpPtrAllocator\lImpl \&gt;" alt="" coords="211,1667,437,1723"/>
+<area shape="rect" id="node29" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; llvm\l::NumericVariable *\&gt;" alt="" coords="249,1748,399,1789"/>
+<area shape="rect" id="node30" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; llvm\l::sampleprof::FunctionSamples \&gt;" alt="" coords="217,1813,431,1855"/>
+<area shape="rect" id="node31" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; llvm\l::SDNode *\&gt;" alt="" coords="249,1879,399,1920"/>
+<area shape="rect" id="node32" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; llvm\l::SmallDenseMap \&gt;" alt="" coords="249,1944,399,1985"/>
+<area shape="rect" id="node33" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; llvm\l::SmallVector \&gt;" alt="" coords="249,2009,399,2051"/>
+<area shape="rect" id="node34" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; llvm\l::SmallVector\&lt; llvm::\lAnnotations::Range, 1 \&gt; \&gt;" alt="" coords="236,2075,412,2131"/>
+<area shape="rect" id="node35" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; llvm\l::SmallVector\&lt; size_t,\l 1 \&gt; \&gt;" alt="" coords="248,2155,400,2211"/>
+<area shape="rect" id="node36" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; llvm\l::StringRef \&gt;" alt="" coords="249,2236,399,2277"/>
+<area shape="rect" id="node37" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; llvm\l::StructType *\&gt;" alt="" coords="249,2301,399,2343"/>
+<area shape="rect" id="node38" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; llvm\l::Type *\&gt;" alt="" coords="249,2367,399,2408"/>
+<area shape="rect" id="node39" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; llvm\l::VRegInfo *\&gt;" alt="" coords="249,2432,399,2473"/>
+<area shape="rect" id="node40" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; Machine\lMemOperand::Flags \&gt;" alt="" coords="237,2497,411,2539"/>
+<area shape="rect" id="node41" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; MCSymbol\l *, BumpPtrAllocator &amp; \&gt;" alt="" coords="229,2563,419,2604"/>
+<area shape="rect" id="node42" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; NameAnd\lAttributes \&gt;" alt="" coords="233,2628,415,2669"/>
+<area shape="rect" id="node43" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; NoneType,\l AllocatorTy \&gt;" alt="" coords="229,2693,419,2735"/>
+<area shape="rect" id="node45" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; Numeric\lVariableMatch \&gt;" alt="" coords="237,2759,411,2800"/>
+<area shape="rect" id="node46" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; PooledString \&gt;" alt="" coords="219,2825,429,2851"/>
+<area shape="rect" id="node47" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; RefCount\lType \&gt;" alt="" coords="233,2876,415,2917"/>
+<area shape="rect" id="node48" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; Section\lParserFunction \&gt;" alt="" coords="239,2941,409,2983"/>
+<area shape="rect" id="node49" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; State \&gt;" alt="" coords="240,3007,408,3034"/>
+<area shape="rect" id="node50" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; std\l::pair\&lt; llvm::Type *,\l llvm::SMLoc \&gt; \&gt;" alt="" coords="253,3058,395,3114"/>
+<area shape="rect" id="node51" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; std\l::pair\&lt; StubKey, llvm\l::JITSymbolFlags \&gt; \&gt;" alt="" coords="249,3138,399,3194"/>
+<area shape="rect" id="node52" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; std\l::pair\&lt; uint64_t, ModuleHash \&gt; \&gt;" alt="" coords="217,3219,431,3260"/>
+<area shape="rect" id="node53" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; std\l::string \&gt;" alt="" coords="253,3284,395,3325"/>
+<area shape="rect" id="node54" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; std\l::unique_ptr\&lt; const llvm\l::ExternalSymbolPseudoSourceValue \&gt; \&gt;" alt="" coords="192,3350,456,3406"/>
+<area shape="rect" id="node55" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; std\l::unique_ptr\&lt; InlineGraphNode \&gt; \&gt;" alt="" coords="213,3431,435,3472"/>
+<area shape="rect" id="node56" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; std\l::unique_ptr\&lt; llvm::AArch64\lSubtarget \&gt; \&gt;" alt="" coords="232,3497,416,3553"/>
+<area shape="rect" id="node57" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; std\l::unique_ptr\&lt; llvm::ARMSubtarget \&gt; \&gt;" alt="" coords="202,3577,446,3619"/>
+<area shape="rect" id="node58" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; std\l::unique_ptr\&lt; llvm::GCNSubtarget \&gt; \&gt;" alt="" coords="202,3643,446,3684"/>
+<area shape="rect" id="node59" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; std\l::unique_ptr\&lt; llvm::Hexagon\lSubtarget \&gt; \&gt;" alt="" coords="231,3709,417,3765"/>
+<area shape="rect" id="node60" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; std\l::unique_ptr\&lt; llvm::MipsSubtarget \&gt; \&gt;" alt="" coords="203,3789,445,3831"/>
+<area shape="rect" id="node61" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; std\l::unique_ptr\&lt; llvm::PPCSubtarget \&gt; \&gt;" alt="" coords="203,3855,445,3896"/>
+<area shape="rect" id="node62" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; std\l::unique_ptr\&lt; llvm::R600Subtarget \&gt; \&gt;" alt="" coords="201,3920,447,3961"/>
+<area shape="rect" id="node63" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; std\l::unique_ptr\&lt; llvm::RISCVSubtarget \&gt; \&gt;" alt="" coords="196,3985,452,4027"/>
+<area shape="rect" id="node64" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; std\l::unique_ptr\&lt; llvm::SetTheory\l::Expander \&gt; \&gt;" alt="" coords="227,4051,421,4107"/>
+<area shape="rect" id="node65" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; std\l::unique_ptr\&lt; llvm::SetTheory\l::Operator \&gt; \&gt;" alt="" coords="227,4131,421,4187"/>
+<area shape="rect" id="node66" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; std\l::unique_ptr\&lt; llvm::SparcSubtarget \&gt; \&gt;" alt="" coords="200,4212,448,4253"/>
+<area shape="rect" id="node67" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; std\l::unique_ptr\&lt; llvm::vfs\l::detail::InMemoryNode \&gt; \&gt;" alt="" coords="233,4278,415,4334"/>
+<area shape="rect" id="node68" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; std\l::unique_ptr\&lt; llvm::WebAssembly\lSubtarget \&gt; \&gt;" alt="" coords="215,4358,433,4414"/>
+<area shape="rect" id="node69" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; std\l::unique_ptr\&lt; llvm::X86Subtarget \&gt; \&gt;" alt="" coords="205,4439,443,4480"/>
+<area shape="rect" id="node70" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; std\l::vector\&lt; llvm::support\l::detail::packed_endian\l_specific_integral \&gt; \&gt;" alt="" coords="246,4504,402,4575"/>
+<area shape="rect" id="node71" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; std\l::vector\&lt; std::string \&gt; \&gt;" alt="" coords="244,4599,404,4640"/>
+<area shape="rect" id="node72" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; std\l::weak_ptr\&lt; DWOFile \&gt; \&gt;" alt="" coords="237,4664,411,4705"/>
+<area shape="rect" id="node73" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; StringMap\l\&lt; Matcher \&gt; \&gt;" alt="" coords="232,4729,416,4771"/>
+<area shape="rect" id="node74" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; SymbolTable\lEntry \&gt;" alt="" coords="223,4795,425,4836"/>
+<area shape="rect" id="node75" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; SyncScope\l::ID \&gt;" alt="" coords="228,4860,420,4901"/>
+<area shape="rect" id="node76" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; uint32_t \&gt;" alt="" coords="233,4926,415,4953"/>
+<area shape="rect" id="node77" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; uint64_t \&gt;" alt="" coords="233,4977,415,5003"/>
+<area shape="rect" id="node78" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; unsigned \&gt;" alt="" coords="229,5027,419,5054"/>
+<area shape="rect" id="node79" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; unsigned,\l llvm::BumpPtrAllocatorImpl \&gt;" alt="" coords="225,5079,423,5120"/>
+<area shape="rect" id="node80" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; Value * \&gt;" alt="" coords="235,5145,413,5171"/>
+<area shape="rect" id="node44" href="$classllvm_1_1StringSet.html" title="StringSet &#45; A wrapper for StringMap that provides set&#45;like functionality. " alt="" coords="504,2701,703,2727"/>
+</map>

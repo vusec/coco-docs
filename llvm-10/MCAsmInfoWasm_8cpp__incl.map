@@ -1,0 +1,15 @@
+<map id="lib/MC/MCAsmInfoWasm.cpp" name="lib/MC/MCAsmInfoWasm.cpp">
+<area shape="rect" id="node2" href="$MCAsmInfoWasm_8h.html" title="llvm/MC/MCAsmInfoWasm.h" alt="" coords="1764,80,1959,107"/>
+<area shape="rect" id="node3" href="$MCAsmInfo_8h.html" title="llvm/MC/MCAsmInfo.h" alt="" coords="1784,155,1940,181"/>
+<area shape="rect" id="node4" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1478,229,1624,256"/>
+<area shape="rect" id="node32" href="$MCDirectives_8h.html" title="llvm/MC/MCDirectives.h" alt="" coords="1677,229,1844,256"/>
+<area shape="rect" id="node33" href="$MCTargetOptions_8h.html" title="llvm/MC/MCTargetOptions.h" alt="" coords="1868,229,2058,256"/>
+<area shape="rect" id="node5" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1238,304,1392,331"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="156,528,319,555"/>
+<area shape="rect" id="node18" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1536,453,1707,480"/>
+<area shape="rect" id="node6" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="369,379,509,405"/>
+<area shape="rect" id="node17" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1556,379,1688,405"/>
+<area shape="rect" id="node23" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="104,379,294,405"/>
+<area shape="rect" id="node7" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="604,453,727,480"/>
+<area shape="rect" id="node11" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="338,453,508,480"/>
+</map>

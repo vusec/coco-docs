@@ -1,0 +1,7 @@
+<map id="llvm::VETTIImpl" name="llvm::VETTIImpl">
+<area shape="rect" id="node2" href="$classllvm_1_1BasicTTIImplBase.html" title="llvm::BasicTTIImplBase\l\&lt; VETTIImpl \&gt;" alt="" coords="135,304,298,345"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TargetTransformInfoImplCRTPBase.html" title="llvm::TargetTransformInfo\lImplCRTPBase\&lt; VETTIImpl \&gt;" alt="" coords="5,200,207,241"/>
+<area shape="rect" id="node4" href="$classllvm_1_1TargetTransformInfoImplBase.html" title="Base class for use as a mix&#45;in that aids implementing a TargetTransformInfo&#45;compatible class..." alt="" coords="36,5,208,47"/>
+<area shape="rect" id="node5" href="$classllvm_1_1TargetTransformInfoImplCRTPBase.html" title="CRTP base class for use as a mix&#45;in that aids implementing a TargetTransformInfo&#45;compatible class..." alt="" coords="144,96,316,137"/>
+<area shape="rect" id="node6" href="$classllvm_1_1BasicTTIImplBase.html" title="Base class which can be used to help build a TTI implementation. " alt="" coords="231,207,426,234"/>
+</map>

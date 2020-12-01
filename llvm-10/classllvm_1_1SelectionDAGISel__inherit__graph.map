@@ -1,0 +1,11 @@
+<map id="llvm::SelectionDAGISel" name="llvm::SelectionDAGISel">
+<area shape="rect" id="node5" href="$classllvm_1_1AVRDAGToDAGISel.html" title="Lowers LLVM IR (in DAG form) to AVR MC instructions (in DAG form). " alt="" coords="771,5,949,32"/>
+<area shape="rect" id="node6" href="$classllvm_1_1HexagonDAGToDAGISel.html" title="llvm::HexagonDAGToDAGISel" alt="" coords="759,56,961,83"/>
+<area shape="rect" id="node7" href="$classllvm_1_1MipsDAGToDAGISel.html" title="llvm::MipsDAGToDAGISel" alt="" coords="771,107,949,133"/>
+<area shape="rect" id="node10" href="$classllvm_1_1NVPTXDAGToDAGISel.html" title="llvm::NVPTXDAGToDAGISel" alt="" coords="763,157,957,184"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MachineFunctionPass.html" title="MachineFunctionPass &#45; This class adapts the FunctionPass interface to allow convenient creation of pa..." alt="" coords="320,81,503,108"/>
+<area shape="rect" id="node3" href="$classllvm_1_1FunctionPass.html" title="FunctionPass class &#45; This class is used to implement most global optimizations. " alt="" coords="137,81,272,108"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Pass.html" title="Pass interface &#45; Implemented by all &#39;passes&#39;. " alt="" coords="5,81,89,108"/>
+<area shape="rect" id="node8" href="$classllvm_1_1Mips16DAGToDAGISel.html" title="llvm::Mips16DAGToDAGISel" alt="" coords="1011,81,1203,108"/>
+<area shape="rect" id="node9" href="$classllvm_1_1MipsSEDAGToDAGISel.html" title="llvm::MipsSEDAGToDAGISel" alt="" coords="1009,132,1205,159"/>
+</map>

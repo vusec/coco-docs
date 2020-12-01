@@ -1,0 +1,34 @@
+<map id="lib/ObjectYAML/MachOEmitter.cpp" name="lib/ObjectYAML/MachOEmitter.cpp">
+<area shape="rect" id="node2" href="$BinaryFormat_2MachO_8h.html" title="llvm/BinaryFormat/MachO.h" alt="" coords="707,244,893,271"/>
+<area shape="rect" id="node25" href="$DWARFEmitter_8h.html" title="Common declarations for yaml2obj. " alt="" coords="1453,244,1683,271"/>
+<area shape="rect" id="node31" href="$Format_8h.html" title="llvm/Support/Format.h" alt="" coords="291,393,442,420"/>
+<area shape="rect" id="node33" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="1718,468,1903,495"/>
+<area shape="rect" id="node36" href="$ObjectYAML_8h.html" title="llvm/ObjectYAML/ObjectYAML.h" alt="" coords="4799,80,5012,107"/>
+<area shape="rect" id="node39" href="$YAMLTraits_8h.html" title="llvm/Support/YAMLTraits.h" alt="" coords="3771,244,3949,271"/>
+<area shape="rect" id="node49" href="$yaml2obj_8h.html" title="Common declarations for yaml2obj. " alt="" coords="1890,244,2081,271"/>
+<area shape="rect" id="node50" href="$LEB128_8h.html" title="llvm/Support/LEB128.h" alt="" coords="859,80,1015,107"/>
+<area shape="rect" id="node3" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2335,767,2497,793"/>
+<area shape="rect" id="node4" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="430,468,605,495"/>
+<area shape="rect" id="node5" href="$Host_8h.html" title="llvm/Support/Host.h" alt="" coords="1288,393,1427,420"/>
+<area shape="rect" id="node6" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="1187,468,1338,495"/>
+<area shape="rect" id="node7" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1440,543,1587,569"/>
+<area shape="rect" id="node21" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="2422,543,2583,569"/>
+<area shape="rect" id="node8" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2235,617,2389,644"/>
+<area shape="rect" id="node9" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2795,692,2935,719"/>
+<area shape="rect" id="node22" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1997,617,2160,644"/>
+<area shape="rect" id="node23" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="3621,692,3774,719"/>
+<area shape="rect" id="node26" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="1968,319,2107,345"/>
+<area shape="rect" id="node35" href="$MemoryBuffer_8h.html" title="llvm/Support/MemoryBuffer.h" alt="" coords="3136,393,3328,420"/>
+<area shape="rect" id="node27" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="2354,393,2518,420"/>
+<area shape="rect" id="node30" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="2131,468,2258,495"/>
+<area shape="rect" id="node28" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2435,468,2579,495"/>
+<area shape="rect" id="node37" href="$COFFYAML_8h.html" title="llvm/ObjectYAML/COFFYAML.h" alt="" coords="4336,468,4547,495"/>
+<area shape="rect" id="node38" href="$ELFYAML_8h.html" title="This file declares classes for handling the YAML representation of ELF. " alt="" coords="4958,162,5157,189"/>
+<area shape="rect" id="node46" href="$MachOYAML_8h.html" title="This file declares classes for handling the YAML representation of Mach&#45;O. " alt="" coords="4339,162,4557,189"/>
+<area shape="rect" id="node47" href="$MinidumpYAML_8h.html" title="llvm/ObjectYAML/Minidump\lYAML.h" alt="" coords="4105,155,4289,196"/>
+<area shape="rect" id="node48" href="$WasmYAML_8h.html" title="This file declares classes for handling the YAML representation of wasm binaries. ..." alt="" coords="5077,468,5291,495"/>
+<area shape="rect" id="node40" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="3227,319,3378,345"/>
+<area shape="rect" id="node41" href="$Regex_8h.html" title="llvm/Support/Regex.h" alt="" coords="3758,393,3906,420"/>
+<area shape="rect" id="node42" href="$Support_2SourceMgr_8h.html" title="llvm/Support/SourceMgr.h" alt="" coords="2809,319,2983,345"/>
+<area shape="rect" id="node43" href="$YAMLParser_8h.html" title="llvm/Support/YAMLParser.h" alt="" coords="3520,468,3704,495"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="lib/CodeGen/AsmPrinter/CodeViewDebug.h" name="lib/CodeGen/AsmPrinter/CodeViewDebug.h">
+<area shape="rect" id="node2" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2685,534,2829,561"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3103,840,3265,867"/>
+<area shape="rect" id="node14" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3149,616,3312,643"/>
+<area shape="rect" id="node31" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="4147,370,4301,397"/>
+<area shape="rect" id="node36" href="$DenseSet_8h.html" title="llvm/ADT/DenseSet.h" alt="" coords="3971,281,4122,307"/>
+<area shape="rect" id="node37" href="$MapVector_8h.html" title="llvm/ADT/MapVector.h" alt="" coords="3600,281,3755,307"/>
+<area shape="rect" id="node38" href="$PointerUnion_8h.html" title="llvm/ADT/PointerUnion.h" alt="" coords="1631,370,1798,397"/>
+<area shape="rect" id="node40" href="$SetVector_8h.html" title="llvm/ADT/SetVector.h" alt="" coords="3830,191,3981,218"/>
+<area shape="rect" id="node41" href="$DbgEntityHistoryCalculator_8h.html" title="llvm/CodeGen/DbgEntityHistory\lCalculator.h" alt="" coords="2749,184,2958,225"/>
+<area shape="rect" id="node43" href="$DebugHandlerBase_8h.html" title="llvm/CodeGen/DebugHandler\lBase.h" alt="" coords="2724,95,2916,136"/>
+<area shape="rect" id="node44" href="$CodeView_8h.html" title="llvm/DebugInfo/CodeView\l/CodeView.h" alt="" coords="5579,273,5754,315"/>
+<area shape="rect" id="node45" href="$GlobalTypeTableBuilder_8h.html" title="llvm/DebugInfo/CodeView\l/GlobalTypeTableBuilder.h" alt="" coords="2498,184,2673,225"/>
+<area shape="rect" id="node46" href="$TypeIndex_8h.html" title="llvm/DebugInfo/CodeView\l/TypeIndex.h" alt="" coords="249,363,423,404"/>
+<area shape="rect" id="node47" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="2145,534,2306,561"/>
+<area shape="rect" id="node48" href="$DebugLoc_8h.html" title="llvm/IR/DebugLoc.h" alt="" coords="4895,102,5033,129"/>
+<area shape="rect" id="node3" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="1763,691,1903,717"/>
+<area shape="rect" id="node13" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="1117,765,1240,792"/>
+<area shape="rect" id="node25" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2397,616,2552,643"/>
+<area shape="rect" id="node4" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1323,765,1512,792"/>
+<area shape="rect" id="node7" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="3099,765,3269,792"/>
+<area shape="rect" id="node15" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="2803,691,2973,717"/>
+<area shape="rect" id="node17" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="3707,691,3861,717"/>
+<area shape="rect" id="node19" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="4617,691,4794,717"/>
+<area shape="rect" id="node20" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="1419,691,1587,717"/>
+<area shape="rect" id="node26" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2131,691,2271,717"/>
+<area shape="rect" id="node32" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="1551,452,1729,479"/>
+<area shape="rect" id="node34" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="853,534,1027,561"/>
+<area shape="rect" id="node35" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="3497,452,3703,479"/>
+<area shape="rect" id="node33" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="2955,527,3119,568"/>
+<area shape="rect" id="node39" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="1753,452,1924,479"/>
+<area shape="rect" id="node42" href="$DebugInfoMetadata_8h.html" title="llvm/IR/DebugInfoMetadata.h" alt="" coords="2551,281,2745,307"/>
+</map>

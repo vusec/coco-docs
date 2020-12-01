@@ -1,0 +1,46 @@
+<map id="include/llvm/Analysis/LazyCallGraph.h" name="include/llvm/Analysis/LazyCallGraph.h">
+<area shape="rect" id="node2" href="$CGSCCPassManager_8h.html" title="This header provides classes for managing passes over SCCs of the call graph. " alt="" coords="2100,95,2267,136"/>
+<area shape="rect" id="node28" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="1685,281,1868,307"/>
+<area shape="rect" id="node29" href="$ArgumentPromotion_8h.html" title="include/llvm/Transforms\l/IPO/ArgumentPromotion.h" alt="" coords="1098,184,1277,225"/>
+<area shape="rect" id="node30" href="$ArgumentPromotion_8cpp.html" title="lib/Transforms/IPO\l/ArgumentPromotion.cpp" alt="" coords="927,273,1093,315"/>
+<area shape="rect" id="node31" href="$FunctionAttrs_8h.html" title="Provides passes for computing function attributes based on interprocedural analyses. " alt="" coords="2103,184,2264,225"/>
+<area shape="rect" id="node33" href="$FunctionAttrs_8cpp.html" title="This file implements interprocedural passes which walk the call&#45;graph deducing and/or propagating fun..." alt="" coords="2859,273,2991,315"/>
+<area shape="rect" id="node38" href="$Inliner_8h.html" title="include/llvm/Transforms\l/IPO/Inliner.h" alt="" coords="3000,184,3161,225"/>
+<area shape="rect" id="node41" href="$Inliner_8cpp.html" title="lib/Transforms/IPO\l/Inliner.cpp" alt="" coords="3015,273,3147,315"/>
+<area shape="rect" id="node43" href="$CGSCCPassManager_8cpp.html" title="lib/Analysis/CGSCCPassManager.cpp" alt="" coords="2389,191,2636,218"/>
+<area shape="rect" id="node44" href="$LazyCallGraph_8cpp.html" title="lib/Analysis/LazyCallGraph.cpp" alt="" coords="2812,102,3016,129"/>
+<area shape="rect" id="node45" href="$StandardInstrumentations_8cpp.html" title="This file defines IR&#45;printing pass instrumentation callbacks as well as StandardInstrumentations clas..." alt="" coords="3041,102,3302,129"/>
+<area shape="rect" id="node3" href="$PassBuilder_8h.html" title="Interfaces for registering analysis passes, producing common pass manager configurations, and parsing of pass pipelines. " alt="" coords="1429,184,1567,225"/>
+<area shape="rect" id="node27" href="$LTOBackend_8cpp.html" title="lib/LTO/LTOBackend.cpp" alt="" coords="1035,549,1204,575"/>
+<area shape="rect" id="node4" href="$Speculation_8h.html" title="include/llvm/ExecutionEngine\l/Orc/Speculation.h" alt="" coords="1468,273,1661,315"/>
+<area shape="rect" id="node14" href="$SpeculateAnalyses_8cpp.html" title="lib/ExecutionEngine\l/Orc/SpeculateAnalyses.cpp" alt="" coords="1444,452,1632,493"/>
+<area shape="rect" id="node16" href="$Config_8h.html" title="include/llvm/LTO/Config.h" alt="" coords="1169,281,1342,307"/>
+<area shape="rect" id="node5" href="$CompileOnDemandLayer_8h.html" title="include/llvm/ExecutionEngine\l/Orc/CompileOnDemandLayer.h" alt="" coords="1934,452,2142,493"/>
+<area shape="rect" id="node11" href="$LazyReexports_8h.html" title="include/llvm/ExecutionEngine\l/Orc/LazyReexports.h" alt="" coords="1685,363,1879,404"/>
+<area shape="rect" id="node13" href="$SpeculateAnalyses_8h.html" title="include/llvm/ExecutionEngine\l/Orc/SpeculateAnalyses.h" alt="" coords="1468,363,1661,404"/>
+<area shape="rect" id="node15" href="$Speculation_8cpp.html" title="lib/ExecutionEngine\l/Orc/Speculation.cpp" alt="" coords="1903,363,2047,404"/>
+<area shape="rect" id="node6" href="$LLJIT_8h.html" title="include/llvm/ExecutionEngine\l/Orc/LLJIT.h" alt="" coords="1709,541,1903,583"/>
+<area shape="rect" id="node8" href="$CompileOnDemandLayer_8cpp.html" title="lib/ExecutionEngine\l/Orc/CompileOnDemandLayer.cpp" alt="" coords="1927,541,2149,583"/>
+<area shape="rect" id="node9" href="$OrcCBindingsStack_8h.html" title="lib/ExecutionEngine\l/Orc/OrcCBindingsStack.h" alt="" coords="2173,541,2351,583"/>
+<area shape="rect" id="node7" href="$LLJIT_8cpp.html" title="lib/ExecutionEngine\l/Orc/LLJIT.cpp" alt="" coords="1737,631,1875,672"/>
+<area shape="rect" id="node10" href="$OrcCBindings_8cpp.html" title="lib/ExecutionEngine\l/Orc/OrcCBindings.cpp" alt="" coords="2183,631,2341,672"/>
+<area shape="rect" id="node12" href="$LazyReexports_8cpp.html" title="lib/ExecutionEngine\l/Orc/LazyReexports.cpp" alt="" coords="1700,452,1864,493"/>
+<area shape="rect" id="node17" href="$LTO_8h.html" title="include/llvm/LTO/LTO.h" alt="" coords="586,370,746,397"/>
+<area shape="rect" id="node18" href="$Caching_8h.html" title="include/llvm/LTO/Caching.h" alt="" coords="575,459,757,486"/>
+<area shape="rect" id="node20" href="$LTOModule_8h.html" title="include/llvm/LTO/legacy\l/LTOModule.h" alt="" coords="337,452,499,493"/>
+<area shape="rect" id="node21" href="$LTOCodeGenerator_8cpp.html" title="lib/LTO/LTOCodeGenerator.cpp" alt="" coords="445,549,652,575"/>
+<area shape="rect" id="node23" href="$ThinLTOCodeGenerator_8h.html" title="include/llvm/LTO/legacy\l/ThinLTOCodeGenerator.h" alt="" coords="75,452,249,493"/>
+<area shape="rect" id="node24" href="$ThinLTOCodeGenerator_8cpp.html" title="lib/LTO/ThinLTOCodeGenerator.cpp" alt="" coords="5,549,236,575"/>
+<area shape="rect" id="node25" href="$LTOBackend_8h.html" title="include/llvm/LTO/LTOBackend.h" alt="" coords="833,459,1043,486"/>
+<area shape="rect" id="node26" href="$LTO_8cpp.html" title="lib/LTO/LTO.cpp" alt="" coords="867,549,985,575"/>
+<area shape="rect" id="node19" href="$Caching_8cpp.html" title="lib/LTO/Caching.cpp" alt="" coords="677,549,818,575"/>
+<area shape="rect" id="node22" href="$LTOModule_8cpp.html" title="lib/LTO/LTOModule.cpp" alt="" coords="261,549,421,575"/>
+<area shape="rect" id="node32" href="$LinkAllPasses_8h.html" title="include/llvm/LinkAllPasses.h" alt="" coords="2089,281,2278,307"/>
+<area shape="rect" id="node34" href="$IPO_8cpp.html" title="lib/Transforms/IPO\l/IPO.cpp" alt="" coords="2303,273,2435,315"/>
+<area shape="rect" id="node35" href="$PassManagerBuilder_8cpp.html" title="lib/Transforms/IPO\l/PassManagerBuilder.cpp" alt="" coords="2459,273,2630,315"/>
+<area shape="rect" id="node36" href="$ThinLTOBitcodeWriter_8cpp.html" title="lib/Transforms/IPO\l/ThinLTOBitcodeWriter.cpp" alt="" coords="2655,273,2835,315"/>
+<area shape="rect" id="node37" href="$WholeProgramDevirt_8cpp.html" title="lib/Transforms/IPO\l/WholeProgramDevirt.cpp" alt="" coords="1892,273,2064,315"/>
+<area shape="rect" id="node39" href="$AMDGPUInline_8cpp.html" title="This is AMDGPU specific replacement of the standard inliner. " alt="" coords="3483,281,3742,307"/>
+<area shape="rect" id="node40" href="$AlwaysInliner_8cpp.html" title="lib/Transforms/IPO\l/AlwaysInliner.cpp" alt="" coords="3171,273,3303,315"/>
+<area shape="rect" id="node42" href="$InlineSimple_8cpp.html" title="lib/Transforms/IPO\l/InlineSimple.cpp" alt="" coords="3327,273,3459,315"/>
+</map>

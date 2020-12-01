@@ -1,0 +1,42 @@
+<map id="lib/Target/Hexagon/HexagonBranchRelaxation.cpp" name="lib/Target/Hexagon/HexagonBranchRelaxation.cpp">
+<area shape="rect" id="node2" href="$Hexagon_8h.html" title="Hexagon.h" alt="" coords="3341,512,3427,539"/>
+<area shape="rect" id="node4" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="2648,676,2843,703"/>
+<area shape="rect" id="node6" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3108,929,3271,956"/>
+<area shape="rect" id="node16" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3305,847,3452,874"/>
+<area shape="rect" id="node18" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2803,758,2989,785"/>
+<area shape="rect" id="node23" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1048,676,1203,703"/>
+<area shape="rect" id="node30" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="3165,758,3256,785"/>
+<area shape="rect" id="node31" href="$HexagonInstrInfo_8h.html" title="HexagonInstrInfo.h" alt="" coords="2073,169,2207,196"/>
+<area shape="rect" id="node33" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="1329,423,1519,464"/>
+<area shape="rect" id="node34" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="1048,512,1243,539"/>
+<area shape="rect" id="node35" href="$MachineOperand_8h.html" title="llvm/CodeGen/MachineOperand.h" alt="" coords="947,594,1165,621"/>
+<area shape="rect" id="node37" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="648,341,867,367"/>
+<area shape="rect" id="node38" href="$HexagonSubtarget_8h.html" title="HexagonSubtarget.h" alt="" coords="3475,95,3616,121"/>
+<area shape="rect" id="node48" href="$MachineFunctionPass_8h.html" title="llvm/CodeGen/MachineFunction\lPass.h" alt="" coords="1160,244,1368,285"/>
+<area shape="rect" id="node49" href="$CodeGen_2Passes_8h.html" title="llvm/CodeGen/Passes.h" alt="" coords="4633,251,4797,278"/>
+<area shape="rect" id="node50" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="4954,95,5102,121"/>
+<area shape="rect" id="node3" href="$HexagonMCTargetDesc_8h.html" title="MCTargetDesc/HexagonMCTarget\lDesc.h" alt="" coords="2677,587,2902,628"/>
+<area shape="rect" id="node22" href="$TargetLowering_8h.html" title="This file describes how to lower LLVM code to machine code. " alt="" coords="3523,594,3733,621"/>
+<area shape="rect" id="node29" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="3443,676,3631,703"/>
+<area shape="rect" id="node5" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2085,847,2229,874"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3731,1079,3893,1105"/>
+<area shape="rect" id="node7" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="3087,1004,3241,1031"/>
+<area shape="rect" id="node9" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3838,1004,4015,1031"/>
+<area shape="rect" id="node11" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="4040,1004,4211,1031"/>
+<area shape="rect" id="node27" href="$ValueTypes_8h.html" title="llvm/CodeGen/ValueTypes.h" alt="" coords="4216,758,4405,785"/>
+<area shape="rect" id="node28" href="$MachineValueType_8h.html" title="llvm/Support/MachineValue\lType.h" alt="" coords="4068,840,4249,881"/>
+<area shape="rect" id="node24" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="1790,758,1967,785"/>
+<area shape="rect" id="node25" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="1440,758,1613,785"/>
+<area shape="rect" id="node26" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="854,758,1061,785"/>
+<area shape="rect" id="node32" href="$HexagonBaseInfo_8h.html" title="MCTargetDesc/HexagonBase\lInfo.h" alt="" coords="2405,333,2603,375"/>
+<area shape="rect" id="node36" href="$TargetInstrInfo_8h.html" title="llvm/CodeGen/TargetInstr\lInfo.h" alt="" coords="1573,244,1745,285"/>
+<area shape="rect" id="node39" href="$HexagonDepArch_8h.html" title="HexagonDepArch.h" alt="" coords="3659,169,3795,196"/>
+<area shape="rect" id="node40" href="$HexagonFrameLowering_8h.html" title="HexagonFrameLowering.h" alt="" coords="2857,341,3031,367"/>
+<area shape="rect" id="node41" href="$HexagonISelLowering_8h.html" title="HexagonISelLowering.h" alt="" coords="3548,430,3708,457"/>
+<area shape="rect" id="node42" href="$HexagonRegisterInfo_8h.html" title="HexagonRegisterInfo.h" alt="" coords="3819,169,3975,196"/>
+<area shape="rect" id="node43" href="$HexagonSelectionDAGInfo_8h.html" title="HexagonSelectionDAGInfo.h" alt="" coords="3999,169,4190,196"/>
+<area shape="rect" id="node44" href="$SmallSet_8h.html" title="llvm/ADT/SmallSet.h" alt="" coords="4682,847,4827,874"/>
+<area shape="rect" id="node45" href="$ScheduleDAGMutation_8h.html" title="llvm/CodeGen/ScheduleDAGMutation.h" alt="" coords="3679,847,3932,874"/>
+<area shape="rect" id="node46" href="$TargetSubtargetInfo_8h.html" title="llvm/CodeGen/TargetSubtarget\lInfo.h" alt="" coords="3685,751,3888,792"/>
+<area shape="rect" id="node47" href="$MCInstrItineraries_8h.html" title="llvm/MC/MCInstrItineraries.h" alt="" coords="4214,169,4405,196"/>
+</map>

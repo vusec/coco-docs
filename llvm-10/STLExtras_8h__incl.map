@@ -1,0 +1,9 @@
+<map id="include/llvm/ADT/STLExtras.h" name="include/llvm/ADT/STLExtras.h">
+<area shape="rect" id="node2" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="577,80,717,107"/>
+<area shape="rect" id="node13" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1182,80,1314,107"/>
+<area shape="rect" id="node14" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1069,155,1240,181"/>
+<area shape="rect" id="node19" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="5,80,195,107"/>
+<area shape="rect" id="node3" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="536,155,659,181"/>
+<area shape="rect" id="node4" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="100,229,263,256"/>
+<area shape="rect" id="node7" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="341,155,512,181"/>
+</map>

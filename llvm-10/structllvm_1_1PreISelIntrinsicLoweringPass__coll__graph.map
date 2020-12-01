@@ -1,0 +1,4 @@
+<map id="llvm::PreISelIntrinsicLoweringPass" name="llvm::PreISelIntrinsicLoweringPass">
+<area shape="rect" id="node2" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; PreISelIntrinsicLowering\lPass \&gt;" alt="" coords="31,124,205,180"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes. " alt="" coords="49,5,187,47"/>
+</map>

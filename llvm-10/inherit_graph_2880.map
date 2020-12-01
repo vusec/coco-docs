@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1LoopSafetyInfo.html" title="Captures loop safety information. " alt="" coords="5,31,148,57"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ICFLoopSafetyInfo.html" title="This implementation of LoopSafetyInfo use ImplicitControlFlowTracking to give precise answers on &quot;may..." alt="" coords="205,5,369,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SimpleLoopSafetyInfo.html" title="Simple and conservative implementation of LoopSafetyInfo that can give false&#45;positive answers to its ..." alt="" coords="196,56,379,83"/>
+</map>

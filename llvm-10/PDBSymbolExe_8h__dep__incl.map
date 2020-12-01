@@ -1,0 +1,8 @@
+<map id="include/llvm/DebugInfo/PDB/PDBSymbolExe.h" name="include/llvm/DebugInfo/PDB/PDBSymbolExe.h">
+<area shape="rect" id="node2" href="$DIASession_8cpp.html" title="lib/DebugInfo/PDB/DIA\l/DIASession.cpp" alt="" coords="5,95,164,136"/>
+<area shape="rect" id="node3" href="$NativeEnumModules_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeEnumModules.cpp" alt="" coords="189,95,362,136"/>
+<area shape="rect" id="node4" href="$NativeSession_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeSession.cpp" alt="" coords="386,95,559,136"/>
+<area shape="rect" id="node5" href="$PDBSymbol_8cpp.html" title="lib/DebugInfo/PDB/PDBSymbol.cpp" alt="" coords="583,102,815,129"/>
+<area shape="rect" id="node6" href="$PDBSymbolExe_8cpp.html" title="lib/DebugInfo/PDB/PDBSymbol\lExe.cpp" alt="" coords="840,95,1047,136"/>
+<area shape="rect" id="node7" href="$PDBSymbolTypeUDT_8cpp.html" title="lib/DebugInfo/PDB/PDBSymbol\lTypeUDT.cpp" alt="" coords="1071,95,1277,136"/>
+</map>

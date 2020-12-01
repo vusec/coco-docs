@@ -1,0 +1,35 @@
+<map id="lib/ProfileData/Coverage/CoverageMapping.cpp" name="lib/ProfileData/Coverage/CoverageMapping.cpp">
+<area shape="rect" id="node2" href="$CoverageMapping_8h.html" title="llvm/ProfileData/Coverage\l/CoverageMapping.h" alt="" coords="4019,184,4194,225"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="3789,512,3933,539"/>
+<area shape="rect" id="node5" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="5944,661,6133,688"/>
+<area shape="rect" id="node14" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="752,736,875,763"/>
+<area shape="rect" id="node15" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="4160,587,4323,613"/>
+<area shape="rect" id="node24" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3134,661,3274,688"/>
+<area shape="rect" id="node30" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="3184,355,3339,382"/>
+<area shape="rect" id="node32" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3011,512,3157,539"/>
+<area shape="rect" id="node40" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="5823,355,5961,382"/>
+<area shape="rect" id="node41" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="6398,437,6546,464"/>
+<area shape="rect" id="node42" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="4769,437,4954,464"/>
+<area shape="rect" id="node44" href="$SmallBitVector_8h.html" title="llvm/ADT/SmallBitVector.h" alt="" coords="1896,587,2075,613"/>
+<area shape="rect" id="node45" href="$CoverageMappingReader_8h.html" title="llvm/ProfileData/Coverage\l/CoverageMappingReader.h" alt="" coords="5304,95,5488,136"/>
+<area shape="rect" id="node46" href="$MemoryBuffer_8h.html" title="llvm/Support/MemoryBuffer.h" alt="" coords="5371,437,5563,464"/>
+<area shape="rect" id="node47" href="$InstrProfReader_8h.html" title="llvm/ProfileData/InstrProf\lReader.h" alt="" coords="4961,184,5130,225"/>
+<area shape="rect" id="node48" href="$Errc_8h.html" title="llvm/Support/Errc.h" alt="" coords="6817,191,6951,218"/>
+<area shape="rect" id="node49" href="$ManagedStatic_8h.html" title="llvm/Support/ManagedStatic.h" alt="" coords="7280,273,7477,300"/>
+<area shape="rect" id="node4" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="3667,587,3807,613"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="5957,811,6120,837"/>
+<area shape="rect" id="node16" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1152,736,1323,763"/>
+<area shape="rect" id="node25" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1411,661,1543,688"/>
+<area shape="rect" id="node35" href="$DenseSet_8h.html" title="llvm/ADT/DenseSet.h" alt="" coords="2470,273,2621,300"/>
+<area shape="rect" id="node36" href="$StringSet_8h.html" title="llvm/ADT/StringSet.h" alt="" coords="2171,437,2317,464"/>
+<area shape="rect" id="node37" href="$InstrProf_8h.html" title="llvm/ProfileData/InstrProf.h" alt="" coords="4869,273,5049,300"/>
+<area shape="rect" id="node38" href="$InstrProfData_8inc.html" title="llvm/ProfileData/InstrProf\lData.inc" alt="" coords="4145,348,4314,389"/>
+<area shape="rect" id="node39" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="5057,587,5207,613"/>
+<area shape="rect" id="node23" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3044,587,3199,613"/>
+<area shape="rect" id="node8" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="3552,736,3723,763"/>
+<area shape="rect" id="node18" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="5225,661,5378,688"/>
+<area shape="rect" id="node20" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3603,661,3781,688"/>
+<area shape="rect" id="node31" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="3486,437,3663,464"/>
+<area shape="rect" id="node33" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="5085,512,5259,539"/>
+<area shape="rect" id="node34" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="2899,437,3106,464"/>
+</map>

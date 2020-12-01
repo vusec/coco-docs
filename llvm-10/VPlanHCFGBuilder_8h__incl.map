@@ -1,0 +1,35 @@
+<map id="lib/Transforms/Vectorize/VPlanHCFGBuilder.h" name="lib/Transforms/Vectorize/VPlanHCFGBuilder.h">
+<area shape="rect" id="node2" href="$VPlan_8h.html" title="This file contains the declarations of the Vectorization Plan base classes: " alt="" coords="3142,169,3210,196"/>
+<area shape="rect" id="node49" href="$VPlanDominatorTree_8h.html" title="This file implements dominator tree analysis for a single level of a VPlan&#39;s H&#45;CFG. " alt="" coords="3935,95,4090,121"/>
+<area shape="rect" id="node50" href="$VPlanVerifier_8h.html" title="This file declares the class VPlanVerifier, which contains utility functions to check the consistency..." alt="" coords="3214,95,3323,121"/>
+<area shape="rect" id="node3" href="$VPlanLoopInfo_8h.html" title="This file defines VPLoopInfo analysis and VPLoop class. " alt="" coords="4180,244,4298,271"/>
+<area shape="rect" id="node5" href="$DepthFirstIterator_8h.html" title="llvm/ADT/DepthFirstIterator.h" alt="" coords="3892,468,4087,495"/>
+<area shape="rect" id="node6" href="$GraphTraits_8h.html" title="llvm/ADT/GraphTraits.h" alt="" coords="4414,543,4574,569"/>
+<area shape="rect" id="node11" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3030,543,3170,569"/>
+<area shape="rect" id="node18" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="1823,543,1986,569"/>
+<area shape="rect" id="node29" href="$VPlanValue_8h.html" title="This file contains the declarations of the entities induced by Vectorization Plans, e.g. " alt="" coords="1120,393,1222,420"/>
+<area shape="rect" id="node30" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1436,543,1591,569"/>
+<area shape="rect" id="node35" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1187,543,1350,569"/>
+<area shape="rect" id="node40" href="$SmallBitVector_8h.html" title="llvm/ADT/SmallBitVector.h" alt="" coords="3383,468,3562,495"/>
+<area shape="rect" id="node42" href="$SmallSet_8h.html" title="llvm/ADT/SmallSet.h" alt="" coords="1832,468,1977,495"/>
+<area shape="rect" id="node43" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="3154,468,3281,495"/>
+<area shape="rect" id="node44" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="2392,617,2504,644"/>
+<area shape="rect" id="node45" href="$ilist__node_8h.html" title="llvm/ADT/ilist_node.h" alt="" coords="3239,244,3386,271"/>
+<area shape="rect" id="node46" href="$VectorUtils_8h.html" title="llvm/Analysis/VectorUtils.h" alt="" coords="3189,319,3369,345"/>
+<area shape="rect" id="node47" href="$IRBuilder_8h.html" title="llvm/IR/IRBuilder.h" alt="" coords="4324,393,4458,420"/>
+<area shape="rect" id="node4" href="$LoopInfoImpl_8h.html" title="llvm/Analysis/LoopInfoImpl.h" alt="" coords="4162,319,4353,345"/>
+<area shape="rect" id="node27" href="$Dominators_8h.html" title="llvm/IR/Dominators.h" alt="" coords="4510,393,4656,420"/>
+<area shape="rect" id="node7" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3579,617,3750,644"/>
+<area shape="rect" id="node10" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="4483,617,4606,644"/>
+<area shape="rect" id="node12" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1214,692,1376,719"/>
+<area shape="rect" id="node13" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1307,617,1478,644"/>
+<area shape="rect" id="node19" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="2680,617,2854,644"/>
+<area shape="rect" id="node21" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="1553,617,1760,644"/>
+<area shape="rect" id="node28" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="3926,617,4104,644"/>
+<area shape="rect" id="node36" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="3258,543,3370,569"/>
+<area shape="rect" id="node37" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="926,468,1074,495"/>
+<area shape="rect" id="node38" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="510,468,696,495"/>
+<area shape="rect" id="node31" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="782,617,936,644"/>
+<area shape="rect" id="node32" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1937,617,2114,644"/>
+<area shape="rect" id="node41" href="$BitVector_8h.html" title="llvm/ADT/BitVector.h" alt="" coords="3418,543,3564,569"/>
+</map>

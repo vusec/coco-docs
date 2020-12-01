@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1orc_1_1IRCompileLayer_1_1IRCompiler.html" title="llvm::orc::IRCompileLayer\l::IRCompiler" alt="" coords="5,23,180,65"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1ConcurrentIRCompiler.html" title="A thread&#45;safe version of SimpleCompiler. " alt="" coords="228,5,439,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1SimpleCompiler.html" title="Simple compile functor: Takes a single IR module and returns an ObjectFile. " alt="" coords="247,56,419,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1orc_1_1TMOwningSimpleCompiler.html" title="A SimpleCompiler that owns its TargetMachine. " alt="" coords="487,49,669,90"/>
+</map>

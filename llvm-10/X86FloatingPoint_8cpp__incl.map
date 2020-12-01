@@ -1,0 +1,34 @@
+<map id="lib/Target/X86/X86FloatingPoint.cpp" name="lib/Target/X86/X86FloatingPoint.cpp">
+<area shape="rect" id="node2" href="$X86_8h.html" title="X86.h" alt="" coords="189,281,245,307"/>
+<area shape="rect" id="node4" href="$X86InstrInfo_8h.html" title="X86InstrInfo.h" alt="" coords="1038,102,1142,129"/>
+<area shape="rect" id="node6" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="541,363,730,389"/>
+<area shape="rect" id="node13" href="$TargetInstrInfo_8h.html" title="llvm/CodeGen/TargetInstr\lInfo.h" alt="" coords="1265,184,1437,225"/>
+<area shape="rect" id="node15" href="$MachineInstrBuilder_8h.html" title="llvm/CodeGen/MachineInstr\lBuilder.h" alt="" coords="927,273,1111,315"/>
+<area shape="rect" id="node20" href="$DepthFirstIterator_8h.html" title="llvm/ADT/DepthFirstIterator.h" alt="" coords="2123,191,2318,218"/>
+<area shape="rect" id="node26" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="3237,281,3399,307"/>
+<area shape="rect" id="node29" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3213,191,3367,218"/>
+<area shape="rect" id="node35" href="$SmallSet_8h.html" title="llvm/ADT/SmallSet.h" alt="" coords="2992,191,3137,218"/>
+<area shape="rect" id="node36" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2847,281,3010,307"/>
+<area shape="rect" id="node37" href="$Statistic_8h.html" title="llvm/ADT/Statistic.h" alt="" coords="2724,102,2864,129"/>
+<area shape="rect" id="node39" href="$EdgeBundles_8h.html" title="llvm/CodeGen/EdgeBundles.h" alt="" coords="3770,102,3967,129"/>
+<area shape="rect" id="node40" href="$MachineFunctionPass_8h.html" title="llvm/CodeGen/MachineFunction\lPass.h" alt="" coords="4162,184,4370,225"/>
+<area shape="rect" id="node41" href="$LivePhysRegs_8h.html" title="This file implements the LivePhysRegs utility for tracking liveness of physical registers. " alt="" coords="698,281,903,307"/>
+<area shape="rect" id="node42" href="$MachineRegisterInfo_8h.html" title="llvm/CodeGen/MachineRegister\lInfo.h" alt="" coords="2320,95,2527,136"/>
+<area shape="rect" id="node43" href="$TargetSubtargetInfo_8h.html" title="llvm/CodeGen/TargetSubtarget\lInfo.h" alt="" coords="1726,184,1929,225"/>
+<area shape="rect" id="node44" href="$CodeGen_2Passes_8h.html" title="llvm/CodeGen/Passes.h" alt="" coords="3504,102,3668,129"/>
+<area shape="rect" id="node45" href="$InlineAsm_8h.html" title="llvm/IR/InlineAsm.h" alt="" coords="1564,191,1701,218"/>
+<area shape="rect" id="node46" href="$InitializePasses_8h.html" title="llvm/InitializePasses.h" alt="" coords="4043,102,4196,129"/>
+<area shape="rect" id="node47" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="4220,102,4368,129"/>
+<area shape="rect" id="node48" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2520,191,2705,218"/>
+<area shape="rect" id="node49" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="5,102,193,129"/>
+<area shape="rect" id="node3" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="134,363,299,389"/>
+<area shape="rect" id="node5" href="$X86BaseInfo_8h.html" title="MCTargetDesc/X86BaseInfo.h" alt="" coords="320,281,521,307"/>
+<area shape="rect" id="node7" href="$X86InstrFMA3Info_8h.html" title="X86InstrFMA3Info.h" alt="" coords="1102,191,1241,218"/>
+<area shape="rect" id="node11" href="$X86RegisterInfo_8h.html" title="X86RegisterInfo.h" alt="" coords="569,191,696,218"/>
+<area shape="rect" id="node12" href="$ISDOpcodes_8h.html" title="llvm/CodeGen/ISDOpcodes.h" alt="" coords="721,191,915,218"/>
+<area shape="rect" id="node14" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="1866,363,1989,389"/>
+<area shape="rect" id="node21" href="$GraphTraits_8h.html" title="llvm/ADT/GraphTraits.h" alt="" coords="2511,281,2671,307"/>
+<area shape="rect" id="node22" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="2733,363,2903,389"/>
+<area shape="rect" id="node24" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2093,281,2233,307"/>
+<area shape="rect" id="node30" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="3677,281,3809,307"/>
+</map>

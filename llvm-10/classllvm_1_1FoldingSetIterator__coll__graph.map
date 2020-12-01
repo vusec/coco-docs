@@ -1,0 +1,4 @@
+<map id="llvm::FoldingSetIterator&lt; T &gt;" name="llvm::FoldingSetIterator&lt; T &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1FoldingSetIteratorImpl.html" title="FoldingSetIteratorImpl &#45; This is the common iterator support shared by all folding sets..." alt="" coords="9,109,191,136"/>
+<area shape="rect" id="node3" href="$classllvm_1_1FoldingSetBase_1_1Node.html" title="Node &#45; This class is used to maintain the singly linked bucket list in a folding set. " alt="" coords="27,5,173,47"/>
+</map>

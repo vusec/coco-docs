@@ -1,0 +1,30 @@
+<map id="lib/XRay/LogBuilderConsumer.cpp" name="lib/XRay/LogBuilderConsumer.cpp">
+<area shape="rect" id="node2" href="$FDRRecordConsumer_8h.html" title="llvm/XRay/FDRRecordConsumer.h" alt="" coords="3574,80,3802,107"/>
+<area shape="rect" id="node3" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="3719,304,3857,331"/>
+<area shape="rect" id="node47" href="$FDRRecords_8h.html" title="llvm/XRay/FDRRecords.h" alt="" coords="3601,155,3775,181"/>
+<area shape="rect" id="node4" href="$c_2Error_8h.html" title="llvm&#45;c/Error.h" alt="" coords="4526,379,4626,405"/>
+<area shape="rect" id="node6" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1429,603,1584,629"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3476,827,3639,853"/>
+<area shape="rect" id="node23" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="4680,752,4869,779"/>
+<area shape="rect" id="node31" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2919,603,3081,629"/>
+<area shape="rect" id="node32" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="3697,677,3850,704"/>
+<area shape="rect" id="node36" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="3510,379,3674,405"/>
+<area shape="rect" id="node41" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="4343,453,4470,480"/>
+<area shape="rect" id="node42" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="822,379,970,405"/>
+<area shape="rect" id="node43" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer. " alt="" coords="3851,603,4003,629"/>
+<area shape="rect" id="node45" href="$Format_8h.html" title="llvm/Support/Format.h" alt="" coords="1147,453,1298,480"/>
+<area shape="rect" id="node46" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="4082,453,4267,480"/>
+<area shape="rect" id="node5" href="$ExternC_8h.html" title="llvm&#45;c/ExternC.h" alt="" coords="4596,453,4716,480"/>
+<area shape="rect" id="node7" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2619,677,2759,704"/>
+<area shape="rect" id="node17" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1350,677,1482,704"/>
+<area shape="rect" id="node18" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1053,752,1224,779"/>
+<area shape="rect" id="node11" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2589,752,2760,779"/>
+<area shape="rect" id="node33" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3038,677,3215,704"/>
+<area shape="rect" id="node35" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="4584,677,4752,704"/>
+<area shape="rect" id="node37" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1737,528,1881,555"/>
+<area shape="rect" id="node39" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="2335,453,2494,480"/>
+<area shape="rect" id="node40" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2228,528,2375,555"/>
+<area shape="rect" id="node48" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="2440,677,2595,704"/>
+<area shape="rect" id="node49" href="$DataExtractor_8h.html" title="llvm/Support/DataExtractor.h" alt="" coords="3534,229,3725,256"/>
+<area shape="rect" id="node50" href="$XRayRecord_8h.html" title="llvm/XRay/XRayRecord.h" alt="" coords="5449,528,5623,555"/>
+</map>

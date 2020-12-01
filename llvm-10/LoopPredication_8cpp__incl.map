@@ -1,0 +1,44 @@
+<map id="lib/Transforms/Scalar/LoopPredication.cpp" name="lib/Transforms/Scalar/LoopPredication.cpp">
+<area shape="rect" id="node2" href="$LoopPredication_8h.html" title="llvm/Transforms/Scalar\l/LoopPredication.h" alt="" coords="2383,95,2540,136"/>
+<area shape="rect" id="node3" href="$LoopInfo_8h.html" title="llvm/Analysis/LoopInfo.h" alt="" coords="1705,355,1871,382"/>
+<area shape="rect" id="node19" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="2775,587,2905,613"/>
+<area shape="rect" id="node20" href="$GlobalValue_8h.html" title="llvm/IR/GlobalValue.h" alt="" coords="3731,661,3880,688"/>
+<area shape="rect" id="node23" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="2958,512,3079,539"/>
+<area shape="rect" id="node26" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="1981,512,2072,539"/>
+<area shape="rect" id="node27" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="3630,512,3778,539"/>
+<area shape="rect" id="node29" href="$AliasAnalysis_8h.html" title="llvm/Analysis/AliasAnalysis.h" alt="" coords="3324,273,3519,300"/>
+<area shape="rect" id="node33" href="$ScalarEvolution_8h.html" title="llvm/Analysis/ScalarEvolution.h" alt="" coords="2074,273,2281,300"/>
+<area shape="rect" id="node35" href="$Statistic_8h.html" title="llvm/ADT/Statistic.h" alt="" coords="4869,512,5009,539"/>
+<area shape="rect" id="node37" href="$BranchProbabilityInfo_8h.html" title="llvm/Analysis/BranchProbability\lInfo.h" alt="" coords="561,348,767,389"/>
+<area shape="rect" id="node39" href="$Analysis_2GuardUtils_8h.html" title="llvm/Analysis/GuardUtils.h" alt="" coords="4831,102,5009,129"/>
+<area shape="rect" id="node40" href="$LoopPass_8h.html" title="llvm/Analysis/LoopPass.h" alt="" coords="1825,273,1999,300"/>
+<area shape="rect" id="node41" href="$ScalarEvolutionExpander_8h.html" title="llvm/Analysis/ScalarEvolution\lExpander.h" alt="" coords="305,95,500,136"/>
+<area shape="rect" id="node42" href="$ScalarEvolutionExpressions_8h.html" title="llvm/Analysis/ScalarEvolution\lExpressions.h" alt="" coords="389,184,584,225"/>
+<area shape="rect" id="node43" href="$IntrinsicInst_8h.html" title="llvm/IR/IntrinsicInst.h" alt="" coords="4237,437,4384,464"/>
+<area shape="rect" id="node44" href="$PatternMatch_8h.html" title="llvm/IR/PatternMatch.h" alt="" coords="4093,355,4251,382"/>
+<area shape="rect" id="node45" href="$InitializePasses_8h.html" title="llvm/InitializePasses.h" alt="" coords="5033,102,5186,129"/>
+<area shape="rect" id="node46" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="4408,437,4603,464"/>
+<area shape="rect" id="node47" href="$Transforms_2Scalar_8h.html" title="llvm/Transforms/Scalar.h" alt="" coords="4683,273,4851,300"/>
+<area shape="rect" id="node48" href="$Transforms_2Utils_2GuardUtils_8h.html" title="llvm/Transforms/Utils\l/GuardUtils.h" alt="" coords="5211,95,5357,136"/>
+<area shape="rect" id="node49" href="$Transforms_2Utils_2Local_8h.html" title="llvm/Transforms/Utils\l/Local.h" alt="" coords="1004,184,1151,225"/>
+<area shape="rect" id="node50" href="$LoopUtils_8h.html" title="llvm/Transforms/Utils\l/LoopUtils.h" alt="" coords="3459,184,3605,225"/>
+<area shape="rect" id="node22" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM. " alt="" coords="2553,437,2711,464"/>
+<area shape="rect" id="node28" href="$LoopPassManager_8h.html" title="This header provides classes for managing a pipeline of passes over loops in LLVM IR..." alt="" coords="2353,184,2511,225"/>
+<area shape="rect" id="node4" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1407,736,1561,763"/>
+<area shape="rect" id="node10" href="$DenseSet_8h.html" title="llvm/ADT/DenseSet.h" alt="" coords="753,661,903,688"/>
+<area shape="rect" id="node11" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="1291,512,1453,539"/>
+<area shape="rect" id="node12" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1933,587,2096,613"/>
+<area shape="rect" id="node14" href="$IR_2CFG_8h.html" title="This file provides various utilities for inspecting and working with the control flow graph in LLVM I..." alt="" coords="1800,512,1907,539"/>
+<area shape="rect" id="node16" href="$IR_2Instruction_8h.html" title="llvm/IR/Instruction.h" alt="" coords="3338,736,3478,763"/>
+<area shape="rect" id="node21" href="$Instructions_8h.html" title="llvm/IR/Instructions.h" alt="" coords="3256,512,3403,539"/>
+<area shape="rect" id="node5" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="1179,811,1357,837"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2341,885,2504,912"/>
+<area shape="rect" id="node15" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="2613,661,2758,688"/>
+<area shape="rect" id="node18" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="2633,811,2788,837"/>
+<area shape="rect" id="node17" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="3920,811,4043,837"/>
+<area shape="rect" id="node24" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3138,587,3278,613"/>
+<area shape="rect" id="node31" href="$TargetLibraryInfo_8h.html" title="llvm/Analysis/TargetLibrary\lInfo.h" alt="" coords="2806,348,2986,389"/>
+<area shape="rect" id="node30" href="$MemoryLocation_8h.html" title="This file provides utility analysis objects describing memory locations. " alt="" coords="3192,437,3403,464"/>
+<area shape="rect" id="node34" href="$ValueHandle_8h.html" title="llvm/IR/ValueHandle.h" alt="" coords="1057,437,1210,464"/>
+<area shape="rect" id="node38" href="$BranchProbability_8h.html" title="llvm/Support/BranchProbability.h" alt="" coords="498,736,710,763"/>
+</map>

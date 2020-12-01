@@ -1,0 +1,38 @@
+<map id="lib/ObjectYAML/ObjectYAML.cpp" name="lib/ObjectYAML/ObjectYAML.cpp">
+<area shape="rect" id="node2" href="$ObjectYAML_8h.html" title="llvm/ObjectYAML/ObjectYAML.h" alt="" coords="1473,80,1686,107"/>
+<area shape="rect" id="node17" href="$YAMLTraits_8h.html" title="llvm/Support/YAMLTraits.h" alt="" coords="2608,408,2786,435"/>
+<area shape="rect" id="node23" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="2726,557,2852,584"/>
+<area shape="rect" id="node32" href="$YAMLParser_8h.html" title="llvm/Support/YAMLParser.h" alt="" coords="3757,483,3941,509"/>
+<area shape="rect" id="node3" href="$COFFYAML_8h.html" title="llvm/ObjectYAML/COFFYAML.h" alt="" coords="1618,155,1829,181"/>
+<area shape="rect" id="node40" href="$ELFYAML_8h.html" title="This file declares classes for handling the YAML representation of ELF. " alt="" coords="1362,237,1560,263"/>
+<area shape="rect" id="node41" href="$MachOYAML_8h.html" title="This file declares classes for handling the YAML representation of Mach&#45;O. " alt="" coords="832,237,1050,263"/>
+<area shape="rect" id="node45" href="$MinidumpYAML_8h.html" title="llvm/ObjectYAML/Minidump\lYAML.h" alt="" coords="624,229,808,271"/>
+<area shape="rect" id="node48" href="$WasmYAML_8h.html" title="This file declares classes for handling the YAML representation of wasm binaries. ..." alt="" coords="1074,237,1288,263"/>
+<area shape="rect" id="node4" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3471,632,3611,659"/>
+<area shape="rect" id="node9" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1860,632,2006,659"/>
+<area shape="rect" id="node15" href="$BinaryFormat_2COFF_8h.html" title="llvm/BinaryFormat/COFF.h" alt="" coords="4746,408,4925,435"/>
+<area shape="rect" id="node16" href="$CodeViewYAMLDebugSections_8h.html" title="llvm/ObjectYAML/CodeView\lYAMLDebugSections.h" alt="" coords="1796,319,1984,360"/>
+<area shape="rect" id="node37" href="$CodeViewYAMLTypeHashing_8h.html" title="llvm/ObjectYAML/CodeView\lYAMLTypeHashing.h" alt="" coords="1787,229,1975,271"/>
+<area shape="rect" id="node38" href="$YAML_8h.html" title="llvm/ObjectYAML/YAML.h" alt="" coords="832,326,1007,353"/>
+<area shape="rect" id="node39" href="$CodeViewYAMLTypes_8h.html" title="llvm/ObjectYAML/CodeView\lYAMLTypes.h" alt="" coords="2416,319,2604,360"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1778,781,1941,808"/>
+<area shape="rect" id="node10" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="2708,707,2878,733"/>
+<area shape="rect" id="node18" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2604,632,2766,659"/>
+<area shape="rect" id="node19" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1212,707,1366,733"/>
+<area shape="rect" id="node22" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="2192,483,2356,509"/>
+<area shape="rect" id="node25" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="3131,483,3282,509"/>
+<area shape="rect" id="node26" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="2488,557,2650,584"/>
+<area shape="rect" id="node27" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="446,557,596,584"/>
+<area shape="rect" id="node28" href="$Regex_8h.html" title="llvm/Support/Regex.h" alt="" coords="4219,483,4367,509"/>
+<area shape="rect" id="node29" href="$Support_2SourceMgr_8h.html" title="llvm/Support/SourceMgr.h" alt="" coords="2882,483,3056,509"/>
+<area shape="rect" id="node35" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="1971,557,2156,584"/>
+<area shape="rect" id="node20" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="2100,707,2278,733"/>
+<area shape="rect" id="node21" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2953,707,3142,733"/>
+<area shape="rect" id="node30" href="$SMLoc_8h.html" title="llvm/Support/SMLoc.h" alt="" coords="3486,557,3636,584"/>
+<area shape="rect" id="node42" href="$BinaryFormat_2MachO_8h.html" title="llvm/BinaryFormat/MachO.h" alt="" coords="318,326,503,353"/>
+<area shape="rect" id="node44" href="$DWARFYAML_8h.html" title="This file declares classes for handling the YAML representation of DWARF Debug Info. " alt="" coords="1132,326,1358,353"/>
+<area shape="rect" id="node46" href="$BinaryFormat_2Minidump_8h.html" title="llvm/BinaryFormat/Minidump.h" alt="" coords="34,408,232,435"/>
+<area shape="rect" id="node47" href="$Object_2Minidump_8h.html" title="llvm/Object/Minidump.h" alt="" coords="135,326,294,353"/>
+<area shape="rect" id="node49" href="$BinaryFormat_2Wasm_8h.html" title="llvm/BinaryFormat/Wasm.h" alt="" coords="2181,557,2362,584"/>
+<area shape="rect" id="node50" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="1630,632,1785,659"/>
+</map>

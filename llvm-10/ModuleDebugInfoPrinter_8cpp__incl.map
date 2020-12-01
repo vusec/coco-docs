@@ -1,0 +1,33 @@
+<map id="lib/Analysis/ModuleDebugInfoPrinter.cpp" name="lib/Analysis/ModuleDebugInfoPrinter.cpp">
+<area shape="rect" id="node2" href="$Statistic_8h.html" title="llvm/ADT/Statistic.h" alt="" coords="94,319,234,345"/>
+<area shape="rect" id="node9" href="$Analysis_2Passes_8h.html" title="llvm/Analysis/Passes.h" alt="" coords="3801,95,3960,121"/>
+<area shape="rect" id="node10" href="$IR_2DebugInfo_8h.html" title="llvm/IR/DebugInfo.h" alt="" coords="3984,95,4123,121"/>
+<area shape="rect" id="node30" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="3515,543,3704,569"/>
+<area shape="rect" id="node45" href="$InitializePasses_8h.html" title="llvm/InitializePasses.h" alt="" coords="4378,95,4532,121"/>
+<area shape="rect" id="node46" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="4340,169,4431,196"/>
+<area shape="rect" id="node49" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="4674,244,4860,271"/>
+<area shape="rect" id="node4" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="907,617,1070,644"/>
+<area shape="rect" id="node11" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="1416,393,1579,420"/>
+<area shape="rect" id="node24" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="4147,393,4310,420"/>
+<area shape="rect" id="node25" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3699,468,3870,495"/>
+<area shape="rect" id="node33" href="$DebugInfoMetadata_8h.html" title="llvm/IR/DebugInfoMetadata.h" alt="" coords="2474,169,2668,196"/>
+<area shape="rect" id="node12" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="1464,468,1638,495"/>
+<area shape="rect" id="node14" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="534,468,741,495"/>
+<area shape="rect" id="node15" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1026,543,1196,569"/>
+<area shape="rect" id="node26" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="4502,468,4656,495"/>
+<area shape="rect" id="node27" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="5228,468,5405,495"/>
+<area shape="rect" id="node29" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="4832,468,5000,495"/>
+<area shape="rect" id="node34" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2240,319,2384,345"/>
+<area shape="rect" id="node35" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="334,543,456,569"/>
+<area shape="rect" id="node36" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2755,393,2910,420"/>
+<area shape="rect" id="node37" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="868,468,1008,495"/>
+<area shape="rect" id="node38" href="$BitmaskEnum_8h.html" title="llvm/ADT/BitmaskEnum.h" alt="" coords="5229,393,5404,420"/>
+<area shape="rect" id="node39" href="$PointerUnion_8h.html" title="llvm/ADT/PointerUnion.h" alt="" coords="3153,468,3320,495"/>
+<area shape="rect" id="node40" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="4394,319,4540,345"/>
+<area shape="rect" id="node41" href="$Dwarf_8h.html" title="This file contains constants used for implementing Dwarf debug support. " alt="" coords="543,393,722,420"/>
+<area shape="rect" id="node42" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="2039,244,2178,271"/>
+<area shape="rect" id="node43" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="1032,468,1187,495"/>
+<area shape="rect" id="node44" href="$Metadata_8h.html" title="This file contains the declarations for metadata subclasses. " alt="" coords="3074,244,3207,271"/>
+<area shape="rect" id="node47" href="$PassAnalysisSupport_8h.html" title="llvm/PassAnalysisSupport.h" alt="" coords="4198,244,4384,271"/>
+<area shape="rect" id="node48" href="$PassSupport_8h.html" title="llvm/PassSupport.h" alt="" coords="4408,244,4544,271"/>
+</map>

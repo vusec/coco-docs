@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; EmitTrampolineBlock,\l std::tuple\&lt; JITTargetAddress,\l uint32_t \&gt;()\&gt;" alt="" coords="5,5,205,76"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1remote_1_1stubs_1_1EmitTrampolineBlock.html" title="EmitTrampolineBlock result is (BlockAddr, NumTrampolines). " alt="" coords="253,20,440,61"/>
+</map>

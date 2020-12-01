@@ -1,0 +1,15 @@
+<map id="include/llvm/DebugInfo/CodeView/SymbolVisitorDelegate.h" name="include/llvm/DebugInfo/CodeView/SymbolVisitorDelegate.h">
+<area shape="rect" id="node2" href="$CVSymbolVisitor_8h.html" title="include/llvm/DebugInfo\l/CodeView/CVSymbolVisitor.h" alt="" coords="233,95,434,136"/>
+<area shape="rect" id="node6" href="$SymbolDeserializer_8h.html" title="include/llvm/DebugInfo\l/CodeView/SymbolDeserializer.h" alt="" coords="865,95,1079,136"/>
+<area shape="rect" id="node13" href="$SymbolDumpDelegate_8h.html" title="include/llvm/DebugInfo\l/CodeView/SymbolDumpDelegate.h" alt="" coords="1689,95,1921,136"/>
+<area shape="rect" id="node3" href="$CVSymbolVisitor_8cpp.html" title="lib/DebugInfo/CodeView\l/CVSymbolVisitor.cpp" alt="" coords="5,184,168,225"/>
+<area shape="rect" id="node4" href="$RecordName_8cpp.html" title="lib/DebugInfo/CodeView\l/RecordName.cpp" alt="" coords="192,184,355,225"/>
+<area shape="rect" id="node5" href="$SymbolDumper_8cpp.html" title="lib/DebugInfo/CodeView\l/SymbolDumper.cpp" alt="" coords="1043,273,1205,315"/>
+<area shape="rect" id="node7" href="$SymbolRecordHelpers_8cpp.html" title="lib/DebugInfo/CodeView\l/SymbolRecordHelpers.cpp" alt="" coords="481,184,663,225"/>
+<area shape="rect" id="node8" href="$GSIStreamBuilder_8cpp.html" title="lib/DebugInfo/PDB/Native\l/GSIStreamBuilder.cpp" alt="" coords="688,184,861,225"/>
+<area shape="rect" id="node9" href="$ModuleDebugStream_8cpp.html" title="lib/DebugInfo/PDB/Native\l/ModuleDebugStream.cpp" alt="" coords="885,184,1059,225"/>
+<area shape="rect" id="node10" href="$NativeEnumGlobals_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeEnumGlobals.cpp" alt="" coords="1083,184,1256,225"/>
+<area shape="rect" id="node11" href="$SymbolCache_8cpp.html" title="lib/DebugInfo/PDB/Native\l/SymbolCache.cpp" alt="" coords="1280,184,1453,225"/>
+<area shape="rect" id="node12" href="$CodeViewYAMLSymbols_8cpp.html" title="lib/ObjectYAML/CodeViewYAMLSymbols.cpp" alt="" coords="1478,191,1767,218"/>
+<area shape="rect" id="node14" href="$SymbolDumper_8h.html" title="include/llvm/DebugInfo\l/CodeView/SymbolDumper.h" alt="" coords="1843,184,2034,225"/>
+</map>

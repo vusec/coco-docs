@@ -1,0 +1,6 @@
+<map id="llvm::LazyValueAnalysis" name="llvm::LazyValueAnalysis">
+<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title="llvm::AnalysisInfoMixin\l\&lt; LazyValueAnalysis \&gt;" alt="" coords="95,213,252,255"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; LazyValueAnalysis \&gt;" alt="" coords="5,109,163,151"/>
+<area shape="rect" id="node4" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes. " alt="" coords="106,5,243,47"/>
+<area shape="rect" id="node5" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes. " alt="" coords="187,109,344,151"/>
+</map>

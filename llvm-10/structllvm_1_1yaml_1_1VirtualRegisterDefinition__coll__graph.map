@@ -1,0 +1,7 @@
+<map id="llvm::yaml::VirtualRegisterDefinition" name="llvm::yaml::VirtualRegisterDefinition">
+<area shape="rect" id="node2" href="$structllvm_1_1yaml_1_1StringValue.html" title="A wrapper around std::string which contains a source range that&#39;s being set during parsing..." alt="" coords="208,199,365,225"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SMRange.html" title="Represents a range in source code. " alt="" coords="156,109,268,136"/>
+<area shape="rect" id="node6" href="$structllvm_1_1yaml_1_1UnsignedValue.html" title="A wrapper around unsigned which contains a source range that&#39;s being set during parsing. " alt="" coords="5,199,184,225"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SMLoc.html" title="Represents a location in source code. " alt="" coords="165,5,259,32"/>
+<area shape="rect" id="node7" href="$classunsigned.html" title="unsigned" alt="" coords="24,109,99,136"/>
+</map>

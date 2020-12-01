@@ -1,0 +1,13 @@
+<map id="include/llvm/ADT/IntEqClasses.h" name="include/llvm/ADT/IntEqClasses.h">
+<area shape="rect" id="node2" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="790,80,953,107"/>
+<area shape="rect" id="node3" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="34,155,205,181"/>
+<area shape="rect" id="node6" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="711,229,864,256"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="507,304,670,331"/>
+<area shape="rect" id="node11" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1059,155,1236,181"/>
+<area shape="rect" id="node26" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="575,155,743,181"/>
+<area shape="rect" id="node27" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="261,229,450,256"/>
+<area shape="rect" id="node30" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="279,155,450,181"/>
+<area shape="rect" id="node12" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1190,229,1393,256"/>
+<area shape="rect" id="node13" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="1169,304,1344,331"/>
+<area shape="rect" id="node14" href="$c_2DataTypes_8h.html" title="llvm&#45;c/DataTypes.h" alt="" coords="1189,379,1325,405"/>
+</map>

@@ -1,0 +1,36 @@
+<map id="lib/CodeGen/StackSlotColoring.cpp" name="lib/CodeGen/StackSlotColoring.cpp">
+<area shape="rect" id="node2" href="$BitVector_8h.html" title="llvm/ADT/BitVector.h" alt="" coords="2729,505,2876,531"/>
+<area shape="rect" id="node4" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3473,676,3636,703"/>
+<area shape="rect" id="node27" href="$Statistic_8h.html" title="llvm/ADT/Statistic.h" alt="" coords="5047,594,5187,621"/>
+<area shape="rect" id="node28" href="$LiveInterval_8h.html" title="llvm/CodeGen/LiveInterval.h" alt="" coords="3277,155,3464,181"/>
+<area shape="rect" id="node29" href="$SlotIndexes_8h.html" title="llvm/CodeGen/SlotIndexes.h" alt="" coords="2421,237,2611,263"/>
+<area shape="rect" id="node30" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="1198,497,1389,539"/>
+<area shape="rect" id="node31" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="893,594,1088,621"/>
+<area shape="rect" id="node32" href="$MachineMemOperand_8h.html" title="llvm/CodeGen/MachineMemOperand.h" alt="" coords="690,676,937,703"/>
+<area shape="rect" id="node33" href="$PseudoSourceValue_8h.html" title="llvm/CodeGen/PseudoSource\lValue.h" alt="" coords="556,751,751,792"/>
+<area shape="rect" id="node34" href="$MachineOperand_8h.html" title="llvm/CodeGen/MachineOperand.h" alt="" coords="397,676,616,703"/>
+<area shape="rect" id="node35" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="1816,415,2035,442"/>
+<area shape="rect" id="node36" href="$MachineFunctionPass_8h.html" title="llvm/CodeGen/MachineFunction\lPass.h" alt="" coords="2791,319,2999,360"/>
+<area shape="rect" id="node37" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="2959,415,3049,442"/>
+<area shape="rect" id="node38" href="$LiveIntervals_8h.html" title="llvm/CodeGen/LiveIntervals.h" alt="" coords="2619,80,2813,107"/>
+<area shape="rect" id="node39" href="$TargetRegisterInfo_8h.html" title="llvm/CodeGen/TargetRegister\lInfo.h" alt="" coords="2420,408,2615,449"/>
+<area shape="rect" id="node40" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="3747,505,3941,531"/>
+<area shape="rect" id="node41" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="3510,594,3695,621"/>
+<area shape="rect" id="node42" href="$LiveStacks_8h.html" title="llvm/CodeGen/LiveStacks.h" alt="" coords="2889,80,3074,107"/>
+<area shape="rect" id="node43" href="$InitializePasses_8h.html" title="llvm/InitializePasses.h" alt="" coords="3914,155,4067,181"/>
+<area shape="rect" id="node44" href="$MachineBlockFrequencyInfo_8h.html" title="llvm/CodeGen/MachineBlock\lFrequencyInfo.h" alt="" coords="2990,229,3181,271"/>
+<area shape="rect" id="node45" href="$MachineFrameInfo_8h.html" title="llvm/CodeGen/MachineFrame\lInfo.h" alt="" coords="2125,587,2320,628"/>
+<area shape="rect" id="node46" href="$CodeGen_2Passes_8h.html" title="llvm/CodeGen/Passes.h" alt="" coords="5098,80,5262,107"/>
+<area shape="rect" id="node47" href="$TargetInstrInfo_8h.html" title="llvm/CodeGen/TargetInstr\lInfo.h" alt="" coords="1341,319,1513,360"/>
+<area shape="rect" id="node48" href="$TargetSubtargetInfo_8h.html" title="llvm/CodeGen/TargetSubtarget\lInfo.h" alt="" coords="4219,497,4421,539"/>
+<area shape="rect" id="node49" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="4952,676,5107,703"/>
+<area shape="rect" id="node50" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="5286,80,5434,107"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="4125,594,4269,621"/>
+<area shape="rect" id="node5" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1749,758,1920,785"/>
+<area shape="rect" id="node12" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="2755,758,2933,785"/>
+<area shape="rect" id="node9" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="4339,915,4501,941"/>
+<area shape="rect" id="node8" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="3729,758,3882,785"/>
+<area shape="rect" id="node18" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="3109,758,3277,785"/>
+<area shape="rect" id="node19" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="3419,840,3608,867"/>
+<area shape="rect" id="node21" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="4933,758,5104,785"/>
+</map>

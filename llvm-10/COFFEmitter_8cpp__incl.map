@@ -1,0 +1,34 @@
+<map id="lib/ObjectYAML/COFFEmitter.cpp" name="lib/ObjectYAML/COFFEmitter.cpp">
+<area shape="rect" id="node2" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3357,676,3512,703"/>
+<area shape="rect" id="node23" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="1335,437,1499,464"/>
+<area shape="rect" id="node30" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="2965,512,3115,539"/>
+<area shape="rect" id="node33" href="$StringSwitch_8h.html" title="llvm/ADT/StringSwitch.h" alt="" coords="629,512,795,539"/>
+<area shape="rect" id="node34" href="$DebugStringTableSubsection_8h.html" title="llvm/DebugInfo/CodeView\l/DebugStringTableSubsection.h" alt="" coords="3485,169,3691,211"/>
+<area shape="rect" id="node37" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="2610,676,2761,703"/>
+<area shape="rect" id="node41" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="819,512,1005,539"/>
+<area shape="rect" id="node42" href="$StringsAndChecksums_8h.html" title="llvm/DebugInfo/CodeView\l/StringsAndChecksums.h" alt="" coords="4746,80,4921,121"/>
+<area shape="rect" id="node45" href="$Object_2COFF_8h.html" title="llvm/Object/COFF.h" alt="" coords="2136,594,2275,621"/>
+<area shape="rect" id="node46" href="$ObjectYAML_8h.html" title="llvm/ObjectYAML/ObjectYAML.h" alt="" coords="5595,87,5808,114"/>
+<area shape="rect" id="node47" href="$yaml2obj_8h.html" title="Common declarations for yaml2obj. " alt="" coords="3066,266,3257,293"/>
+<area shape="rect" id="node48" href="$MemoryBuffer_8h.html" title="llvm/Support/MemoryBuffer.h" alt="" coords="2153,437,2345,464"/>
+<area shape="rect" id="node49" href="$Support_2SourceMgr_8h.html" title="llvm/Support/SourceMgr.h" alt="" coords="1525,355,1699,382"/>
+<area shape="rect" id="node50" href="$WithColor_8h.html" title="llvm/Support/WithColor.h" alt="" coords="1799,437,1967,464"/>
+<area shape="rect" id="node3" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="4065,751,4205,777"/>
+<area shape="rect" id="node8" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="2974,751,3106,777"/>
+<area shape="rect" id="node9" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3024,825,3195,852"/>
+<area shape="rect" id="node15" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1445,751,1635,777"/>
+<area shape="rect" id="node4" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="4144,825,4307,852"/>
+<area shape="rect" id="node24" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="4112,512,4256,539"/>
+<area shape="rect" id="node26" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="1081,512,1239,539"/>
+<area shape="rect" id="node27" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1387,594,1533,621"/>
+<area shape="rect" id="node29" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="1447,512,1574,539"/>
+<area shape="rect" id="node31" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="3638,676,3799,703"/>
+<area shape="rect" id="node32" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="3737,587,3901,628"/>
+<area shape="rect" id="node35" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2417,676,2572,703"/>
+<area shape="rect" id="node36" href="$CodeView_8h.html" title="llvm/DebugInfo/CodeView\l/CodeView.h" alt="" coords="5062,348,5237,389"/>
+<area shape="rect" id="node38" href="$DebugSubsection_8h.html" title="llvm/DebugInfo/CodeView\l/DebugSubsection.h" alt="" coords="4382,259,4557,300"/>
+<area shape="rect" id="node39" href="$BinaryStreamRef_8h.html" title="llvm/Support/BinaryStream\lRef.h" alt="" coords="4808,259,4987,300"/>
+<area shape="rect" id="node40" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="4021,355,4160,382"/>
+<area shape="rect" id="node43" href="$DebugChecksumsSubsection_8h.html" title="llvm/DebugInfo/CodeView\l/DebugChecksumsSubsection.h" alt="" coords="4617,169,4828,211"/>
+<area shape="rect" id="node44" href="$DebugSubsectionRecord_8h.html" title="llvm/DebugInfo/CodeView\l/DebugSubsectionRecord.h" alt="" coords="4853,169,5035,211"/>
+</map>

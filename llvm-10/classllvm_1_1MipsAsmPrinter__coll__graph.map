@@ -1,0 +1,38 @@
+<map id="llvm::MipsAsmPrinter" name="llvm::MipsAsmPrinter">
+<area shape="rect" id="node2" href="$classllvm_1_1AsmPrinter.html" title="This class is intended to be used as a driving class for all asm writers. " alt="" coords="1373,647,1491,673"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MachineFunctionPass.html" title="MachineFunctionPass &#45; This class adapts the FunctionPass interface to allow convenient creation of pa..." alt="" coords="490,788,673,815"/>
+<area shape="rect" id="node6" href="$classllvm_1_1MachineLoopInfo.html" title="llvm::MachineLoopInfo" alt="" coords="957,708,1111,735"/>
+<area shape="rect" id="node12" href="$classllvm_1_1MachineDominatorTree.html" title="DominatorTree Class &#45; Concrete subclass of DominatorTreeBase that is used to compute a normal dominat..." alt="" coords="939,759,1129,785"/>
+<area shape="rect" id="node35" href="$classllvm_1_1MachineBlockFrequencyInfo.html" title="MachineBlockFrequencyInfo pass uses BlockFrequencyInfoImpl implementation to estimate machine basic b..." alt="" coords="925,831,1143,857"/>
+<area shape="rect" id="node4" href="$classllvm_1_1FunctionPass.html" title="FunctionPass class &#45; This class is used to implement most global optimizations. " alt="" coords="56,1173,191,1200"/>
+<area shape="rect" id="node5" href="$classllvm_1_1MachineOptimizationRemarkEmitter.html" title="The optimization diagnostic interface. " alt="" coords="946,1213,1122,1254"/>
+<area shape="rect" id="node7" href="$classchar.html" title="char" alt="" coords="558,719,605,745"/>
+<area shape="rect" id="node38" href="$classllvm_1_1MCAsmInfo.html" title="This class is intended to be used as a base class for asm properties and features specific to the tar..." alt="" coords="972,595,1096,621"/>
+<area shape="rect" id="node8" href="$classllvm_1_1MachineFunction.html" title="llvm::MachineFunction" alt="" coords="957,1427,1111,1453"/>
+<area shape="rect" id="node9" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l VariableDbgInfo, 4 \&gt;" alt="" coords="508,1611,655,1653"/>
+<area shape="rect" id="node10" href="$classllvm_1_1SmallVector.html" title="This is a &#39;vector&#39; (really, a variable&#45;sized array), optimized for the case when the array is small..." alt="" coords="57,1581,190,1622"/>
+<area shape="rect" id="node14" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::AsmPrinter::Handler\lInfo, 1 \&gt;" alt="" coords="493,1677,669,1733"/>
+<area shape="rect" id="node33" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::AsmPrinter::XRayFunction\lEntry, 4 \&gt;" alt="" coords="474,639,689,695"/>
+<area shape="rect" id="node11" href="$classllvm_1_1ProfileSummaryInfo.html" title="Analysis providing profile information. " alt="" coords="949,109,1119,136"/>
+<area shape="rect" id="node13" href="$classllvm_1_1MachineModuleInfo.html" title="This class contains meta information specific to a module. " alt="" coords="951,160,1117,187"/>
+<area shape="rect" id="node15" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; llvm::AsmPrinter::Handler\lInfo \&gt;" alt="" coords="31,1677,215,1733"/>
+<area shape="rect" id="node16" href="$structllvm_1_1SmallVectorStorage.html" title="llvm::SmallVectorStorage\l\&lt; llvm::AsmPrinter::HandlerInfo, N \&gt;" alt="" coords="5,1758,241,1799"/>
+<area shape="rect" id="node17" href="$classllvm_1_1TargetMachine.html" title="Primary interface to the complete machine description for the target machine. " alt="" coords="964,1161,1104,1188"/>
+<area shape="rect" id="node18" href="$classllvm_1_1TargetOptions.html" title="llvm::TargetOptions" alt="" coords="513,1317,649,1344"/>
+<area shape="rect" id="node20" href="$classunsigned.html" title="unsigned" alt="" coords="86,484,161,511"/>
+<area shape="rect" id="node36" href="$classllvm_1_1MCSymbol.html" title="MCSymbol &#45; Instances of this class represent a symbol name in the MC file, and MCSymbols are created ..." alt="" coords="763,369,882,396"/>
+<area shape="rect" id="node23" href="$classllvm_1_1Target.html" title="Target &#45; Wrapper for Target specific information. " alt="" coords="536,1048,627,1075"/>
+<area shape="rect" id="node25" href="$classllvm_1_1DataLayout.html" title="A parsed version of the target data layout string in and methods for querying it. ..." alt="" coords="521,1165,642,1192"/>
+<area shape="rect" id="node29" href="$classllvm_1_1Triple.html" title="Triple &#45; Helper class for working with autoconf configuration names. " alt="" coords="538,1497,625,1524"/>
+<area shape="rect" id="node30" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::MCSection *, unsigned \&gt;" alt="" coords="932,211,1136,253"/>
+<area shape="rect" id="node31" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; const llvm\l::MCSection *, unsigned,\l DenseMapInfo\&lt; const llvm\l::MCSection *\&gt;, llvm::detail\l::DenseMapPair\&lt; const llvm::\lMCSection *, unsigned \&gt; \&gt;, const\l llvm::MCSection *, unsigned, DenseMapInfo\l\&lt; const llvm::MCSection *\&gt;, llvm::detail\l::DenseMapPair\&lt; const llvm::MCSection *,\l unsigned \&gt; \&gt;" alt="" coords="439,161,724,335"/>
+<area shape="rect" id="node32" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="483,95,680,137"/>
+<area shape="rect" id="node34" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; llvm::AsmPrinter::XRayFunction\lEntry \&gt;" alt="" coords="12,1065,235,1121"/>
+<area shape="rect" id="node37" href="$classllvm_1_1MCContext.html" title="Context object for machine code objects. " alt="" coords="973,277,1095,304"/>
+<area shape="rect" id="node40" href="$classllvm_1_1MapVector.html" title="llvm::MapVector\&lt; const\l llvm::MCSymbol *, GOTEquivUse\lPair \&gt;" alt="" coords="921,379,1147,435"/>
+<area shape="rect" id="node41" href="$classllvm_1_1MipsSubtarget.html" title="llvm::MipsSubtarget" alt="" coords="1363,1845,1501,1872"/>
+<area shape="rect" id="node42" href="$classMipsGenSubtargetInfo.html" title="MipsGenSubtargetInfo" alt="" coords="958,1689,1110,1716"/>
+<area shape="rect" id="node47" href="$classllvm_1_1MipsFunctionInfo.html" title="MipsFunctionInfo &#45; This class is derived from MachineFunction private Mips target&#45;specific informatio..." alt="" coords="1355,1965,1509,1992"/>
+<area shape="rect" id="node48" href="$structllvm_1_1MachineFunctionInfo.html" title="MachineFunctionInfo &#45; This class can be derived from and used by targets to hold private target&#45;speci..." alt="" coords="947,2068,1121,2095"/>
+<area shape="rect" id="node50" href="$classllvm_1_1MipsMCInstLower.html" title="MipsMCInstLower &#45; This class is used to lower an MachineInstr into an MCInst. " alt="" coords="1352,2016,1512,2043"/>
+</map>

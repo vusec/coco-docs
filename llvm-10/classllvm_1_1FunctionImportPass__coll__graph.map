@@ -1,0 +1,4 @@
+<map id="llvm::FunctionImportPass" name="llvm::FunctionImportPass">
+<area shape="rect" id="node2" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; FunctionImportPass \&gt;" alt="" coords="9,109,172,151"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes. " alt="" coords="22,5,159,47"/>
+</map>

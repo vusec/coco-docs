@@ -1,0 +1,5 @@
+<map id="llvm::minidump::ExceptionStream" name="llvm::minidump::ExceptionStream">
+<area shape="rect" id="node2" href="$structllvm_1_1minidump_1_1LocationDescriptor.html" title="Specifies the location (and size) of various objects in the minidump file. " alt="" coords="351,69,518,110"/>
+<area shape="rect" id="node4" href="$structllvm_1_1minidump_1_1Exception.html" title="llvm::minidump::Exception" alt="" coords="347,183,523,209"/>
+<area shape="rect" id="node6" href="$classsize__t.html" title="size_t" alt="" coords="59,285,117,312"/>
+</map>

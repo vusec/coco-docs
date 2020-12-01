@@ -1,0 +1,33 @@
+<map id="lib/Analysis/VFABIDemangling.cpp" name="lib/Analysis/VFABIDemangling.cpp">
+<area shape="rect" id="node2" href="$SmallSet_8h.html" title="llvm/ADT/SmallSet.h" alt="" coords="887,341,1033,367"/>
+<area shape="rect" id="node33" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="2614,251,2773,278"/>
+<area shape="rect" id="node37" href="$VectorUtils_8h.html" title="llvm/Analysis/VectorUtils.h" alt="" coords="1369,80,1549,107"/>
+<area shape="rect" id="node3" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="195,572,317,599"/>
+<area shape="rect" id="node4" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="1157,497,1320,524"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3159,647,3321,673"/>
+<area shape="rect" id="node10" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1189,572,1360,599"/>
+<area shape="rect" id="node19" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2576,423,2739,449"/>
+<area shape="rect" id="node30" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="2467,497,2599,524"/>
+<area shape="rect" id="node5" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="645,572,819,599"/>
+<area shape="rect" id="node9" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="843,572,1050,599"/>
+<area shape="rect" id="node20" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="2672,572,2843,599"/>
+<area shape="rect" id="node21" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2035,497,2189,524"/>
+<area shape="rect" id="node22" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3691,497,3869,524"/>
+<area shape="rect" id="node25" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="3181,497,3349,524"/>
+<area shape="rect" id="node26" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="4060,572,4249,599"/>
+<area shape="rect" id="node34" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3767,341,3913,367"/>
+<area shape="rect" id="node35" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="4211,423,4365,449"/>
+<area shape="rect" id="node36" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3475,497,3615,524"/>
+<area shape="rect" id="node38" href="$MapVector_8h.html" title="llvm/ADT/MapVector.h" alt="" coords="2533,341,2688,367"/>
+<area shape="rect" id="node41" href="$LoopAccessAnalysis_8h.html" title="llvm/Analysis/LoopAccess\lAnalysis.h" alt="" coords="2789,155,2965,196"/>
+<area shape="rect" id="node49" href="$IRBuilder_8h.html" title="llvm/IR/IRBuilder.h" alt="" coords="1392,251,1525,278"/>
+<area shape="rect" id="node50" href="$CheckedArithmetic_8h.html" title="llvm/Support/CheckedArithmetic.h" alt="" coords="1200,423,1421,449"/>
+<area shape="rect" id="node39" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2200,423,2355,449"/>
+<area shape="rect" id="node42" href="$EquivalenceClasses_8h.html" title="llvm/ADT/EquivalenceClasses.h" alt="" coords="1749,497,1960,524"/>
+<area shape="rect" id="node43" href="$SetVector_8h.html" title="llvm/ADT/SetVector.h" alt="" coords="5335,341,5486,367"/>
+<area shape="rect" id="node44" href="$AliasAnalysis_8h.html" title="llvm/Analysis/AliasAnalysis.h" alt="" coords="2864,341,3059,367"/>
+<area shape="rect" id="node45" href="$AliasSetTracker_8h.html" title="llvm/Analysis/AliasSetTracker.h" alt="" coords="2915,251,3123,278"/>
+<area shape="rect" id="node46" href="$LoopAnalysisManager_8h.html" title="This header provides classes for managing per&#45;loop analyses. " alt="" coords="3147,244,3330,285"/>
+<area shape="rect" id="node47" href="$ScalarEvolutionExpressions_8h.html" title="llvm/Analysis/ScalarEvolution\lExpressions.h" alt="" coords="2315,333,2509,375"/>
+<area shape="rect" id="node48" href="$DiagnosticInfo_8h.html" title="llvm/IR/DiagnosticInfo.h" alt="" coords="4356,251,4519,278"/>
+</map>

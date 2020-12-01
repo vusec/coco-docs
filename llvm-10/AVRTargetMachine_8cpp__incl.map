@@ -1,0 +1,42 @@
+<map id="lib/Target/AVR/AVRTargetMachine.cpp" name="lib/Target/AVR/AVRTargetMachine.cpp">
+<area shape="rect" id="node2" href="$AVRTargetMachine_8h.html" title="AVRTargetMachine.h" alt="" coords="451,95,597,121"/>
+<area shape="rect" id="node26" href="$CodeGen_2Passes_8h.html" title="llvm/CodeGen/Passes.h" alt="" coords="1147,475,1311,502"/>
+<area shape="rect" id="node27" href="$TargetPassConfig_8h.html" title="llvm/CodeGen/TargetPassConfig.h" alt="" coords="867,244,1093,271"/>
+<area shape="rect" id="node28" href="$LegacyPassManager_8h.html" title="llvm/IR/LegacyPassManager.h" alt="" coords="1686,244,1887,271"/>
+<area shape="rect" id="node31" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="3046,169,3167,196"/>
+<area shape="rect" id="node43" href="$TargetRegistry_8h.html" title="llvm/Support/TargetRegistry.h" alt="" coords="3730,319,3926,345"/>
+<area shape="rect" id="node46" href="$AVR_8h.html" title="AVR.h" alt="" coords="1671,95,1732,121"/>
+<area shape="rect" id="node48" href="$AVRTargetObjectFile_8h.html" title="AVRTargetObjectFile.h" alt="" coords="4836,95,4993,121"/>
+<area shape="rect" id="node49" href="$AVRMCTargetDesc_8h.html" title="MCTargetDesc/AVRMCTarget\lDesc.h" alt="" coords="5125,468,5326,509"/>
+<area shape="rect" id="node50" href="$AVRTargetInfo_8h.html" title="TargetInfo/AVRTargetInfo.h" alt="" coords="5175,95,5358,121"/>
+<area shape="rect" id="node3" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="1736,319,1883,345"/>
+<area shape="rect" id="node17" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="1167,244,1355,271"/>
+<area shape="rect" id="node21" href="$AVRFrameLowering_8h.html" title="AVRFrameLowering.h" alt="" coords="490,244,641,271"/>
+<area shape="rect" id="node22" href="$AVRISelLowering_8h.html" title="AVRISelLowering.h" alt="" coords="5,244,141,271"/>
+<area shape="rect" id="node23" href="$AVRInstrInfo_8h.html" title="AVRInstrInfo.h" alt="" coords="165,244,275,271"/>
+<area shape="rect" id="node24" href="$AVRSelectionDAGInfo_8h.html" title="AVRSelectionDAGInfo.h" alt="" coords="299,244,466,271"/>
+<area shape="rect" id="node25" href="$AVRSubtarget_8h.html" title="AVRSubtarget.h" alt="" coords="420,169,537,196"/>
+<area shape="rect" id="node4" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2816,475,2971,502"/>
+<area shape="rect" id="node10" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1795,557,1984,584"/>
+<area shape="rect" id="node16" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2704,393,2851,420"/>
+<area shape="rect" id="node5" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3862,557,4002,584"/>
+<area shape="rect" id="node8" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="2121,557,2292,584"/>
+<area shape="rect" id="node18" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="2977,393,3101,420"/>
+<area shape="rect" id="node19" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="1216,319,1307,345"/>
+<area shape="rect" id="node20" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="1096,393,1261,420"/>
+<area shape="rect" id="node29" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="2741,319,2960,345"/>
+<area shape="rect" id="node30" href="$c_2Types_8h.html" title="llvm&#45;c/Types.h" alt="" coords="3125,393,3233,420"/>
+<area shape="rect" id="node32" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="2110,319,2261,345"/>
+<area shape="rect" id="node33" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="3301,319,3435,345"/>
+<area shape="rect" id="node34" href="$IR_2Comdat_8h.html" title="This file contains the declaration of the Comdat class, which represents a single COMDAT in LLVM..." alt="" coords="3044,244,3169,271"/>
+<area shape="rect" id="node35" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="3303,244,3433,271"/>
+<area shape="rect" id="node36" href="$SymbolTableListTraits_8h.html" title="llvm/IR/SymbolTableListTraits.h" alt="" coords="4554,319,4763,345"/>
+<area shape="rect" id="node37" href="$GlobalAlias_8h.html" title="llvm/IR/GlobalAlias.h" alt="" coords="4391,244,4537,271"/>
+<area shape="rect" id="node38" href="$GlobalIFunc_8h.html" title="llvm/IR/GlobalIFunc.h" alt="" coords="4561,244,4711,271"/>
+<area shape="rect" id="node39" href="$GlobalVariable_8h.html" title="llvm/IR/GlobalVariable.h" alt="" coords="4836,244,4999,271"/>
+<area shape="rect" id="node40" href="$Metadata_8h.html" title="This file contains the declarations for metadata subclasses. " alt="" coords="2357,244,2491,271"/>
+<area shape="rect" id="node41" href="$ProfileSummary_8h.html" title="llvm/IR/ProfileSummary.h" alt="" coords="3457,244,3629,271"/>
+<area shape="rect" id="node44" href="$DisassemblerTypes_8h.html" title="llvm&#45;c/DisassemblerTypes.h" alt="" coords="4018,393,4206,420"/>
+<area shape="rect" id="node45" href="$FormattedStream_8h.html" title="llvm/Support/FormattedStream.h" alt="" coords="4231,393,4441,420"/>
+<area shape="rect" id="node47" href="$SelectionDAGNodes_8h.html" title="llvm/CodeGen/SelectionDAGNodes.h" alt="" coords="1581,169,1822,196"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="lib/Target/Mips/MipsCallLowering.h" name="lib/Target/Mips/MipsCallLowering.h">
+<area shape="rect" id="node2" href="$CallLowering_8h.html" title="This file describes how to lower LLVM calls to machine code calls. " alt="" coords="1686,95,1855,136"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="3489,594,3633,621"/>
+<area shape="rect" id="node5" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1116,840,1305,867"/>
+<area shape="rect" id="node14" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2227,683,2389,710"/>
+<area shape="rect" id="node32" href="$CallingConvLower_8h.html" title="llvm/CodeGen/CallingConv\lLower.h" alt="" coords="1782,408,1962,449"/>
+<area shape="rect" id="node36" href="$TargetCallingConv_8h.html" title="llvm/CodeGen/TargetCalling\lConv.h" alt="" coords="977,497,1164,539"/>
+<area shape="rect" id="node38" href="$MachineValueType_8h.html" title="llvm/Support/MachineValue\lType.h" alt="" coords="992,676,1173,717"/>
+<area shape="rect" id="node39" href="$CallingConv_8h.html" title="llvm/IR/CallingConv.h" alt="" coords="2179,505,2330,531"/>
+<area shape="rect" id="node41" href="$CallSite_8h.html" title="llvm/IR/CallSite.h" alt="" coords="3163,184,3288,211"/>
+<area shape="rect" id="node4" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="2161,765,2301,792"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="481,915,644,941"/>
+<area shape="rect" id="node13" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="5923,840,6045,867"/>
+<area shape="rect" id="node26" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3952,683,4107,710"/>
+<area shape="rect" id="node7" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2528,840,2699,867"/>
+<area shape="rect" id="node15" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="5320,765,5491,792"/>
+<area shape="rect" id="node17" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="3041,765,3194,792"/>
+<area shape="rect" id="node19" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="246,765,423,792"/>
+<area shape="rect" id="node21" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="752,765,920,792"/>
+<area shape="rect" id="node27" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2825,765,2965,792"/>
+<area shape="rect" id="node33" href="$MachineFrameInfo_8h.html" title="llvm/CodeGen/MachineFrame\lInfo.h" alt="" coords="2085,587,2280,628"/>
+<area shape="rect" id="node34" href="$Alignment_8h.html" title="llvm/Support/Alignment.h" alt="" coords="1552,683,1720,710"/>
+<area shape="rect" id="node35" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="2456,505,2675,531"/>
+<area shape="rect" id="node40" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="4653,683,4832,710"/>
+<area shape="rect" id="node37" href="$ValueTypes_8h.html" title="llvm/CodeGen/ValueTypes.h" alt="" coords="859,594,1048,621"/>
+<area shape="rect" id="node42" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="2477,765,2648,792"/>
+<area shape="rect" id="node43" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="3403,505,3538,531"/>
+<area shape="rect" id="node44" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="3419,415,3549,442"/>
+<area shape="rect" id="node45" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="3832,594,3944,621"/>
+<area shape="rect" id="node46" href="$Use_8h.html" title="This defines the Use class. " alt="" coords="1795,683,1898,710"/>
+<area shape="rect" id="node47" href="$InstrTypes_8h.html" title="llvm/IR/InstrTypes.h" alt="" coords="3867,333,4008,360"/>
+<area shape="rect" id="node48" href="$IR_2Instruction_8h.html" title="llvm/IR/Instruction.h" alt="" coords="4454,415,4594,442"/>
+<area shape="rect" id="node49" href="$User_8h.html" title="llvm/IR/User.h" alt="" coords="4069,505,4176,531"/>
+<area shape="rect" id="node50" href="$Instructions_8h.html" title="llvm/IR/Instructions.h" alt="" coords="3753,259,3900,285"/>
+</map>

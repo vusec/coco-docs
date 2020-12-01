@@ -1,0 +1,51 @@
+<map id="include/llvm/Support/NativeFormatting.h" name="include/llvm/Support/NativeFormatting.h">
+<area shape="rect" id="node2" href="$FormatProviders_8h.html" title="include/llvm/Support\l/FormatProviders.h" alt="" coords="4977,95,5117,136"/>
+<area shape="rect" id="node15" href="$raw__ostream_8cpp.html" title="lib/Support/raw_ostream.cpp" alt="" coords="2476,370,2664,397"/>
+<area shape="rect" id="node49" href="$NativeFormatting_8cpp.html" title="lib/Support/NativeFormatting.cpp" alt="" coords="7451,102,7665,129"/>
+<area shape="rect" id="node50" href="$AMDGPUArgumentUsageInfo_8cpp.html" title="lib/Target/AMDGPU/AMDGPUArgument\lUsageInfo.cpp" alt="" coords="7689,95,7947,136"/>
+<area shape="rect" id="node3" href="$TypeHashing_8h.html" title="include/llvm/DebugInfo\l/CodeView/TypeHashing.h" alt="" coords="557,184,735,225"/>
+<area shape="rect" id="node8" href="$PDB_2Native_2Formatters_8h.html" title="include/llvm/DebugInfo\l/PDB/Native/Formatters.h" alt="" coords="7541,363,7716,404"/>
+<area shape="rect" id="node9" href="$Chrono_8h.html" title="include/llvm/Support\l/Chrono.h" alt="" coords="1464,184,1604,225"/>
+<area shape="rect" id="node22" href="$FormatVariadic_8h.html" title="include/llvm/Support\l/FormatVariadic.h" alt="" coords="4977,184,5117,225"/>
+<area shape="rect" id="node4" href="$GlobalTypeTableBuilder_8h.html" title="include/llvm/DebugInfo\l/CodeView/GlobalTypeTableBuilder.h" alt="" coords="5,273,244,315"/>
+<area shape="rect" id="node5" href="$MergingTypeTableBuilder_8h.html" title="include/llvm/DebugInfo\l/CodeView/MergingTypeTableBuilder.h" alt="" coords="269,273,517,315"/>
+<area shape="rect" id="node6" href="$CodeViewYAMLTypeHashing_8h.html" title="include/llvm/ObjectYAML\l/CodeViewYAMLTypeHashing.h" alt="" coords="541,273,751,315"/>
+<area shape="rect" id="node7" href="$TypeHashing_8cpp.html" title="lib/DebugInfo/CodeView\l/TypeHashing.cpp" alt="" coords="775,273,938,315"/>
+<area shape="rect" id="node10" href="$Archive_8h.html" title="include/llvm/Object\l/Archive.h" alt="" coords="1013,363,1146,404"/>
+<area shape="rect" id="node11" href="$Archive_8cpp.html" title="lib/Object/Archive.cpp" alt="" coords="1004,452,1155,479"/>
+<area shape="rect" id="node12" href="$FileSystem_8h.html" title="include/llvm/Support\l/FileSystem.h" alt="" coords="1221,273,1361,315"/>
+<area shape="rect" id="node13" href="$VirtualFileSystem_8h.html" title="Defines the virtual file system interface vfs::FileSystem. " alt="" coords="1221,363,1361,404"/>
+<area shape="rect" id="node14" href="$VirtualFileSystem_8cpp.html" title="lib/Support/VirtualFileSystem.cpp" alt="" coords="1407,452,1623,479"/>
+<area shape="rect" id="node17" href="$Process_8h.html" title="Provides a library for accessing information about this process and other processes on the operating ..." alt="" coords="2296,273,2436,315"/>
+<area shape="rect" id="node18" href="$WindowsSupport_8h.html" title="include/llvm/Support\l/Windows/WindowsSupport.h" alt="" coords="1437,273,1631,315"/>
+<area shape="rect" id="node19" href="$LegacyPassManager_8cpp.html" title="lib/IR/LegacyPassManager.cpp" alt="" coords="1656,281,1860,307"/>
+<area shape="rect" id="node20" href="$Chrono_8cpp.html" title="lib/Support/Chrono.cpp" alt="" coords="1885,281,2039,307"/>
+<area shape="rect" id="node21" href="$Unix_8h.html" title="lib/Support/Unix/Unix.h" alt="" coords="2063,281,2221,307"/>
+<area shape="rect" id="node16" href="$Signals_8cpp.html" title="lib/Support/Signals.cpp" alt="" coords="1437,370,1593,397"/>
+<area shape="rect" id="node23" href="$CodeView_2Formatters_8h.html" title="include/llvm/DebugInfo\l/CodeView/Formatters.h" alt="" coords="7452,273,7616,315"/>
+<area shape="rect" id="node24" href="$TypeDumpVisitor_8cpp.html" title="lib/DebugInfo/CodeView\l/TypeDumpVisitor.cpp" alt="" coords="7306,363,7469,404"/>
+<area shape="rect" id="node25" href="$JITLink_8h.html" title="include/llvm/ExecutionEngine\l/JITLink/JITLink.h" alt="" coords="5149,273,5343,315"/>
+<area shape="rect" id="node26" href="$JSON_8h.html" title="This file supports working with JSON data. " alt="" coords="5367,273,5507,315"/>
+<area shape="rect" id="node27" href="$CodeViewDebug_8cpp.html" title="lib/CodeGen/AsmPrinter\l/CodeViewDebug.cpp" alt="" coords="5531,273,5694,315"/>
+<area shape="rect" id="node28" href="$RecordName_8cpp.html" title="lib/DebugInfo/CodeView\l/RecordName.cpp" alt="" coords="5718,273,5881,315"/>
+<area shape="rect" id="node29" href="$DWARFAbbreviationDeclaration_8cpp.html" title="lib/DebugInfo/DWARF\l/DWARFAbbreviationDeclaration.cpp" alt="" coords="5905,273,6144,315"/>
+<area shape="rect" id="node30" href="$DWARFAcceleratorTable_8cpp.html" title="lib/DebugInfo/DWARF\l/DWARFAcceleratorTable.cpp" alt="" coords="6168,273,6367,315"/>
+<area shape="rect" id="node31" href="$DWARFDie_8cpp.html" title="lib/DebugInfo/DWARF\l/DWARFDie.cpp" alt="" coords="6391,273,6544,315"/>
+<area shape="rect" id="node32" href="$DWARFGdbIndex_8cpp.html" title="lib/DebugInfo/DWARF\l/DWARFGdbIndex.cpp" alt="" coords="6569,273,6726,315"/>
+<area shape="rect" id="node33" href="$DWARFLocationExpression_8cpp.html" title="lib/DebugInfo/DWARF\l/DWARFLocationExpression.cpp" alt="" coords="6751,273,6965,315"/>
+<area shape="rect" id="node34" href="$DWARFVerifier_8cpp.html" title="lib/DebugInfo/DWARF\l/DWARFVerifier.cpp" alt="" coords="6989,273,7143,315"/>
+<area shape="rect" id="node35" href="$DIASession_8cpp.html" title="lib/DebugInfo/PDB/DIA\l/DIASession.cpp" alt="" coords="7167,273,7325,315"/>
+<area shape="rect" id="node36" href="$NativeRawSymbol_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeRawSymbol.cpp" alt="" coords="2461,273,2634,315"/>
+<area shape="rect" id="node37" href="$NativeTypeBuiltin_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeTypeBuiltin.cpp" alt="" coords="2658,273,2831,315"/>
+<area shape="rect" id="node38" href="$NativeTypeEnum_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeTypeEnum.cpp" alt="" coords="2855,273,3029,315"/>
+<area shape="rect" id="node39" href="$PassTimingInfo_8cpp.html" title="lib/IR/PassTimingInfo.cpp" alt="" coords="3053,281,3226,307"/>
+<area shape="rect" id="node40" href="$WindowsResource_8cpp.html" title="lib/Object/WindowsResource.cpp" alt="" coords="3250,281,3466,307"/>
+<area shape="rect" id="node41" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="3491,281,3673,307"/>
+<area shape="rect" id="node42" href="$StandardInstrumentations_8cpp.html" title="This file defines IR&#45;printing pass instrumentation callbacks as well as StandardInstrumentations clas..." alt="" coords="3698,281,3959,307"/>
+<area shape="rect" id="node43" href="$FileCheck_8cpp.html" title="lib/Support/FileCheck.cpp" alt="" coords="3984,281,4156,307"/>
+<area shape="rect" id="node44" href="$FormatVariadic_8cpp.html" title="lib/Support/FormatVariadic.cpp" alt="" coords="4180,281,4381,307"/>
+<area shape="rect" id="node45" href="$Twine_8cpp.html" title="lib/Support/Twine.cpp" alt="" coords="4405,281,4553,307"/>
+<area shape="rect" id="node46" href="$Annotations_8cpp.html" title="lib/Testing/Support\l/Annotations.cpp" alt="" coords="4578,273,4709,315"/>
+<area shape="rect" id="node47" href="$MisExpect_8cpp.html" title="lib/Transforms/Utils\l/MisExpect.cpp" alt="" coords="4733,273,4869,315"/>
+<area shape="rect" id="node48" href="$RecordPrinter_8cpp.html" title="lib/XRay/RecordPrinter.cpp" alt="" coords="4893,281,5074,307"/>
+</map>

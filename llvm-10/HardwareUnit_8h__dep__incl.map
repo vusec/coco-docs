@@ -1,0 +1,23 @@
+<map id="include/llvm/MCA/HardwareUnits/HardwareUnit.h" name="include/llvm/MCA/HardwareUnits/HardwareUnit.h">
+<area shape="rect" id="node2" href="$Context_8h.html" title="This file defines a class for holding ownership of various simulated hardware units. " alt="" coords="5,370,192,397"/>
+<area shape="rect" id="node4" href="$LSUnit_8h.html" title="A Load/Store unit class that models load/store queues and that implements a simple weak memory consis..." alt="" coords="1051,95,1237,136"/>
+<area shape="rect" id="node5" href="$Scheduler_8h.html" title="A scheduler for Processor Resource Units and Processor Resource Groups. " alt="" coords="690,184,875,225"/>
+<area shape="rect" id="node17" href="$RegisterFile_8h.html" title="This file defines a register mapping file class. " alt="" coords="1313,95,1498,136"/>
+<area shape="rect" id="node20" href="$RetireControlUnit_8h.html" title="This file simulates the hardware responsible for retiring instructions. " alt="" coords="1570,95,1755,136"/>
+<area shape="rect" id="node22" href="$HardwareUnit_8cpp.html" title="This file defines the anchor for the base class that describes simulated hardware units..." alt="" coords="1780,95,1940,136"/>
+<area shape="rect" id="node3" href="$Context_8cpp.html" title="This file defines a class for holding ownership of various simulated hardware units. " alt="" coords="1235,452,1379,479"/>
+<area shape="rect" id="node14" href="$RetireStage_8h.html" title="This file defines the retire stage of a default instruction pipeline. " alt="" coords="1197,184,1368,225"/>
+<area shape="rect" id="node16" href="$LSUnit_8cpp.html" title="A Load&#45;Store Unit for the llvm&#45;mca tool. " alt="" coords="1013,184,1173,225"/>
+<area shape="rect" id="node6" href="$Pipeline_8h.html" title="This file implements an ordered container of stages that simulate the pipeline of a hardware backend..." alt="" coords="256,281,443,307"/>
+<area shape="rect" id="node8" href="$ExecuteStage_8h.html" title="This file defines the execution stage of a default instruction pipeline. " alt="" coords="467,273,637,315"/>
+<area shape="rect" id="node10" href="$InstructionTables_8h.html" title="This file implements a custom stage to generate instruction tables. " alt="" coords="661,273,832,315"/>
+<area shape="rect" id="node12" href="$Scheduler_8cpp.html" title="lib/MCA/HardwareUnits\l/Scheduler.cpp" alt="" coords="856,273,1016,315"/>
+<area shape="rect" id="node13" href="$DispatchStage_8cpp.html" title="This file models the dispatch component of an instruction pipeline. " alt="" coords="1040,281,1269,307"/>
+<area shape="rect" id="node7" href="$Pipeline_8cpp.html" title="This file implements an ordered container of stages that simulate the pipeline of a hardware backend..." alt="" coords="277,370,421,397"/>
+<area shape="rect" id="node9" href="$ExecuteStage_8cpp.html" title="This file defines the execution stage of an instruction pipeline. " alt="" coords="542,370,767,397"/>
+<area shape="rect" id="node11" href="$InstructionTables_8cpp.html" title="This file implements the method InstructionTables::execute(). " alt="" coords="792,363,971,404"/>
+<area shape="rect" id="node15" href="$RetireStage_8cpp.html" title="This file defines the retire stage of an instruction pipeline. " alt="" coords="1343,281,1555,307"/>
+<area shape="rect" id="node18" href="$DispatchStage_8h.html" title="This file models the dispatch component of an instruction pipeline. " alt="" coords="1627,184,1797,225"/>
+<area shape="rect" id="node19" href="$RegisterFile_8cpp.html" title="This file defines a register mapping file class. " alt="" coords="1443,184,1603,225"/>
+<area shape="rect" id="node21" href="$RetireControlUnit_8cpp.html" title="This file simulates the hardware responsible for retiring instructions. " alt="" coords="1872,184,2032,225"/>
+</map>

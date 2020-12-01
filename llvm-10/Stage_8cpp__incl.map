@@ -1,0 +1,31 @@
+<map id="lib/MCA/Stages/Stage.cpp" name="lib/MCA/Stages/Stage.cpp">
+<area shape="rect" id="node2" href="$Stage_8h.html" title="This file defines a stage. " alt="" coords="1027,80,1202,107"/>
+<area shape="rect" id="node3" href="$HWEventListener_8h.html" title="This file defines the main interface for hardware event listeners. " alt="" coords="839,155,1038,181"/>
+<area shape="rect" id="node42" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="2812,304,2951,331"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="752,453,896,480"/>
+<area shape="rect" id="node36" href="$MCA_2Instruction_8h.html" title="This file defines abstractions used by the Pipeline to model register reads, register writes and inst..." alt="" coords="1275,379,1431,405"/>
+<area shape="rect" id="node40" href="$MCA_2Support_8h.html" title="Helper functions used by various pipeline components. " alt="" coords="903,229,1043,256"/>
+<area shape="rect" id="node5" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="589,603,729,629"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="517,752,680,779"/>
+<area shape="rect" id="node14" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="316,677,439,704"/>
+<area shape="rect" id="node15" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1564,528,1727,555"/>
+<area shape="rect" id="node27" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2836,528,2991,555"/>
+<area shape="rect" id="node6" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2397,677,2587,704"/>
+<area shape="rect" id="node9" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="513,677,684,704"/>
+<area shape="rect" id="node16" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="2832,677,3003,704"/>
+<area shape="rect" id="node18" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2589,603,2742,629"/>
+<area shape="rect" id="node20" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1159,603,1337,629"/>
+<area shape="rect" id="node22" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="2295,603,2463,629"/>
+<area shape="rect" id="node28" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="373,603,513,629"/>
+<area shape="rect" id="node29" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="3071,603,3203,629"/>
+<area shape="rect" id="node37" href="$MCRegister_8h.html" title="llvm/MC/MCRegister.h" alt="" coords="1339,453,1495,480"/>
+<area shape="rect" id="node38" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="3506,453,3691,480"/>
+<area shape="rect" id="node41" href="$MCSchedule_8h.html" title="llvm/MC/MCSchedule.h" alt="" coords="362,379,523,405"/>
+<area shape="rect" id="node43" href="$c_2Error_8h.html" title="llvm&#45;c/Error.h" alt="" coords="2149,379,2249,405"/>
+<area shape="rect" id="node45" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="4421,379,4585,405"/>
+<area shape="rect" id="node46" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="3839,453,3966,480"/>
+<area shape="rect" id="node47" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="2273,379,2421,405"/>
+<area shape="rect" id="node48" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer. " alt="" coords="4092,528,4244,555"/>
+<area shape="rect" id="node49" href="$Format_8h.html" title="llvm/Support/Format.h" alt="" coords="2919,379,3070,405"/>
+<area shape="rect" id="node44" href="$ExternC_8h.html" title="llvm&#45;c/ExternC.h" alt="" coords="2143,453,2263,480"/>
+</map>

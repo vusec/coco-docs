@@ -1,0 +1,14 @@
+<map id="llvm::bfi_detail::IrreducibleGraph" name="llvm::bfi_detail::IrreducibleGraph">
+<area shape="rect" id="node2" href="$classllvm_1_1SmallDenseMap.html" title="llvm::SmallDenseMap\l\&lt; uint32_t, llvm::bfi\l_detail::IrreducibleGraph\l::IrrNode *, 4 \&gt;" alt="" coords="1489,218,1651,289"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; SmallDenseMap\&lt; uint32\l_t, llvm::bfi_detail::Irreducible\lGraph::IrrNode *, InlineBuckets,\l DenseMapInfo\&lt; uint32_t \&gt;, llvm\l::detail::DenseMapPair\&lt; uint32_t,\l llvm::bfi_detail::IrreducibleGraph\l::IrrNode *\&gt; \&gt;, uint32_t, llvm::bfi\l_detail::IrreducibleGraph::IrrNode *,\l DenseMapInfo\&lt; uint32_t \&gt;, llvm::detail\l::DenseMapPair\&lt; uint32_t, llvm::bfi_detail\l::IrreducibleGraph::IrrNode *\&gt; \&gt;" alt="" coords="727,34,993,222"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DebugEpochBase.html" title="A base class for data structure classes wishing to make iterators (&quot;handles&quot;) pointing into themselve..." alt="" coords="5,200,164,227"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DerivedT, KeyT, ValueT,\l KeyInfoT, BucketT \&gt;" alt="" coords="213,185,392,241"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; SmallDenseMap\&lt; KeyT,\l ValueT, InlineBuckets,\l KeyInfoT, BucketT \&gt;, KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="761,247,959,332"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallDenseMap.html" title="llvm::SmallDenseMap\l\&lt; KeyT, ValueT, InlineBuckets,\l KeyInfoT, BucketT \&gt;" alt="" coords="1080,225,1285,281"/>
+<area shape="rect" id="node8" href="$structllvm_1_1bfi__detail_1_1IrreducibleGraph_1_1IrrNode.html" title="llvm::bfi_detail::Irreducible\lGraph::IrrNode" alt="" coords="1483,378,1657,419"/>
+<area shape="rect" id="node10" href="$structllvm_1_1BlockFrequencyInfoImplBase_1_1BlockNode.html" title="Representative of a block. " alt="" coords="1097,437,1268,478"/>
+<area shape="rect" id="node11" href="$classuint32__t.html" title="uint32_t" alt="" coords="826,444,894,471"/>
+<area shape="rect" id="node12" href="$classunsigned.html" title="unsigned" alt="" coords="1145,305,1220,332"/>
+<area shape="rect" id="node13" href="$classllvm_1_1BlockFrequencyInfoImplBase.html" title="Base class for BlockFrequencyInfoImpl. " alt="" coords="1485,545,1655,586"/>
+<area shape="rect" id="node14" href="$classllvm_1_1SparseBitVector.html" title="llvm::SparseBitVector\l\&lt; ElementSize \&gt;" alt="" coords="1108,633,1257,674"/>
+</map>

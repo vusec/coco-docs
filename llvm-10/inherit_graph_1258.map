@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structllvm_1_1APFloatBase.html" title="A self&#45;contained host&#45; and target&#45;independent arbitrary&#45;precision floating&#45;point software implementat..." alt="" coords="5,56,136,83"/>
+<area shape="rect" id="node2" href="$classllvm_1_1APFloat.html" title="llvm::APFloat" alt="" coords="224,5,325,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1detail_1_1DoubleAPFloat.html" title="llvm::detail::DoubleAPFloat" alt="" coords="184,56,365,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1detail_1_1IEEEFloat.html" title="llvm::detail::IEEEFloat" alt="" coords="198,107,351,133"/>
+</map>

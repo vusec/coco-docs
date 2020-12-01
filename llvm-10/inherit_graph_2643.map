@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l ObjectSizeOffsetVisitor,\l SizeOffsetType \&gt;" alt="" coords="5,5,172,61"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ObjectSizeOffsetVisitor.html" title="Evaluate the size and offset of an object pointed to by a Value* statically. " alt="" coords="220,20,411,47"/>
+</map>

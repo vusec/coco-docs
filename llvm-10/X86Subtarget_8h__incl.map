@@ -1,0 +1,36 @@
+<map id="lib/Target/X86/X86Subtarget.h" name="lib/Target/X86/X86Subtarget.h">
+<area shape="rect" id="node2" href="$X86FrameLowering_8h.html" title="X86FrameLowering.h" alt="" coords="154,155,299,181"/>
+<area shape="rect" id="node6" href="$X86ISelLowering_8h.html" title="X86ISelLowering.h" alt="" coords="2517,80,2648,107"/>
+<area shape="rect" id="node23" href="$CallingConv_8h.html" title="llvm/IR/CallingConv.h" alt="" coords="1577,490,1727,517"/>
+<area shape="rect" id="node32" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="4089,490,4236,517"/>
+<area shape="rect" id="node34" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="494,229,682,256"/>
+<area shape="rect" id="node35" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="526,311,650,338"/>
+<area shape="rect" id="node37" href="$X86InstrInfo_8h.html" title="X86InstrInfo.h" alt="" coords="1084,311,1188,338"/>
+<area shape="rect" id="node43" href="$X86SelectionDAGInfo_8h.html" title="X86SelectionDAGInfo.h" alt="" coords="4406,490,4567,517"/>
+<area shape="rect" id="node45" href="$CallLowering_8h.html" title="This file describes how to lower LLVM calls to machine code calls. " alt="" coords="1854,304,2023,345"/>
+<area shape="rect" id="node46" href="$InstructionSelector_8h.html" title="llvm/CodeGen/GlobalISel\l/InstructionSelector.h" alt="" coords="2782,483,2951,524"/>
+<area shape="rect" id="node47" href="$LegalizerInfo_8h.html" title="llvm/CodeGen/GlobalISel\l/LegalizerInfo.h" alt="" coords="3230,483,3399,524"/>
+<area shape="rect" id="node48" href="$RegisterBankInfo_8h.html" title="llvm/CodeGen/GlobalISel\l/RegisterBankInfo.h" alt="" coords="3423,483,3593,524"/>
+<area shape="rect" id="node49" href="$TargetSubtargetInfo_8h.html" title="llvm/CodeGen/TargetSubtarget\lInfo.h" alt="" coords="3640,393,3843,435"/>
+<area shape="rect" id="node3" href="$TargetFrameLowering_8h.html" title="llvm/CodeGen/TargetFrame\lLowering.h" alt="" coords="246,483,429,524"/>
+<area shape="rect" id="node7" href="$CallingConvLower_8h.html" title="llvm/CodeGen/CallingConv\lLower.h" alt="" coords="1977,393,2157,435"/>
+<area shape="rect" id="node25" href="$SelectionDAG_8h.html" title="llvm/CodeGen/SelectionDAG.h" alt="" coords="2485,401,2688,427"/>
+<area shape="rect" id="node31" href="$TargetLowering_8h.html" title="This file describes how to lower LLVM code to machine code. " alt="" coords="2242,155,2451,181"/>
+<area shape="rect" id="node8" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3459,579,3621,606"/>
+<area shape="rect" id="node19" href="$TargetCallingConv_8h.html" title="llvm/CodeGen/TargetCalling\lConv.h" alt="" coords="1061,483,1248,524"/>
+<area shape="rect" id="node24" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="2305,579,2484,606"/>
+<area shape="rect" id="node9" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3117,661,3288,688"/>
+<area shape="rect" id="node10" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3840,736,4003,763"/>
+<area shape="rect" id="node11" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1912,661,2101,688"/>
+<area shape="rect" id="node20" href="$MachineValueType_8h.html" title="llvm/Support/MachineValue\lType.h" alt="" coords="1764,572,1945,613"/>
+<area shape="rect" id="node26" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="3820,490,3964,517"/>
+<area shape="rect" id="node30" href="$ISDOpcodes_8h.html" title="llvm/CodeGen/ISDOpcodes.h" alt="" coords="2005,490,2200,517"/>
+<area shape="rect" id="node27" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3229,579,3384,606"/>
+<area shape="rect" id="node33" href="$CallSite_8h.html" title="llvm/IR/CallSite.h" alt="" coords="1573,401,1699,427"/>
+<area shape="rect" id="node36" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="555,401,682,427"/>
+<area shape="rect" id="node38" href="$X86BaseInfo_8h.html" title="MCTargetDesc/X86BaseInfo.h" alt="" coords="1374,579,1575,606"/>
+<area shape="rect" id="node39" href="$X86InstrFMA3Info_8h.html" title="X86InstrFMA3Info.h" alt="" coords="560,579,699,606"/>
+<area shape="rect" id="node40" href="$X86RegisterInfo_8h.html" title="X86RegisterInfo.h" alt="" coords="1321,401,1447,427"/>
+<area shape="rect" id="node41" href="$TargetInstrInfo_8h.html" title="llvm/CodeGen/TargetInstr\lInfo.h" alt="" coords="961,393,1133,435"/>
+<area shape="rect" id="node44" href="$SelectionDAGTargetInfo_8h.html" title="llvm/CodeGen/SelectionDAGTarget\lInfo.h" alt="" coords="4557,572,4787,613"/>
+</map>

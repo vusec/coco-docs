@@ -1,0 +1,47 @@
+<map id="llvm::InnerLoopVectorizer" name="llvm::InnerLoopVectorizer">
+<area shape="rect" id="node3" href="$classllvm_1_1AssumptionCache.html" title="A cache of @llvm.assume calls within a function. " alt="" coords="1007,92,1169,119"/>
+<area shape="rect" id="node40" href="$classllvm_1_1LoopVectorizationCostModel.html" title="LoopVectorizationCostModel &#45; estimates the expected speedups due to vectorization. " alt="" coords="1428,567,1615,609"/>
+<area shape="rect" id="node4" href="$classllvm_1_1IRBuilder.html" title="This provides a uniform API for creating instructions and inserting them into a basic block: either a..." alt="" coords="1455,1281,1587,1322"/>
+<area shape="rect" id="node5" href="$classllvm_1_1IRBuilderBase.html" title="Common base class shared among various IRBuilders. " alt="" coords="1019,1275,1157,1301"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; llvm\l::OperandBundleDefT \&gt;" alt="" coords="557,1547,717,1589"/>
+<area shape="rect" id="node9" href="$classllvm_1_1BasicBlock.html" title="LLVM Basic Block Representation. " alt="" coords="577,1232,697,1259"/>
+<area shape="rect" id="node10" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="297,1085,383,1112"/>
+<area shape="rect" id="node11" href="$classunsigned.html" title="unsigned" alt="" coords="5,1092,80,1119"/>
+<area shape="rect" id="node31" href="$classllvm_1_1DominatorTreeBase.html" title="llvm::DominatorTreeBase\l\&lt; BasicBlock, false \&gt;" alt="" coords="1003,1139,1173,1181"/>
+<area shape="rect" id="node12" href="$classllvm_1_1ilist__node__with__parent.html" title="llvm::ilist_node_with\l_parent\&lt; BasicBlock,\l Function \&gt;" alt="" coords="267,1217,413,1273"/>
+<area shape="rect" id="node13" href="$classbool.html" title="bool" alt="" coords="614,1181,661,1208"/>
+<area shape="rect" id="node14" href="$classllvm_1_1LLVMContext.html" title="This is an important class for using LLVM in a threaded context. " alt="" coords="570,1395,705,1421"/>
+<area shape="rect" id="node16" href="$classllvm_1_1Inserter.html" title="Inserter" alt="" coords="1055,1325,1121,1352"/>
+<area shape="rect" id="node17" href="$structllvm_1_1VectorizerValueMap.html" title="This is a helper struct for maintaining vectorization state. " alt="" coords="1436,1347,1607,1373"/>
+<area shape="rect" id="node18" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::PHINode *, 8 \&gt;" alt="" coords="1447,1419,1595,1461"/>
+<area shape="rect" id="node19" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; llvm::PHINode * \&gt;" alt="" coords="1013,1377,1163,1418"/>
+<area shape="rect" id="node20" href="$structllvm_1_1SmallVectorStorage.html" title="llvm::SmallVectorStorage\l\&lt; llvm::PHINode *, N \&gt;" alt="" coords="1003,1442,1173,1483"/>
+<area shape="rect" id="node21" href="$classllvm_1_1SmallVector.html" title="This is a &#39;vector&#39; (really, a variable&#45;sized array), optimized for the case when the array is small..." alt="" coords="1021,1638,1155,1679"/>
+<area shape="rect" id="node34" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::BasicBlock *, 4 \&gt;" alt="" coords="1441,1529,1601,1570"/>
+<area shape="rect" id="node46" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::Instruction *, 4 \&gt;" alt="" coords="1444,1655,1599,1697"/>
+<area shape="rect" id="node22" href="$classllvm_1_1AAResults.html" title="llvm::AAResults" alt="" coords="1463,1721,1580,1748"/>
+<area shape="rect" id="node23" href="$classllvm_1_1Loop.html" title="Represents a single loop in the control flow graph. " alt="" coords="1047,893,1129,920"/>
+<area shape="rect" id="node24" href="$classllvm_1_1LoopBase.html" title="llvm::LoopBase\&lt; BasicBlock,\l Loop \&gt;" alt="" coords="540,886,735,927"/>
+<area shape="rect" id="node25" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::PHINode *, llvm::Value *\&gt;" alt="" coords="1430,1886,1613,1927"/>
+<area shape="rect" id="node26" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; llvm::PHINode\l *, llvm::Value *, DenseMapInfo\l\&lt; llvm::PHINode *\&gt;, llvm::detail\l::DenseMapPair\&lt; llvm::PHINode *,\l llvm::Value *\&gt; \&gt;, llvm::PHINode\l *, llvm::Value *, DenseMapInfo\&lt; llvm\l::PHINode *\&gt;, llvm::detail::DenseMapPair\l\&lt; llvm::PHINode *, llvm::Value *\&gt; \&gt;" alt="" coords="955,1835,1221,1979"/>
+<area shape="rect" id="node27" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="989,2003,1187,2045"/>
+<area shape="rect" id="node28" href="$classllvm_1_1OptimizationRemarkEmitter.html" title="The optimization diagnostic interface. " alt="" coords="1001,209,1175,250"/>
+<area shape="rect" id="node29" href="$classllvm_1_1TargetLibraryInfo.html" title="Provides information about what library functions are available for the current target. " alt="" coords="1012,303,1164,329"/>
+<area shape="rect" id="node30" href="$classllvm_1_1DominatorTree.html" title="Concrete subclass of DominatorTreeBase that is used to compute a normal dominator tree..." alt="" coords="1451,1128,1591,1155"/>
+<area shape="rect" id="node32" href="$classllvm_1_1PredicatedScalarEvolution.html" title="An interface layer with SCEV used to manage how we see SCEV expressions for values in the context of ..." alt="" coords="985,408,1191,435"/>
+<area shape="rect" id="node33" href="$classllvm_1_1LoopVectorizationLegality.html" title="LoopVectorizationLegality checks if it is legal to vectorize a loop, and to what vectorization factor..." alt="" coords="987,156,1189,183"/>
+<area shape="rect" id="node35" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; llvm::BasicBlock * \&gt;" alt="" coords="1011,1573,1165,1614"/>
+<area shape="rect" id="node36" href="$structllvm_1_1SmallVectorStorage.html" title="llvm::SmallVectorStorage\l\&lt; llvm::BasicBlock *, N \&gt;" alt="" coords="1003,1507,1173,1549"/>
+<area shape="rect" id="node37" href="$classllvm_1_1TargetTransformInfo.html" title="This pass provides access to the codegen interfaces that are needed for IR&#45;level transformations. " alt="" coords="1002,755,1174,781"/>
+<area shape="rect" id="node38" href="$classllvm_1_1LoopInfo.html" title="llvm::LoopInfo" alt="" coords="1036,820,1140,847"/>
+<area shape="rect" id="node39" href="$classllvm_1_1LoopInfoBase.html" title="llvm::LoopInfoBase\l\&lt; BasicBlock, Loop \&gt;" alt="" coords="563,813,711,854"/>
+<area shape="rect" id="node41" href="$classllvm_1_1LoopVectorizeHints.html" title="Utility class for getting and setting loop vectorizer hints in the form of loop metadata. " alt="" coords="1004,597,1172,624"/>
+<area shape="rect" id="node42" href="$classllvm_1_1DemandedBits.html" title="llvm::DemandedBits" alt="" coords="1018,648,1158,675"/>
+<area shape="rect" id="node43" href="$classllvm_1_1Function.html" title="llvm::Function" alt="" coords="1036,699,1140,725"/>
+<area shape="rect" id="node44" href="$classllvm_1_1InterleavedAccessInfo.html" title="Drive the analysis of interleaved memory accesses in the loop. " alt="" coords="996,480,1180,507"/>
+<area shape="rect" id="node45" href="$classllvm_1_1SmallPtrSet.html" title="llvm::SmallPtrSet\&lt;\l const llvm::Value *, 16 \&gt;" alt="" coords="1003,531,1173,573"/>
+<area shape="rect" id="node47" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; llvm::Instruction * \&gt;" alt="" coords="1013,1703,1163,1745"/>
+<area shape="rect" id="node48" href="$structllvm_1_1SmallVectorStorage.html" title="llvm::SmallVectorStorage\l\&lt; llvm::Instruction *, N \&gt;" alt="" coords="1003,1769,1173,1810"/>
+<area shape="rect" id="node49" href="$classllvm_1_1PHINode.html" title="llvm::PHINode" alt="" coords="1467,2011,1575,2037"/>
+<area shape="rect" id="node50" href="$classllvm_1_1Instruction.html" title="llvm::Instruction" alt="" coords="1031,2069,1145,2096"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="include/llvm/Frontend/OpenMP/OMPConstants.h" name="include/llvm/Frontend/OpenMP/OMPConstants.h">
+<area shape="rect" id="node2" href="$BitmaskEnum_8h.html" title="llvm/ADT/BitmaskEnum.h" alt="" coords="362,184,536,211"/>
+<area shape="rect" id="node23" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="805,102,952,129"/>
+<area shape="rect" id="node6" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="359,259,536,285"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1318,408,1481,435"/>
+<area shape="rect" id="node10" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="286,333,489,360"/>
+<area shape="rect" id="node11" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="300,408,475,435"/>
+<area shape="rect" id="node12" href="$c_2DataTypes_8h.html" title="llvm&#45;c/DataTypes.h" alt="" coords="320,483,456,509"/>
+<area shape="rect" id="node24" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1461,184,1616,211"/>
+<area shape="rect" id="node31" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="2264,333,2434,360"/>
+<area shape="rect" id="node25" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="1639,259,1779,285"/>
+<area shape="rect" id="node30" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1855,259,1987,285"/>
+<area shape="rect" id="node34" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2062,259,2252,285"/>
+<area shape="rect" id="node26" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="1302,333,1425,360"/>
+<area shape="rect" id="node27" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1449,333,1620,360"/>
+</map>

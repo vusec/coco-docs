@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1has__rbegin__impl.html" title="llvm::has_rbegin_impl\l\&lt; std::remove_reference\l\&lt; Ty \&gt;::type \&gt;" alt="" coords="5,5,169,61"/>
+<area shape="rect" id="node2" href="$structllvm_1_1has__rbegin.html" title="Metafunction to determine if T&amp; or T has a member called rbegin(). " alt="" coords="217,20,373,47"/>
+</map>

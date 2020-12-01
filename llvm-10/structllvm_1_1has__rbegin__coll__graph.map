@@ -1,0 +1,5 @@
+<map id="llvm::has_rbegin&lt; Ty &gt;" name="llvm::has_rbegin&lt; Ty &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1has__rbegin__impl.html" title="llvm::has_rbegin_impl\l\&lt; std::remove_reference\l\&lt; Ty \&gt;::type \&gt;" alt="" coords="5,213,169,269"/>
+<area shape="rect" id="node3" href="$classbool.html" title="bool" alt="" coords="64,5,111,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1has__rbegin__impl.html" title="Helper to determine if type T has a member called rbegin(). " alt="" coords="127,95,275,136"/>
+</map>

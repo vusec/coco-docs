@@ -1,0 +1,36 @@
+<map id="lib/Transforms/Utils/LibCallsShrinkWrap.cpp" name="lib/Transforms/Utils/LibCallsShrinkWrap.cpp">
+<area shape="rect" id="node2" href="$LibCallsShrinkWrap_8h.html" title="llvm/Transforms/Utils\l/LibCallsShrinkWrap.h" alt="" coords="2882,184,3034,225"/>
+<area shape="rect" id="node19" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="841,527,971,553"/>
+<area shape="rect" id="node25" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="2434,452,2525,479"/>
+<area shape="rect" id="node27" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1935,527,2098,553"/>
+<area shape="rect" id="node31" href="$Statistic_8h.html" title="llvm/ADT/Statistic.h" alt="" coords="4169,452,4309,479"/>
+<area shape="rect" id="node33" href="$GlobalsModRef_8h.html" title="This is the interface for a simple mod/ref and alias analysis over globals. " alt="" coords="1585,95,1758,136"/>
+<area shape="rect" id="node35" href="$TargetLibraryInfo_8h.html" title="llvm/Analysis/TargetLibrary\lInfo.h" alt="" coords="1883,273,2063,315"/>
+<area shape="rect" id="node39" href="$Instructions_8h.html" title="llvm/IR/Instructions.h" alt="" coords="370,452,517,479"/>
+<area shape="rect" id="node42" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="106,452,245,479"/>
+<area shape="rect" id="node43" href="$IR_2CFG_8h.html" title="This file provides various utilities for inspecting and working with the control flow graph in LLVM I..." alt="" coords="1277,452,1383,479"/>
+<area shape="rect" id="node44" href="$Dominators_8h.html" title="llvm/IR/Dominators.h" alt="" coords="2827,281,2974,307"/>
+<area shape="rect" id="node45" href="$IRBuilder_8h.html" title="llvm/IR/IRBuilder.h" alt="" coords="486,370,619,397"/>
+<area shape="rect" id="node46" href="$LLVMContext_8h.html" title="llvm/IR/LLVMContext.h" alt="" coords="3377,452,3536,479"/>
+<area shape="rect" id="node47" href="$InstVisitor_8h.html" title="llvm/IR/InstVisitor.h" alt="" coords="587,281,726,307"/>
+<area shape="rect" id="node48" href="$MDBuilder_8h.html" title="llvm/IR/MDBuilder.h" alt="" coords="989,370,1129,397"/>
+<area shape="rect" id="node49" href="$InitializePasses_8h.html" title="llvm/InitializePasses.h" alt="" coords="4220,102,4373,129"/>
+<area shape="rect" id="node50" href="$BasicBlockUtils_8h.html" title="llvm/Transforms/Utils\l/BasicBlockUtils.h" alt="" coords="818,363,965,404"/>
+<area shape="rect" id="node3" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM. " alt="" coords="2788,370,2947,397"/>
+<area shape="rect" id="node4" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2837,527,2991,553"/>
+<area shape="rect" id="node22" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="1763,452,1884,479"/>
+<area shape="rect" id="node5" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1695,601,1848,628"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2210,751,2373,777"/>
+<area shape="rect" id="node9" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3316,601,3493,628"/>
+<area shape="rect" id="node14" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2542,601,2713,628"/>
+<area shape="rect" id="node20" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1195,601,1366,628"/>
+<area shape="rect" id="node23" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2173,527,2313,553"/>
+<area shape="rect" id="node28" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="1873,601,2041,628"/>
+<area shape="rect" id="node29" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="39,676,229,703"/>
+<area shape="rect" id="node34" href="$AliasAnalysis_8h.html" title="llvm/Analysis/AliasAnalysis.h" alt="" coords="2027,191,2222,218"/>
+<area shape="rect" id="node40" href="$CallGraph_8h.html" title="This file provides interfaces used to build and manipulate a call graph, which is a very useful tool ..." alt="" coords="2478,281,2651,307"/>
+<area shape="rect" id="node41" href="$ValueHandle_8h.html" title="llvm/IR/ValueHandle.h" alt="" coords="693,452,847,479"/>
+<area shape="rect" id="node36" href="$BitVector_8h.html" title="llvm/ADT/BitVector.h" alt="" coords="3103,527,3250,553"/>
+<area shape="rect" id="node37" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="1760,370,1884,397"/>
+<area shape="rect" id="node38" href="$CallSite_8h.html" title="llvm/IR/CallSite.h" alt="" coords="1357,370,1482,397"/>
+</map>

@@ -1,0 +1,43 @@
+<map id="lib/Target/PowerPC/PPCTargetMachine.cpp" name="lib/Target/PowerPC/PPCTargetMachine.cpp">
+<area shape="rect" id="node2" href="$PPCTargetMachine_8h.html" title="PPCTargetMachine.h" alt="" coords="1825,184,1972,211"/>
+<area shape="rect" id="node5" href="$PPCSubtarget_8h.html" title="PPCSubtarget.h" alt="" coords="2208,259,2325,285"/>
+<area shape="rect" id="node7" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2125,765,2280,792"/>
+<area shape="rect" id="node8" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3695,840,3835,867"/>
+<area shape="rect" id="node17" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1968,691,2115,717"/>
+<area shape="rect" id="node19" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="2507,609,2631,635"/>
+<area shape="rect" id="node20" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="1309,609,1456,635"/>
+<area shape="rect" id="node22" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="2707,609,2797,635"/>
+<area shape="rect" id="node23" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="3847,609,4012,635"/>
+<area shape="rect" id="node24" href="$TargetOptions_8h.html" title="llvm/Target/TargetOptions.h" alt="" coords="2248,609,2432,635"/>
+<area shape="rect" id="node27" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="1734,609,1869,635"/>
+<area shape="rect" id="node28" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="1630,519,1759,546"/>
+<area shape="rect" id="node34" href="$PPCMCTargetDesc_8h.html" title="MCTargetDesc/PPCMCTarget\lDesc.h" alt="" coords="595,601,797,643"/>
+<area shape="rect" id="node36" href="$PPC_8h.html" title="PPC.h" alt="" coords="3851,184,3912,211"/>
+<area shape="rect" id="node37" href="$PPCMachineScheduler_8h.html" title="PPCMachineScheduler.h" alt="" coords="3161,184,3329,211"/>
+<area shape="rect" id="node38" href="$MachineScheduler_8h.html" title="llvm/CodeGen/MachineScheduler.h" alt="" coords="2817,519,3044,546"/>
+<area shape="rect" id="node39" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="3125,609,3320,635"/>
+<area shape="rect" id="node40" href="$PPCTargetObjectFile_8h.html" title="PPCTargetObjectFile.h" alt="" coords="1085,430,1243,457"/>
+<area shape="rect" id="node42" href="$TargetLoweringObjectFile_8h.html" title="llvm/Target/TargetLowering\lObjectFile.h" alt="" coords="1003,601,1183,643"/>
+<area shape="rect" id="node43" href="$PPCTargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the PPC target machine..." alt="" coords="1743,102,1921,129"/>
+<area shape="rect" id="node44" href="$TargetTransformInfo_8h.html" title="This pass exposes codegen information to IR&#45;level passes. " alt="" coords="2959,423,3159,464"/>
+<area shape="rect" id="node46" href="$PowerPCTargetInfo_8h.html" title="TargetInfo/PowerPCTarget\lInfo.h" alt="" coords="4271,95,4449,136"/>
+<area shape="rect" id="node47" href="$CodeGen_2Passes_8h.html" title="llvm/CodeGen/Passes.h" alt="" coords="3335,259,3499,285"/>
+<area shape="rect" id="node48" href="$TargetPassConfig_8h.html" title="llvm/CodeGen/TargetPassConfig.h" alt="" coords="3219,519,3445,546"/>
+<area shape="rect" id="node49" href="$TargetRegistry_8h.html" title="llvm/Support/TargetRegistry.h" alt="" coords="3469,519,3665,546"/>
+<area shape="rect" id="node50" href="$Transforms_2Scalar_8h.html" title="llvm/Transforms/Scalar.h" alt="" coords="4473,102,4641,129"/>
+<area shape="rect" id="node3" href="$PPCInstrInfo_8h.html" title="PPCInstrInfo.h" alt="" coords="759,430,868,457"/>
+<area shape="rect" id="node16" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="2147,519,2335,546"/>
+<area shape="rect" id="node6" href="$PPCFrameLowering_8h.html" title="PPCFrameLowering.h" alt="" coords="2166,430,2317,457"/>
+<area shape="rect" id="node25" href="$PPCISelLowering_8h.html" title="PPCISelLowering.h" alt="" coords="1825,341,1961,367"/>
+<area shape="rect" id="node30" href="$SelectionDAGTargetInfo_8h.html" title="llvm/CodeGen/SelectionDAGTarget\lInfo.h" alt="" coords="2708,333,2937,375"/>
+<area shape="rect" id="node31" href="$TargetSubtargetInfo_8h.html" title="llvm/CodeGen/TargetSubtarget\lInfo.h" alt="" coords="3689,512,3892,553"/>
+<area shape="rect" id="node32" href="$MCInstrItineraries_8h.html" title="llvm/MC/MCInstrItineraries.h" alt="" coords="2138,341,2329,367"/>
+<area shape="rect" id="node9" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="3813,915,3936,941"/>
+<area shape="rect" id="node10" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1748,989,1911,1016"/>
+<area shape="rect" id="node11" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="3547,915,3717,941"/>
+<area shape="rect" id="node21" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="291,691,469,717"/>
+<area shape="rect" id="node26" href="$TargetLowering_8h.html" title="This file describes how to lower LLVM code to machine code. " alt="" coords="1590,430,1799,457"/>
+<area shape="rect" id="node29" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="837,765,1016,792"/>
+<area shape="rect" id="node41" href="$TargetLoweringObjectFileImpl_8h.html" title="llvm/CodeGen/TargetLowering\lObjectFileImpl.h" alt="" coords="901,512,1099,553"/>
+<area shape="rect" id="node45" href="$BasicTTIImpl_8h.html" title="This file provides a helper that implements much of the TTI interface in terms of the target&#45;independ..." alt="" coords="1451,341,1650,367"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="lib/MC/MCObjectStreamer.cpp" name="lib/MC/MCObjectStreamer.cpp">
+<area shape="rect" id="node2" href="$MCObjectStreamer_8h.html" title="llvm/MC/MCObjectStreamer.h" alt="" coords="2374,155,2573,181"/>
+<area shape="rect" id="node7" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1147,692,1336,719"/>
+<area shape="rect" id="node16" href="$MCAssembler_8h.html" title="llvm/MC/MCAssembler.h" alt="" coords="2203,229,2373,256"/>
+<area shape="rect" id="node18" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3216,617,3371,644"/>
+<area shape="rect" id="node31" href="$MCDwarf_8h.html" title="llvm/MC/MCDwarf.h" alt="" coords="1042,304,1185,331"/>
+<area shape="rect" id="node33" href="$MCSection_8h.html" title="llvm/MC/MCSection.h" alt="" coords="399,379,550,405"/>
+<area shape="rect" id="node36" href="$MCExpr_8h.html" title="llvm/MC/MCExpr.h" alt="" coords="1918,617,2053,644"/>
+<area shape="rect" id="node39" href="$MCSymbol_8h.html" title="llvm/MC/MCSymbol.h" alt="" coords="1362,379,1513,405"/>
+<area shape="rect" id="node42" href="$MCAsmBackend_8h.html" title="llvm/MC/MCAsmBackend.h" alt="" coords="2006,379,2191,405"/>
+<area shape="rect" id="node44" href="$MCCodeEmitter_8h.html" title="llvm/MC/MCCodeEmitter.h" alt="" coords="4609,80,4789,107"/>
+<area shape="rect" id="node45" href="$MCCodeView_8h.html" title="llvm/MC/MCCodeView.h" alt="" coords="4223,80,4390,107"/>
+<area shape="rect" id="node47" href="$MCContext_8h.html" title="llvm/MC/MCContext.h" alt="" coords="3358,229,3511,256"/>
+<area shape="rect" id="node49" href="$MCObjectWriter_8h.html" title="llvm/MC/MCObjectWriter.h" alt="" coords="1859,461,2039,487"/>
+<area shape="rect" id="node50" href="$Support_2SourceMgr_8h.html" title="llvm/Support/SourceMgr.h" alt="" coords="3928,461,4101,487"/>
+<area shape="rect" id="node3" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3547,617,3709,644"/>
+<area shape="rect" id="node41" href="$MCStreamer_8h.html" title="llvm/MC/MCStreamer.h" alt="" coords="2469,304,2629,331"/>
+<area shape="rect" id="node4" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3815,767,3985,793"/>
+<area shape="rect" id="node17" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="4232,543,4376,569"/>
+<area shape="rect" id="node20" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="4217,692,4349,719"/>
+<area shape="rect" id="node27" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="2459,692,2621,719"/>
+<area shape="rect" id="node28" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2368,543,2515,569"/>
+<area shape="rect" id="node29" href="$BinaryFormat_2MachO_8h.html" title="llvm/BinaryFormat/MachO.h" alt="" coords="729,304,914,331"/>
+<area shape="rect" id="node30" href="$MCDirectives_8h.html" title="llvm/MC/MCDirectives.h" alt="" coords="2699,461,2866,487"/>
+<area shape="rect" id="node34" href="$MCFragment_8h.html" title="llvm/MC/MCFragment.h" alt="" coords="1469,461,1632,487"/>
+<area shape="rect" id="node35" href="$MCFixup_8h.html" title="llvm/MC/MCFixup.h" alt="" coords="1451,543,1589,569"/>
+<area shape="rect" id="node38" href="$MCLinkerOptimizationHint_8h.html" title="llvm/MC/MCLinkerOptimization\lHint.h" alt="" coords="2369,453,2573,495"/>
+<area shape="rect" id="node40" href="$VersionTuple_8h.html" title="Defines the llvm::VersionTuple class, which represents a version in the form major[.minor[.subminor]]. " alt="" coords="853,461,1040,487"/>
+<area shape="rect" id="node19" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="806,692,946,719"/>
+<area shape="rect" id="node32" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="3094,461,3245,487"/>
+<area shape="rect" id="node37" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="3581,692,3736,719"/>
+<area shape="rect" id="node43" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="2129,617,2279,644"/>
+<area shape="rect" id="node48" href="$SetVector_8h.html" title="llvm/ADT/SetVector.h" alt="" coords="4355,461,4506,487"/>
+</map>

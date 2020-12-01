@@ -1,0 +1,9 @@
+<map id="Types" name="Types">
+<area shape="rect" id="node1" href="$group__LLVMCCoreTypeFloat.html" title="Floating Point Types" alt="" coords="211,5,353,32"/>
+<area shape="rect" id="node3" href="$group__LLVMCCoreTypeFunction.html" title="Function Types" alt="" coords="226,56,338,83"/>
+<area shape="rect" id="node4" href="$group__LLVMCCoreTypeStruct.html" title="These functions relate to LLVMTypeRef instances. " alt="" coords="225,107,339,133"/>
+<area shape="rect" id="node5" href="$group__LLVMCCoreTypeSequential.html" title="Sequential types represents &quot;arrays&quot; of types. " alt="" coords="221,157,343,184"/>
+<area shape="rect" id="node7" href="$group__LLVMCCoreTypeInt.html" title="Functions in this section operate on integer types. " alt="" coords="231,208,333,235"/>
+<area shape="rect" id="node8" href="$group__LLVMCCoreTypeOther.html" title="Other Types" alt="" coords="235,259,329,285"/>
+<area shape="rect" id="node6" href="$group__LLVMCCore.html" title="This modules provide an interface to libLLVMCore, which implements the LLVM intermediate representati..." alt="" coords="5,132,56,159"/>
+</map>

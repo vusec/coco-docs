@@ -1,0 +1,25 @@
+<map id="lib/CodeGen/NonRelocatableStringpool.cpp" name="lib/CodeGen/NonRelocatableStringpool.cpp">
+<area shape="rect" id="node2" href="$NonRelocatableStringpool_8h.html" title="llvm/CodeGen/NonRelocatable\lStringpool.h" alt="" coords="1900,95,2103,136"/>
+<area shape="rect" id="node3" href="$DwarfStringPoolEntry_8h.html" title="llvm/CodeGen/DwarfString\lPoolEntry.h" alt="" coords="1849,184,2028,225"/>
+<area shape="rect" id="node41" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="2085,348,2246,375"/>
+<area shape="rect" id="node4" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="3333,423,3504,449"/>
+<area shape="rect" id="node21" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="1765,273,1915,300"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3785,661,3948,688"/>
+<area shape="rect" id="node8" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="2953,497,3117,539"/>
+<area shape="rect" id="node16" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="3143,587,3313,613"/>
+<area shape="rect" id="node9" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="3073,661,3247,688"/>
+<area shape="rect" id="node10" href="$c_2DataTypes_8h.html" title="llvm&#45;c/DataTypes.h" alt="" coords="3092,736,3228,763"/>
+<area shape="rect" id="node22" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1472,348,1619,375"/>
+<area shape="rect" id="node28" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1027,505,1159,531"/>
+<area shape="rect" id="node29" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="448,587,619,613"/>
+<area shape="rect" id="node34" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2099,587,2288,613"/>
+<area shape="rect" id="node23" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1411,423,1565,449"/>
+<area shape="rect" id="node24" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="4009,505,4149,531"/>
+<area shape="rect" id="node25" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="4020,587,4143,613"/>
+<area shape="rect" id="node42" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2529,423,2692,449"/>
+<area shape="rect" id="node44" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3497,505,3674,531"/>
+<area shape="rect" id="node48" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="2304,505,2472,531"/>
+<area shape="rect" id="node49" href="$Alignment_8h.html" title="llvm/Support/Alignment.h" alt="" coords="4003,423,4171,449"/>
+<area shape="rect" id="node43" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2965,587,3118,613"/>
+<area shape="rect" id="node45" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="3465,587,3668,613"/>
+</map>

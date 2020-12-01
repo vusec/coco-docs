@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; llvm\l::coverage::CounterMappingRegion \&gt;" alt="" coords="5,13,244,54"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MutableArrayRef.html" title="llvm::MutableArrayRef\l\&lt; llvm::coverage::CounterMapping\lRegion \&gt;" alt="" coords="292,5,515,61"/>
+</map>

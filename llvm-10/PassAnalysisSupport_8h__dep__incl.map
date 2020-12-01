@@ -1,0 +1,51 @@
+<map id="include/llvm/PassAnalysisSupport.h" name="include/llvm/PassAnalysisSupport.h">
+<area shape="rect" id="node2" href="$Pass_8h.html" title="include/llvm/Pass.h" alt="" coords="1891,102,2027,129"/>
+<area shape="rect" id="node15" href="$ObjCARCAliasAnalysis_8cpp.html" title="This file defines a simple ARC&#45;aware AliasAnalysis using special knowledge of Objective C to enhance ..." alt="" coords="2653,452,2834,493"/>
+<area shape="rect" id="node19" href="$RegAllocBasic_8cpp.html" title="lib/CodeGen/RegAllocBasic.cpp" alt="" coords="4851,370,5060,397"/>
+<area shape="rect" id="node22" href="$PredicateInfo_8h.html" title="This file implements the PredicateInfo analysis, which creates an Extended SSA form for operations us..." alt="" coords="43,273,204,315"/>
+<area shape="rect" id="node48" href="$ObjCARCExpand_8cpp.html" title="This file defines ObjC ARC optimizations. " alt="" coords="4891,184,5059,225"/>
+<area shape="rect" id="node49" href="$RegUsageInfoPropagate_8cpp.html" title="lib/CodeGen/RegUsageInfo\lPropagate.cpp" alt="" coords="5185,95,5368,136"/>
+<area shape="rect" id="node50" href="$NVPTXAsmPrinter_8h.html" title="lib/Target/NVPTX/NVPTXAsm\lPrinter.h" alt="" coords="5392,95,5593,136"/>
+<area shape="rect" id="node3" href="$AliasAnalysis_8h.html" title="include/llvm/Analysis\l/AliasAnalysis.h" alt="" coords="1497,273,1643,315"/>
+<area shape="rect" id="node4" href="$BasicAliasAnalysis_8h.html" title="This is the interface for LLVM&#39;s primary stateless and local alias analysis. " alt="" coords="614,363,763,404"/>
+<area shape="rect" id="node5" href="$CFLAndersAliasAnalysis_8h.html" title="This is the interface for LLVM&#39;s inclusion&#45;based alias analysis implemented with CFL graph reachabili..." alt="" coords="788,363,971,404"/>
+<area shape="rect" id="node6" href="$CFLSteensAliasAnalysis_8h.html" title="This is the interface for LLVM&#39;s unification&#45;based alias analysis implemented with CFL graph reachabi..." alt="" coords="995,363,1177,404"/>
+<area shape="rect" id="node7" href="$DependenceAnalysis_8h.html" title="include/llvm/Analysis\l/DependenceAnalysis.h" alt="" coords="201,363,361,404"/>
+<area shape="rect" id="node8" href="$LoopCacheAnalysis_8h.html" title="This file defines the interface for the loop cache analysis. " alt="" coords="145,452,299,493"/>
+<area shape="rect" id="node9" href="$GlobalsModRef_8h.html" title="This is the interface for a simple mod/ref and alias analysis over globals. " alt="" coords="1201,363,1347,404"/>
+<area shape="rect" id="node10" href="$LoopAccessAnalysis_8h.html" title="include/llvm/Analysis\l/LoopAccessAnalysis.h" alt="" coords="1423,363,1581,404"/>
+<area shape="rect" id="node11" href="$MemoryDependenceAnalysis_8h.html" title="include/llvm/Analysis\l/MemoryDependenceAnalysis.h" alt="" coords="1657,363,1864,404"/>
+<area shape="rect" id="node12" href="$MemorySSA_8h.html" title="This file exposes an interface to building/using memory SSA to walk memory instructions using a use/d..." alt="" coords="1888,363,2033,404"/>
+<area shape="rect" id="node13" href="$MemorySSAUpdater_8h.html" title="include/llvm/Analysis\l/MemorySSAUpdater.h" alt="" coords="1306,452,1463,493"/>
+<area shape="rect" id="node14" href="$ObjCARCAliasAnalysis_8h.html" title="This file declares a simple ARC&#45;aware AliasAnalysis using special knowledge of Objective C to enhance..." alt="" coords="2057,363,2232,404"/>
+<area shape="rect" id="node16" href="$ObjCARCAnalysisUtils_8h.html" title="This file defines common analysis utilities used by the ObjC ARC Optimizer. " alt="" coords="2657,363,2830,404"/>
+<area shape="rect" id="node17" href="$ScalarEvolutionAliasAnalysis_8h.html" title="This is the interface for a SCEV&#45;based alias analysis. " alt="" coords="2256,363,2463,404"/>
+<area shape="rect" id="node18" href="$ScopedNoAliasAA_8h.html" title="This is the interface for a metadata&#45;based scoped no&#45;alias analysis. " alt="" coords="2487,363,2632,404"/>
+<area shape="rect" id="node20" href="$AssumptionCache_8h.html" title="include/llvm/Analysis\l/AssumptionCache.h" alt="" coords="743,184,888,225"/>
+<area shape="rect" id="node21" href="$TargetTransformInfo_8h.html" title="This pass exposes codegen information to IR&#45;level passes. " alt="" coords="385,363,539,404"/>
+<area shape="rect" id="node23" href="$BlockFrequencyInfo_8h.html" title="include/llvm/Analysis\l/BlockFrequencyInfo.h" alt="" coords="4023,184,4176,225"/>
+<area shape="rect" id="node24" href="$LazyBlockFrequencyInfo_8h.html" title="include/llvm/Analysis\l/LazyBlockFrequencyInfo.h" alt="" coords="4613,363,4794,404"/>
+<area shape="rect" id="node25" href="$OptimizationRemarkEmitter_8h.html" title="include/llvm/Analysis\l/OptimizationRemarkEmitter.h" alt="" coords="3164,273,3363,315"/>
+<area shape="rect" id="node26" href="$BranchProbabilityInfo_8h.html" title="include/llvm/Analysis\l/BranchProbabilityInfo.h" alt="" coords="4604,184,4765,225"/>
+<area shape="rect" id="node27" href="$LazyBranchProbabilityInfo_8h.html" title="include/llvm/Analysis\l/LazyBranchProbabilityInfo.h" alt="" coords="4609,273,4798,315"/>
+<area shape="rect" id="node28" href="$CallGraph_8h.html" title="This file provides interfaces used to build and manipulate a call graph, which is a very useful tool ..." alt="" coords="1124,273,1269,315"/>
+<area shape="rect" id="node29" href="$CallGraphSCCPass_8h.html" title="include/llvm/Analysis\l/CallGraphSCCPass.h" alt="" coords="2201,184,2355,225"/>
+<area shape="rect" id="node30" href="$DemandedBits_8h.html" title="include/llvm/Analysis\l/DemandedBits.h" alt="" coords="2380,184,2525,225"/>
+<area shape="rect" id="node31" href="$DivergenceAnalysis_8h.html" title="include/llvm/Analysis\l/DivergenceAnalysis.h" alt="" coords="2023,184,2176,225"/>
+<area shape="rect" id="node32" href="$LegacyDivergenceAnalysis_8h.html" title="include/llvm/Analysis\l/LegacyDivergenceAnalysis.h" alt="" coords="1987,273,2182,315"/>
+<area shape="rect" id="node33" href="$DominanceFrontier_8h.html" title="include/llvm/Analysis\l/DominanceFrontier.h" alt="" coords="2601,184,2747,225"/>
+<area shape="rect" id="node34" href="$DOTGraphTraitsPass_8h.html" title="include/llvm/Analysis\l/DOTGraphTraitsPass.h" alt="" coords="2771,184,2934,225"/>
+<area shape="rect" id="node35" href="$IntervalPartition_8h.html" title="include/llvm/Analysis\l/IntervalPartition.h" alt="" coords="2959,184,3104,225"/>
+<area shape="rect" id="node36" href="$LazyValueInfo_8h.html" title="include/llvm/Analysis\l/LazyValueInfo.h" alt="" coords="3128,184,3273,225"/>
+<area shape="rect" id="node37" href="$LoopInfo_8h.html" title="include/llvm/Analysis\l/LoopInfo.h" alt="" coords="408,184,553,225"/>
+<area shape="rect" id="node38" href="$LoopPass_8h.html" title="include/llvm/Analysis\l/LoopPass.h" alt="" coords="500,273,645,315"/>
+<area shape="rect" id="node39" href="$ScalarEvolution_8h.html" title="include/llvm/Analysis\l/ScalarEvolution.h" alt="" coords="228,273,373,315"/>
+<area shape="rect" id="node40" href="$ModuleSummaryAnalysis_8h.html" title="This is the interface to build a ModuleSummaryIndex for a module. " alt="" coords="3297,184,3483,225"/>
+<area shape="rect" id="node41" href="$PhiValues_8h.html" title="include/llvm/Analysis\l/PhiValues.h" alt="" coords="3507,184,3652,225"/>
+<area shape="rect" id="node42" href="$PostDominators_8h.html" title="include/llvm/Analysis\l/PostDominators.h" alt="" coords="3676,184,3821,225"/>
+<area shape="rect" id="node43" href="$ProfileSummaryInfo_8h.html" title="include/llvm/Analysis\l/ProfileSummaryInfo.h" alt="" coords="3846,184,3998,225"/>
+<area shape="rect" id="node44" href="$RegionInfo_8h.html" title="include/llvm/Analysis\l/RegionInfo.h" alt="" coords="4435,184,4580,225"/>
+<area shape="rect" id="node45" href="$RegionPass_8h.html" title="include/llvm/Analysis\l/RegionPass.h" alt="" coords="4288,273,4433,315"/>
+<area shape="rect" id="node46" href="$StackSafetyAnalysis_8h.html" title="include/llvm/Analysis\l/StackSafetyAnalysis.h" alt="" coords="4252,184,4411,225"/>
+<area shape="rect" id="node47" href="$TargetLibraryInfo_8h.html" title="include/llvm/Analysis\l/TargetLibraryInfo.h" alt="" coords="1447,184,1592,225"/>
+</map>

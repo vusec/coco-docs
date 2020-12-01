@@ -1,0 +1,32 @@
+<map id="include/llvm/IR/Module.h" name="include/llvm/IR/Module.h">
+<area shape="rect" id="node2" href="$c_2Types_8h.html" title="llvm&#45;c/Types.h" alt="" coords="106,237,214,263"/>
+<area shape="rect" id="node5" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3110,468,3250,495"/>
+<area shape="rect" id="node15" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1943,319,2097,345"/>
+<area shape="rect" id="node17" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="700,468,871,495"/>
+<area shape="rect" id="node30" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="1641,155,1791,181"/>
+<area shape="rect" id="node31" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2407,237,2553,263"/>
+<area shape="rect" id="node36" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="3490,155,3625,181"/>
+<area shape="rect" id="node40" href="$IR_2Comdat_8h.html" title="This file contains the declaration of the Comdat class, which represents a single COMDAT in LLVM..." alt="" coords="167,80,292,107"/>
+<area shape="rect" id="node41" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="124,155,343,181"/>
+<area shape="rect" id="node42" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="4132,155,4279,181"/>
+<area shape="rect" id="node43" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="5143,80,5273,107"/>
+<area shape="rect" id="node44" href="$SymbolTableListTraits_8h.html" title="llvm/IR/SymbolTableListTraits.h" alt="" coords="5362,155,5571,181"/>
+<area shape="rect" id="node45" href="$GlobalAlias_8h.html" title="llvm/IR/GlobalAlias.h" alt="" coords="5723,80,5869,107"/>
+<area shape="rect" id="node46" href="$GlobalIFunc_8h.html" title="llvm/IR/GlobalIFunc.h" alt="" coords="5893,80,6043,107"/>
+<area shape="rect" id="node47" href="$GlobalVariable_8h.html" title="llvm/IR/GlobalVariable.h" alt="" coords="4956,80,5119,107"/>
+<area shape="rect" id="node48" href="$Metadata_8h.html" title="This file contains the declarations for metadata subclasses. " alt="" coords="2524,80,2657,107"/>
+<area shape="rect" id="node49" href="$ProfileSummary_8h.html" title="llvm/IR/ProfileSummary.h" alt="" coords="4354,237,4526,263"/>
+<area shape="rect" id="node50" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="6067,80,6232,107"/>
+<area shape="rect" id="node3" href="$c_2DataTypes_8h.html" title="llvm&#45;c/DataTypes.h" alt="" coords="149,319,285,345"/>
+<area shape="rect" id="node4" href="$ExternC_8h.html" title="llvm&#45;c/ExternC.h" alt="" coords="5,319,125,345"/>
+<area shape="rect" id="node6" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="2811,543,2933,569"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3801,617,3964,644"/>
+<area shape="rect" id="node9" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="3109,543,3280,569"/>
+<area shape="rect" id="node16" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1250,393,1382,420"/>
+<area shape="rect" id="node22" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="3337,393,3527,420"/>
+<area shape="rect" id="node33" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="3154,319,3315,345"/>
+<area shape="rect" id="node35" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="2167,229,2331,271"/>
+<area shape="rect" id="node34" href="$Alignment_8h.html" title="llvm/Support/Alignment.h" alt="" coords="3551,393,3719,420"/>
+<area shape="rect" id="node37" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="3204,237,3348,263"/>
+<area shape="rect" id="node39" href="$FoldingSet_8h.html" title="llvm/ADT/FoldingSet.h" alt="" coords="3423,237,3577,263"/>
+</map>

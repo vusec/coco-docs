@@ -1,0 +1,32 @@
+<map id="include/llvm/DebugInfo/PDB/Native/NativeSymbolEnumerator.h" name="include/llvm/DebugInfo/PDB/Native/NativeSymbolEnumerator.h">
+<area shape="rect" id="node2" href="$CodeView_8h.html" title="llvm/DebugInfo/CodeView\l/CodeView.h" alt="" coords="740,616,915,657"/>
+<area shape="rect" id="node18" href="$NativeRawSymbol_8h.html" title="llvm/DebugInfo/PDB\l/Native/NativeRawSymbol.h" alt="" coords="133,363,321,404"/>
+<area shape="rect" id="node36" href="$NativeSession_8h.html" title="llvm/DebugInfo/PDB\l/Native/NativeSession.h" alt="" coords="2057,95,2221,136"/>
+<area shape="rect" id="node5" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="2204,705,2355,732"/>
+<area shape="rect" id="node6" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="4327,780,4480,807"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3983,855,4146,881"/>
+<area shape="rect" id="node9" href="$Host_8h.html" title="llvm/Support/Host.h" alt="" coords="2050,780,2189,807"/>
+<area shape="rect" id="node11" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="3162,780,3365,807"/>
+<area shape="rect" id="node19" href="$IPDBRawSymbol_8h.html" title="llvm/DebugInfo/PDB\l/IPDBRawSymbol.h" alt="" coords="1037,452,1180,493"/>
+<area shape="rect" id="node20" href="$PDBTypes_8h.html" title="PDBTypes.h" alt="" coords="1256,541,1353,568"/>
+<area shape="rect" id="node22" href="$BitmaskEnum_8h.html" title="llvm/ADT/BitmaskEnum.h" alt="" coords="3139,623,3313,650"/>
+<area shape="rect" id="node27" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3990,623,4153,650"/>
+<area shape="rect" id="node34" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2663,623,2810,650"/>
+<area shape="rect" id="node24" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3497,705,3675,732"/>
+<area shape="rect" id="node28" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="4505,780,4675,807"/>
+<area shape="rect" id="node30" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="3755,780,3926,807"/>
+<area shape="rect" id="node35" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2811,705,2966,732"/>
+<area shape="rect" id="node37" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="3630,459,3785,486"/>
+<area shape="rect" id="node41" href="$TypeIndex_8h.html" title="llvm/DebugInfo/CodeView\l/TypeIndex.h" alt="" coords="2001,452,2176,493"/>
+<area shape="rect" id="node42" href="$IPDBSession_8h.html" title="llvm/DebugInfo/PDB\l/IPDBSession.h" alt="" coords="1609,273,1752,315"/>
+<area shape="rect" id="node45" href="$SymbolCache_8h.html" title="llvm/DebugInfo/PDB\l/Native/SymbolCache.h" alt="" coords="2184,184,2345,225"/>
+<area shape="rect" id="node49" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="3037,541,3175,568"/>
+<area shape="rect" id="node50" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="4852,541,5013,568"/>
+<area shape="rect" id="node38" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="2521,541,2699,568"/>
+<area shape="rect" id="node39" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="1798,623,1971,650"/>
+<area shape="rect" id="node40" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="3675,541,3881,568"/>
+<area shape="rect" id="node43" href="$PDBSymbol_8h.html" title="PDBSymbol.h" alt="" coords="1404,370,1509,397"/>
+<area shape="rect" id="node44" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="2582,705,2737,732"/>
+<area shape="rect" id="node46" href="$TypeDeserializer_8h.html" title="llvm/DebugInfo/CodeView\l/TypeDeserializer.h" alt="" coords="2177,273,2352,315"/>
+<area shape="rect" id="node47" href="$TypeRecord_8h.html" title="llvm/DebugInfo/CodeView\l/TypeRecord.h" alt="" coords="2553,363,2728,404"/>
+</map>

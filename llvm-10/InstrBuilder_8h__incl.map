@@ -1,0 +1,36 @@
+<map id="include/llvm/MCA/InstrBuilder.h" name="include/llvm/MCA/InstrBuilder.h">
+<area shape="rect" id="node2" href="$MCInstrAnalysis_8h.html" title="llvm/MC/MCInstrAnalysis.h" alt="" coords="3297,80,3479,107"/>
+<area shape="rect" id="node28" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="3601,304,3780,331"/>
+<area shape="rect" id="node37" href="$MCInstrInfo_8h.html" title="llvm/MC/MCInstrInfo.h" alt="" coords="3433,155,3588,181"/>
+<area shape="rect" id="node38" href="$MCSubtargetInfo_8h.html" title="llvm/MC/MCSubtargetInfo.h" alt="" coords="4551,304,4737,331"/>
+<area shape="rect" id="node44" href="$MCA_2Instruction_8h.html" title="This file defines abstractions used by the Pipeline to model register reads, register writes and inst..." alt="" coords="3379,379,3535,405"/>
+<area shape="rect" id="node45" href="$MCA_2Support_8h.html" title="Helper functions used by various pipeline components. " alt="" coords="3113,229,3253,256"/>
+<area shape="rect" id="node46" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="1805,304,1944,331"/>
+<area shape="rect" id="node3" href="$MCInst_8h.html" title="llvm/MC/MCInst.h" alt="" coords="3153,453,3282,480"/>
+<area shape="rect" id="node27" href="$MCInstrDesc_8h.html" title="llvm/MC/MCInstrDesc.h" alt="" coords="3345,229,3509,256"/>
+<area shape="rect" id="node4" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2661,603,2824,629"/>
+<area shape="rect" id="node20" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2221,528,2368,555"/>
+<area shape="rect" id="node26" href="$SMLoc_8h.html" title="llvm/Support/SMLoc.h" alt="" coords="3957,528,4107,555"/>
+<area shape="rect" id="node5" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="2007,752,2177,779"/>
+<area shape="rect" id="node8" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1727,677,1881,704"/>
+<area shape="rect" id="node9" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1608,752,1771,779"/>
+<area shape="rect" id="node11" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3885,677,4062,704"/>
+<area shape="rect" id="node15" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1412,677,1601,704"/>
+<area shape="rect" id="node21" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2217,603,2372,629"/>
+<area shape="rect" id="node22" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="2615,677,2747,704"/>
+<area shape="rect" id="node29" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="3763,603,3917,629"/>
+<area shape="rect" id="node30" href="$LaneBitmask_8h.html" title="A common definition of LaneBitmask for use in TableGen and CodeGen. " alt="" coords="2323,379,2485,405"/>
+<area shape="rect" id="node36" href="$MCRegister_8h.html" title="llvm/MC/MCRegister.h" alt="" coords="4530,453,4686,480"/>
+<area shape="rect" id="node31" href="$Format_8h.html" title="llvm/Support/Format.h" alt="" coords="2269,453,2419,480"/>
+<area shape="rect" id="node34" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2595,453,2781,480"/>
+<area shape="rect" id="node32" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="3509,528,3653,555"/>
+<area shape="rect" id="node39" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="3078,379,3202,405"/>
+<area shape="rect" id="node41" href="$MCInstrItineraries_8h.html" title="llvm/MC/MCInstrItineraries.h" alt="" coords="4733,379,4923,405"/>
+<area shape="rect" id="node42" href="$MCSchedule_8h.html" title="llvm/MC/MCSchedule.h" alt="" coords="4863,453,5025,480"/>
+<area shape="rect" id="node43" href="$SubtargetFeature_8h.html" title="llvm/MC/SubtargetFeature.h" alt="" coords="3964,453,4151,480"/>
+<area shape="rect" id="node40" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="2118,453,2245,480"/>
+<area shape="rect" id="node47" href="$c_2Error_8h.html" title="llvm&#45;c/Error.h" alt="" coords="246,379,346,405"/>
+<area shape="rect" id="node48" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="1793,379,1957,405"/>
+<area shape="rect" id="node49" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="370,379,518,405"/>
+<area shape="rect" id="node50" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer. " alt="" coords="1107,603,1259,629"/>
+</map>

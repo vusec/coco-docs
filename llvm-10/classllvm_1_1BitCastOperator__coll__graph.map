@@ -1,0 +1,9 @@
+<map id="llvm::BitCastOperator" name="llvm::BitCastOperator">
+<area shape="rect" id="node2" href="$classllvm_1_1ConcreteOperator.html" title="llvm::ConcreteOperator\l\&lt; Operator, Instruction\l::BitCast \&gt;" alt="" coords="55,468,212,524"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Operator.html" title="This is a utility class that provides an abstraction for the common functionality between Instruction..." alt="" coords="5,357,109,383"/>
+<area shape="rect" id="node4" href="$classllvm_1_1User.html" title="llvm::User" alt="" coords="16,273,99,300"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="14,197,101,224"/>
+<area shape="rect" id="node6" href="$classunsigned.html" title="unsigned" alt="" coords="20,5,95,32"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ConcreteOperator.html" title="A helper template for defining operators for individual opcodes. " alt="" coords="133,349,291,391"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SuperClass.html" title="SuperClass" alt="" coords="167,273,257,300"/>
+</map>

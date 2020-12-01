@@ -1,0 +1,8 @@
+<map id="lib/Target/Mips/MipsISelDAGToDAG.h" name="lib/Target/Mips/MipsISelDAGToDAG.h">
+<area shape="rect" id="node2" href="$Mips16ISelDAGToDAG_8h.html" title="lib/Target/Mips/Mips16ISel\lDAGToDAG.h" alt="" coords="207,95,384,136"/>
+<area shape="rect" id="node4" href="$MipsISelDAGToDAG_8cpp.html" title="lib/Target/Mips/MipsISel\lDAGToDAG.cpp" alt="" coords="614,184,777,225"/>
+<area shape="rect" id="node6" href="$MipsSEISelDAGToDAG_8h.html" title="lib/Target/Mips/MipsSEISel\lDAGToDAG.h" alt="" coords="409,95,590,136"/>
+<area shape="rect" id="node3" href="$Mips16ISelDAGToDAG_8cpp.html" title="lib/Target/Mips/Mips16ISel\lDAGToDAG.cpp" alt="" coords="5,184,183,225"/>
+<area shape="rect" id="node5" href="$MipsTargetMachine_8cpp.html" title="lib/Target/Mips/MipsTarget\lMachine.cpp" alt="" coords="207,184,384,225"/>
+<area shape="rect" id="node7" href="$MipsSEISelDAGToDAG_8cpp.html" title="lib/Target/Mips/MipsSEISel\lDAGToDAG.cpp" alt="" coords="409,184,590,225"/>
+</map>

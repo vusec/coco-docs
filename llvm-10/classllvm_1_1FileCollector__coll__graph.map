@@ -1,0 +1,10 @@
+<map id="llvm::FileCollector" name="llvm::FileCollector">
+<area shape="rect" id="node3" href="$classllvm_1_1vfs_1_1YAMLVFSWriter.html" title="llvm::vfs::YAMLVFSWriter" alt="" coords="1155,56,1332,83"/>
+<area shape="rect" id="node5" href="$classllvm_1_1StringSet.html" title="StringSet &#45; A wrapper for StringMap that provides set&#45;like functionality. " alt="" coords="1144,165,1343,192"/>
+<area shape="rect" id="node6" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; NoneType,\l AllocatorTy \&gt;" alt="" coords="905,154,1095,195"/>
+<area shape="rect" id="node7" href="$classllvm_1_1StringMapImpl.html" title="StringMapImpl &#45; This is the base class of StringMap that is shared among all of its instantiations..." alt="" coords="329,199,468,225"/>
+<area shape="rect" id="node10" href="$classllvm_1_1StringMap.html" title="StringMap &#45; This is an unconventional map that is specialized for handling keys that are &quot;strings&quot;..." alt="" coords="517,191,695,233"/>
+<area shape="rect" id="node11" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; std\l::string \&gt;" alt="" coords="929,219,1071,261"/>
+<area shape="rect" id="node8" href="$classllvm_1_1StringMapEntryBase.html" title="StringMapEntryBase &#45; Shared base class of StringMapEntry instances. " alt="" coords="5,153,180,180"/>
+<area shape="rect" id="node9" href="$classunsigned.html" title="unsigned" alt="" coords="55,243,130,269"/>
+</map>

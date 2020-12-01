@@ -1,0 +1,35 @@
+<map id="lib/DebugInfo/PDB/Native/NativeSymbolEnumerator.cpp" name="lib/DebugInfo/PDB/Native/NativeSymbolEnumerator.cpp">
+<area shape="rect" id="node2" href="$NativeSymbolEnumerator_8h.html" title="llvm/DebugInfo/PDB\l/Native/NativeSymbolEnumerator.h" alt="" coords="3214,95,3442,136"/>
+<area shape="rect" id="node39" href="$SymbolRecord_8h.html" title="llvm/DebugInfo/CodeView\l/SymbolRecord.h" alt="" coords="2391,273,2566,315"/>
+<area shape="rect" id="node48" href="$NativeTypeBuiltin_8h.html" title="llvm/DebugInfo/PDB\l/Native/NativeTypeBuiltin.h" alt="" coords="3453,273,3635,315"/>
+<area shape="rect" id="node49" href="$NativeTypeEnum_8h.html" title="llvm/DebugInfo/PDB\l/Native/NativeTypeEnum.h" alt="" coords="2963,95,3143,136"/>
+<area shape="rect" id="node3" href="$CodeView_8h.html" title="llvm/DebugInfo/CodeView\l/CodeView.h" alt="" coords="3586,616,3761,657"/>
+<area shape="rect" id="node14" href="$NativeRawSymbol_8h.html" title="llvm/DebugInfo/PDB\l/Native/NativeRawSymbol.h" alt="" coords="3301,363,3489,404"/>
+<area shape="rect" id="node31" href="$NativeSession_8h.html" title="llvm/DebugInfo/PDB\l/Native/NativeSession.h" alt="" coords="2895,184,3059,225"/>
+<area shape="rect" id="node6" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="2319,705,2470,732"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="664,855,827,881"/>
+<area shape="rect" id="node15" href="$IPDBRawSymbol_8h.html" title="llvm/DebugInfo/PDB\l/IPDBRawSymbol.h" alt="" coords="3045,452,3187,493"/>
+<area shape="rect" id="node16" href="$PDBTypes_8h.html" title="PDBTypes.h" alt="" coords="3301,541,3398,568"/>
+<area shape="rect" id="node17" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1625,705,1788,732"/>
+<area shape="rect" id="node26" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2780,541,2927,568"/>
+<area shape="rect" id="node18" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3164,780,3335,807"/>
+<area shape="rect" id="node21" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1023,780,1193,807"/>
+<area shape="rect" id="node27" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2519,623,2673,650"/>
+<area shape="rect" id="node28" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="814,705,954,732"/>
+<area shape="rect" id="node30" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="3202,705,3334,732"/>
+<area shape="rect" id="node29" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="515,780,637,807"/>
+<area shape="rect" id="node32" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1193,705,1348,732"/>
+<area shape="rect" id="node33" href="$TypeIndex_8h.html" title="llvm/DebugInfo/CodeView\l/TypeIndex.h" alt="" coords="2642,452,2817,493"/>
+<area shape="rect" id="node34" href="$IPDBSession_8h.html" title="llvm/DebugInfo/PDB\l/IPDBSession.h" alt="" coords="3211,452,3354,493"/>
+<area shape="rect" id="node35" href="$SymbolCache_8h.html" title="llvm/DebugInfo/PDB\l/Native/SymbolCache.h" alt="" coords="2778,273,2939,315"/>
+<area shape="rect" id="node36" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="1651,623,1813,650"/>
+<area shape="rect" id="node38" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="936,541,1075,568"/>
+<area shape="rect" id="node40" href="$APSInt_8h.html" title="llvm/ADT/APSInt.h" alt="" coords="371,541,506,568"/>
+<area shape="rect" id="node42" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1593,541,1737,568"/>
+<area shape="rect" id="node45" href="$CVRecord_8h.html" title="llvm/DebugInfo/CodeView\l/CVRecord.h" alt="" coords="2141,363,2315,404"/>
+<area shape="rect" id="node46" href="$RecordSerialization_8h.html" title="llvm/DebugInfo/CodeView\l/RecordSerialization.h" alt="" coords="2391,452,2566,493"/>
+<area shape="rect" id="node47" href="$BinaryStreamArray_8h.html" title="llvm/Support/BinaryStream\lArray.h" alt="" coords="1653,452,1832,493"/>
+<area shape="rect" id="node41" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="5,705,131,732"/>
+<area shape="rect" id="node43" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="978,705,1118,732"/>
+<area shape="rect" id="node50" href="$TypeVisitorCallbacks_8h.html" title="llvm/DebugInfo/CodeView\l/TypeVisitorCallbacks.h" alt="" coords="1369,184,1543,225"/>
+</map>

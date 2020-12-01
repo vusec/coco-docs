@@ -1,0 +1,36 @@
+<map id="lib/Analysis/InlineCost.cpp" name="lib/Analysis/InlineCost.cpp">
+<area shape="rect" id="node2" href="$InlineCost_8h.html" title="llvm/Analysis/InlineCost.h" alt="" coords="2427,87,2601,114"/>
+<area shape="rect" id="node3" href="$AssumptionCache_8h.html" title="llvm/Analysis/Assumption\lCache.h" alt="" coords="2069,259,2242,300"/>
+<area shape="rect" id="node4" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1315,355,1478,382"/>
+<area shape="rect" id="node18" href="$BlockFrequencyInfo_8h.html" title="llvm/Analysis/BlockFrequency\lInfo.h" alt="" coords="3369,259,3568,300"/>
+<area shape="rect" id="node21" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="935,266,1090,293"/>
+<area shape="rect" id="node27" href="$SetVector_8h.html" title="llvm/ADT/SetVector.h" alt="" coords="951,177,1101,203"/>
+<area shape="rect" id="node28" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="115,355,278,382"/>
+<area shape="rect" id="node29" href="$Statistic_8h.html" title="llvm/ADT/Statistic.h" alt="" coords="3612,87,3752,114"/>
+<area shape="rect" id="node31" href="$Analysis_2CFG_8h.html" title="llvm/Analysis/CFG.h" alt="" coords="3879,87,4021,114"/>
+<area shape="rect" id="node32" href="$CodeMetrics_8h.html" title="llvm/Analysis/CodeMetrics.h" alt="" coords="65,266,254,293"/>
+<area shape="rect" id="node33" href="$ConstantFolding_8h.html" title="llvm/Analysis/ConstantFolding.h" alt="" coords="4046,87,4257,114"/>
+<area shape="rect" id="node34" href="$InstructionSimplify_8h.html" title="llvm/Analysis/Instruction\lSimplify.h" alt="" coords="1409,80,1574,121"/>
+<area shape="rect" id="node35" href="$Operator_8h.html" title="llvm/IR/Operator.h" alt="" coords="2589,266,2719,293"/>
+<area shape="rect" id="node36" href="$LoopInfo_8h.html" title="llvm/Analysis/LoopInfo.h" alt="" coords="746,266,911,293"/>
+<area shape="rect" id="node37" href="$ProfileSummaryInfo_8h.html" title="llvm/Analysis/ProfileSummary\lInfo.h" alt="" coords="3817,348,4014,389"/>
+<area shape="rect" id="node38" href="$TargetTransformInfo_8h.html" title="This pass exposes codegen information to IR&#45;level passes. " alt="" coords="2022,169,2222,211"/>
+<area shape="rect" id="node39" href="$Dominators_8h.html" title="llvm/IR/Dominators.h" alt="" coords="2418,266,2565,293"/>
+<area shape="rect" id="node40" href="$ValueTracking_8h.html" title="llvm/Analysis/ValueTracking.h" alt="" coords="3221,87,3420,114"/>
+<area shape="rect" id="node41" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="1750,177,1897,203"/>
+<area shape="rect" id="node42" href="$CallingConv_8h.html" title="llvm/IR/CallingConv.h" alt="" coords="4281,87,4432,114"/>
+<area shape="rect" id="node43" href="$GetElementPtrTypeIterator_8h.html" title="llvm/IR/GetElementPtrType\lIterator.h" alt="" coords="2705,169,2888,211"/>
+<area shape="rect" id="node44" href="$GlobalAlias_8h.html" title="llvm/IR/GlobalAlias.h" alt="" coords="4456,87,4601,114"/>
+<area shape="rect" id="node45" href="$InstVisitor_8h.html" title="llvm/IR/InstVisitor.h" alt="" coords="2913,177,3051,203"/>
+<area shape="rect" id="node46" href="$IntrinsicInst_8h.html" title="llvm/IR/IntrinsicInst.h" alt="" coords="3047,266,3194,293"/>
+<area shape="rect" id="node47" href="$PatternMatch_8h.html" title="llvm/IR/PatternMatch.h" alt="" coords="3126,177,3283,203"/>
+<area shape="rect" id="node48" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="1274,177,1469,203"/>
+<area shape="rect" id="node49" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="1520,266,1705,293"/>
+<area shape="rect" id="node50" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="4625,87,4773,114"/>
+<area shape="rect" id="node15" href="$CallGraphSCCPass_8h.html" title="llvm/Analysis/CallGraphSCCPass.h" alt="" coords="2398,177,2630,203"/>
+<area shape="rect" id="node16" href="$OptimizationRemarkEmitter_8h.html" title="llvm/Analysis/Optimization\lRemarkEmitter.h" alt="" coords="3359,169,3536,211"/>
+<area shape="rect" id="node5" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="990,437,1161,464"/>
+<area shape="rect" id="node7" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1778,437,1967,464"/>
+<area shape="rect" id="node17" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2896,355,3036,382"/>
+<area shape="rect" id="node22" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="556,355,688,382"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="include/llvm/CodeGen/ScoreboardHazardRecognizer.h" name="include/llvm/CodeGen/ScoreboardHazardRecognizer.h">
+<area shape="rect" id="node2" href="$ScoreboardHazardRecognizer_8cpp.html" title="lib/CodeGen/ScoreboardHazard\lRecognizer.cpp" alt="" coords="5,95,212,136"/>
+<area shape="rect" id="node3" href="$TargetInstrInfo_8cpp.html" title="lib/CodeGen/TargetInstrInfo.cpp" alt="" coords="237,102,445,129"/>
+<area shape="rect" id="node4" href="$ARMHazardRecognizer_8h.html" title="lib/Target/ARM/ARMHazard\lRecognizer.h" alt="" coords="519,95,706,136"/>
+<area shape="rect" id="node5" href="$ARMBaseInstrInfo_8cpp.html" title="lib/Target/ARM/ARMBaseInstr\lInfo.cpp" alt="" coords="338,184,538,225"/>
+<area shape="rect" id="node7" href="$PPCHazardRecognizers_8h.html" title="lib/Target/PowerPC\l/PPCHazardRecognizers.h" alt="" coords="875,95,1055,136"/>
+<area shape="rect" id="node6" href="$ARMHazardRecognizer_8cpp.html" title="lib/Target/ARM/ARMHazard\lRecognizer.cpp" alt="" coords="562,184,749,225"/>
+<area shape="rect" id="node8" href="$PPCHazardRecognizers_8cpp.html" title="lib/Target/PowerPC\l/PPCHazardRecognizers.cpp" alt="" coords="773,184,967,225"/>
+<area shape="rect" id="node9" href="$PPCInstrInfo_8cpp.html" title="lib/Target/PowerPC\l/PPCInstrInfo.cpp" alt="" coords="991,184,1127,225"/>
+<area shape="rect" id="node10" href="$PPCVSXCopy_8cpp.html" title="lib/Target/PowerPC\l/PPCVSXCopy.cpp" alt="" coords="1152,184,1289,225"/>
+</map>

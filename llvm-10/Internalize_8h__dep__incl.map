@@ -1,0 +1,7 @@
+<map id="include/llvm/Transforms/IPO/Internalize.h" name="include/llvm/Transforms/IPO/Internalize.h">
+<area shape="rect" id="node2" href="$LTOCodeGenerator_8cpp.html" title="lib/LTO/LTOCodeGenerator.cpp" alt="" coords="5,102,212,129"/>
+<area shape="rect" id="node3" href="$ThinLTOCodeGenerator_8cpp.html" title="lib/LTO/ThinLTOCodeGenerator.cpp" alt="" coords="236,102,467,129"/>
+<area shape="rect" id="node4" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="491,102,673,129"/>
+<area shape="rect" id="node5" href="$FunctionImport_8cpp.html" title="lib/Transforms/IPO\l/FunctionImport.cpp" alt="" coords="698,95,837,136"/>
+<area shape="rect" id="node6" href="$Internalize_8cpp.html" title="lib/Transforms/IPO\l/Internalize.cpp" alt="" coords="861,95,993,136"/>
+</map>

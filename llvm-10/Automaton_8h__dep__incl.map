@@ -1,0 +1,17 @@
+<map id="include/llvm/Support/Automaton.h" name="include/llvm/Support/Automaton.h">
+<area shape="rect" id="node2" href="$DFAPacketizer_8h.html" title="include/llvm/CodeGen\l/DFAPacketizer.h" alt="" coords="1103,95,1254,136"/>
+<area shape="rect" id="node3" href="$ResourcePriorityQueue_8h.html" title="include/llvm/CodeGen\l/ResourcePriorityQueue.h" alt="" coords="117,184,289,225"/>
+<area shape="rect" id="node6" href="$DFAPacketizer_8cpp.html" title="lib/CodeGen/DFAPacketizer.cpp" alt="" coords="313,191,525,218"/>
+<area shape="rect" id="node7" href="$MachinePipeliner_8cpp.html" title="lib/CodeGen/MachinePipeliner.cpp" alt="" coords="549,191,771,218"/>
+<area shape="rect" id="node8" href="$R600Packetizer_8cpp.html" title="This pass implements instructions packetization for R600. " alt="" coords="795,191,1056,218"/>
+<area shape="rect" id="node9" href="$HexagonHazardRecognizer_8h.html" title="lib/Target/Hexagon\l/HexagonHazardRecognizer.h" alt="" coords="1080,184,1277,225"/>
+<area shape="rect" id="node11" href="$HexagonInstrInfo_8cpp.html" title="lib/Target/Hexagon\l/HexagonInstrInfo.cpp" alt="" coords="1103,273,1254,315"/>
+<area shape="rect" id="node12" href="$HexagonMachineScheduler_8h.html" title="lib/Target/Hexagon\l/HexagonMachineScheduler.h" alt="" coords="1403,184,1599,225"/>
+<area shape="rect" id="node13" href="$HexagonMachineScheduler_8cpp.html" title="lib/Target/Hexagon\l/HexagonMachineScheduler.cpp" alt="" coords="1279,273,1489,315"/>
+<area shape="rect" id="node15" href="$HexagonVLIWPacketizer_8h.html" title="lib/Target/Hexagon\l/HexagonVLIWPacketizer.h" alt="" coords="1680,184,1864,225"/>
+<area shape="rect" id="node4" href="$ResourcePriorityQueue_8cpp.html" title="lib/CodeGen/SelectionDAG\l/ResourcePriorityQueue.cpp" alt="" coords="5,273,192,315"/>
+<area shape="rect" id="node5" href="$ScheduleDAGVLIW_8cpp.html" title="lib/CodeGen/SelectionDAG\l/ScheduleDAGVLIW.cpp" alt="" coords="216,273,397,315"/>
+<area shape="rect" id="node10" href="$HexagonHazardRecognizer_8cpp.html" title="lib/Target/Hexagon\l/HexagonHazardRecognizer.cpp" alt="" coords="868,273,1079,315"/>
+<area shape="rect" id="node14" href="$HexagonTargetMachine_8cpp.html" title="lib/Target/Hexagon\l/HexagonTargetMachine.cpp" alt="" coords="1513,273,1703,315"/>
+<area shape="rect" id="node16" href="$HexagonVLIWPacketizer_8cpp.html" title="lib/Target/Hexagon\l/HexagonVLIWPacketizer.cpp" alt="" coords="1727,273,1926,315"/>
+</map>

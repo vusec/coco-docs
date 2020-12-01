@@ -1,0 +1,5 @@
+<map id="llvm::RISCVELFTargetObjectFile" name="llvm::RISCVELFTargetObjectFile">
+<area shape="rect" id="node2" href="$classllvm_1_1TargetLoweringObjectFileELF.html" title="llvm::TargetLoweringObject\lFileELF" alt="" coords="23,155,204,196"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TargetLoweringObjectFile.html" title="llvm::TargetLoweringObjectFile" alt="" coords="12,80,215,107"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MCObjectFileInfo.html" title="llvm::MCObjectFileInfo" alt="" coords="35,5,191,32"/>
+</map>

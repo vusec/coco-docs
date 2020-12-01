@@ -1,0 +1,6 @@
+<map id="llvm::DominanceFrontierAnalysis" name="llvm::DominanceFrontierAnalysis">
+<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title="llvm::AnalysisInfoMixin\l\&lt; DominanceFrontierAnalysis \&gt;" alt="" coords="824,35,1031,76"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; DominanceFrontierAnalysis \&gt;" alt="" coords="380,5,587,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes. " alt="" coords="5,39,143,80"/>
+<area shape="rect" id="node5" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes. " alt="" coords="405,71,562,112"/>
+</map>

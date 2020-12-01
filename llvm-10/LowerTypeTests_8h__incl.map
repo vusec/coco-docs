@@ -1,0 +1,30 @@
+<map id="include/llvm/Transforms/IPO/LowerTypeTests.h" name="include/llvm/Transforms/IPO/LowerTypeTests.h">
+<area shape="rect" id="node2" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2409,393,2572,420"/>
+<area shape="rect" id="node27" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM. " alt="" coords="4397,95,4555,121"/>
+<area shape="rect" id="node3" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1343,543,1513,569"/>
+<area shape="rect" id="node6" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2587,468,2741,495"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2465,617,2628,644"/>
+<area shape="rect" id="node11" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3979,468,4157,495"/>
+<area shape="rect" id="node19" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="2344,468,2512,495"/>
+<area shape="rect" id="node20" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="3347,543,3536,569"/>
+<area shape="rect" id="node23" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1744,468,1915,495"/>
+<area shape="rect" id="node12" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="3951,543,4153,569"/>
+<area shape="rect" id="node28" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2896,169,3051,196"/>
+<area shape="rect" id="node36" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="4236,393,4383,420"/>
+<area shape="rect" id="node39" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="1380,393,1543,420"/>
+<area shape="rect" id="node40" href="$TinyPtrVector_8h.html" title="llvm/ADT/TinyPtrVector.h" alt="" coords="2211,244,2383,271"/>
+<area shape="rect" id="node41" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="3957,319,4086,345"/>
+<area shape="rect" id="node42" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="4249,244,4370,271"/>
+<area shape="rect" id="node43" href="$PassInstrumentation_8h.html" title="This file defines the Pass Instrumentation classes that provide instrumentation points into the pass ..." alt="" coords="4630,244,4829,271"/>
+<area shape="rect" id="node44" href="$TypeName_8h.html" title="llvm/Support/TypeName.h" alt="" coords="4642,319,4817,345"/>
+<area shape="rect" id="node45" href="$PassManagerInternal_8h.html" title="This header provides internal APIs and implementation details used by the pass management interfaces ..." alt="" coords="2141,319,2344,345"/>
+<area shape="rect" id="node46" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="5451,319,5541,345"/>
+<area shape="rect" id="node47" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="5330,169,5478,196"/>
+<area shape="rect" id="node48" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="4987,319,5173,345"/>
+<area shape="rect" id="node29" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="3011,244,3189,271"/>
+<area shape="rect" id="node37" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="4536,468,4709,495"/>
+<area shape="rect" id="node38" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="550,468,757,495"/>
+<area shape="rect" id="node30" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2419,319,2563,345"/>
+<area shape="rect" id="node31" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="600,393,723,420"/>
+<area shape="rect" id="node32" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3547,468,3701,495"/>
+</map>

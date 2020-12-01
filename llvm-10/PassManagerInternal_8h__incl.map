@@ -1,0 +1,11 @@
+<map id="include/llvm/IR/PassManagerInternal.h" name="include/llvm/IR/PassManagerInternal.h">
+<area shape="rect" id="node2" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="976,169,1131,196"/>
+<area shape="rect" id="node28" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1555,95,1701,121"/>
+<area shape="rect" id="node3" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="246,244,386,271"/>
+<area shape="rect" id="node14" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1281,244,1413,271"/>
+<area shape="rect" id="node15" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="847,319,1017,345"/>
+<area shape="rect" id="node20" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1741,244,1931,271"/>
+<area shape="rect" id="node4" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="375,319,497,345"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1320,393,1483,420"/>
+<area shape="rect" id="node8" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1143,319,1313,345"/>
+</map>

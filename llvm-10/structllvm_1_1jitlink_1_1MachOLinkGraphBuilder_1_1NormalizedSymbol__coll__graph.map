@@ -1,0 +1,6 @@
+<map id="llvm::jitlink::MachOLinkGraphBuilder::NormalizedSymbol" name="llvm::jitlink::MachOLinkGraphBuilder::NormalizedSymbol">
+<area shape="rect" id="node2" href="$classllvm_1_1jitlink_1_1Symbol.html" title="Symbol representation. " alt="" coords="305,5,441,32"/>
+<area shape="rect" id="node4" href="$classuint16__t.html" title="uint16_t" alt="" coords="339,107,407,133"/>
+<area shape="rect" id="node7" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; llvm\l::StringRef \&gt;" alt="" coords="304,261,443,302"/>
+<area shape="rect" id="node8" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; T \&gt;" alt="" coords="5,268,140,295"/>
+</map>

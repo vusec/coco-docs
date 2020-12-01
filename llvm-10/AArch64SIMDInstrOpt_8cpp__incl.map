@@ -1,0 +1,33 @@
+<map id="lib/Target/AArch64/AArch64SIMDInstrOpt.cpp" name="lib/Target/AArch64/AArch64SIMDInstrOpt.cpp">
+<area shape="rect" id="node2" href="$AArch64InstrInfo_8h.html" title="AArch64InstrInfo.h" alt="" coords="521,95,652,121"/>
+<area shape="rect" id="node16" href="$TargetInstrInfo_8h.html" title="llvm/CodeGen/TargetInstr\lInfo.h" alt="" coords="829,169,1001,211"/>
+<area shape="rect" id="node17" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="723,437,914,479"/>
+<area shape="rect" id="node21" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="469,527,664,553"/>
+<area shape="rect" id="node22" href="$MachineOperand_8h.html" title="llvm/CodeGen/MachineOperand.h" alt="" coords="557,601,776,628"/>
+<area shape="rect" id="node23" href="$MCInstrDesc_8h.html" title="llvm/MC/MCInstrDesc.h" alt="" coords="318,601,482,628"/>
+<area shape="rect" id="node27" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="1320,355,1539,382"/>
+<area shape="rect" id="node28" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2915,445,3077,471"/>
+<area shape="rect" id="node38" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1908,445,2055,471"/>
+<area shape="rect" id="node40" href="$MachineInstrBuilder_8h.html" title="llvm/CodeGen/MachineInstr\lBuilder.h" alt="" coords="693,259,877,300"/>
+<area shape="rect" id="node42" href="$Statistic_8h.html" title="llvm/ADT/Statistic.h" alt="" coords="4326,445,4466,471"/>
+<area shape="rect" id="node44" href="$MachineFunctionPass_8h.html" title="llvm/CodeGen/MachineFunction\lPass.h" alt="" coords="1133,259,1341,300"/>
+<area shape="rect" id="node45" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="1003,355,1093,382"/>
+<area shape="rect" id="node46" href="$MachineRegisterInfo_8h.html" title="llvm/CodeGen/MachineRegister\lInfo.h" alt="" coords="1523,259,1730,300"/>
+<area shape="rect" id="node47" href="$TargetSubtargetInfo_8h.html" title="llvm/CodeGen/TargetSubtarget\lInfo.h" alt="" coords="2437,348,2640,389"/>
+<area shape="rect" id="node48" href="$TargetSchedule_8h.html" title="llvm/CodeGen/TargetSchedule.h" alt="" coords="3904,266,4115,293"/>
+<area shape="rect" id="node49" href="$MCSchedule_8h.html" title="llvm/MC/MCSchedule.h" alt="" coords="3339,527,3501,553"/>
+<area shape="rect" id="node3" href="$AArch64_8h.html" title="AArch64.h" alt="" coords="313,177,396,203"/>
+<area shape="rect" id="node4" href="$AArch64RegisterInfo_8h.html" title="AArch64RegisterInfo.h" alt="" coords="420,177,575,203"/>
+<area shape="rect" id="node5" href="$AArch64StackOffset_8h.html" title="AArch64StackOffset.h" alt="" coords="599,177,753,203"/>
+<area shape="rect" id="node6" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3242,601,3382,628"/>
+<area shape="rect" id="node15" href="$MachineCombinerPattern_8h.html" title="llvm/CodeGen/MachineCombiner\lPattern.h" alt="" coords="74,259,289,300"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3647,751,3809,777"/>
+<area shape="rect" id="node9" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="3007,676,3177,703"/>
+<area shape="rect" id="node35" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2591,601,2780,628"/>
+<area shape="rect" id="node18" href="$GraphTraits_8h.html" title="llvm/ADT/GraphTraits.h" alt="" coords="891,527,1051,553"/>
+<area shape="rect" id="node19" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1221,601,1392,628"/>
+<area shape="rect" id="node29" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="3110,527,3263,553"/>
+<area shape="rect" id="node31" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="2755,527,2933,553"/>
+<area shape="rect" id="node34" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="3779,527,3947,553"/>
+<area shape="rect" id="node39" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2221,527,2376,553"/>
+</map>

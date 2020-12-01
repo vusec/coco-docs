@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title="llvm::trailing_objects\l_internal::TrailingObjectsImpl\l\&lt; trailing_objects_internal\l::AlignmentCalcHelper\&lt; TrailingTys...\l \&gt;::Alignment, BaseTy, TrailingObjects\l\&lt; BaseTy, TrailingTys... \&gt;, BaseTy, TrailingTys... \&gt;" alt="" coords="5,5,329,105"/>
+<area shape="rect" id="node2" href="$classllvm_1_1TrailingObjects.html" title="See the file comment for details on the usage of the TrailingObjects type. " alt="" coords="377,35,540,76"/>
+</map>

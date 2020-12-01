@@ -1,0 +1,6 @@
+<map id="llvm::DerefState" name="llvm::DerefState">
+<area shape="rect" id="node3" href="$structllvm_1_1StateWrapper.html" title="llvm::StateWrapper\l\&lt; DerefState, AbstractAttribute \&gt;" alt="" coords="353,20,568,61"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AbstractState.html" title="An interface to query the internal state of an abstract attribute. " alt="" coords="5,27,140,54"/>
+<area shape="rect" id="node4" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::Dereferenceable,\l StateWrapper\&lt; DerefState,\l AbstractAttribute \&gt; \&gt;" alt="" coords="616,5,801,76"/>
+<area shape="rect" id="node5" href="$structllvm_1_1AADereferenceable.html" title="An abstract interface for all dereferenceable attribute. " alt="" coords="849,27,1016,54"/>
+</map>

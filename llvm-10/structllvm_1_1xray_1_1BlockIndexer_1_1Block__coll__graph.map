@@ -1,0 +1,5 @@
+<map id="llvm::xray::BlockIndexer::Block" name="llvm::xray::BlockIndexer::Block">
+<area shape="rect" id="node4" href="$classllvm_1_1xray_1_1WallclockRecord.html" title="llvm::xray::WallclockRecord" alt="" coords="249,178,435,205"/>
+<area shape="rect" id="node5" href="$classllvm_1_1xray_1_1MetadataRecord.html" title="llvm::xray::MetadataRecord" alt="" coords="251,95,433,121"/>
+<area shape="rect" id="node6" href="$classllvm_1_1xray_1_1Record.html" title="llvm::xray::Record" alt="" coords="224,5,353,32"/>
+</map>

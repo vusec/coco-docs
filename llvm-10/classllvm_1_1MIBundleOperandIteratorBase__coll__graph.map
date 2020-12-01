@@ -1,0 +1,4 @@
+<map id="llvm::MIBundleOperandIteratorBase&lt; ValueT &gt;" name="llvm::MIBundleOperandIteratorBase&lt; ValueT &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; MIBundleOperandIterator\lBase\&lt; ValueT \&gt;, std::forward\l_iterator_tag, ValueT \&gt;" alt="" coords="712,52,927,123"/>
+<area shape="rect" id="node4" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="267,100,491,171"/>
+</map>

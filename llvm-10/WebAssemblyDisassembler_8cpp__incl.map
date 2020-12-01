@@ -1,0 +1,41 @@
+<map id="lib/Target/WebAssembly/Disassembler/WebAssemblyDisassembler.cpp" name="lib/Target/WebAssembly/Disassembler/WebAssemblyDisassembler.cpp">
+<area shape="rect" id="node2" href="$WebAssemblyInstPrinter_8h.html" title="This class prints an WebAssembly MCInst to wasm file syntax. " alt="" coords="2401,259,2601,300"/>
+<area shape="rect" id="node15" href="$WebAssemblyMCTargetDesc_8h.html" title="This file provides WebAssembly&#45;specific target descriptions. " alt="" coords="465,259,665,300"/>
+<area shape="rect" id="node21" href="$WebAssemblyTargetInfo_8h.html" title="This file registers the WebAssembly target. " alt="" coords="4943,95,5149,136"/>
+<area shape="rect" id="node22" href="$MCContext_8h.html" title="llvm/MC/MCContext.h" alt="" coords="3799,102,3952,129"/>
+<area shape="rect" id="node37" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="2049,355,2200,382"/>
+<area shape="rect" id="node38" href="$MCSubtargetInfo_8h.html" title="llvm/MC/MCSubtargetInfo.h" alt="" coords="2224,355,2409,382"/>
+<area shape="rect" id="node42" href="$MCDisassembler_8h.html" title="llvm/MC/MCDisassembler\l/MCDisassembler.h" alt="" coords="817,348,993,389"/>
+<area shape="rect" id="node43" href="$MCFixedLenDisassembler_8h.html" title="llvm/MC/MCFixedLenDisassembler.h" alt="" coords="5174,102,5414,129"/>
+<area shape="rect" id="node44" href="$MCInst_8h.html" title="llvm/MC/MCInst.h" alt="" coords="4740,355,4869,382"/>
+<area shape="rect" id="node45" href="$MCInstrInfo_8h.html" title="llvm/MC/MCInstrInfo.h" alt="" coords="838,266,993,293"/>
+<area shape="rect" id="node46" href="$MCSymbol_8h.html" title="llvm/MC/MCSymbol.h" alt="" coords="4892,184,5043,211"/>
+<area shape="rect" id="node47" href="$MCSymbolWasm_8h.html" title="llvm/MC/MCSymbolWasm.h" alt="" coords="4627,102,4817,129"/>
+<area shape="rect" id="node48" href="$LEB128_8h.html" title="llvm/Support/LEB128.h" alt="" coords="3248,102,3404,129"/>
+<area shape="rect" id="node49" href="$TargetRegistry_8h.html" title="llvm/Support/TargetRegistry.h" alt="" coords="1524,355,1720,382"/>
+<area shape="rect" id="node3" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3462,445,3625,471"/>
+<area shape="rect" id="node9" href="$BinaryFormat_2Wasm_8h.html" title="llvm/BinaryFormat/Wasm.h" alt="" coords="3443,355,3625,382"/>
+<area shape="rect" id="node12" href="$MCInstPrinter_8h.html" title="llvm/MC/MCInstPrinter.h" alt="" coords="2433,355,2600,382"/>
+<area shape="rect" id="node14" href="$MachineValueType_8h.html" title="llvm/Support/MachineValue\lType.h" alt="" coords="1371,437,1553,479"/>
+<area shape="rect" id="node4" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3566,527,3729,553"/>
+<area shape="rect" id="node10" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3822,445,3969,471"/>
+<area shape="rect" id="node16" href="$WebAssemblySubtarget_8h.html" title="This file declares the WebAssembly&#45;specific subclass of TargetSubtarget. " alt="" coords="555,445,742,471"/>
+<area shape="rect" id="node17" href="$MCInstrDesc_8h.html" title="llvm/MC/MCInstrDesc.h" alt="" coords="628,355,792,382"/>
+<area shape="rect" id="node18" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="817,445,992,471"/>
+<area shape="rect" id="node23" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="4621,445,4775,471"/>
+<area shape="rect" id="node24" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="1729,445,1869,471"/>
+<area shape="rect" id="node25" href="$SetVector_8h.html" title="llvm/ADT/SetVector.h" alt="" coords="4344,445,4495,471"/>
+<area shape="rect" id="node26" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="4167,355,4325,382"/>
+<area shape="rect" id="node27" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="4141,266,4292,293"/>
+<area shape="rect" id="node28" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="4452,355,4613,382"/>
+<area shape="rect" id="node29" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="2727,355,2853,382"/>
+<area shape="rect" id="node30" href="$Dwarf_8h.html" title="This file contains constants used for implementing Dwarf debug support. " alt="" coords="1321,355,1499,382"/>
+<area shape="rect" id="node31" href="$XCOFF_8h.html" title="llvm/BinaryFormat/XCOFF.h" alt="" coords="3801,355,3989,382"/>
+<area shape="rect" id="node32" href="$MCAsmMacro_8h.html" title="llvm/MC/MCAsmMacro.h" alt="" coords="4494,184,4665,211"/>
+<area shape="rect" id="node33" href="$MCDwarf_8h.html" title="llvm/MC/MCDwarf.h" alt="" coords="3084,184,3227,211"/>
+<area shape="rect" id="node34" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="3025,266,3163,293"/>
+<area shape="rect" id="node35" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="3233,355,3419,382"/>
+<area shape="rect" id="node36" href="$MD5_8h.html" title="llvm/Support/MD5.h" alt="" coords="3674,266,3813,293"/>
+<area shape="rect" id="node39" href="$MCTargetOptions_8h.html" title="llvm/MC/MCTargetOptions.h" alt="" coords="1231,184,1421,211"/>
+<area shape="rect" id="node40" href="$SectionKind_8h.html" title="llvm/MC/SectionKind.h" alt="" coords="4243,184,4399,211"/>
+</map>

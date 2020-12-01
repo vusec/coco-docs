@@ -1,0 +1,5 @@
+<map id="include/llvm/CodeGen/GlobalISel/LegalizationArtifactCombiner.h" name="include/llvm/CodeGen/GlobalISel/LegalizationArtifactCombiner.h">
+<area shape="rect" id="node2" href="$Legalizer_8cpp.html" title="lib/CodeGen/GlobalISel\l/Legalizer.cpp" alt="" coords="5,109,164,151"/>
+<area shape="rect" id="node3" href="$AMDGPURegisterBankInfo_8cpp.html" title="This file implements the targeting of the RegisterBankInfo class for AMDGPU. " alt="" coords="189,109,439,151"/>
+<area shape="rect" id="node4" href="$MipsRegisterBankInfo_8cpp.html" title="This file implements the targeting of the RegisterBankInfo class for Mips. " alt="" coords="463,109,653,151"/>
+</map>

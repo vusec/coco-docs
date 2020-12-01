@@ -1,0 +1,34 @@
+<map id="include/llvm/Object/IRSymtab.h" name="include/llvm/Object/IRSymtab.h">
+<area shape="rect" id="node2" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2133,617,2277,644"/>
+<area shape="rect" id="node16" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="675,767,845,793"/>
+<area shape="rect" id="node27" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1592,617,1739,644"/>
+<area shape="rect" id="node28" href="$GlobalValue_8h.html" title="llvm/IR/GlobalValue.h" alt="" coords="2384,468,2533,495"/>
+<area shape="rect" id="node35" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="3734,692,3885,719"/>
+<area shape="rect" id="node37" href="$SymbolicFile_8h.html" title="llvm/Object/SymbolicFile.h" alt="" coords="2940,95,3119,121"/>
+<area shape="rect" id="node41" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="3457,393,3596,420"/>
+<area shape="rect" id="node3" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="3417,692,3557,719"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1911,841,2073,868"/>
+<area shape="rect" id="node14" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="1944,692,2067,719"/>
+<area shape="rect" id="node15" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2141,692,2304,719"/>
+<area shape="rect" id="node21" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1333,692,1488,719"/>
+<area shape="rect" id="node4" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2941,767,3131,793"/>
+<area shape="rect" id="node7" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="3485,767,3688,793"/>
+<area shape="rect" id="node18" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="3257,767,3410,793"/>
+<area shape="rect" id="node29" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="3105,543,3231,569"/>
+<area shape="rect" id="node30" href="$Constant_8h.html" title="llvm/IR/Constant.h" alt="" coords="1233,543,1365,569"/>
+<area shape="rect" id="node31" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="1212,617,1324,644"/>
+<area shape="rect" id="node32" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="1563,692,1717,719"/>
+<area shape="rect" id="node33" href="$DerivedTypes_8h.html" title="llvm/IR/DerivedTypes.h" alt="" coords="1971,543,2131,569"/>
+<area shape="rect" id="node34" href="$MD5_8h.html" title="llvm/Support/MD5.h" alt="" coords="2563,543,2701,569"/>
+<area shape="rect" id="node36" href="$Host_8h.html" title="llvm/Support/Host.h" alt="" coords="3864,767,4003,793"/>
+<area shape="rect" id="node38" href="$Magic_8h.html" title="llvm/BinaryFormat/Magic.h" alt="" coords="2979,468,3157,495"/>
+<area shape="rect" id="node40" href="$Binary_8h.html" title="llvm/Object/Binary.h" alt="" coords="770,169,910,196"/>
+<area shape="rect" id="node46" href="$Format_8h.html" title="llvm/Support/Format.h" alt="" coords="1795,543,1946,569"/>
+<area shape="rect" id="node48" href="$MemoryBuffer_8h.html" title="llvm/Support/MemoryBuffer.h" alt="" coords="2747,244,2939,271"/>
+<area shape="rect" id="node49" href="$FileSystem_8h.html" title="llvm/Support/FileSystem.h" alt="" coords="3140,319,3316,345"/>
+<area shape="rect" id="node42" href="$c_2Error_8h.html" title="llvm&#45;c/Error.h" alt="" coords="3834,468,3934,495"/>
+<area shape="rect" id="node43" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="3385,468,3549,495"/>
+<area shape="rect" id="node44" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="3958,468,4106,495"/>
+<area shape="rect" id="node45" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer. " alt="" coords="2928,543,3080,569"/>
+<area shape="rect" id="node47" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="4334,543,4519,569"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="include/llvm/Transforms/Scalar/GVN.h" name="include/llvm/Transforms/Scalar/GVN.h">
+<area shape="rect" id="node2" href="$LinkAllPasses_8h.html" title="include/llvm/LinkAllPasses.h" alt="" coords="5,102,195,129"/>
+<area shape="rect" id="node3" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="219,102,402,129"/>
+<area shape="rect" id="node4" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="426,95,665,136"/>
+<area shape="rect" id="node5" href="$NVPTXTargetMachine_8cpp.html" title="lib/Target/NVPTX/NVPTXTarget\lMachine.cpp" alt="" coords="689,95,900,136"/>
+<area shape="rect" id="node6" href="$PassManagerBuilder_8cpp.html" title="lib/Transforms/IPO\l/PassManagerBuilder.cpp" alt="" coords="924,95,1095,136"/>
+<area shape="rect" id="node7" href="$GVN_8cpp.html" title="lib/Transforms/Scalar\l/GVN.cpp" alt="" coords="1119,95,1265,136"/>
+<area shape="rect" id="node8" href="$GVNHoist_8cpp.html" title="lib/Transforms/Scalar\l/GVNHoist.cpp" alt="" coords="1289,95,1436,136"/>
+<area shape="rect" id="node9" href="$GVNSink_8cpp.html" title="This pass attempts to sink instructions into successors, reducing static instruction count and enabli..." alt="" coords="1460,95,1607,136"/>
+<area shape="rect" id="node10" href="$Scalar_8cpp.html" title="lib/Transforms/Scalar\l/Scalar.cpp" alt="" coords="1631,95,1777,136"/>
+</map>

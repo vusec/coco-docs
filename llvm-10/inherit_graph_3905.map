@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; SetProtections, void\l(ResourceIdMgr::ResourceId\l AllocID, JITTargetAddress\l Dst, uint32_t ProtFlags)\&gt;" alt="" coords="5,5,196,91"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1remote_1_1mem_1_1SetProtections.html" title="Set the memory protection on a memory block. " alt="" coords="244,27,389,69"/>
+</map>

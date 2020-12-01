@@ -1,0 +1,4 @@
+<map id="llvm::raw_null_ostream" name="llvm::raw_null_ostream">
+<area shape="rect" id="node2" href="$classllvm_1_1raw__pwrite__stream.html" title="An abstract base class for streams implementations that also support a pwrite operation. " alt="" coords="5,317,169,344"/>
+<area shape="rect" id="node3" href="$classllvm_1_1raw__ostream.html" title="This class implements an extremely fast bulk output stream that can only output to a stream..." alt="" coords="23,241,152,268"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="lib/Target/Lanai/LanaiInstrInfo.h" name="lib/Target/Lanai/LanaiInstrInfo.h">
+<area shape="rect" id="node2" href="$LanaiAsmParser_8cpp.html" title="lib/Target/Lanai/AsmParser\l/LanaiAsmParser.cpp" alt="" coords="125,95,305,136"/>
+<area shape="rect" id="node3" href="$LanaiDisassembler_8cpp.html" title="lib/Target/Lanai/Disassembler\l/LanaiDisassembler.cpp" alt="" coords="329,95,524,136"/>
+<area shape="rect" id="node4" href="$LanaiAsmPrinter_8cpp.html" title="lib/Target/Lanai/LanaiAsm\lPrinter.cpp" alt="" coords="5,273,179,315"/>
+<area shape="rect" id="node5" href="$LanaiTargetMachine_8h.html" title="lib/Target/Lanai/LanaiTarget\lMachine.h" alt="" coords="599,184,782,225"/>
+<area shape="rect" id="node13" href="$LanaiSubtarget_8h.html" title="lib/Target/Lanai/LanaiSubtarget.h" alt="" coords="888,102,1101,129"/>
+<area shape="rect" id="node14" href="$LanaiFrameLowering_8cpp.html" title="lib/Target/Lanai/LanaiFrame\lLowering.cpp" alt="" coords="1403,184,1586,225"/>
+<area shape="rect" id="node17" href="$LanaiInstrInfo_8cpp.html" title="lib/Target/Lanai/LanaiInstr\lInfo.cpp" alt="" coords="1177,95,1349,136"/>
+<area shape="rect" id="node18" href="$LanaiRegisterInfo_8cpp.html" title="lib/Target/Lanai/LanaiRegister\lInfo.cpp" alt="" coords="1373,95,1568,136"/>
+<area shape="rect" id="node6" href="$LanaiDelaySlotFiller_8cpp.html" title="lib/Target/Lanai/LanaiDelay\lSlotFiller.cpp" alt="" coords="427,273,607,315"/>
+<area shape="rect" id="node7" href="$LanaiISelDAGToDAG_8cpp.html" title="lib/Target/Lanai/LanaiISel\lDAGToDAG.cpp" alt="" coords="882,273,1051,315"/>
+<area shape="rect" id="node8" href="$LanaiMemAluCombiner_8cpp.html" title="lib/Target/Lanai/LanaiMem\lAluCombiner.cpp" alt="" coords="683,273,858,315"/>
+<area shape="rect" id="node9" href="$LanaiSelectionDAGInfo_8cpp.html" title="lib/Target/Lanai/LanaiSelection\lDAGInfo.cpp" alt="" coords="203,273,403,315"/>
+<area shape="rect" id="node10" href="$LanaiTargetMachine_8cpp.html" title="lib/Target/Lanai/LanaiTarget\lMachine.cpp" alt="" coords="814,363,997,404"/>
+<area shape="rect" id="node11" href="$LanaiTargetTransformInfo_8h.html" title="lib/Target/Lanai/LanaiTarget\lTransformInfo.h" alt="" coords="1075,273,1258,315"/>
+<area shape="rect" id="node12" href="$LanaiTargetObjectFile_8cpp.html" title="lib/Target/Lanai/LanaiTarget\lObjectFile.cpp" alt="" coords="1282,273,1465,315"/>
+<area shape="rect" id="node15" href="$LanaiISelLowering_8cpp.html" title="lib/Target/Lanai/LanaiISel\lLowering.cpp" alt="" coords="1210,184,1379,225"/>
+<area shape="rect" id="node16" href="$LanaiSubtarget_8cpp.html" title="lib/Target/Lanai/LanaiSubtarget.cpp" alt="" coords="807,191,1033,218"/>
+</map>

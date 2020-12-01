@@ -1,0 +1,51 @@
+<map id="include/llvm/IR/DiagnosticHandler.h" name="include/llvm/IR/DiagnosticHandler.h">
+<area shape="rect" id="node2" href="$LLVMContext_8h.html" title="include/llvm/IR/LLVMContext.h" alt="" coords="2397,95,2601,121"/>
+<area shape="rect" id="node50" href="$DiagnosticHandler_8cpp.html" title="lib/IR/DiagnosticHandler.cpp" alt="" coords="2625,95,2815,121"/>
+<area shape="rect" id="node3" href="$ObjCARCAnalysisUtils_8h.html" title="This file defines common analysis utilities used by the ObjC ARC Optimizer. " alt="" coords="5,169,179,211"/>
+<area shape="rect" id="node4" href="$AsmPrinter_8h.html" title="include/llvm/CodeGen\l/AsmPrinter.h" alt="" coords="254,169,405,211"/>
+<area shape="rect" id="node5" href="$AsmPrinterInlineAsm_8cpp.html" title="lib/CodeGen/AsmPrinter\l/AsmPrinterInlineAsm.cpp" alt="" coords="126,259,301,300"/>
+<area shape="rect" id="node6" href="$ThreadSafeModule_8h.html" title="include/llvm/ExecutionEngine\l/Orc/ThreadSafeModule.h" alt="" coords="429,169,622,211"/>
+<area shape="rect" id="node7" href="$FuzzerCLI_8h.html" title="include/llvm/FuzzMutate\l/FuzzerCLI.h" alt="" coords="646,169,810,211"/>
+<area shape="rect" id="node8" href="$InstrTypes_8h.html" title="include/llvm/IR/InstrTypes.h" alt="" coords="1435,177,1621,203"/>
+<area shape="rect" id="node9" href="$IRBuilder_8h.html" title="include/llvm/IR/IRBuilder.h" alt="" coords="544,266,723,293"/>
+<area shape="rect" id="node10" href="$MemorySSAUpdater_8cpp.html" title="lib/Analysis/MemorySSAUpdater.cpp" alt="" coords="1925,348,2163,375"/>
+<area shape="rect" id="node11" href="$CodeGenPrepare_8cpp.html" title="lib/CodeGen/CodeGenPrepare.cpp" alt="" coords="522,348,745,375"/>
+<area shape="rect" id="node12" href="$BranchProbabilityInfo_8cpp.html" title="lib/Analysis/BranchProbability\lInfo.cpp" alt="" coords="1269,259,1464,300"/>
+<area shape="rect" id="node13" href="$MemoryDependenceAnalysis_8cpp.html" title="lib/Analysis/MemoryDependence\lAnalysis.cpp" alt="" coords="747,259,960,300"/>
+<area shape="rect" id="node14" href="$ScalarEvolution_8cpp.html" title="lib/Analysis/ScalarEvolution.cpp" alt="" coords="985,266,1194,293"/>
+<area shape="rect" id="node15" href="$ValueTracking_8cpp.html" title="lib/Analysis/ValueTracking.cpp" alt="" coords="1489,266,1690,293"/>
+<area shape="rect" id="node16" href="$BitcodeReader_8cpp.html" title="lib/Bitcode/Reader\l/BitcodeReader.cpp" alt="" coords="1714,259,1851,300"/>
+<area shape="rect" id="node17" href="$MetadataLoader_8cpp.html" title="lib/Bitcode/Reader\l/MetadataLoader.cpp" alt="" coords="376,259,520,300"/>
+<area shape="rect" id="node18" href="$BitcodeWriter_8cpp.html" title="lib/Bitcode/Writer\l/BitcodeWriter.cpp" alt="" coords="1876,259,2007,300"/>
+<area shape="rect" id="node19" href="$IRTranslator_8cpp.html" title="This file implements the IRTranslator class. " alt="" coords="2303,259,2462,300"/>
+<area shape="rect" id="node20" href="$MachineInstr_8cpp.html" title="lib/CodeGen/MachineInstr.cpp" alt="" coords="2081,266,2279,293"/>
+<area shape="rect" id="node21" href="$Metadata_8h.html" title="This file contains the declarations for metadata subclasses. " alt="" coords="1861,177,2040,203"/>
+<area shape="rect" id="node22" href="$LoopInfo_8cpp.html" title="lib/Analysis/LoopInfo.cpp" alt="" coords="2487,266,2655,293"/>
+<area shape="rect" id="node23" href="$ScopedNoAliasAA_8cpp.html" title="lib/Analysis/ScopedNoAlias\lAA.cpp" alt="" coords="2679,259,2862,300"/>
+<area shape="rect" id="node24" href="$TypeBasedAliasAnalysis_8cpp.html" title="lib/Analysis/TypeBasedAlias\lAnalysis.cpp" alt="" coords="2886,259,3074,300"/>
+<area shape="rect" id="node25" href="$LLParser_8cpp.html" title="lib/AsmParser/LLParser.cpp" alt="" coords="3098,266,3283,293"/>
+<area shape="rect" id="node26" href="$LinkAllIR_8h.html" title="include/llvm/LinkAllIR.h" alt="" coords="2419,177,2578,203"/>
+<area shape="rect" id="node27" href="$Config_8h.html" title="include/llvm/LTO/Config.h" alt="" coords="2603,177,2776,203"/>
+<area shape="rect" id="node28" href="$SampleProfReader_8h.html" title="include/llvm/ProfileData\l/SampleProfReader.h" alt="" coords="2800,169,2960,211"/>
+<area shape="rect" id="node29" href="$MisExpect_8h.html" title="include/llvm/Transforms\l/Utils/MisExpect.h" alt="" coords="2985,169,3146,211"/>
+<area shape="rect" id="node30" href="$CallGraphSCCPass_8cpp.html" title="lib/Analysis/CallGraphSCCPass.cpp" alt="" coords="3171,177,3405,203"/>
+<area shape="rect" id="node31" href="$Delinearization_8cpp.html" title="lib/Analysis/Delinearization.cpp" alt="" coords="3430,177,3634,203"/>
+<area shape="rect" id="node32" href="$LazyValueInfo_8cpp.html" title="lib/Analysis/LazyValueInfo.cpp" alt="" coords="3658,177,3859,203"/>
+<area shape="rect" id="node33" href="$Loads_8cpp.html" title="lib/Analysis/Loads.cpp" alt="" coords="3883,177,4037,203"/>
+<area shape="rect" id="node34" href="$LoopPass_8cpp.html" title="lib/Analysis/LoopPass.cpp" alt="" coords="4061,177,4237,203"/>
+<area shape="rect" id="node35" href="$MemDepPrinter_8cpp.html" title="lib/Analysis/MemDepPrinter.cpp" alt="" coords="4262,177,4471,203"/>
+<area shape="rect" id="node36" href="$MemDerefPrinter_8cpp.html" title="lib/Analysis/MemDerefPrinter.cpp" alt="" coords="4495,177,4713,203"/>
+<area shape="rect" id="node37" href="$MemoryLocation_8cpp.html" title="lib/Analysis/MemoryLocation.cpp" alt="" coords="4737,177,4951,203"/>
+<area shape="rect" id="node38" href="$MemorySSA_8cpp.html" title="lib/Analysis/MemorySSA.cpp" alt="" coords="4976,177,5168,203"/>
+<area shape="rect" id="node39" href="$MustExecute_8cpp.html" title="lib/Analysis/MustExecute.cpp" alt="" coords="5192,177,5387,203"/>
+<area shape="rect" id="node40" href="$OptimizationRemarkEmitter_8cpp.html" title="lib/Analysis/Optimization\lRemarkEmitter.cpp" alt="" coords="5411,169,5578,211"/>
+<area shape="rect" id="node41" href="$ScalarEvolutionExpander_8cpp.html" title="lib/Analysis/ScalarEvolution\lExpander.cpp" alt="" coords="5603,169,5787,211"/>
+<area shape="rect" id="node42" href="$BitReader_8cpp.html" title="lib/Bitcode/Reader\l/BitReader.cpp" alt="" coords="5811,169,5941,211"/>
+<area shape="rect" id="node43" href="$CodeGen_2Analysis_8cpp.html" title="lib/CodeGen/Analysis.cpp" alt="" coords="5965,177,6139,203"/>
+<area shape="rect" id="node44" href="$CallLowering_8cpp.html" title="This file implements some simple delegations needed for call lowering. " alt="" coords="6163,169,6322,211"/>
+<area shape="rect" id="node45" href="$ImplicitNullChecks_8cpp.html" title="lib/CodeGen/ImplicitNull\lChecks.cpp" alt="" coords="6347,169,6509,211"/>
+<area shape="rect" id="node46" href="$LowerEmuTLS_8cpp.html" title="lib/CodeGen/LowerEmuTLS.cpp" alt="" coords="6534,177,6743,203"/>
+<area shape="rect" id="node47" href="$MachineOptimizationRemarkEmitter_8cpp.html" title="===&#45; MachineOptimizationRemarkEmitter.cpp &#45; Opt Diagnostic &#45;*&#45; C++ &#45;*—===// " alt="" coords="6767,169,6987,211"/>
+<area shape="rect" id="node48" href="$MachineSink_8cpp.html" title="lib/CodeGen/MachineSink.cpp" alt="" coords="7011,177,7210,203"/>
+<area shape="rect" id="node49" href="$MIRParser_8cpp.html" title="lib/CodeGen/MIRParser\l/MIRParser.cpp" alt="" coords="7234,169,7395,211"/>
+</map>

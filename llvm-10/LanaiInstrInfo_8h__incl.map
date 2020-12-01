@@ -1,0 +1,40 @@
+<map id="lib/Target/Lanai/LanaiInstrInfo.h" name="lib/Target/Lanai/LanaiInstrInfo.h">
+<area shape="rect" id="node2" href="$LanaiRegisterInfo_8h.html" title="LanaiRegisterInfo.h" alt="" coords="382,281,517,307"/>
+<area shape="rect" id="node37" href="$LanaiMCTargetDesc_8h.html" title="MCTargetDesc/LanaiMCTarget\lDesc.h" alt="" coords="473,452,677,493"/>
+<area shape="rect" id="node41" href="$TargetInstrInfo_8h.html" title="llvm/CodeGen/TargetInstr\lInfo.h" alt="" coords="1683,95,1855,136"/>
+<area shape="rect" id="node3" href="$TargetRegisterInfo_8h.html" title="llvm/CodeGen/TargetRegister\lInfo.h" alt="" coords="3199,363,3393,404"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1496,840,1640,867"/>
+<area shape="rect" id="node8" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1216,1004,1405,1031"/>
+<area shape="rect" id="node13" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2032,922,2195,949"/>
+<area shape="rect" id="node14" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="2427,1079,2597,1105"/>
+<area shape="rect" id="node16" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3615,1004,3793,1031"/>
+<area shape="rect" id="node23" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1880,840,2027,867"/>
+<area shape="rect" id="node24" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="2897,452,3087,493"/>
+<area shape="rect" id="node29" href="$LaneBitmask_8h.html" title="A common definition of LaneBitmask for use in TableGen and CodeGen. " alt="" coords="3896,616,4059,643"/>
+<area shape="rect" id="node30" href="$Printable_8h.html" title="llvm/Support/Printable.h" alt="" coords="3914,691,4075,717"/>
+<area shape="rect" id="node31" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="3084,541,3263,568"/>
+<area shape="rect" id="node34" href="$CallingConv_8h.html" title="llvm/IR/CallingConv.h" alt="" coords="3518,459,3669,486"/>
+<area shape="rect" id="node35" href="$MachineValueType_8h.html" title="llvm/Support/MachineValue\lType.h" alt="" coords="3563,915,3744,956"/>
+<area shape="rect" id="node5" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="1563,922,1703,949"/>
+<area shape="rect" id="node12" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="979,922,1101,949"/>
+<area shape="rect" id="node18" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2269,922,2424,949"/>
+<area shape="rect" id="node6" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="613,1004,787,1031"/>
+<area shape="rect" id="node7" href="$c_2DataTypes_8h.html" title="llvm&#45;c/DataTypes.h" alt="" coords="632,1079,768,1105"/>
+<area shape="rect" id="node19" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1886,1004,2018,1031"/>
+<area shape="rect" id="node25" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="2375,541,2569,568"/>
+<area shape="rect" id="node33" href="$BranchProbability_8h.html" title="llvm/Support/BranchProbability.h" alt="" coords="1514,616,1726,643"/>
+<area shape="rect" id="node26" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="1927,765,2105,792"/>
+<area shape="rect" id="node27" href="$MachineOperand_8h.html" title="llvm/CodeGen/MachineOperand.h" alt="" coords="2155,616,2373,643"/>
+<area shape="rect" id="node28" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2168,691,2323,717"/>
+<area shape="rect" id="node32" href="$MCRegister_8h.html" title="llvm/MC/MCRegister.h" alt="" coords="3158,691,3314,717"/>
+<area shape="rect" id="node38" href="$MCTargetOptions_8h.html" title="llvm/MC/MCTargetOptions.h" alt="" coords="827,840,1016,867"/>
+<area shape="rect" id="node42" href="$LiveRegUnits_8h.html" title="A set of register units. " alt="" coords="3518,281,3717,307"/>
+<area shape="rect" id="node43" href="$MIRFormatter_8h.html" title="llvm/CodeGen/MIRFormatter.h" alt="" coords="1974,191,2175,218"/>
+<area shape="rect" id="node44" href="$PseudoSourceValue_8h.html" title="llvm/CodeGen/PseudoSource\lValue.h" alt="" coords="1783,273,1977,315"/>
+<area shape="rect" id="node45" href="$MachineCombinerPattern_8h.html" title="llvm/CodeGen/MachineCombiner\lPattern.h" alt="" coords="1735,184,1950,225"/>
+<area shape="rect" id="node46" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="1805,370,2024,397"/>
+<area shape="rect" id="node47" href="$MachineInstrBuilder_8h.html" title="llvm/CodeGen/MachineInstr\lBuilder.h" alt="" coords="2329,273,2513,315"/>
+<area shape="rect" id="node48" href="$MachineOutliner_8h.html" title="Contains all data structures shared between the outliner implemented in MachineOutliner.cpp and target implementations of the outliner. " alt="" coords="2913,191,3127,218"/>
+<area shape="rect" id="node49" href="$VirtRegMap_8h.html" title="llvm/CodeGen/VirtRegMap.h" alt="" coords="3160,281,3349,307"/>
+<area shape="rect" id="node50" href="$MCInstrInfo_8h.html" title="llvm/MC/MCInstrInfo.h" alt="" coords="4387,765,4541,792"/>
+</map>

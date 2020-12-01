@@ -1,0 +1,4 @@
+<map id="llvm::orc::remote::mem::ReserveMem" name="llvm::orc::remote::mem::ReserveMem">
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; ReserveMem, JITTargetAddress\l(ResourceIdMgr::ResourceId AllocID,\l uint64_t Size, uint32_t Align)\&gt;" alt="" coords="416,29,657,99"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; DerivedFunc, FnT \&gt;" alt="" coords="5,43,161,85"/>
+</map>

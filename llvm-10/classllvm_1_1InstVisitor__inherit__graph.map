@@ -1,0 +1,24 @@
+<map id="llvm::InstVisitor&lt; SubClass, RetTy &gt;" name="llvm::InstVisitor&lt; SubClass, RetTy &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l PGOIndirectCallVisitor \&gt;" alt="" coords="383,5,554,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l InstCombiner, Instruction *\&gt;" alt="" coords="373,71,564,112"/>
+<area shape="rect" id="node6" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l DerivedT \&gt;" alt="" coords="408,136,529,177"/>
+<area shape="rect" id="node10" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l SliceBuilder \&gt;" alt="" coords="588,195,709,236"/>
+<area shape="rect" id="node11" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l AllocaSliceRewriter,\l bool \&gt;" alt="" coords="397,253,541,309"/>
+<area shape="rect" id="node13" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l LibCallsShrinkWrap \&gt;" alt="" coords="392,333,545,375"/>
+<area shape="rect" id="node15" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l UnrolledInstAnalyzer,\l bool \&gt;" alt="" coords="393,399,544,455"/>
+<area shape="rect" id="node17" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l Interpreter \&gt;" alt="" coords="408,480,529,521"/>
+<area shape="rect" id="node19" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l ObjectSizeOffsetEvaluator,\l SizeOffsetEvalType \&gt;" alt="" coords="376,546,561,602"/>
+<area shape="rect" id="node21" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l GetEdgesVisitor, void \&gt;" alt="" coords="386,627,551,668"/>
+<area shape="rect" id="node22" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l ObjectSizeOffsetVisitor,\l SizeOffsetType \&gt;" alt="" coords="385,693,552,749"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PGOIndirectCallVisitor.html" title="llvm::PGOIndirectCallVisitor" alt="" coords="745,13,931,39"/>
+<area shape="rect" id="node5" href="$classllvm_1_1InstCombiner.html" title="The core instruction combiner logic. " alt="" coords="772,78,904,105"/>
+<area shape="rect" id="node7" href="$classllvm_1_1PtrUseVisitor.html" title="A base class for visitors over the uses of a pointer value. " alt="" coords="772,136,904,177"/>
+<area shape="rect" id="node8" href="$classllvm_1_1PtrUseVisitor.html" title="llvm::PtrUseVisitor\l\&lt; SliceBuilder \&gt;" alt="" coords="1088,173,1220,215"/>
+<area shape="rect" id="node9" href="$classAllocaSlices_1_1SliceBuilder.html" title="Builder for the alloca slices. " alt="" coords="1269,181,1440,207"/>
+<area shape="rect" id="node12" href="$classllvm_1_1sroa_1_1AllocaSliceRewriter.html" title="Visitor to rewrite instructions using p particular slice of an alloca to use a new alloca..." alt="" coords="737,267,939,294"/>
+<area shape="rect" id="node14" href="$classfalse_1_1LibCallsShrinkWrap.html" title="false::LibCallsShrinkWrap" alt="" coords="751,341,925,367"/>
+<area shape="rect" id="node16" href="$classllvm_1_1UnrolledInstAnalyzer.html" title="llvm::UnrolledInstAnalyzer" alt="" coords="751,414,925,441"/>
+<area shape="rect" id="node18" href="$classllvm_1_1Interpreter.html" title="llvm::Interpreter" alt="" coords="781,487,895,514"/>
+<area shape="rect" id="node20" href="$classllvm_1_1ObjectSizeOffsetEvaluator.html" title="Evaluate the size and offset of an object pointed to by a Value*. " alt="" coords="733,561,943,587"/>
+<area shape="rect" id="node23" href="$classllvm_1_1ObjectSizeOffsetVisitor.html" title="Evaluate the size and offset of an object pointed to by a Value* statically. " alt="" coords="743,707,933,734"/>
+</map>

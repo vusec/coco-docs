@@ -1,0 +1,51 @@
+<map id="include/llvm/Support/LowLevelTypeImpl.h" name="include/llvm/Support/LowLevelTypeImpl.h">
+<area shape="rect" id="node2" href="$InstructionSelector_8h.html" title="include/llvm/CodeGen\l/GlobalISel/InstructionSelector.h" alt="" coords="3414,95,3625,136"/>
+<area shape="rect" id="node11" href="$X86InstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for X86. " alt="" coords="4998,288,5188,329"/>
+<area shape="rect" id="node15" href="$AMDGPUCallLowering_8cpp.html" title="This file implements the lowering of LLVM calls to machine code calls for GlobalISel. " alt="" coords="1008,288,1234,329"/>
+<area shape="rect" id="node18" href="$ARMCallLowering_8cpp.html" title="This file implements the lowering of LLVM calls to machine code calls for GlobalISel. " alt="" coords="6782,295,7026,322"/>
+<area shape="rect" id="node22" href="$X86CallLowering_8cpp.html" title="This file implements the lowering of LLVM calls to machine code calls for GlobalISel. " alt="" coords="7050,295,7280,322"/>
+<area shape="rect" id="node23" href="$LegalizerInfo_8h.html" title="include/llvm/CodeGen\l/GlobalISel/LegalizerInfo.h" alt="" coords="1908,95,2083,136"/>
+<area shape="rect" id="node28" href="$LegalizerInfo_8cpp.html" title="lib/CodeGen/GlobalISel\l/LegalizerInfo.cpp" alt="" coords="4580,191,4739,233"/>
+<area shape="rect" id="node36" href="$RegisterBankInfo_8h.html" title="include/llvm/CodeGen\l/GlobalISel/RegisterBankInfo.h" alt="" coords="4960,95,5162,136"/>
+<area shape="rect" id="node40" href="$MIParser_8cpp.html" title="lib/CodeGen/MIRParser\l/MIParser.cpp" alt="" coords="6658,191,6819,233"/>
+<area shape="rect" id="node43" href="$CodeGen_2GlobalISel_2Utils_8h.html" title="include/llvm/CodeGen\l/GlobalISel/Utils.h" alt="" coords="6316,95,6467,136"/>
+<area shape="rect" id="node44" href="$LowLevelType_8h.html" title="include/llvm/CodeGen\l/LowLevelType.h" alt="" coords="7914,95,8064,136"/>
+<area shape="rect" id="node45" href="$IRTranslator_8cpp.html" title="This file implements the IRTranslator class. " alt="" coords="7819,191,7978,233"/>
+<area shape="rect" id="node46" href="$MachineOperand_8h.html" title="include/llvm/CodeGen\l/MachineOperand.h" alt="" coords="6883,95,7034,136"/>
+<area shape="rect" id="node47" href="$MachineInstr_8cpp.html" title="lib/CodeGen/MachineInstr.cpp" alt="" coords="7096,199,7295,225"/>
+<area shape="rect" id="node48" href="$MachineVerifier_8cpp.html" title="lib/CodeGen/MachineVerifier.cpp" alt="" coords="7320,199,7533,225"/>
+<area shape="rect" id="node49" href="$MIRPrinter_8cpp.html" title="lib/CodeGen/MIRPrinter.cpp" alt="" coords="7557,199,7744,225"/>
+<area shape="rect" id="node50" href="$Support_2LowLevelType_8cpp.html" title="lib/Support/LowLevelType.cpp" alt="" coords="8154,102,8352,129"/>
+<area shape="rect" id="node3" href="$InstructionSelect_8h.html" title="include/llvm/CodeGen\l/GlobalISel/InstructionSelect.h" alt="" coords="2378,191,2576,233"/>
+<area shape="rect" id="node4" href="$InstructionSelect_8cpp.html" title="This file implements the InstructionSelect class. " alt="" coords="2563,288,2722,329"/>
+<area shape="rect" id="node5" href="$ARMTargetMachine_8cpp.html" title="lib/Target/ARM/ARMTarget\lMachine.cpp" alt="" coords="2357,288,2538,329"/>
+<area shape="rect" id="node6" href="$InstructionSelectorImpl_8h.html" title="include/llvm/CodeGen\l/GlobalISel/InstructionSelector\lImpl.h" alt="" coords="5450,184,5648,240"/>
+<area shape="rect" id="node7" href="$AArch64InstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for AArch64. " alt="" coords="5712,288,5922,329"/>
+<area shape="rect" id="node8" href="$AMDGPUInstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for AMDGPU. " alt="" coords="2838,288,3100,329"/>
+<area shape="rect" id="node9" href="$ARMInstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for ARM. " alt="" coords="3125,288,3330,329"/>
+<area shape="rect" id="node10" href="$RISCVInstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for RISCV. " alt="" coords="3482,288,3712,329"/>
+<area shape="rect" id="node12" href="$InstructionSelector_8cpp.html" title="This file implements the InstructionSelector class. " alt="" coords="6169,191,6329,233"/>
+<area shape="rect" id="node13" href="$AArch64Subtarget_8h.html" title="lib/Target/AArch64\l/AArch64Subtarget.h" alt="" coords="4188,191,4331,233"/>
+<area shape="rect" id="node14" href="$AMDGPUSubtarget_8h.html" title="AMDGPU specific subclass of TargetSubtarget. " alt="" coords="2084,199,2353,225"/>
+<area shape="rect" id="node16" href="$AMDGPUInstructionSelector_8h.html" title="This file declares the targeting of the InstructionSelector class for AMDGPU. " alt="" coords="2702,191,2964,233"/>
+<area shape="rect" id="node17" href="$ARMSubtarget_8h.html" title="lib/Target/ARM/ARMSubtarget.h" alt="" coords="3090,199,3301,225"/>
+<area shape="rect" id="node19" href="$MipsSubtarget_8h.html" title="lib/Target/Mips/MipsSubtarget.h" alt="" coords="3958,199,4164,225"/>
+<area shape="rect" id="node20" href="$RISCVSubtarget_8h.html" title="lib/Target/RISCV/RISCVSubtarget.h" alt="" coords="3325,199,3560,225"/>
+<area shape="rect" id="node21" href="$X86Subtarget_8h.html" title="lib/Target/X86/X86Subtarget.h" alt="" coords="3736,199,3933,225"/>
+<area shape="rect" id="node24" href="$LegalizationArtifactCombiner_8h.html" title="include/llvm/CodeGen\l/GlobalISel/LegalizationArtifact\lCombiner.h" alt="" coords="4355,184,4556,240"/>
+<area shape="rect" id="node25" href="$LegalityPredicates_8cpp.html" title="lib/CodeGen/GlobalISel\l/LegalityPredicates.cpp" alt="" coords="1383,191,1542,233"/>
+<area shape="rect" id="node26" href="$LegalizeMutations_8cpp.html" title="lib/CodeGen/GlobalISel\l/LegalizeMutations.cpp" alt="" coords="1566,191,1724,233"/>
+<area shape="rect" id="node27" href="$LegalizerHelper_8cpp.html" title="lib/CodeGen/GlobalISel\l/LegalizerHelper.cpp" alt="" coords="1748,191,1907,233"/>
+<area shape="rect" id="node29" href="$RegBankSelect_8cpp.html" title="This file implements the RegBankSelect class. " alt="" coords="5528,288,5687,329"/>
+<area shape="rect" id="node30" href="$AArch64LegalizerInfo_8h.html" title="This file declares the targeting of the Machinelegalizer class for AArch64. " alt="" coords="31,191,192,233"/>
+<area shape="rect" id="node31" href="$AMDGPULegalizerInfo_8h.html" title="This file declares the targeting of the Machinelegalizer class for AMDGPU. " alt="" coords="216,191,471,233"/>
+<area shape="rect" id="node32" href="$ARMLegalizerInfo_8h.html" title="This file declares the targeting of the Machinelegalizer class for ARM. " alt="" coords="495,191,691,233"/>
+<area shape="rect" id="node33" href="$MipsLegalizerInfo_8h.html" title="This file declares the targeting of the Machinelegalizer class for Mips. " alt="" coords="716,191,908,233"/>
+<area shape="rect" id="node34" href="$RISCVLegalizerInfo_8h.html" title="This file declares the targeting of the Machinelegalizer class for RISCV. " alt="" coords="932,191,1152,233"/>
+<area shape="rect" id="node35" href="$X86LegalizerInfo_8h.html" title="This file declares the targeting of the Machinelegalizer class for X86. " alt="" coords="1176,191,1359,233"/>
+<area shape="rect" id="node37" href="$RegBankSelect_8h.html" title="include/llvm/CodeGen\l/GlobalISel/RegBankSelect.h" alt="" coords="4865,191,5057,233"/>
+<area shape="rect" id="node38" href="$RegisterBankInfo_8cpp.html" title="This file implements the RegisterBankInfo class. " alt="" coords="5267,191,5426,233"/>
+<area shape="rect" id="node39" href="$CodeGen_2GlobalISel_2Utils_8cpp.html" title="lib/CodeGen/GlobalISel\l/Utils.cpp" alt="" coords="5935,191,6094,233"/>
+<area shape="rect" id="node41" href="$MIRParser_8cpp.html" title="lib/CodeGen/MIRParser\l/MIRParser.cpp" alt="" coords="5082,191,5243,233"/>
+<area shape="rect" id="node42" href="$AArch64RegisterBankInfo_8h.html" title="This file declares the targeting of the RegisterBankInfo class for AArch64. " alt="" coords="5723,191,5911,233"/>
+</map>

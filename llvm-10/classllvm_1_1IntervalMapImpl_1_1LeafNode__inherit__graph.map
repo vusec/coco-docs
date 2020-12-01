@@ -1,0 +1,4 @@
+<map id="llvm::IntervalMapImpl::LeafNode&lt; KeyT, ValT, N, Traits &gt;" name="llvm::IntervalMapImpl::LeafNode&lt; KeyT, ValT, N, Traits &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1IntervalMapImpl_1_1NodeBase.html" title="llvm::IntervalMapImpl\l::NodeBase\&lt; std::pair\l\&lt; KeyT, KeyT \&gt;, ValT, N \&gt;" alt="" coords="5,124,187,180"/>
+<area shape="rect" id="node3" href="$classllvm_1_1IntervalMapImpl_1_1NodeBase.html" title="llvm::IntervalMapImpl\l::NodeBase\&lt; T1, T2, N \&gt;" alt="" coords="11,5,181,47"/>
+</map>

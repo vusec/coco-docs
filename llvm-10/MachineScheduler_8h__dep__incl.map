@@ -1,0 +1,40 @@
+<map id="include/llvm/CodeGen/MachineScheduler.h" name="include/llvm/CodeGen/MachineScheduler.h">
+<area shape="rect" id="node2" href="$MachineScheduler_8cpp.html" title="lib/CodeGen/MachineScheduler.cpp" alt="" coords="5,102,236,129"/>
+<area shape="rect" id="node3" href="$MacroFusion_8cpp.html" title="lib/CodeGen/MacroFusion.cpp" alt="" coords="260,102,459,129"/>
+<area shape="rect" id="node4" href="$TargetInstrInfo_8cpp.html" title="lib/CodeGen/TargetInstrInfo.cpp" alt="" coords="483,102,691,129"/>
+<area shape="rect" id="node5" href="$AArch64MacroFusion_8h.html" title="lib/Target/AArch64\l/AArch64MacroFusion.h" alt="" coords="766,95,929,136"/>
+<area shape="rect" id="node6" href="$AArch64TargetMachine_8cpp.html" title="lib/Target/AArch64\l/AArch64TargetMachine.cpp" alt="" coords="669,184,855,225"/>
+<area shape="rect" id="node7" href="$AArch64Subtarget_8cpp.html" title="lib/Target/AArch64\l/AArch64Subtarget.cpp" alt="" coords="953,95,1110,136"/>
+<area shape="rect" id="node8" href="$AMDGPUMacroFusion_8h.html" title="lib/Target/AMDGPU/AMDGPUMacro\lFusion.h" alt="" coords="1135,95,1373,136"/>
+<area shape="rect" id="node11" href="$AMDGPUSubtarget_8cpp.html" title="Implements the AMDGPU specific subclass of TargetSubtarget. " alt="" coords="2405,102,2687,129"/>
+<area shape="rect" id="node12" href="$GCNIterativeScheduler_8h.html" title="lib/Target/AMDGPU/GCNIterative\lScheduler.h" alt="" coords="1633,95,1853,136"/>
+<area shape="rect" id="node14" href="$GCNSchedStrategy_8h.html" title="lib/Target/AMDGPU/GCNSched\lStrategy.h" alt="" coords="1398,95,1609,136"/>
+<area shape="rect" id="node16" href="$R600MachineScheduler_8h.html" title="R600 Machine Scheduler interface. " alt="" coords="1877,95,2100,136"/>
+<area shape="rect" id="node18" href="$SIMachineScheduler_8h.html" title="SI Machine Scheduler interface. " alt="" coords="2125,95,2330,136"/>
+<area shape="rect" id="node19" href="$SIMachineScheduler_8cpp.html" title="SI Machine Scheduler interface. " alt="" coords="2167,184,2373,225"/>
+<area shape="rect" id="node20" href="$ARMMacroFusion_8h.html" title="lib/Target/ARM/ARMMacroFusion.h" alt="" coords="2712,102,2943,129"/>
+<area shape="rect" id="node22" href="$ARMTargetMachine_8cpp.html" title="lib/Target/ARM/ARMTarget\lMachine.cpp" alt="" coords="2685,184,2866,225"/>
+<area shape="rect" id="node23" href="$HexagonMachineScheduler_8h.html" title="lib/Target/Hexagon\l/HexagonMachineScheduler.h" alt="" coords="3019,95,3215,136"/>
+<area shape="rect" id="node26" href="$HexagonSubtarget_8cpp.html" title="lib/Target/Hexagon\l/HexagonSubtarget.cpp" alt="" coords="3239,95,3397,136"/>
+<area shape="rect" id="node27" href="$PPCMachineScheduler_8h.html" title="lib/Target/PowerPC\l/PPCMachineScheduler.h" alt="" coords="3421,95,3593,136"/>
+<area shape="rect" id="node29" href="$PPCTargetMachine_8cpp.html" title="lib/Target/PowerPC\l/PPCTargetMachine.cpp" alt="" coords="3549,184,3714,225"/>
+<area shape="rect" id="node30" href="$PPCSubtarget_8cpp.html" title="lib/Target/PowerPC\l/PPCSubtarget.cpp" alt="" coords="3669,95,3805,136"/>
+<area shape="rect" id="node31" href="$SystemZHazardRecognizer_8h.html" title="lib/Target/SystemZ\l/SystemZHazardRecognizer.h" alt="" coords="3829,95,4028,136"/>
+<area shape="rect" id="node33" href="$SystemZMachineScheduler_8h.html" title="lib/Target/SystemZ\l/SystemZMachineScheduler.h" alt="" coords="3975,184,4173,225"/>
+<area shape="rect" id="node36" href="$X86MacroFusion_8h.html" title="lib/Target/X86/X86MacroFusion.h" alt="" coords="4327,102,4543,129"/>
+<area shape="rect" id="node39" href="$X86TargetMachine_8cpp.html" title="lib/Target/X86/X86Target\lMachine.cpp" alt="" coords="4687,184,4853,225"/>
+<area shape="rect" id="node9" href="$AMDGPUMacroFusion_8cpp.html" title="lib/Target/AMDGPU/AMDGPUMacro\lFusion.cpp" alt="" coords="904,184,1143,225"/>
+<area shape="rect" id="node10" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="1647,184,1885,225"/>
+<area shape="rect" id="node13" href="$GCNIterativeScheduler_8cpp.html" title="lib/Target/AMDGPU/GCNIterative\lScheduler.cpp" alt="" coords="1403,184,1623,225"/>
+<area shape="rect" id="node15" href="$GCNSchedStrategy_8cpp.html" title="This contains a MachineSchedStrategy implementation for maximizing wave occupancy on GCN hardware..." alt="" coords="1167,184,1378,225"/>
+<area shape="rect" id="node17" href="$R600MachineScheduler_8cpp.html" title="R600 Machine Scheduler interface. " alt="" coords="1909,184,2132,225"/>
+<area shape="rect" id="node21" href="$ARMMacroFusion_8cpp.html" title="lib/Target/ARM/ARMMacroFusion.cpp" alt="" coords="2416,191,2660,218"/>
+<area shape="rect" id="node24" href="$HexagonMachineScheduler_8cpp.html" title="lib/Target/Hexagon\l/HexagonMachineScheduler.cpp" alt="" coords="2890,184,3101,225"/>
+<area shape="rect" id="node25" href="$HexagonTargetMachine_8cpp.html" title="lib/Target/Hexagon\l/HexagonTargetMachine.cpp" alt="" coords="3125,184,3314,225"/>
+<area shape="rect" id="node28" href="$PPCMachineScheduler_8cpp.html" title="lib/Target/PowerPC\l/PPCMachineScheduler.cpp" alt="" coords="3338,184,3525,225"/>
+<area shape="rect" id="node32" href="$SystemZHazardRecognizer_8cpp.html" title="lib/Target/SystemZ\l/SystemZHazardRecognizer.cpp" alt="" coords="3739,184,3951,225"/>
+<area shape="rect" id="node34" href="$SystemZMachineScheduler_8cpp.html" title="lib/Target/SystemZ\l/SystemZMachineScheduler.cpp" alt="" coords="3857,273,4067,315"/>
+<area shape="rect" id="node35" href="$SystemZTargetMachine_8cpp.html" title="lib/Target/SystemZ\l/SystemZTargetMachine.cpp" alt="" coords="4092,273,4283,315"/>
+<area shape="rect" id="node37" href="$X86MacroFusion_8cpp.html" title="lib/Target/X86/X86MacroFusion.cpp" alt="" coords="4197,191,4428,218"/>
+<area shape="rect" id="node38" href="$X86Subtarget_8cpp.html" title="lib/Target/X86/X86Subtarget.cpp" alt="" coords="4453,191,4663,218"/>
+</map>

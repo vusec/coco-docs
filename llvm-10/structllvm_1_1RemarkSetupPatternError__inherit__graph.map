@@ -1,0 +1,9 @@
+<map id="llvm::RemarkSetupPatternError" name="llvm::RemarkSetupPatternError">
+<area shape="rect" id="node2" href="$structllvm_1_1RemarkSetupErrorInfo.html" title="llvm::RemarkSetupErrorInfo\l\&lt; RemarkSetupPatternError \&gt;" alt="" coords="1181,38,1377,79"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ErrorInfo.html" title="llvm::ErrorInfo\&lt; RemarkSetup\lPatternError \&gt;" alt="" coords="525,9,721,50"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes. " alt="" coords="152,5,287,32"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ErrorInfo.html" title="llvm::ErrorInfo\&lt; ThisError \&gt;" alt="" coords="533,75,714,101"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types. " alt="" coords="140,67,299,109"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ParentErrT.html" title="ParentErrT" alt="" coords="5,75,91,101"/>
+<area shape="rect" id="node7" href="$structllvm_1_1RemarkSetupErrorInfo.html" title="llvm::RemarkSetupErrorInfo\l\&lt; ThisError \&gt;" alt="" coords="771,67,955,109"/>
+</map>

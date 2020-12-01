@@ -1,0 +1,32 @@
+<map id="llvm::PMDataManager" name="llvm::PMDataManager">
+<area shape="rect" id="node2" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; Analysis\lID, llvm::Pass *\&gt;" alt="" coords="3136,193,3315,235"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; AnalysisID,\l llvm::Pass *, DenseMapInfo\l\&lt; AnalysisID \&gt;, llvm::detail\l::DenseMapPair\&lt; AnalysisID,\l llvm::Pass *\&gt; \&gt;, AnalysisID,\l llvm::Pass *, DenseMapInfo\&lt; AnalysisID\l \&gt;, llvm::detail::DenseMapPair\&lt; AnalysisID,\l llvm::Pass *\&gt; \&gt;" alt="" coords="2304,142,2583,286"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DebugEpochBase.html" title="A base class for data structure classes wishing to make iterators (&quot;handles&quot;) pointing into themselve..." alt="" coords="1399,111,1557,138"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DerivedT, KeyT, ValueT,\l KeyInfoT, BucketT \&gt;" alt="" coords="1818,97,1997,153"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; KeyT, ValueT,\l KeyInfoT, BucketT \&gt;, KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="2345,25,2542,96"/>
+<area shape="rect" id="node6" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="2777,91,2975,132"/>
+<area shape="rect" id="node8" href="$classllvm_1_1PMTopLevelManager.html" title="PMTopLevelManager manages LastUser info and collects common APIs used by top level pass managers..." alt="" coords="3137,421,3314,447"/>
+<area shape="rect" id="node9" href="$classllvm_1_1PMStack.html" title="PMStack &#45; This class implements a stack data structure of PMDataManager pointers. ..." alt="" coords="2822,419,2930,446"/>
+<area shape="rect" id="node10" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::PMDataManager\l *, 8 \&gt;" alt="" coords="2798,470,2954,526"/>
+<area shape="rect" id="node11" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; llvm::PMDataManager * \&gt;" alt="" coords="2351,603,2536,644"/>
+<area shape="rect" id="node12" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="1128,649,1343,691"/>
+<area shape="rect" id="node13" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="llvm::SmallVectorTemplate\lCommon\&lt; T \&gt;" alt="" coords="649,557,828,599"/>
+<area shape="rect" id="node19" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; T \&gt;" alt="" coords="1389,557,1567,599"/>
+<area shape="rect" id="node20" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="919,599,1098,640"/>
+<area shape="rect" id="node30" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="1613,489,1792,531"/>
+<area shape="rect" id="node14" href="$classllvm_1_1SmallVectorBase.html" title="This is all the non&#45;templated stuff common to all SmallVectors. " alt="" coords="181,565,336,591"/>
+<area shape="rect" id="node17" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="This is the part of SmallVectorTemplateBase which does not depend on whether the type T is a POD..." alt="" coords="385,587,564,628"/>
+<area shape="rect" id="node15" href="$classunsigned.html" title="unsigned" alt="" coords="5,539,80,566"/>
+<area shape="rect" id="node18" href="$classllvm_1_1SmallVectorImpl.html" title="This class consists of common code factored out of the SmallVector class to reduce code duplication b..." alt="" coords="1816,565,1999,591"/>
+<area shape="rect" id="node27" href="$classllvm_1_1SmallVector.html" title="This is a &#39;vector&#39; (really, a variable&#45;sized array), optimized for the case when the array is small..." alt="" coords="2377,456,2510,497"/>
+<area shape="rect" id="node29" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; llvm::Pass * \&gt;" alt="" coords="2368,521,2519,563"/>
+<area shape="rect" id="node21" href="$structllvm_1_1SmallVectorStorage.html" title="llvm::SmallVectorStorage\l\&lt; llvm::PMDataManager *, N \&gt;" alt="" coords="2342,383,2545,424"/>
+<area shape="rect" id="node22" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::PMDataManager *\&gt;" alt="" coords="1383,423,1573,464"/>
+<area shape="rect" id="node23" href="$classchar.html" title="char" alt="" coords="715,343,762,370"/>
+<area shape="rect" id="node24" href="$structllvm_1_1AlignedCharArrayUnion.html" title="A suitably aligned and sized character array member which can hold elements of any type..." alt="" coords="913,291,1104,332"/>
+<area shape="rect" id="node26" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\&lt; T \&gt;" alt="" coords="1367,370,1589,397"/>
+<area shape="rect" id="node32" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::Pass *\&gt;" alt="" coords="1383,239,1573,280"/>
+<area shape="rect" id="node25" href="$structllvm_1_1SmallVectorStorage.html" title="Storage for the SmallVector elements. " alt="" coords="1822,363,1993,404"/>
+<area shape="rect" id="node31" href="$structllvm_1_1SmallVectorStorage.html" title="llvm::SmallVectorStorage\l\&lt; llvm::Pass *, N \&gt;" alt="" coords="2358,317,2529,359"/>
+<area shape="rect" id="node28" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::Pass *, 16 \&gt;" alt="" coords="2809,352,2943,393"/>
+</map>

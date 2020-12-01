@@ -1,0 +1,25 @@
+<map id="lib/CodeGen/AsmPrinter/WinException.h" name="lib/CodeGen/AsmPrinter/WinException.h">
+<area shape="rect" id="node2" href="$EHStreamer_8h.html" title="EHStreamer.h" alt="" coords="1179,95,1285,121"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1155,169,1309,196"/>
+<area shape="rect" id="node14" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1624,632,1787,659"/>
+<area shape="rect" id="node50" href="$AsmPrinterHandler_8h.html" title="llvm/CodeGen/AsmPrinterHandler.h" alt="" coords="4238,244,4469,271"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="3235,244,3413,271"/>
+<area shape="rect" id="node22" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2512,475,2683,502"/>
+<area shape="rect" id="node31" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="586,557,739,584"/>
+<area shape="rect" id="node32" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1793,475,1970,502"/>
+<area shape="rect" id="node48" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="3779,393,3952,420"/>
+<area shape="rect" id="node49" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="4129,393,4335,420"/>
+<area shape="rect" id="node5" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1185,319,1329,345"/>
+<area shape="rect" id="node6" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="2513,393,2653,420"/>
+<area shape="rect" id="node44" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2343,319,2489,345"/>
+<area shape="rect" id="node45" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="4081,468,4245,509"/>
+<area shape="rect" id="node47" href="$TypeSize_8h.html" title="llvm/Support/TypeSize.h" alt="" coords="3387,393,3552,420"/>
+<area shape="rect" id="node27" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="752,393,875,420"/>
+<area shape="rect" id="node28" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1176,393,1339,420"/>
+<area shape="rect" id="node38" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2223,393,2377,420"/>
+<area shape="rect" id="node7" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="3926,632,4101,659"/>
+<area shape="rect" id="node13" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2147,475,2336,502"/>
+<area shape="rect" id="node18" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="2044,557,2247,584"/>
+<area shape="rect" id="node8" href="$c_2DataTypes_8h.html" title="llvm&#45;c/DataTypes.h" alt="" coords="3945,707,4081,733"/>
+<area shape="rect" id="node29" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1344,475,1515,502"/>
+</map>

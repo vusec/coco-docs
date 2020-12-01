@@ -1,0 +1,5 @@
+<map id="llvm::TypeIdOffsetVtableInfo" name="llvm::TypeIdOffsetVtableInfo">
+<area shape="rect" id="node3" href="$structllvm_1_1ValueInfo.html" title="Struct that holds a reference to a particular GUID in a global value summary. " alt="" coords="134,257,243,284"/>
+<area shape="rect" id="node4" href="$classllvm_1_1PointerIntPair.html" title="llvm::PointerIntPair\l\&lt; const GlobalValueSummaryMap\lTy::value_type *, 3, int \&gt;" alt="" coords="78,139,299,195"/>
+<area shape="rect" id="node5" href="$classllvm_1_1PointerIntPair.html" title="PointerIntPair &#45; This class implements a pair of a pointer and small integer. " alt="" coords="103,5,274,61"/>
+</map>

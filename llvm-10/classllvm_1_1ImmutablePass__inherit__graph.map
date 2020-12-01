@@ -1,0 +1,22 @@
+<map id="llvm::ImmutablePass" name="llvm::ImmutablePass">
+<area shape="rect" id="node4" href="$classllvm_1_1AMDGPUAAWrapperPass.html" title="Legacy wrapper pass to provide the AMDGPUAAResult object. " alt="" coords="530,5,741,32"/>
+<area shape="rect" id="node5" href="$classllvm_1_1AMDGPUArgumentUsageInfo.html" title="llvm::AMDGPUArgumentUsageInfo" alt="" coords="521,56,750,83"/>
+<area shape="rect" id="node6" href="$classllvm_1_1AssumptionCacheTracker.html" title="An immutable pass that tracks lazily created AssumptionCache objects. " alt="" coords="533,107,738,133"/>
+<area shape="rect" id="node7" href="$classllvm_1_1CFLAndersAAWrapperPass.html" title="Legacy wrapper pass to provide the CFLAndersAAResult object. " alt="" coords="527,157,744,184"/>
+<area shape="rect" id="node8" href="$classllvm_1_1CFLSteensAAWrapperPass.html" title="Legacy wrapper pass to provide the CFLSteensAAResult object. " alt="" coords="527,208,744,235"/>
+<area shape="rect" id="node9" href="$structllvm_1_1ExternalAAWrapperPass.html" title="A wrapper pass for external alias analyses. " alt="" coords="536,259,735,285"/>
+<area shape="rect" id="node11" href="$classllvm_1_1GCModuleInfo.html" title="An analysis pass which caches information about the entire Module. " alt="" coords="566,309,705,336"/>
+<area shape="rect" id="node12" href="$classllvm_1_1MachineBranchProbabilityInfo.html" title="llvm::MachineBranchProbabilityInfo" alt="" coords="522,360,749,387"/>
+<area shape="rect" id="node13" href="$classllvm_1_1MachineModuleInfoWrapperPass.html" title="llvm::MachineModuleInfoWrapperPass" alt="" coords="512,411,759,437"/>
+<area shape="rect" id="node14" href="$classllvm_1_1objcarc_1_1ObjCARCAAWrapperPass.html" title="Legacy wrapper pass to provide the ObjCARCAAResult object. " alt="" coords="505,461,765,488"/>
+<area shape="rect" id="node15" href="$classllvm_1_1PhysicalRegisterUsageInfo.html" title="llvm::PhysicalRegisterUsageInfo" alt="" coords="529,512,742,539"/>
+<area shape="rect" id="node16" href="$classllvm_1_1ProfileSummaryInfoWrapperPass.html" title="An analysis pass based on legacy pass manager to deliver ProfileSummaryInfo. " alt="" coords="551,563,720,605"/>
+<area shape="rect" id="node17" href="$classllvm_1_1ScopedNoAliasAAWrapperPass.html" title="Legacy wrapper pass to provide the ScopedNoAliasAAResult object. " alt="" coords="515,629,756,656"/>
+<area shape="rect" id="node18" href="$classllvm_1_1TargetLibraryInfoWrapperPass.html" title="llvm::TargetLibraryInfoWrapperPass" alt="" coords="520,680,751,707"/>
+<area shape="rect" id="node19" href="$classllvm_1_1TargetPassConfig.html" title="Target&#45;Independent Code Generator Pass Configuration Options. " alt="" coords="556,731,715,757"/>
+<area shape="rect" id="node20" href="$classllvm_1_1TargetTransformInfoWrapperPass.html" title="Wrapper pass for TargetTransformInfo. " alt="" coords="549,782,721,823"/>
+<area shape="rect" id="node21" href="$classllvm_1_1TypeBasedAAWrapperPass.html" title="Legacy wrapper pass to provide the TypeBasedAAResult object. " alt="" coords="527,848,744,875"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ModulePass.html" title="ModulePass class &#45; This class is used to implement unstructured interprocedural optimizations and ana..." alt="" coords="137,411,264,437"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Pass.html" title="Pass interface &#45; Implemented by all &#39;passes&#39;. " alt="" coords="5,411,89,437"/>
+<area shape="rect" id="node10" href="$classllvm_1_1AMDGPUExternalAAWrapper.html" title="llvm::AMDGPUExternalAAWrapper" alt="" coords="813,259,1041,285"/>
+</map>

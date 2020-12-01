@@ -1,0 +1,33 @@
+<map id="include/llvm/DebugInfo/CodeView/TypeStreamMerger.h" name="include/llvm/DebugInfo/CodeView/TypeStreamMerger.h">
+<area shape="rect" id="node2" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="3456,430,3600,457"/>
+<area shape="rect" id="node15" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3691,512,3854,539"/>
+<area shape="rect" id="node33" href="$TypeRecord_8h.html" title="llvm/DebugInfo/CodeView\l/TypeRecord.h" alt="" coords="2140,95,2314,136"/>
+<area shape="rect" id="node39" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="2510,273,2648,300"/>
+<area shape="rect" id="node3" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="3713,594,3853,621"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="4580,825,4743,852"/>
+<area shape="rect" id="node14" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="5019,751,5142,777"/>
+<area shape="rect" id="node26" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2422,594,2576,621"/>
+<area shape="rect" id="node4" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="4750,676,4925,703"/>
+<area shape="rect" id="node5" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="4384,676,4574,703"/>
+<area shape="rect" id="node8" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="4038,751,4208,777"/>
+<area shape="rect" id="node16" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="2406,676,2576,703"/>
+<area shape="rect" id="node18" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="3028,594,3181,621"/>
+<area shape="rect" id="node20" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="4081,594,4258,621"/>
+<area shape="rect" id="node21" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="4536,594,4704,621"/>
+<area shape="rect" id="node27" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="5052,676,5192,703"/>
+<area shape="rect" id="node34" href="$APSInt_8h.html" title="llvm/ADT/APSInt.h" alt="" coords="116,191,250,218"/>
+<area shape="rect" id="node35" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1804,512,1951,539"/>
+<area shape="rect" id="node36" href="$CVRecord_8h.html" title="llvm/DebugInfo/CodeView\l/CVRecord.h" alt="" coords="2492,184,2666,225"/>
+<area shape="rect" id="node37" href="$TypeIndex_8h.html" title="llvm/DebugInfo/CodeView\l/TypeIndex.h" alt="" coords="652,423,826,464"/>
+<area shape="rect" id="node38" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="2974,512,3125,539"/>
+<area shape="rect" id="node48" href="$CodeView_8h.html" title="llvm/DebugInfo/CodeView\l/CodeView.h" alt="" coords="4916,423,5090,464"/>
+<area shape="rect" id="node49" href="$GUID_8h.html" title="llvm/DebugInfo/CodeView\l/GUID.h" alt="" coords="804,587,978,628"/>
+<area shape="rect" id="node50" href="$BinaryStreamArray_8h.html" title="llvm/Support/BinaryStream\lArray.h" alt="" coords="1658,184,1836,225"/>
+<area shape="rect" id="node40" href="$c_2Error_8h.html" title="llvm&#45;c/Error.h" alt="" coords="2617,348,2717,375"/>
+<area shape="rect" id="node41" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="1428,348,1592,375"/>
+<area shape="rect" id="node42" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="1514,430,1641,457"/>
+<area shape="rect" id="node43" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="2741,348,2889,375"/>
+<area shape="rect" id="node44" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer. " alt="" coords="2696,512,2848,539"/>
+<area shape="rect" id="node46" href="$Format_8h.html" title="llvm/Support/Format.h" alt="" coords="2289,348,2440,375"/>
+<area shape="rect" id="node47" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2566,430,2752,457"/>
+</map>

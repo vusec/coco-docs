@@ -1,0 +1,43 @@
+<map id="lib/Target/VE/VESubtarget.h" name="lib/Target/VE/VESubtarget.h">
+<area shape="rect" id="node2" href="$VEFrameLowering_8h.html" title="VEFrameLowering.h" alt="" coords="5151,80,5291,107"/>
+<area shape="rect" id="node16" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="1407,304,1553,331"/>
+<area shape="rect" id="node27" href="$TargetFrameLowering_8h.html" title="llvm/CodeGen/TargetFrame\lLowering.h" alt="" coords="4597,379,4779,420"/>
+<area shape="rect" id="node30" href="$VEISelLowering_8h.html" title="VEISelLowering.h" alt="" coords="4777,80,4903,107"/>
+<area shape="rect" id="node42" href="$VEInstrInfo_8h.html" title="VEInstrInfo.h" alt="" coords="4719,229,4817,256"/>
+<area shape="rect" id="node45" href="$SelectionDAGTargetInfo_8h.html" title="llvm/CodeGen/SelectionDAGTarget\lInfo.h" alt="" coords="4804,379,5033,420"/>
+<area shape="rect" id="node46" href="$TargetSubtargetInfo_8h.html" title="llvm/CodeGen/TargetSubtarget\lInfo.h" alt="" coords="2241,379,2444,420"/>
+<area shape="rect" id="node3" href="$VE_8h.html" title="VE.h" alt="" coords="4979,155,5029,181"/>
+<area shape="rect" id="node4" href="$VEMCTargetDesc_8h.html" title="MCTargetDesc/VEMCTargetDesc.h" alt="" coords="4842,229,5075,256"/>
+<area shape="rect" id="node8" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="4075,721,4264,748"/>
+<area shape="rect" id="node10" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="4258,229,4446,256"/>
+<area shape="rect" id="node11" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2775,565,2921,591"/>
+<area shape="rect" id="node26" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="4665,565,4831,591"/>
+<area shape="rect" id="node12" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2392,647,2547,673"/>
+<area shape="rect" id="node17" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2404,565,2548,591"/>
+<area shape="rect" id="node18" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2605,647,2768,673"/>
+<area shape="rect" id="node19" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="610,721,787,748"/>
+<area shape="rect" id="node21" href="$DerivedTypes_8h.html" title="llvm/IR/DerivedTypes.h" alt="" coords="1232,386,1392,413"/>
+<area shape="rect" id="node22" href="$Type_8h.html" title="llvm/IR/Type.h" alt="" coords="1182,475,1290,502"/>
+<area shape="rect" id="node23" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="989,565,1144,591"/>
+<area shape="rect" id="node24" href="$TypeSize_8h.html" title="llvm/Support/TypeSize.h" alt="" coords="1269,565,1435,591"/>
+<area shape="rect" id="node25" href="$Alignment_8h.html" title="llvm/Support/Alignment.h" alt="" coords="144,647,312,673"/>
+<area shape="rect" id="node28" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="3199,557,3390,599"/>
+<area shape="rect" id="node29" href="$StringSwitch_8h.html" title="llvm/ADT/StringSwitch.h" alt="" coords="3465,475,3631,502"/>
+<area shape="rect" id="node31" href="$TargetLowering_8h.html" title="This file describes how to lower LLVM code to machine code. " alt="" coords="2719,155,2929,181"/>
+<area shape="rect" id="node32" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="637,647,763,673"/>
+<area shape="rect" id="node33" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1611,565,1765,591"/>
+<area shape="rect" id="node34" href="$ProfileSummaryInfo_8h.html" title="llvm/Analysis/ProfileSummary\lInfo.h" alt="" coords="1720,468,1917,509"/>
+<area shape="rect" id="node35" href="$DAGCombine_8h.html" title="llvm/CodeGen/DAGCombine.h" alt="" coords="4527,475,4729,502"/>
+<area shape="rect" id="node36" href="$ISDOpcodes_8h.html" title="llvm/CodeGen/ISDOpcodes.h" alt="" coords="4176,565,4371,591"/>
+<area shape="rect" id="node37" href="$RuntimeLibcalls_8h.html" title="llvm/CodeGen/RuntimeLibcalls.h" alt="" coords="3064,229,3277,256"/>
+<area shape="rect" id="node38" href="$SelectionDAG_8h.html" title="llvm/CodeGen/SelectionDAG.h" alt="" coords="3413,386,3616,413"/>
+<area shape="rect" id="node40" href="$SelectionDAGNodes_8h.html" title="llvm/CodeGen/SelectionDAGNodes.h" alt="" coords="3655,475,3897,502"/>
+<area shape="rect" id="node41" href="$TargetCallingConv_8h.html" title="llvm/CodeGen/TargetCalling\lConv.h" alt="" coords="245,557,432,599"/>
+<area shape="rect" id="node39" href="$MachineMemOperand_8h.html" title="llvm/CodeGen/MachineMemOperand.h" alt="" coords="4395,565,4642,591"/>
+<area shape="rect" id="node43" href="$VERegisterInfo_8h.html" title="VERegisterInfo.h" alt="" coords="4623,304,4745,331"/>
+<area shape="rect" id="node44" href="$TargetInstrInfo_8h.html" title="llvm/CodeGen/TargetInstr\lInfo.h" alt="" coords="3014,468,3186,509"/>
+<area shape="rect" id="node47" href="$PBQPRAConstraint_8h.html" title="llvm/CodeGen/PBQPRAConstraint.h" alt="" coords="2143,565,2379,591"/>
+<area shape="rect" id="node48" href="$ScheduleDAGMutation_8h.html" title="llvm/CodeGen/ScheduleDAGMutation.h" alt="" coords="803,475,1056,502"/>
+<area shape="rect" id="node49" href="$SchedulerRegistry_8h.html" title="llvm/CodeGen/SchedulerRegistry.h" alt="" coords="3921,475,4148,502"/>
+<area shape="rect" id="node50" href="$MCSubtargetInfo_8h.html" title="llvm/MC/MCSubtargetInfo.h" alt="" coords="2246,475,2431,502"/>
+</map>

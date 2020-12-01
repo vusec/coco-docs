@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structllvm_1_1object_1_1Elf__Shdr__Base.html" title="llvm::object::Elf_Shdr\l_Base\&lt; ELFT \&gt;" alt="" coords="5,5,152,47"/>
+<area shape="rect" id="node2" href="$structllvm_1_1object_1_1Elf__Shdr__Impl.html" title="llvm::object::Elf_Shdr\l_Impl\&lt; ELFT \&gt;" alt="" coords="200,5,347,47"/>
+</map>

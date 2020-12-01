@@ -1,0 +1,5 @@
+<map id="llvm::coverage::RawCoverageReader" name="llvm::coverage::RawCoverageReader">
+<area shape="rect" id="node2" href="$classllvm_1_1coverage_1_1RawCoverageFilenamesReader.html" title="Reader for the raw coverage filenames. " alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1coverage_1_1RawCoverageMappingDummyChecker.html" title="Checks if the given coverage mapping data is exported for an unused function. " alt="" coords="252,71,451,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1coverage_1_1RawCoverageMappingReader.html" title="Reader for the raw coverage mapping data. " alt="" coords="252,136,451,177"/>
+</map>

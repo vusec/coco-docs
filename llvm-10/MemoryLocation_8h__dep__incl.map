@@ -1,0 +1,51 @@
+<map id="include/llvm/Analysis/MemoryLocation.h" name="include/llvm/Analysis/MemoryLocation.h">
+<area shape="rect" id="node2" href="$AliasAnalysis_8h.html" title="include/llvm/Analysis\l/AliasAnalysis.h" alt="" coords="3025,95,3170,136"/>
+<area shape="rect" id="node5" href="$LoopAccessAnalysis_8cpp.html" title="lib/Analysis/LoopAccessAnalysis.cpp" alt="" coords="2841,459,3081,486"/>
+<area shape="rect" id="node6" href="$LoopIdiomRecognize_8cpp.html" title="lib/Transforms/Scalar\l/LoopIdiomRecognize.cpp" alt="" coords="6227,452,6400,493"/>
+<area shape="rect" id="node7" href="$SLPVectorizer_8cpp.html" title="lib/Transforms/Vectorize\l/SLPVectorizer.cpp" alt="" coords="1127,452,1291,493"/>
+<area shape="rect" id="node8" href="$AliasSetTracker_8cpp.html" title="lib/Analysis/AliasSetTracker.cpp" alt="" coords="4435,281,4645,307"/>
+<area shape="rect" id="node9" href="$BasicAliasAnalysis_8h.html" title="This is the interface for LLVM&#39;s primary stateless and local alias analysis. " alt="" coords="2023,184,2172,225"/>
+<area shape="rect" id="node12" href="$AliasAnalysis_8cpp.html" title="lib/Analysis/AliasAnalysis.cpp" alt="" coords="1599,281,1796,307"/>
+<area shape="rect" id="node13" href="$BasicAliasAnalysis_8cpp.html" title="lib/Analysis/BasicAliasAnalysis.cpp" alt="" coords="1201,281,1431,307"/>
+<area shape="rect" id="node14" href="$ArgumentPromotion_8cpp.html" title="lib/Transforms/IPO\l/ArgumentPromotion.cpp" alt="" coords="2265,273,2431,315"/>
+<area shape="rect" id="node15" href="$FunctionAttrs_8cpp.html" title="This file implements interprocedural passes which walk the call&#45;graph deducing and/or propagating fun..." alt="" coords="3742,273,3874,315"/>
+<area shape="rect" id="node17" href="$CFLAndersAliasAnalysis_8cpp.html" title="lib/Analysis/CFLAndersAlias\lAnalysis.cpp" alt="" coords="989,273,1177,315"/>
+<area shape="rect" id="node18" href="$CFLSteensAliasAnalysis_8h.html" title="This is the interface for LLVM&#39;s unification&#45;based alias analysis implemented with CFL graph reachabi..." alt="" coords="1514,184,1697,225"/>
+<area shape="rect" id="node21" href="$DeadStoreElimination_8cpp.html" title="lib/Transforms/Scalar\l/DeadStoreElimination.cpp" alt="" coords="551,273,729,315"/>
+<area shape="rect" id="node22" href="$MemCpyOptimizer_8cpp.html" title="lib/Transforms/Scalar\l/MemCpyOptimizer.cpp" alt="" coords="753,273,913,315"/>
+<area shape="rect" id="node25" href="$Lint_8cpp.html" title="lib/Analysis/Lint.cpp" alt="" coords="3323,281,3461,307"/>
+<area shape="rect" id="node26" href="$MachineInstr_8cpp.html" title="lib/CodeGen/MachineInstr.cpp" alt="" coords="3099,281,3298,307"/>
+<area shape="rect" id="node27" href="$MachineOperand_8cpp.html" title="lib/CodeGen/MachineOperand.cpp" alt="" coords="5271,281,5492,307"/>
+<area shape="rect" id="node28" href="$SelectionDAGBuilder_8cpp.html" title="lib/CodeGen/SelectionDAG\l/SelectionDAGBuilder.cpp" alt="" coords="3485,273,3667,315"/>
+<area shape="rect" id="node29" href="$MemoryDependenceAnalysis_8h.html" title="include/llvm/Analysis\l/MemoryDependenceAnalysis.h" alt="" coords="347,184,554,225"/>
+<area shape="rect" id="node30" href="$MemoryDependenceAnalysis_8cpp.html" title="lib/Analysis/MemoryDependence\lAnalysis.cpp" alt="" coords="313,273,527,315"/>
+<area shape="rect" id="node31" href="$AMDGPURewriteOutArguments_8cpp.html" title="lib/Target/AMDGPU/AMDGPURewrite\lOutArguments.cpp" alt="" coords="42,273,289,315"/>
+<area shape="rect" id="node32" href="$MemorySSA_8h.html" title="This file exposes an interface to building/using memory SSA to walk memory instructions using a use/d..." alt="" coords="5978,184,6123,225"/>
+<area shape="rect" id="node33" href="$MemorySSA_8cpp.html" title="lib/Analysis/MemorySSA.cpp" alt="" coords="5817,281,6009,307"/>
+<area shape="rect" id="node34" href="$InterleavedLoadCombinePass_8cpp.html" title="lib/CodeGen/InterleavedLoad\lCombinePass.cpp" alt="" coords="6034,273,6225,315"/>
+<area shape="rect" id="node38" href="$TypeBasedAliasAnalysis_8cpp.html" title="lib/Analysis/TypeBasedAlias\lAnalysis.cpp" alt="" coords="3797,184,3985,225"/>
+<area shape="rect" id="node39" href="$ImplicitNullChecks_8cpp.html" title="lib/CodeGen/ImplicitNull\lChecks.cpp" alt="" coords="4009,184,4172,225"/>
+<area shape="rect" id="node40" href="$MachinePipeliner_8cpp.html" title="lib/CodeGen/MachinePipeliner.cpp" alt="" coords="4197,191,4419,218"/>
+<area shape="rect" id="node41" href="$DAGCombiner_8cpp.html" title="lib/CodeGen/SelectionDAG\l/DAGCombiner.cpp" alt="" coords="4444,184,4625,225"/>
+<area shape="rect" id="node42" href="$AMDGPUAliasAnalysis_8cpp.html" title="This is the AMGPU address space based alias analysis pass. " alt="" coords="4650,184,4881,225"/>
+<area shape="rect" id="node43" href="$SIInstrInfo_8cpp.html" title="SI Implementation of TargetInstrInfo. " alt="" coords="4905,184,5087,225"/>
+<area shape="rect" id="node44" href="$HexagonLoopIdiomRecognition_8cpp.html" title="lib/Target/Hexagon\l/HexagonLoopIdiomRecognition.cpp" alt="" coords="5112,184,5344,225"/>
+<area shape="rect" id="node45" href="$HexagonStoreWidening_8cpp.html" title="lib/Target/Hexagon\l/HexagonStoreWidening.cpp" alt="" coords="5369,184,5557,225"/>
+<area shape="rect" id="node46" href="$LoadStoreVectorizer_8cpp.html" title="lib/Transforms/Vectorize\l/LoadStoreVectorizer.cpp" alt="" coords="5581,184,5750,225"/>
+<area shape="rect" id="node47" href="$MemoryLocation_8cpp.html" title="lib/Analysis/MemoryLocation.cpp" alt="" coords="6453,102,6667,129"/>
+<area shape="rect" id="node48" href="$ScopedNoAliasAA_8cpp.html" title="lib/Analysis/ScopedNoAlias\lAA.cpp" alt="" coords="6691,95,6874,136"/>
+<area shape="rect" id="node49" href="$MIParser_8cpp.html" title="lib/CodeGen/MIRParser\l/MIParser.cpp" alt="" coords="6898,95,7059,136"/>
+<area shape="rect" id="node50" href="$SelectionDAG_8cpp.html" title="lib/CodeGen/SelectionDAG\l/SelectionDAG.cpp" alt="" coords="7084,95,7265,136"/>
+<area shape="rect" id="node3" href="$AliasSetTracker_8h.html" title="include/llvm/Analysis\l/AliasSetTracker.h" alt="" coords="2999,184,3145,225"/>
+<area shape="rect" id="node4" href="$LoopAccessAnalysis_8h.html" title="include/llvm/Analysis\l/LoopAccessAnalysis.h" alt="" coords="2882,363,3041,404"/>
+<area shape="rect" id="node10" href="$LoopAnalysisManager_8h.html" title="This header provides classes for managing per&#45;loop analyses. " alt="" coords="2708,273,2873,315"/>
+<area shape="rect" id="node11" href="$LoopCacheAnalysis_8h.html" title="This file defines the interface for the loop cache analysis. " alt="" coords="3627,363,3781,404"/>
+<area shape="rect" id="node16" href="$CFLAndersAliasAnalysis_8h.html" title="This is the interface for LLVM&#39;s inclusion&#45;based alias analysis implemented with CFL graph reachabili..." alt="" coords="1307,184,1490,225"/>
+<area shape="rect" id="node19" href="$DependenceAnalysis_8h.html" title="include/llvm/Analysis\l/DependenceAnalysis.h" alt="" coords="3899,273,4059,315"/>
+<area shape="rect" id="node20" href="$GlobalsModRef_8h.html" title="This is the interface for a simple mod/ref and alias analysis over globals. " alt="" coords="1086,184,1231,225"/>
+<area shape="rect" id="node23" href="$IVDescriptors_8h.html" title="include/llvm/Analysis\l/IVDescriptors.h" alt="" coords="2197,184,2342,225"/>
+<area shape="rect" id="node24" href="$Loads_8h.html" title="include/llvm/Analysis\l/Loads.h" alt="" coords="3271,184,3417,225"/>
+<area shape="rect" id="node35" href="$ObjCARCAliasAnalysis_8h.html" title="This file declares a simple ARC&#45;aware AliasAnalysis using special knowledge of Objective C to enhance..." alt="" coords="1823,184,1998,225"/>
+<area shape="rect" id="node36" href="$ObjCARCAnalysisUtils_8h.html" title="This file defines common analysis utilities used by the ObjC ARC Optimizer. " alt="" coords="2367,184,2540,225"/>
+<area shape="rect" id="node37" href="$ScalarEvolutionAliasAnalysis_8h.html" title="This is the interface for a SCEV&#45;based alias analysis. " alt="" coords="2565,184,2771,225"/>
+</map>

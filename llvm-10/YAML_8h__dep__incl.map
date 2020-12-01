@@ -1,0 +1,26 @@
+<map id="include/llvm/ObjectYAML/YAML.h" name="include/llvm/ObjectYAML/YAML.h">
+<area shape="rect" id="node2" href="$CodeViewYAMLTypeHashing_8h.html" title="include/llvm/ObjectYAML\l/CodeViewYAMLTypeHashing.h" alt="" coords="238,95,449,136"/>
+<area shape="rect" id="node3" href="$COFFYAML_8h.html" title="include/llvm/ObjectYAML\l/COFFYAML.h" alt="" coords="28,184,197,225"/>
+<area shape="rect" id="node12" href="$ELFYAML_8h.html" title="This file declares classes for handling the YAML representation of ELF. " alt="" coords="673,95,843,136"/>
+<area shape="rect" id="node15" href="$MachOYAML_8h.html" title="This file declares classes for handling the YAML representation of Mach&#45;O. " alt="" coords="1075,95,1244,136"/>
+<area shape="rect" id="node17" href="$MinidumpYAML_8h.html" title="include/llvm/ObjectYAML\l/MinidumpYAML.h" alt="" coords="1324,95,1493,136"/>
+<area shape="rect" id="node20" href="$WasmYAML_8h.html" title="This file declares classes for handling the YAML representation of wasm binaries. ..." alt="" coords="1517,95,1687,136"/>
+<area shape="rect" id="node22" href="$XCOFFYAML_8h.html" title="include/llvm/ObjectYAML\l/XCOFFYAML.h" alt="" coords="1711,95,1880,136"/>
+<area shape="rect" id="node24" href="$CodeViewYAMLSymbols_8cpp.html" title="lib/ObjectYAML/CodeViewYAMLSymbols.cpp" alt="" coords="1904,102,2193,129"/>
+<area shape="rect" id="node25" href="$YAML_8cpp.html" title="lib/ObjectYAML/YAML.cpp" alt="" coords="2218,102,2397,129"/>
+<area shape="rect" id="node11" href="$CodeViewYAMLTypeHashing_8cpp.html" title="lib/ObjectYAML/CodeViewYAMLType\lHashing.cpp" alt="" coords="222,184,465,225"/>
+<area shape="rect" id="node4" href="$ObjectYAML_8h.html" title="include/llvm/ObjectYAML\l/ObjectYAML.h" alt="" coords="927,273,1096,315"/>
+<area shape="rect" id="node10" href="$COFFYAML_8cpp.html" title="lib/ObjectYAML/COFFYAML.cpp" alt="" coords="5,281,220,307"/>
+<area shape="rect" id="node5" href="$COFFEmitter_8cpp.html" title="The COFF component of yaml2obj. " alt="" coords="408,363,628,389"/>
+<area shape="rect" id="node6" href="$MachOEmitter_8cpp.html" title="The Mach component of yaml2obj. " alt="" coords="653,363,879,389"/>
+<area shape="rect" id="node7" href="$ObjectYAML_8cpp.html" title="lib/ObjectYAML/ObjectYAML.cpp" alt="" coords="903,363,1119,389"/>
+<area shape="rect" id="node8" href="$WasmEmitter_8cpp.html" title="The Wasm component of yaml2obj. " alt="" coords="1144,363,1367,389"/>
+<area shape="rect" id="node9" href="$yaml2obj_8cpp.html" title="lib/ObjectYAML/yaml2obj.cpp" alt="" coords="1391,363,1586,389"/>
+<area shape="rect" id="node13" href="$ELFEmitter_8cpp.html" title="The ELF component of yaml2obj. " alt="" coords="539,191,747,218"/>
+<area shape="rect" id="node14" href="$ELFYAML_8cpp.html" title="lib/ObjectYAML/ELFYAML.cpp" alt="" coords="771,191,974,218"/>
+<area shape="rect" id="node16" href="$MachOYAML_8cpp.html" title="lib/ObjectYAML/MachOYAML.cpp" alt="" coords="1049,191,1269,218"/>
+<area shape="rect" id="node18" href="$MinidumpEmitter_8cpp.html" title="lib/ObjectYAML/MinidumpEmitter.cpp" alt="" coords="1345,191,1585,218"/>
+<area shape="rect" id="node19" href="$MinidumpYAML_8cpp.html" title="lib/ObjectYAML/MinidumpYAML.cpp" alt="" coords="1609,191,1843,218"/>
+<area shape="rect" id="node21" href="$WasmYAML_8cpp.html" title="lib/ObjectYAML/WasmYAML.cpp" alt="" coords="1918,191,2134,218"/>
+<area shape="rect" id="node23" href="$XCOFFYAML_8cpp.html" title="lib/ObjectYAML/XCOFFYAML.cpp" alt="" coords="2159,191,2381,218"/>
+</map>

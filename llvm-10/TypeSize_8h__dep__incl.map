@@ -1,0 +1,51 @@
+<map id="include/llvm/Support/TypeSize.h" name="include/llvm/Support/TypeSize.h">
+<area shape="rect" id="node2" href="$DenseMapInfo_8h.html" title="include/llvm/ADT/DenseMap\lInfo.h" alt="" coords="2122,95,2312,136"/>
+<area shape="rect" id="node11" href="$Instructions_8cpp.html" title="lib/IR/Instructions.cpp" alt="" coords="4287,541,4438,568"/>
+<area shape="rect" id="node12" href="$Type_8cpp.html" title="lib/IR/Type.cpp" alt="" coords="4932,541,5043,568"/>
+<area shape="rect" id="node21" href="$SelectionDAGNodes_8h.html" title="include/llvm/CodeGen\l/SelectionDAGNodes.h" alt="" coords="5276,363,5435,404"/>
+<area shape="rect" id="node24" href="$DataLayout_8cpp.html" title="lib/IR/DataLayout.cpp" alt="" coords="4725,370,4874,397"/>
+<area shape="rect" id="node43" href="$ValueTypes_8h.html" title="include/llvm/CodeGen\l/ValueTypes.h" alt="" coords="5192,184,5343,225"/>
+<area shape="rect" id="node44" href="$ValueTypes_8cpp.html" title="lib/CodeGen/ValueTypes.cpp" alt="" coords="5050,281,5242,307"/>
+<area shape="rect" id="node45" href="$DataLayout_8h.html" title="include/llvm/IR/DataLayout.h" alt="" coords="4430,281,4620,307"/>
+<area shape="rect" id="node46" href="$LegalizeVectorTypes_8cpp.html" title="lib/CodeGen/SelectionDAG\l/LegalizeVectorTypes.cpp" alt="" coords="5490,363,5672,404"/>
+<area shape="rect" id="node47" href="$DerivedTypes_8h.html" title="include/llvm/IR/DerivedTypes.h" alt="" coords="4701,191,4906,218"/>
+<area shape="rect" id="node48" href="$Type_8h.html" title="include/llvm/IR/Type.h" alt="" coords="4860,102,5014,129"/>
+<area shape="rect" id="node49" href="$MachineValueType_8h.html" title="include/llvm/Support\l/MachineValueType.h" alt="" coords="5243,95,5391,136"/>
+<area shape="rect" id="node50" href="$AArch64StackOffset_8h.html" title="lib/Target/AArch64\l/AArch64StackOffset.h" alt="" coords="5418,184,5576,225"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title="include/llvm/ADT/DenseMap.h" alt="" coords="2356,191,2556,218"/>
+<area shape="rect" id="node4" href="$DenseSet_8h.html" title="include/llvm/ADT/DenseSet.h" alt="" coords="3076,281,3270,307"/>
+<area shape="rect" id="node5" href="$BranchProbabilityInfo_8h.html" title="include/llvm/Analysis\l/BranchProbabilityInfo.h" alt="" coords="1679,363,1840,404"/>
+<area shape="rect" id="node6" href="$DWARFLinkerDeclContext_8h.html" title="include/llvm/DWARFLinker\l/DWARFLinkerDeclContext.h" alt="" coords="2941,363,3136,404"/>
+<area shape="rect" id="node7" href="$CFLAndersAliasAnalysis_8cpp.html" title="lib/Analysis/CFLAndersAlias\lAnalysis.cpp" alt="" coords="2775,452,2963,493"/>
+<area shape="rect" id="node8" href="$MemorySSA_8cpp.html" title="lib/Analysis/MemorySSA.cpp" alt="" coords="2473,459,2665,486"/>
+<area shape="rect" id="node9" href="$ConstantsContext_8h.html" title="lib/IR/ConstantsContext.h" alt="" coords="4027,370,4202,397"/>
+<area shape="rect" id="node10" href="$LLVMContextImpl_8h.html" title="lib/IR/LLVMContextImpl.h" alt="" coords="4054,459,4228,486"/>
+<area shape="rect" id="node13" href="$WholeProgramDevirt_8cpp.html" title="lib/Transforms/IPO\l/WholeProgramDevirt.cpp" alt="" coords="3523,363,3695,404"/>
+<area shape="rect" id="node14" href="$ScopedHashTable_8h.html" title="include/llvm/ADT/ScopedHash\lTable.h" alt="" coords="3650,273,3851,315"/>
+<area shape="rect" id="node15" href="$AliasSetTracker_8h.html" title="include/llvm/Analysis\l/AliasSetTracker.h" alt="" coords="2114,363,2259,404"/>
+<area shape="rect" id="node16" href="$AssumptionCache_8h.html" title="include/llvm/Analysis\l/AssumptionCache.h" alt="" coords="1774,273,1919,315"/>
+<area shape="rect" id="node17" href="$ScalarEvolution_8h.html" title="include/llvm/Analysis\l/ScalarEvolution.h" alt="" coords="1318,363,1463,404"/>
+<area shape="rect" id="node18" href="$TargetInstrInfo_8h.html" title="include/llvm/CodeGen\l/TargetInstrInfo.h" alt="" coords="1010,363,1160,404"/>
+<area shape="rect" id="node19" href="$Metadata_8h.html" title="This file contains the declarations for metadata subclasses. " alt="" coords="3294,281,3473,307"/>
+<area shape="rect" id="node20" href="$MemoryLocation_8h.html" title="This file provides utility analysis objects describing memory locations. " alt="" coords="2658,363,2803,404"/>
+<area shape="rect" id="node22" href="$ValueMap_8h.html" title="include/llvm/IR/ValueMap.h" alt="" coords="1414,281,1596,307"/>
+<area shape="rect" id="node23" href="$BypassSlowDivision_8h.html" title="include/llvm/Transforms\l/Utils/BypassSlowDivision.h" alt="" coords="1943,273,2131,315"/>
+<area shape="rect" id="node25" href="$X86DomainReassignment_8cpp.html" title="lib/Target/X86/X86Domain\lReassignment.cpp" alt="" coords="3875,273,4050,315"/>
+<area shape="rect" id="node26" href="$X86OptimizeLEAs_8cpp.html" title="lib/Target/X86/X86Optimize\lLEAs.cpp" alt="" coords="316,363,499,404"/>
+<area shape="rect" id="node27" href="$PointerEmbeddedInt_8h.html" title="include/llvm/ADT/Pointer\lEmbeddedInt.h" alt="" coords="231,184,398,225"/>
+<area shape="rect" id="node28" href="$PointerSumType_8h.html" title="include/llvm/ADT/Pointer\lSumType.h" alt="" coords="40,184,207,225"/>
+<area shape="rect" id="node29" href="$MachineInstr_8h.html" title="include/llvm/CodeGen\l/MachineInstr.h" alt="" coords="332,273,483,315"/>
+<area shape="rect" id="node30" href="$StackMaps_8cpp.html" title="lib/CodeGen/StackMaps.cpp" alt="" coords="629,370,818,397"/>
+<area shape="rect" id="node31" href="$PointerUnion_8h.html" title="include/llvm/ADT/Pointer\lUnion.h" alt="" coords="3267,184,3434,225"/>
+<area shape="rect" id="node32" href="$BinaryFormat_2Minidump_8h.html" title="include/llvm/BinaryFormat\l/Minidump.h" alt="" coords="761,184,934,225"/>
+<area shape="rect" id="node33" href="$TypeHashing_8h.html" title="include/llvm/DebugInfo\l/CodeView/TypeHashing.h" alt="" coords="508,273,686,315"/>
+<area shape="rect" id="node34" href="$TypeIndex_8h.html" title="include/llvm/DebugInfo\l/CodeView/TypeIndex.h" alt="" coords="473,184,636,225"/>
+<area shape="rect" id="node35" href="$FileEntry_8h.html" title="include/llvm/DebugInfo\l/GSYM/FileEntry.h" alt="" coords="1060,184,1214,225"/>
+<area shape="rect" id="node36" href="$Dominators_8h.html" title="include/llvm/IR/Dominators.h" alt="" coords="2612,281,2803,307"/>
+<area shape="rect" id="node37" href="$ValueHandle_8h.html" title="include/llvm/IR/ValueHandle.h" alt="" coords="1982,191,2180,218"/>
+<area shape="rect" id="node38" href="$MCRegister_8h.html" title="include/llvm/MC/MCRegister.h" alt="" coords="1340,191,1542,218"/>
+<area shape="rect" id="node39" href="$ObjectFile_8h.html" title="include/llvm/Object\l/ObjectFile.h" alt="" coords="1566,184,1700,225"/>
+<area shape="rect" id="node40" href="$LowLevelTypeImpl_8h.html" title="include/llvm/Support\l/LowLevelTypeImpl.h" alt="" coords="4429,184,4576,225"/>
+<area shape="rect" id="node41" href="$AliasAnalysisSummary_8h.html" title="This file defines various utility types and functions useful to summary&#45;based alias analysis..." alt="" coords="2879,273,3051,315"/>
+<area shape="rect" id="node42" href="$SmallPtrSet_8cpp.html" title="lib/Support/SmallPtrSet.cpp" alt="" coords="1724,191,1907,218"/>
+</map>

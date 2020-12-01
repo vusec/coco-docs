@@ -1,0 +1,9 @@
+<map id="include/llvm/DebugInfo/MSF/MSFBuilder.h" name="include/llvm/DebugInfo/MSF/MSFBuilder.h">
+<area shape="rect" id="node2" href="$MSFBuilder_8cpp.html" title="lib/DebugInfo/MSF/MSFBuilder.cpp" alt="" coords="5,102,233,129"/>
+<area shape="rect" id="node3" href="$DbiModuleDescriptorBuilder_8cpp.html" title="lib/DebugInfo/PDB/Native\l/DbiModuleDescriptorBuilder.cpp" alt="" coords="258,95,471,136"/>
+<area shape="rect" id="node4" href="$DbiStreamBuilder_8cpp.html" title="lib/DebugInfo/PDB/Native\l/DbiStreamBuilder.cpp" alt="" coords="495,95,669,136"/>
+<area shape="rect" id="node5" href="$GSIStreamBuilder_8cpp.html" title="lib/DebugInfo/PDB/Native\l/GSIStreamBuilder.cpp" alt="" coords="693,95,866,136"/>
+<area shape="rect" id="node6" href="$InfoStreamBuilder_8cpp.html" title="lib/DebugInfo/PDB/Native\l/InfoStreamBuilder.cpp" alt="" coords="890,95,1063,136"/>
+<area shape="rect" id="node7" href="$PDBFileBuilder_8cpp.html" title="lib/DebugInfo/PDB/Native\l/PDBFileBuilder.cpp" alt="" coords="1087,95,1261,136"/>
+<area shape="rect" id="node8" href="$TpiStreamBuilder_8cpp.html" title="lib/DebugInfo/PDB/Native\l/TpiStreamBuilder.cpp" alt="" coords="1285,95,1458,136"/>
+</map>

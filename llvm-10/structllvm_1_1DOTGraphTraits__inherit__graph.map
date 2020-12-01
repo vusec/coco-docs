@@ -1,0 +1,9 @@
+<map id="llvm::DOTGraphTraits&lt; Ty &gt;" name="llvm::DOTGraphTraits&lt; Ty &gt;">
+<area shape="rect" id="node3" href="$structllvm_1_1DOTGraphTraits.html" title="llvm::DOTGraphTraits\l\&lt; RegionNode *\&gt;" alt="" coords="564,5,715,47"/>
+<area shape="rect" id="node5" href="$structllvm_1_1DOTGraphTraits.html" title="llvm::DOTGraphTraits\l\&lt; GraphType \&gt;" alt="" coords="564,71,715,112"/>
+<area shape="rect" id="node6" href="$structllvm_1_1DOTGraphTraits.html" title="llvm::DOTGraphTraits\l\&lt; DomTreeNode *\&gt;" alt="" coords="564,136,715,177"/>
+<area shape="rect" id="node2" href="$structllvm_1_1DefaultDOTGraphTraits.html" title="DefaultDOTGraphTraits &#45; This class provides the default implementations of all of the DOTGraphTraits ..." alt="" coords="5,78,197,105"/>
+<area shape="rect" id="node4" href="$structllvm_1_1DOTGraphTraits_3_01RegionInfo_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; RegionInfo * \&gt;" alt="" coords="773,5,923,47"/>
+<area shape="rect" id="node7" href="$structllvm_1_1DOTGraphTraits_3_01DominatorTree_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; DominatorTree * \&gt;" alt="" coords="773,103,923,144"/>
+<area shape="rect" id="node8" href="$structllvm_1_1DOTGraphTraits_3_01PostDominatorTree_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; PostDominatorTree * \&gt;" alt="" coords="764,168,932,209"/>
+</map>

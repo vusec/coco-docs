@@ -1,0 +1,5 @@
+<map id="llvm::ImutProfileInfo&lt; T &gt;" name="llvm::ImutProfileInfo&lt; T &gt;">
+<area shape="rect" id="node2" href="$structllvm_1_1ImutContainerInfo.html" title="ImutContainerInfo &#45; Generic definition of comparison operations for elements of immutable containers ..." alt="" coords="5,102,196,129"/>
+<area shape="rect" id="node3" href="$structllvm_1_1ImutProfileInfo.html" title="llvm::ImutProfileInfo\l\&lt; T *\&gt;" alt="" coords="221,95,359,136"/>
+<area shape="rect" id="node4" href="$structllvm_1_1ImutContainerInfo_3_01T_01_5_01_4.html" title="ImutContainerInfo &#45; Specialization for pointer values to treat pointers as references to unique objec..." alt="" coords="211,185,369,227"/>
+</map>

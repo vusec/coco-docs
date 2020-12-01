@@ -1,0 +1,34 @@
+<map id="lib/Target/Mips/MipsTargetStreamer.h" name="lib/Target/Mips/MipsTargetStreamer.h">
+<area shape="rect" id="node2" href="$MipsABIFlagsSection_8h.html" title="MCTargetDesc/MipsABIFlags\lSection.h" alt="" coords="1207,319,1404,360"/>
+<area shape="rect" id="node4" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2905,483,3060,509"/>
+<area shape="rect" id="node5" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="4178,557,4318,584"/>
+<area shape="rect" id="node29" href="$MipsABIInfo_8h.html" title="MCTargetDesc/MipsABIInfo.h" alt="" coords="342,408,541,435"/>
+<area shape="rect" id="node32" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="55,483,233,509"/>
+<area shape="rect" id="node36" href="$MCELFStreamer_8h.html" title="llvm/MC/MCELFStreamer.h" alt="" coords="808,95,992,121"/>
+<area shape="rect" id="node40" href="$MCStreamer_8h.html" title="llvm/MC/MCStreamer.h" alt="" coords="1941,244,2101,271"/>
+<area shape="rect" id="node3" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2384,408,2531,435"/>
+<area shape="rect" id="node20" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="3183,557,3372,584"/>
+<area shape="rect" id="node28" href="$MipsABIFlags_8h.html" title="llvm/Support/MipsABIFlags.h" alt="" coords="1040,408,1232,435"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="901,707,1064,733"/>
+<area shape="rect" id="node15" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1193,632,1364,659"/>
+<area shape="rect" id="node14" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1077,557,1209,584"/>
+<area shape="rect" id="node6" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="4177,632,4300,659"/>
+<area shape="rect" id="node8" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="897,632,1068,659"/>
+<area shape="rect" id="node30" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="433,483,557,509"/>
+<area shape="rect" id="node31" href="$CallingConv_8h.html" title="llvm/IR/CallingConv.h" alt="" coords="258,483,409,509"/>
+<area shape="rect" id="node33" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="492,557,647,584"/>
+<area shape="rect" id="node34" href="$LaneBitmask_8h.html" title="A common definition of LaneBitmask for use in TableGen and CodeGen. " alt="" coords="132,632,295,659"/>
+<area shape="rect" id="node35" href="$MCRegister_8h.html" title="llvm/MC/MCRegister.h" alt="" coords="1487,557,1643,584"/>
+<area shape="rect" id="node37" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1013,483,1176,509"/>
+<area shape="rect" id="node38" href="$MCDirectives_8h.html" title="llvm/MC/MCDirectives.h" alt="" coords="785,326,951,353"/>
+<area shape="rect" id="node39" href="$MCObjectStreamer_8h.html" title="llvm/MC/MCObjectStreamer.h" alt="" coords="733,169,931,196"/>
+<area shape="rect" id="node41" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1619,408,1763,435"/>
+<area shape="rect" id="node43" href="$MCLinkerOptimizationHint_8h.html" title="llvm/MC/MCLinkerOptimization\lHint.h" alt="" coords="1990,319,2194,360"/>
+<area shape="rect" id="node44" href="$MCSymbol_8h.html" title="llvm/MC/MCSymbol.h" alt="" coords="2382,326,2533,353"/>
+<area shape="rect" id="node45" href="$MCWinEH_8h.html" title="llvm/MC/MCWinEH.h" alt="" coords="1715,326,1864,353"/>
+<area shape="rect" id="node46" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="3568,408,3707,435"/>
+<area shape="rect" id="node47" href="$MD5_8h.html" title="llvm/Support/MD5.h" alt="" coords="2219,326,2357,353"/>
+<area shape="rect" id="node48" href="$SMLoc_8h.html" title="llvm/Support/SMLoc.h" alt="" coords="4342,557,4493,584"/>
+<area shape="rect" id="node49" href="$TargetParser_8h.html" title="llvm/Support/TargetParser.h" alt="" coords="1358,408,1543,435"/>
+<area shape="rect" id="node50" href="$VersionTuple_8h.html" title="Defines the llvm::VersionTuple class, which represents a version in the form major[.minor[.subminor]]. " alt="" coords="4047,326,4233,353"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="llvm::BitIntegerState&lt; base_ty, BestState, WorstState &gt;" name="llvm::BitIntegerState&lt; base_ty, BestState, WorstState &gt;">
+<area shape="rect" id="node2" href="$structllvm_1_1IntegerStateBase.html" title="Simple state with integers encoding. " alt="" coords="58,109,213,165"/>
+<area shape="rect" id="node3" href="$structllvm_1_1AbstractState.html" title="An interface to query the internal state of an abstract attribute. " alt="" coords="5,5,140,32"/>
+</map>

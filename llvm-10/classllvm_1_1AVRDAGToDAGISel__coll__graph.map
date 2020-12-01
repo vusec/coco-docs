@@ -1,0 +1,33 @@
+<map id="llvm::AVRDAGToDAGISel" name="llvm::AVRDAGToDAGISel">
+<area shape="rect" id="node2" href="$classllvm_1_1SelectionDAGISel.html" title="SelectionDAGISel &#45; This is the common base class used for SelectionDAG&#45;based pattern&#45;matching instruc..." alt="" coords="1485,660,1645,687"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MachineFunctionPass.html" title="MachineFunctionPass &#45; This class adapts the FunctionPass interface to allow convenient creation of pa..." alt="" coords="1121,145,1304,172"/>
+<area shape="rect" id="node4" href="$classllvm_1_1FunctionPass.html" title="FunctionPass class &#45; This class is used to implement most global optimizations. " alt="" coords="761,40,895,67"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Pass.html" title="Pass interface &#45; Implemented by all &#39;passes&#39;. " alt="" coords="355,5,439,32"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SwiftErrorValueTracking.html" title="llvm::SwiftErrorValueTracking" alt="" coords="1115,200,1310,227"/>
+<area shape="rect" id="node7" href="$classllvm_1_1MachineFunction.html" title="llvm::MachineFunction" alt="" coords="1136,251,1289,277"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l VariableDbgInfo, 4 \&gt;" alt="" coords="755,157,901,198"/>
+<area shape="rect" id="node9" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; VariableDbgInfo \&gt;" alt="" coords="322,57,473,98"/>
+<area shape="rect" id="node10" href="$structllvm_1_1SmallVectorStorage.html" title="llvm::SmallVectorStorage\l\&lt; VariableDbgInfo, N \&gt;" alt="" coords="312,122,483,163"/>
+<area shape="rect" id="node11" href="$classllvm_1_1SmallVector.html" title="This is a &#39;vector&#39; (really, a variable&#45;sized array), optimized for the case when the array is small..." alt="" coords="331,187,464,229"/>
+<area shape="rect" id="node14" href="$classllvm_1_1GCFunctionInfo.html" title="Garbage collection metadata for a single function. " alt="" coords="1139,433,1286,460"/>
+<area shape="rect" id="node15" href="$classllvm_1_1SelectionDAG.html" title="This is used to represent a portion of an LLVM function in a low&#45;level Data Dependence DAG representa..." alt="" coords="759,407,897,433"/>
+<area shape="rect" id="node17" href="$classbool.html" title="bool" alt="" coords="9,444,56,471"/>
+<area shape="rect" id="node28" href="$classllvm_1_1MCTargetOptions.html" title="llvm::MCTargetOptions" alt="" coords="319,1409,476,1436"/>
+<area shape="rect" id="node44" href="$classllvm_1_1TargetLoweringBase.html" title="This base class for TargetLowering contains the SelectionDAG&#45;independent parts that can be used from ..." alt="" coords="741,660,915,687"/>
+<area shape="rect" id="node18" href="$classunsigned.html" title="unsigned" alt="" coords="360,733,435,760"/>
+<area shape="rect" id="node20" href="$classllvm_1_1TargetMachine.html" title="Primary interface to the complete machine description for the target machine. " alt="" coords="1143,1039,1283,1065"/>
+<area shape="rect" id="node21" href="$classllvm_1_1TargetOptions.html" title="llvm::TargetOptions" alt="" coords="760,1132,896,1159"/>
+<area shape="rect" id="node49" href="$classllvm_1_1TargetInstrInfo.html" title="TargetInstrInfo &#45; Interface to description of machine instruction set. " alt="" coords="759,519,897,545"/>
+<area shape="rect" id="node19" href="$classchar.html" title="char" alt="" coords="1189,1152,1236,1179"/>
+<area shape="rect" id="node34" href="$classllvm_1_1Target.html" title="Target &#45; Wrapper for Target specific information. " alt="" coords="783,1365,873,1392"/>
+<area shape="rect" id="node36" href="$classllvm_1_1DataLayout.html" title="A parsed version of the target data layout string in and methods for querying it. ..." alt="" coords="767,761,889,788"/>
+<area shape="rect" id="node39" href="$classllvm_1_1Triple.html" title="Triple &#45; Helper class for working with autoconf configuration names. " alt="" coords="785,879,871,905"/>
+<area shape="rect" id="node41" href="$classllvm_1_1AAResults.html" title="llvm::AAResults" alt="" coords="1154,1269,1271,1296"/>
+<area shape="rect" id="node42" href="$classllvm_1_1TargetLibraryInfo.html" title="Provides information about what library functions are available for the current target. " alt="" coords="1137,1320,1289,1347"/>
+<area shape="rect" id="node43" href="$classllvm_1_1TargetLowering.html" title="This class defines information used to lower LLVM code to legal SelectionDAG operators that the targe..." alt="" coords="1141,660,1284,687"/>
+<area shape="rect" id="node45" href="$classllvm_1_1MachineRegisterInfo.html" title="MachineRegisterInfo &#45; Keep track of information for virtual and physical registers, including vreg register classes, use/def chains for registers, etc. " alt="" coords="1125,1371,1300,1397"/>
+<area shape="rect" id="node46" href="$classllvm_1_1SmallPtrSet.html" title="llvm::SmallPtrSet\&lt;\l const llvm::Instruction\l *, 4 \&gt;" alt="" coords="1135,1527,1290,1583"/>
+<area shape="rect" id="node47" href="$classllvm_1_1SmallPtrSetImpl.html" title="llvm::SmallPtrSetImpl\l\&lt; const llvm::Instruction * \&gt;" alt="" coords="736,1599,920,1641"/>
+<area shape="rect" id="node48" href="$classllvm_1_1SmallPtrSet.html" title="SmallPtrSet &#45; This class implements a set which is optimized for holding SmallSize or less elements..." alt="" coords="753,1534,903,1575"/>
+<area shape="rect" id="node50" href="$classllvm_1_1MCInstrInfo.html" title="Interface to description of machine instruction set. " alt="" coords="336,433,459,460"/>
+</map>

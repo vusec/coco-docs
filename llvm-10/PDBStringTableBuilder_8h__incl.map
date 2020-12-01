@@ -1,0 +1,32 @@
+<map id="include/llvm/DebugInfo/PDB/Native/PDBStringTableBuilder.h" name="include/llvm/DebugInfo/PDB/Native/PDBStringTableBuilder.h">
+<area shape="rect" id="node2" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1554,281,1708,307"/>
+<area shape="rect" id="node32" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="4403,519,4550,546"/>
+<area shape="rect" id="node37" href="$DebugStringTableSubsection_8h.html" title="llvm/DebugInfo/CodeView\l/DebugStringTableSubsection.h" alt="" coords="4289,95,4496,136"/>
+<area shape="rect" id="node42" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="4323,281,4462,307"/>
+<area shape="rect" id="node3" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="1948,363,2125,389"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="4048,751,4211,777"/>
+<area shape="rect" id="node10" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1870,601,2040,628"/>
+<area shape="rect" id="node19" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="3484,601,3637,628"/>
+<area shape="rect" id="node21" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3180,601,3357,628"/>
+<area shape="rect" id="node35" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="312,601,486,628"/>
+<area shape="rect" id="node36" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="532,437,738,464"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="4999,437,5143,464"/>
+<area shape="rect" id="node5" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="2406,519,2546,546"/>
+<area shape="rect" id="node33" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="1270,512,1434,553"/>
+<area shape="rect" id="node34" href="$TypeSize_8h.html" title="llvm/Support/TypeSize.h" alt="" coords="2014,437,2179,464"/>
+<area shape="rect" id="node16" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3763,519,3926,546"/>
+<area shape="rect" id="node27" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="4726,601,4880,628"/>
+<area shape="rect" id="node6" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="4268,676,4458,703"/>
+<area shape="rect" id="node17" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="4610,676,4780,703"/>
+<area shape="rect" id="node38" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="4672,437,4822,464"/>
+<area shape="rect" id="node39" href="$CodeView_8h.html" title="llvm/DebugInfo/CodeView\l/CodeView.h" alt="" coords="28,273,202,315"/>
+<area shape="rect" id="node40" href="$DebugSubsection_8h.html" title="llvm/DebugInfo/CodeView\l/DebugSubsection.h" alt="" coords="28,184,202,225"/>
+<area shape="rect" id="node41" href="$BinaryStreamRef_8h.html" title="llvm/Support/BinaryStream\lRef.h" alt="" coords="5968,184,6147,225"/>
+<area shape="rect" id="node43" href="$c_2Error_8h.html" title="llvm&#45;c/Error.h" alt="" coords="5368,363,5468,389"/>
+<area shape="rect" id="node44" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="4492,363,4656,389"/>
+<area shape="rect" id="node45" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="4266,437,4393,464"/>
+<area shape="rect" id="node46" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="5492,363,5640,389"/>
+<area shape="rect" id="node47" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer. " alt="" coords="1560,519,1712,546"/>
+<area shape="rect" id="node49" href="$Format_8h.html" title="llvm/Support/Format.h" alt="" coords="4317,363,4468,389"/>
+<area shape="rect" id="node50" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2684,437,2869,464"/>
+</map>

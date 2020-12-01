@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1MapVector.html" title="llvm::MapVector\&lt; KeyT,\l ValueT, SmallDenseMap\l\&lt; KeyT, unsigned, N \&gt;,\l SmallVector\&lt; std::pair\l\&lt; KeyT, ValueT \&gt;, N \&gt; \&gt;" alt="" coords="5,5,176,91"/>
+<area shape="rect" id="node2" href="$structllvm_1_1SmallMapVector.html" title="A MapVector that performs no allocations if smaller than a certain size. " alt="" coords="224,27,375,69"/>
+</map>

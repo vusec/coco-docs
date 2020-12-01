@@ -1,0 +1,6 @@
+<map id="llvm::BlockFrequencyAnalysis" name="llvm::BlockFrequencyAnalysis">
+<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title="llvm::AnalysisInfoMixin\l\&lt; BlockFrequencyAnalysis \&gt;" alt="" coords="104,213,295,255"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; BlockFrequencyAnalysis \&gt;" alt="" coords="5,109,196,151"/>
+<area shape="rect" id="node4" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes. " alt="" coords="131,5,268,47"/>
+<area shape="rect" id="node5" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes. " alt="" coords="221,109,378,151"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="llvm::scc_iterator&lt; GraphT, GT &gt;" name="llvm::scc_iterator&lt; GraphT, GT &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; scc_iterator\&lt;\l GraphT, GT \&gt;, std::forward\l_iterator_tag, const std::\lvector\&lt; GT::NodeRef \&gt;, ptrdiff_t \&gt;" alt="" coords="700,79,924,164"/>
+<area shape="rect" id="node4" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="267,145,491,215"/>
+</map>

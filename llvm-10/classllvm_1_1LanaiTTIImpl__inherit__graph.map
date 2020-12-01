@@ -1,0 +1,7 @@
+<map id="llvm::LanaiTTIImpl" name="llvm::LanaiTTIImpl">
+<area shape="rect" id="node2" href="$classllvm_1_1BasicTTIImplBase.html" title="llvm::BasicTTIImplBase\l\&lt; LanaiTTIImpl \&gt;" alt="" coords="145,304,307,345"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TargetTransformInfoImplCRTPBase.html" title="llvm::TargetTransformInfo\lImplCRTPBase\&lt; LanaiTTIImpl \&gt;" alt="" coords="5,200,220,241"/>
+<area shape="rect" id="node4" href="$classllvm_1_1TargetTransformInfoImplBase.html" title="Base class for use as a mix&#45;in that aids implementing a TargetTransformInfo&#45;compatible class..." alt="" coords="43,5,215,47"/>
+<area shape="rect" id="node5" href="$classllvm_1_1TargetTransformInfoImplCRTPBase.html" title="CRTP base class for use as a mix&#45;in that aids implementing a TargetTransformInfo&#45;compatible class..." alt="" coords="151,96,323,137"/>
+<area shape="rect" id="node6" href="$classllvm_1_1BasicTTIImplBase.html" title="Base class which can be used to help build a TTI implementation. " alt="" coords="245,207,439,234"/>
+</map>

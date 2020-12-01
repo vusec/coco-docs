@@ -1,0 +1,34 @@
+<map id="include/llvm/CodeGen/TargetRegisterInfo.h" name="include/llvm/CodeGen/TargetRegisterInfo.h">
+<area shape="rect" id="node2" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2630,415,2774,442"/>
+<area shape="rect" id="node4" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="392,661,581,688"/>
+<area shape="rect" id="node14" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1710,505,1873,531"/>
+<area shape="rect" id="node15" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3900,661,4070,688"/>
+<area shape="rect" id="node19" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1891,587,2068,613"/>
+<area shape="rect" id="node32" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3064,415,3210,442"/>
+<area shape="rect" id="node33" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="5096,95,5287,136"/>
+<area shape="rect" id="node41" href="$LaneBitmask_8h.html" title="A common definition of LaneBitmask for use in TableGen and CodeGen. " alt="" coords="3618,259,3781,285"/>
+<area shape="rect" id="node43" href="$Printable_8h.html" title="llvm/Support/Printable.h" alt="" coords="6059,333,6220,360"/>
+<area shape="rect" id="node45" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="4012,184,4190,211"/>
+<area shape="rect" id="node49" href="$CallingConv_8h.html" title="llvm/IR/CallingConv.h" alt="" coords="6347,102,6498,129"/>
+<area shape="rect" id="node50" href="$MachineValueType_8h.html" title="llvm/Support/MachineValue\lType.h" alt="" coords="3157,497,3338,539"/>
+<area shape="rect" id="node3" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="875,505,1015,531"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="588,736,750,763"/>
+<area shape="rect" id="node13" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="552,505,674,531"/>
+<area shape="rect" id="node26" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3413,505,3568,531"/>
+<area shape="rect" id="node7" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1472,587,1642,613"/>
+<area shape="rect" id="node17" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1243,587,1396,613"/>
+<area shape="rect" id="node21" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="696,587,864,613"/>
+<area shape="rect" id="node27" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="3424,587,3556,613"/>
+<area shape="rect" id="node34" href="$GraphTraits_8h.html" title="llvm/ADT/GraphTraits.h" alt="" coords="4994,184,5154,211"/>
+<area shape="rect" id="node35" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="5229,505,5341,531"/>
+<area shape="rect" id="node36" href="$simple__ilist_8h.html" title="llvm/ADT/simple_ilist.h" alt="" coords="5218,587,5376,613"/>
+<area shape="rect" id="node37" href="$ilist__node_8h.html" title="llvm/ADT/ilist_node.h" alt="" coords="5837,661,5984,688"/>
+<area shape="rect" id="node38" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="5373,415,5568,442"/>
+<area shape="rect" id="node39" href="$DebugLoc_8h.html" title="llvm/IR/DebugLoc.h" alt="" coords="5693,505,5832,531"/>
+<area shape="rect" id="node40" href="$MachineInstrBundleIterator_8h.html" title="llvm/CodeGen/MachineInstr\lBundleIterator.h" alt="" coords="5114,408,5298,449"/>
+<area shape="rect" id="node48" href="$BranchProbability_8h.html" title="llvm/Support/BranchProbability.h" alt="" coords="4290,587,4502,613"/>
+<area shape="rect" id="node42" href="$Format_8h.html" title="llvm/Support/Format.h" alt="" coords="3594,333,3744,360"/>
+<area shape="rect" id="node44" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2934,333,3119,360"/>
+<area shape="rect" id="node46" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2080,505,2234,531"/>
+<area shape="rect" id="node47" href="$MCRegister_8h.html" title="llvm/MC/MCRegister.h" alt="" coords="4763,259,4919,285"/>
+</map>

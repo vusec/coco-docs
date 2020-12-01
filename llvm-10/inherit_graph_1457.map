@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1CallSiteBase.html" title="llvm::CallSiteBase\l\&lt; Function, BasicBlock,\l Value, User, Use, Instruction,\l CallInst, InvokeInst, CallBrInst,\l User::op_iterator \&gt;" alt="" coords="5,5,216,91"/>
+<area shape="rect" id="node2" href="$classllvm_1_1CallSite.html" title="llvm::CallSite" alt="" coords="264,35,364,61"/>
+</map>

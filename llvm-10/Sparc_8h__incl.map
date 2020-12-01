@@ -1,0 +1,30 @@
+<map id="lib/Target/Sparc/Sparc.h" name="lib/Target/Sparc/Sparc.h">
+<area shape="rect" id="node2" href="$SparcMCTargetDesc_8h.html" title="MCTargetDesc/SparcMCTarget\lDesc.h" alt="" coords="3559,80,3766,121"/>
+<area shape="rect" id="node13" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="553,543,742,569"/>
+<area shape="rect" id="node18" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="403,87,591,114"/>
+<area shape="rect" id="node3" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="3764,169,3939,196"/>
+<area shape="rect" id="node4" href="$c_2DataTypes_8h.html" title="llvm&#45;c/DataTypes.h" alt="" coords="3842,244,3978,271"/>
+<area shape="rect" id="node14" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3518,617,3681,644"/>
+<area shape="rect" id="node19" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="965,393,1112,420"/>
+<area shape="rect" id="node34" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="899,244,1023,271"/>
+<area shape="rect" id="node38" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="2444,169,2590,196"/>
+<area shape="rect" id="node45" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="736,244,826,271"/>
+<area shape="rect" id="node48" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="294,169,460,196"/>
+<area shape="rect" id="node49" href="$TargetOptions_8h.html" title="llvm/Target/TargetOptions.h" alt="" coords="86,169,270,196"/>
+<area shape="rect" id="node20" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1718,468,1873,495"/>
+<area shape="rect" id="node25" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="689,617,860,644"/>
+<area shape="rect" id="node21" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3346,543,3486,569"/>
+<area shape="rect" id="node24" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1172,543,1304,569"/>
+<area shape="rect" id="node35" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="1244,319,1371,345"/>
+<area shape="rect" id="node36" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1532,468,1694,495"/>
+<area shape="rect" id="node37" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="2119,543,2296,569"/>
+<area shape="rect" id="node39" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2285,393,2429,420"/>
+<area shape="rect" id="node40" href="$DerivedTypes_8h.html" title="llvm/IR/DerivedTypes.h" alt="" coords="2660,244,2820,271"/>
+<area shape="rect" id="node41" href="$Type_8h.html" title="llvm/IR/Type.h" alt="" coords="2808,319,2916,345"/>
+<area shape="rect" id="node42" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="3014,543,3169,569"/>
+<area shape="rect" id="node43" href="$TypeSize_8h.html" title="llvm/Support/TypeSize.h" alt="" coords="2673,393,2838,420"/>
+<area shape="rect" id="node44" href="$Alignment_8h.html" title="llvm/Support/Alignment.h" alt="" coords="3294,468,3462,495"/>
+<area shape="rect" id="node46" href="$PassAnalysisSupport_8h.html" title="llvm/PassAnalysisSupport.h" alt="" coords="932,319,1118,345"/>
+<area shape="rect" id="node47" href="$PassSupport_8h.html" title="llvm/PassSupport.h" alt="" coords="772,319,908,345"/>
+<area shape="rect" id="node50" href="$MCTargetOptions_8h.html" title="llvm/MC/MCTargetOptions.h" alt="" coords="36,393,225,420"/>
+</map>

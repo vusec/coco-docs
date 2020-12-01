@@ -1,0 +1,31 @@
+<map id="include/llvm/DebugInfo/CodeView/SimpleTypeSerializer.h" name="include/llvm/DebugInfo/CodeView/SimpleTypeSerializer.h">
+<area shape="rect" id="node2" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1717,541,1861,568"/>
+<area shape="rect" id="node13" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2663,616,2825,643"/>
+<area shape="rect" id="node25" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3721,691,3861,717"/>
+<area shape="rect" id="node31" href="$CodeView_8h.html" title="llvm/DebugInfo/CodeView\l/CodeView.h" alt="" coords="4327,452,4502,493"/>
+<area shape="rect" id="node37" href="$RecordSerialization_8h.html" title="llvm/DebugInfo/CodeView\l/RecordSerialization.h" alt="" coords="2813,363,2987,404"/>
+<area shape="rect" id="node41" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="2768,541,2907,568"/>
+<area shape="rect" id="node43" href="$TypeIndex_8h.html" title="llvm/DebugInfo/CodeView\l/TypeIndex.h" alt="" coords="3351,363,3526,404"/>
+<area shape="rect" id="node45" href="$TypeRecord_8h.html" title="llvm/DebugInfo/CodeView\l/TypeRecord.h" alt="" coords="3050,273,3225,315"/>
+<area shape="rect" id="node46" href="$TypeRecordMapping_8h.html" title="llvm/DebugInfo/CodeView\l/TypeRecordMapping.h" alt="" coords="3301,95,3475,136"/>
+<area shape="rect" id="node47" href="$TypeVisitorCallbacks_8h.html" title="llvm/DebugInfo/CodeView\l/TypeVisitorCallbacks.h" alt="" coords="2999,184,3174,225"/>
+<area shape="rect" id="node48" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="3653,541,3814,568"/>
+<area shape="rect" id="node49" href="$BinaryByteStream_8h.html" title="llvm/Support/BinaryByteStream.h" alt="" coords="1041,459,1257,486"/>
+<area shape="rect" id="node50" href="$BinaryStreamWriter_8h.html" title="llvm/Support/BinaryStream\lWriter.h" alt="" coords="1575,452,1753,493"/>
+<area shape="rect" id="node3" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="2414,691,2554,717"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3995,840,4157,867"/>
+<area shape="rect" id="node12" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="3688,765,3811,792"/>
+<area shape="rect" id="node24" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1499,616,1653,643"/>
+<area shape="rect" id="node4" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="4361,765,4551,792"/>
+<area shape="rect" id="node6" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2637,765,2808,792"/>
+<area shape="rect" id="node14" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="827,691,997,717"/>
+<area shape="rect" id="node16" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2985,691,3138,717"/>
+<area shape="rect" id="node18" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3315,691,3493,717"/>
+<area shape="rect" id="node19" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="4493,691,4661,717"/>
+<area shape="rect" id="node33" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="3410,616,3561,643"/>
+<area shape="rect" id="node38" href="$APSInt_8h.html" title="llvm/ADT/APSInt.h" alt="" coords="3039,459,3174,486"/>
+<area shape="rect" id="node39" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1296,541,1443,568"/>
+<area shape="rect" id="node40" href="$CodeViewError_8h.html" title="llvm/DebugInfo/CodeView\l/CodeViewError.h" alt="" coords="2687,452,2862,493"/>
+<area shape="rect" id="node42" href="$BinaryStreamReader_8h.html" title="llvm/Support/BinaryStream\lReader.h" alt="" coords="2332,452,2511,493"/>
+<area shape="rect" id="node44" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="2079,459,2257,486"/>
+</map>

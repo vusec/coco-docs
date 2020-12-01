@@ -1,0 +1,36 @@
+<map id="include/llvm/CodeGen/RegisterScavenging.h" name="include/llvm/CodeGen/RegisterScavenging.h">
+<area shape="rect" id="node2" href="$BranchRelaxation_8cpp.html" title="lib/CodeGen/BranchRelaxation.cpp" alt="" coords="5,102,232,129"/>
+<area shape="rect" id="node3" href="$LiveDebugValues_8cpp.html" title="lib/CodeGen/LiveDebugValues.cpp" alt="" coords="257,102,482,129"/>
+<area shape="rect" id="node4" href="$PrologEpilogInserter_8cpp.html" title="lib/CodeGen/PrologEpilog\lInserter.cpp" alt="" coords="507,95,677,136"/>
+<area shape="rect" id="node5" href="$RegisterScavenging_8cpp.html" title="This file implements the machine register scavenger. " alt="" coords="701,102,941,129"/>
+<area shape="rect" id="node6" href="$ShrinkWrap_8cpp.html" title="lib/CodeGen/ShrinkWrap.cpp" alt="" coords="966,102,1157,129"/>
+<area shape="rect" id="node7" href="$AArch64A57FPLoadBalancing_8cpp.html" title="lib/Target/AArch64\l/AArch64A57FPLoadBalancing.cpp" alt="" coords="1181,95,1408,136"/>
+<area shape="rect" id="node8" href="$AArch64FrameLowering_8cpp.html" title="lib/Target/AArch64\l/AArch64FrameLowering.cpp" alt="" coords="1433,95,1623,136"/>
+<area shape="rect" id="node9" href="$AArch64RegisterInfo_8cpp.html" title="lib/Target/AArch64\l/AArch64RegisterInfo.cpp" alt="" coords="1647,95,1819,136"/>
+<area shape="rect" id="node10" href="$AArch64SpeculationHardening_8cpp.html" title="lib/Target/AArch64\l/AArch64SpeculationHardening.cpp" alt="" coords="1843,95,2071,136"/>
+<area shape="rect" id="node11" href="$SIFrameLowering_8cpp.html" title="lib/Target/AMDGPU/SIFrame\lLowering.cpp" alt="" coords="2095,95,2289,136"/>
+<area shape="rect" id="node12" href="$SIInstrInfo_8cpp.html" title="SI Implementation of TargetInstrInfo. " alt="" coords="2313,95,2495,136"/>
+<area shape="rect" id="node13" href="$SIRegisterInfo_8cpp.html" title="SI implementation of the TargetRegisterInfo class. " alt="" coords="2520,95,2725,136"/>
+<area shape="rect" id="node14" href="$ARCFrameLowering_8cpp.html" title="lib/Target/ARC/ARCFrameLowering.cpp" alt="" coords="2749,102,3005,129"/>
+<area shape="rect" id="node15" href="$ARCRegisterInfo_8cpp.html" title="lib/Target/ARC/ARCRegister\lInfo.cpp" alt="" coords="3030,95,3221,136"/>
+<area shape="rect" id="node16" href="$ARMBaseRegisterInfo_8cpp.html" title="lib/Target/ARM/ARMBaseRegister\lInfo.cpp" alt="" coords="3245,95,3467,136"/>
+<area shape="rect" id="node17" href="$ARMFrameLowering_8cpp.html" title="lib/Target/ARM/ARMFrameLowering.cpp" alt="" coords="3491,102,3749,129"/>
+<area shape="rect" id="node18" href="$ThumbRegisterInfo_8cpp.html" title="lib/Target/ARM/ThumbRegister\lInfo.cpp" alt="" coords="3773,95,3976,136"/>
+<area shape="rect" id="node19" href="$AVRExpandPseudoInsts_8cpp.html" title="lib/Target/AVR/AVRExpand\lPseudoInsts.cpp" alt="" coords="4000,95,4184,136"/>
+<area shape="rect" id="node20" href="$BPFRegisterInfo_8cpp.html" title="lib/Target/BPF/BPFRegister\lInfo.cpp" alt="" coords="4209,95,4394,136"/>
+<area shape="rect" id="node21" href="$HexagonFrameLowering_8cpp.html" title="lib/Target/Hexagon\l/HexagonFrameLowering.cpp" alt="" coords="4419,95,4611,136"/>
+<area shape="rect" id="node22" href="$HexagonRegisterInfo_8cpp.html" title="lib/Target/Hexagon\l/HexagonRegisterInfo.cpp" alt="" coords="4635,95,4810,136"/>
+<area shape="rect" id="node23" href="$LanaiMemAluCombiner_8cpp.html" title="lib/Target/Lanai/LanaiMem\lAluCombiner.cpp" alt="" coords="4834,95,5009,136"/>
+<area shape="rect" id="node24" href="$LanaiRegisterInfo_8cpp.html" title="lib/Target/Lanai/LanaiRegister\lInfo.cpp" alt="" coords="5033,95,5228,136"/>
+<area shape="rect" id="node25" href="$Mips16InstrInfo_8cpp.html" title="lib/Target/Mips/Mips16Instr\lInfo.cpp" alt="" coords="5253,95,5433,136"/>
+<area shape="rect" id="node26" href="$MipsSEFrameLowering_8cpp.html" title="lib/Target/Mips/MipsSEFrame\lLowering.cpp" alt="" coords="5457,95,5652,136"/>
+<area shape="rect" id="node27" href="$PPCFrameLowering_8cpp.html" title="lib/Target/PowerPC\l/PPCFrameLowering.cpp" alt="" coords="5676,95,5844,136"/>
+<area shape="rect" id="node28" href="$PPCRegisterInfo_8cpp.html" title="lib/Target/PowerPC\l/PPCRegisterInfo.cpp" alt="" coords="5869,95,6019,136"/>
+<area shape="rect" id="node29" href="$RISCVFrameLowering_8cpp.html" title="lib/Target/RISCV/RISCVFrame\lLowering.cpp" alt="" coords="6044,95,6249,136"/>
+<area shape="rect" id="node30" href="$RISCVInstrInfo_8cpp.html" title="lib/Target/RISCV/RISCVInstr\lInfo.cpp" alt="" coords="6273,95,6468,136"/>
+<area shape="rect" id="node31" href="$RISCVRegisterInfo_8cpp.html" title="lib/Target/RISCV/RISCVRegister\lInfo.cpp" alt="" coords="6493,95,6710,136"/>
+<area shape="rect" id="node32" href="$SystemZFrameLowering_8cpp.html" title="lib/Target/SystemZ\l/SystemZFrameLowering.cpp" alt="" coords="6734,95,6927,136"/>
+<area shape="rect" id="node33" href="$VEFrameLowering_8cpp.html" title="lib/Target/VE/VEFrameLowering.cpp" alt="" coords="6952,102,7187,129"/>
+<area shape="rect" id="node34" href="$XCoreFrameLowering_8cpp.html" title="lib/Target/XCore/XCoreFrame\lLowering.cpp" alt="" coords="7211,95,7405,136"/>
+<area shape="rect" id="node35" href="$XCoreRegisterInfo_8cpp.html" title="lib/Target/XCore/XCoreRegister\lInfo.cpp" alt="" coords="7430,95,7637,136"/>
+</map>

@@ -1,0 +1,38 @@
+<map id="lib/Target/AMDGPU/AMDGPUMachineFunction.cpp" name="lib/Target/AMDGPU/AMDGPUMachineFunction.cpp">
+<area shape="rect" id="node2" href="$AMDGPUMachineFunction_8h.html" title="AMDGPUMachineFunction.h" alt="" coords="1920,251,2111,278"/>
+<area shape="rect" id="node26" href="$AMDGPUSubtarget_8h.html" title="AMDGPU specific subclass of TargetSubtarget. " alt="" coords="1553,95,1701,121"/>
+<area shape="rect" id="node42" href="$AMDGPUPerfHintAnalysis_8h.html" title="Analyzes if a function potentially memory bound and if a kernel kernel may benefit from limiting numb..." alt="" coords="3960,251,4151,278"/>
+<area shape="rect" id="node46" href="$MachineModuleInfo_8h.html" title="llvm/CodeGen/MachineModule\lInfo.h" alt="" coords="4239,244,4439,285"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2317,430,2471,457"/>
+<area shape="rect" id="node23" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="2285,341,2503,367"/>
+<area shape="rect" id="node24" href="$AMDGPUBaseInfo_8h.html" title="Utils/AMDGPUBaseInfo.h" alt="" coords="299,341,473,367"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="3273,512,3451,539"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1241,661,1403,688"/>
+<area shape="rect" id="node16" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="1261,512,1434,539"/>
+<area shape="rect" id="node17" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2211,587,2364,613"/>
+<area shape="rect" id="node18" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1856,512,2033,539"/>
+<area shape="rect" id="node20" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="2312,512,2519,539"/>
+<area shape="rect" id="node21" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1610,512,1781,539"/>
+<area shape="rect" id="node5" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="3881,587,4025,613"/>
+<area shape="rect" id="node25" href="$AMDGPU_8h.html" title="AMDGPU.h" alt="" coords="131,430,223,457"/>
+<area shape="rect" id="node27" href="$AMDGPUCallLowering_8h.html" title="This file describes how to lower LLVM calls to machine code calls. " alt="" coords="5,251,172,278"/>
+<area shape="rect" id="node28" href="$R600FrameLowering_8h.html" title="R600FrameLowering.h" alt="" coords="927,169,1080,196"/>
+<area shape="rect" id="node29" href="$R600ISelLowering_8h.html" title="R600 DAG Lowering interface definition. " alt="" coords="1105,169,1243,196"/>
+<area shape="rect" id="node30" href="$R600InstrInfo_8h.html" title="Interface definition for R600InstrInfo. " alt="" coords="1267,169,1379,196"/>
+<area shape="rect" id="node31" href="$SIFrameLowering_8h.html" title="SIFrameLowering.h" alt="" coords="1404,169,1539,196"/>
+<area shape="rect" id="node32" href="$SIISelLowering_8h.html" title="SI DAG Lowering interface definition. " alt="" coords="405,169,527,196"/>
+<area shape="rect" id="node33" href="$SIInstrInfo_8h.html" title="Interface definition for SIInstrInfo. " alt="" coords="468,251,563,278"/>
+<area shape="rect" id="node34" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="1615,169,1739,196"/>
+<area shape="rect" id="node35" href="$InstructionSelector_8h.html" title="llvm/CodeGen/GlobalISel\l/InstructionSelector.h" alt="" coords="2040,333,2209,375"/>
+<area shape="rect" id="node36" href="$LegalizerInfo_8h.html" title="llvm/CodeGen/GlobalISel\l/LegalizerInfo.h" alt="" coords="2135,244,2304,285"/>
+<area shape="rect" id="node37" href="$RegisterBankInfo_8h.html" title="llvm/CodeGen/GlobalISel\l/RegisterBankInfo.h" alt="" coords="719,333,888,375"/>
+<area shape="rect" id="node38" href="$SelectionDAGTargetInfo_8h.html" title="llvm/CodeGen/SelectionDAGTarget\lInfo.h" alt="" coords="2799,423,3029,464"/>
+<area shape="rect" id="node39" href="$MCInstrItineraries_8h.html" title="llvm/MC/MCInstrItineraries.h" alt="" coords="4945,430,5136,457"/>
+<area shape="rect" id="node43" href="$CallGraphSCCPass_8h.html" title="llvm/Analysis/CallGraphSCCPass.h" alt="" coords="4019,341,4251,367"/>
+<area shape="rect" id="node44" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="4273,430,4363,457"/>
+<area shape="rect" id="node45" href="$ValueMap_8h.html" title="llvm/IR/ValueMap.h" alt="" coords="3708,341,3845,367"/>
+<area shape="rect" id="node47" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="1562,430,1733,457"/>
+<area shape="rect" id="node48" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM. " alt="" coords="4392,341,4551,367"/>
+<area shape="rect" id="node49" href="$MCContext_8h.html" title="llvm/MC/MCContext.h" alt="" coords="3395,341,3548,367"/>
+<area shape="rect" id="node50" href="$MCSymbol_8h.html" title="llvm/MC/MCSymbol.h" alt="" coords="1865,341,2016,367"/>
+</map>

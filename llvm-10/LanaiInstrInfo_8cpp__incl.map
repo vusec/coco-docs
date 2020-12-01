@@ -1,0 +1,34 @@
+<map id="lib/Target/Lanai/LanaiInstrInfo.cpp" name="lib/Target/Lanai/LanaiInstrInfo.cpp">
+<area shape="rect" id="node2" href="$LanaiInstrInfo_8h.html" title="LanaiInstrInfo.h" alt="" coords="3293,102,3405,129"/>
+<area shape="rect" id="node9" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3173,541,3336,568"/>
+<area shape="rect" id="node23" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="4547,691,4736,717"/>
+<area shape="rect" id="node29" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1960,541,2115,568"/>
+<area shape="rect" id="node39" href="$MachineInstrBuilder_8h.html" title="llvm/CodeGen/MachineInstr\lBuilder.h" alt="" coords="933,273,1117,315"/>
+<area shape="rect" id="node41" href="$LanaiAluCode_8h.html" title="LanaiAluCode.h" alt="" coords="5028,541,5143,568"/>
+<area shape="rect" id="node44" href="$LanaiCondCode_8h.html" title="LanaiCondCode.h" alt="" coords="4771,459,4898,486"/>
+<area shape="rect" id="node45" href="$LanaiBaseInfo_8h.html" title="MCTargetDesc/LanaiBaseInfo.h" alt="" coords="3901,102,4110,129"/>
+<area shape="rect" id="node47" href="$MachineFunctionPass_8h.html" title="llvm/CodeGen/MachineFunction\lPass.h" alt="" coords="3429,95,3637,136"/>
+<area shape="rect" id="node49" href="$MachineRegisterInfo_8h.html" title="llvm/CodeGen/MachineRegister\lInfo.h" alt="" coords="411,273,618,315"/>
+<area shape="rect" id="node50" href="$TargetRegistry_8h.html" title="llvm/Support/TargetRegistry.h" alt="" coords="2558,541,2754,568"/>
+<area shape="rect" id="node3" href="$LanaiRegisterInfo_8h.html" title="LanaiRegisterInfo.h" alt="" coords="1159,191,1294,218"/>
+<area shape="rect" id="node4" href="$LanaiMCTargetDesc_8h.html" title="MCTargetDesc/LanaiMCTarget\lDesc.h" alt="" coords="3763,184,3967,225"/>
+<area shape="rect" id="node7" href="$TargetInstrInfo_8h.html" title="llvm/CodeGen/TargetInstr\lInfo.h" alt="" coords="1318,184,1490,225"/>
+<area shape="rect" id="node5" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="3843,281,4018,307"/>
+<area shape="rect" id="node8" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1908,459,2052,486"/>
+<area shape="rect" id="node36" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="603,452,794,493"/>
+<area shape="rect" id="node37" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="448,541,643,568"/>
+<area shape="rect" id="node38" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="1453,370,1672,397"/>
+<area shape="rect" id="node14" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="4172,765,4335,792"/>
+<area shape="rect" id="node10" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1011,691,1181,717"/>
+<area shape="rect" id="node13" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="3534,616,3687,643"/>
+<area shape="rect" id="node16" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="2862,616,3039,643"/>
+<area shape="rect" id="node22" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="3965,616,4133,643"/>
+<area shape="rect" id="node25" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="3408,691,3579,717"/>
+<area shape="rect" id="node30" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3318,616,3458,643"/>
+<area shape="rect" id="node31" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1651,616,1783,643"/>
+<area shape="rect" id="node40" href="$CodeGen_2GlobalISel_2Utils_8h.html" title="llvm/CodeGen/GlobalISel\l/Utils.h" alt="" coords="897,363,1066,404"/>
+<area shape="rect" id="node42" href="$StringSwitch_8h.html" title="llvm/ADT/StringSwitch.h" alt="" coords="4766,616,4933,643"/>
+<area shape="rect" id="node43" href="$ISDOpcodes_8h.html" title="llvm/CodeGen/ISDOpcodes.h" alt="" coords="5008,616,5203,643"/>
+<area shape="rect" id="node46" href="$MCExpr_8h.html" title="llvm/MC/MCExpr.h" alt="" coords="1294,370,1429,397"/>
+<area shape="rect" id="node48" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="3547,191,3637,218"/>
+</map>

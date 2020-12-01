@@ -1,0 +1,7 @@
+<map id="llvm::mca::HWInstructionDispatchedEvent" name="llvm::mca::HWInstructionDispatchedEvent">
+<area shape="rect" id="node2" href="$classllvm_1_1mca_1_1HWInstructionEvent.html" title="llvm::mca::HWInstruction\lEvent" alt="" coords="5,95,176,136"/>
+<area shape="rect" id="node3" href="$classllvm_1_1mca_1_1InstRef.html" title="An InstRef contains both a SourceMgr index and Instruction pair. " alt="" coords="25,5,156,32"/>
+<area shape="rect" id="node4" href="$classunsigned.html" title="unsigned" alt="" coords="184,5,259,32"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; unsigned \&gt;" alt="" coords="338,102,521,129"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ArrayRef.html" title="ArrayRef &#45; Represent a constant reference to an array (0 or more elements consecutively in memory)..." alt="" coords="360,5,499,32"/>
+</map>

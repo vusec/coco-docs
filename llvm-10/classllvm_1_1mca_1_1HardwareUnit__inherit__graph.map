@@ -1,0 +1,7 @@
+<map id="llvm::mca::HardwareUnit" name="llvm::mca::HardwareUnit">
+<area shape="rect" id="node2" href="$classllvm_1_1mca_1_1LSUnitBase.html" title="Abstract base interface for LS (load/store) units in llvm&#45;mca. " alt="" coords="235,5,393,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1mca_1_1RegisterFile.html" title="Manages hardware register files, and tracks register definitions for register renaming purposes..." alt="" coords="235,56,393,83"/>
+<area shape="rect" id="node5" href="$structllvm_1_1mca_1_1RetireControlUnit.html" title="This class tracks which instructions are in&#45;flight (i.e., dispatched but not retired) in the OoO back..." alt="" coords="220,107,408,133"/>
+<area shape="rect" id="node6" href="$classllvm_1_1mca_1_1Scheduler.html" title="Class Scheduler is responsible for issuing instructions to pipeline resources. " alt="" coords="241,157,387,184"/>
+<area shape="rect" id="node3" href="$classllvm_1_1mca_1_1LSUnit.html" title="Default Load/Store Unit (LS Unit) for simulated processors. " alt="" coords="456,5,583,32"/>
+</map>

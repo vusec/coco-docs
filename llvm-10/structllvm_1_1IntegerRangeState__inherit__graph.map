@@ -1,0 +1,12 @@
+<map id="llvm::IntegerRangeState" name="llvm::IntegerRangeState">
+<area shape="rect" id="node3" href="$structllvm_1_1AAValueConstantRange.html" title="An abstract interface for range value analysis. " alt="" coords="399,81,595,108"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AbstractState.html" title="An interface to query the internal state of an abstract attribute. " alt="" coords="5,81,140,108"/>
+<area shape="rect" id="node4" href="$structAAValueConstantRangeImpl.html" title="&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;— Value Constant Range Attribute &#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;— " alt="" coords="643,81,832,108"/>
+<area shape="rect" id="node5" href="$structAAValueConstantRangeArgument.html" title="AAValueConstantRangeArgument" alt="" coords="880,5,1100,32"/>
+<area shape="rect" id="node6" href="$structAAValueConstantRangeFloating.html" title="AAValueConstantRangeFloating" alt="" coords="885,56,1095,83"/>
+<area shape="rect" id="node8" href="$structAAValueConstantRangeFunction.html" title="AAValueConstantRangeFunction" alt="" coords="883,107,1097,133"/>
+<area shape="rect" id="node10" href="$structAAValueConstantRangeReturned.html" title="AAValueConstantRangeReturned" alt="" coords="881,161,1099,188"/>
+<area shape="rect" id="node7" href="$structAAValueConstantRangeCallSiteArgument.html" title="AAValueConstantRangeCall\lSiteArgument" alt="" coords="1160,41,1347,82"/>
+<area shape="rect" id="node9" href="$structAAValueConstantRangeCallSite.html" title="AAValueConstantRangeCallSite" alt="" coords="1148,107,1359,133"/>
+<area shape="rect" id="node11" href="$structAAValueConstantRangeCallSiteReturned.html" title="AAValueConstantRangeCall\lSiteReturned" alt="" coords="1160,158,1347,199"/>
+</map>

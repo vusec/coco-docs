@@ -1,0 +1,51 @@
+<map id="include/llvm/Analysis/ProfileSummaryInfo.h" name="include/llvm/Analysis/ProfileSummaryInfo.h">
+<area shape="rect" id="node2" href="$TargetLowering_8h.html" title="This file describes how to lower LLVM code to machine code. " alt="" coords="1719,184,1870,225"/>
+<area shape="rect" id="node5" href="$SelectionDAGISel_8cpp.html" title="lib/CodeGen/SelectionDAG\l/SelectionDAGISel.cpp" alt="" coords="2246,363,2428,404"/>
+<area shape="rect" id="node9" href="$AsmPrinter_8cpp.html" title="lib/CodeGen/AsmPrinter\l/AsmPrinter.cpp" alt="" coords="26,273,189,315"/>
+<area shape="rect" id="node13" href="$CodeGenPrepare_8cpp.html" title="lib/CodeGen/CodeGenPrepare.cpp" alt="" coords="2663,281,2886,307"/>
+<area shape="rect" id="node14" href="$ExpandMemCmp_8cpp.html" title="lib/CodeGen/ExpandMemCmp.cpp" alt="" coords="2909,281,3133,307"/>
+<area shape="rect" id="node15" href="$IfConversion_8cpp.html" title="lib/CodeGen/IfConversion.cpp" alt="" coords="213,281,410,307"/>
+<area shape="rect" id="node16" href="$MachineBlockPlacement_8cpp.html" title="lib/CodeGen/MachineBlock\lPlacement.cpp" alt="" coords="435,273,615,315"/>
+<area shape="rect" id="node17" href="$SelectionDAG_8cpp.html" title="lib/CodeGen/SelectionDAG\l/SelectionDAG.cpp" alt="" coords="3157,273,3338,315"/>
+<area shape="rect" id="node18" href="$SelectionDAGBuilder_8cpp.html" title="lib/CodeGen/SelectionDAG\l/SelectionDAGBuilder.cpp" alt="" coords="640,273,821,315"/>
+<area shape="rect" id="node19" href="$X86ISelLowering_8cpp.html" title="lib/Target/X86/X86ISelLowering.cpp" alt="" coords="846,281,1076,307"/>
+<area shape="rect" id="node20" href="$SizeOpts_8h.html" title="include/llvm/Transforms\l/Utils/SizeOpts.h" alt="" coords="2126,95,2287,136"/>
+<area shape="rect" id="node21" href="$ConstantHoisting_8cpp.html" title="lib/Transforms/Scalar\l/ConstantHoisting.cpp" alt="" coords="2046,184,2198,225"/>
+<area shape="rect" id="node22" href="$LoopLoadElimination_8cpp.html" title="lib/Transforms/Scalar\l/LoopLoadElimination.cpp" alt="" coords="2374,184,2545,225"/>
+<area shape="rect" id="node23" href="$LoopUnrollPass_8cpp.html" title="lib/Transforms/Scalar\l/LoopUnrollPass.cpp" alt="" coords="2569,184,2716,225"/>
+<area shape="rect" id="node24" href="$SimplifyLibCalls_8cpp.html" title="lib/Transforms/Utils\l/SimplifyLibCalls.cpp" alt="" coords="2740,184,2886,225"/>
+<area shape="rect" id="node25" href="$LoopVectorize_8cpp.html" title="lib/Transforms/Vectorize\l/LoopVectorize.cpp" alt="" coords="2910,184,3074,225"/>
+<area shape="rect" id="node26" href="$InlineCost_8cpp.html" title="lib/Analysis/InlineCost.cpp" alt="" coords="2515,102,2692,129"/>
+<area shape="rect" id="node27" href="$ModuleSummaryAnalysis_8cpp.html" title="lib/Analysis/ModuleSummary\lAnalysis.cpp" alt="" coords="2716,95,2907,136"/>
+<area shape="rect" id="node28" href="$ProfileSummaryInfo_8cpp.html" title="lib/Analysis/ProfileSummary\lInfo.cpp" alt="" coords="2932,95,3118,136"/>
+<area shape="rect" id="node29" href="$BranchFolding_8cpp.html" title="lib/CodeGen/BranchFolding.cpp" alt="" coords="3143,102,3350,129"/>
+<area shape="rect" id="node30" href="$MachineCombiner_8cpp.html" title="lib/CodeGen/MachineCombiner.cpp" alt="" coords="3374,102,3602,129"/>
+<area shape="rect" id="node31" href="$MachineSizeOpts_8cpp.html" title="lib/CodeGen/MachineSizeOpts.cpp" alt="" coords="3626,102,3853,129"/>
+<area shape="rect" id="node32" href="$TailDuplication_8cpp.html" title="lib/CodeGen/TailDuplication.cpp" alt="" coords="3878,102,4087,129"/>
+<area shape="rect" id="node33" href="$TailDuplicator_8cpp.html" title="lib/CodeGen/TailDuplicator.cpp" alt="" coords="4112,102,4314,129"/>
+<area shape="rect" id="node34" href="$ThinLTOCodeGenerator_8cpp.html" title="lib/LTO/ThinLTOCodeGenerator.cpp" alt="" coords="4339,102,4570,129"/>
+<area shape="rect" id="node35" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="4594,102,4776,129"/>
+<area shape="rect" id="node36" href="$X86FixupBWInsts_8cpp.html" title="This file defines the pass that looks through the machine instructions late in the compilation..." alt="" coords="4800,102,5039,129"/>
+<area shape="rect" id="node37" href="$X86OptimizeLEAs_8cpp.html" title="lib/Target/X86/X86Optimize\lLEAs.cpp" alt="" coords="5063,95,5246,136"/>
+<area shape="rect" id="node38" href="$X86PadShortFunction_8cpp.html" title="lib/Target/X86/X86PadShort\lFunction.cpp" alt="" coords="5270,95,5454,136"/>
+<area shape="rect" id="node39" href="$InstructionCombining_8cpp.html" title="lib/Transforms/InstCombine\l/InstructionCombining.cpp" alt="" coords="5479,95,5662,136"/>
+<area shape="rect" id="node40" href="$ControlHeightReduction_8cpp.html" title="lib/Transforms/Instrumentation\l/ControlHeightReduction.cpp" alt="" coords="5686,95,5884,136"/>
+<area shape="rect" id="node41" href="$IndirectCallPromotion_8cpp.html" title="lib/Transforms/Instrumentation\l/IndirectCallPromotion.cpp" alt="" coords="5908,95,6107,136"/>
+<area shape="rect" id="node42" href="$PGOInstrumentation_8cpp.html" title="lib/Transforms/Instrumentation\l/PGOInstrumentation.cpp" alt="" coords="6131,95,6330,136"/>
+<area shape="rect" id="node43" href="$HotColdSplitting_8cpp.html" title="The goal of hot/cold splitting is to improve the memory locality of code. " alt="" coords="6354,95,6501,136"/>
+<area shape="rect" id="node44" href="$Inliner_8cpp.html" title="lib/Transforms/IPO\l/Inliner.cpp" alt="" coords="6526,95,6658,136"/>
+<area shape="rect" id="node45" href="$InlineSimple_8cpp.html" title="lib/Transforms/IPO\l/InlineSimple.cpp" alt="" coords="6682,95,6814,136"/>
+<area shape="rect" id="node46" href="$PartialInlining_8cpp.html" title="lib/Transforms/IPO\l/PartialInlining.cpp" alt="" coords="6838,95,6970,136"/>
+<area shape="rect" id="node47" href="$SampleProfile_8cpp.html" title="lib/Transforms/IPO\l/SampleProfile.cpp" alt="" coords="6994,95,7126,136"/>
+<area shape="rect" id="node48" href="$SyntheticCountsPropagation_8cpp.html" title="lib/Transforms/IPO\l/SyntheticCountsPropagation.cpp" alt="" coords="7150,95,7367,136"/>
+<area shape="rect" id="node49" href="$ThinLTOBitcodeWriter_8cpp.html" title="lib/Transforms/IPO\l/ThinLTOBitcodeWriter.cpp" alt="" coords="7391,95,7571,136"/>
+<area shape="rect" id="node50" href="$InlineFunction_8cpp.html" title="lib/Transforms/Utils\l/InlineFunction.cpp" alt="" coords="7596,95,7732,136"/>
+<area shape="rect" id="node3" href="$BasicTTIImpl_8h.html" title="This file provides a helper that implements much of the TTI interface in terms of the target&#45;independ..." alt="" coords="2087,273,2238,315"/>
+<area shape="rect" id="node4" href="$FastISel_8h.html" title="This file defines the FastISel class. " alt="" coords="2262,273,2412,315"/>
+<area shape="rect" id="node6" href="$ScheduleDAG_8h.html" title="include/llvm/CodeGen\l/ScheduleDAG.h" alt="" coords="2488,273,2639,315"/>
+<area shape="rect" id="node7" href="$SwitchLoweringUtils_8h.html" title="include/llvm/CodeGen\l/SwitchLoweringUtils.h" alt="" coords="1100,273,1256,315"/>
+<area shape="rect" id="node8" href="$CodeGen_2Analysis_8cpp.html" title="lib/CodeGen/Analysis.cpp" alt="" coords="1281,281,1454,307"/>
+<area shape="rect" id="node10" href="$DbgEntityHistoryCalculator_8cpp.html" title="lib/CodeGen/AsmPrinter\l/DbgEntityHistoryCalculator.cpp" alt="" coords="1478,273,1689,315"/>
+<area shape="rect" id="node11" href="$DwarfDebug_8cpp.html" title="lib/CodeGen/AsmPrinter\l/DwarfDebug.cpp" alt="" coords="1713,273,1876,315"/>
+<area shape="rect" id="node12" href="$WinException_8cpp.html" title="lib/CodeGen/AsmPrinter\l/WinException.cpp" alt="" coords="1900,273,2062,315"/>
+</map>

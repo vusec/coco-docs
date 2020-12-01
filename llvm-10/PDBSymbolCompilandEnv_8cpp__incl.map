@@ -1,0 +1,29 @@
+<map id="lib/DebugInfo/PDB/PDBSymbolCompilandEnv.cpp" name="lib/DebugInfo/PDB/PDBSymbolCompilandEnv.cpp">
+<area shape="rect" id="node2" href="$PDBSymbolCompilandEnv_8h.html" title="llvm/DebugInfo/PDB\l/PDBSymbolCompilandEnv.h" alt="" coords="2651,95,2845,136"/>
+<area shape="rect" id="node3" href="$PDBSymbol_8h.html" title="PDBSymbol.h" alt="" coords="2586,191,2691,218"/>
+<area shape="rect" id="node30" href="$IPDBRawSymbol_8h.html" title="IPDBRawSymbol.h" alt="" coords="2464,348,2600,375"/>
+<area shape="rect" id="node50" href="$PDBSymDumper_8h.html" title="llvm/DebugInfo/PDB\l/PDBSymDumper.h" alt="" coords="4147,184,4290,225"/>
+<area shape="rect" id="node9" href="$PDBTypes_8h.html" title="llvm/DebugInfo/PDB\l/PDBTypes.h" alt="" coords="4038,423,4181,464"/>
+<area shape="rect" id="node4" href="$ConcreteSymbolEnumerator_8h.html" title="ConcreteSymbolEnumerator.h" alt="" coords="2243,348,2440,375"/>
+<area shape="rect" id="node26" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="448,609,603,635"/>
+<area shape="rect" id="node43" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2499,519,2653,546"/>
+<area shape="rect" id="node47" href="$PDBExtras_8h.html" title="PDBExtras.h" alt="" coords="3625,273,3724,300"/>
+<area shape="rect" id="node5" href="$IPDBEnumChildren_8h.html" title="llvm/DebugInfo/PDB\l/IPDBEnumChildren.h" alt="" coords="1491,601,1642,643"/>
+<area shape="rect" id="node10" href="$CodeView_8h.html" title="llvm/DebugInfo/CodeView\l/CodeView.h" alt="" coords="4291,512,4466,553"/>
+<area shape="rect" id="node21" href="$IPDBFrameData_8h.html" title="llvm/DebugInfo/PDB\l/IPDBFrameData.h" alt="" coords="4147,601,4290,643"/>
+<area shape="rect" id="node23" href="$RawTypes_8h.html" title="llvm/DebugInfo/PDB\l/Native/RawTypes.h" alt="" coords="3670,512,3813,553"/>
+<area shape="rect" id="node13" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="3462,609,3613,635"/>
+<area shape="rect" id="node14" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="3106,691,3259,717"/>
+<area shape="rect" id="node15" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="980,765,1143,792"/>
+<area shape="rect" id="node27" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="608,691,779,717"/>
+<area shape="rect" id="node31" href="$BitmaskEnum_8h.html" title="llvm/ADT/BitmaskEnum.h" alt="" coords="1230,519,1405,546"/>
+<area shape="rect" id="node34" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1480,519,1643,546"/>
+<area shape="rect" id="node42" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2459,430,2605,457"/>
+<area shape="rect" id="node32" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="2094,609,2271,635"/>
+<area shape="rect" id="node35" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1804,691,1975,717"/>
+<area shape="rect" id="node37" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="1147,609,1315,635"/>
+<area shape="rect" id="node38" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2689,691,2879,717"/>
+<area shape="rect" id="node44" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="779,609,919,635"/>
+<area shape="rect" id="node45" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="2601,609,2733,635"/>
+<area shape="rect" id="node48" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="3382,348,3567,375"/>
+</map>

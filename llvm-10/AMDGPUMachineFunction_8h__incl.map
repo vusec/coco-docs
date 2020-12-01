@@ -1,0 +1,37 @@
+<map id="lib/Target/AMDGPU/AMDGPUMachineFunction.h" name="lib/Target/AMDGPU/AMDGPUMachineFunction.h">
+<area shape="rect" id="node2" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2352,259,2507,285"/>
+<area shape="rect" id="node27" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="1573,95,1792,121"/>
+<area shape="rect" id="node43" href="$AMDGPUBaseInfo_8h.html" title="Utils/AMDGPUBaseInfo.h" alt="" coords="4033,333,4207,360"/>
+<area shape="rect" id="node3" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="2385,333,2562,360"/>
+<area shape="rect" id="node6" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="3186,572,3339,599"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2965,647,3128,673"/>
+<area shape="rect" id="node9" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1063,572,1241,599"/>
+<area shape="rect" id="node14" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2241,572,2412,599"/>
+<area shape="rect" id="node25" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="2840,333,3013,360"/>
+<area shape="rect" id="node26" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="3038,333,3245,360"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1200,415,1344,442"/>
+<area shape="rect" id="node23" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2559,572,2705,599"/>
+<area shape="rect" id="node5" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1803,497,1965,524"/>
+<area shape="rect" id="node16" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="3617,572,3807,599"/>
+<area shape="rect" id="node28" href="$BitVector_8h.html" title="llvm/ADT/BitVector.h" alt="" coords="852,333,999,360"/>
+<area shape="rect" id="node29" href="$FloatingPointMode_8h.html" title="llvm/ADT/FloatingPointMode.h" alt="" coords="581,177,781,203"/>
+<area shape="rect" id="node30" href="$GraphTraits_8h.html" title="llvm/ADT/GraphTraits.h" alt="" coords="163,259,323,285"/>
+<area shape="rect" id="node31" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2193,497,2333,524"/>
+<area shape="rect" id="node32" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="499,415,611,442"/>
+<area shape="rect" id="node33" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1545,497,1677,524"/>
+<area shape="rect" id="node34" href="$EHPersonalities_8h.html" title="llvm/Analysis/EHPersonalities.h" alt="" coords="2325,177,2534,203"/>
+<area shape="rect" id="node35" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="366,169,557,211"/>
+<area shape="rect" id="node36" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="2091,259,2285,285"/>
+<area shape="rect" id="node37" href="$MachineMemOperand_8h.html" title="llvm/CodeGen/MachineMemOperand.h" alt="" coords="4534,333,4781,360"/>
+<area shape="rect" id="node38" href="$AtomicOrdering_8h.html" title="Atomic ordering constants. " alt="" coords="4971,415,5171,442"/>
+<area shape="rect" id="node40" href="$ArrayRecycler_8h.html" title="llvm/Support/ArrayRecycler.h" alt="" coords="1477,333,1670,360"/>
+<area shape="rect" id="node41" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="1898,415,2059,442"/>
+<area shape="rect" id="node42" href="$Recycler_8h.html" title="llvm/Support/Recycler.h" alt="" coords="1120,333,1283,360"/>
+<area shape="rect" id="node39" href="$MCInstrDesc_8h.html" title="llvm/MC/MCInstrDesc.h" alt="" coords="4203,497,4367,524"/>
+<area shape="rect" id="node44" href="$AMDGPU_8h.html" title="AMDGPU.h" alt="" coords="4753,415,4845,442"/>
+<area shape="rect" id="node45" href="$AMDKernelCodeT_8h.html" title="AMDKernelCodeT.h" alt="" coords="3573,415,3712,442"/>
+<area shape="rect" id="node46" href="$SIDefines_8h.html" title="SIDefines.h" alt="" coords="4157,415,4248,442"/>
+<area shape="rect" id="node47" href="$CallingConv_8h.html" title="llvm/IR/CallingConv.h" alt="" coords="4323,415,4474,442"/>
+<area shape="rect" id="node48" href="$AMDHSAKernelDescriptor_8h.html" title="AMDHSA kernel descriptor definitions. " alt="" coords="3787,408,3981,449"/>
+<area shape="rect" id="node49" href="$TargetParser_8h.html" title="llvm/Support/TargetParser.h" alt="" coords="990,415,1175,442"/>
+</map>

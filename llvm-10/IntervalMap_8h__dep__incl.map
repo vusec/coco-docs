@@ -1,0 +1,51 @@
+<map id="include/llvm/ADT/IntervalMap.h" name="include/llvm/ADT/IntervalMap.h">
+<area shape="rect" id="node2" href="$LiveIntervalUnion_8h.html" title="include/llvm/CodeGen\l/LiveIntervalUnion.h" alt="" coords="367,273,517,315"/>
+<area shape="rect" id="node9" href="$SlotIndexes_8h.html" title="include/llvm/CodeGen\l/SlotIndexes.h" alt="" coords="3749,95,3900,136"/>
+<area shape="rect" id="node14" href="$SplitKit_8h.html" title="lib/CodeGen/SplitKit.h" alt="" coords="2009,370,2160,397"/>
+<area shape="rect" id="node17" href="$LiveDebugVariables_8cpp.html" title="lib/CodeGen/LiveDebugVariables.cpp" alt="" coords="1185,370,1424,397"/>
+<area shape="rect" id="node47" href="$DWARFLinkerCompileUnit_8h.html" title="include/llvm/DWARFLinker\l/DWARFLinkerCompileUnit.h" alt="" coords="3925,95,4119,136"/>
+<area shape="rect" id="node49" href="$DAGCombiner_8cpp.html" title="lib/CodeGen/SelectionDAG\l/DAGCombiner.cpp" alt="" coords="4143,95,4325,136"/>
+<area shape="rect" id="node50" href="$IntervalMap_8cpp.html" title="lib/Support/IntervalMap.cpp" alt="" coords="4349,102,4530,129"/>
+<area shape="rect" id="node3" href="$LiveRegMatrix_8h.html" title="include/llvm/CodeGen\l/LiveRegMatrix.h" alt="" coords="89,363,240,404"/>
+<area shape="rect" id="node4" href="$LiveRegMatrix_8cpp.html" title="lib/CodeGen/LiveRegMatrix.cpp" alt="" coords="5,459,212,486"/>
+<area shape="rect" id="node5" href="$RegAllocGreedy_8cpp.html" title="lib/CodeGen/RegAllocGreedy.cpp" alt="" coords="561,459,779,486"/>
+<area shape="rect" id="node6" href="$InterferenceCache_8h.html" title="lib/CodeGen/Interference\lCache.h" alt="" coords="708,363,875,404"/>
+<area shape="rect" id="node7" href="$InterferenceCache_8cpp.html" title="lib/CodeGen/Interference\lCache.cpp" alt="" coords="829,452,996,493"/>
+<area shape="rect" id="node8" href="$LiveIntervalUnion_8cpp.html" title="lib/CodeGen/LiveInterval\lUnion.cpp" alt="" coords="417,363,582,404"/>
+<area shape="rect" id="node10" href="$CalcSpillWeights_8h.html" title="include/llvm/CodeGen\l/CalcSpillWeights.h" alt="" coords="745,273,896,315"/>
+<area shape="rect" id="node11" href="$RegAllocPBQP_8cpp.html" title="lib/CodeGen/RegAllocPBQP.cpp" alt="" coords="2185,370,2398,397"/>
+<area shape="rect" id="node12" href="$LiveInterval_8h.html" title="include/llvm/CodeGen\l/LiveInterval.h" alt="" coords="3089,184,3240,225"/>
+<area shape="rect" id="node13" href="$LiveIntervals_8h.html" title="include/llvm/CodeGen\l/LiveIntervals.h" alt="" coords="4369,273,4520,315"/>
+<area shape="rect" id="node15" href="$InlineSpiller_8cpp.html" title="lib/CodeGen/InlineSpiller.cpp" alt="" coords="4025,459,4216,486"/>
+<area shape="rect" id="node16" href="$SplitKit_8cpp.html" title="lib/CodeGen/SplitKit.cpp" alt="" coords="3235,459,3401,486"/>
+<area shape="rect" id="node18" href="$LiveInterval_8cpp.html" title="lib/CodeGen/LiveInterval.cpp" alt="" coords="2473,370,2664,397"/>
+<area shape="rect" id="node19" href="$LiveIntervals_8cpp.html" title="lib/CodeGen/LiveIntervals.cpp" alt="" coords="1449,370,1646,397"/>
+<area shape="rect" id="node20" href="$MachineBasicBlock_8cpp.html" title="lib/CodeGen/MachineBasic\lBlock.cpp" alt="" coords="5185,363,5365,404"/>
+<area shape="rect" id="node21" href="$MachineScheduler_8cpp.html" title="lib/CodeGen/MachineScheduler.cpp" alt="" coords="6193,370,6424,397"/>
+<area shape="rect" id="node22" href="$MachineVerifier_8cpp.html" title="lib/CodeGen/MachineVerifier.cpp" alt="" coords="1771,370,1985,397"/>
+<area shape="rect" id="node23" href="$PHIElimination_8cpp.html" title="lib/CodeGen/PHIElimination.cpp" alt="" coords="2689,370,2899,397"/>
+<area shape="rect" id="node24" href="$RegisterCoalescer_8cpp.html" title="lib/CodeGen/RegisterCoalescer.cpp" alt="" coords="3687,370,3917,397"/>
+<area shape="rect" id="node25" href="$RegisterPressure_8cpp.html" title="lib/CodeGen/RegisterPressure.cpp" alt="" coords="6449,370,6673,397"/>
+<area shape="rect" id="node26" href="$ScheduleDAGInstrs_8cpp.html" title="lib/CodeGen/ScheduleDAGInstrs.cpp" alt="" coords="7199,370,7437,397"/>
+<area shape="rect" id="node27" href="$StackSlotColoring_8cpp.html" title="lib/CodeGen/StackSlotColoring.cpp" alt="" coords="2924,370,3152,397"/>
+<area shape="rect" id="node28" href="$TwoAddressInstructionPass_8cpp.html" title="lib/CodeGen/TwoAddressInstruction\lPass.cpp" alt="" coords="3227,363,3459,404"/>
+<area shape="rect" id="node29" href="$VirtRegMap_8cpp.html" title="lib/CodeGen/VirtRegMap.cpp" alt="" coords="3942,370,4134,397"/>
+<area shape="rect" id="node30" href="$GCNRegPressure_8h.html" title="lib/Target/AMDGPU/GCNReg\lPressure.h" alt="" coords="6977,363,7174,404"/>
+<area shape="rect" id="node31" href="$GCNRegPressure_8cpp.html" title="lib/Target/AMDGPU/GCNReg\lPressure.cpp" alt="" coords="6977,452,7174,493"/>
+<area shape="rect" id="node32" href="$SILowerControlFlow_8cpp.html" title="This pass lowers the pseudo control flow instructions to real machine instructions. " alt="" coords="5389,363,5580,404"/>
+<area shape="rect" id="node33" href="$SIMachineScheduler_8cpp.html" title="SI Machine Scheduler interface. " alt="" coords="6747,363,6953,404"/>
+<area shape="rect" id="node34" href="$SIRegisterInfo_8cpp.html" title="SI implementation of the TargetRegisterInfo class. " alt="" coords="5605,363,5810,404"/>
+<area shape="rect" id="node35" href="$SIWholeQuadMode_8cpp.html" title="This pass adds instructions to enable whole quad mode for pixel shaders, and whole wavefront mode for..." alt="" coords="4159,363,4352,404"/>
+<area shape="rect" id="node36" href="$HexagonExpandCondsets_8cpp.html" title="lib/Target/Hexagon\l/HexagonExpandCondsets.cpp" alt="" coords="4782,363,4985,404"/>
+<area shape="rect" id="node37" href="$PPCInstrInfo_8cpp.html" title="lib/Target/PowerPC\l/PPCInstrInfo.cpp" alt="" coords="5834,363,5970,404"/>
+<area shape="rect" id="node38" href="$PPCVSXFMAMutate_8cpp.html" title="lib/Target/PowerPC\l/PPCVSXFMAMutate.cpp" alt="" coords="5995,363,6169,404"/>
+<area shape="rect" id="node39" href="$SystemZInstrInfo_8cpp.html" title="lib/Target/SystemZ\l/SystemZInstrInfo.cpp" alt="" coords="5009,363,5161,404"/>
+<area shape="rect" id="node40" href="$LiveRangeCalc_8h.html" title="include/llvm/CodeGen\l/LiveRangeCalc.h" alt="" coords="1824,273,1975,315"/>
+<area shape="rect" id="node41" href="$LiveRangeCalc_8cpp.html" title="lib/CodeGen/LiveRangeCalc.cpp" alt="" coords="949,370,1161,397"/>
+<area shape="rect" id="node42" href="$LiveRangeEdit_8h.html" title="include/llvm/CodeGen\l/LiveRangeEdit.h" alt="" coords="3585,273,3736,315"/>
+<area shape="rect" id="node43" href="$StackColoring_8cpp.html" title="lib/CodeGen/StackColoring.cpp" alt="" coords="4905,281,5110,307"/>
+<area shape="rect" id="node44" href="$RegisterPressure_8h.html" title="include/llvm/CodeGen\l/RegisterPressure.h" alt="" coords="6529,273,6680,315"/>
+<area shape="rect" id="node45" href="$MachineFunctionPrinterPass_8cpp.html" title="lib/CodeGen/MachineFunction\lPrinterPass.cpp" alt="" coords="5631,184,5829,225"/>
+<area shape="rect" id="node46" href="$SlotIndexes_8cpp.html" title="lib/CodeGen/SlotIndexes.cpp" alt="" coords="5853,191,6045,218"/>
+<area shape="rect" id="node48" href="$DWARFLinkerDeclContext_8h.html" title="include/llvm/DWARFLinker\l/DWARFLinkerDeclContext.h" alt="" coords="7563,184,7758,225"/>
+</map>

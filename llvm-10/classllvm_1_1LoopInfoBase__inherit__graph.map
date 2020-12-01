@@ -1,0 +1,6 @@
+<map id="llvm::LoopInfoBase&lt; BlockT, LoopT &gt;" name="llvm::LoopInfoBase&lt; BlockT, LoopT &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1LoopInfoBase.html" title="llvm::LoopInfoBase\l\&lt; llvm::MachineBasicBlock,\l llvm::MachineLoop \&gt;" alt="" coords="356,5,541,61"/>
+<area shape="rect" id="node3" href="$classllvm_1_1LoopInfoBase.html" title="llvm::LoopInfoBase\l\&lt; VPBlockBase, VPLoop \&gt;" alt="" coords="358,86,539,127"/>
+<area shape="rect" id="node4" href="$classllvm_1_1LoopInfoBase.html" title="llvm::LoopInfoBase\l\&lt; BasicBlock, Loop \&gt;" alt="" coords="375,151,523,193"/>
+<area shape="rect" id="node5" href="$classllvm_1_1LoopInfo.html" title="llvm::LoopInfo" alt="" coords="591,159,695,185"/>
+</map>

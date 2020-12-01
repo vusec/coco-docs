@@ -1,0 +1,26 @@
+<map id="lib/Target/AMDGPU/AMDGPUHSAMetadataStreamer.h" name="lib/Target/AMDGPU/AMDGPUHSAMetadataStreamer.h">
+<area shape="rect" id="node2" href="$AMDGPU_8h.html" title="AMDGPU.h" alt="" coords="1435,102,1527,129"/>
+<area shape="rect" id="node4" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1592,423,1738,449"/>
+<area shape="rect" id="node38" href="$AMDKernelCodeT_8h.html" title="AMDKernelCodeT.h" alt="" coords="262,273,401,300"/>
+<area shape="rect" id="node44" href="$MsgPackDocument_8h.html" title="llvm/BinaryFormat/MsgPack\lDocument.h" alt="" coords="601,95,788,136"/>
+<area shape="rect" id="node50" href="$AMDGPUMetadata_8h.html" title="AMDGPU metadata definitions and in&#45;memory representations. " alt="" coords="722,348,944,375"/>
+<area shape="rect" id="node3" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="1280,191,1468,218"/>
+<area shape="rect" id="node29" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="1506,273,1630,300"/>
+<area shape="rect" id="node31" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="1945,348,2092,375"/>
+<area shape="rect" id="node33" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="1489,348,1580,375"/>
+<area shape="rect" id="node34" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="1705,273,1870,300"/>
+<area shape="rect" id="node35" href="$TargetOptions_8h.html" title="llvm/Target/TargetOptions.h" alt="" coords="1297,273,1481,300"/>
+<area shape="rect" id="node5" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2773,497,2928,524"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2217,647,2380,673"/>
+<area shape="rect" id="node14" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3682,647,3853,673"/>
+<area shape="rect" id="node6" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2692,572,2832,599"/>
+<area shape="rect" id="node13" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="3571,572,3703,599"/>
+<area shape="rect" id="node20" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2225,572,2414,599"/>
+<area shape="rect" id="node30" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="1338,348,1464,375"/>
+<area shape="rect" id="node32" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1794,497,1971,524"/>
+<area shape="rect" id="node39" href="$SubtargetFeature_8h.html" title="llvm/MC/SubtargetFeature.h" alt="" coords="1037,348,1224,375"/>
+<area shape="rect" id="node43" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="44,348,192,375"/>
+<area shape="rect" id="node45" href="$MsgPackReader_8h.html" title="This is a MessagePack reader. " alt="" coords="601,184,788,225"/>
+<area shape="rect" id="node46" href="$MemoryBuffer_8h.html" title="llvm/Support/MemoryBuffer.h" alt="" coords="932,273,1124,300"/>
+<area shape="rect" id="node47" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="391,348,576,375"/>
+</map>

@@ -1,0 +1,38 @@
+<map id="lib/Target/ARM/ARMMachineFunctionInfo.h" name="lib/Target/ARM/ARMMachineFunctionInfo.h">
+<area shape="rect" id="node2" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="3095,408,3249,435"/>
+<area shape="rect" id="node16" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="4265,707,4455,733"/>
+<area shape="rect" id="node27" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="2325,483,2488,509"/>
+<area shape="rect" id="node28" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="2533,95,2752,121"/>
+<area shape="rect" id="node46" href="$GlobalVariable_8h.html" title="llvm/IR/GlobalVariable.h" alt="" coords="849,333,1012,360"/>
+<area shape="rect" id="node3" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="1473,483,1650,509"/>
+<area shape="rect" id="node6" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="3163,707,3317,733"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3359,781,3521,808"/>
+<area shape="rect" id="node9" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="4013,707,4190,733"/>
+<area shape="rect" id="node14" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="3392,707,3563,733"/>
+<area shape="rect" id="node25" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="2080,557,2253,584"/>
+<area shape="rect" id="node26" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="2582,557,2789,584"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="3608,557,3752,584"/>
+<area shape="rect" id="node23" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2739,707,2885,733"/>
+<area shape="rect" id="node5" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3379,632,3541,659"/>
+<area shape="rect" id="node29" href="$BitVector_8h.html" title="llvm/ADT/BitVector.h" alt="" coords="3536,483,3683,509"/>
+<area shape="rect" id="node30" href="$FloatingPointMode_8h.html" title="llvm/ADT/FloatingPointMode.h" alt="" coords="2355,177,2555,203"/>
+<area shape="rect" id="node31" href="$GraphTraits_8h.html" title="llvm/ADT/GraphTraits.h" alt="" coords="1968,259,2128,285"/>
+<area shape="rect" id="node32" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2505,632,2645,659"/>
+<area shape="rect" id="node33" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="499,557,611,584"/>
+<area shape="rect" id="node34" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="2297,632,2429,659"/>
+<area shape="rect" id="node35" href="$EHPersonalities_8h.html" title="llvm/Analysis/EHPersonalities.h" alt="" coords="3910,333,4119,360"/>
+<area shape="rect" id="node36" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="1077,169,1267,211"/>
+<area shape="rect" id="node38" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="1209,259,1404,285"/>
+<area shape="rect" id="node39" href="$MachineMemOperand_8h.html" title="llvm/CodeGen/MachineMemOperand.h" alt="" coords="1310,333,1557,360"/>
+<area shape="rect" id="node42" href="$AtomicOrdering_8h.html" title="Atomic ordering constants. " alt="" coords="2080,408,2280,435"/>
+<area shape="rect" id="node43" href="$ArrayRecycler_8h.html" title="llvm/Support/ArrayRecycler.h" alt="" coords="3859,483,4053,509"/>
+<area shape="rect" id="node44" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="3219,557,3381,584"/>
+<area shape="rect" id="node45" href="$Recycler_8h.html" title="llvm/Support/Recycler.h" alt="" coords="1675,483,1837,509"/>
+<area shape="rect" id="node37" href="$ilist__node_8h.html" title="llvm/ADT/ilist_node.h" alt="" coords="997,408,1144,435"/>
+<area shape="rect" id="node40" href="$PointerUnion_8h.html" title="llvm/ADT/PointerUnion.h" alt="" coords="1362,408,1529,435"/>
+<area shape="rect" id="node41" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="1201,632,1313,659"/>
+<area shape="rect" id="node47" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="3017,557,3143,584"/>
+<area shape="rect" id="node48" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="1913,483,2047,509"/>
+<area shape="rect" id="node49" href="$GlobalObject_8h.html" title="llvm/IR/GlobalObject.h" alt="" coords="1040,557,1195,584"/>
+<area shape="rect" id="node50" href="$OperandTraits_8h.html" title="llvm/IR/OperandTraits.h" alt="" coords="651,408,813,435"/>
+</map>

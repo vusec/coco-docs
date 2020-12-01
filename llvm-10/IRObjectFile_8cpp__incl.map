@@ -1,0 +1,33 @@
+<map id="lib/Object/IRObjectFile.cpp" name="lib/Object/IRObjectFile.cpp">
+<area shape="rect" id="node2" href="$IRObjectFile_8h.html" title="llvm/Object/IRObjectFile.h" alt="" coords="2120,80,2296,107"/>
+<area shape="rect" id="node9" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2235,543,2389,569"/>
+<area shape="rect" id="node29" href="$Magic_8h.html" title="llvm/BinaryFormat/Magic.h" alt="" coords="2880,319,3059,345"/>
+<area shape="rect" id="node34" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="1425,393,1610,420"/>
+<area shape="rect" id="node35" href="$MemoryBuffer_8h.html" title="llvm/Support/MemoryBuffer.h" alt="" coords="3083,319,3275,345"/>
+<area shape="rect" id="node40" href="$Mangler_8h.html" title="llvm/IR/Mangler.h" alt="" coords="136,244,261,271"/>
+<area shape="rect" id="node41" href="$BitcodeReader_8h.html" title="llvm/Bitcode/BitcodeReader.h" alt="" coords="2329,244,2524,271"/>
+<area shape="rect" id="node44" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="3635,393,3757,420"/>
+<area shape="rect" id="node45" href="$GVMaterializer_8h.html" title="llvm/IR/GVMaterializer.h" alt="" coords="2751,80,2916,107"/>
+<area shape="rect" id="node46" href="$LLVMContext_8h.html" title="llvm/IR/LLVMContext.h" alt="" coords="4797,319,4955,345"/>
+<area shape="rect" id="node49" href="$ObjectFile_8h.html" title="llvm/Object/ObjectFile.h" alt="" coords="3052,162,3215,189"/>
+<area shape="rect" id="node50" href="$TargetRegistry_8h.html" title="llvm/Support/TargetRegistry.h" alt="" coords="3883,393,4079,420"/>
+<area shape="rect" id="node3" href="$PointerUnion_8h.html" title="llvm/ADT/PointerUnion.h" alt="" coords="651,543,818,569"/>
+<area shape="rect" id="node7" href="$IRSymtab_8h.html" title="llvm/Object/IRSymtab.h" alt="" coords="2127,162,2289,189"/>
+<area shape="rect" id="node28" href="$SymbolicFile_8h.html" title="llvm/Object/SymbolicFile.h" alt="" coords="2816,244,2995,271"/>
+<area shape="rect" id="node39" href="$ModuleSymbolTable_8h.html" title="llvm/Object/ModuleSymbol\lTable.h" alt="" coords="1924,155,2103,196"/>
+<area shape="rect" id="node8" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2141,393,2285,420"/>
+<area shape="rect" id="node14" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3693,692,3864,719"/>
+<area shape="rect" id="node27" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3009,468,3156,495"/>
+<area shape="rect" id="node32" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="1832,319,1971,345"/>
+<area shape="rect" id="node38" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="894,543,1045,569"/>
+<area shape="rect" id="node10" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3387,617,3527,644"/>
+<area shape="rect" id="node13" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="2545,617,2677,644"/>
+<area shape="rect" id="node19" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="3552,617,3741,644"/>
+<area shape="rect" id="node30" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="3019,393,3146,420"/>
+<area shape="rect" id="node33" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer. " alt="" coords="691,393,843,420"/>
+<area shape="rect" id="node36" href="$c_2Types_8h.html" title="llvm&#45;c/Types.h" alt="" coords="4681,543,4789,569"/>
+<area shape="rect" id="node37" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="4627,468,4845,495"/>
+<area shape="rect" id="node42" href="$BitCodes_8h.html" title="llvm/Bitstream/BitCodes.h" alt="" coords="2718,543,2893,569"/>
+<area shape="rect" id="node43" href="$ModuleSummaryIndex_8h.html" title="ModuleSummaryIndex.h This file contains the declarations the classes that hold the module index and s..." alt="" coords="2251,319,2461,345"/>
+<area shape="rect" id="node47" href="$DiagnosticHandler_8h.html" title="llvm/IR/DiagnosticHandler.h" alt="" coords="3373,393,3560,420"/>
+</map>

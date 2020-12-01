@@ -1,0 +1,5 @@
+<map id="llvm::MachO::ppc_thread_state_t" name="llvm::MachO::ppc_thread_state_t">
+<area shape="rect" id="node3" href="$structllvm_1_1MachO_1_1ppc__thread__state32__t.html" title="llvm::MachO::ppc_thread\l_state32_t" alt="" coords="141,241,309,283"/>
+<area shape="rect" id="node4" href="$classuint32__t.html" title="uint32_t" alt="" coords="285,5,353,32"/>
+<area shape="rect" id="node5" href="$structllvm_1_1MachO_1_1ppc__state__hdr__t.html" title="llvm::MachO::ppc_state\l_hdr_t" alt="" coords="333,241,495,283"/>
+</map>

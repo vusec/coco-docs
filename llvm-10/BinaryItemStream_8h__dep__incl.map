@@ -1,0 +1,8 @@
+<map id="include/llvm/Support/BinaryItemStream.h" name="include/llvm/Support/BinaryItemStream.h">
+<area shape="rect" id="node2" href="$GSIStreamBuilder_8h.html" title="include/llvm/DebugInfo\l/PDB/Native/GSIStreamBuilder.h" alt="" coords="191,95,407,136"/>
+<area shape="rect" id="node4" href="$GSIStreamBuilder_8cpp.html" title="lib/DebugInfo/PDB/Native\l/GSIStreamBuilder.cpp" alt="" coords="5,184,179,225"/>
+<area shape="rect" id="node6" href="$TpiStreamBuilder_8h.html" title="include/llvm/DebugInfo\l/PDB/Native/TpiStreamBuilder.h" alt="" coords="431,95,641,136"/>
+<area shape="rect" id="node3" href="$DbiModuleDescriptorBuilder_8cpp.html" title="lib/DebugInfo/PDB/Native\l/DbiModuleDescriptorBuilder.cpp" alt="" coords="203,184,416,225"/>
+<area shape="rect" id="node5" href="$PDBFileBuilder_8cpp.html" title="lib/DebugInfo/PDB/Native\l/PDBFileBuilder.cpp" alt="" coords="440,184,613,225"/>
+<area shape="rect" id="node7" href="$TpiStreamBuilder_8cpp.html" title="lib/DebugInfo/PDB/Native\l/TpiStreamBuilder.cpp" alt="" coords="637,184,811,225"/>
+</map>

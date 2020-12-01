@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; EliminateAvailableExternally\lPass \&gt;" alt="" coords="5,5,204,61"/>
+<area shape="rect" id="node2" href="$classllvm_1_1EliminateAvailableExternallyPass.html" title="A pass that transforms external global definitions into declarations. " alt="" coords="252,13,413,54"/>
+</map>

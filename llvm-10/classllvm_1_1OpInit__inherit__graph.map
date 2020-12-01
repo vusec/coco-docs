@@ -1,0 +1,7 @@
+<map id="llvm::OpInit" name="llvm::OpInit">
+<area shape="rect" id="node4" href="$classllvm_1_1BinOpInit.html" title="!op (X, Y) &#45; Combine two inits. " alt="" coords="5,229,113,256"/>
+<area shape="rect" id="node5" href="$classllvm_1_1TernOpInit.html" title="!op (X, Y, Z) &#45; Combine two inits. " alt="" coords="138,229,253,256"/>
+<area shape="rect" id="node6" href="$classllvm_1_1UnOpInit.html" title="!op (X) &#45; Transform an init. " alt="" coords="277,229,383,256"/>
+<area shape="rect" id="node2" href="$classllvm_1_1TypedInit.html" title="This is the common super&#45;class of types that have a specific, explicit, type. " alt="" coords="141,80,249,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Init.html" title="llvm::Init" alt="" coords="159,5,231,32"/>
+</map>

@@ -1,0 +1,44 @@
+<map id="include/llvm/CodeGen/GlobalISel/CSEMIRBuilder.h" name="include/llvm/CodeGen/GlobalISel/CSEMIRBuilder.h">
+<area shape="rect" id="node2" href="$MachineIRBuilder_8h.html" title="This file declares the MachineIRBuilder class. " alt="" coords="3377,95,3546,136"/>
+<area shape="rect" id="node39" href="$CodeGen_2GlobalISel_2Utils_8h.html" title="llvm/CodeGen/GlobalISel\l/Utils.h" alt="" coords="3931,631,4101,672"/>
+<area shape="rect" id="node3" href="$CSEInfo_8h.html" title="llvm/CodeGen/GlobalISel\l/CSEInfo.h" alt="" coords="1278,184,1447,225"/>
+<area shape="rect" id="node25" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="3186,452,3377,493"/>
+<area shape="rect" id="node32" href="$DebugLoc_8h.html" title="llvm/IR/DebugLoc.h" alt="" coords="2437,638,2576,665"/>
+<area shape="rect" id="node43" href="$CodeGen_2GlobalISel_2Types_8h.html" title="This file describes high level types that are used by several passes or APIs involved in the GlobalIS..." alt="" coords="3886,452,4055,493"/>
+<area shape="rect" id="node44" href="$LowLevelType_8h.html" title="llvm/CodeGen/LowLevelType.h" alt="" coords="4131,459,4335,486"/>
+<area shape="rect" id="node45" href="$MachineInstrBuilder_8h.html" title="llvm/CodeGen/MachineInstr\lBuilder.h" alt="" coords="2049,273,2233,315"/>
+<area shape="rect" id="node49" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="1624,727,1763,754"/>
+<area shape="rect" id="node50" href="$MachineRegisterInfo_8h.html" title="llvm/CodeGen/MachineRegister\lInfo.h" alt="" coords="3633,273,3839,315"/>
+<area shape="rect" id="node4" href="$FoldingSet_8h.html" title="llvm/ADT/FoldingSet.h" alt="" coords="1141,638,1296,665"/>
+<area shape="rect" id="node5" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="1083,727,1245,754"/>
+<area shape="rect" id="node12" href="$CSEConfigBase_8h.html" title="llvm/CodeGen/CSEConfigBase.h" alt="" coords="1109,281,1325,307"/>
+<area shape="rect" id="node13" href="$GISelChangeObserver_8h.html" title="llvm/CodeGen/GlobalISel\l/GISelChangeObserver.h" alt="" coords="1627,273,1797,315"/>
+<area shape="rect" id="node38" href="$GISelWorkList_8h.html" title="llvm/CodeGen/GlobalISel\l/GISelWorkList.h" alt="" coords="2830,363,2999,404"/>
+<area shape="rect" id="node40" href="$MachineFunctionPass_8h.html" title="llvm/CodeGen/MachineFunction\lPass.h" alt="" coords="877,273,1085,315"/>
+<area shape="rect" id="node41" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="5,727,96,754"/>
+<area shape="rect" id="node42" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM. " alt="" coords="785,638,943,665"/>
+<area shape="rect" id="node6" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="829,899,1019,925"/>
+<area shape="rect" id="node14" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="1829,370,2048,397"/>
+<area shape="rect" id="node15" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2515,817,2659,843"/>
+<area shape="rect" id="node17" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="3493,727,3648,754"/>
+<area shape="rect" id="node18" href="$GraphTraits_8h.html" title="llvm/ADT/GraphTraits.h" alt="" coords="3499,549,3659,575"/>
+<area shape="rect" id="node20" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1505,817,1652,843"/>
+<area shape="rect" id="node21" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="3045,638,3157,665"/>
+<area shape="rect" id="node26" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="2483,549,2677,575"/>
+<area shape="rect" id="node19" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="4205,899,4376,925"/>
+<area shape="rect" id="node22" href="$simple__ilist_8h.html" title="llvm/ADT/simple_ilist.h" alt="" coords="3109,727,3267,754"/>
+<area shape="rect" id="node23" href="$ilist__node_8h.html" title="llvm/ADT/ilist_node.h" alt="" coords="2957,817,3104,843"/>
+<area shape="rect" id="node33" href="$MachineInstrBundleIterator_8h.html" title="llvm/CodeGen/MachineInstr\lBundleIterator.h" alt="" coords="3189,541,3373,583"/>
+<area shape="rect" id="node34" href="$LaneBitmask_8h.html" title="A common definition of LaneBitmask for use in TableGen and CodeGen. " alt="" coords="4784,638,4947,665"/>
+<area shape="rect" id="node35" href="$Printable_8h.html" title="llvm/Support/Printable.h" alt="" coords="4762,727,4923,754"/>
+<area shape="rect" id="node36" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="4328,549,4507,575"/>
+<area shape="rect" id="node37" href="$BranchProbability_8h.html" title="llvm/Support/BranchProbability.h" alt="" coords="2802,549,3014,575"/>
+<area shape="rect" id="node27" href="$MachineOperand_8h.html" title="llvm/CodeGen/MachineOperand.h" alt="" coords="3485,638,3704,665"/>
+<area shape="rect" id="node28" href="$Register_8h.html" title="llvm/CodeGen/Register.h" alt="" coords="3673,727,3842,754"/>
+<area shape="rect" id="node29" href="$Intrinsics_8h.html" title="llvm/IR/Intrinsics.h" alt="" coords="2395,727,2527,754"/>
+<area shape="rect" id="node30" href="$LowLevelTypeImpl_8h.html" title="llvm/Support/LowLevelType\lImpl.h" alt="" coords="3918,720,4101,761"/>
+<area shape="rect" id="node31" href="$MachineValueType_8h.html" title="llvm/Support/MachineValue\lType.h" alt="" coords="4048,809,4229,851"/>
+<area shape="rect" id="node46" href="$MachineInstrBundle_8h.html" title="llvm/CodeGen/MachineInstr\lBundle.h" alt="" coords="3189,363,3373,404"/>
+<area shape="rect" id="node47" href="$TargetRegisterInfo_8h.html" title="llvm/CodeGen/TargetRegister\lInfo.h" alt="" coords="4191,363,4385,404"/>
+<area shape="rect" id="node48" href="$InstrTypes_8h.html" title="llvm/IR/InstrTypes.h" alt="" coords="1536,638,1677,665"/>
+</map>

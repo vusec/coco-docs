@@ -1,0 +1,7 @@
+<map id="llvm::CompositeType" name="llvm::CompositeType">
+<area shape="rect" id="node3" href="$classllvm_1_1SequentialType.html" title="This is the superclass of the array and vector type classes. " alt="" coords="61,155,205,181"/>
+<area shape="rect" id="node6" href="$classllvm_1_1StructType.html" title="Class to represent struct types. " alt="" coords="230,155,349,181"/>
+<area shape="rect" id="node2" href="$classllvm_1_1Type.html" title="The instances of the Type class are immutable: once they are created, they are never changed..." alt="" coords="169,5,252,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ArrayType.html" title="Class to represent array types. " alt="" coords="5,229,120,256"/>
+<area shape="rect" id="node5" href="$classllvm_1_1VectorType.html" title="Class to represent vector types. " alt="" coords="145,229,266,256"/>
+</map>

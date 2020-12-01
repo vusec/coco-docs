@@ -1,0 +1,42 @@
+<map id="lib/Transforms/InstCombine/InstCombineMulDivRem.cpp" name="lib/Transforms/InstCombine/InstCombineMulDivRem.cpp">
+<area shape="rect" id="node2" href="$InstCombineInternal_8h.html" title="This file provides internal interfaces used to implement the InstCombine. " alt="" coords="3081,102,3232,129"/>
+<area shape="rect" id="node4" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="4327,900,4490,927"/>
+<area shape="rect" id="node16" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="5323,1049,5512,1076"/>
+<area shape="rect" id="node21" href="$IR_2Instruction_8h.html" title="llvm/IR/Instruction.h" alt="" coords="2325,527,2465,553"/>
+<area shape="rect" id="node22" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="1522,676,1634,703"/>
+<area shape="rect" id="node24" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="1668,751,1823,777"/>
+<area shape="rect" id="node26" href="$Instructions_8h.html" title="llvm/IR/Instructions.h" alt="" coords="2706,363,2852,389"/>
+<area shape="rect" id="node27" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="1090,445,1236,471"/>
+<area shape="rect" id="node28" href="$Constant_8h.html" title="llvm/IR/Constant.h" alt="" coords="597,601,729,628"/>
+<area shape="rect" id="node30" href="$Type_8h.html" title="llvm/IR/Type.h" alt="" coords="3466,676,3574,703"/>
+<area shape="rect" id="node31" href="$APFloat_8h.html" title="This file declares a class to represent arbitrary precision floating point values and provide a varie..." alt="" coords="4684,751,4823,777"/>
+<area shape="rect" id="node32" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="4848,900,4974,927"/>
+<area shape="rect" id="node33" href="$InstrTypes_8h.html" title="llvm/IR/InstrTypes.h" alt="" coords="3356,445,3498,471"/>
+<area shape="rect" id="node34" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="2954,527,3092,553"/>
+<area shape="rect" id="node35" href="$InstructionSimplify_8h.html" title="llvm/Analysis/Instruction\lSimplify.h" alt="" coords="1608,273,1774,315"/>
+<area shape="rect" id="node36" href="$Operator_8h.html" title="llvm/IR/Operator.h" alt="" coords="2153,445,2282,471"/>
+<area shape="rect" id="node39" href="$Intrinsics_8h.html" title="llvm/IR/Intrinsics.h" alt="" coords="4808,527,4940,553"/>
+<area shape="rect" id="node42" href="$IntrinsicInst_8h.html" title="llvm/IR/IntrinsicInst.h" alt="" coords="2811,281,2958,307"/>
+<area shape="rect" id="node44" href="$PatternMatch_8h.html" title="llvm/IR/PatternMatch.h" alt="" coords="2906,191,3063,218"/>
+<area shape="rect" id="node46" href="$KnownBits_8h.html" title="llvm/Support/KnownBits.h" alt="" coords="5734,191,5907,218"/>
+<area shape="rect" id="node48" href="$InstCombineWorklist_8h.html" title="llvm/Transforms/InstCombine\l/InstCombineWorklist.h" alt="" coords="5268,437,5463,479"/>
+<area shape="rect" id="node50" href="$BuildLibCalls_8h.html" title="llvm/Transforms/Utils\l/BuildLibCalls.h" alt="" coords="2112,95,2259,136"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="3666,825,3810,852"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3423,1124,3586,1151"/>
+<area shape="rect" id="node20" href="$AliasAnalysis_8h.html" title="llvm/Analysis/AliasAnalysis.h" alt="" coords="4436,281,4631,307"/>
+<area shape="rect" id="node23" href="$Use_8h.html" title="This defines the Use class. " alt="" coords="361,751,464,777"/>
+<area shape="rect" id="node29" href="$DerivedTypes_8h.html" title="llvm/IR/DerivedTypes.h" alt="" coords="2932,601,3092,628"/>
+<area shape="rect" id="node37" href="$TargetFolder_8h.html" title="llvm/Analysis/TargetFolder.h" alt="" coords="3410,363,3598,389"/>
+<area shape="rect" id="node38" href="$ValueTracking_8h.html" title="llvm/Analysis/ValueTracking.h" alt="" coords="3876,445,4074,471"/>
+<area shape="rect" id="node40" href="$Argument_8h.html" title="llvm/IR/Argument.h" alt="" coords="1196,281,1330,307"/>
+<area shape="rect" id="node41" href="$IRBuilder_8h.html" title="llvm/IR/IRBuilder.h" alt="" coords="2048,191,2182,218"/>
+<area shape="rect" id="node43" href="$InstVisitor_8h.html" title="llvm/IR/InstVisitor.h" alt="" coords="3087,191,3226,218"/>
+<area shape="rect" id="node45" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="5168,527,5316,553"/>
+<area shape="rect" id="node47" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="5245,676,5430,703"/>
+<area shape="rect" id="node49" href="$Transforms_2Utils_2Local_8h.html" title="llvm/Transforms/Utils\l/Local.h" alt="" coords="3730,184,3876,225"/>
+<area shape="rect" id="node5" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1562,975,1732,1001"/>
+<area shape="rect" id="node7" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="3970,975,4124,1001"/>
+<area shape="rect" id="node10" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="4554,975,4732,1001"/>
+<area shape="rect" id="node15" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="4959,975,5127,1001"/>
+<area shape="rect" id="node18" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1807,975,1978,1001"/>
+</map>

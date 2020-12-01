@@ -1,0 +1,8 @@
+<map id="llvm::mca::Stage" name="llvm::mca::Stage">
+<area shape="rect" id="node2" href="$classllvm_1_1mca_1_1DispatchStage.html" title="llvm::mca::DispatchStage" alt="" coords="192,5,365,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1mca_1_1EntryStage.html" title="llvm::mca::EntryStage" alt="" coords="203,56,355,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1mca_1_1ExecuteStage.html" title="llvm::mca::ExecuteStage" alt="" coords="194,107,363,133"/>
+<area shape="rect" id="node5" href="$classllvm_1_1mca_1_1InstructionTables.html" title="llvm::mca::InstructionTables" alt="" coords="185,157,372,184"/>
+<area shape="rect" id="node6" href="$classllvm_1_1mca_1_1MicroOpQueueStage.html" title="A stage that simulates a queue of instruction opcodes. " alt="" coords="175,208,383,235"/>
+<area shape="rect" id="node7" href="$classllvm_1_1mca_1_1RetireStage.html" title="llvm::mca::RetireStage" alt="" coords="201,259,357,285"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1orc_1_1LLJIT.html" title="A pre&#45;fabricated ORC JIT stack that can serve as an alternative to MCJIT. " alt="" coords="5,5,119,32"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1LLLazyJIT.html" title="An extended version of LLJIT that supports lazy function&#45;at&#45;a&#45;time compilation of LLVM IR..." alt="" coords="167,5,308,32"/>
+</map>

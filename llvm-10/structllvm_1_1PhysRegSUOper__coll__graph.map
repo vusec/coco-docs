@@ -1,0 +1,29 @@
+<map id="llvm::PhysRegSUOper" name="llvm::PhysRegSUOper">
+<area shape="rect" id="node2" href="$classllvm_1_1SUnit.html" title="Scheduling unit. This is a node in the scheduling DAG. " alt="" coords="2720,567,2807,593"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::SDep, 4 \&gt;" alt="" coords="2445,399,2579,441"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; llvm::SDep \&gt;" alt="" coords="2127,399,2278,441"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="1243,377,1421,418"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="llvm::SmallVectorTemplate\lCommon\&lt; T \&gt;" alt="" coords="649,159,828,201"/>
+<area shape="rect" id="node12" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; T \&gt;" alt="" coords="1467,155,1646,197"/>
+<area shape="rect" id="node13" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="1034,101,1213,142"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SmallVectorBase.html" title="This is all the non&#45;templated stuff common to all SmallVectors. " alt="" coords="181,168,336,195"/>
+<area shape="rect" id="node10" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="This is the part of SmallVectorTemplateBase which does not depend on whether the type T is a POD..." alt="" coords="385,126,564,167"/>
+<area shape="rect" id="node8" href="$classunsigned.html" title="unsigned" alt="" coords="5,367,80,393"/>
+<area shape="rect" id="node21" href="$structllvm_1_1MCSchedClassDesc.html" title="Summarize the scheduling resources required for an instruction of a particular scheduling class..." alt="" coords="1035,675,1212,701"/>
+<area shape="rect" id="node11" href="$classllvm_1_1SmallVectorImpl.html" title="This class consists of common code factored out of the SmallVector class to reduce code duplication b..." alt="" coords="1775,273,1957,300"/>
+<area shape="rect" id="node20" href="$classllvm_1_1SmallVector.html" title="This is a &#39;vector&#39; (really, a variable&#45;sized array), optimized for the case when the array is small..." alt="" coords="2136,259,2269,301"/>
+<area shape="rect" id="node14" href="$structllvm_1_1SmallVectorStorage.html" title="llvm::SmallVectorStorage\l\&lt; llvm::SDep, N \&gt;" alt="" coords="2117,334,2288,375"/>
+<area shape="rect" id="node15" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::SDep \&gt;" alt="" coords="1461,335,1652,377"/>
+<area shape="rect" id="node16" href="$classchar.html" title="char" alt="" coords="715,365,762,392"/>
+<area shape="rect" id="node17" href="$structllvm_1_1AlignedCharArrayUnion.html" title="A suitably aligned and sized character array member which can hold elements of any type..." alt="" coords="1028,281,1219,322"/>
+<area shape="rect" id="node19" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\&lt; T \&gt;" alt="" coords="1445,221,1668,248"/>
+<area shape="rect" id="node33" href="$structllvm_1_1LaneBitmask.html" title="llvm::LaneBitmask" alt="" coords="1058,624,1189,651"/>
+<area shape="rect" id="node18" href="$structllvm_1_1SmallVectorStorage.html" title="Storage for the SmallVector elements. " alt="" coords="1781,207,1951,249"/>
+<area shape="rect" id="node22" href="$classuint16__t.html" title="uint16_t" alt="" coords="705,1076,773,1103"/>
+<area shape="rect" id="node25" href="$classllvm_1_1TargetRegisterClass.html" title="llvm::TargetRegisterClass" alt="" coords="1469,1069,1644,1096"/>
+<area shape="rect" id="node29" href="$classllvm_1_1MCRegisterClass.html" title="MCRegisterClass &#45; Base class of TargetRegisterClass. " alt="" coords="1044,1257,1203,1284"/>
+<area shape="rect" id="node23" href="$classbool.html" title="bool" alt="" coords="715,796,762,823"/>
+<area shape="rect" id="node26" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; uint16_t \&gt;" alt="" coords="1035,1017,1211,1044"/>
+<area shape="rect" id="node27" href="$classllvm_1_1ArrayRef.html" title="ArrayRef &#45; Represent a constant reference to an array (0 or more elements consecutively in memory)..." alt="" coords="669,1025,808,1052"/>
+<area shape="rect" id="node31" href="$classuint32__t.html" title="uint32_t" alt="" coords="705,1207,773,1233"/>
+</map>

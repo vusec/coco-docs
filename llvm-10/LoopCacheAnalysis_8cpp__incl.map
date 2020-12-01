@@ -1,0 +1,36 @@
+<map id="lib/Analysis/LoopCacheAnalysis.cpp" name="lib/Analysis/LoopCacheAnalysis.cpp">
+<area shape="rect" id="node2" href="$LoopCacheAnalysis_8h.html" title="This file defines the interface for the loop cache analysis. " alt="" coords="4142,80,4373,107"/>
+<area shape="rect" id="node13" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2455,736,2617,763"/>
+<area shape="rect" id="node43" href="$BreadthFirstIterator_8h.html" title="llvm/ADT/BreadthFirstIterator.h" alt="" coords="5929,736,6133,763"/>
+<area shape="rect" id="node45" href="$Sequence_8h.html" title="This routine provides some synthesis utilities to produce sequences of values. " alt="" coords="5465,736,5615,763"/>
+<area shape="rect" id="node46" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="2079,423,2273,449"/>
+<area shape="rect" id="node50" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="6083,80,6231,107"/>
+<area shape="rect" id="node3" href="$AliasAnalysis_8h.html" title="llvm/Analysis/AliasAnalysis.h" alt="" coords="4805,423,5000,449"/>
+<area shape="rect" id="node27" href="$Instructions_8h.html" title="llvm/IR/Instructions.h" alt="" coords="4056,505,4203,531"/>
+<area shape="rect" id="node34" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="232,505,323,531"/>
+<area shape="rect" id="node35" href="$DependenceAnalysis_8h.html" title="llvm/Analysis/Dependence\lAnalysis.h" alt="" coords="3845,333,4022,375"/>
+<area shape="rect" id="node36" href="$LoopAnalysisManager_8h.html" title="This header provides classes for managing per&#45;loop analyses. " alt="" coords="4357,155,4539,196"/>
+<area shape="rect" id="node37" href="$LoopInfo_8h.html" title="llvm/Analysis/LoopInfo.h" alt="" coords="4199,423,4364,449"/>
+<area shape="rect" id="node40" href="$ScalarEvolution_8h.html" title="llvm/Analysis/ScalarEvolution.h" alt="" coords="4390,341,4597,367"/>
+<area shape="rect" id="node41" href="$TargetTransformInfo_8h.html" title="This pass exposes codegen information to IR&#45;level passes. " alt="" coords="4319,244,4519,285"/>
+<area shape="rect" id="node42" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="1053,587,1238,613"/>
+<area shape="rect" id="node4" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="4467,885,4589,912"/>
+<area shape="rect" id="node5" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="4249,811,4389,837"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2524,960,2687,987"/>
+<area shape="rect" id="node7" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="3091,885,3261,912"/>
+<area shape="rect" id="node14" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="5489,885,5660,912"/>
+<area shape="rect" id="node16" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2414,811,2567,837"/>
+<area shape="rect" id="node18" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1614,811,1791,837"/>
+<area shape="rect" id="node22" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="2171,811,2339,837"/>
+<area shape="rect" id="node23" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="569,885,759,912"/>
+<area shape="rect" id="node28" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="3600,661,3744,688"/>
+<area shape="rect" id="node29" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3779,736,3933,763"/>
+<area shape="rect" id="node30" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="4923,811,5055,837"/>
+<area shape="rect" id="node32" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1651,661,1797,688"/>
+<area shape="rect" id="node33" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="850,587,977,613"/>
+<area shape="rect" id="node38" href="$GraphTraits_8h.html" title="llvm/ADT/GraphTraits.h" alt="" coords="5891,811,6051,837"/>
+<area shape="rect" id="node39" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="3099,811,3261,837"/>
+<area shape="rect" id="node47" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="2895,587,3046,613"/>
+<area shape="rect" id="node48" href="$ManagedStatic_8h.html" title="llvm/Support/ManagedStatic.h" alt="" coords="2019,661,2216,688"/>
+<area shape="rect" id="node49" href="$VirtualFileSystem_8h.html" title="Defines the virtual file system interface vfs::FileSystem. " alt="" coords="2156,497,2313,539"/>
+</map>

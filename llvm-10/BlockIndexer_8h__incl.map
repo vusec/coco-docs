@@ -1,0 +1,33 @@
+<map id="include/llvm/XRay/BlockIndexer.h" name="include/llvm/XRay/BlockIndexer.h">
+<area shape="rect" id="node2" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1555,229,1709,256"/>
+<area shape="rect" id="node39" href="$FDRRecords_8h.html" title="llvm/XRay/FDRRecords.h" alt="" coords="4490,80,4665,107"/>
+<area shape="rect" id="node3" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="2438,304,2615,331"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="988,692,1151,719"/>
+<area shape="rect" id="node15" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="984,610,1155,637"/>
+<area shape="rect" id="node23" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1795,610,1949,637"/>
+<area shape="rect" id="node24" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1315,528,1493,555"/>
+<area shape="rect" id="node37" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="2315,528,2488,555"/>
+<area shape="rect" id="node38" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="145,528,351,555"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="3544,379,3688,405"/>
+<area shape="rect" id="node5" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="2049,528,2189,555"/>
+<area shape="rect" id="node34" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2971,453,3117,480"/>
+<area shape="rect" id="node35" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="187,603,351,644"/>
+<area shape="rect" id="node36" href="$TypeSize_8h.html" title="llvm/Support/TypeSize.h" alt="" coords="2421,453,2587,480"/>
+<area shape="rect" id="node20" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3344,453,3507,480"/>
+<area shape="rect" id="node30" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3800,528,3955,555"/>
+<area shape="rect" id="node6" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="182,692,357,719"/>
+<area shape="rect" id="node7" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="4201,610,4391,637"/>
+<area shape="rect" id="node12" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1467,610,1669,637"/>
+<area shape="rect" id="node21" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3863,610,4033,637"/>
+<area shape="rect" id="node40" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="883,528,1037,555"/>
+<area shape="rect" id="node41" href="$DataExtractor_8h.html" title="llvm/Support/DataExtractor.h" alt="" coords="3519,155,3710,181"/>
+<area shape="rect" id="node42" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="3905,229,4044,256"/>
+<area shape="rect" id="node50" href="$XRayRecord_8h.html" title="llvm/XRay/XRayRecord.h" alt="" coords="5448,379,5621,405"/>
+<area shape="rect" id="node43" href="$c_2Error_8h.html" title="llvm&#45;c/Error.h" alt="" coords="4993,304,5093,331"/>
+<area shape="rect" id="node44" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="4038,304,4202,331"/>
+<area shape="rect" id="node45" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="4022,379,4149,405"/>
+<area shape="rect" id="node46" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="5117,304,5265,331"/>
+<area shape="rect" id="node47" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer. " alt="" coords="1568,528,1720,555"/>
+<area shape="rect" id="node48" href="$Format_8h.html" title="llvm/Support/Format.h" alt="" coords="3541,304,3691,331"/>
+<area shape="rect" id="node49" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="3067,379,3253,405"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="llvm::PoisoningVH&lt; ValueTy &gt;" name="llvm::PoisoningVH&lt; ValueTy &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1CallbackVH.html" title="Value handle with callbacks on RAUW and destruction. " alt="" coords="23,80,147,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ValueHandleBase.html" title="This is the common base class of value handles. " alt="" coords="5,5,164,32"/>
+</map>

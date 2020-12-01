@@ -1,0 +1,4 @@
+<map id="llvm::SuccIterator&lt; InstructionT, BlockT &gt;" name="llvm::SuccIterator&lt; InstructionT, BlockT &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; SuccIterator\&lt;\l InstructionT, BlockT\l \&gt;, std::random_access\l_iterator_tag, BlockT, int,\l BlockT *, BlockT *\&gt;" alt="" coords="713,39,883,139"/>
+<area shape="rect" id="node4" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="267,100,491,171"/>
+</map>

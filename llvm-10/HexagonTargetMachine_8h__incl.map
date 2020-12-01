@@ -1,0 +1,38 @@
+<map id="lib/Target/Hexagon/HexagonTargetMachine.h" name="lib/Target/Hexagon/HexagonTargetMachine.h">
+<area shape="rect" id="node2" href="$HexagonInstrInfo_8h.html" title="HexagonInstrInfo.h" alt="" coords="1752,169,1885,196"/>
+<area shape="rect" id="node31" href="$HexagonSubtarget_8h.html" title="HexagonSubtarget.h" alt="" coords="2915,95,3056,121"/>
+<area shape="rect" id="node43" href="$HexagonTargetObjectFile_8h.html" title="HexagonTargetObjectFile.h" alt="" coords="2691,169,2872,196"/>
+<area shape="rect" id="node46" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="614,169,802,196"/>
+<area shape="rect" id="node3" href="$HexagonBaseInfo_8h.html" title="MCTargetDesc/HexagonBase\lInfo.h" alt="" coords="816,244,1013,285"/>
+<area shape="rect" id="node10" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2375,341,2519,367"/>
+<area shape="rect" id="node15" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3309,430,3472,457"/>
+<area shape="rect" id="node27" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="1294,333,1485,375"/>
+<area shape="rect" id="node28" href="$TargetInstrInfo_8h.html" title="llvm/CodeGen/TargetInstr\lInfo.h" alt="" coords="2047,244,2219,285"/>
+<area shape="rect" id="node29" href="$ValueTypes_8h.html" title="llvm/CodeGen/ValueTypes.h" alt="" coords="1509,341,1699,367"/>
+<area shape="rect" id="node30" href="$MachineValueType_8h.html" title="llvm/Support/MachineValue\lType.h" alt="" coords="1645,423,1827,464"/>
+<area shape="rect" id="node4" href="$HexagonDepITypes_8h.html" title="HexagonDepITypes.h" alt="" coords="864,341,1013,367"/>
+<area shape="rect" id="node5" href="$HexagonMCTargetDesc_8h.html" title="MCTargetDesc/HexagonMCTarget\lDesc.h" alt="" coords="615,333,841,375"/>
+<area shape="rect" id="node11" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="2377,430,2517,457"/>
+<area shape="rect" id="node14" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="2128,430,2251,457"/>
+<area shape="rect" id="node19" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3073,587,3236,613"/>
+<area shape="rect" id="node24" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2643,430,2797,457"/>
+<area shape="rect" id="node16" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="2520,512,2691,539"/>
+<area shape="rect" id="node18" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="3297,512,3450,539"/>
+<area shape="rect" id="node32" href="$HexagonDepArch_8h.html" title="HexagonDepArch.h" alt="" coords="3264,169,3400,196"/>
+<area shape="rect" id="node33" href="$HexagonFrameLowering_8h.html" title="HexagonFrameLowering.h" alt="" coords="2295,251,2470,278"/>
+<area shape="rect" id="node34" href="$HexagonISelLowering_8h.html" title="HexagonISelLowering.h" alt="" coords="1692,251,1852,278"/>
+<area shape="rect" id="node35" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2745,341,2892,367"/>
+<area shape="rect" id="node36" href="$HexagonRegisterInfo_8h.html" title="HexagonRegisterInfo.h" alt="" coords="3425,169,3581,196"/>
+<area shape="rect" id="node37" href="$HexagonSelectionDAGInfo_8h.html" title="HexagonSelectionDAGInfo.h" alt="" coords="3605,169,3795,196"/>
+<area shape="rect" id="node38" href="$SmallSet_8h.html" title="llvm/ADT/SmallSet.h" alt="" coords="3738,341,3883,367"/>
+<area shape="rect" id="node39" href="$ScheduleDAGMutation_8h.html" title="llvm/CodeGen/ScheduleDAGMutation.h" alt="" coords="3409,341,3663,367"/>
+<area shape="rect" id="node40" href="$TargetSubtargetInfo_8h.html" title="llvm/CodeGen/TargetSubtarget\lInfo.h" alt="" coords="3220,244,3423,285"/>
+<area shape="rect" id="node42" href="$MCInstrItineraries_8h.html" title="llvm/MC/MCInstrItineraries.h" alt="" coords="3049,169,3239,196"/>
+<area shape="rect" id="node41" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="3068,341,3233,367"/>
+<area shape="rect" id="node44" href="$TargetLoweringObjectFileImpl_8h.html" title="llvm/CodeGen/TargetLowering\lObjectFileImpl.h" alt="" coords="2697,244,2895,285"/>
+<area shape="rect" id="node45" href="$MCSectionELF_8h.html" title="llvm/MC/MCSectionELF.h" alt="" coords="2919,251,3094,278"/>
+<area shape="rect" id="node47" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="43,251,167,278"/>
+<area shape="rect" id="node48" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="1876,251,2023,278"/>
+<area shape="rect" id="node49" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="451,251,541,278"/>
+<area shape="rect" id="node50" href="$TargetOptions_8h.html" title="llvm/Target/TargetOptions.h" alt="" coords="192,251,376,278"/>
+</map>

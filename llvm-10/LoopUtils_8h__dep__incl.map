@@ -1,0 +1,43 @@
+<map id="include/llvm/Transforms/Utils/LoopUtils.h" name="include/llvm/Transforms/Utils/LoopUtils.h">
+<area shape="rect" id="node2" href="$LoopVersioning_8h.html" title="include/llvm/Transforms\l/Utils/LoopVersioning.h" alt="" coords="414,102,575,143"/>
+<area shape="rect" id="node3" href="$LoopDistribute_8cpp.html" title="lib/Transforms/Scalar\l/LoopDistribute.cpp" alt="" coords="5,199,152,240"/>
+<area shape="rect" id="node5" href="$LoopVersioningLICM_8cpp.html" title="lib/Transforms/Scalar\l/LoopVersioningLICM.cpp" alt="" coords="587,199,759,240"/>
+<area shape="rect" id="node7" href="$LoopVectorize_8cpp.html" title="lib/Transforms/Vectorize\l/LoopVectorize.cpp" alt="" coords="741,288,905,329"/>
+<area shape="rect" id="node8" href="$LoopVectorizationLegality_8h.html" title="This file defines the LoopVectorizationLegality class. " alt="" coords="835,95,1024,151"/>
+<area shape="rect" id="node12" href="$ExpandReductions_8cpp.html" title="lib/CodeGen/ExpandReductions.cpp" alt="" coords="1049,109,1282,136"/>
+<area shape="rect" id="node13" href="$HardwareLoops_8cpp.html" title="Insert hardware loop intrinsics into loops which are deemed profitable by the target, by querying TargetTransformInfo. " alt="" coords="1306,109,1521,136"/>
+<area shape="rect" id="node14" href="$PPCCTRLoops_8cpp.html" title="lib/Target/PowerPC\l/PPCCTRLoops.cpp" alt="" coords="1545,102,1687,143"/>
+<area shape="rect" id="node15" href="$PPCLoopInstrFormPrep_8cpp.html" title="lib/Target/PowerPC\l/PPCLoopInstrFormPrep.cpp" alt="" coords="1711,102,1902,143"/>
+<area shape="rect" id="node16" href="$GuardWidening_8cpp.html" title="lib/Transforms/Scalar\l/GuardWidening.cpp" alt="" coords="1927,102,2073,143"/>
+<area shape="rect" id="node17" href="$InductiveRangeCheckElimination_8cpp.html" title="lib/Transforms/Scalar\l/InductiveRangeCheckElimination.cpp" alt="" coords="2098,102,2342,143"/>
+<area shape="rect" id="node18" href="$IndVarSimplify_8cpp.html" title="lib/Transforms/Scalar\l/IndVarSimplify.cpp" alt="" coords="2367,102,2513,143"/>
+<area shape="rect" id="node19" href="$LICM_8cpp.html" title="lib/Transforms/Scalar\l/LICM.cpp" alt="" coords="2537,102,2684,143"/>
+<area shape="rect" id="node20" href="$LoopDeletion_8cpp.html" title="lib/Transforms/Scalar\l/LoopDeletion.cpp" alt="" coords="2708,102,2855,143"/>
+<area shape="rect" id="node21" href="$LoopIdiomRecognize_8cpp.html" title="lib/Transforms/Scalar\l/LoopIdiomRecognize.cpp" alt="" coords="2879,102,3052,143"/>
+<area shape="rect" id="node22" href="$LoopInstSimplify_8cpp.html" title="lib/Transforms/Scalar\l/LoopInstSimplify.cpp" alt="" coords="3077,102,3225,143"/>
+<area shape="rect" id="node23" href="$LoopInterchange_8cpp.html" title="lib/Transforms/Scalar\l/LoopInterchange.cpp" alt="" coords="3249,102,3396,143"/>
+<area shape="rect" id="node24" href="$LoopPredication_8cpp.html" title="lib/Transforms/Scalar\l/LoopPredication.cpp" alt="" coords="3420,102,3567,143"/>
+<area shape="rect" id="node25" href="$LoopRerollPass_8cpp.html" title="lib/Transforms/Scalar\l/LoopRerollPass.cpp" alt="" coords="3591,102,3737,143"/>
+<area shape="rect" id="node26" href="$LoopRotation_8cpp.html" title="lib/Transforms/Scalar\l/LoopRotation.cpp" alt="" coords="3761,102,3908,143"/>
+<area shape="rect" id="node27" href="$LoopSimplifyCFG_8cpp.html" title="lib/Transforms/Scalar\l/LoopSimplifyCFG.cpp" alt="" coords="3932,102,4087,143"/>
+<area shape="rect" id="node28" href="$LoopSink_8cpp.html" title="lib/Transforms/Scalar\l/LoopSink.cpp" alt="" coords="4111,102,4257,143"/>
+<area shape="rect" id="node29" href="$LoopUnrollAndJamPass_8cpp.html" title="lib/Transforms/Scalar\l/LoopUnrollAndJamPass.cpp" alt="" coords="4282,102,4473,143"/>
+<area shape="rect" id="node30" href="$LoopUnrollPass_8cpp.html" title="lib/Transforms/Scalar\l/LoopUnrollPass.cpp" alt="" coords="4497,102,4644,143"/>
+<area shape="rect" id="node31" href="$LoopUnswitch_8cpp.html" title="lib/Transforms/Scalar\l/LoopUnswitch.cpp" alt="" coords="4668,102,4815,143"/>
+<area shape="rect" id="node32" href="$SimpleLoopUnswitch_8cpp.html" title="lib/Transforms/Scalar\l/SimpleLoopUnswitch.cpp" alt="" coords="4839,102,5014,143"/>
+<area shape="rect" id="node33" href="$WarnMissedTransforms_8cpp.html" title="lib/Transforms/Scalar\l/WarnMissedTransforms.cpp" alt="" coords="5038,102,5229,143"/>
+<area shape="rect" id="node34" href="$LCSSA_8cpp.html" title="lib/Transforms/Utils\l/LCSSA.cpp" alt="" coords="5253,102,5389,143"/>
+<area shape="rect" id="node35" href="$LoopRotationUtils_8cpp.html" title="lib/Transforms/Utils\l/LoopRotationUtils.cpp" alt="" coords="5413,102,5568,143"/>
+<area shape="rect" id="node36" href="$LoopSimplify_8cpp.html" title="lib/Transforms/Utils\l/LoopSimplify.cpp" alt="" coords="5592,102,5728,143"/>
+<area shape="rect" id="node37" href="$LoopUnroll_8cpp.html" title="lib/Transforms/Utils\l/LoopUnroll.cpp" alt="" coords="5752,102,5888,143"/>
+<area shape="rect" id="node38" href="$LoopUnrollAndJam_8cpp.html" title="lib/Transforms/Utils\l/LoopUnrollAndJam.cpp" alt="" coords="5913,102,6074,143"/>
+<area shape="rect" id="node39" href="$LoopUnrollPeel_8cpp.html" title="lib/Transforms/Utils\l/LoopUnrollPeel.cpp" alt="" coords="6099,102,6237,143"/>
+<area shape="rect" id="node40" href="$LoopUnrollRuntime_8cpp.html" title="lib/Transforms/Utils\l/LoopUnrollRuntime.cpp" alt="" coords="6261,102,6424,143"/>
+<area shape="rect" id="node41" href="$LoopUtils_8cpp.html" title="lib/Transforms/Utils\l/LoopUtils.cpp" alt="" coords="6448,102,6584,143"/>
+<area shape="rect" id="node42" href="$SLPVectorizer_8cpp.html" title="lib/Transforms/Vectorize\l/SLPVectorizer.cpp" alt="" coords="6609,102,6773,143"/>
+<area shape="rect" id="node4" href="$LoopLoadElimination_8cpp.html" title="lib/Transforms/Scalar\l/LoopLoadElimination.cpp" alt="" coords="176,199,347,240"/>
+<area shape="rect" id="node6" href="$LoopVersioning_8cpp.html" title="lib/Transforms/Utils\l/LoopVersioning.cpp" alt="" coords="371,199,511,240"/>
+<area shape="rect" id="node9" href="$LoopVectorizationLegality_8cpp.html" title="lib/Transforms/Vectorize\l/LoopVectorizationLegality.cpp" alt="" coords="885,199,1085,240"/>
+<area shape="rect" id="node10" href="$VPlanTransforms_8h.html" title="This file provides utility VPlan to VPlan transformations. " alt="" coords="1110,199,1274,240"/>
+<area shape="rect" id="node11" href="$VPlanTransforms_8cpp.html" title="This file implements a set of utility VPlan to VPlan transformations. " alt="" coords="1110,288,1274,329"/>
+</map>

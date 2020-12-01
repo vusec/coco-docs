@@ -1,0 +1,26 @@
+<map id="include/llvm/IR/Verifier.h" name="include/llvm/IR/Verifier.h">
+<area shape="rect" id="node2" href="$LinkAllIR_8h.html" title="include/llvm/LinkAllIR.h" alt="" coords="5,87,164,114"/>
+<area shape="rect" id="node3" href="$Analysis_2Analysis_8cpp.html" title="lib/Analysis/Analysis.cpp" alt="" coords="189,87,357,114"/>
+<area shape="rect" id="node4" href="$ScalarEvolution_8cpp.html" title="lib/Analysis/ScalarEvolution.cpp" alt="" coords="381,87,591,114"/>
+<area shape="rect" id="node5" href="$BitcodeReader_8cpp.html" title="lib/Bitcode/Reader\l/BitcodeReader.cpp" alt="" coords="615,80,752,121"/>
+<area shape="rect" id="node6" href="$TargetPassConfig_8cpp.html" title="lib/CodeGen/TargetPassConfig.cpp" alt="" coords="776,87,1004,114"/>
+<area shape="rect" id="node7" href="$TypePromotion_8cpp.html" title="This is an opcode based type promotion pass for small types that would otherwise be promoted during l..." alt="" coords="1029,87,1239,114"/>
+<area shape="rect" id="node8" href="$WinEHPrepare_8cpp.html" title="lib/CodeGen/WinEHPrepare.cpp" alt="" coords="1263,87,1474,114"/>
+<area shape="rect" id="node9" href="$Speculation_8cpp.html" title="lib/ExecutionEngine\l/Orc/Speculation.cpp" alt="" coords="1498,80,1642,121"/>
+<area shape="rect" id="node10" href="$FuzzerCLI_8cpp.html" title="lib/FuzzMutate/FuzzerCLI.cpp" alt="" coords="1667,87,1865,114"/>
+<area shape="rect" id="node11" href="$AutoUpgrade_8cpp.html" title="lib/IR/AutoUpgrade.cpp" alt="" coords="1889,87,2048,114"/>
+<area shape="rect" id="node12" href="$Verifier_8cpp.html" title="lib/IR/Verifier.cpp" alt="" coords="2073,87,2195,114"/>
+<area shape="rect" id="node13" href="$LTOBackend_8cpp.html" title="lib/LTO/LTOBackend.cpp" alt="" coords="2220,87,2389,114"/>
+<area shape="rect" id="node14" href="$LTOCodeGenerator_8cpp.html" title="lib/LTO/LTOCodeGenerator.cpp" alt="" coords="2413,87,2620,114"/>
+<area shape="rect" id="node15" href="$ThinLTOCodeGenerator_8cpp.html" title="lib/LTO/ThinLTOCodeGenerator.cpp" alt="" coords="2644,87,2875,114"/>
+<area shape="rect" id="node16" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="2899,87,3081,114"/>
+<area shape="rect" id="node17" href="$HexagonCommonGEP_8cpp.html" title="lib/Target/Hexagon\l/HexagonCommonGEP.cpp" alt="" coords="3106,80,3290,121"/>
+<area shape="rect" id="node18" href="$CoroSplit_8cpp.html" title="lib/Transforms/Coroutines\l/CoroSplit.cpp" alt="" coords="3315,80,3487,121"/>
+<area shape="rect" id="node19" href="$Attributor_8cpp.html" title="lib/Transforms/IPO\l/Attributor.cpp" alt="" coords="3511,80,3643,121"/>
+<area shape="rect" id="node20" href="$PassManagerBuilder_8cpp.html" title="lib/Transforms/IPO\l/PassManagerBuilder.cpp" alt="" coords="3667,80,3838,121"/>
+<area shape="rect" id="node21" href="$LoopFuse_8cpp.html" title="This file implements the loop fusion pass. " alt="" coords="3862,80,4009,121"/>
+<area shape="rect" id="node22" href="$Scalar_8cpp.html" title="lib/Transforms/Scalar\l/Scalar.cpp" alt="" coords="4033,80,4179,121"/>
+<area shape="rect" id="node23" href="$CodeExtractor_8cpp.html" title="lib/Transforms/Utils\l/CodeExtractor.cpp" alt="" coords="4203,80,4339,121"/>
+<area shape="rect" id="node24" href="$LoopVectorize_8cpp.html" title="lib/Transforms/Vectorize\l/LoopVectorize.cpp" alt="" coords="4364,80,4528,121"/>
+<area shape="rect" id="node25" href="$SLPVectorizer_8cpp.html" title="lib/Transforms/Vectorize\l/SLPVectorizer.cpp" alt="" coords="4552,80,4716,121"/>
+</map>

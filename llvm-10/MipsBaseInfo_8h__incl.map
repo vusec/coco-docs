@@ -1,0 +1,30 @@
+<map id="lib/Target/Mips/MCTargetDesc/MipsBaseInfo.h" name="lib/Target/Mips/MCTargetDesc/MipsBaseInfo.h">
+<area shape="rect" id="node2" href="$MipsFixupKinds_8h.html" title="MipsFixupKinds.h" alt="" coords="1016,95,1143,121"/>
+<area shape="rect" id="node4" href="$MCExpr_8h.html" title="llvm/MC/MCExpr.h" alt="" coords="1221,244,1356,271"/>
+<area shape="rect" id="node9" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="104,632,279,659"/>
+<area shape="rect" id="node15" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="901,632,1090,659"/>
+<area shape="rect" id="node42" href="$MipsMCTargetDesc_8h.html" title="MipsMCTargetDesc.h" alt="" coords="685,475,836,502"/>
+<area shape="rect" id="node46" href="$MCInstrDesc_8h.html" title="llvm/MC/MCInstrDesc.h" alt="" coords="2188,169,2352,196"/>
+<area shape="rect" id="node3" href="$MCFixup_8h.html" title="llvm/MC/MCFixup.h" alt="" coords="1013,169,1151,196"/>
+<area shape="rect" id="node41" href="$SMLoc_8h.html" title="llvm/Support/SMLoc.h" alt="" coords="1159,319,1309,345"/>
+<area shape="rect" id="node5" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2042,319,2197,345"/>
+<area shape="rect" id="node6" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="2503,393,2680,420"/>
+<area shape="rect" id="node16" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1357,707,1519,733"/>
+<area shape="rect" id="node20" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2014,632,2185,659"/>
+<area shape="rect" id="node36" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="2806,393,2979,420"/>
+<area shape="rect" id="node37" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1360,557,1513,584"/>
+<area shape="rect" id="node38" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1736,557,1913,584"/>
+<area shape="rect" id="node39" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="1267,393,1473,420"/>
+<area shape="rect" id="node7" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2237,475,2381,502"/>
+<area shape="rect" id="node8" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="2161,557,2301,584"/>
+<area shape="rect" id="node31" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2833,557,2979,584"/>
+<area shape="rect" id="node33" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="1165,468,1329,509"/>
+<area shape="rect" id="node34" href="$TypeSize_8h.html" title="llvm/Support/TypeSize.h" alt="" coords="2557,475,2722,502"/>
+<area shape="rect" id="node26" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="1538,557,1661,584"/>
+<area shape="rect" id="node10" href="$c_2DataTypes_8h.html" title="llvm&#45;c/DataTypes.h" alt="" coords="123,707,259,733"/>
+<area shape="rect" id="node32" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3257,632,3427,659"/>
+<area shape="rect" id="node47" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="3145,244,3323,271"/>
+<area shape="rect" id="node48" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="3257,557,3389,584"/>
+<area shape="rect" id="node49" href="$LaneBitmask_8h.html" title="A common definition of LaneBitmask for use in TableGen and CodeGen. " alt="" coords="1730,319,1893,345"/>
+<area shape="rect" id="node50" href="$MCRegister_8h.html" title="llvm/MC/MCRegister.h" alt="" coords="3099,319,3255,345"/>
+</map>

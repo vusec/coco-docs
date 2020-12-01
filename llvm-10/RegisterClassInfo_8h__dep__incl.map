@@ -1,0 +1,24 @@
+<map id="include/llvm/CodeGen/RegisterClassInfo.h" name="include/llvm/CodeGen/RegisterClassInfo.h">
+<area shape="rect" id="node2" href="$MachinePipeliner_8h.html" title="include/llvm/CodeGen\l/MachinePipeliner.h" alt="" coords="41,95,192,136"/>
+<area shape="rect" id="node4" href="$AggressiveAntiDepBreaker_8cpp.html" title="lib/CodeGen/AggressiveAnti\lDepBreaker.cpp" alt="" coords="217,95,403,136"/>
+<area shape="rect" id="node5" href="$AllocationOrder_8cpp.html" title="lib/CodeGen/AllocationOrder.cpp" alt="" coords="428,102,640,129"/>
+<area shape="rect" id="node6" href="$BreakFalseDeps_8cpp.html" title="lib/CodeGen/BreakFalseDeps.cpp" alt="" coords="664,102,884,129"/>
+<area shape="rect" id="node7" href="$CriticalAntiDepBreaker_8cpp.html" title="lib/CodeGen/CriticalAnti\lDepBreaker.cpp" alt="" coords="909,95,1071,136"/>
+<area shape="rect" id="node8" href="$MachineScheduler_8cpp.html" title="lib/CodeGen/MachineScheduler.cpp" alt="" coords="1096,102,1327,129"/>
+<area shape="rect" id="node9" href="$PostRASchedulerList_8cpp.html" title="lib/CodeGen/PostRAScheduler\lList.cpp" alt="" coords="1351,95,1554,136"/>
+<area shape="rect" id="node10" href="$RegAllocBase_8h.html" title="lib/CodeGen/RegAllocBase.h" alt="" coords="1578,102,1770,129"/>
+<area shape="rect" id="node13" href="$RegAllocGreedy_8cpp.html" title="lib/CodeGen/RegAllocGreedy.cpp" alt="" coords="1750,184,1969,211"/>
+<area shape="rect" id="node14" href="$RegAllocFast_8cpp.html" title="lib/CodeGen/RegAllocFast.cpp" alt="" coords="1845,102,2047,129"/>
+<area shape="rect" id="node15" href="$RegisterClassInfo_8cpp.html" title="lib/CodeGen/RegisterClass\lInfo.cpp" alt="" coords="2071,95,2253,136"/>
+<area shape="rect" id="node16" href="$RegisterCoalescer_8cpp.html" title="lib/CodeGen/RegisterCoalescer.cpp" alt="" coords="2277,102,2508,129"/>
+<area shape="rect" id="node17" href="$RegisterPressure_8cpp.html" title="lib/CodeGen/RegisterPressure.cpp" alt="" coords="2533,102,2757,129"/>
+<area shape="rect" id="node18" href="$ShrinkWrap_8cpp.html" title="lib/CodeGen/ShrinkWrap.cpp" alt="" coords="2781,102,2972,129"/>
+<area shape="rect" id="node19" href="$AArch64A57FPLoadBalancing_8cpp.html" title="lib/Target/AArch64\l/AArch64A57FPLoadBalancing.cpp" alt="" coords="2997,95,3223,136"/>
+<area shape="rect" id="node20" href="$GCNSchedStrategy_8cpp.html" title="This contains a MachineSchedStrategy implementation for maximizing wave occupancy on GCN hardware..." alt="" coords="3247,95,3458,136"/>
+<area shape="rect" id="node21" href="$SIPreAllocateWWMRegs_8cpp.html" title="Pass to pre&#45;allocated WWM registers. " alt="" coords="3481,95,3704,136"/>
+<area shape="rect" id="node22" href="$ARMLoadStoreOptimizer_8cpp.html" title="lib/Target/ARM/ARMLoadStore\lOptimizer.cpp" alt="" coords="3729,95,3931,136"/>
+<area shape="rect" id="node23" href="$HexagonMachineScheduler_8cpp.html" title="lib/Target/Hexagon\l/HexagonMachineScheduler.cpp" alt="" coords="3955,95,4166,136"/>
+<area shape="rect" id="node3" href="$MachinePipeliner_8cpp.html" title="lib/CodeGen/MachinePipeliner.cpp" alt="" coords="5,184,228,211"/>
+<area shape="rect" id="node11" href="$RegAllocBase_8cpp.html" title="lib/CodeGen/RegAllocBase.cpp" alt="" coords="1285,184,1492,211"/>
+<area shape="rect" id="node12" href="$RegAllocBasic_8cpp.html" title="lib/CodeGen/RegAllocBasic.cpp" alt="" coords="1516,184,1725,211"/>
+</map>

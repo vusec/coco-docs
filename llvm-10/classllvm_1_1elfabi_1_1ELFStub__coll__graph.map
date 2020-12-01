@@ -1,0 +1,6 @@
+<map id="llvm::elfabi::ELFStub" name="llvm::elfabi::ELFStub">
+<area shape="rect" id="node3" href="$classllvm_1_1VersionTuple.html" title="Represents a version number in the form major[.minor[.subminor[.build]]]. " alt="" coords="279,71,410,98"/>
+<area shape="rect" id="node5" href="$classuint16__t.html" title="uint16_t" alt="" coords="311,173,379,199"/>
+<area shape="rect" id="node6" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; std\l::string \&gt;" alt="" coords="279,224,411,265"/>
+<area shape="rect" id="node7" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; T \&gt;" alt="" coords="5,231,140,258"/>
+</map>

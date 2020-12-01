@@ -1,0 +1,9 @@
+<map id="llvm::AliasMatchingData" name="llvm::AliasMatchingData">
+<area shape="rect" id="node2" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; llvm\l::PatternsForOpcode \&gt;" alt="" coords="365,5,520,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ArrayRef.html" title="ArrayRef &#45; Represent a constant reference to an array (0 or more elements consecutively in memory)..." alt="" coords="5,78,144,105"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; llvm\l::AliasPatternCond \&gt;" alt="" coords="371,71,515,112"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; llvm\l::AliasPattern \&gt;" alt="" coords="371,136,514,177"/>
+<area shape="rect" id="node5" href="$classbool.html" title="bool" alt="" coords="419,202,466,229"/>
+<area shape="rect" id="node6" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e. " alt="" coords="388,253,497,279"/>
+<area shape="rect" id="node7" href="$classsize__t.html" title="size_t" alt="" coords="46,253,103,279"/>
+</map>

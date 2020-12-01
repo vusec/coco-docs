@@ -1,0 +1,32 @@
+<map id="lib/CodeGen/LiveInterval.cpp" name="lib/CodeGen/LiveInterval.cpp">
+<area shape="rect" id="node2" href="$LiveInterval_8h.html" title="llvm/CodeGen/LiveInterval.h" alt="" coords="1936,162,2123,189"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1532,423,1676,449"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="532,721,695,748"/>
+<area shape="rect" id="node15" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2120,572,2283,599"/>
+<area shape="rect" id="node16" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3827,647,3997,673"/>
+<area shape="rect" id="node24" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2392,497,2547,524"/>
+<area shape="rect" id="node34" href="$SlotIndexes_8h.html" title="llvm/CodeGen/SlotIndexes.h" alt="" coords="3461,251,3651,278"/>
+<area shape="rect" id="node35" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="4267,333,4458,375"/>
+<area shape="rect" id="node36" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="4509,497,4704,524"/>
+<area shape="rect" id="node37" href="$MachineOperand_8h.html" title="llvm/CodeGen/MachineOperand.h" alt="" coords="5285,572,5504,599"/>
+<area shape="rect" id="node38" href="$LaneBitmask_8h.html" title="A common definition of LaneBitmask for use in TableGen and CodeGen. " alt="" coords="2540,423,2703,449"/>
+<area shape="rect" id="node39" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2977,497,3162,524"/>
+<area shape="rect" id="node42" href="$LiveRangeUtils_8h.html" title="LiveRangeUtils.h" alt="" coords="2211,80,2333,107"/>
+<area shape="rect" id="node43" href="$RegisterCoalescer_8h.html" title="RegisterCoalescer.h" alt="" coords="5731,80,5872,107"/>
+<area shape="rect" id="node44" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="4029,423,4192,449"/>
+<area shape="rect" id="node47" href="$LiveIntervals_8h.html" title="llvm/CodeGen/LiveIntervals.h" alt="" coords="2381,80,2576,107"/>
+<area shape="rect" id="node48" href="$TargetRegisterInfo_8h.html" title="llvm/CodeGen/TargetRegister\lInfo.h" alt="" coords="2701,244,2896,285"/>
+<area shape="rect" id="node49" href="$MachineRegisterInfo_8h.html" title="llvm/CodeGen/MachineRegister\lInfo.h" alt="" coords="3169,155,3375,196"/>
+<area shape="rect" id="node50" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="5897,80,6045,107"/>
+<area shape="rect" id="node18" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1067,647,1245,673"/>
+<area shape="rect" id="node33" href="$IntEqClasses_8h.html" title="llvm/ADT/IntEqClasses.h" alt="" coords="1645,341,1816,367"/>
+<area shape="rect" id="node40" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="2155,497,2317,524"/>
+<area shape="rect" id="node4" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="1638,572,1778,599"/>
+<area shape="rect" id="node14" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="1717,647,1840,673"/>
+<area shape="rect" id="node5" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="651,647,840,673"/>
+<area shape="rect" id="node8" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1915,647,2085,673"/>
+<area shape="rect" id="node25" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="1905,572,2045,599"/>
+<area shape="rect" id="node26" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="2713,572,2845,599"/>
+<area shape="rect" id="node45" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="3827,497,4000,524"/>
+<area shape="rect" id="node46" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="4075,497,4282,524"/>
+</map>

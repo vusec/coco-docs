@@ -1,0 +1,33 @@
+<map id="include/llvm/DebugInfo/CodeView/TypeIndexDiscovery.h" name="include/llvm/DebugInfo/CodeView/TypeIndexDiscovery.h">
+<area shape="rect" id="node2" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3053,698,3216,725"/>
+<area shape="rect" id="node23" href="$SymbolRecord_8h.html" title="llvm/DebugInfo/CodeView\l/SymbolRecord.h" alt="" coords="586,95,761,136"/>
+<area shape="rect" id="node38" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="2468,370,2607,397"/>
+<area shape="rect" id="node49" href="$TypeRecord_8h.html" title="llvm/DebugInfo/CodeView\l/TypeRecord.h" alt="" coords="1841,95,2015,136"/>
+<area shape="rect" id="node3" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="97,855,268,881"/>
+<area shape="rect" id="node6" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="3155,780,3309,807"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3848,929,4011,956"/>
+<area shape="rect" id="node10" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3841,780,4018,807"/>
+<area shape="rect" id="node15" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="4651,780,4819,807"/>
+<area shape="rect" id="node16" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="4781,855,4971,881"/>
+<area shape="rect" id="node19" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2484,855,2655,881"/>
+<area shape="rect" id="node24" href="$APSInt_8h.html" title="llvm/ADT/APSInt.h" alt="" coords="707,370,842,397"/>
+<area shape="rect" id="node25" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1231,609,1375,635"/>
+<area shape="rect" id="node27" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="1057,780,1197,807"/>
+<area shape="rect" id="node28" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="347,780,479,807"/>
+<area shape="rect" id="node33" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2900,609,3047,635"/>
+<area shape="rect" id="node34" href="$CVRecord_8h.html" title="llvm/DebugInfo/CodeView\l/CVRecord.h" alt="" coords="1701,184,1875,225"/>
+<area shape="rect" id="node35" href="$RecordSerialization_8h.html" title="llvm/DebugInfo/CodeView\l/RecordSerialization.h" alt="" coords="1575,273,1750,315"/>
+<area shape="rect" id="node36" href="$CodeView_8h.html" title="llvm/DebugInfo/CodeView\l/CodeView.h" alt="" coords="1070,363,1245,404"/>
+<area shape="rect" id="node37" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="2219,698,2370,725"/>
+<area shape="rect" id="node47" href="$TypeIndex_8h.html" title="llvm/DebugInfo/CodeView\l/TypeIndex.h" alt="" coords="2135,601,2310,643"/>
+<area shape="rect" id="node48" href="$BinaryStreamArray_8h.html" title="llvm/Support/BinaryStream\lArray.h" alt="" coords="1321,273,1500,315"/>
+<area shape="rect" id="node26" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1385,698,1540,725"/>
+<area shape="rect" id="node39" href="$c_2Error_8h.html" title="llvm&#45;c/Error.h" alt="" coords="2487,452,2587,479"/>
+<area shape="rect" id="node40" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="2783,452,2947,479"/>
+<area shape="rect" id="node41" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="3090,527,3217,553"/>
+<area shape="rect" id="node42" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="2611,452,2759,479"/>
+<area shape="rect" id="node43" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer. " alt="" coords="3541,698,3693,725"/>
+<area shape="rect" id="node45" href="$Format_8h.html" title="llvm/Support/Format.h" alt="" coords="1906,527,2057,553"/>
+<area shape="rect" id="node46" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="3293,527,3478,553"/>
+<area shape="rect" id="node50" href="$GUID_8h.html" title="llvm/DebugInfo/CodeView\l/GUID.h" alt="" coords="3342,691,3517,732"/>
+</map>

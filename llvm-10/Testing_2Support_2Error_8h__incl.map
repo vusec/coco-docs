@@ -1,0 +1,26 @@
+<map id="include/llvm/Testing/Support/Error.h" name="include/llvm/Testing/Support/Error.h">
+<area shape="rect" id="node2" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="659,423,799,449"/>
+<area shape="rect" id="node13" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="2183,191,2321,218"/>
+<area shape="rect" id="node45" href="$SupportHelpers_8h.html" title="llvm/Testing/Support\l/SupportHelpers.h" alt="" coords="2770,95,2913,136"/>
+<area shape="rect" id="node3" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="315,497,437,524"/>
+<area shape="rect" id="node4" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2579,647,2741,673"/>
+<area shape="rect" id="node7" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1328,497,1499,524"/>
+<area shape="rect" id="node14" href="$c_2Error_8h.html" title="llvm&#45;c/Error.h" alt="" coords="259,273,359,300"/>
+<area shape="rect" id="node16" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1505,348,1660,375"/>
+<area shape="rect" id="node23" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="3225,572,3415,599"/>
+<area shape="rect" id="node31" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2425,423,2588,449"/>
+<area shape="rect" id="node32" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="3459,497,3613,524"/>
+<area shape="rect" id="node36" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="2493,273,2657,300"/>
+<area shape="rect" id="node38" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="2443,348,2570,375"/>
+<area shape="rect" id="node39" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="838,273,986,300"/>
+<area shape="rect" id="node40" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer. " alt="" coords="1961,423,2113,449"/>
+<area shape="rect" id="node42" href="$Format_8h.html" title="llvm/Support/Format.h" alt="" coords="1297,273,1447,300"/>
+<area shape="rect" id="node43" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="3790,348,3975,375"/>
+<area shape="rect" id="node15" href="$ExternC_8h.html" title="llvm&#45;c/ExternC.h" alt="" coords="245,348,365,375"/>
+<area shape="rect" id="node17" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1574,423,1706,449"/>
+<area shape="rect" id="node18" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="931,497,1101,524"/>
+<area shape="rect" id="node33" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="2406,497,2583,524"/>
+<area shape="rect" id="node35" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="3064,497,3232,524"/>
+<area shape="rect" id="node37" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="2678,348,2837,375"/>
+<area shape="rect" id="node46" href="$raw__os__ostream_8h.html" title="llvm/Support/raw_os\l_ostream.h" alt="" coords="3076,184,3217,225"/>
+</map>

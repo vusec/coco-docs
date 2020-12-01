@@ -1,0 +1,34 @@
+<map id="include/llvm/Analysis/CFG.h" name="include/llvm/Analysis/CFG.h">
+<area shape="rect" id="node2" href="$BasicAliasAnalysis_8cpp.html" title="lib/Analysis/BasicAliasAnalysis.cpp" alt="" coords="5,102,236,129"/>
+<area shape="rect" id="node3" href="$CaptureTracking_8cpp.html" title="lib/Analysis/CaptureTracking.cpp" alt="" coords="260,102,475,129"/>
+<area shape="rect" id="node4" href="$CFG_8cpp.html" title="lib/Analysis/CFG.cpp" alt="" coords="499,102,646,129"/>
+<area shape="rect" id="node5" href="$InlineCost_8cpp.html" title="lib/Analysis/InlineCost.cpp" alt="" coords="671,102,848,129"/>
+<area shape="rect" id="node6" href="$LegacyDivergenceAnalysis_8cpp.html" title="lib/Analysis/LegacyDivergence\lAnalysis.cpp" alt="" coords="872,95,1073,136"/>
+<area shape="rect" id="node7" href="$MustExecute_8cpp.html" title="lib/Analysis/MustExecute.cpp" alt="" coords="1098,102,1293,129"/>
+<area shape="rect" id="node8" href="$TargetTransformInfo_8cpp.html" title="lib/Analysis/TargetTransform\lInfo.cpp" alt="" coords="1317,95,1506,136"/>
+<area shape="rect" id="node9" href="$DwarfEHPrepare_8cpp.html" title="lib/CodeGen/DwarfEHPrepare.cpp" alt="" coords="1531,102,1753,129"/>
+<area shape="rect" id="node10" href="$MachineCSE_8cpp.html" title="lib/CodeGen/MachineCSE.cpp" alt="" coords="1777,102,1977,129"/>
+<area shape="rect" id="node11" href="$SelectionDAGISel_8cpp.html" title="lib/CodeGen/SelectionDAG\l/SelectionDAGISel.cpp" alt="" coords="2001,95,2182,136"/>
+<area shape="rect" id="node12" href="$ShrinkWrap_8cpp.html" title="lib/CodeGen/ShrinkWrap.cpp" alt="" coords="2207,102,2397,129"/>
+<area shape="rect" id="node13" href="$WinEHPrepare_8cpp.html" title="lib/CodeGen/WinEHPrepare.cpp" alt="" coords="2422,102,2633,129"/>
+<area shape="rect" id="node14" href="$SpeculateAnalyses_8cpp.html" title="lib/ExecutionEngine\l/Orc/SpeculateAnalyses.cpp" alt="" coords="2657,95,2845,136"/>
+<area shape="rect" id="node15" href="$AArch64StackTagging_8cpp.html" title="lib/Target/AArch64\l/AArch64StackTagging.cpp" alt="" coords="2870,95,3051,136"/>
+<area shape="rect" id="node16" href="$PPCCTRLoops_8cpp.html" title="lib/Target/PowerPC\l/PPCCTRLoops.cpp" alt="" coords="3076,95,3219,136"/>
+<area shape="rect" id="node17" href="$X86WinEHState_8cpp.html" title="lib/Target/X86/X86WinEHState.cpp" alt="" coords="3243,102,3471,129"/>
+<area shape="rect" id="node18" href="$InstructionCombining_8cpp.html" title="lib/Transforms/InstCombine\l/InstructionCombining.cpp" alt="" coords="3495,95,3677,136"/>
+<area shape="rect" id="node19" href="$CFGMST_8h.html" title="lib/Transforms/Instrumentation\l/CFGMST.h" alt="" coords="3701,95,3900,136"/>
+<area shape="rect" id="node20" href="$PGOInstrumentation_8cpp.html" title="lib/Transforms/Instrumentation\l/PGOInstrumentation.cpp" alt="" coords="3769,184,3968,225"/>
+<area shape="rect" id="node21" href="$HotColdSplitting_8cpp.html" title="The goal of hot/cold splitting is to improve the memory locality of code. " alt="" coords="3974,95,4121,136"/>
+<area shape="rect" id="node22" href="$GVN_8cpp.html" title="lib/Transforms/Scalar\l/GVN.cpp" alt="" coords="4145,95,4291,136"/>
+<area shape="rect" id="node23" href="$JumpThreading_8cpp.html" title="lib/Transforms/Scalar\l/JumpThreading.cpp" alt="" coords="4315,95,4462,136"/>
+<area shape="rect" id="node24" href="$MergedLoadStoreMotion_8cpp.html" title="This pass performs merges of loads and stores on both sides of a. " alt="" coords="4486,95,4678,136"/>
+<area shape="rect" id="node25" href="$PlaceSafepoints_8cpp.html" title="lib/Transforms/Scalar\l/PlaceSafepoints.cpp" alt="" coords="4702,95,4849,136"/>
+<area shape="rect" id="node26" href="$SimpleLoopUnswitch_8cpp.html" title="lib/Transforms/Scalar\l/SimpleLoopUnswitch.cpp" alt="" coords="4873,95,5048,136"/>
+<area shape="rect" id="node27" href="$SimplifyCFGPass_8cpp.html" title="lib/Transforms/Scalar\l/SimplifyCFGPass.cpp" alt="" coords="5072,95,5228,136"/>
+<area shape="rect" id="node28" href="$TailRecursionElimination_8cpp.html" title="lib/Transforms/Scalar\l/TailRecursionElimination.cpp" alt="" coords="5253,95,5447,136"/>
+<area shape="rect" id="node29" href="$BasicBlockUtils_8cpp.html" title="lib/Transforms/Utils\l/BasicBlockUtils.cpp" alt="" coords="5471,95,5615,136"/>
+<area shape="rect" id="node30" href="$BreakCriticalEdges_8cpp.html" title="lib/Transforms/Utils\l/BreakCriticalEdges.cpp" alt="" coords="5639,95,5802,136"/>
+<area shape="rect" id="node31" href="$DemoteRegToStack_8cpp.html" title="lib/Transforms/Utils\l/DemoteRegToStack.cpp" alt="" coords="5826,95,5997,136"/>
+<area shape="rect" id="node32" href="$PredicateInfo_8cpp.html" title="lib/Transforms/Utils\l/PredicateInfo.cpp" alt="" coords="6021,95,6157,136"/>
+<area shape="rect" id="node33" href="$LoopVectorize_8cpp.html" title="lib/Transforms/Vectorize\l/LoopVectorize.cpp" alt="" coords="6181,95,6345,136"/>
+</map>

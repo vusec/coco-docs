@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1LoopBase.html" title="llvm::LoopBase\&lt; VPBlockBase,\l VPLoop \&gt;" alt="" coords="5,5,215,47"/>
+<area shape="rect" id="node2" href="$classllvm_1_1VPLoop.html" title="Hold analysis information for every loop detected by VPLoopInfo. " alt="" coords="263,13,363,39"/>
+</map>

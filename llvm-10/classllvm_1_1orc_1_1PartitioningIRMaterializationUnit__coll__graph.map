@@ -1,0 +1,11 @@
+<map id="llvm::orc::PartitioningIRMaterializationUnit" name="llvm::orc::PartitioningIRMaterializationUnit">
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1IRMaterializationUnit.html" title="IRMaterializationUnit is a convenient base class for MaterializationUnits wrapping LLVM IR..." alt="" coords="2164,224,2367,250"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1MaterializationUnit.html" title="A MaterializationUnit represents a set of symbol definitions that can be materialized as a group..." alt="" coords="1809,165,1997,192"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; SymbolString\lPtr, JITSymbolFlags \&gt;" alt="" coords="1472,126,1679,167"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; SymbolStringPtr,\l JITSymbolFlags, DenseMapInfo\l\&lt; SymbolStringPtr \&gt;, llvm::detail\l::DenseMapPair\&lt; SymbolStringPtr,\l JITSymbolFlags \&gt; \&gt;, SymbolStringPtr,\l JITSymbolFlags, DenseMapInfo\&lt; SymbolStringPtr\l \&gt;, llvm::detail::DenseMapPair\&lt; SymbolStringPtr,\l JITSymbolFlags \&gt; \&gt;" alt="" coords="740,38,1061,182"/>
+<area shape="rect" id="node6" href="$classllvm_1_1DebugEpochBase.html" title="A base class for data structure classes wishing to make iterators (&quot;handles&quot;) pointing into themselve..." alt="" coords="5,158,164,185"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DerivedT, KeyT, ValueT,\l KeyInfoT, BucketT \&gt;" alt="" coords="213,144,392,200"/>
+<area shape="rect" id="node9" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; KeyT, ValueT,\l KeyInfoT, BucketT \&gt;, KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="802,207,999,278"/>
+<area shape="rect" id="node8" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="1111,167,1308,208"/>
+<area shape="rect" id="node12" href="$classllvm_1_1orc_1_1ThreadSafeModule.html" title="An LLVM Module together with a shared ThreadSafeContext. " alt="" coords="1808,282,1997,309"/>
+</map>

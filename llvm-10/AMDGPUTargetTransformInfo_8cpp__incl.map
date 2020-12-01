@@ -1,0 +1,47 @@
+<map id="lib/Target/AMDGPU/AMDGPUTargetTransformInfo.cpp" name="lib/Target/AMDGPU/AMDGPUTargetTransformInfo.cpp">
+<area shape="rect" id="node2" href="$AMDGPUTargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the AMDGPU target machine..." alt="" coords="1495,95,1705,121"/>
+<area shape="rect" id="node4" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="753,647,941,673"/>
+<area shape="rect" id="node6" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="1931,729,2077,755"/>
+<area shape="rect" id="node8" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1560,1035,1715,1061"/>
+<area shape="rect" id="node9" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1377,1109,1567,1136"/>
+<area shape="rect" id="node14" href="$DerivedTypes_8h.html" title="llvm/IR/DerivedTypes.h" alt="" coords="2548,811,2708,837"/>
+<area shape="rect" id="node15" href="$Type_8h.html" title="llvm/IR/Type.h" alt="" coords="2153,885,2261,912"/>
+<area shape="rect" id="node16" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="3181,1035,3336,1061"/>
+<area shape="rect" id="node18" href="$AMDGPUSubtarget_8h.html" title="AMDGPU specific subclass of TargetSubtarget. " alt="" coords="1019,259,1167,285"/>
+<area shape="rect" id="node26" href="$AMDGPUBaseInfo_8h.html" title="Utils/AMDGPUBaseInfo.h" alt="" coords="753,490,927,517"/>
+<area shape="rect" id="node27" href="$CallingConv_8h.html" title="llvm/IR/CallingConv.h" alt="" coords="3189,811,3339,837"/>
+<area shape="rect" id="node29" href="$TargetTransformInfo_8h.html" title="This pass exposes codegen information to IR&#45;level passes. " alt="" coords="2029,483,2229,524"/>
+<area shape="rect" id="node30" href="$LoopInfo_8h.html" title="llvm/Analysis/LoopInfo.h" alt="" coords="1827,572,1992,599"/>
+<area shape="rect" id="node31" href="$IR_2Instruction_8h.html" title="llvm/IR/Instruction.h" alt="" coords="2966,885,3106,912"/>
+<area shape="rect" id="node32" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="3695,960,3807,987"/>
+<area shape="rect" id="node33" href="$Instructions_8h.html" title="llvm/IR/Instructions.h" alt="" coords="2981,647,3128,673"/>
+<area shape="rect" id="node34" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="2590,885,2725,912"/>
+<area shape="rect" id="node35" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="3778,811,3923,837"/>
+<area shape="rect" id="node36" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="3391,729,3521,755"/>
+<area shape="rect" id="node37" href="$Argument_8h.html" title="llvm/IR/Argument.h" alt="" coords="3567,811,3702,837"/>
+<area shape="rect" id="node40" href="$ISDOpcodes_8h.html" title="llvm/CodeGen/ISDOpcodes.h" alt="" coords="2355,490,2549,517"/>
+<area shape="rect" id="node41" href="$ValueTypes_8h.html" title="llvm/CodeGen/ValueTypes.h" alt="" coords="2067,572,2256,599"/>
+<area shape="rect" id="node42" href="$MachineValueType_8h.html" title="llvm/Support/MachineValue\lType.h" alt="" coords="1421,721,1603,763"/>
+<area shape="rect" id="node43" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="1376,885,1571,912"/>
+<area shape="rect" id="node44" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2617,960,2802,987"/>
+<area shape="rect" id="node45" href="$SubtargetFeature_8h.html" title="llvm/MC/SubtargetFeature.h" alt="" coords="195,177,381,203"/>
+<area shape="rect" id="node46" href="$ValueTracking_8h.html" title="llvm/Analysis/ValueTracking.h" alt="" coords="2475,647,2674,673"/>
+<area shape="rect" id="node47" href="$IntrinsicInst_8h.html" title="llvm/IR/IntrinsicInst.h" alt="" coords="3876,572,4023,599"/>
+<area shape="rect" id="node48" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="2330,647,2451,673"/>
+<area shape="rect" id="node49" href="$PatternMatch_8h.html" title="llvm/IR/PatternMatch.h" alt="" coords="3919,490,4076,517"/>
+<area shape="rect" id="node50" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="4557,95,4705,121"/>
+<area shape="rect" id="node3" href="$AMDGPU_8h.html" title="AMDGPU.h" alt="" coords="646,572,738,599"/>
+<area shape="rect" id="node7" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1789,960,1933,987"/>
+<area shape="rect" id="node17" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="769,811,946,837"/>
+<area shape="rect" id="node28" href="$AMDGPUTargetMachine_8h.html" title="The AMDGPU TargetMachine interface definition for hw codgen targets. " alt="" coords="1637,177,1816,203"/>
+<area shape="rect" id="node38" href="$AMDGPUMCTargetDesc_8h.html" title="Provides AMDGPU specific target descriptions. " alt="" coords="1280,169,1512,211"/>
+<area shape="rect" id="node39" href="$BasicTTIImpl_8h.html" title="This file provides a helper that implements much of the TTI interface in terms of the target&#45;independ..." alt="" coords="1637,408,1835,435"/>
+<area shape="rect" id="node5" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="614,729,738,755"/>
+<area shape="rect" id="node19" href="$AMDGPUCallLowering_8h.html" title="This file describes how to lower LLVM calls to machine code calls. " alt="" coords="513,408,679,435"/>
+<area shape="rect" id="node20" href="$R600FrameLowering_8h.html" title="R600FrameLowering.h" alt="" coords="499,333,653,360"/>
+<area shape="rect" id="node21" href="$R600ISelLowering_8h.html" title="R600 DAG Lowering interface definition. " alt="" coords="677,333,816,360"/>
+<area shape="rect" id="node22" href="$R600InstrInfo_8h.html" title="Interface definition for R600InstrInfo. " alt="" coords="840,333,952,360"/>
+<area shape="rect" id="node23" href="$SIFrameLowering_8h.html" title="SIFrameLowering.h" alt="" coords="977,333,1111,360"/>
+<area shape="rect" id="node24" href="$SIISelLowering_8h.html" title="SI DAG Lowering interface definition. " alt="" coords="1289,333,1410,360"/>
+<area shape="rect" id="node25" href="$SIInstrInfo_8h.html" title="Interface definition for SIInstrInfo. " alt="" coords="793,408,887,435"/>
+</map>

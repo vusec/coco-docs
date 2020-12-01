@@ -1,0 +1,37 @@
+<map id="lib/Target/AArch64/AArch64TargetObjectFile.h" name="lib/Target/AArch64/AArch64TargetObjectFile.h">
+<area shape="rect" id="node2" href="$TargetLoweringObjectFileImpl_8h.html" title="llvm/CodeGen/TargetLowering\lObjectFileImpl.h" alt="" coords="1629,95,1827,136"/>
+<area shape="rect" id="node45" href="$TargetLoweringObjectFile_8h.html" title="llvm/Target/TargetLowering\lObjectFile.h" alt="" coords="1794,184,1974,225"/>
+<area shape="rect" id="node3" href="$XCOFF_8h.html" title="llvm/BinaryFormat/XCOFF.h" alt="" coords="843,423,1031,449"/>
+<area shape="rect" id="node22" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="1667,273,1789,300"/>
+<area shape="rect" id="node43" href="$MCExpr_8h.html" title="llvm/MC/MCExpr.h" alt="" coords="729,497,863,524"/>
+<area shape="rect" id="node4" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2869,497,3016,524"/>
+<area shape="rect" id="node5" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2984,572,3139,599"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2261,721,2424,748"/>
+<area shape="rect" id="node12" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="4267,647,4437,673"/>
+<area shape="rect" id="node6" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="1215,647,1355,673"/>
+<area shape="rect" id="node7" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="1000,721,1123,748"/>
+<area shape="rect" id="node23" href="$c_2Types_8h.html" title="llvm&#45;c/Types.h" alt="" coords="990,497,1098,524"/>
+<area shape="rect" id="node24" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="3707,423,3858,449"/>
+<area shape="rect" id="node25" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="1521,423,1655,449"/>
+<area shape="rect" id="node31" href="$IR_2Comdat_8h.html" title="This file contains the declaration of the Comdat class, which represents a single COMDAT in LLVM..." alt="" coords="545,348,671,375"/>
+<area shape="rect" id="node32" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="499,423,717,449"/>
+<area shape="rect" id="node33" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="2320,423,2467,449"/>
+<area shape="rect" id="node34" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="1403,348,1533,375"/>
+<area shape="rect" id="node35" href="$SymbolTableListTraits_8h.html" title="llvm/IR/SymbolTableListTraits.h" alt="" coords="1985,423,2194,449"/>
+<area shape="rect" id="node36" href="$GlobalAlias_8h.html" title="llvm/IR/GlobalAlias.h" alt="" coords="1745,348,1890,375"/>
+<area shape="rect" id="node37" href="$GlobalIFunc_8h.html" title="llvm/IR/GlobalIFunc.h" alt="" coords="1915,348,2064,375"/>
+<area shape="rect" id="node38" href="$GlobalVariable_8h.html" title="llvm/IR/GlobalVariable.h" alt="" coords="1557,348,1720,375"/>
+<area shape="rect" id="node39" href="$Metadata_8h.html" title="This file contains the declarations for metadata subclasses. " alt="" coords="2639,348,2772,375"/>
+<area shape="rect" id="node41" href="$ProfileSummary_8h.html" title="llvm/IR/ProfileSummary.h" alt="" coords="430,497,602,524"/>
+<area shape="rect" id="node42" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="3404,348,3569,375"/>
+<area shape="rect" id="node26" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2393,497,2537,524"/>
+<area shape="rect" id="node27" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="2718,572,2858,599"/>
+<area shape="rect" id="node28" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3315,572,3477,599"/>
+<area shape="rect" id="node40" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="3805,572,3960,599"/>
+<area shape="rect" id="node44" href="$SMLoc_8h.html" title="llvm/Support/SMLoc.h" alt="" coords="791,647,942,673"/>
+<area shape="rect" id="node46" href="$MCObjectFileInfo_8h.html" title="llvm/MC/MCObjectFileInfo.h" alt="" coords="3490,273,3678,300"/>
+<area shape="rect" id="node50" href="$SectionKind_8h.html" title="llvm/MC/SectionKind.h" alt="" coords="1813,273,1969,300"/>
+<area shape="rect" id="node47" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="4846,348,4970,375"/>
+<area shape="rect" id="node48" href="$MCSymbol_8h.html" title="llvm/MC/MCSymbol.h" alt="" coords="3594,348,3745,375"/>
+<area shape="rect" id="node49" href="$VersionTuple_8h.html" title="Defines the llvm::VersionTuple class, which represents a version in the form major[.minor[.subminor]]. " alt="" coords="1259,423,1445,449"/>
+</map>

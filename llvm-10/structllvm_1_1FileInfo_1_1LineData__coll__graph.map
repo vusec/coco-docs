@@ -1,0 +1,11 @@
+<map id="llvm::FileInfo::LineData" name="llvm::FileInfo::LineData">
+<area shape="rect" id="node2" href="$classuint32__t.html" title="uint32_t" alt="" coords="1493,137,1561,164"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; uint32\l_t, BlockVector \&gt;" alt="" coords="1445,188,1609,230"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; uint32_t,\l BlockVector, DenseMapInfo\l\&lt; uint32_t \&gt;, llvm::detail\l::DenseMapPair\&lt; uint32_t, BlockVector\l \&gt; \&gt;, uint32_t, BlockVector, DenseMapInfo\l\&lt; uint32_t \&gt;, llvm::detail::DenseMapPair\l\&lt; uint32_t, BlockVector \&gt; \&gt;" alt="" coords="699,60,971,190"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DebugEpochBase.html" title="A base class for data structure classes wishing to make iterators (&quot;handles&quot;) pointing into themselve..." alt="" coords="5,296,164,322"/>
+<area shape="rect" id="node6" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DerivedT, KeyT, ValueT,\l KeyInfoT, BucketT \&gt;" alt="" coords="213,202,392,258"/>
+<area shape="rect" id="node8" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; KeyT, ValueT,\l KeyInfoT, BucketT \&gt;, KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="737,214,934,284"/>
+<area shape="rect" id="node10" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; uint32_t,\l FunctionVector, DenseMapInfo\l\&lt; uint32_t \&gt;, llvm::detail\l::DenseMapPair\&lt; uint32_t, FunctionVector\l \&gt; \&gt;, uint32_t, FunctionVector, DenseMapInfo\l\&lt; uint32_t \&gt;, llvm::detail::DenseMapPair\l\&lt; uint32_t, FunctionVector \&gt; \&gt;" alt="" coords="691,308,980,438"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="1029,228,1227,270"/>
+<area shape="rect" id="node9" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; uint32\l_t, FunctionVector \&gt;" alt="" coords="1445,254,1609,295"/>
+</map>

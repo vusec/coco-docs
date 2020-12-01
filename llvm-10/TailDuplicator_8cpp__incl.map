@@ -1,0 +1,41 @@
+<map id="lib/CodeGen/TailDuplicator.cpp" name="lib/CodeGen/TailDuplicator.cpp">
+<area shape="rect" id="node2" href="$TailDuplicator_8h.html" title="llvm/CodeGen/TailDuplicator.h" alt="" coords="3841,87,4041,114"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="3268,676,3423,703"/>
+<area shape="rect" id="node20" href="$DenseSet_8h.html" title="llvm/ADT/DenseSet.h" alt="" coords="3773,601,3923,628"/>
+<area shape="rect" id="node21" href="$SetVector_8h.html" title="llvm/ADT/SetVector.h" alt="" coords="4117,527,4267,553"/>
+<area shape="rect" id="node22" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3492,601,3647,628"/>
+<area shape="rect" id="node26" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="5440,751,5629,777"/>
+<area shape="rect" id="node28" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="4291,676,4453,703"/>
+<area shape="rect" id="node29" href="$TargetInstrInfo_8h.html" title="llvm/CodeGen/TargetInstr\lInfo.h" alt="" coords="1227,169,1399,211"/>
+<area shape="rect" id="node30" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="1034,437,1225,479"/>
+<area shape="rect" id="node31" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="792,527,987,553"/>
+<area shape="rect" id="node32" href="$MachineOperand_8h.html" title="llvm/CodeGen/MachineOperand.h" alt="" coords="955,601,1173,628"/>
+<area shape="rect" id="node33" href="$DebugLoc_8h.html" title="llvm/IR/DebugLoc.h" alt="" coords="539,601,677,628"/>
+<area shape="rect" id="node34" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="2059,355,2277,382"/>
+<area shape="rect" id="node35" href="$MachineInstrBuilder_8h.html" title="llvm/CodeGen/MachineInstr\lBuilder.h" alt="" coords="991,259,1175,300"/>
+<area shape="rect" id="node36" href="$TargetRegisterInfo_8h.html" title="llvm/CodeGen/TargetRegister\lInfo.h" alt="" coords="3116,348,3311,389"/>
+<area shape="rect" id="node37" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="2173,676,2336,703"/>
+<area shape="rect" id="node38" href="$Statistic_8h.html" title="llvm/ADT/Statistic.h" alt="" coords="5103,527,5243,553"/>
+<area shape="rect" id="node39" href="$ProfileSummaryInfo_8h.html" title="llvm/Analysis/ProfileSummary\lInfo.h" alt="" coords="1857,437,2055,479"/>
+<area shape="rect" id="node40" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="1654,527,1783,553"/>
+<area shape="rect" id="node41" href="$MachineBranchProbabilityInfo_8h.html" title="llvm/CodeGen/MachineBranch\lProbabilityInfo.h" alt="" coords="622,169,821,211"/>
+<area shape="rect" id="node42" href="$MachineBlockFrequencyInfo_8h.html" title="llvm/CodeGen/MachineBlock\lFrequencyInfo.h" alt="" coords="3423,169,3614,211"/>
+<area shape="rect" id="node43" href="$MachineRegisterInfo_8h.html" title="llvm/CodeGen/MachineRegister\lInfo.h" alt="" coords="2417,259,2623,300"/>
+<area shape="rect" id="node44" href="$TargetSubtargetInfo_8h.html" title="llvm/CodeGen/TargetSubtarget\lInfo.h" alt="" coords="4673,437,4876,479"/>
+<area shape="rect" id="node45" href="$MachineSizeOpts_8h.html" title="llvm/CodeGen/MachineSize\lOpts.h" alt="" coords="5369,80,5553,121"/>
+<area shape="rect" id="node46" href="$MachineSSAUpdater_8h.html" title="llvm/CodeGen/MachineSSAUpdater.h" alt="" coords="5577,87,5820,114"/>
+<area shape="rect" id="node47" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="3492,527,3687,553"/>
+<area shape="rect" id="node48" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="4151,601,4337,628"/>
+<area shape="rect" id="node49" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="5845,87,5993,114"/>
+<area shape="rect" id="node50" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="6017,87,6205,114"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="1006,751,1183,777"/>
+<area shape="rect" id="node8" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="2112,751,2285,777"/>
+<area shape="rect" id="node9" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="3923,751,4077,777"/>
+<area shape="rect" id="node10" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="4164,825,4327,852"/>
+<area shape="rect" id="node11" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="4681,751,4858,777"/>
+<area shape="rect" id="node15" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="2462,751,2669,777"/>
+<area shape="rect" id="node16" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="3251,751,3421,777"/>
+<area shape="rect" id="node23" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2411,676,2551,703"/>
+<area shape="rect" id="node24" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="2627,676,2759,703"/>
+<area shape="rect" id="node25" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1360,751,1531,777"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="llvm::StackSafetyGlobalPrinterPass" name="llvm::StackSafetyGlobalPrinterPass">
+<area shape="rect" id="node2" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; StackSafetyGlobalPrinter\lPass \&gt;" alt="" coords="30,124,211,180"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes. " alt="" coords="52,5,189,47"/>
+</map>

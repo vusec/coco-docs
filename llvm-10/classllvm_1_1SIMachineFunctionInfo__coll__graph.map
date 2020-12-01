@@ -1,0 +1,11 @@
+<map id="llvm::SIMachineFunctionInfo" name="llvm::SIMachineFunctionInfo">
+<area shape="rect" id="node2" href="$classllvm_1_1AMDGPUMachineFunction.html" title="llvm::AMDGPUMachineFunction" alt="" coords="609,215,821,241"/>
+<area shape="rect" id="node3" href="$structllvm_1_1MachineFunctionInfo.html" title="MachineFunctionInfo &#45; This class can be derived from and used by targets to hold private target&#45;speci..." alt="" coords="245,5,420,32"/>
+<area shape="rect" id="node5" href="$classbool.html" title="bool" alt="" coords="5,192,52,219"/>
+<area shape="rect" id="node7" href="$structllvm_1_1AMDGPU_1_1SIModeRegisterDefaults.html" title="llvm::AMDGPU::SIModeRegister\lDefaults" alt="" coords="225,214,440,255"/>
+<area shape="rect" id="node6" href="$structllvm_1_1Align.html" title="This struct is a compact representation of a valid (non&#45;zero power of two) alignment. " alt="" coords="291,280,374,307"/>
+<area shape="rect" id="node8" href="$classunsigned.html" title="unsigned" alt="" coords="295,343,370,369"/>
+<area shape="rect" id="node9" href="$classllvm_1_1SparseBitVector.html" title="llvm::SparseBitVector\l\&lt; ElementSize \&gt;" alt="" coords="641,411,790,453"/>
+<area shape="rect" id="node10" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; int \&gt;" alt="" coords="645,477,785,504"/>
+<area shape="rect" id="node11" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; T \&gt;" alt="" coords="265,477,400,504"/>
+</map>

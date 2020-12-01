@@ -1,0 +1,5 @@
+<map id="llvm::ARMRegisterInfo" name="llvm::ARMRegisterInfo">
+<area shape="rect" id="node2" href="$classllvm_1_1ARMBaseRegisterInfo.html" title="llvm::ARMBaseRegisterInfo" alt="" coords="53,95,238,121"/>
+<area shape="rect" id="node3" href="$classARMGenRegisterInfo.html" title="ARMGenRegisterInfo" alt="" coords="5,5,152,32"/>
+<area shape="rect" id="node4" href="$classunsigned.html" title="unsigned" alt="" coords="176,5,251,32"/>
+</map>

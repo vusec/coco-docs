@@ -1,0 +1,4 @@
+<map id="llvm::coverage::LineCoverageIterator" name="llvm::coverage::LineCoverageIterator">
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; LineCoverageIterator,\l std::forward_iterator_tag,\l LineCoverageStats \&gt;" alt="" coords="696,63,891,134"/>
+<area shape="rect" id="node4" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="267,115,491,186"/>
+</map>

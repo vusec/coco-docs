@@ -1,0 +1,4 @@
+<map id="llvm::has_rbegin_impl&lt; Ty &gt;" name="llvm::has_rbegin_impl&lt; Ty &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1has__rbegin__impl.html" title="llvm::has_rbegin_impl\l\&lt; std::remove_reference\l\&lt; Ty \&gt;::type \&gt;" alt="" coords="5,124,169,180"/>
+<area shape="rect" id="node3" href="$structllvm_1_1has__rbegin.html" title="Metafunction to determine if T&amp; or T has a member called rbegin(). " alt="" coords="9,229,165,256"/>
+</map>

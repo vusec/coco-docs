@@ -1,0 +1,42 @@
+<map id="lib/Target/Lanai/LanaiMachineFunctionInfo.h" name="lib/Target/Lanai/LanaiMachineFunctionInfo.h">
+<area shape="rect" id="node2" href="$LanaiRegisterInfo_8h.html" title="LanaiRegisterInfo.h" alt="" coords="3545,102,3679,129"/>
+<area shape="rect" id="node39" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="1831,191,2049,218"/>
+<area shape="rect" id="node44" href="$MachineRegisterInfo_8h.html" title="llvm/CodeGen/MachineRegister\lInfo.h" alt="" coords="2686,95,2893,136"/>
+<area shape="rect" id="node3" href="$TargetRegisterInfo_8h.html" title="llvm/CodeGen/TargetRegister\lInfo.h" alt="" coords="3515,184,3709,225"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2417,527,2561,553"/>
+<area shape="rect" id="node6" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="309,691,499,717"/>
+<area shape="rect" id="node10" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1901,609,2064,635"/>
+<area shape="rect" id="node11" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3833,691,4004,717"/>
+<area shape="rect" id="node13" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1193,691,1370,717"/>
+<area shape="rect" id="node17" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2405,609,2552,635"/>
+<area shape="rect" id="node18" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="3881,273,4071,315"/>
+<area shape="rect" id="node31" href="$LaneBitmask_8h.html" title="A common definition of LaneBitmask for use in TableGen and CodeGen. " alt="" coords="3700,445,3863,471"/>
+<area shape="rect" id="node32" href="$Printable_8h.html" title="llvm/Support/Printable.h" alt="" coords="4445,527,4606,553"/>
+<area shape="rect" id="node34" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="4039,363,4217,389"/>
+<area shape="rect" id="node36" href="$CallingConv_8h.html" title="llvm/IR/CallingConv.h" alt="" coords="4658,281,4809,307"/>
+<area shape="rect" id="node37" href="$MachineValueType_8h.html" title="llvm/Support/MachineValue\lType.h" alt="" coords="776,601,957,643"/>
+<area shape="rect" id="node5" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="2190,609,2330,635"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1085,765,1248,792"/>
+<area shape="rect" id="node19" href="$GraphTraits_8h.html" title="llvm/ADT/GraphTraits.h" alt="" coords="4393,363,4553,389"/>
+<area shape="rect" id="node20" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="1927,527,2039,553"/>
+<area shape="rect" id="node21" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="1703,363,1897,389"/>
+<area shape="rect" id="node22" href="$MachineMemOperand_8h.html" title="llvm/CodeGen/MachineMemOperand.h" alt="" coords="1275,445,1522,471"/>
+<area shape="rect" id="node26" href="$MachineOperand_8h.html" title="llvm/CodeGen/MachineOperand.h" alt="" coords="492,445,711,471"/>
+<area shape="rect" id="node28" href="$ArrayRecycler_8h.html" title="llvm/Support/ArrayRecycler.h" alt="" coords="1647,445,1841,471"/>
+<area shape="rect" id="node23" href="$PointerUnion_8h.html" title="llvm/ADT/PointerUnion.h" alt="" coords="1550,527,1717,553"/>
+<area shape="rect" id="node25" href="$AtomicOrdering_8h.html" title="Atomic ordering constants. " alt="" coords="936,527,1136,553"/>
+<area shape="rect" id="node27" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="981,609,1136,635"/>
+<area shape="rect" id="node29" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="1741,527,1902,553"/>
+<area shape="rect" id="node30" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2627,609,2767,635"/>
+<area shape="rect" id="node35" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="3747,609,3879,635"/>
+<area shape="rect" id="node40" href="$BitVector_8h.html" title="llvm/ADT/BitVector.h" alt="" coords="3023,445,3169,471"/>
+<area shape="rect" id="node41" href="$FloatingPointMode_8h.html" title="llvm/ADT/FloatingPointMode.h" alt="" coords="1073,281,1273,307"/>
+<area shape="rect" id="node42" href="$EHPersonalities_8h.html" title="llvm/Analysis/EHPersonalities.h" alt="" coords="297,527,506,553"/>
+<area shape="rect" id="node43" href="$Recycler_8h.html" title="llvm/Support/Recycler.h" alt="" coords="937,445,1100,471"/>
+<area shape="rect" id="node45" href="$IndexedMap_8h.html" title="llvm/ADT/IndexedMap.h" alt="" coords="1363,527,1525,553"/>
+<area shape="rect" id="node46" href="$StringSet_8h.html" title="llvm/ADT/StringSet.h" alt="" coords="2649,445,2796,471"/>
+<area shape="rect" id="node47" href="$RegisterBank_8h.html" title="llvm/CodeGen/GlobalISel\l/RegisterBank.h" alt="" coords="2783,273,2953,315"/>
+<area shape="rect" id="node48" href="$LowLevelType_8h.html" title="llvm/CodeGen/LowLevelType.h" alt="" coords="43,363,247,389"/>
+<area shape="rect" id="node49" href="$MachineInstrBundle_8h.html" title="llvm/CodeGen/MachineInstr\lBundle.h" alt="" coords="3801,184,3985,225"/>
+<area shape="rect" id="node50" href="$TargetSubtargetInfo_8h.html" title="llvm/CodeGen/TargetSubtarget\lInfo.h" alt="" coords="2423,437,2625,479"/>
+</map>

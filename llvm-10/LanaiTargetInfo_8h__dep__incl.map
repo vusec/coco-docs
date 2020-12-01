@@ -1,0 +1,8 @@
+<map id="lib/Target/Lanai/TargetInfo/LanaiTargetInfo.h" name="lib/Target/Lanai/TargetInfo/LanaiTargetInfo.h">
+<area shape="rect" id="node2" href="$LanaiAsmParser_8cpp.html" title="lib/Target/Lanai/AsmParser\l/LanaiAsmParser.cpp" alt="" coords="5,95,185,136"/>
+<area shape="rect" id="node3" href="$LanaiDisassembler_8cpp.html" title="lib/Target/Lanai/Disassembler\l/LanaiDisassembler.cpp" alt="" coords="210,95,405,136"/>
+<area shape="rect" id="node4" href="$LanaiAsmPrinter_8cpp.html" title="lib/Target/Lanai/LanaiAsm\lPrinter.cpp" alt="" coords="429,95,602,136"/>
+<area shape="rect" id="node5" href="$LanaiTargetMachine_8cpp.html" title="lib/Target/Lanai/LanaiTarget\lMachine.cpp" alt="" coords="627,95,809,136"/>
+<area shape="rect" id="node6" href="$LanaiMCTargetDesc_8cpp.html" title="lib/Target/Lanai/MCTarget\lDesc/LanaiMCTargetDesc.cpp" alt="" coords="834,95,1037,136"/>
+<area shape="rect" id="node7" href="$LanaiTargetInfo_8cpp.html" title="lib/Target/Lanai/TargetInfo\l/LanaiTargetInfo.cpp" alt="" coords="1061,95,1236,136"/>
+</map>

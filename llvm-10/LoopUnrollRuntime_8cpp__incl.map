@@ -1,0 +1,37 @@
+<map id="lib/Transforms/Utils/LoopUnrollRuntime.cpp" name="lib/Transforms/Utils/LoopUnrollRuntime.cpp">
+<area shape="rect" id="node2" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="1147,616,1309,643"/>
+<area shape="rect" id="node16" href="$Statistic_8h.html" title="llvm/ADT/Statistic.h" alt="" coords="347,445,487,471"/>
+<area shape="rect" id="node20" href="$AliasAnalysis_8h.html" title="llvm/Analysis/AliasAnalysis.h" alt="" coords="3207,184,3401,211"/>
+<area shape="rect" id="node28" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="3775,616,3921,643"/>
+<area shape="rect" id="node31" href="$Metadata_8h.html" title="This file contains the declarations for metadata subclasses. " alt="" coords="3149,534,3283,561"/>
+<area shape="rect" id="node33" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="3126,445,3247,471"/>
+<area shape="rect" id="node36" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="766,445,914,471"/>
+<area shape="rect" id="node37" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2737,534,2922,561"/>
+<area shape="rect" id="node39" href="$LoopIterator_8h.html" title="llvm/Analysis/LoopIterator.h" alt="" coords="1304,184,1488,211"/>
+<area shape="rect" id="node42" href="$ScalarEvolution_8h.html" title="llvm/Analysis/ScalarEvolution.h" alt="" coords="1750,184,1957,211"/>
+<area shape="rect" id="node43" href="$ScalarEvolutionExpander_8h.html" title="llvm/Analysis/ScalarEvolution\lExpander.h" alt="" coords="1243,437,1437,479"/>
+<area shape="rect" id="node44" href="$Dominators_8h.html" title="llvm/IR/Dominators.h" alt="" coords="2336,266,2483,293"/>
+<area shape="rect" id="node45" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="2805,445,3000,471"/>
+<area shape="rect" id="node46" href="$Transforms_2Utils_8h.html" title="llvm/Transforms/Utils.h" alt="" coords="3243,102,3402,129"/>
+<area shape="rect" id="node47" href="$BasicBlockUtils_8h.html" title="llvm/Transforms/Utils\l/BasicBlockUtils.h" alt="" coords="4256,527,4403,568"/>
+<area shape="rect" id="node48" href="$Cloning_8h.html" title="llvm/Transforms/Utils\l/Cloning.h" alt="" coords="3447,95,3593,136"/>
+<area shape="rect" id="node49" href="$LoopUtils_8h.html" title="llvm/Transforms/Utils\l/LoopUtils.h" alt="" coords="1921,95,2068,136"/>
+<area shape="rect" id="node50" href="$UnrollLoop_8h.html" title="llvm/Transforms/Utils\l/UnrollLoop.h" alt="" coords="620,348,767,389"/>
+<area shape="rect" id="node3" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="1301,691,1475,717"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1368,765,1531,792"/>
+<area shape="rect" id="node7" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="833,691,1039,717"/>
+<area shape="rect" id="node8" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1549,691,1720,717"/>
+<area shape="rect" id="node21" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1408,616,1563,643"/>
+<area shape="rect" id="node23" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="4327,765,4449,792"/>
+<area shape="rect" id="node24" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2134,534,2274,561"/>
+<area shape="rect" id="node25" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1865,616,2028,643"/>
+<area shape="rect" id="node26" href="$MemoryLocation_8h.html" title="This file provides utility analysis objects describing memory locations. " alt="" coords="3243,355,3453,382"/>
+<area shape="rect" id="node27" href="$Instructions_8h.html" title="llvm/IR/Instructions.h" alt="" coords="3677,445,3824,471"/>
+<area shape="rect" id="node29" href="$IR_2Instruction_8h.html" title="llvm/IR/Instruction.h" alt="" coords="3997,691,4137,717"/>
+<area shape="rect" id="node30" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="3419,534,3549,561"/>
+<area shape="rect" id="node32" href="$TargetLibraryInfo_8h.html" title="llvm/Analysis/TargetLibrary\lInfo.h" alt="" coords="2633,259,2813,300"/>
+<area shape="rect" id="node34" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM. " alt="" coords="2235,355,2394,382"/>
+<area shape="rect" id="node35" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="2437,445,2528,471"/>
+<area shape="rect" id="node40" href="$PostOrderIterator_8h.html" title="llvm/ADT/PostOrderIterator.h" alt="" coords="1613,445,1805,471"/>
+<area shape="rect" id="node41" href="$LoopInfo_8h.html" title="llvm/Analysis/LoopInfo.h" alt="" coords="1323,266,1488,293"/>
+</map>

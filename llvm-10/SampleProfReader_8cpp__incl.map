@@ -1,0 +1,35 @@
+<map id="lib/ProfileData/SampleProfReader.cpp" name="lib/ProfileData/SampleProfReader.cpp">
+<area shape="rect" id="node2" href="$SampleProfReader_8h.html" title="llvm/ProfileData/SampleProf\lReader.h" alt="" coords="3352,95,3538,136"/>
+<area shape="rect" id="node21" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3090,423,3237,449"/>
+<area shape="rect" id="node22" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3256,497,3410,524"/>
+<area shape="rect" id="node32" href="$ProfileSummary_8h.html" title="llvm/IR/ProfileSummary.h" alt="" coords="5526,191,5698,218"/>
+<area shape="rect" id="node35" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1729,273,1884,300"/>
+<area shape="rect" id="node39" href="$MemoryBuffer_8h.html" title="llvm/Support/MemoryBuffer.h" alt="" coords="3288,273,3480,300"/>
+<area shape="rect" id="node40" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer. " alt="" coords="349,348,501,375"/>
+<area shape="rect" id="node42" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="710,348,895,375"/>
+<area shape="rect" id="node43" href="$SampleProf_8h.html" title="llvm/ProfileData/SampleProf.h" alt="" coords="2468,191,2667,218"/>
+<area shape="rect" id="node46" href="$ProfileCommon_8h.html" title="llvm/ProfileData/Profile\lCommon.h" alt="" coords="5774,95,5930,136"/>
+<area shape="rect" id="node47" href="$Compression_8h.html" title="llvm/Support/Compression.h" alt="" coords="6026,102,6213,129"/>
+<area shape="rect" id="node48" href="$LEB128_8h.html" title="llvm/Support/LEB128.h" alt="" coords="1044,102,1200,129"/>
+<area shape="rect" id="node49" href="$LineIterator_8h.html" title="llvm/Support/LineIterator.h" alt="" coords="5422,348,5596,375"/>
+<area shape="rect" id="node50" href="$MD5_8h.html" title="llvm/Support/MD5.h" alt="" coords="4701,348,4840,375"/>
+<area shape="rect" id="node3" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1890,423,2053,449"/>
+<area shape="rect" id="node20" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="3667,348,3818,375"/>
+<area shape="rect" id="node28" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="3160,348,3287,375"/>
+<area shape="rect" id="node29" href="$DiagnosticInfo_8h.html" title="llvm/IR/DiagnosticInfo.h" alt="" coords="3757,273,3920,300"/>
+<area shape="rect" id="node30" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="2982,273,3111,300"/>
+<area shape="rect" id="node31" href="$LLVMContext_8h.html" title="llvm/IR/LLVMContext.h" alt="" coords="4883,423,5042,449"/>
+<area shape="rect" id="node34" href="$GCOV_8h.html" title="llvm/ProfileData/GCOV.h" alt="" coords="3574,191,3743,218"/>
+<area shape="rect" id="node44" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="2656,273,2804,300"/>
+<area shape="rect" id="node45" href="$SymbolRemappingReader_8h.html" title="llvm/Support/SymbolRemapping\lReader.h" alt="" coords="3238,184,3447,225"/>
+<area shape="rect" id="node4" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3597,647,3768,673"/>
+<area shape="rect" id="node7" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="296,497,450,524"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="661,721,824,748"/>
+<area shape="rect" id="node10" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1539,497,1716,524"/>
+<area shape="rect" id="node16" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1162,647,1333,673"/>
+<area shape="rect" id="node24" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="3107,572,3239,599"/>
+<area shape="rect" id="node23" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2840,572,2980,599"/>
+<area shape="rect" id="node36" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="2162,348,2339,375"/>
+<area shape="rect" id="node37" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="2856,497,3029,524"/>
+<area shape="rect" id="node38" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="2504,423,2711,449"/>
+</map>

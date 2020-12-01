@@ -1,0 +1,8 @@
+<map id="llvm::vfs::FileSystem" name="llvm::vfs::FileSystem">
+<area shape="rect" id="node4" href="$classllvm_1_1vfs_1_1InMemoryFileSystem.html" title="An in&#45;memory file system. " alt="" coords="775,5,979,32"/>
+<area shape="rect" id="node5" href="$classllvm_1_1vfs_1_1OverlayFileSystem.html" title="A file system that allows overlaying one AbstractFileSystem on top of another. " alt="" coords="781,56,972,83"/>
+<area shape="rect" id="node6" href="$classllvm_1_1vfs_1_1ProxyFileSystem.html" title="By default, this delegates all calls to the underlying file system. " alt="" coords="787,107,967,133"/>
+<area shape="rect" id="node7" href="$classllvm_1_1vfs_1_1RedirectingFileSystem.html" title="A virtual file system parsed from a YAML file. " alt="" coords="793,158,960,199"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ThreadSafeRefCountedBase.html" title="llvm::ThreadSafeRefCounted\lBase\&lt; FileSystem \&gt;" alt="" coords="339,74,529,115"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ThreadSafeRefCountedBase.html" title="A thread&#45;safe version of RefCountedBase. " alt="" coords="5,74,196,115"/>
+</map>

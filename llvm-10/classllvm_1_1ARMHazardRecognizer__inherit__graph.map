@@ -1,0 +1,4 @@
+<map id="llvm::ARMHazardRecognizer" name="llvm::ARMHazardRecognizer">
+<area shape="rect" id="node2" href="$classllvm_1_1ScoreboardHazardRecognizer.html" title="llvm::ScoreboardHazardRecognizer" alt="" coords="5,80,233,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ScheduleHazardRecognizer.html" title="HazardRecognizer &#45; This determines whether or not an instruction can be issued this cycle..." alt="" coords="11,5,227,32"/>
+</map>

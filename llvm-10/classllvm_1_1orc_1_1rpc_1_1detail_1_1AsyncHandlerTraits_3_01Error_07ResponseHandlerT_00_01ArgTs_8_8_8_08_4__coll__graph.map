@@ -1,0 +1,4 @@
+<map id="llvm::orc::rpc::detail::AsyncHandlerTraits&lt; Error(ResponseHandlerT, ArgTs...)&gt;" name="llvm::orc::rpc::detail::AsyncHandlerTraits&lt; Error(ResponseHandlerT, ArgTs...)&gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1rpc_1_1detail_1_1AsyncHandlerTraits.html" title="llvm::orc::rpc::detail\l::AsyncHandlerTraits\&lt;\l Error(std::decay\&lt; ResponseHandler\lT \&gt;::type, ArgTs...)\&gt;" alt="" coords="383,14,617,85"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1rpc_1_1detail_1_1AsyncHandlerTraits.html" title="llvm::orc::rpc::detail\l::AsyncHandlerTraits\&lt; FnT \&gt;" alt="" coords="5,29,197,70"/>
+</map>

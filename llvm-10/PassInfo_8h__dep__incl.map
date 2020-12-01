@@ -1,0 +1,51 @@
+<map id="include/llvm/PassInfo.h" name="include/llvm/PassInfo.h">
+<area shape="rect" id="node2" href="$PassSupport_8h.html" title="include/llvm/PassSupport.h" alt="" coords="3720,80,3901,107"/>
+<area shape="rect" id="node44" href="$Pass_8cpp.html" title="lib/IR/Pass.cpp" alt="" coords="4595,251,4707,278"/>
+<area shape="rect" id="node46" href="$PassRegistry_8cpp.html" title="lib/IR/PassRegistry.cpp" alt="" coords="4646,162,4807,189"/>
+<area shape="rect" id="node3" href="$Pass_8h.html" title="include/llvm/Pass.h" alt="" coords="2535,162,2671,189"/>
+<area shape="rect" id="node6" href="$WholeProgramDevirt_8cpp.html" title="lib/Transforms/IPO\l/WholeProgramDevirt.cpp" alt="" coords="986,423,1158,464"/>
+<area shape="rect" id="node12" href="$PGOMemOPSizeOpt_8cpp.html" title="lib/Transforms/Instrumentation\l/PGOMemOPSizeOpt.cpp" alt="" coords="3715,423,3914,464"/>
+<area shape="rect" id="node14" href="$ARMParallelDSP_8cpp.html" title="Armv6 introduced instructions to perform 32&#45;bit SIMD operations. " alt="" coords="5,423,192,464"/>
+<area shape="rect" id="node19" href="$ObjCARCAliasAnalysis_8cpp.html" title="This file defines a simple ARC&#45;aware AliasAnalysis using special knowledge of Objective C to enhance ..." alt="" coords="1280,423,1461,464"/>
+<area shape="rect" id="node22" href="$HardwareLoops_8cpp.html" title="Insert hardware loop intrinsics into loops which are deemed profitable by the target, by querying TargetTransformInfo. " alt="" coords="3325,430,3539,457"/>
+<area shape="rect" id="node23" href="$PPCCTRLoops_8cpp.html" title="lib/Target/PowerPC\l/PPCCTRLoops.cpp" alt="" coords="3031,333,3174,375"/>
+<area shape="rect" id="node45" href="$ObjCARCExpand_8cpp.html" title="This file defines ObjC ARC optimizations. " alt="" coords="4301,244,4469,285"/>
+<area shape="rect" id="node47" href="$HexagonCopyToCombine_8cpp.html" title="lib/Target/Hexagon\l/HexagonCopyToCombine.cpp" alt="" coords="3111,155,3313,196"/>
+<area shape="rect" id="node48" href="$HexagonFixupHwLoops_8cpp.html" title="lib/Target/Hexagon\l/HexagonFixupHwLoops.cpp" alt="" coords="3337,155,3527,196"/>
+<area shape="rect" id="node49" href="$HexagonPeephole_8cpp.html" title="lib/Target/Hexagon\l/HexagonPeephole.cpp" alt="" coords="3552,155,3709,196"/>
+<area shape="rect" id="node50" href="$HexagonVExtract_8cpp.html" title="lib/Target/Hexagon\l/HexagonVExtract.cpp" alt="" coords="3733,155,3888,196"/>
+<area shape="rect" id="node4" href="$AliasAnalysis_8h.html" title="include/llvm/Analysis\l/AliasAnalysis.h" alt="" coords="897,244,1042,285"/>
+<area shape="rect" id="node5" href="$BasicAliasAnalysis_8h.html" title="This is the interface for LLVM&#39;s primary stateless and local alias analysis. " alt="" coords="1109,333,1259,375"/>
+<area shape="rect" id="node7" href="$CFLAndersAliasAnalysis_8h.html" title="This is the interface for LLVM&#39;s inclusion&#45;based alias analysis implemented with CFL graph reachabili..." alt="" coords="363,333,546,375"/>
+<area shape="rect" id="node8" href="$CFLSteensAliasAnalysis_8h.html" title="This is the interface for LLVM&#39;s unification&#45;based alias analysis implemented with CFL graph reachabi..." alt="" coords="570,333,753,375"/>
+<area shape="rect" id="node9" href="$DependenceAnalysis_8h.html" title="include/llvm/Analysis\l/DependenceAnalysis.h" alt="" coords="2204,333,2364,375"/>
+<area shape="rect" id="node10" href="$LoopCacheAnalysis_8h.html" title="This file defines the interface for the loop cache analysis. " alt="" coords="2375,423,2529,464"/>
+<area shape="rect" id="node11" href="$GlobalsModRef_8h.html" title="This is the interface for a simple mod/ref and alias analysis over globals. " alt="" coords="3742,333,3887,375"/>
+<area shape="rect" id="node13" href="$LoopAccessAnalysis_8h.html" title="include/llvm/Analysis\l/LoopAccessAnalysis.h" alt="" coords="129,333,287,375"/>
+<area shape="rect" id="node15" href="$MemoryDependenceAnalysis_8h.html" title="include/llvm/Analysis\l/MemoryDependenceAnalysis.h" alt="" coords="777,333,983,375"/>
+<area shape="rect" id="node16" href="$MemorySSA_8h.html" title="This file exposes an interface to building/using memory SSA to walk memory instructions using a use/d..." alt="" coords="2658,333,2803,375"/>
+<area shape="rect" id="node17" href="$MemorySSAUpdater_8h.html" title="include/llvm/Analysis\l/MemorySSAUpdater.h" alt="" coords="2864,423,3021,464"/>
+<area shape="rect" id="node18" href="$ObjCARCAliasAnalysis_8h.html" title="This file declares a simple ARC&#45;aware AliasAnalysis using special knowledge of Objective C to enhance..." alt="" coords="1283,333,1458,375"/>
+<area shape="rect" id="node20" href="$ObjCARCAnalysisUtils_8h.html" title="This file defines common analysis utilities used by the ObjC ARC Optimizer. " alt="" coords="1533,333,1707,375"/>
+<area shape="rect" id="node21" href="$AssumptionCache_8h.html" title="include/llvm/Analysis\l/AssumptionCache.h" alt="" coords="2971,244,3117,285"/>
+<area shape="rect" id="node24" href="$BlockFrequencyInfo_8h.html" title="include/llvm/Analysis\l/BlockFrequencyInfo.h" alt="" coords="3514,244,3667,285"/>
+<area shape="rect" id="node25" href="$LazyBlockFrequencyInfo_8h.html" title="include/llvm/Analysis\l/LazyBlockFrequencyInfo.h" alt="" coords="4017,423,4199,464"/>
+<area shape="rect" id="node26" href="$OptimizationRemarkEmitter_8h.html" title="include/llvm/Analysis\l/OptimizationRemarkEmitter.h" alt="" coords="3469,333,3667,375"/>
+<area shape="rect" id="node27" href="$BranchProbabilityInfo_8h.html" title="include/llvm/Analysis\l/BranchProbabilityInfo.h" alt="" coords="4014,244,4175,285"/>
+<area shape="rect" id="node28" href="$LazyBranchProbabilityInfo_8h.html" title="include/llvm/Analysis\l/LazyBranchProbabilityInfo.h" alt="" coords="4013,333,4203,375"/>
+<area shape="rect" id="node29" href="$CallGraph_8h.html" title="This file provides interfaces used to build and manipulate a call graph, which is a very useful tool ..." alt="" coords="3691,244,3837,285"/>
+<area shape="rect" id="node30" href="$CallGraphSCCPass_8h.html" title="include/llvm/Analysis\l/CallGraphSCCPass.h" alt="" coords="548,244,703,285"/>
+<area shape="rect" id="node31" href="$DemandedBits_8h.html" title="include/llvm/Analysis\l/DemandedBits.h" alt="" coords="727,244,873,285"/>
+<area shape="rect" id="node32" href="$DivergenceAnalysis_8h.html" title="include/llvm/Analysis\l/DivergenceAnalysis.h" alt="" coords="2641,244,2794,285"/>
+<area shape="rect" id="node33" href="$LegacyDivergenceAnalysis_8h.html" title="include/llvm/Analysis\l/LegacyDivergenceAnalysis.h" alt="" coords="2388,333,2583,375"/>
+<area shape="rect" id="node34" href="$DominanceFrontier_8h.html" title="include/llvm/Analysis\l/DominanceFrontier.h" alt="" coords="1067,244,1213,285"/>
+<area shape="rect" id="node35" href="$DOTGraphTraitsPass_8h.html" title="include/llvm/Analysis\l/DOTGraphTraitsPass.h" alt="" coords="1237,244,1400,285"/>
+<area shape="rect" id="node36" href="$IntervalPartition_8h.html" title="include/llvm/Analysis\l/IntervalPartition.h" alt="" coords="1425,244,1570,285"/>
+<area shape="rect" id="node37" href="$LazyValueInfo_8h.html" title="include/llvm/Analysis\l/LazyValueInfo.h" alt="" coords="1594,244,1739,285"/>
+<area shape="rect" id="node38" href="$LoopInfo_8h.html" title="include/llvm/Analysis\l/LoopInfo.h" alt="" coords="3141,244,3286,285"/>
+<area shape="rect" id="node39" href="$LoopPass_8h.html" title="include/llvm/Analysis\l/LoopPass.h" alt="" coords="3198,333,3343,375"/>
+<area shape="rect" id="node40" href="$ModuleSummaryAnalysis_8h.html" title="This is the interface to build a ModuleSummaryIndex for a module. " alt="" coords="1763,244,1949,285"/>
+<area shape="rect" id="node41" href="$PhiValues_8h.html" title="include/llvm/Analysis\l/PhiValues.h" alt="" coords="1973,244,2118,285"/>
+<area shape="rect" id="node42" href="$PostDominators_8h.html" title="include/llvm/Analysis\l/PostDominators.h" alt="" coords="2142,244,2287,285"/>
+<area shape="rect" id="node43" href="$ProfileSummaryInfo_8h.html" title="include/llvm/Analysis\l/ProfileSummaryInfo.h" alt="" coords="2312,244,2464,285"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1ProfileSummaryBuilder.html" title="llvm::ProfileSummaryBuilder" alt="" coords="5,35,192,61"/>
+<area shape="rect" id="node2" href="$classllvm_1_1InstrProfSummaryBuilder.html" title="llvm::InstrProfSummaryBuilder" alt="" coords="240,5,440,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SampleProfileSummaryBuilder.html" title="llvm::SampleProfileSummary\lBuilder" alt="" coords="245,57,435,98"/>
+</map>

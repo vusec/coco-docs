@@ -1,0 +1,9 @@
+<map id="llvm::DefaultFoldingSetTrait&lt; T &gt;" name="llvm::DefaultFoldingSetTrait&lt; T &gt;">
+<area shape="rect" id="node2" href="$structllvm_1_1FoldingSetTrait.html" title="FoldingSetTrait &#45; This trait class is used to define behavior of how to &quot;profile&quot; (in the FoldingSet ..." alt="" coords="395,5,570,32"/>
+<area shape="rect" id="node3" href="$structllvm_1_1DefaultFoldingSetTrait.html" title="llvm::DefaultFoldingSetTrait\l\&lt; SCEV \&gt;" alt="" coords="391,57,575,98"/>
+<area shape="rect" id="node5" href="$structllvm_1_1DefaultFoldingSetTrait.html" title="llvm::DefaultFoldingSetTrait\l\&lt; SDVTListNode \&gt;" alt="" coords="391,122,575,163"/>
+<area shape="rect" id="node7" href="$structllvm_1_1DefaultFoldingSetTrait.html" title="llvm::DefaultFoldingSetTrait\l\&lt; SCEVPredicate \&gt;" alt="" coords="391,187,575,229"/>
+<area shape="rect" id="node4" href="$structllvm_1_1FoldingSetTrait_3_01SCEV_01_4.html" title="llvm::FoldingSetTrait\l\&lt; SCEV \&gt;" alt="" coords="624,57,767,98"/>
+<area shape="rect" id="node6" href="$structllvm_1_1FoldingSetTrait_3_01SDVTListNode_01_4.html" title="Specialize FoldingSetTrait for SDVTListNode to avoid computing temp FoldingSetNodeID and hash value..." alt="" coords="624,122,767,163"/>
+<area shape="rect" id="node8" href="$structllvm_1_1FoldingSetTrait_3_01SCEVPredicate_01_4.html" title="llvm::FoldingSetTrait\l\&lt; SCEVPredicate \&gt;" alt="" coords="624,187,767,229"/>
+</map>

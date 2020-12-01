@@ -1,0 +1,5 @@
+<map id="lib/Target/AMDGPU/AMDGPUPerfHintAnalysis.h" name="lib/Target/AMDGPU/AMDGPUPerfHintAnalysis.h">
+<area shape="rect" id="node2" href="$AMDGPUISelDAGToDAG_8cpp.html" title="Defines an instruction selector for the AMDGPU target. " alt="" coords="5,95,231,136"/>
+<area shape="rect" id="node3" href="$AMDGPUMachineFunction_8cpp.html" title="lib/Target/AMDGPU/AMDGPUMachine\lFunction.cpp" alt="" coords="255,95,506,136"/>
+<area shape="rect" id="node4" href="$AMDGPUPerfHintAnalysis_8cpp.html" title="Analyzes if a function potentially memory bound and if a kernel kernel may benefit from limiting numb..." alt="" coords="530,95,757,136"/>
+</map>

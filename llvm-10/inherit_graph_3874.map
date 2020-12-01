@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; AddObject, Expected\&lt;\l ObjHandleT \&gt;(std::string)\&gt;" alt="" coords="5,5,187,61"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1RemoteObjectLayerAPI_1_1AddObject.html" title="llvm::orc::RemoteObjectLayer\lAPI::AddObject" alt="" coords="235,13,431,54"/>
+</map>

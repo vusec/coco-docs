@@ -1,0 +1,11 @@
+<map id="include/llvm/DebugInfo/PDB/PDBSymbolTypeVTable.h" name="include/llvm/DebugInfo/PDB/PDBSymbolTypeVTable.h">
+<area shape="rect" id="node2" href="$PDBSymbolTypeBaseClass_8h.html" title="include/llvm/DebugInfo\l/PDB/PDBSymbolTypeBaseClass.h" alt="" coords="389,95,624,136"/>
+<area shape="rect" id="node4" href="$UDTLayout_8h.html" title="include/llvm/DebugInfo\l/PDB/UDTLayout.h" alt="" coords="673,273,828,315"/>
+<area shape="rect" id="node5" href="$UDTLayout_8cpp.html" title="lib/DebugInfo/PDB/UDTLayout.cpp" alt="" coords="213,363,440,389"/>
+<area shape="rect" id="node6" href="$PDBSymbol_8cpp.html" title="lib/DebugInfo/PDB/PDBSymbol.cpp" alt="" coords="25,281,257,307"/>
+<area shape="rect" id="node7" href="$PDBSymbolTypeUDT_8cpp.html" title="lib/DebugInfo/PDB/PDBSymbol\lTypeUDT.cpp" alt="" coords="403,273,610,315"/>
+<area shape="rect" id="node9" href="$DIARawSymbol_8cpp.html" title="lib/DebugInfo/PDB/DIA\l/DIARawSymbol.cpp" alt="" coords="928,95,1087,136"/>
+<area shape="rect" id="node10" href="$PDBSymbolTypeVTable_8cpp.html" title="lib/DebugInfo/PDB/PDBSymbol\lTypeVTable.cpp" alt="" coords="1111,95,1318,136"/>
+<area shape="rect" id="node3" href="$PDBSymbolTypeUDT_8h.html" title="include/llvm/DebugInfo\l/PDB/PDBSymbolTypeUDT.h" alt="" coords="271,184,470,225"/>
+<area shape="rect" id="node8" href="$PDBSymbolTypeBaseClass_8cpp.html" title="lib/DebugInfo/PDB/PDBSymbol\lTypeBaseClass.cpp" alt="" coords="544,184,751,225"/>
+</map>

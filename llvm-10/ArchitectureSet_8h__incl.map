@@ -1,0 +1,22 @@
+<map id="include/llvm/TextAPI/MachO/ArchitectureSet.h" name="include/llvm/TextAPI/MachO/ArchitectureSet.h">
+<area shape="rect" id="node2" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="1282,273,1467,300"/>
+<area shape="rect" id="node45" href="$Architecture_8h.html" title="llvm/TextAPI/MachO\l/Architecture.h" alt="" coords="1797,95,1941,136"/>
+<area shape="rect" id="node3" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1247,423,1409,449"/>
+<area shape="rect" id="node35" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1821,348,1968,375"/>
+<area shape="rect" id="node4" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="2679,572,2849,599"/>
+<area shape="rect" id="node7" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="281,572,434,599"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="904,647,1067,673"/>
+<area shape="rect" id="node12" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="885,497,1062,524"/>
+<area shape="rect" id="node27" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="591,497,759,524"/>
+<area shape="rect" id="node28" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1311,572,1500,599"/>
+<area shape="rect" id="node31" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1764,572,1935,599"/>
+<area shape="rect" id="node13" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="644,572,847,599"/>
+<area shape="rect" id="node14" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="681,647,855,673"/>
+<area shape="rect" id="node15" href="$c_2DataTypes_8h.html" title="llvm&#45;c/DataTypes.h" alt="" coords="700,721,836,748"/>
+<area shape="rect" id="node36" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2207,423,2361,449"/>
+<area shape="rect" id="node37" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2055,497,2195,524"/>
+<area shape="rect" id="node39" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="2474,497,2606,524"/>
+<area shape="rect" id="node38" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="2031,572,2153,599"/>
+<area shape="rect" id="node46" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="1707,191,1831,218"/>
+<area shape="rect" id="node47" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="1701,273,1827,300"/>
+</map>

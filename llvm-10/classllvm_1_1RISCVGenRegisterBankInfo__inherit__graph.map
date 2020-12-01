@@ -1,0 +1,4 @@
+<map id="llvm::RISCVGenRegisterBankInfo" name="llvm::RISCVGenRegisterBankInfo">
+<area shape="rect" id="node3" href="$classllvm_1_1RISCVRegisterBankInfo.html" title="This class provides the information for the target register banks. " alt="" coords="17,155,215,181"/>
+<area shape="rect" id="node2" href="$classllvm_1_1RegisterBankInfo.html" title="Holds all the information related to register banks. " alt="" coords="39,5,193,32"/>
+</map>

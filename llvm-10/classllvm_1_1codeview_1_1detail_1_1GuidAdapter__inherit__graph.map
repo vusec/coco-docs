@@ -1,0 +1,5 @@
+<map id="llvm::codeview::detail::GuidAdapter" name="llvm::codeview::detail::GuidAdapter">
+<area shape="rect" id="node2" href="$classllvm_1_1FormatAdapter.html" title="llvm::FormatAdapter\l\&lt; ArrayRef\&lt; uint8_t \&gt; \&gt;" alt="" coords="5,185,167,227"/>
+<area shape="rect" id="node3" href="$classllvm_1_1detail_1_1format__adapter.html" title="llvm::detail::format\l_adapter" alt="" coords="15,5,146,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1FormatAdapter.html" title="llvm::FormatAdapter\&lt; T \&gt;" alt="" coords="103,96,275,123"/>
+</map>

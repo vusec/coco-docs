@@ -1,0 +1,31 @@
+<map id="lib/CodeGen/TargetSubtargetInfo.cpp" name="lib/CodeGen/TargetSubtargetInfo.cpp">
+<area shape="rect" id="node2" href="$TargetSubtargetInfo_8h.html" title="llvm/CodeGen/TargetSubtarget\lInfo.h" alt="" coords="2903,95,3105,136"/>
+<area shape="rect" id="node3" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="549,497,675,524"/>
+<area shape="rect" id="node18" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2084,423,2228,449"/>
+<area shape="rect" id="node24" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1665,497,1828,524"/>
+<area shape="rect" id="node40" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2767,423,2913,449"/>
+<area shape="rect" id="node41" href="$PBQPRAConstraint_8h.html" title="llvm/CodeGen/PBQPRAConstraint.h" alt="" coords="3907,423,4143,449"/>
+<area shape="rect" id="node42" href="$ScheduleDAGMutation_8h.html" title="llvm/CodeGen/ScheduleDAGMutation.h" alt="" coords="4268,184,4521,211"/>
+<area shape="rect" id="node43" href="$SchedulerRegistry_8h.html" title="llvm/CodeGen/SchedulerRegistry.h" alt="" coords="2891,184,3117,211"/>
+<area shape="rect" id="node45" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="3088,266,3253,293"/>
+<area shape="rect" id="node46" href="$MCSubtargetInfo_8h.html" title="llvm/MC/MCSubtargetInfo.h" alt="" coords="2318,184,2503,211"/>
+<area shape="rect" id="node4" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="863,721,1025,748"/>
+<area shape="rect" id="node7" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1261,572,1438,599"/>
+<area shape="rect" id="node8" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1365,647,1568,673"/>
+<area shape="rect" id="node9" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="1241,721,1415,748"/>
+<area shape="rect" id="node19" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="1097,572,1237,599"/>
+<area shape="rect" id="node23" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="2969,647,3092,673"/>
+<area shape="rect" id="node33" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2817,497,2972,524"/>
+<area shape="rect" id="node20" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="549,647,739,673"/>
+<area shape="rect" id="node21" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1845,647,2016,673"/>
+<area shape="rect" id="node25" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3628,647,3799,673"/>
+<area shape="rect" id="node27" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1035,647,1189,673"/>
+<area shape="rect" id="node28" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="499,572,667,599"/>
+<area shape="rect" id="node34" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2533,572,2673,599"/>
+<area shape="rect" id="node35" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="3453,572,3585,599"/>
+<area shape="rect" id="node44" href="$MachinePassRegistry_8h.html" title="llvm/CodeGen/MachinePass\lRegistry.h" alt="" coords="2875,259,3063,300"/>
+<area shape="rect" id="node47" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="2249,266,2373,293"/>
+<area shape="rect" id="node48" href="$MCInstrItineraries_8h.html" title="llvm/MC/MCInstrItineraries.h" alt="" coords="2499,266,2690,293"/>
+<area shape="rect" id="node49" href="$MCSchedule_8h.html" title="llvm/MC/MCSchedule.h" alt="" coords="2381,348,2542,375"/>
+<area shape="rect" id="node50" href="$SubtargetFeature_8h.html" title="llvm/MC/SubtargetFeature.h" alt="" coords="700,348,887,375"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1PrettyStackTraceEntry.html" title="PrettyStackTraceEntry &#45; This class is used to represent a frame of the &quot;pretty&quot; stack trace that is d..." alt="" coords="5,97,192,123"/>
+<area shape="rect" id="node2" href="$classllvm_1_1PassManagerPrettyStackEntry.html" title="PassManagerPrettyStackEntry &#45; This is used to print informative information about what pass is runnin..." alt="" coords="241,5,444,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1PrettyStackTraceFormat.html" title="PrettyStackTraceFormat &#45; This object prints a string (which may use printf&#45;style formatting but shoul..." alt="" coords="244,71,441,98"/>
+<area shape="rect" id="node4" href="$classllvm_1_1PrettyStackTraceProgram.html" title="PrettyStackTraceProgram &#45; This object prints a specified program arguments to the stream as the stack..." alt="" coords="240,122,445,149"/>
+<area shape="rect" id="node5" href="$classllvm_1_1PrettyStackTraceString.html" title="PrettyStackTraceString &#45; This object prints a specified string (which should not contain newlines) to..." alt="" coords="247,173,438,199"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1TimeRegion.html" title="The TimeRegion class is used as a helper class to call the startTimer() and stopTimer() methods of th..." alt="" coords="5,5,129,32"/>
+<area shape="rect" id="node2" href="$structllvm_1_1NamedRegionTimer.html" title="This class is basically a combination of TimeRegion and Timer. " alt="" coords="177,5,348,32"/>
+</map>

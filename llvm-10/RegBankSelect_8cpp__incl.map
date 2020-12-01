@@ -1,0 +1,39 @@
+<map id="lib/CodeGen/GlobalISel/RegBankSelect.cpp" name="lib/CodeGen/GlobalISel/RegBankSelect.cpp">
+<area shape="rect" id="node2" href="$RegBankSelect_8h.html" title="llvm/CodeGen/GlobalISel\l/RegBankSelect.h" alt="" coords="4069,95,4238,136"/>
+<area shape="rect" id="node3" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2296,541,2459,568"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="629,691,792,717"/>
+<area shape="rect" id="node9" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="616,616,805,643"/>
+<area shape="rect" id="node15" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="4326,452,4517,493"/>
+<area shape="rect" id="node17" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="4131,541,4325,568"/>
+<area shape="rect" id="node18" href="$MachineOperand_8h.html" title="llvm/CodeGen/MachineOperand.h" alt="" coords="5151,616,5369,643"/>
+<area shape="rect" id="node19" href="$TargetOpcodes_8h.html" title="llvm/CodeGen/TargetOpcodes.h" alt="" coords="4866,616,5075,643"/>
+<area shape="rect" id="node22" href="$MachineRegisterInfo_8h.html" title="llvm/CodeGen/MachineRegister\lInfo.h" alt="" coords="3793,273,3999,315"/>
+<area shape="rect" id="node23" href="$RegisterBank_8h.html" title="llvm/CodeGen/GlobalISel\l/RegisterBank.h" alt="" coords="3139,363,3309,404"/>
+<area shape="rect" id="node24" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="3384,370,3603,397"/>
+<area shape="rect" id="node27" href="$TargetRegisterInfo_8h.html" title="llvm/CodeGen/TargetRegister\lInfo.h" alt="" coords="3677,363,3872,404"/>
+<area shape="rect" id="node28" href="$TargetSubtargetInfo_8h.html" title="llvm/CodeGen/TargetSubtarget\lInfo.h" alt="" coords="4099,452,4301,493"/>
+<area shape="rect" id="node29" href="$RegisterBankInfo_8h.html" title="llvm/CodeGen/GlobalISel\l/RegisterBankInfo.h" alt="" coords="2731,452,2901,493"/>
+<area shape="rect" id="node31" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="5251,370,5341,397"/>
+<area shape="rect" id="node32" href="$MachineOptimizationRemarkEmitter_8h.html" title="===&#45; MachineOptimizationRemarkEmitter.h &#45; Opt Diagnostics &#45;*&#45; C++ &#45;*&#45;—===// " alt="" coords="4318,184,4549,225"/>
+<area shape="rect" id="node33" href="$PostOrderIterator_8h.html" title="llvm/ADT/PostOrderIterator.h" alt="" coords="1747,459,1939,486"/>
+<area shape="rect" id="node36" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1517,459,1672,486"/>
+<area shape="rect" id="node39" href="$LegalizerInfo_8h.html" title="llvm/CodeGen/GlobalISel\l/LegalizerInfo.h" alt="" coords="2695,273,2865,315"/>
+<area shape="rect" id="node40" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="2057,370,2252,397"/>
+<area shape="rect" id="node41" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2115,459,2301,486"/>
+<area shape="rect" id="node42" href="$CodeGen_2GlobalISel_2Utils_8h.html" title="llvm/CodeGen/GlobalISel\l/Utils.h" alt="" coords="5121,95,5290,136"/>
+<area shape="rect" id="node43" href="$MachineBlockFrequencyInfo_8h.html" title="llvm/CodeGen/MachineBlock\lFrequencyInfo.h" alt="" coords="4625,184,4815,225"/>
+<area shape="rect" id="node44" href="$BlockFrequency_8h.html" title="llvm/Support/BlockFrequency.h" alt="" coords="4713,281,4917,307"/>
+<area shape="rect" id="node45" href="$MachineBranchProbabilityInfo_8h.html" title="llvm/CodeGen/MachineBranch\lProbabilityInfo.h" alt="" coords="5042,273,5241,315"/>
+<area shape="rect" id="node46" href="$TargetPassConfig_8h.html" title="llvm/CodeGen/TargetPassConfig.h" alt="" coords="5466,281,5691,307"/>
+<area shape="rect" id="node47" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="3281,459,3415,486"/>
+<area shape="rect" id="node48" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="2883,370,3013,397"/>
+<area shape="rect" id="node49" href="$InitializePasses_8h.html" title="llvm/InitializePasses.h" alt="" coords="5817,102,5970,129"/>
+<area shape="rect" id="node50" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="5994,102,6142,129"/>
+<area shape="rect" id="node14" href="$MachineIRBuilder_8h.html" title="This file declares the MachineIRBuilder class. " alt="" coords="3921,184,4090,225"/>
+<area shape="rect" id="node30" href="$MachineFunctionPass_8h.html" title="llvm/CodeGen/MachineFunction\lPass.h" alt="" coords="4277,273,4485,315"/>
+<area shape="rect" id="node4" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="2415,616,2585,643"/>
+<area shape="rect" id="node16" href="$GraphTraits_8h.html" title="llvm/ADT/GraphTraits.h" alt="" coords="2584,541,2744,568"/>
+<area shape="rect" id="node25" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2921,541,3061,568"/>
+<area shape="rect" id="node26" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1683,541,1815,568"/>
+<area shape="rect" id="node34" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="1293,541,1456,568"/>
+</map>

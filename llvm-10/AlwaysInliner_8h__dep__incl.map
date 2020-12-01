@@ -1,0 +1,7 @@
+<map id="include/llvm/Transforms/IPO/AlwaysInliner.h" name="include/llvm/Transforms/IPO/AlwaysInliner.h">
+<area shape="rect" id="node2" href="$LinkAllPasses_8h.html" title="include/llvm/LinkAllPasses.h" alt="" coords="5,102,195,129"/>
+<area shape="rect" id="node3" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="219,102,402,129"/>
+<area shape="rect" id="node4" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="426,95,665,136"/>
+<area shape="rect" id="node5" href="$AlwaysInliner_8cpp.html" title="lib/Transforms/IPO\l/AlwaysInliner.cpp" alt="" coords="689,95,821,136"/>
+<area shape="rect" id="node6" href="$IPO_8cpp.html" title="lib/Transforms/IPO\l/IPO.cpp" alt="" coords="845,95,977,136"/>
+</map>

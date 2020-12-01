@@ -1,0 +1,7 @@
+<map id="llvm::codeview::UDTSym" name="llvm::codeview::UDTSym">
+<area shape="rect" id="node2" href="$classllvm_1_1codeview_1_1SymbolRecord.html" title="llvm::codeview::SymbolRecord" alt="" coords="5,139,208,165"/>
+<area shape="rect" id="node4" href="$classuint32__t.html" title="uint32_t" alt="" coords="282,5,350,32"/>
+<area shape="rect" id="node7" href="$classllvm_1_1codeview_1_1TypeIndex.html" title="A 32&#45;bit type reference. " alt="" coords="363,139,541,165"/>
+<area shape="rect" id="node5" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e. " alt="" coords="565,139,675,165"/>
+<area shape="rect" id="node6" href="$classsize__t.html" title="size_t" alt="" coords="591,5,649,32"/>
+</map>

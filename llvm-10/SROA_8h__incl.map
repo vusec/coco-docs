@@ -1,0 +1,32 @@
+<map id="include/llvm/Transforms/Scalar/SROA.h" name="include/llvm/Transforms/Scalar/SROA.h">
+<area shape="rect" id="node2" href="$SetVector_8h.html" title="llvm/ADT/SetVector.h" alt="" coords="487,244,638,271"/>
+<area shape="rect" id="node14" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2124,617,2287,644"/>
+<area shape="rect" id="node39" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM. " alt="" coords="4563,95,4722,121"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2024,543,2168,569"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1515,841,1677,868"/>
+<area shape="rect" id="node26" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="4795,617,4949,644"/>
+<area shape="rect" id="node35" href="$DenseSet_8h.html" title="llvm/ADT/DenseSet.h" alt="" coords="3453,319,3603,345"/>
+<area shape="rect" id="node4" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="2542,692,2682,719"/>
+<area shape="rect" id="node13" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="3776,767,3899,793"/>
+<area shape="rect" id="node5" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1771,767,1960,793"/>
+<area shape="rect" id="node7" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="3581,767,3752,793"/>
+<area shape="rect" id="node15" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="5475,767,5645,793"/>
+<area shape="rect" id="node17" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1755,692,1909,719"/>
+<area shape="rect" id="node19" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="2238,692,2415,719"/>
+<area shape="rect" id="node21" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="1512,692,1680,719"/>
+<area shape="rect" id="node27" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3806,692,3946,719"/>
+<area shape="rect" id="node28" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="4806,692,4938,719"/>
+<area shape="rect" id="node36" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2245,393,2400,420"/>
+<area shape="rect" id="node37" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="3718,468,3895,495"/>
+<area shape="rect" id="node38" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="4887,543,5033,569"/>
+<area shape="rect" id="node40" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="3163,692,3325,719"/>
+<area shape="rect" id="node41" href="$TinyPtrVector_8h.html" title="llvm/ADT/TinyPtrVector.h" alt="" coords="2117,468,2289,495"/>
+<area shape="rect" id="node42" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="5030,244,5159,271"/>
+<area shape="rect" id="node43" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="5487,169,5609,196"/>
+<area shape="rect" id="node44" href="$PassInstrumentation_8h.html" title="This file defines the Pass Instrumentation classes that provide instrumentation points into the pass ..." alt="" coords="4622,393,4821,420"/>
+<area shape="rect" id="node45" href="$TypeName_8h.html" title="llvm/Support/TypeName.h" alt="" coords="4746,468,4921,495"/>
+<area shape="rect" id="node46" href="$PassManagerInternal_8h.html" title="This header provides internal APIs and implementation details used by the pass management interfaces ..." alt="" coords="6143,468,6345,495"/>
+<area shape="rect" id="node47" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="4996,319,5087,345"/>
+<area shape="rect" id="node48" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="5997,169,6145,196"/>
+<area shape="rect" id="node49" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="4262,468,4447,495"/>
+</map>

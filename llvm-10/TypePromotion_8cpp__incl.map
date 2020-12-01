@@ -1,0 +1,40 @@
+<map id="lib/CodeGen/TypePromotion.cpp" name="lib/CodeGen/TypePromotion.cpp">
+<area shape="rect" id="node2" href="$SetVector_8h.html" title="llvm/ADT/SetVector.h" alt="" coords="3126,490,3277,517"/>
+<area shape="rect" id="node17" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3776,572,3923,599"/>
+<area shape="rect" id="node20" href="$TargetTransformInfo_8h.html" title="This pass exposes codegen information to IR&#45;level passes. " alt="" coords="4953,80,5153,121"/>
+<area shape="rect" id="node22" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="2037,490,2176,517"/>
+<area shape="rect" id="node23" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="1192,572,1304,599"/>
+<area shape="rect" id="node24" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="1568,647,1723,673"/>
+<area shape="rect" id="node25" href="$IR_2Instruction_8h.html" title="llvm/IR/Instruction.h" alt="" coords="2657,490,2797,517"/>
+<area shape="rect" id="node26" href="$Type_8h.html" title="llvm/IR/Type.h" alt="" coords="1449,490,1557,517"/>
+<area shape="rect" id="node28" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="4773,490,4864,517"/>
+<area shape="rect" id="node32" href="$Instructions_8h.html" title="llvm/IR/Instructions.h" alt="" coords="1673,326,1820,353"/>
+<area shape="rect" id="node33" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="4203,490,4338,517"/>
+<area shape="rect" id="node34" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="825,408,970,435"/>
+<area shape="rect" id="node35" href="$InstrTypes_8h.html" title="llvm/IR/InstrTypes.h" alt="" coords="2549,408,2691,435"/>
+<area shape="rect" id="node39" href="$CodeGen_2Passes_8h.html" title="llvm/CodeGen/Passes.h" alt="" coords="5697,244,5861,271"/>
+<area shape="rect" id="node40" href="$TargetLowering_8h.html" title="This file describes how to lower LLVM code to machine code. " alt="" coords="2431,87,2641,114"/>
+<area shape="rect" id="node41" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="2277,408,2424,435"/>
+<area shape="rect" id="node42" href="$IRBuilder_8h.html" title="llvm/IR/IRBuilder.h" alt="" coords="1649,169,1783,196"/>
+<area shape="rect" id="node43" href="$IntrinsicInst_8h.html" title="llvm/IR/IntrinsicInst.h" alt="" coords="1045,244,1192,271"/>
+<area shape="rect" id="node44" href="$Intrinsics_8h.html" title="llvm/IR/Intrinsics.h" alt="" coords="4414,490,4546,517"/>
+<area shape="rect" id="node45" href="$TargetPassConfig_8h.html" title="llvm/CodeGen/TargetPassConfig.h" alt="" coords="4271,408,4497,435"/>
+<area shape="rect" id="node46" href="$TargetSubtargetInfo_8h.html" title="llvm/CodeGen/TargetSubtarget\lInfo.h" alt="" coords="3773,483,3976,524"/>
+<area shape="rect" id="node48" href="$Verifier_8h.html" title="llvm/IR/Verifier.h" alt="" coords="5901,326,6021,353"/>
+<area shape="rect" id="node49" href="$InitializePasses_8h.html" title="llvm/InitializePasses.h" alt="" coords="6123,87,6277,114"/>
+<area shape="rect" id="node50" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="3301,490,3496,517"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2747,572,2891,599"/>
+<area shape="rect" id="node4" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2797,647,2952,673"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2729,796,2892,823"/>
+<area shape="rect" id="node16" href="$DenseSet_8h.html" title="llvm/ADT/DenseSet.h" alt="" coords="3585,647,3735,673"/>
+<area shape="rect" id="node5" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="4657,721,4797,748"/>
+<area shape="rect" id="node9" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3028,721,3199,748"/>
+<area shape="rect" id="node21" href="$Operator_8h.html" title="llvm/IR/Operator.h" alt="" coords="1795,408,1925,435"/>
+<area shape="rect" id="node27" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM. " alt="" coords="4991,408,5150,435"/>
+<area shape="rect" id="node29" href="$AtomicOrdering_8h.html" title="Atomic ordering constants. " alt="" coords="296,408,496,435"/>
+<area shape="rect" id="node30" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="5395,169,5570,196"/>
+<area shape="rect" id="node31" href="$LoopInfo_8h.html" title="llvm/Analysis/LoopInfo.h" alt="" coords="4571,244,4736,271"/>
+<area shape="rect" id="node36" href="$ScalarEvolution_8h.html" title="llvm/Analysis/ScalarEvolution.h" alt="" coords="4430,169,4637,196"/>
+<area shape="rect" id="node37" href="$Dominators_8h.html" title="llvm/IR/Dominators.h" alt="" coords="5021,326,5168,353"/>
+<area shape="rect" id="node38" href="$AssumptionCache_8h.html" title="llvm/Analysis/Assumption\lCache.h" alt="" coords="4672,319,4845,360"/>
+</map>

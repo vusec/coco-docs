@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structllvm_1_1DefaultContextualFoldingSetTrait.html" title="DefaultContextualFoldingSetTrait &#45; Like DefaultFoldingSetTrait, but for ContextualFoldingSets. " alt="" coords="5,5,207,47"/>
+<area shape="rect" id="node2" href="$structllvm_1_1ContextualFoldingSetTrait.html" title="ContextualFoldingSetTrait &#45; Like FoldingSetTrait, but for ContextualFoldingSets. " alt="" coords="255,5,433,47"/>
+</map>

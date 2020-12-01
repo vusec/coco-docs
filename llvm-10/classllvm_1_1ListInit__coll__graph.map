@@ -1,0 +1,10 @@
+<map id="llvm::ListInit" name="llvm::ListInit">
+<area shape="rect" id="node2" href="$classllvm_1_1TypedInit.html" title="This is the common super&#45;class of types that have a specific, explicit, type. " alt="" coords="1447,7,1555,33"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Init.html" title="llvm::Init" alt="" coords="1167,7,1239,33"/>
+<area shape="rect" id="node5" href="$classllvm_1_1FoldingSetBase_1_1Node.html" title="Node &#45; This class is used to maintain the singly linked bucket list in a folding set. " alt="" coords="1444,57,1559,84"/>
+<area shape="rect" id="node6" href="$classllvm_1_1TrailingObjects.html" title="llvm::TrailingObjects\l\&lt; ListInit, Init *\&gt;" alt="" coords="1431,109,1572,150"/>
+<area shape="rect" id="node7" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title="llvm::trailing_objects\l_internal::TrailingObjectsImpl\l\&lt; trailing_objects_internal\l::AlignmentCalcHelper\&lt; TrailingTys...\l \&gt;::Alignment, ListInit, TrailingObjects\l\&lt; ListInit, TrailingTys... \&gt;, ListInit,\l TrailingTys... \&gt;" alt="" coords="855,56,1097,171"/>
+<area shape="rect" id="node8" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title="llvm::trailing_objects\l_internal::TrailingObjectsImpl\l\&lt; Align, BaseTy, TopTrailingObj,\l PrevTy, MoreTys \&gt;" alt="" coords="5,126,217,197"/>
+<area shape="rect" id="node10" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title="llvm::trailing_objects\l_internal::TrailingObjectsImpl\l\&lt; trailing_objects_internal\l::AlignmentCalcHelper\&lt; TrailingTys...\l \&gt;::Alignment, BaseTy, TrailingObjects\l\&lt; BaseTy, TrailingTys... \&gt;, BaseTy, TrailingTys... \&gt;" alt="" coords="507,157,831,257"/>
+<area shape="rect" id="node9" href="$classllvm_1_1TrailingObjects.html" title="See the file comment for details on the usage of the TrailingObjects type. " alt="" coords="1121,169,1284,210"/>
+</map>

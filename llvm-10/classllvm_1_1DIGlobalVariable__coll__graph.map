@@ -1,0 +1,7 @@
+<map id="llvm::DIGlobalVariable" name="llvm::DIGlobalVariable">
+<area shape="rect" id="node2" href="$classllvm_1_1DIVariable.html" title="Base class for variables. " alt="" coords="180,501,295,528"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DINode.html" title="Tagged DWARF&#45;like metadata node. " alt="" coords="265,358,364,385"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MDNode.html" title="Metadata node. " alt="" coords="143,215,249,241"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy. " alt="" coords="27,139,135,165"/>
+<area shape="rect" id="node6" href="$classunsigned.html" title="unsigned" alt="" coords="44,5,119,32"/>
+</map>

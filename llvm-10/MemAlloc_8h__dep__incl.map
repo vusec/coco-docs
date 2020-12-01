@@ -1,0 +1,51 @@
+<map id="include/llvm/Support/MemAlloc.h" name="include/llvm/Support/MemAlloc.h">
+<area shape="rect" id="node2" href="$SmallVector_8h.html" title="include/llvm/ADT/SmallVector.h" alt="" coords="2483,95,2691,121"/>
+<area shape="rect" id="node50" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="495,169,635,211"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title="include/llvm/ADT/ArrayRef.h" alt="" coords="2492,177,2681,203"/>
+<area shape="rect" id="node4" href="$TinyPtrVector_8h.html" title="include/llvm/ADT/TinyPtr\lVector.h" alt="" coords="3125,259,3293,300"/>
+<area shape="rect" id="node5" href="$AssumptionCache_8h.html" title="include/llvm/Analysis\l/AssumptionCache.h" alt="" coords="2138,259,2283,300"/>
+<area shape="rect" id="node6" href="$BasicAliasAnalysis_8h.html" title="This is the interface for LLVM&#39;s primary stateless and local alias analysis. " alt="" coords="1856,348,2005,389"/>
+<area shape="rect" id="node7" href="$LazyCallGraph_8h.html" title="Implements a lazy call graph analysis and related passes for the new pass manager. " alt="" coords="1969,259,2114,300"/>
+<area shape="rect" id="node8" href="$CGSCCPassManager_8h.html" title="This header provides classes for managing passes over SCCs of the call graph. " alt="" coords="2307,348,2474,389"/>
+<area shape="rect" id="node9" href="$ScalarEvolution_8h.html" title="include/llvm/Analysis\l/ScalarEvolution.h" alt="" coords="1534,348,1679,389"/>
+<area shape="rect" id="node10" href="$ScalarEvolutionExpressions_8h.html" title="include/llvm/Analysis\l/ScalarEvolutionExpressions.h" alt="" coords="1507,437,1707,479"/>
+<area shape="rect" id="node11" href="$BinaryFormat_2Wasm_8h.html" title="include/llvm/BinaryFormat\l/Wasm.h" alt="" coords="2549,259,2723,300"/>
+<area shape="rect" id="node12" href="$BitstreamReader_8h.html" title="include/llvm/Bitstream\l/BitstreamReader.h" alt="" coords="3318,259,3469,300"/>
+<area shape="rect" id="node13" href="$BitstreamWriter_8h.html" title="include/llvm/Bitstream\l/BitstreamWriter.h" alt="" coords="3493,259,3643,300"/>
+<area shape="rect" id="node14" href="$AccelTable_8h.html" title="include/llvm/CodeGen\l/AccelTable.h" alt="" coords="341,437,491,479"/>
+<area shape="rect" id="node15" href="$CodeGen_2Analysis_8h.html" title="include/llvm/CodeGen\l/Analysis.h" alt="" coords="2899,259,3050,300"/>
+<area shape="rect" id="node16" href="$BasicTTIImpl_8h.html" title="This file provides a helper that implements much of the TTI interface in terms of the target&#45;independ..." alt="" coords="2849,348,2999,389"/>
+<area shape="rect" id="node17" href="$DirectedGraph_8h.html" title="include/llvm/ADT/Directed\lGraph.h" alt="" coords="2807,169,2982,211"/>
+<area shape="rect" id="node18" href="$FoldingSet_8h.html" title="include/llvm/ADT/Folding\lSet.h" alt="" coords="744,259,912,300"/>
+<area shape="rect" id="node19" href="$ImmutableSet_8h.html" title="include/llvm/ADT/Immutable\lSet.h" alt="" coords="613,348,800,389"/>
+<area shape="rect" id="node20" href="$DIE_8h.html" title="include/llvm/CodeGen\l/DIE.h" alt="" coords="398,348,549,389"/>
+<area shape="rect" id="node21" href="$IndexedMap_8h.html" title="include/llvm/ADT/Indexed\lMap.h" alt="" coords="3626,169,3798,211"/>
+<area shape="rect" id="node22" href="$FunctionLoweringInfo_8h.html" title="include/llvm/CodeGen\l/FunctionLoweringInfo.h" alt="" coords="3667,259,3829,300"/>
+<area shape="rect" id="node23" href="$IntEqClasses_8h.html" title="include/llvm/ADT/IntEqClasses.h" alt="" coords="3108,177,3324,203"/>
+<area shape="rect" id="node24" href="$IntervalMap_8h.html" title="include/llvm/ADT/Interval\lMap.h" alt="" coords="499,259,669,300"/>
+<area shape="rect" id="node25" href="$MapVector_8h.html" title="include/llvm/ADT/MapVector.h" alt="" coords="5567,177,5767,203"/>
+<area shape="rect" id="node26" href="$AsmPrinter_8h.html" title="include/llvm/CodeGen\l/AsmPrinter.h" alt="" coords="5242,259,5393,300"/>
+<area shape="rect" id="node27" href="$DbgEntityHistoryCalculator_8h.html" title="include/llvm/CodeGen\l/DbgEntityHistoryCalculator.h" alt="" coords="5621,259,5817,300"/>
+<area shape="rect" id="node28" href="$PriorityWorklist_8h.html" title="This file provides a priority worklist. " alt="" coords="2307,259,2474,300"/>
+<area shape="rect" id="node29" href="$SmallSet_8h.html" title="include/llvm/ADT/SmallSet.h" alt="" coords="937,266,1127,293"/>
+<area shape="rect" id="node30" href="$MemorySSAUpdater_8h.html" title="include/llvm/Analysis\l/MemorySSAUpdater.h" alt="" coords="1160,348,1317,389"/>
+<area shape="rect" id="node31" href="$SmallString_8h.html" title="include/llvm/ADT/SmallString.h" alt="" coords="3874,177,4078,203"/>
+<area shape="rect" id="node32" href="$SparseMultiSet_8h.html" title="include/llvm/ADT/SparseMulti\lSet.h" alt="" coords="51,348,245,389"/>
+<area shape="rect" id="node33" href="$SparseSet_8h.html" title="include/llvm/ADT/SparseSet.h" alt="" coords="74,266,273,293"/>
+<area shape="rect" id="node34" href="$Twine_8h.html" title="include/llvm/ADT/Twine.h" alt="" coords="5319,177,5491,203"/>
+<area shape="rect" id="node35" href="$BlockFrequencyInfoImpl_8h.html" title="include/llvm/Analysis\l/BlockFrequencyInfoImpl.h" alt="" coords="5417,259,5596,300"/>
+<area shape="rect" id="node36" href="$AliasAnalysis_8h.html" title="include/llvm/Analysis\l/AliasAnalysis.h" alt="" coords="1623,169,1769,211"/>
+<area shape="rect" id="node37" href="$IVDescriptors_8h.html" title="include/llvm/Analysis\l/IVDescriptors.h" alt="" coords="1697,259,1842,300"/>
+<area shape="rect" id="node38" href="$MemorySSA_8h.html" title="This file exposes an interface to building/using memory SSA to walk memory instructions using a use/d..." alt="" coords="1254,259,1399,300"/>
+<area shape="rect" id="node39" href="$LoopInfo_8h.html" title="include/llvm/Analysis\l/LoopInfo.h" alt="" coords="1475,259,1621,300"/>
+<area shape="rect" id="node40" href="$RegionInfoImpl_8h.html" title="include/llvm/Analysis\l/RegionInfoImpl.h" alt="" coords="1365,348,1510,389"/>
+<area shape="rect" id="node41" href="$PHITransAddr_8h.html" title="include/llvm/Analysis\l/PHITransAddr.h" alt="" coords="1254,169,1399,211"/>
+<area shape="rect" id="node42" href="$PhiValues_8h.html" title="include/llvm/Analysis\l/PhiValues.h" alt="" coords="4102,169,4247,211"/>
+<area shape="rect" id="node43" href="$PtrUseVisitor_8h.html" title="This file provides a collection of visitors which walk the (instruction) uses of a pointer..." alt="" coords="4271,169,4417,211"/>
+<area shape="rect" id="node44" href="$TypeMetadataUtils_8h.html" title="include/llvm/Analysis\l/TypeMetadataUtils.h" alt="" coords="4441,169,4588,211"/>
+<area shape="rect" id="node45" href="$BitCodes_8h.html" title="include/llvm/Bitstream\l/BitCodes.h" alt="" coords="3349,169,3499,211"/>
+<area shape="rect" id="node46" href="$CallingConvLower_8h.html" title="include/llvm/CodeGen\l/CallingConvLower.h" alt="" coords="4613,169,4763,211"/>
+<area shape="rect" id="node47" href="$ExecutionDomainFix_8h.html" title="include/llvm/CodeGen\l/ExecutionDomainFix.h" alt="" coords="4787,169,4946,211"/>
+<area shape="rect" id="node48" href="$FastISel_8h.html" title="This file defines the FastISel class. " alt="" coords="4970,169,5121,211"/>
+<area shape="rect" id="node49" href="$GCMetadata_8h.html" title="include/llvm/CodeGen\l/GCMetadata.h" alt="" coords="5145,169,5295,211"/>
+</map>

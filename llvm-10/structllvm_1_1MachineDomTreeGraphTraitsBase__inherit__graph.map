@@ -1,0 +1,6 @@
+<map id="llvm::MachineDomTreeGraphTraitsBase&lt; Node, ChildIterator &gt;" name="llvm::MachineDomTreeGraphTraitsBase&lt; Node, ChildIterator &gt;">
+<area shape="rect" id="node2" href="$structllvm_1_1MachineDomTreeGraphTraitsBase.html" title="llvm::MachineDomTreeGraph\lTraitsBase\&lt; MachineDomTreeNode,\l MachineDomTreeNode::iterator \&gt;" alt="" coords="463,7,698,63"/>
+<area shape="rect" id="node4" href="$structllvm_1_1MachineDomTreeGraphTraitsBase.html" title="llvm::MachineDomTreeGraph\lTraitsBase\&lt; const MachineDomTree\lNode, MachineDomTreeNode::const\l_iterator \&gt;" alt="" coords="463,87,699,158"/>
+<area shape="rect" id="node3" href="$structllvm_1_1GraphTraits_3_01MachineDomTreeNode_01_5_01_4.html" title="llvm::GraphTraits\&lt;\l MachineDomTreeNode * \&gt;" alt="" coords="766,14,947,55"/>
+<area shape="rect" id="node5" href="$structllvm_1_1GraphTraits_3_01const_01MachineDomTreeNode_01_5_01_4.html" title="llvm::GraphTraits\&lt;\l const MachineDomTreeNode * \&gt;" alt="" coords="748,102,965,143"/>
+</map>

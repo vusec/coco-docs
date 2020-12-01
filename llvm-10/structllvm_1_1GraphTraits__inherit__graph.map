@@ -1,0 +1,50 @@
+<map id="llvm::GraphTraits&lt; GraphType &gt;" name="llvm::GraphTraits&lt; GraphType &gt;">
+<area shape="rect" id="node2" href="$structllvm_1_1GraphTraits.html" title="llvm::GraphTraits\&lt;\l CallGraphNode *\&gt;" alt="" coords="447,17,579,58"/>
+<area shape="rect" id="node4" href="$structllvm_1_1GraphTraits.html" title="llvm::GraphTraits\&lt;\l Inverse\&lt; MachineBasicBlock *\&gt; \&gt;" alt="" coords="400,82,625,123"/>
+<area shape="rect" id="node6" href="$structllvm_1_1GraphTraits.html" title="llvm::GraphTraits\&lt;\l const VPBlockBase *\&gt;" alt="" coords="433,147,593,189"/>
+<area shape="rect" id="node8" href="$structllvm_1_1GraphTraits.html" title="llvm::GraphTraits\&lt;\l RegionInfo *\&gt;" alt="" coords="447,213,578,254"/>
+<area shape="rect" id="node10" href="$structllvm_1_1GraphTraits.html" title="llvm::GraphTraits\&lt;\l MachineDomTreeNode *\&gt;" alt="" coords="424,278,601,319"/>
+<area shape="rect" id="node12" href="$structllvm_1_1GraphTraits.html" title="llvm::GraphTraits\&lt;\l SUnit *\&gt;" alt="" coords="447,343,578,385"/>
+<area shape="rect" id="node14" href="$structllvm_1_1GraphTraits.html" title="llvm::GraphTraits\&lt;\l DDGNode *\&gt;" alt="" coords="447,409,578,450"/>
+<area shape="rect" id="node16" href="$structllvm_1_1GraphTraits.html" title="llvm::GraphTraits\&lt;\l const MachineBasicBlock *\&gt;" alt="" coords="415,474,610,515"/>
+<area shape="rect" id="node18" href="$structllvm_1_1GraphTraits.html" title="llvm::GraphTraits\&lt;\l Inverse\&lt; const BasicBlock *\&gt; \&gt;" alt="" coords="407,539,619,581"/>
+<area shape="rect" id="node20" href="$structllvm_1_1GraphTraits.html" title="llvm::GraphTraits\&lt;\l const BasicBlock *\&gt;" alt="" coords="440,606,585,647"/>
+<area shape="rect" id="node22" href="$structllvm_1_1GraphTraits.html" title="llvm::GraphTraits\&lt;\l BasicBlock *\&gt;" alt="" coords="447,673,578,714"/>
+<area shape="rect" id="node24" href="$structllvm_1_1GraphTraits.html" title="llvm::GraphTraits\&lt; T \&gt;" alt="" coords="435,741,590,768"/>
+<area shape="rect" id="node26" href="$structllvm_1_1GraphTraits.html" title="llvm::GraphTraits\&lt;\l MachineRegionInfo *\&gt;" alt="" coords="435,793,590,834"/>
+<area shape="rect" id="node28" href="$structllvm_1_1GraphTraits.html" title="llvm::GraphTraits\&lt;\l MachineBasicBlock *\&gt;" alt="" coords="433,858,592,899"/>
+<area shape="rect" id="node30" href="$structllvm_1_1GraphTraits.html" title="llvm::GraphTraits\&lt;\l FlatIt\&lt; RegionNode *\&gt; \&gt;" alt="" coords="428,923,597,965"/>
+<area shape="rect" id="node32" href="$structllvm_1_1GraphTraits.html" title="llvm::GraphTraits\&lt;\l DomTreeNode *\&gt;" alt="" coords="447,989,578,1030"/>
+<area shape="rect" id="node35" href="$structllvm_1_1GraphTraits.html" title="llvm::GraphTraits\&lt;\l Inverse\&lt; const MachineBasic\lBlock *\&gt; \&gt;" alt="" coords="413,1055,612,1111"/>
+<area shape="rect" id="node37" href="$structllvm_1_1GraphTraits.html" title="llvm::GraphTraits\&lt;\l const DDGNode *\&gt;" alt="" coords="443,1135,583,1177"/>
+<area shape="rect" id="node39" href="$structllvm_1_1GraphTraits.html" title="llvm::GraphTraits\&lt;\l const CallGraphNode *\&gt;" alt="" coords="429,1201,597,1242"/>
+<area shape="rect" id="node41" href="$structllvm_1_1GraphTraits.html" title="llvm::GraphTraits\&lt;\l VPBlockBase *\&gt;" alt="" coords="447,1266,578,1307"/>
+<area shape="rect" id="node43" href="$structllvm_1_1GraphTraits.html" title="llvm::GraphTraits\&lt;\l FlatIt\&lt; MachineRegionNode *\&gt; \&gt;" alt="" coords="403,1331,622,1373"/>
+<area shape="rect" id="node45" href="$structllvm_1_1GraphTraits.html" title="llvm::GraphTraits\&lt;\l ArgumentGraphNode *\&gt;" alt="" coords="430,1397,595,1438"/>
+<area shape="rect" id="node46" href="$structllvm_1_1GraphTraits.html" title="llvm::GraphTraits\&lt;\l Inverse\&lt; BasicBlock *\&gt; \&gt;" alt="" coords="425,1462,601,1503"/>
+<area shape="rect" id="node47" href="$structllvm_1_1GraphTraits.html" title="llvm::GraphTraits\&lt;\l Inverse\&lt; VPBlockBase *\&gt; \&gt;" alt="" coords="417,1527,608,1569"/>
+<area shape="rect" id="node48" href="$structllvm_1_1GraphTraits.html" title="llvm::GraphTraits\&lt;\l ScheduleDAG *\&gt;" alt="" coords="447,1593,578,1634"/>
+<area shape="rect" id="node49" href="$structllvm_1_1GraphTraits.html" title="llvm::GraphTraits\&lt;\l SDNode *\&gt;" alt="" coords="447,1658,578,1699"/>
+<area shape="rect" id="node3" href="$structllvm_1_1GraphTraits_3_01CallGraph_01_5_01_4.html" title="llvm::GraphTraits\&lt;\l CallGraph * \&gt;" alt="" coords="734,15,865,57"/>
+<area shape="rect" id="node5" href="$structllvm_1_1GraphTraits_3_01Inverse_3_01MachineFunction_01_5_01_4_01_4.html" title="llvm::GraphTraits\&lt;\l Inverse\&lt; MachineFunction * \&gt; \&gt;" alt="" coords="693,81,906,122"/>
+<area shape="rect" id="node7" href="$structllvm_1_1GraphTraits_3_01const_01VPRegionBlock_01_5_01_4.html" title="llvm::GraphTraits\&lt;\l const VPRegionBlock * \&gt;" alt="" coords="712,146,887,187"/>
+<area shape="rect" id="node9" href="$structllvm_1_1GraphTraits_3_01RegionInfoPass_01_5_01_4.html" title="llvm::GraphTraits\&lt;\l RegionInfoPass * \&gt;" alt="" coords="729,211,869,253"/>
+<area shape="rect" id="node11" href="$structllvm_1_1GraphTraits_3_01MachineDominatorTree_01_5_01_4.html" title="llvm::GraphTraits\&lt;\l MachineDominatorTree * \&gt;" alt="" coords="708,277,891,318"/>
+<area shape="rect" id="node13" href="$structllvm_1_1GraphTraits_3_01ScheduleDAG_01_5_01_4.html" title="llvm::GraphTraits\&lt;\l ScheduleDAG * \&gt;" alt="" coords="734,342,865,383"/>
+<area shape="rect" id="node15" href="$structllvm_1_1GraphTraits_3_01DataDependenceGraph_01_5_01_4.html" title="llvm::GraphTraits\&lt;\l DataDependenceGraph * \&gt;" alt="" coords="708,407,891,449"/>
+<area shape="rect" id="node17" href="$structllvm_1_1GraphTraits_3_01const_01MachineFunction_01_5_01_4.html" title="llvm::GraphTraits\&lt;\l const MachineFunction * \&gt;" alt="" coords="708,473,891,514"/>
+<area shape="rect" id="node19" href="$structllvm_1_1GraphTraits_3_01Inverse_3_01const_01Function_01_5_01_4_01_4.html" title="llvm::GraphTraits\&lt;\l Inverse\&lt; const Function * \&gt; \&gt;" alt="" coords="699,538,899,579"/>
+<area shape="rect" id="node21" href="$structllvm_1_1GraphTraits_3_01const_01Function_01_5_01_4.html" title="llvm::GraphTraits\&lt;\l const Function * \&gt;" alt="" coords="733,603,866,645"/>
+<area shape="rect" id="node23" href="$structllvm_1_1GraphTraits_3_01Function_01_5_01_4.html" title="llvm::GraphTraits\&lt;\l Function * \&gt;" alt="" coords="734,669,865,710"/>
+<area shape="rect" id="node25" href="$structllvm_1_1GraphTraits_3_01Inverse_3_01Inverse_3_01T_01_4_01_4_01_4.html" title="llvm::GraphTraits\&lt;\l Inverse\&lt; Inverse\&lt; T \&gt; \&gt; \&gt;" alt="" coords="709,734,889,775"/>
+<area shape="rect" id="node27" href="$structllvm_1_1GraphTraits_3_01MachineRegionInfoPass_01_5_01_4.html" title="llvm::GraphTraits\&lt;\l MachineRegionInfoPass * \&gt;" alt="" coords="705,799,894,841"/>
+<area shape="rect" id="node29" href="$structllvm_1_1GraphTraits_3_01MachineFunction_01_5_01_4.html" title="llvm::GraphTraits\&lt;\l MachineFunction * \&gt;" alt="" coords="726,865,873,906"/>
+<area shape="rect" id="node31" href="$structllvm_1_1GraphTraits_3_01RegionInfo_01_5_01_4.html" title="llvm::GraphTraits\&lt;\l RegionInfo * \&gt;" alt="" coords="734,930,865,971"/>
+<area shape="rect" id="node33" href="$structllvm_1_1GraphTraits_3_01DominatorTree_01_5_01_4.html" title="llvm::GraphTraits\&lt;\l DominatorTree * \&gt;" alt="" coords="733,995,866,1037"/>
+<area shape="rect" id="node34" href="$structllvm_1_1GraphTraits_3_01PostDominatorTree_01_5_01_4.html" title="llvm::GraphTraits\&lt;\l PostDominatorTree * \&gt;" alt="" coords="719,1061,879,1102"/>
+<area shape="rect" id="node36" href="$structllvm_1_1GraphTraits_3_01Inverse_3_01const_01MachineFunction_01_5_01_4_01_4.html" title="llvm::GraphTraits\&lt;\l Inverse\&lt; const MachineFunction * \&gt; \&gt;" alt="" coords="675,1126,924,1167"/>
+<area shape="rect" id="node38" href="$structllvm_1_1GraphTraits_3_01const_01DataDependenceGraph_01_5_01_4.html" title="llvm::GraphTraits\&lt;\l const DataDependenceGraph * \&gt;" alt="" coords="690,1191,909,1233"/>
+<area shape="rect" id="node40" href="$structllvm_1_1GraphTraits_3_01const_01CallGraph_01_5_01_4.html" title="llvm::GraphTraits\&lt;\l const CallGraph * \&gt;" alt="" coords="729,1257,870,1298"/>
+<area shape="rect" id="node42" href="$structllvm_1_1GraphTraits_3_01VPRegionBlock_01_5_01_4.html" title="llvm::GraphTraits\&lt;\l VPRegionBlock * \&gt;" alt="" coords="730,1322,869,1363"/>
+<area shape="rect" id="node44" href="$structllvm_1_1GraphTraits_3_01MachineRegionInfo_01_5_01_4.html" title="llvm::GraphTraits\&lt;\l MachineRegionInfo * \&gt;" alt="" coords="720,1387,879,1429"/>
+</map>

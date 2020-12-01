@@ -1,0 +1,16 @@
+<map id="lib/Target/Lanai/LanaiFrameLowering.h" name="lib/Target/Lanai/LanaiFrameLowering.h">
+<area shape="rect" id="node2" href="$LanaiTargetMachine_8h.html" title="lib/Target/Lanai/LanaiTarget\lMachine.h" alt="" coords="649,184,832,225"/>
+<area shape="rect" id="node11" href="$LanaiSubtarget_8h.html" title="lib/Target/Lanai/LanaiSubtarget.h" alt="" coords="814,102,1027,129"/>
+<area shape="rect" id="node12" href="$LanaiFrameLowering_8cpp.html" title="lib/Target/Lanai/LanaiFrame\lLowering.cpp" alt="" coords="1404,184,1587,225"/>
+<area shape="rect" id="node15" href="$LanaiRegisterInfo_8cpp.html" title="lib/Target/Lanai/LanaiRegister\lInfo.cpp" alt="" coords="1102,95,1297,136"/>
+<area shape="rect" id="node3" href="$LanaiAsmPrinter_8cpp.html" title="lib/Target/Lanai/LanaiAsm\lPrinter.cpp" alt="" coords="199,273,373,315"/>
+<area shape="rect" id="node4" href="$LanaiDelaySlotFiller_8cpp.html" title="lib/Target/Lanai/LanaiDelay\lSlotFiller.cpp" alt="" coords="397,273,577,315"/>
+<area shape="rect" id="node5" href="$LanaiISelDAGToDAG_8cpp.html" title="lib/Target/Lanai/LanaiISel\lDAGToDAG.cpp" alt="" coords="5,273,175,315"/>
+<area shape="rect" id="node6" href="$LanaiMemAluCombiner_8cpp.html" title="lib/Target/Lanai/LanaiMem\lAluCombiner.cpp" alt="" coords="653,273,828,315"/>
+<area shape="rect" id="node7" href="$LanaiSelectionDAGInfo_8cpp.html" title="lib/Target/Lanai/LanaiSelection\lDAGInfo.cpp" alt="" coords="853,273,1053,315"/>
+<area shape="rect" id="node8" href="$LanaiTargetMachine_8cpp.html" title="lib/Target/Lanai/LanaiTarget\lMachine.cpp" alt="" coords="800,363,983,404"/>
+<area shape="rect" id="node9" href="$LanaiTargetTransformInfo_8h.html" title="lib/Target/Lanai/LanaiTarget\lTransformInfo.h" alt="" coords="1077,273,1260,315"/>
+<area shape="rect" id="node10" href="$LanaiTargetObjectFile_8cpp.html" title="lib/Target/Lanai/LanaiTarget\lObjectFile.cpp" alt="" coords="1284,273,1467,315"/>
+<area shape="rect" id="node13" href="$LanaiISelLowering_8cpp.html" title="lib/Target/Lanai/LanaiISel\lLowering.cpp" alt="" coords="959,184,1128,225"/>
+<area shape="rect" id="node14" href="$LanaiSubtarget_8cpp.html" title="lib/Target/Lanai/LanaiSubtarget.cpp" alt="" coords="1153,191,1379,218"/>
+</map>

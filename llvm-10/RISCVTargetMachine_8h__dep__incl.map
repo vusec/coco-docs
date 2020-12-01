@@ -1,0 +1,14 @@
+<map id="lib/Target/RISCV/RISCVTargetMachine.h" name="lib/Target/RISCV/RISCVTargetMachine.h">
+<area shape="rect" id="node2" href="$RISCVAsmPrinter_8cpp.html" title="lib/Target/RISCV/RISCVAsm\lPrinter.cpp" alt="" coords="5,95,200,136"/>
+<area shape="rect" id="node3" href="$RISCVExpandPseudoInsts_8cpp.html" title="lib/Target/RISCV/RISCVExpand\lPseudoInsts.cpp" alt="" coords="225,95,437,136"/>
+<area shape="rect" id="node4" href="$RISCVInstrInfo_8cpp.html" title="lib/Target/RISCV/RISCVInstr\lInfo.cpp" alt="" coords="461,95,656,136"/>
+<area shape="rect" id="node5" href="$RISCVInstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for RISCV. " alt="" coords="680,95,909,136"/>
+<area shape="rect" id="node6" href="$RISCVISelDAGToDAG_8cpp.html" title="lib/Target/RISCV/RISCVISel\lDAGToDAG.cpp" alt="" coords="934,95,1125,136"/>
+<area shape="rect" id="node7" href="$RISCVISelLowering_8cpp.html" title="lib/Target/RISCV/RISCVISel\lLowering.cpp" alt="" coords="1149,95,1339,136"/>
+<area shape="rect" id="node8" href="$RISCVMergeBaseOffset_8cpp.html" title="lib/Target/RISCV/RISCVMerge\lBaseOffset.cpp" alt="" coords="1363,95,1567,136"/>
+<area shape="rect" id="node9" href="$RISCVSubtarget_8cpp.html" title="lib/Target/RISCV/RISCVSubtarget.cpp" alt="" coords="1591,102,1841,129"/>
+<area shape="rect" id="node10" href="$RISCVTargetMachine_8cpp.html" title="lib/Target/RISCV/RISCVTarget\lMachine.cpp" alt="" coords="1775,184,1980,225"/>
+<area shape="rect" id="node11" href="$RISCVTargetTransformInfo_8h.html" title="This file defines a TargetTransformInfo::Concept conforming object specific to the RISC&#45;V target mach..." alt="" coords="1915,95,2120,136"/>
+<area shape="rect" id="node13" href="$RISCVTargetObjectFile_8cpp.html" title="lib/Target/RISCV/RISCVTarget\lObjectFile.cpp" alt="" coords="2144,95,2349,136"/>
+<area shape="rect" id="node12" href="$RISCVTargetTransformInfo_8cpp.html" title="lib/Target/RISCV/RISCVTarget\lTransformInfo.cpp" alt="" coords="2004,184,2209,225"/>
+</map>

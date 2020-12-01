@@ -1,0 +1,45 @@
+<map id="include/llvm/Transforms/Scalar/SimplifyCFG.h" name="include/llvm/Transforms/Scalar/SimplifyCFG.h">
+<area shape="rect" id="node2" href="$Transforms_2Utils_2Local_8h.html" title="llvm/Transforms/Utils\l/Local.h" alt="" coords="3077,95,3224,136"/>
+<area shape="rect" id="node17" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="2231,505,2361,531"/>
+<area shape="rect" id="node37" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM. " alt="" coords="1371,333,1530,360"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="3128,885,3272,912"/>
+<area shape="rect" id="node4" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2779,960,2941,987"/>
+<area shape="rect" id="node10" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1604,960,1759,987"/>
+<area shape="rect" id="node13" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="4861,960,5024,987"/>
+<area shape="rect" id="node14" href="$TinyPtrVector_8h.html" title="llvm/ADT/TinyPtrVector.h" alt="" coords="2678,811,2850,837"/>
+<area shape="rect" id="node15" href="$AliasAnalysis_8h.html" title="llvm/Analysis/AliasAnalysis.h" alt="" coords="2715,259,2909,285"/>
+<area shape="rect" id="node25" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="1349,885,1461,912"/>
+<area shape="rect" id="node26" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="3517,960,3672,987"/>
+<area shape="rect" id="node31" href="$Type_8h.html" title="llvm/IR/Type.h" alt="" coords="3974,811,4082,837"/>
+<area shape="rect" id="node34" href="$Constant_8h.html" title="llvm/IR/Constant.h" alt="" coords="3825,736,3957,763"/>
+<area shape="rect" id="node35" href="$User_8h.html" title="llvm/IR/User.h" alt="" coords="4208,811,4315,837"/>
+<area shape="rect" id="node39" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="2963,661,3109,688"/>
+<area shape="rect" id="node45" href="$DomTreeUpdater_8h.html" title="llvm/Analysis/DomTreeUpdater.h" alt="" coords="2551,184,2766,211"/>
+<area shape="rect" id="node46" href="$Dominators_8h.html" title="llvm/IR/Dominators.h" alt="" coords="2544,259,2691,285"/>
+<area shape="rect" id="node47" href="$Analysis_2Utils_2Local_8h.html" title="llvm/Analysis/Utils\l/Local.h" alt="" coords="3085,408,3216,449"/>
+<area shape="rect" id="node48" href="$GetElementPtrTypeIterator_8h.html" title="llvm/IR/GetElementPtrType\lIterator.h" alt="" coords="4399,497,4582,539"/>
+<area shape="rect" id="node49" href="$Operator_8h.html" title="llvm/IR/Operator.h" alt="" coords="3926,587,4055,613"/>
+<area shape="rect" id="node50" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="3921,661,4060,688"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="4920,1035,5083,1061"/>
+<area shape="rect" id="node5" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="536,1035,707,1061"/>
+<area shape="rect" id="node16" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="4581,960,4736,987"/>
+<area shape="rect" id="node43" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="420,415,511,442"/>
+<area shape="rect" id="node18" href="$DenseSet_8h.html" title="llvm/ADT/DenseSet.h" alt="" coords="4481,885,4631,912"/>
+<area shape="rect" id="node19" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1645,811,1792,837"/>
+<area shape="rect" id="node21" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="2273,736,2399,763"/>
+<area shape="rect" id="node22" href="$ilist__node_8h.html" title="llvm/ADT/ilist_node.h" alt="" coords="1384,736,1531,763"/>
+<area shape="rect" id="node23" href="$Argument_8h.html" title="llvm/IR/Argument.h" alt="" coords="1602,661,1737,688"/>
+<area shape="rect" id="node24" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="1809,736,1943,763"/>
+<area shape="rect" id="node27" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="2491,661,2637,688"/>
+<area shape="rect" id="node28" href="$SymbolTableListTraits_8h.html" title="llvm/IR/SymbolTableListTraits.h" alt="" coords="4625,736,4834,763"/>
+<area shape="rect" id="node29" href="$CallingConv_8h.html" title="llvm/IR/CallingConv.h" alt="" coords="2435,587,2586,613"/>
+<area shape="rect" id="node30" href="$DerivedTypes_8h.html" title="llvm/IR/DerivedTypes.h" alt="" coords="3387,736,3547,763"/>
+<area shape="rect" id="node32" href="$GlobalObject_8h.html" title="llvm/IR/GlobalObject.h" alt="" coords="1941,587,2096,613"/>
+<area shape="rect" id="node33" href="$GlobalValue_8h.html" title="llvm/IR/GlobalValue.h" alt="" coords="2171,661,2320,688"/>
+<area shape="rect" id="node36" href="$OperandTraits_8h.html" title="llvm/IR/OperandTraits.h" alt="" coords="4387,736,4549,763"/>
+<area shape="rect" id="node38" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="1482,415,1603,442"/>
+<area shape="rect" id="node40" href="$PassInstrumentation_8h.html" title="This file defines the Pass Instrumentation classes that provide instrumentation points into the pass ..." alt="" coords="1259,415,1458,442"/>
+<area shape="rect" id="node41" href="$TypeName_8h.html" title="llvm/Support/TypeName.h" alt="" coords="839,505,1014,531"/>
+<area shape="rect" id="node42" href="$PassManagerInternal_8h.html" title="This header provides internal APIs and implementation details used by the pass management interfaces ..." alt="" coords="651,736,853,763"/>
+<area shape="rect" id="node44" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="1679,415,1827,442"/>
+</map>

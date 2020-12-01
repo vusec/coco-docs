@@ -1,0 +1,4 @@
+<map id="llvm::IDFCalculatorBase&lt; NodeTy, IsPostDom &gt;" name="llvm::IDFCalculatorBase&lt; NodeTy, IsPostDom &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1IDFCalculatorBase.html" title="llvm::IDFCalculatorBase\l\&lt; BasicBlock, IsPostDom \&gt;" alt="" coords="5,109,192,151"/>
+<area shape="rect" id="node3" href="$classllvm_1_1IDFCalculator.html" title="llvm::IDFCalculator\l\&lt; IsPostDom \&gt;" alt="" coords="31,200,166,241"/>
+</map>

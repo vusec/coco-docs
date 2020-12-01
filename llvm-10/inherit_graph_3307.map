@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structllvm_1_1MinidumpYAML_1_1Stream.html" title="The base class for all minidump streams. " alt="" coords="5,185,152,226"/>
+<area shape="rect" id="node2" href="$structllvm_1_1MinidumpYAML_1_1detail_1_1ListStream.html" title="A stream representing a list of abstract entries in a minidump stream. " alt="" coords="208,5,355,61"/>
+<area shape="rect" id="node3" href="$structllvm_1_1MinidumpYAML_1_1ExceptionStream.html" title="ExceptionStream minidump stream. " alt="" coords="208,86,355,127"/>
+<area shape="rect" id="node4" href="$structllvm_1_1MinidumpYAML_1_1MemoryInfoListStream.html" title="A structure containing the list of MemoryInfo entries comprising a MemoryInfoList stream..." alt="" coords="200,151,363,193"/>
+<area shape="rect" id="node5" href="$structllvm_1_1MinidumpYAML_1_1RawContentStream.html" title="A minidump stream represented as a sequence of hex bytes. " alt="" coords="208,217,355,258"/>
+<area shape="rect" id="node6" href="$structllvm_1_1MinidumpYAML_1_1SystemInfoStream.html" title="SystemInfo minidump stream. " alt="" coords="208,282,355,323"/>
+<area shape="rect" id="node7" href="$structllvm_1_1MinidumpYAML_1_1TextContentStream.html" title="A StringRef, which is printed using YAML block notation. " alt="" coords="208,347,355,389"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="lib/CodeGen/SelectionDAG/LegalizeTypes.h" name="lib/CodeGen/SelectionDAG/LegalizeTypes.h">
+<area shape="rect" id="node2" href="$LegalizeFloatTypes_8cpp.html" title="lib/CodeGen/SelectionDAG\l/LegalizeFloatTypes.cpp" alt="" coords="5,95,187,136"/>
+<area shape="rect" id="node3" href="$LegalizeIntegerTypes_8cpp.html" title="lib/CodeGen/SelectionDAG\l/LegalizeIntegerTypes.cpp" alt="" coords="211,95,392,136"/>
+<area shape="rect" id="node4" href="$LegalizeTypes_8cpp.html" title="lib/CodeGen/SelectionDAG\l/LegalizeTypes.cpp" alt="" coords="416,95,597,136"/>
+<area shape="rect" id="node5" href="$LegalizeTypesGeneric_8cpp.html" title="lib/CodeGen/SelectionDAG\l/LegalizeTypesGeneric.cpp" alt="" coords="621,95,803,136"/>
+<area shape="rect" id="node6" href="$LegalizeVectorTypes_8cpp.html" title="lib/CodeGen/SelectionDAG\l/LegalizeVectorTypes.cpp" alt="" coords="827,95,1008,136"/>
+</map>

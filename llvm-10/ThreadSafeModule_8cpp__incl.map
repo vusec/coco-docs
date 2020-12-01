@@ -1,0 +1,42 @@
+<map id="lib/ExecutionEngine/Orc/ThreadSafeModule.cpp" name="lib/ExecutionEngine/Orc/ThreadSafeModule.cpp">
+<area shape="rect" id="node2" href="$ThreadSafeModule_8h.html" title="llvm/ExecutionEngine\l/Orc/ThreadSafeModule.h" alt="" coords="155,169,325,211"/>
+<area shape="rect" id="node34" href="$BitcodeReader_8h.html" title="llvm/Bitcode/BitcodeReader.h" alt="" coords="4008,95,4203,121"/>
+<area shape="rect" id="node42" href="$BitcodeWriter_8h.html" title="llvm/Bitcode/BitcodeWriter.h" alt="" coords="2822,95,3010,121"/>
+<area shape="rect" id="node44" href="$Cloning_8h.html" title="llvm/Transforms/Utils\l/Cloning.h" alt="" coords="5536,259,5683,300"/>
+<area shape="rect" id="node3" href="$LLVMContext_8h.html" title="llvm/IR/LLVMContext.h" alt="" coords="649,430,807,457"/>
+<area shape="rect" id="node9" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3965,811,4128,837"/>
+<area shape="rect" id="node17" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="2209,266,2330,293"/>
+<area shape="rect" id="node4" href="$c_2Types_8h.html" title="llvm&#45;c/Types.h" alt="" coords="1326,587,1434,613"/>
+<area shape="rect" id="node5" href="$DiagnosticHandler_8h.html" title="llvm/IR/DiagnosticHandler.h" alt="" coords="816,512,1003,539"/>
+<area shape="rect" id="node15" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="1344,512,1563,539"/>
+<area shape="rect" id="node6" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2397,587,2544,613"/>
+<area shape="rect" id="node7" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2448,661,2603,688"/>
+<area shape="rect" id="node11" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="2440,736,2611,763"/>
+<area shape="rect" id="node8" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3869,736,4009,763"/>
+<area shape="rect" id="node18" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="2366,512,2517,539"/>
+<area shape="rect" id="node21" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="3606,512,3741,539"/>
+<area shape="rect" id="node25" href="$IR_2Comdat_8h.html" title="This file contains the declaration of the Comdat class, which represents a single COMDAT in LLVM..." alt="" coords="1336,430,1461,457"/>
+<area shape="rect" id="node26" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="2093,512,2240,539"/>
+<area shape="rect" id="node27" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="5003,430,5133,457"/>
+<area shape="rect" id="node29" href="$GlobalAlias_8h.html" title="llvm/IR/GlobalAlias.h" alt="" coords="1913,348,2058,375"/>
+<area shape="rect" id="node30" href="$GlobalIFunc_8h.html" title="llvm/IR/GlobalIFunc.h" alt="" coords="2083,348,2232,375"/>
+<area shape="rect" id="node31" href="$GlobalVariable_8h.html" title="llvm/IR/GlobalVariable.h" alt="" coords="3637,430,3800,457"/>
+<area shape="rect" id="node32" href="$Metadata_8h.html" title="This file contains the declarations for metadata subclasses. " alt="" coords="1653,348,1787,375"/>
+<area shape="rect" id="node19" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="3099,587,3261,613"/>
+<area shape="rect" id="node20" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="4076,661,4239,688"/>
+<area shape="rect" id="node22" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="3285,587,3429,613"/>
+<area shape="rect" id="node28" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="3918,512,4045,539"/>
+<area shape="rect" id="node35" href="$BitCodes_8h.html" title="llvm/Bitstream/BitCodes.h" alt="" coords="3941,177,4115,203"/>
+<area shape="rect" id="node36" href="$ModuleSummaryIndex_8h.html" title="ModuleSummaryIndex.h This file contains the declarations the classes that hold the module index and s..." alt="" coords="3191,177,3401,203"/>
+<area shape="rect" id="node37" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="5563,661,5714,688"/>
+<area shape="rect" id="node38" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="4392,430,4531,457"/>
+<area shape="rect" id="node39" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer. " alt="" coords="4120,512,4272,539"/>
+<area shape="rect" id="node41" href="$MemoryBuffer_8h.html" title="llvm/Support/MemoryBuffer.h" alt="" coords="2459,430,2651,457"/>
+<area shape="rect" id="node43" href="$StringTableBuilder_8h.html" title="llvm/MC/StringTableBuilder.h" alt="" coords="1027,512,1219,539"/>
+<area shape="rect" id="node45" href="$AliasAnalysis_8h.html" title="llvm/Analysis/AliasAnalysis.h" alt="" coords="6004,348,6199,375"/>
+<area shape="rect" id="node46" href="$AssumptionCache_8h.html" title="llvm/Analysis/Assumption\lCache.h" alt="" coords="5525,423,5699,464"/>
+<area shape="rect" id="node47" href="$ValueHandle_8h.html" title="llvm/IR/ValueHandle.h" alt="" coords="5766,512,5919,539"/>
+<area shape="rect" id="node48" href="$InlineCost_8h.html" title="llvm/Analysis/InlineCost.h" alt="" coords="5579,348,5754,375"/>
+<area shape="rect" id="node49" href="$CallSite_8h.html" title="llvm/IR/CallSite.h" alt="" coords="5189,348,5315,375"/>
+<area shape="rect" id="node50" href="$ValueMapper_8h.html" title="llvm/Transforms/Utils\l/ValueMapper.h" alt="" coords="5723,423,5869,464"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="lib/Target/Mips/MCTargetDesc/MipsABIInfo.h" name="lib/Target/Mips/MCTargetDesc/MipsABIInfo.h">
+<area shape="rect" id="node2" href="$MipsAsmParser_8cpp.html" title="lib/Target/Mips/AsmParser\l/MipsAsmParser.cpp" alt="" coords="5,184,183,225"/>
+<area shape="rect" id="node3" href="$MipsABIInfo_8cpp.html" title="lib/Target/Mips/MCTarget\lDesc/MipsABIInfo.cpp" alt="" coords="5254,95,5425,136"/>
+<area shape="rect" id="node4" href="$MipsAsmBackend_8cpp.html" title="lib/Target/Mips/MCTarget\lDesc/MipsAsmBackend.cpp" alt="" coords="5449,95,5637,136"/>
+<area shape="rect" id="node5" href="$MipsMCAsmInfo_8cpp.html" title="lib/Target/Mips/MCTarget\lDesc/MipsMCAsmInfo.cpp" alt="" coords="5661,95,5841,136"/>
+<area shape="rect" id="node6" href="$MipsOptionRecord_8cpp.html" title="lib/Target/Mips/MCTarget\lDesc/MipsOptionRecord.cpp" alt="" coords="207,184,397,225"/>
+<area shape="rect" id="node7" href="$MipsTargetStreamer_8cpp.html" title="lib/Target/Mips/MCTarget\lDesc/MipsTargetStreamer.cpp" alt="" coords="422,184,622,225"/>
+<area shape="rect" id="node8" href="$MipsSubtarget_8h.html" title="lib/Target/Mips/MipsSubtarget.h" alt="" coords="3672,191,3879,218"/>
+<area shape="rect" id="node11" href="$MipsTargetMachine_8h.html" title="lib/Target/Mips/MipsTarget\lMachine.h" alt="" coords="2553,273,2731,315"/>
+<area shape="rect" id="node15" href="$MipsTargetMachine_8cpp.html" title="lib/Target/Mips/MipsTarget\lMachine.cpp" alt="" coords="3591,541,3768,583"/>
+<area shape="rect" id="node17" href="$MipsAsmPrinter_8cpp.html" title="lib/Target/Mips/MipsAsmPrinter.cpp" alt="" coords="963,370,1193,397"/>
+<area shape="rect" id="node18" href="$MipsBranchExpansion_8cpp.html" title="This pass do two things: " alt="" coords="4859,363,5041,404"/>
+<area shape="rect" id="node20" href="$MipsFastISel_8cpp.html" title="This file defines the MIPS&#45;specific support for the FastISel class. " alt="" coords="1217,363,1384,404"/>
+<area shape="rect" id="node25" href="$MipsMachineFunction_8cpp.html" title="lib/Target/Mips/MipsMachine\lFunction.cpp" alt="" coords="5329,363,5518,404"/>
+<area shape="rect" id="node29" href="$MipsRegisterInfo_8cpp.html" title="lib/Target/Mips/MipsRegister\lInfo.cpp" alt="" coords="5065,363,5254,404"/>
+<area shape="rect" id="node42" href="$MipsSEFrameLowering_8cpp.html" title="lib/Target/Mips/MipsSEFrame\lLowering.cpp" alt="" coords="4883,273,5078,315"/>
+<area shape="rect" id="node44" href="$MipsISelLowering_8h.html" title="lib/Target/Mips/MipsISel\lLowering.h" alt="" coords="1718,95,1881,136"/>
+<area shape="rect" id="node48" href="$MipsTargetStreamer_8h.html" title="lib/Target/Mips/MipsTarget\lStreamer.h" alt="" coords="651,95,828,136"/>
+<area shape="rect" id="node9" href="$MicroMipsSizeReduction_8cpp.html" title="This pass is used to reduce the size of instructions where applicable. " alt="" coords="4308,273,4480,315"/>
+<area shape="rect" id="node10" href="$Mips16FrameLowering_8cpp.html" title="lib/Target/Mips/Mips16Frame\lLowering.cpp" alt="" coords="3788,273,3979,315"/>
+<area shape="rect" id="node13" href="$MipsISelDAGToDAG_8h.html" title="lib/Target/Mips/MipsISel\lDAGToDAG.h" alt="" coords="3993,363,4155,404"/>
+<area shape="rect" id="node23" href="$MipsISelLowering_8cpp.html" title="lib/Target/Mips/MipsISel\lLowering.cpp" alt="" coords="1610,363,1773,404"/>
+<area shape="rect" id="node31" href="$MipsSERegisterInfo_8cpp.html" title="lib/Target/Mips/MipsSERegister\lInfo.cpp" alt="" coords="4180,363,4387,404"/>
+<area shape="rect" id="node32" href="$MipsSubtarget_8cpp.html" title="lib/Target/Mips/MipsSubtarget.cpp" alt="" coords="4411,370,4633,397"/>
+<area shape="rect" id="node33" href="$MipsTargetObjectFile_8cpp.html" title="lib/Target/Mips/MipsTarget\lObjectFile.cpp" alt="" coords="4657,363,4835,404"/>
+<area shape="rect" id="node34" href="$Mips16RegisterInfo_8cpp.html" title="lib/Target/Mips/Mips16Register\lInfo.cpp" alt="" coords="4555,273,4758,315"/>
+<area shape="rect" id="node35" href="$MipsAsmPrinter_8h.html" title="lib/Target/Mips/MipsAsmPrinter.h" alt="" coords="1914,281,2130,307"/>
+<area shape="rect" id="node36" href="$MipsCCState_8cpp.html" title="lib/Target/Mips/MipsCCState.cpp" alt="" coords="3526,370,3742,397"/>
+<area shape="rect" id="node37" href="$MipsConstantIslandPass_8cpp.html" title="lib/Target/Mips/MipsConstant\lIslandPass.cpp" alt="" coords="2755,273,2948,315"/>
+<area shape="rect" id="node38" href="$MipsDelaySlotFiller_8cpp.html" title="lib/Target/Mips/MipsDelay\lSlotFiller.cpp" alt="" coords="2972,273,3147,315"/>
+<area shape="rect" id="node39" href="$MipsExpandPseudo_8cpp.html" title="lib/Target/Mips/MipsExpand\lPseudo.cpp" alt="" coords="3171,273,3355,315"/>
+<area shape="rect" id="node40" href="$MipsInstrInfo_8cpp.html" title="lib/Target/Mips/MipsInstr\lInfo.cpp" alt="" coords="3380,273,3547,315"/>
+<area shape="rect" id="node41" href="$MipsOptimizePICCall_8cpp.html" title="lib/Target/Mips/MipsOptimize\lPICCall.cpp" alt="" coords="3571,273,3763,315"/>
+<area shape="rect" id="node43" href="$MipsSEISelLowering_8cpp.html" title="lib/Target/Mips/MipsSEISel\lLowering.cpp" alt="" coords="1709,273,1890,315"/>
+<area shape="rect" id="node12" href="$Mips16HardFloat_8cpp.html" title="lib/Target/Mips/Mips16Hard\lFloat.cpp" alt="" coords="3065,363,3248,404"/>
+<area shape="rect" id="node16" href="$Mips16ISelLowering_8cpp.html" title="lib/Target/Mips/Mips16ISel\lLowering.cpp" alt="" coords="1408,363,1585,404"/>
+<area shape="rect" id="node19" href="$MipsCallLowering_8cpp.html" title="This file implements the lowering of LLVM calls to machine code calls for GlobalISel. " alt="" coords="1797,363,1959,404"/>
+<area shape="rect" id="node21" href="$MipsFrameLowering_8cpp.html" title="lib/Target/Mips/MipsFrame\lLowering.cpp" alt="" coords="3324,363,3501,404"/>
+<area shape="rect" id="node22" href="$MipsInstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for Mips. " alt="" coords="3767,363,3968,404"/>
+<area shape="rect" id="node24" href="$MipsLegalizerInfo_8cpp.html" title="This file implements the targeting of the Machinelegalizer class for Mips. " alt="" coords="1983,363,2175,404"/>
+<area shape="rect" id="node26" href="$MipsModuleISelDAGToDAG_8cpp.html" title="lib/Target/Mips/MipsModule\lISelDAGToDAG.cpp" alt="" coords="2200,363,2383,404"/>
+<area shape="rect" id="node27" href="$MipsPreLegalizerCombiner_8cpp.html" title="lib/Target/Mips/MipsPreLegalizer\lCombiner.cpp" alt="" coords="2407,363,2619,404"/>
+<area shape="rect" id="node28" href="$MipsRegisterBankInfo_8cpp.html" title="This file implements the targeting of the RegisterBankInfo class for Mips. " alt="" coords="2643,363,2833,404"/>
+<area shape="rect" id="node30" href="$MipsSEInstrInfo_8cpp.html" title="lib/Target/Mips/MipsSEInstr\lInfo.cpp" alt="" coords="2857,363,3041,404"/>
+<area shape="rect" id="node14" href="$Mips16ISelDAGToDAG_8h.html" title="lib/Target/Mips/Mips16ISel\lDAGToDAG.h" alt="" coords="3788,452,3965,493"/>
+<area shape="rect" id="node45" href="$Mips16ISelLowering_8h.html" title="lib/Target/Mips/Mips16ISel\lLowering.h" alt="" coords="1451,184,1628,225"/>
+<area shape="rect" id="node46" href="$MipsCCState_8h.html" title="lib/Target/Mips/MipsCCState.h" alt="" coords="2306,281,2509,307"/>
+<area shape="rect" id="node47" href="$MipsSEISelLowering_8h.html" title="lib/Target/Mips/MipsSEISel\lLowering.h" alt="" coords="1709,184,1890,225"/>
+<area shape="rect" id="node49" href="$MipsELFStreamer_8cpp.html" title="lib/Target/Mips/MCTarget\lDesc/MipsELFStreamer.cpp" alt="" coords="646,184,833,225"/>
+<area shape="rect" id="node50" href="$MipsMCTargetDesc_8cpp.html" title="lib/Target/Mips/MCTarget\lDesc/MipsMCTargetDesc.cpp" alt="" coords="857,184,1056,225"/>
+</map>

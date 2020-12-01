@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1orc_1_1SpeculateQuery.html" title="llvm::orc::SpeculateQuery" alt="" coords="5,31,179,57"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1BlockFreqQuery.html" title="llvm::orc::BlockFreqQuery" alt="" coords="235,5,409,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1SequenceBBQuery.html" title="llvm::orc::SequenceBBQuery" alt="" coords="227,56,417,83"/>
+</map>

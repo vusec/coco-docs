@@ -1,0 +1,42 @@
+<map id="lib/Target/AArch64/AArch64MacroFusion.cpp" name="lib/Target/AArch64/AArch64MacroFusion.cpp">
+<area shape="rect" id="node2" href="$AArch64Subtarget_8h.html" title="AArch64Subtarget.h" alt="" coords="1561,95,1700,121"/>
+<area shape="rect" id="node35" href="$TargetInstrInfo_8h.html" title="llvm/CodeGen/TargetInstr\lInfo.h" alt="" coords="2710,244,2882,285"/>
+<area shape="rect" id="node50" href="$MacroFusion_8h.html" title="llvm/CodeGen/MacroFusion.h" alt="" coords="4185,519,4380,546"/>
+<area shape="rect" id="node3" href="$AArch64FrameLowering_8h.html" title="AArch64FrameLowering.h" alt="" coords="1973,169,2145,196"/>
+<area shape="rect" id="node22" href="$AArch64ISelLowering_8h.html" title="AArch64ISelLowering.h" alt="" coords="1005,169,1163,196"/>
+<area shape="rect" id="node30" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="1080,430,1227,457"/>
+<area shape="rect" id="node32" href="$AArch64InstrInfo_8h.html" title="AArch64InstrInfo.h" alt="" coords="1796,169,1927,196"/>
+<area shape="rect" id="node33" href="$AArch64RegisterInfo_8h.html" title="AArch64RegisterInfo.h" alt="" coords="1763,251,1917,278"/>
+<area shape="rect" id="node43" href="$AArch64SelectionDAGInfo_8h.html" title="AArch64SelectionDAGInfo.h" alt="" coords="1342,169,1530,196"/>
+<area shape="rect" id="node44" href="$CallLowering_8h.html" title="This file describes how to lower LLVM calls to machine code calls. " alt="" coords="153,244,322,285"/>
+<area shape="rect" id="node45" href="$InstructionSelector_8h.html" title="llvm/CodeGen/GlobalISel\l/InstructionSelector.h" alt="" coords="1801,512,1970,553"/>
+<area shape="rect" id="node46" href="$LegalizerInfo_8h.html" title="llvm/CodeGen/GlobalISel\l/LegalizerInfo.h" alt="" coords="3882,333,4051,375"/>
+<area shape="rect" id="node47" href="$RegisterBankInfo_8h.html" title="llvm/CodeGen/GlobalISel\l/RegisterBankInfo.h" alt="" coords="4110,423,4279,464"/>
+<area shape="rect" id="node48" href="$TargetSubtargetInfo_8h.html" title="llvm/CodeGen/TargetSubtarget\lInfo.h" alt="" coords="605,825,808,867"/>
+<area shape="rect" id="node4" href="$AArch64StackOffset_8h.html" title="AArch64StackOffset.h" alt="" coords="1993,251,2146,278"/>
+<area shape="rect" id="node5" href="$TargetFrameLowering_8h.html" title="llvm/CodeGen/TargetFrame\lLowering.h" alt="" coords="2130,423,2313,464"/>
+<area shape="rect" id="node6" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="2451,512,2642,553"/>
+<area shape="rect" id="node7" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="3224,601,3419,628"/>
+<area shape="rect" id="node19" href="$BranchProbability_8h.html" title="llvm/Support/BranchProbability.h" alt="" coords="3443,601,3655,628"/>
+<area shape="rect" id="node8" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="2319,833,2497,859"/>
+<area shape="rect" id="node17" href="$MachineOperand_8h.html" title="llvm/CodeGen/MachineOperand.h" alt="" coords="3537,676,3756,703"/>
+<area shape="rect" id="node9" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1065,915,1209,941"/>
+<area shape="rect" id="node10" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="1315,989,1437,1016"/>
+<area shape="rect" id="node18" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2596,751,2751,777"/>
+<area shape="rect" id="node23" href="$AArch64_8h.html" title="AArch64.h" alt="" coords="1656,251,1739,278"/>
+<area shape="rect" id="node24" href="$CallingConvLower_8h.html" title="llvm/CodeGen/CallingConv\lLower.h" alt="" coords="398,333,578,375"/>
+<area shape="rect" id="node27" href="$CallingConv_8h.html" title="llvm/IR/CallingConv.h" alt="" coords="297,430,447,457"/>
+<area shape="rect" id="node28" href="$SelectionDAG_8h.html" title="llvm/CodeGen/SelectionDAG.h" alt="" coords="805,341,1008,367"/>
+<area shape="rect" id="node29" href="$TargetLowering_8h.html" title="This file describes how to lower LLVM code to machine code. " alt="" coords="979,251,1189,278"/>
+<area shape="rect" id="node31" href="$IR_2Instruction_8h.html" title="llvm/IR/Instruction.h" alt="" coords="1289,833,1429,859"/>
+<area shape="rect" id="node25" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="2863,430,3081,457"/>
+<area shape="rect" id="node26" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1587,519,1776,546"/>
+<area shape="rect" id="node34" href="$MachineCombinerPattern_8h.html" title="llvm/CodeGen/MachineCombiner\lPattern.h" alt="" coords="1657,333,1871,375"/>
+<area shape="rect" id="node36" href="$LiveRegUnits_8h.html" title="A set of register units. " alt="" coords="2438,430,2637,457"/>
+<area shape="rect" id="node37" href="$MIRFormatter_8h.html" title="llvm/CodeGen/MIRFormatter.h" alt="" coords="3406,341,3607,367"/>
+<area shape="rect" id="node38" href="$PseudoSourceValue_8h.html" title="llvm/CodeGen/PseudoSource\lValue.h" alt="" coords="3409,423,3604,464"/>
+<area shape="rect" id="node39" href="$MachineInstrBuilder_8h.html" title="llvm/CodeGen/MachineInstr\lBuilder.h" alt="" coords="3064,333,3248,375"/>
+<area shape="rect" id="node40" href="$MachineOutliner_8h.html" title="Contains all data structures shared between the outliner implemented in MachineOutliner.cpp and target implementations of the outliner. " alt="" coords="2762,341,2977,367"/>
+<area shape="rect" id="node41" href="$VirtRegMap_8h.html" title="llvm/CodeGen/VirtRegMap.h" alt="" coords="4556,676,4745,703"/>
+<area shape="rect" id="node42" href="$MCInstrInfo_8h.html" title="llvm/MC/MCInstrInfo.h" alt="" coords="4676,751,4831,777"/>
+</map>

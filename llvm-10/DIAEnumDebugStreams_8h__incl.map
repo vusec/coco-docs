@@ -1,0 +1,18 @@
+<map id="include/llvm/DebugInfo/PDB/DIA/DIAEnumDebugStreams.h" name="include/llvm/DebugInfo/PDB/DIA/DIAEnumDebugStreams.h">
+<area shape="rect" id="node2" href="$DIASupport_8h.html" title="DIASupport.h" alt="" coords="237,102,338,129"/>
+<area shape="rect" id="node8" href="$IPDBDataStream_8h.html" title="llvm/DebugInfo/PDB\l/IPDBDataStream.h" alt="" coords="735,95,877,136"/>
+<area shape="rect" id="node44" href="$IPDBEnumChildren_8h.html" title="llvm/DebugInfo/PDB\l/IPDBEnumChildren.h" alt="" coords="912,95,1063,136"/>
+<area shape="rect" id="node9" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="731,184,871,211"/>
+<area shape="rect" id="node20" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1638,184,1801,211"/>
+<area shape="rect" id="node10" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="559,259,682,285"/>
+<area shape="rect" id="node11" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1603,408,1766,435"/>
+<area shape="rect" id="node14" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1023,259,1194,285"/>
+<area shape="rect" id="node21" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1269,259,1439,285"/>
+<area shape="rect" id="node23" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2617,333,2771,360"/>
+<area shape="rect" id="node25" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="2061,259,2239,285"/>
+<area shape="rect" id="node38" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="1514,259,1682,285"/>
+<area shape="rect" id="node39" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="891,333,1081,360"/>
+<area shape="rect" id="node26" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="2305,333,2507,360"/>
+<area shape="rect" id="node27" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="2391,408,2565,435"/>
+<area shape="rect" id="node28" href="$c_2DataTypes_8h.html" title="llvm&#45;c/DataTypes.h" alt="" coords="2410,483,2546,509"/>
+</map>

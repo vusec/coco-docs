@@ -1,0 +1,31 @@
+<map id="include/llvm/Analysis/LoopIterator.h" name="include/llvm/Analysis/LoopIterator.h">
+<area shape="rect" id="node2" href="$MemorySSAUpdater_8h.html" title="include/llvm/Analysis\l/MemorySSAUpdater.h" alt="" coords="1403,95,1560,136"/>
+<area shape="rect" id="node3" href="$LoopInfo_8cpp.html" title="lib/Analysis/LoopInfo.cpp" alt="" coords="5,191,173,218"/>
+<area shape="rect" id="node8" href="$LICM_8cpp.html" title="lib/Transforms/Scalar\l/LICM.cpp" alt="" coords="197,184,344,225"/>
+<area shape="rect" id="node9" href="$LoopInstSimplify_8cpp.html" title="lib/Transforms/Scalar\l/LoopInstSimplify.cpp" alt="" coords="369,184,517,225"/>
+<area shape="rect" id="node12" href="$LoopUnswitch_8cpp.html" title="lib/Transforms/Scalar\l/LoopUnswitch.cpp" alt="" coords="2884,184,3031,225"/>
+<area shape="rect" id="node13" href="$SimpleLoopUnswitch_8cpp.html" title="lib/Transforms/Scalar\l/SimpleLoopUnswitch.cpp" alt="" coords="3055,184,3230,225"/>
+<area shape="rect" id="node21" href="$DDG_8cpp.html" title="lib/Analysis/DDG.cpp" alt="" coords="1686,102,1834,129"/>
+<area shape="rect" id="node22" href="$TargetTransformInfo_8cpp.html" title="lib/Analysis/TargetTransform\lInfo.cpp" alt="" coords="1859,95,2048,136"/>
+<area shape="rect" id="node23" href="$VectorUtils_8cpp.html" title="lib/Analysis/VectorUtils.cpp" alt="" coords="2073,102,2255,129"/>
+<area shape="rect" id="node24" href="$PPCCTRLoops_8cpp.html" title="lib/Target/PowerPC\l/PPCCTRLoops.cpp" alt="" coords="2279,95,2422,136"/>
+<area shape="rect" id="node25" href="$LoopUnroll_8cpp.html" title="lib/Transforms/Utils\l/LoopUnroll.cpp" alt="" coords="2447,95,2583,136"/>
+<area shape="rect" id="node26" href="$LoopUnrollAndJam_8cpp.html" title="lib/Transforms/Utils\l/LoopUnrollAndJam.cpp" alt="" coords="2607,95,2769,136"/>
+<area shape="rect" id="node27" href="$LoopUnrollPeel_8cpp.html" title="lib/Transforms/Utils\l/LoopUnrollPeel.cpp" alt="" coords="2793,95,2932,136"/>
+<area shape="rect" id="node28" href="$LoopUnrollRuntime_8cpp.html" title="lib/Transforms/Utils\l/LoopUnrollRuntime.cpp" alt="" coords="2956,95,3119,136"/>
+<area shape="rect" id="node29" href="$LoopVectorize_8cpp.html" title="lib/Transforms/Vectorize\l/LoopVectorize.cpp" alt="" coords="3143,95,3307,136"/>
+<area shape="rect" id="node30" href="$VPlanHCFGBuilder_8cpp.html" title="This file implements the construction of a VPlan&#45;based Hierarchical CFG (H&#45;CFG) for an incoming IR..." alt="" coords="3331,95,3495,136"/>
+<area shape="rect" id="node4" href="$MemorySSAUpdater_8cpp.html" title="lib/Analysis/MemorySSAUpdater.cpp" alt="" coords="2406,191,2645,218"/>
+<area shape="rect" id="node5" href="$InterleavedLoadCombinePass_8cpp.html" title="lib/CodeGen/InterleavedLoad\lCombinePass.cpp" alt="" coords="2669,184,2859,225"/>
+<area shape="rect" id="node6" href="$EarlyCSE_8cpp.html" title="lib/Transforms/Scalar\l/EarlyCSE.cpp" alt="" coords="541,184,688,225"/>
+<area shape="rect" id="node7" href="$GVNHoist_8cpp.html" title="lib/Transforms/Scalar\l/GVNHoist.cpp" alt="" coords="712,184,859,225"/>
+<area shape="rect" id="node10" href="$LoopRotation_8cpp.html" title="lib/Transforms/Scalar\l/LoopRotation.cpp" alt="" coords="883,184,1029,225"/>
+<area shape="rect" id="node11" href="$LoopSimplifyCFG_8cpp.html" title="lib/Transforms/Scalar\l/LoopSimplifyCFG.cpp" alt="" coords="1053,184,1208,225"/>
+<area shape="rect" id="node14" href="$BasicBlockUtils_8cpp.html" title="lib/Transforms/Utils\l/BasicBlockUtils.cpp" alt="" coords="1232,184,1376,225"/>
+<area shape="rect" id="node15" href="$BreakCriticalEdges_8cpp.html" title="lib/Transforms/Utils\l/BreakCriticalEdges.cpp" alt="" coords="1400,184,1563,225"/>
+<area shape="rect" id="node16" href="$Local_8cpp.html" title="lib/Transforms/Utils\l/Local.cpp" alt="" coords="1587,184,1723,225"/>
+<area shape="rect" id="node17" href="$LoopRotationUtils_8cpp.html" title="lib/Transforms/Utils\l/LoopRotationUtils.cpp" alt="" coords="1747,184,1901,225"/>
+<area shape="rect" id="node18" href="$LoopSimplify_8cpp.html" title="lib/Transforms/Utils\l/LoopSimplify.cpp" alt="" coords="1925,184,2061,225"/>
+<area shape="rect" id="node19" href="$LoopUtils_8cpp.html" title="lib/Transforms/Utils\l/LoopUtils.cpp" alt="" coords="2085,184,2221,225"/>
+<area shape="rect" id="node20" href="$SimplifyCFG_8cpp.html" title="lib/Transforms/Utils\l/SimplifyCFG.cpp" alt="" coords="2245,184,2381,225"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvm::ms_demangle::ConversionOperatorIdentifierNode" name="llvm::ms_demangle::ConversionOperatorIdentifierNode">
+<area shape="rect" id="node2" href="$structllvm_1_1ms__demangle_1_1IdentifierNode.html" title="llvm::ms_demangle::\lIdentifierNode" alt="" coords="131,199,273,240"/>
+<area shape="rect" id="node3" href="$structllvm_1_1ms__demangle_1_1Node.html" title="llvm::ms_demangle::Node" alt="" coords="87,5,261,32"/>
+<area shape="rect" id="node4" href="$structllvm_1_1ms__demangle_1_1NodeArrayNode.html" title="llvm::ms_demangle::\lNodeArrayNode" alt="" coords="21,95,164,136"/>
+<area shape="rect" id="node6" href="$structllvm_1_1ms__demangle_1_1TypeNode.html" title="llvm::ms_demangle::\lTypeNode" alt="" coords="251,95,393,136"/>
+<area shape="rect" id="node5" href="$classsize__t.html" title="size_t" alt="" coords="5,5,63,32"/>
+</map>

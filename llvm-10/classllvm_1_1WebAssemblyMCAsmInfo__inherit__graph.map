@@ -1,0 +1,4 @@
+<map id="llvm::WebAssemblyMCAsmInfo" name="llvm::WebAssemblyMCAsmInfo">
+<area shape="rect" id="node2" href="$classllvm_1_1MCAsmInfoWasm.html" title="llvm::MCAsmInfoWasm" alt="" coords="29,80,191,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MCAsmInfo.html" title="This class is intended to be used as a base class for asm properties and features specific to the tar..." alt="" coords="48,5,172,32"/>
+</map>

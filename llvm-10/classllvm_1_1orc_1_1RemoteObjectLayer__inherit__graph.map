@@ -1,0 +1,5 @@
+<map id="llvm::orc::RemoteObjectLayer&lt; RPCEndpoint &gt;" name="llvm::orc::RemoteObjectLayer&lt; RPCEndpoint &gt;">
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1RemoteObjectClientLayer.html" title="RemoteObjectClientLayer forwards the ORC Object Layer API over an RPC connection. ..." alt="" coords="518,5,717,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1orc_1_1RemoteObjectServerLayer.html" title="RemoteObjectServerLayer acts as a server and handling RPC calls for the object layer API from the giv..." alt="" coords="516,71,719,112"/>
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1RemoteObjectLayerAPI.html" title="RPC API needed by RemoteObjectClientLayer and RemoteObjectServerLayer. " alt="" coords="5,46,224,73"/>
+</map>

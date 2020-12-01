@@ -1,0 +1,7 @@
+<map id="llvm::MachO::InterfaceFile::const_symbol_iterator" name="llvm::MachO::InterfaceFile::const_symbol_iterator">
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__adaptor__base.html" title="llvm::iterator_adaptor\l_base\&lt; const_symbol_iterator,\l SymbolMapType::const_iterator,\l std::forward_iterator_tag, const\l Symbol *, ptrdiff_t, const Symbol\l *, const Symbol *\&gt;" alt="" coords="1219,157,1437,257"/>
+<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; const_symbol_iterator,\l std::forward_iterator_tag,\l const Symbol *, ptrdiff_t,\l const Symbol *, const Symbol * \&gt;" alt="" coords="771,56,995,141"/>
+<area shape="rect" id="node5" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="267,115,491,186"/>
+<area shape="rect" id="node8" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type. " alt="" coords="756,169,1009,239"/>
+<area shape="rect" id="node7" href="$classSymbolMapType_1_1const__iterator.html" title="const_iterator" alt="" coords="832,264,933,291"/>
+</map>

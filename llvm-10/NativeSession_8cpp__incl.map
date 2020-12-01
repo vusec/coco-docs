@@ -1,0 +1,36 @@
+<map id="lib/DebugInfo/PDB/Native/NativeSession.cpp" name="lib/DebugInfo/PDB/Native/NativeSession.cpp">
+<area shape="rect" id="node2" href="$NativeSession_8h.html" title="llvm/DebugInfo/PDB\l/Native/NativeSession.h" alt="" coords="1705,199,1869,240"/>
+<area shape="rect" id="node6" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2784,645,2939,672"/>
+<area shape="rect" id="node25" href="$TypeIndex_8h.html" title="llvm/DebugInfo/CodeView\l/TypeIndex.h" alt="" coords="469,377,643,419"/>
+<area shape="rect" id="node31" href="$SymbolCache_8h.html" title="llvm/DebugInfo/PDB\l/Native/SymbolCache.h" alt="" coords="1299,288,1461,329"/>
+<area shape="rect" id="node32" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="1510,645,1671,672"/>
+<area shape="rect" id="node33" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="2561,563,2700,590"/>
+<area shape="rect" id="node34" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer. " alt="" coords="725,645,877,672"/>
+<area shape="rect" id="node35" href="$IPDBEnumChildren_8h.html" title="llvm/DebugInfo/PDB\l/IPDBEnumChildren.h" alt="" coords="726,556,877,597"/>
+<area shape="rect" id="node36" href="$IPDBSourceFile_8h.html" title="llvm/DebugInfo/PDB\l/IPDBSourceFile.h" alt="" coords="2254,556,2397,597"/>
+<area shape="rect" id="node37" href="$NativeCompilandSymbol_8h.html" title="llvm/DebugInfo/PDB\l/Native/NativeCompilandSymbol.h" alt="" coords="2058,199,2281,240"/>
+<area shape="rect" id="node38" href="$NativeEnumInjectedSources_8h.html" title="llvm/DebugInfo/PDB\l/Native/NativeEnumInjected\lSources.h" alt="" coords="719,95,905,151"/>
+<area shape="rect" id="node39" href="$NativeEnumTypes_8h.html" title="llvm/DebugInfo/PDB\l/Native/NativeEnumTypes.h" alt="" coords="929,102,1116,143"/>
+<area shape="rect" id="node40" href="$NativeExeSymbol_8h.html" title="llvm/DebugInfo/PDB\l/Native/NativeExeSymbol.h" alt="" coords="1937,102,2121,143"/>
+<area shape="rect" id="node41" href="$NativeTypeBuiltin_8h.html" title="llvm/DebugInfo/PDB\l/Native/NativeTypeBuiltin.h" alt="" coords="2110,288,2293,329"/>
+<area shape="rect" id="node42" href="$NativeTypeEnum_8h.html" title="llvm/DebugInfo/PDB\l/Native/NativeTypeEnum.h" alt="" coords="1733,102,1913,143"/>
+<area shape="rect" id="node43" href="$PDBFile_8h.html" title="llvm/DebugInfo/PDB\l/Native/PDBFile.h" alt="" coords="1537,288,1679,329"/>
+<area shape="rect" id="node44" href="$RawError_8h.html" title="llvm/DebugInfo/PDB\l/Native/RawError.h" alt="" coords="2625,199,2767,240"/>
+<area shape="rect" id="node45" href="$TpiStream_8h.html" title="llvm/DebugInfo/PDB\l/Native/TpiStream.h" alt="" coords="2777,288,2919,329"/>
+<area shape="rect" id="node46" href="$PDBSymbolCompiland_8h.html" title="llvm/DebugInfo/PDB\l/PDBSymbolCompiland.h" alt="" coords="2725,102,2896,143"/>
+<area shape="rect" id="node47" href="$PDBSymbolExe_8h.html" title="llvm/DebugInfo/PDB\l/PDBSymbolExe.h" alt="" coords="2921,102,3063,143"/>
+<area shape="rect" id="node48" href="$PDBSymbolTypeEnum_8h.html" title="llvm/DebugInfo/PDB\l/PDBSymbolTypeEnum.h" alt="" coords="3087,102,3259,143"/>
+<area shape="rect" id="node49" href="$BinaryByteStream_8h.html" title="llvm/Support/BinaryByteStream.h" alt="" coords="2131,385,2347,411"/>
+<area shape="rect" id="node50" href="$MemoryBuffer_8h.html" title="llvm/Support/MemoryBuffer.h" alt="" coords="1059,474,1251,501"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1299,385,1453,411"/>
+<area shape="rect" id="node5" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1863,563,2009,590"/>
+<area shape="rect" id="node28" href="$IPDBRawSymbol_8h.html" title="llvm/DebugInfo/PDB\l/IPDBRawSymbol.h" alt="" coords="2001,467,2143,508"/>
+<area shape="rect" id="node29" href="$IPDBSession_8h.html" title="llvm/DebugInfo/PDB\l/IPDBSession.h" alt="" coords="1731,467,1874,508"/>
+<area shape="rect" id="node30" href="$NativeRawSymbol_8h.html" title="llvm/DebugInfo/PDB\l/Native/NativeRawSymbol.h" alt="" coords="1918,377,2106,419"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="466,474,643,501"/>
+<area shape="rect" id="node12" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3051,795,3221,821"/>
+<area shape="rect" id="node7" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="1294,720,1434,747"/>
+<area shape="rect" id="node11" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="2950,720,3082,747"/>
+<area shape="rect" id="node18" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2371,720,2560,747"/>
+<area shape="rect" id="node26" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="550,645,701,672"/>
+</map>

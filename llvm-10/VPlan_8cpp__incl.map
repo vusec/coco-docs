@@ -1,0 +1,42 @@
+<map id="lib/Transforms/Vectorize/VPlan.cpp" name="lib/Transforms/Vectorize/VPlan.cpp">
+<area shape="rect" id="node2" href="$VPlan_8h.html" title="This file contains the declarations of the Vectorization Plan base classes: " alt="" coords="2181,169,2249,196"/>
+<area shape="rect" id="node14" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1571,647,1733,673"/>
+<area shape="rect" id="node16" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="853,721,1043,748"/>
+<area shape="rect" id="node18" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="3831,647,3943,673"/>
+<area shape="rect" id="node19" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="3205,721,3360,748"/>
+<area shape="rect" id="node20" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="5665,572,5813,599"/>
+<area shape="rect" id="node21" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="702,572,887,599"/>
+<area shape="rect" id="node22" href="$DepthFirstIterator_8h.html" title="llvm/ADT/DepthFirstIterator.h" alt="" coords="4905,497,5100,524"/>
+<area shape="rect" id="node31" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="963,572,1090,599"/>
+<area shape="rect" id="node36" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="3043,497,3189,524"/>
+<area shape="rect" id="node37" href="$IR_2Instruction_8h.html" title="llvm/IR/Instruction.h" alt="" coords="2483,572,2623,599"/>
+<area shape="rect" id="node38" href="$InstrTypes_8h.html" title="llvm/IR/InstrTypes.h" alt="" coords="2763,497,2904,524"/>
+<area shape="rect" id="node39" href="$Type_8h.html" title="llvm/IR/Type.h" alt="" coords="3137,572,3245,599"/>
+<area shape="rect" id="node40" href="$Instructions_8h.html" title="llvm/IR/Instructions.h" alt="" coords="2649,415,2796,442"/>
+<area shape="rect" id="node42" href="$VPlanDominatorTree_8h.html" title="This file implements dominator tree analysis for a single level of a VPlan&#39;s H&#45;CFG. " alt="" coords="4388,95,4543,121"/>
+<area shape="rect" id="node44" href="$IR_2CFG_8h.html" title="This file provides various utilities for inspecting and working with the control flow graph in LLVM I..." alt="" coords="3760,415,3867,442"/>
+<area shape="rect" id="node45" href="$PostOrderIterator_8h.html" title="llvm/ADT/PostOrderIterator.h" alt="" coords="5360,497,5552,524"/>
+<area shape="rect" id="node46" href="$LoopInfo_8h.html" title="llvm/Analysis/LoopInfo.h" alt="" coords="2640,326,2805,353"/>
+<area shape="rect" id="node47" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="1149,497,1344,524"/>
+<area shape="rect" id="node48" href="$GenericDomTreeConstruction_8h.html" title="Generic dominator tree construction &#45; This file provides routines to construct immediate dominator in..." alt="" coords="4982,408,5181,449"/>
+<area shape="rect" id="node49" href="$GraphWriter_8h.html" title="llvm/Support/GraphWriter.h" alt="" coords="641,497,821,524"/>
+<area shape="rect" id="node50" href="$BasicBlockUtils_8h.html" title="llvm/Transforms/Utils\l/BasicBlockUtils.h" alt="" coords="3016,319,3163,360"/>
+<area shape="rect" id="node3" href="$VPlanLoopInfo_8h.html" title="This file defines VPLoopInfo analysis and VPLoop class. " alt="" coords="2345,244,2463,271"/>
+<area shape="rect" id="node4" href="$VPlanValue_8h.html" title="This file contains the declarations of the entities induced by Vectorization Plans, e.g. " alt="" coords="1628,497,1729,524"/>
+<area shape="rect" id="node5" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1960,647,2115,673"/>
+<area shape="rect" id="node23" href="$GraphTraits_8h.html" title="llvm/ADT/GraphTraits.h" alt="" coords="4923,572,5083,599"/>
+<area shape="rect" id="node25" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3726,572,3866,599"/>
+<area shape="rect" id="node26" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="4017,647,4180,673"/>
+<area shape="rect" id="node29" href="$SmallBitVector_8h.html" title="llvm/ADT/SmallBitVector.h" alt="" coords="2139,647,2317,673"/>
+<area shape="rect" id="node30" href="$SmallSet_8h.html" title="llvm/ADT/SmallSet.h" alt="" coords="4094,572,4239,599"/>
+<area shape="rect" id="node32" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="2765,721,2877,748"/>
+<area shape="rect" id="node33" href="$ilist__node_8h.html" title="llvm/ADT/ilist_node.h" alt="" coords="2703,647,2849,673"/>
+<area shape="rect" id="node34" href="$VectorUtils_8h.html" title="llvm/Analysis/VectorUtils.h" alt="" coords="3686,244,3866,271"/>
+<area shape="rect" id="node35" href="$IRBuilder_8h.html" title="llvm/IR/IRBuilder.h" alt="" coords="3187,326,3320,353"/>
+<area shape="rect" id="node6" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1929,721,2082,748"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3201,796,3364,823"/>
+<area shape="rect" id="node9" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="2158,721,2335,748"/>
+<area shape="rect" id="node15" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="4481,721,4652,748"/>
+<area shape="rect" id="node24" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="3431,647,3553,673"/>
+<area shape="rect" id="node43" href="$Dominators_8h.html" title="llvm/IR/Dominators.h" alt="" coords="4451,326,4597,353"/>
+</map>

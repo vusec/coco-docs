@@ -1,0 +1,5 @@
+<map id="llvm::TargetLowering::DAGCombinerInfo" name="llvm::TargetLowering::DAGCombinerInfo">
+<area shape="rect" id="node2" href="$classllvm_1_1SelectionDAG.html" title="This is used to represent a portion of an LLVM function in a low&#45;level Data Dependence DAG representa..." alt="" coords="253,109,391,136"/>
+<area shape="rect" id="node4" href="$classbool.html" title="bool" alt="" coords="484,13,531,39"/>
+<area shape="rect" id="node5" href="$classunsigned.html" title="unsigned" alt="" coords="207,13,282,39"/>
+</map>

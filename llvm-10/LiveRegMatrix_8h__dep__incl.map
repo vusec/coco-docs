@@ -1,0 +1,9 @@
+<map id="include/llvm/CodeGen/LiveRegMatrix.h" name="include/llvm/CodeGen/LiveRegMatrix.h">
+<area shape="rect" id="node2" href="$LiveRegMatrix_8cpp.html" title="lib/CodeGen/LiveRegMatrix.cpp" alt="" coords="5,102,212,129"/>
+<area shape="rect" id="node3" href="$RegAllocBase_8cpp.html" title="lib/CodeGen/RegAllocBase.cpp" alt="" coords="236,102,443,129"/>
+<area shape="rect" id="node4" href="$RegAllocBasic_8cpp.html" title="lib/CodeGen/RegAllocBasic.cpp" alt="" coords="467,102,676,129"/>
+<area shape="rect" id="node5" href="$RegAllocGreedy_8cpp.html" title="lib/CodeGen/RegAllocGreedy.cpp" alt="" coords="701,102,919,129"/>
+<area shape="rect" id="node6" href="$GCNNSAReassign_8cpp.html" title="Try to reassign registers on GFX10+ from non&#45;sequential to sequential in NSA image instructions..." alt="" coords="944,102,1225,129"/>
+<area shape="rect" id="node7" href="$GCNRegBankReassign_8cpp.html" title="Try to reassign registers on GFX10+ to reduce register bank conflicts. " alt="" coords="1250,95,1447,136"/>
+<area shape="rect" id="node8" href="$SIPreAllocateWWMRegs_8cpp.html" title="Pass to pre&#45;allocated WWM registers. " alt="" coords="1472,95,1695,136"/>
+</map>

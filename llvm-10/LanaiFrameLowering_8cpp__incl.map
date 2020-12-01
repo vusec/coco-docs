@@ -1,0 +1,44 @@
+<map id="lib/Target/Lanai/LanaiFrameLowering.cpp" name="lib/Target/Lanai/LanaiFrameLowering.cpp">
+<area shape="rect" id="node2" href="$LanaiFrameLowering_8h.html" title="LanaiFrameLowering.h" alt="" coords="2714,169,2867,196"/>
+<area shape="rect" id="node25" href="$LanaiAluCode_8h.html" title="LanaiAluCode.h" alt="" coords="897,683,1012,710"/>
+<area shape="rect" id="node27" href="$LanaiInstrInfo_8h.html" title="LanaiInstrInfo.h" alt="" coords="3268,169,3380,196"/>
+<area shape="rect" id="node35" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="2161,430,2380,457"/>
+<area shape="rect" id="node41" href="$MachineInstrBuilder_8h.html" title="llvm/CodeGen/MachineInstr\lBuilder.h" alt="" coords="1209,333,1393,375"/>
+<area shape="rect" id="node42" href="$LanaiSubtarget_8h.html" title="LanaiSubtarget.h" alt="" coords="2871,95,2991,121"/>
+<area shape="rect" id="node48" href="$MachineFrameInfo_8h.html" title="llvm/CodeGen/MachineFrame\lInfo.h" alt="" coords="2741,765,2936,807"/>
+<area shape="rect" id="node49" href="$MachineRegisterInfo_8h.html" title="llvm/CodeGen/MachineRegister\lInfo.h" alt="" coords="3314,333,3521,375"/>
+<area shape="rect" id="node50" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="769,773,898,799"/>
+<area shape="rect" id="node3" href="$TargetFrameLowering_8h.html" title="llvm/CodeGen/TargetFrame\lLowering.h" alt="" coords="2845,423,3027,464"/>
+<area shape="rect" id="node4" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="1413,512,1603,553"/>
+<area shape="rect" id="node23" href="$StringSwitch_8h.html" title="llvm/ADT/StringSwitch.h" alt="" coords="974,773,1141,799"/>
+<area shape="rect" id="node5" href="$GraphTraits_8h.html" title="llvm/ADT/GraphTraits.h" alt="" coords="1507,601,1667,628"/>
+<area shape="rect" id="node6" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="457,683,569,710"/>
+<area shape="rect" id="node8" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="1288,601,1483,628"/>
+<area shape="rect" id="node9" href="$MachineMemOperand_8h.html" title="llvm/CodeGen/MachineMemOperand.h" alt="" coords="2365,683,2611,710"/>
+<area shape="rect" id="node12" href="$ArrayRecycler_8h.html" title="llvm/Support/ArrayRecycler.h" alt="" coords="2147,683,2341,710"/>
+<area shape="rect" id="node10" href="$AtomicOrdering_8h.html" title="Atomic ordering constants. " alt="" coords="2027,773,2227,799"/>
+<area shape="rect" id="node11" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="2970,855,3145,881"/>
+<area shape="rect" id="node13" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2783,855,2945,881"/>
+<area shape="rect" id="node18" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="2403,773,2565,799"/>
+<area shape="rect" id="node14" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2411,1004,2573,1031"/>
+<area shape="rect" id="node15" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1819,929,2008,956"/>
+<area shape="rect" id="node19" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2783,929,2923,956"/>
+<area shape="rect" id="node20" href="$Alignment_8h.html" title="llvm/Support/Alignment.h" alt="" coords="2287,855,2455,881"/>
+<area shape="rect" id="node24" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1009,855,1156,881"/>
+<area shape="rect" id="node26" href="$ISDOpcodes_8h.html" title="llvm/CodeGen/ISDOpcodes.h" alt="" coords="448,773,643,799"/>
+<area shape="rect" id="node28" href="$LanaiRegisterInfo_8h.html" title="LanaiRegisterInfo.h" alt="" coords="3177,251,3311,278"/>
+<area shape="rect" id="node29" href="$LanaiMCTargetDesc_8h.html" title="MCTargetDesc/LanaiMCTarget\lDesc.h" alt="" coords="4258,244,4462,285"/>
+<area shape="rect" id="node32" href="$TargetInstrInfo_8h.html" title="llvm/CodeGen/TargetInstr\lInfo.h" alt="" coords="1555,244,1727,285"/>
+<area shape="rect" id="node33" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="3163,773,3307,799"/>
+<area shape="rect" id="node34" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="3563,601,3717,628"/>
+<area shape="rect" id="node36" href="$BitVector_8h.html" title="llvm/ADT/BitVector.h" alt="" coords="2736,683,2883,710"/>
+<area shape="rect" id="node37" href="$FloatingPointMode_8h.html" title="llvm/ADT/FloatingPointMode.h" alt="" coords="1831,519,2031,546"/>
+<area shape="rect" id="node38" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="3785,929,3917,956"/>
+<area shape="rect" id="node39" href="$EHPersonalities_8h.html" title="llvm/Analysis/EHPersonalities.h" alt="" coords="2815,519,3025,546"/>
+<area shape="rect" id="node40" href="$Recycler_8h.html" title="llvm/Support/Recycler.h" alt="" coords="719,601,881,628"/>
+<area shape="rect" id="node43" href="$LanaiISelLowering_8h.html" title="LanaiISelLowering.h" alt="" coords="3105,169,3244,196"/>
+<area shape="rect" id="node44" href="$LanaiSelectionDAGInfo_8h.html" title="LanaiSelectionDAGInfo.h" alt="" coords="758,430,927,457"/>
+<area shape="rect" id="node45" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="693,519,881,546"/>
+<area shape="rect" id="node46" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="1723,683,1869,710"/>
+<area shape="rect" id="node47" href="$TargetSubtargetInfo_8h.html" title="llvm/CodeGen/TargetSubtarget\lInfo.h" alt="" coords="3160,676,3363,717"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="llvm::MCWinCOFFStreamer" name="llvm::MCWinCOFFStreamer">
+<area shape="rect" id="node2" href="$classllvm_1_1MCObjectStreamer.html" title="Streaming object file generation interface. " alt="" coords="2664,147,2831,173"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MCStreamer.html" title="Streaming machine code generation interface. " alt="" coords="2308,5,2436,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MCSymbol.html" title="MCSymbol &#45; Instances of this class represent a symbol name in the MC file, and MCSymbols are created ..." alt="" coords="2688,337,2807,364"/>
+<area shape="rect" id="node5" href="$classllvm_1_1MCExpr.html" title="Base class for the full range of assembler expressions which are needed for parsing. " alt="" coords="2321,360,2423,387"/>
+<area shape="rect" id="node8" href="$classllvm_1_1MCFragment.html" title="llvm::MCFragment" alt="" coords="2307,531,2437,557"/>
+<area shape="rect" id="node9" href="$classllvm_1_1ilist__node__with__parent.html" title="llvm::ilist_node_with\l_parent\&lt; MCFragment,\l MCSection \&gt;" alt="" coords="1945,483,2103,539"/>
+<area shape="rect" id="node10" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; MCFragment,\l Options... \&gt;" alt="" coords="1275,466,1476,507"/>
+<area shape="rect" id="node11" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; MCFragment,\l Options... \&gt;::type \&gt;" alt="" coords="676,399,875,470"/>
+<area shape="rect" id="node13" href="$classllvm_1_1ilist__node__impl.html" title="Implementation for an ilist node. " alt="" coords="272,498,412,539"/>
+<area shape="rect" id="node16" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; T, Options...\l \&gt;::type \&gt;" alt="" coords="680,494,871,565"/>
+<area shape="rect" id="node20" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; NodeTy,\l Options... \&gt;::type \&gt;" alt="" coords="691,589,859,659"/>
+<area shape="rect" id="node15" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; T,\l Options \&gt;" alt="" coords="924,509,1057,550"/>
+<area shape="rect" id="node19" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; NodeTy,\l Options... \&gt;" alt="" coords="1290,531,1461,573"/>
+<area shape="rect" id="node18" href="$classllvm_1_1ilist__node__with__parent.html" title="An ilist node that can access its parent list. " alt="" coords="1525,524,1713,580"/>
+<area shape="rect" id="node22" href="$classbool.html" title="bool" alt="" coords="2001,563,2047,589"/>
+<area shape="rect" id="node23" href="$classllvm_1_1PointerIntPair.html" title="llvm::PointerIntPair\l\&lt; llvm::MCFragment *, 1 \&gt;" alt="" coords="2283,57,2461,98"/>
+<area shape="rect" id="node24" href="$classllvm_1_1PointerIntPair.html" title="PointerIntPair &#45; This class implements a pair of a pointer and small integer. " alt="" coords="1939,49,2109,105"/>
+<area shape="rect" id="node25" href="$classuint32__t.html" title="uint32_t" alt="" coords="2338,123,2406,149"/>
+<area shape="rect" id="node26" href="$classunsigned.html" title="unsigned" alt="" coords="2335,309,2409,336"/>
+</map>

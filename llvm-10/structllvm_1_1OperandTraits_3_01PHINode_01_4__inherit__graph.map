@@ -1,0 +1,4 @@
+<map id="llvm::OperandTraits&lt; PHINode &gt;" name="llvm::OperandTraits&lt; PHINode &gt;">
+<area shape="rect" id="node2" href="$structllvm_1_1HungoffOperandTraits.html" title="llvm::HungoffOperandTraits\&lt; 2 \&gt;" alt="" coords="5,109,219,136"/>
+<area shape="rect" id="node3" href="$structllvm_1_1HungoffOperandTraits.html" title="HungoffOperandTraits &#45; determine the allocation regime of the Use array when it is not a prefix to th..." alt="" coords="21,5,203,47"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="llvm::ForwardDominanceFrontierBase&lt; BlockT &gt;" name="llvm::ForwardDominanceFrontierBase&lt; BlockT &gt;">
+<area shape="rect" id="node4" href="$classllvm_1_1ForwardDominanceFrontierBase.html" title="llvm::ForwardDominanceFrontier\lBase\&lt; llvm::MachineBasicBlock \&gt;" alt="" coords="1032,5,1255,47"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ForwardDominanceFrontierBase.html" title="llvm::ForwardDominanceFrontier\lBase\&lt; BasicBlock \&gt;" alt="" coords="1038,71,1249,112"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DominanceFrontierBase.html" title="llvm::DominanceFrontierBase\l\&lt; BlockT, false \&gt;" alt="" coords="353,37,548,79"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DominanceFrontierBase.html" title="DominanceFrontierBase &#45; Common base class for computing forward and inverse dominance frontiers for a..." alt="" coords="5,37,200,79"/>
+<area shape="rect" id="node6" href="$classllvm_1_1DominanceFrontier.html" title="llvm::DominanceFrontier" alt="" coords="1304,78,1468,105"/>
+</map>

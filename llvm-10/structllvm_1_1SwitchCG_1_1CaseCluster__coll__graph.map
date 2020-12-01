@@ -1,0 +1,19 @@
+<map id="llvm::SwitchCG::CaseCluster" name="llvm::SwitchCG::CaseCluster">
+<area shape="rect" id="node2" href="$classllvm_1_1BranchProbability.html" title="llvm::BranchProbability" alt="" coords="2305,5,2461,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ConstantInt.html" title="This is the shared class of boolean and integer constants. " alt="" coords="2322,112,2445,139"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ConstantData.html" title="Base class for constants with no operands. " alt="" coords="2084,133,2219,160"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Constant.html" title="This is an important base class in LLVM. " alt="" coords="1722,152,1829,179"/>
+<area shape="rect" id="node6" href="$classllvm_1_1User.html" title="llvm::User" alt="" coords="1505,172,1588,199"/>
+<area shape="rect" id="node7" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="1163,183,1250,209"/>
+<area shape="rect" id="node8" href="$classunsigned.html" title="unsigned" alt="" coords="797,99,872,125"/>
+<area shape="rect" id="node10" href="$classllvm_1_1MachineBasicBlock.html" title="llvm::MachineBasicBlock" alt="" coords="2299,213,2468,240"/>
+<area shape="rect" id="node11" href="$classllvm_1_1ilist__node__with__parent.html" title="llvm::ilist_node_with\l_parent\&lt; MachineBasicBlock,\l MachineFunction \&gt;" alt="" coords="2053,241,2249,297"/>
+<area shape="rect" id="node12" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Machine\lBasicBlock, Options... \&gt;" alt="" coords="1461,249,1632,290"/>
+<area shape="rect" id="node13" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; MachineBasicBlock,\l Options... \&gt;::type \&gt;" alt="" coords="716,193,953,263"/>
+<area shape="rect" id="node15" href="$classllvm_1_1ilist__node__impl.html" title="Implementation for an ilist node. " alt="" coords="273,291,413,333"/>
+<area shape="rect" id="node18" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; T, Options...\l \&gt;::type \&gt;" alt="" coords="739,287,930,358"/>
+<area shape="rect" id="node22" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; NodeTy,\l Options... \&gt;::type \&gt;" alt="" coords="751,382,919,453"/>
+<area shape="rect" id="node17" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; T,\l Options \&gt;" alt="" coords="1140,302,1273,343"/>
+<area shape="rect" id="node21" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; NodeTy,\l Options... \&gt;" alt="" coords="1461,325,1632,366"/>
+<area shape="rect" id="node20" href="$classllvm_1_1ilist__node__with__parent.html" title="An ilist node that can access its parent list. " alt="" coords="1681,307,1869,363"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="llvm::DiagnosticInfoWithLocationBase" name="llvm::DiagnosticInfoWithLocationBase">
+<area shape="rect" id="node3" href="$classllvm_1_1DiagnosticInfoMisExpect.html" title="Diagnostic information for MisExpect analysis. " alt="" coords="426,161,626,187"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DiagnosticInfoOptimizationBase.html" title="Common features for diagnostics dealing with optimization remarks that are used by both IR and MIR pa..." alt="" coords="405,211,647,238"/>
+<area shape="rect" id="node16" href="$classllvm_1_1DiagnosticInfoUnsupported.html" title="Diagnostic information for unsupported feature in backend. " alt="" coords="420,262,632,289"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DiagnosticInfo.html" title="This is the base abstract class for diagnostic reporting in the backend. " alt="" coords="5,211,144,238"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DiagnosticInfoIROptimization.html" title="Common features for diagnostics dealing with optimization remarks that are used by IR passes..." alt="" coords="700,130,925,157"/>
+<area shape="rect" id="node12" href="$classllvm_1_1DiagnosticInfoMIROptimization.html" title="Common features for diagnostics dealing with optimization remarks that are used by machine passes..." alt="" coords="695,293,931,319"/>
+<area shape="rect" id="node6" href="$classllvm_1_1DiagnosticInfoOptimizationFailure.html" title="Diagnostic information for optimization failures. " alt="" coords="979,5,1189,47"/>
+<area shape="rect" id="node7" href="$classllvm_1_1OptimizationRemark.html" title="Diagnostic information for applied optimization remarks. " alt="" coords="997,71,1171,98"/>
+<area shape="rect" id="node8" href="$classllvm_1_1OptimizationRemarkAnalysis.html" title="Diagnostic information for optimization analysis remarks. " alt="" coords="997,123,1171,164"/>
+<area shape="rect" id="node11" href="$classllvm_1_1OptimizationRemarkMissed.html" title="Diagnostic information for missed&#45;optimization remarks. " alt="" coords="997,188,1171,229"/>
+<area shape="rect" id="node9" href="$classllvm_1_1OptimizationRemarkAnalysisAliasing.html" title="Diagnostic information for optimization analysis remarks related to pointer aliasing. " alt="" coords="1237,91,1411,132"/>
+<area shape="rect" id="node10" href="$classllvm_1_1OptimizationRemarkAnalysisFPCommute.html" title="Diagnostic information for optimization analysis remarks related to floating&#45;point non&#45;commutativity..." alt="" coords="1237,156,1411,197"/>
+<area shape="rect" id="node13" href="$classllvm_1_1MachineOptimizationRemark.html" title="Diagnostic information for applied optimization remarks. " alt="" coords="996,253,1172,295"/>
+<area shape="rect" id="node14" href="$classllvm_1_1MachineOptimizationRemarkAnalysis.html" title="Diagnostic information for optimization analysis remarks. " alt="" coords="996,319,1172,360"/>
+<area shape="rect" id="node15" href="$classllvm_1_1MachineOptimizationRemarkMissed.html" title="Diagnostic information for missed&#45;optimization remarks. " alt="" coords="996,384,1172,425"/>
+</map>

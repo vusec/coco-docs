@@ -1,0 +1,41 @@
+<map id="lib/Transforms/Scalar/GVNSink.cpp" name="lib/Transforms/Scalar/GVNSink.cpp">
+<area shape="rect" id="node2" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="3243,676,3387,703"/>
+<area shape="rect" id="node3" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="601,751,741,777"/>
+<area shape="rect" id="node7" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="6717,900,6840,927"/>
+<area shape="rect" id="node8" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1880,751,2043,777"/>
+<area shape="rect" id="node9" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="5733,900,5896,927"/>
+<area shape="rect" id="node15" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2523,751,2677,777"/>
+<area shape="rect" id="node16" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="5510,825,5650,852"/>
+<area shape="rect" id="node19" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1208,519,1363,546"/>
+<area shape="rect" id="node20" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="1019,601,1197,628"/>
+<area shape="rect" id="node21" href="$DenseSet_8h.html" title="llvm/ADT/DenseSet.h" alt="" coords="1459,437,1610,464"/>
+<area shape="rect" id="node22" href="$PostOrderIterator_8h.html" title="llvm/ADT/PostOrderIterator.h" alt="" coords="2824,676,3016,703"/>
+<area shape="rect" id="node23" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="2803,751,2965,777"/>
+<area shape="rect" id="node24" href="$Statistic_8h.html" title="llvm/ADT/Statistic.h" alt="" coords="6449,825,6589,852"/>
+<area shape="rect" id="node25" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="3073,601,3237,628"/>
+<area shape="rect" id="node26" href="$GlobalsModRef_8h.html" title="This is the interface for a simple mod/ref and alias analysis over globals. " alt="" coords="5085,273,5259,315"/>
+<area shape="rect" id="node27" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="5393,601,5532,628"/>
+<area shape="rect" id="node28" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="4931,676,5043,703"/>
+<area shape="rect" id="node29" href="$Use_8h.html" title="This defines the Use class. " alt="" coords="6385,751,6487,777"/>
+<area shape="rect" id="node30" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="5648,751,5803,777"/>
+<area shape="rect" id="node31" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="5107,363,5237,389"/>
+<area shape="rect" id="node32" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="5131,519,5277,546"/>
+<area shape="rect" id="node33" href="$IR_2Instruction_8h.html" title="llvm/IR/Instruction.h" alt="" coords="4257,601,4397,628"/>
+<area shape="rect" id="node34" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="1141,363,1232,389"/>
+<area shape="rect" id="node35" href="$IR_2CFG_8h.html" title="This file provides various utilities for inspecting and working with the control flow graph in LLVM I..." alt="" coords="5471,191,5577,218"/>
+<area shape="rect" id="node36" href="$InstrTypes_8h.html" title="llvm/IR/InstrTypes.h" alt="" coords="4379,281,4520,307"/>
+<area shape="rect" id="node37" href="$Type_8h.html" title="llvm/IR/Type.h" alt="" coords="3718,601,3826,628"/>
+<area shape="rect" id="node38" href="$Instructions_8h.html" title="llvm/IR/Instructions.h" alt="" coords="3956,191,4103,218"/>
+<area shape="rect" id="node39" href="$AtomicOrdering_8h.html" title="Atomic ordering constants. " alt="" coords="5912,281,6112,307"/>
+<area shape="rect" id="node40" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM. " alt="" coords="1415,281,1574,307"/>
+<area shape="rect" id="node41" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="969,363,1117,389"/>
+<area shape="rect" id="node42" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="1678,676,1863,703"/>
+<area shape="rect" id="node43" href="$InitializePasses_8h.html" title="llvm/InitializePasses.h" alt="" coords="6313,102,6466,129"/>
+<area shape="rect" id="node44" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="2283,676,2445,703"/>
+<area shape="rect" id="node45" href="$ArrayRecycler_8h.html" title="llvm/Support/ArrayRecycler.h" alt="" coords="2089,437,2282,464"/>
+<area shape="rect" id="node46" href="$Transforms_2Scalar_8h.html" title="llvm/Transforms/Scalar.h" alt="" coords="6592,102,6760,129"/>
+<area shape="rect" id="node47" href="$GVN_8h.html" title="This file provides the interface for LLVM&#39;s Global Value Numbering pass which eliminates fully redund..." alt="" coords="2457,184,2615,225"/>
+<area shape="rect" id="node48" href="$GVNExpression_8h.html" title="The header file for the GVN pass that contains expression handling classes. " alt="" coords="2305,95,2463,136"/>
+<area shape="rect" id="node49" href="$BasicBlockUtils_8h.html" title="llvm/Transforms/Utils\l/BasicBlockUtils.h" alt="" coords="4849,95,4996,136"/>
+<area shape="rect" id="node50" href="$Transforms_2Utils_2Local_8h.html" title="llvm/Transforms/Utils\l/Local.h" alt="" coords="3667,512,3813,553"/>
+</map>

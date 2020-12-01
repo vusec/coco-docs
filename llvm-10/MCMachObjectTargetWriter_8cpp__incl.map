@@ -1,0 +1,36 @@
+<map id="lib/MC/MCMachObjectTargetWriter.cpp" name="lib/MC/MCMachObjectTargetWriter.cpp">
+<area shape="rect" id="node2" href="$MCMachObjectWriter_8h.html" title="llvm/MC/MCMachObjectWriter.h" alt="" coords="1723,95,1935,121"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1941,319,2096,345"/>
+<area shape="rect" id="node29" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3381,475,3528,502"/>
+<area shape="rect" id="node34" href="$BinaryFormat_2MachO_8h.html" title="llvm/BinaryFormat/MachO.h" alt="" coords="166,557,351,584"/>
+<area shape="rect" id="node37" href="$MCExpr_8h.html" title="llvm/MC/MCExpr.h" alt="" coords="3651,244,3786,271"/>
+<area shape="rect" id="node39" href="$MCObjectWriter_8h.html" title="llvm/MC/MCObjectWriter.h" alt="" coords="1294,244,1474,271"/>
+<area shape="rect" id="node44" href="$MCSection_8h.html" title="llvm/MC/MCSection.h" alt="" coords="4497,319,4647,345"/>
+<area shape="rect" id="node49" href="$StringTableBuilder_8h.html" title="llvm/MC/StringTableBuilder.h" alt="" coords="1733,169,1925,196"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="2446,393,2623,420"/>
+<area shape="rect" id="node8" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2157,632,2328,659"/>
+<area shape="rect" id="node9" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2223,707,2385,733"/>
+<area shape="rect" id="node19" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1625,632,1778,659"/>
+<area shape="rect" id="node21" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3177,632,3354,659"/>
+<area shape="rect" id="node32" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="984,475,1157,502"/>
+<area shape="rect" id="node33" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="1521,393,1727,420"/>
+<area shape="rect" id="node5" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2445,475,2589,502"/>
+<area shape="rect" id="node6" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="2187,557,2327,584"/>
+<area shape="rect" id="node30" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="1334,468,1498,509"/>
+<area shape="rect" id="node31" href="$TypeSize_8h.html" title="llvm/Support/TypeSize.h" alt="" coords="3653,475,3819,502"/>
+<area shape="rect" id="node16" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2880,557,3043,584"/>
+<area shape="rect" id="node26" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3221,557,3376,584"/>
+<area shape="rect" id="node7" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="969,632,1143,659"/>
+<area shape="rect" id="node17" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="4701,632,4872,659"/>
+<area shape="rect" id="node35" href="$Host_8h.html" title="llvm/Support/Host.h" alt="" coords="315,632,453,659"/>
+<area shape="rect" id="node38" href="$SMLoc_8h.html" title="llvm/Support/SMLoc.h" alt="" coords="4201,475,4351,502"/>
+<area shape="rect" id="node40" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="633,319,757,345"/>
+<area shape="rect" id="node41" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="1422,557,1573,584"/>
+<area shape="rect" id="node42" href="$EndianStream_8h.html" title="llvm/Support/EndianStream.h" alt="" coords="1288,319,1480,345"/>
+<area shape="rect" id="node43" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="1107,393,1293,420"/>
+<area shape="rect" id="node45" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="4261,632,4373,659"/>
+<area shape="rect" id="node46" href="$MCFragment_8h.html" title="llvm/MC/MCFragment.h" alt="" coords="3912,393,4075,420"/>
+<area shape="rect" id="node47" href="$Alignment_8h.html" title="llvm/Support/Alignment.h" alt="" coords="3907,557,4075,584"/>
+<area shape="rect" id="node48" href="$SectionKind_8h.html" title="llvm/MC/SectionKind.h" alt="" coords="4731,393,4887,420"/>
+<area shape="rect" id="node50" href="$CachedHashString_8h.html" title="llvm/ADT/CachedHashString.h" alt="" coords="1728,244,1931,271"/>
+</map>

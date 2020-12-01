@@ -1,0 +1,6 @@
+<map id="llvm::wasm::WasmSymbolInfo" name="llvm::wasm::WasmSymbolInfo">
+<area shape="rect" id="node2" href="$classuint32__t.html" title="uint32_t" alt="" coords="35,5,103,32"/>
+<area shape="rect" id="node5" href="$structllvm_1_1wasm_1_1WasmDataReference.html" title="llvm::wasm::WasmDataReference" alt="" coords="112,125,335,152"/>
+<area shape="rect" id="node6" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e. " alt="" coords="596,125,705,152"/>
+<area shape="rect" id="node7" href="$classsize__t.html" title="size_t" alt="" coords="622,5,679,32"/>
+</map>

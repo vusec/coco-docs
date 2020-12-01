@@ -1,0 +1,7 @@
+<map id="include/llvm/Analysis/BlockFrequencyInfoImpl.h" name="include/llvm/Analysis/BlockFrequencyInfoImpl.h">
+<area shape="rect" id="node2" href="$BlockFrequencyInfo_8cpp.html" title="lib/Analysis/BlockFrequency\lInfo.cpp" alt="" coords="5,95,192,136"/>
+<area shape="rect" id="node3" href="$BlockFrequencyInfoImpl_8cpp.html" title="lib/Analysis/BlockFrequency\lInfoImpl.cpp" alt="" coords="216,95,403,136"/>
+<area shape="rect" id="node4" href="$MachineBlockFrequencyInfo_8cpp.html" title="lib/CodeGen/MachineBlock\lFrequencyInfo.cpp" alt="" coords="427,95,607,136"/>
+<area shape="rect" id="node5" href="$MachineBlockPlacement_8cpp.html" title="lib/CodeGen/MachineBlock\lPlacement.cpp" alt="" coords="631,95,811,136"/>
+<area shape="rect" id="node6" href="$CodeExtractor_8cpp.html" title="lib/Transforms/Utils\l/CodeExtractor.cpp" alt="" coords="836,95,972,136"/>
+</map>

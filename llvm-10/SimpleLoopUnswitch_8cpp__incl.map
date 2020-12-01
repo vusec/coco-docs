@@ -1,0 +1,46 @@
+<map id="lib/Transforms/Scalar/SimpleLoopUnswitch.cpp" name="lib/Transforms/Scalar/SimpleLoopUnswitch.cpp">
+<area shape="rect" id="node2" href="$SimpleLoopUnswitch_8h.html" title="llvm/Transforms/Scalar\l/SimpleLoopUnswitch.h" alt="" coords="4125,95,4285,136"/>
+<area shape="rect" id="node3" href="$LoopAnalysisManager_8h.html" title="This header provides classes for managing per&#45;loop analyses. " alt="" coords="3895,184,4078,225"/>
+<area shape="rect" id="node4" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2771,869,2925,896"/>
+<area shape="rect" id="node5" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1689,944,1879,971"/>
+<area shape="rect" id="node10" href="$LoopInfo_8h.html" title="llvm/Analysis/LoopInfo.h" alt="" coords="4359,281,4524,307"/>
+<area shape="rect" id="node11" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="4719,720,4873,747"/>
+<area shape="rect" id="node12" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="3819,720,3981,747"/>
+<area shape="rect" id="node13" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3667,795,3829,821"/>
+<area shape="rect" id="node14" href="$IR_2Instruction_8h.html" title="llvm/IR/Instruction.h" alt="" coords="1721,720,1861,747"/>
+<area shape="rect" id="node15" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="1221,795,1333,821"/>
+<area shape="rect" id="node16" href="$Use_8h.html" title="This defines the Use class. " alt="" coords="1073,869,1175,896"/>
+<area shape="rect" id="node17" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="1200,869,1355,896"/>
+<area shape="rect" id="node18" href="$Instructions_8h.html" title="llvm/IR/Instructions.h" alt="" coords="1023,370,1169,397"/>
+<area shape="rect" id="node19" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="2190,720,2317,747"/>
+<area shape="rect" id="node20" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="2025,638,2170,665"/>
+<area shape="rect" id="node21" href="$Constant_8h.html" title="llvm/IR/Constant.h" alt="" coords="651,720,783,747"/>
+<area shape="rect" id="node22" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="1286,549,1415,575"/>
+<area shape="rect" id="node23" href="$InstrTypes_8h.html" title="llvm/IR/InstrTypes.h" alt="" coords="1535,459,1676,486"/>
+<area shape="rect" id="node24" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="493,638,632,665"/>
+<area shape="rect" id="node25" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="4723,638,4813,665"/>
+<area shape="rect" id="node26" href="$MemorySSA_8h.html" title="This file exposes an interface to building/using memory SSA to walk memory instructions using a use/d..." alt="" coords="3383,459,3572,486"/>
+<area shape="rect" id="node27" href="$Dominators_8h.html" title="llvm/IR/Dominators.h" alt="" coords="3971,549,4117,575"/>
+<area shape="rect" id="node28" href="$GenericDomTree_8h.html" title="This file defines a set of templates that efficiently compute a dominator tree over a generic graph..." alt="" coords="4022,638,4231,665"/>
+<area shape="rect" id="node29" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="3254,720,3439,747"/>
+<area shape="rect" id="node30" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="3043,638,3237,665"/>
+<area shape="rect" id="node31" href="$Sequence_8h.html" title="This routine provides some synthesis utilities to produce sequences of values. " alt="" coords="4462,869,4613,896"/>
+<area shape="rect" id="node32" href="$SetVector_8h.html" title="llvm/ADT/SetVector.h" alt="" coords="2926,795,3077,821"/>
+<area shape="rect" id="node33" href="$Statistic_8h.html" title="llvm/ADT/Statistic.h" alt="" coords="5625,102,5765,129"/>
+<area shape="rect" id="node34" href="$AssumptionCache_8h.html" title="llvm/Analysis/Assumption\lCache.h" alt="" coords="4901,541,5075,583"/>
+<area shape="rect" id="node35" href="$Analysis_2CFG_8h.html" title="llvm/Analysis/CFG.h" alt="" coords="2150,191,2293,218"/>
+<area shape="rect" id="node36" href="$CodeMetrics_8h.html" title="llvm/Analysis/CodeMetrics.h" alt="" coords="4408,638,4597,665"/>
+<area shape="rect" id="node37" href="$Analysis_2GuardUtils_8h.html" title="llvm/Analysis/GuardUtils.h" alt="" coords="5789,102,5966,129"/>
+<area shape="rect" id="node38" href="$InstructionSimplify_8h.html" title="llvm/Analysis/Instruction\lSimplify.h" alt="" coords="2296,631,2461,672"/>
+<area shape="rect" id="node39" href="$LoopIterator_8h.html" title="llvm/Analysis/LoopIterator.h" alt="" coords="4204,191,4388,218"/>
+<area shape="rect" id="node40" href="$LoopPass_8h.html" title="llvm/Analysis/LoopPass.h" alt="" coords="4564,191,4737,218"/>
+<area shape="rect" id="node41" href="$MemorySSAUpdater_8h.html" title="llvm/Analysis/MemorySSAUpdater.h" alt="" coords="3177,102,3412,129"/>
+<area shape="rect" id="node42" href="$Analysis_2Utils_2Local_8h.html" title="llvm/Analysis/Utils\l/Local.h" alt="" coords="2207,273,2337,315"/>
+<area shape="rect" id="node43" href="$IntrinsicInst_8h.html" title="llvm/IR/IntrinsicInst.h" alt="" coords="617,281,764,307"/>
+<area shape="rect" id="node44" href="$InitializePasses_8h.html" title="llvm/InitializePasses.h" alt="" coords="5990,102,6143,129"/>
+<area shape="rect" id="node45" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="6167,102,6315,129"/>
+<area shape="rect" id="node46" href="$BasicBlockUtils_8h.html" title="llvm/Transforms/Utils\l/BasicBlockUtils.h" alt="" coords="1928,363,2075,404"/>
+<area shape="rect" id="node47" href="$Cloning_8h.html" title="llvm/Transforms/Utils\l/Cloning.h" alt="" coords="4803,452,4949,493"/>
+<area shape="rect" id="node48" href="$ValueMapper_8h.html" title="llvm/Transforms/Utils\l/ValueMapper.h" alt="" coords="5099,541,5245,583"/>
+<area shape="rect" id="node49" href="$LoopUtils_8h.html" title="llvm/Transforms/Utils\l/LoopUtils.h" alt="" coords="3648,363,3795,404"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="llvm::wasm::WasmGlobal" name="llvm::wasm::WasmGlobal">
+<area shape="rect" id="node2" href="$classuint32__t.html" title="uint32_t" alt="" coords="5,5,73,32"/>
+<area shape="rect" id="node3" href="$structllvm_1_1wasm_1_1WasmInitExpr.html" title="llvm::wasm::WasmInitExpr" alt="" coords="193,109,373,136"/>
+<area shape="rect" id="node8" href="$structllvm_1_1wasm_1_1WasmGlobalType.html" title="llvm::wasm::WasmGlobalType" alt="" coords="407,109,608,136"/>
+<area shape="rect" id="node9" href="$classbool.html" title="bool" alt="" coords="553,5,600,32"/>
+<area shape="rect" id="node10" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e. " alt="" coords="633,109,742,136"/>
+<area shape="rect" id="node11" href="$classsize__t.html" title="size_t" alt="" coords="659,5,716,32"/>
+</map>

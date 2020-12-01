@@ -1,0 +1,22 @@
+<map id="llvm::X86FreeBSDTargetObjectFile" name="llvm::X86FreeBSDTargetObjectFile">
+<area shape="rect" id="node2" href="$classllvm_1_1X86ELFTargetObjectFile.html" title="This implemenatation is used for X86 ELF targets that don&#39;t have a further specialization. " alt="" coords="2852,561,3049,588"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TargetLoweringObjectFileELF.html" title="llvm::TargetLoweringObject\lFileELF" alt="" coords="2621,554,2803,595"/>
+<area shape="rect" id="node4" href="$classllvm_1_1TargetLoweringObjectFile.html" title="llvm::TargetLoweringObjectFile" alt="" coords="2227,307,2429,333"/>
+<area shape="rect" id="node5" href="$classllvm_1_1MCObjectFileInfo.html" title="llvm::MCObjectFileInfo" alt="" coords="1931,307,2087,333"/>
+<area shape="rect" id="node6" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::MCSymbol *, unsigned \&gt;" alt="" coords="1439,299,1643,341"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; const llvm\l::MCSymbol *, unsigned,\l DenseMapInfo\&lt; const llvm\l::MCSymbol *\&gt;, llvm::detail\l::DenseMapPair\&lt; const llvm\l::MCSymbol *, unsigned \&gt; \&gt;,\l const llvm::MCSymbol *, unsigned,\l DenseMapInfo\&lt; const llvm::MCSymbol\l *\&gt;, llvm::detail::DenseMapPair\&lt; const\l llvm::MCSymbol *, unsigned \&gt; \&gt;" alt="" coords="675,245,931,419"/>
+<area shape="rect" id="node8" href="$classllvm_1_1DebugEpochBase.html" title="A base class for data structure classes wishing to make iterators (&quot;handles&quot;) pointing into themselve..." alt="" coords="5,220,164,247"/>
+<area shape="rect" id="node9" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DerivedT, KeyT, ValueT,\l KeyInfoT, BucketT \&gt;" alt="" coords="213,205,392,261"/>
+<area shape="rect" id="node11" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; KeyT, ValueT,\l KeyInfoT, BucketT \&gt;, KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="704,119,901,190"/>
+<area shape="rect" id="node10" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="980,141,1177,182"/>
+<area shape="rect" id="node12" href="$classbool.html" title="bool" alt="" coords="1055,411,1102,437"/>
+<area shape="rect" id="node26" href="$classllvm_1_1MCTargetOptions.html" title="llvm::MCTargetOptions" alt="" coords="1463,1015,1620,1041"/>
+<area shape="rect" id="node13" href="$classllvm_1_1MCSection.html" title="Instances of this class represent a uniqued identifier for a section in the current translation unit..." alt="" coords="1482,64,1601,91"/>
+<area shape="rect" id="node14" href="$classllvm_1_1SectionKind.html" title="SectionKind &#45; This is a simple POD value that classifies the properties of a section. " alt="" coords="1017,89,1141,116"/>
+<area shape="rect" id="node16" href="$classunsigned.html" title="unsigned" alt="" coords="1504,511,1579,537"/>
+<area shape="rect" id="node18" href="$classllvm_1_1TargetMachine.html" title="Primary interface to the complete machine description for the target machine. " alt="" coords="2258,816,2398,843"/>
+<area shape="rect" id="node19" href="$classllvm_1_1TargetOptions.html" title="llvm::TargetOptions" alt="" coords="1941,1009,2077,1036"/>
+<area shape="rect" id="node35" href="$classllvm_1_1Target.html" title="Target &#45; Wrapper for Target specific information. " alt="" coords="1963,673,2054,700"/>
+<area shape="rect" id="node37" href="$classllvm_1_1DataLayout.html" title="A parsed version of the target data layout string in and methods for querying it. ..." alt="" coords="1948,791,2069,817"/>
+<area shape="rect" id="node40" href="$classllvm_1_1Triple.html" title="Triple &#45; Helper class for working with autoconf configuration names. " alt="" coords="1965,959,2052,985"/>
+</map>

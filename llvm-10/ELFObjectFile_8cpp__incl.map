@@ -1,0 +1,28 @@
+<map id="lib/Object/ELFObjectFile.cpp" name="lib/Object/ELFObjectFile.cpp">
+<area shape="rect" id="node2" href="$ELFObjectFile_8h.html" title="llvm/Object/ELFObjectFile.h" alt="" coords="4536,80,4723,107"/>
+<area shape="rect" id="node7" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3467,692,3645,719"/>
+<area shape="rect" id="node11" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="5895,767,6084,793"/>
+<area shape="rect" id="node18" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="4986,468,5110,495"/>
+<area shape="rect" id="node20" href="$BinaryFormat_2ELF_8h.html" title="llvm/BinaryFormat/ELF.h" alt="" coords="1662,393,1829,420"/>
+<area shape="rect" id="node35" href="$SubtargetFeature_8h.html" title="llvm/MC/SubtargetFeature.h" alt="" coords="5440,319,5627,345"/>
+<area shape="rect" id="node37" href="$Object_2Error_8h.html" title="llvm/Object/Error.h" alt="" coords="4056,393,4187,420"/>
+<area shape="rect" id="node41" href="$Object_2ELF_8h.html" title="llvm/Object/ELF.h" alt="" coords="3403,244,3530,271"/>
+<area shape="rect" id="node42" href="$ELFTypes_8h.html" title="llvm/Object/ELFTypes.h" alt="" coords="3220,319,3383,345"/>
+<area shape="rect" id="node43" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="2734,692,2885,719"/>
+<area shape="rect" id="node47" href="$ARMAttributeParser_8h.html" title="llvm/Support/ARMAttribute\lParser.h" alt="" coords="6177,155,6356,196"/>
+<area shape="rect" id="node48" href="$ARMBuildAttributes_8h.html" title="ARMBuildAttributes.h" alt="" coords="6193,244,6341,271"/>
+<area shape="rect" id="node49" href="$MCInstrAnalysis_8h.html" title="llvm/MC/MCInstrAnalysis.h" alt="" coords="66,80,249,107"/>
+<area shape="rect" id="node50" href="$TargetRegistry_8h.html" title="llvm/Support/TargetRegistry.h" alt="" coords="5630,393,5826,420"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="4308,543,4452,569"/>
+<area shape="rect" id="node4" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="4129,617,4292,644"/>
+<area shape="rect" id="node5" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="4231,767,4401,793"/>
+<area shape="rect" id="node15" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="4480,692,4635,719"/>
+<area shape="rect" id="node17" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="4792,617,4939,644"/>
+<area shape="rect" id="node36" href="$Binary_8h.html" title="llvm/Object/Binary.h" alt="" coords="4921,319,5061,345"/>
+<area shape="rect" id="node38" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="4352,468,4491,495"/>
+<area shape="rect" id="node40" href="$MemoryBuffer_8h.html" title="llvm/Support/MemoryBuffer.h" alt="" coords="4719,468,4911,495"/>
+<area shape="rect" id="node44" href="$ObjectFile_8h.html" title="llvm/Object/ObjectFile.h" alt="" coords="4667,162,4829,189"/>
+<area shape="rect" id="node45" href="$SymbolicFile_8h.html" title="llvm/Object/SymbolicFile.h" alt="" coords="4413,244,4592,271"/>
+<area shape="rect" id="node46" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="5267,617,5421,644"/>
+<area shape="rect" id="node19" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="4629,543,4755,569"/>
+</map>

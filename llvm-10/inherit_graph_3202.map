@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1MCRegisterInfo_1_1DiffListIterator.html" title="DiffListIterator &#45; Base iterator class that can traverse the differentially encoded register and regu..." alt="" coords="5,49,152,90"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MCRegUnitIterator.html" title="llvm::MCRegUnitIterator" alt="" coords="205,5,369,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MCSubRegIterator.html" title="MCSubRegIterator enumerates all sub&#45;registers of Reg. " alt="" coords="206,56,369,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MCSuperRegIterator.html" title="MCSuperRegIterator enumerates all super&#45;registers of Reg. " alt="" coords="200,107,375,133"/>
+</map>

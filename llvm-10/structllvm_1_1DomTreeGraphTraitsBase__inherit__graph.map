@@ -1,0 +1,10 @@
+<map id="llvm::DomTreeGraphTraitsBase&lt; Node, ChildIterator &gt;" name="llvm::DomTreeGraphTraitsBase&lt; Node, ChildIterator &gt;">
+<area shape="rect" id="node2" href="$structllvm_1_1DomTreeGraphTraitsBase.html" title="llvm::DomTreeGraphTraits\lBase\&lt; VPDomTreeNode, VPDomTree\lNode::iterator \&gt;" alt="" coords="440,5,687,61"/>
+<area shape="rect" id="node4" href="$structllvm_1_1DomTreeGraphTraitsBase.html" title="llvm::DomTreeGraphTraits\lBase\&lt; const DomTreeNode,\l DomTreeNode::const_iterator \&gt;" alt="" coords="458,85,669,141"/>
+<area shape="rect" id="node6" href="$structllvm_1_1DomTreeGraphTraitsBase.html" title="llvm::DomTreeGraphTraits\lBase\&lt; DomTreeNode, DomTreeNode\l::iterator \&gt;" alt="" coords="442,165,685,221"/>
+<area shape="rect" id="node8" href="$structllvm_1_1DomTreeGraphTraitsBase.html" title="llvm::DomTreeGraphTraits\lBase\&lt; const VPDomTreeNode,\l VPDomTreeNode::const_iterator \&gt;" alt="" coords="449,245,677,301"/>
+<area shape="rect" id="node3" href="$structllvm_1_1GraphTraits_3_01VPDomTreeNode_01_5_01_4.html" title="Template specializations of GraphTraits for VPDomTreeNode. " alt="" coords="754,13,905,54"/>
+<area shape="rect" id="node5" href="$structllvm_1_1GraphTraits_3_01const_01DomTreeNode_01_5_01_4.html" title="llvm::GraphTraits\&lt;\l const DomTreeNode * \&gt;" alt="" coords="745,93,913,134"/>
+<area shape="rect" id="node7" href="$structllvm_1_1GraphTraits_3_01DomTreeNode_01_5_01_4.html" title="llvm::GraphTraits\&lt;\l DomTreeNode * \&gt;" alt="" coords="763,173,895,214"/>
+<area shape="rect" id="node9" href="$structllvm_1_1GraphTraits_3_01const_01VPDomTreeNode_01_5_01_4.html" title="llvm::GraphTraits\&lt;\l const VPDomTreeNode * \&gt;" alt="" coords="736,253,923,294"/>
+</map>

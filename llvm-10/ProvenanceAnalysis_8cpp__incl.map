@@ -1,0 +1,37 @@
+<map id="lib/Transforms/ObjCARC/ProvenanceAnalysis.cpp" name="lib/Transforms/ObjCARC/ProvenanceAnalysis.cpp">
+<area shape="rect" id="node2" href="$ProvenanceAnalysis_8h.html" title="This file declares a special form of Alias Analysis called ``Provenance Analysis&#39;&#39;. " alt="" coords="3173,102,3325,129"/>
+<area shape="rect" id="node20" href="$AliasAnalysis_8h.html" title="llvm/Analysis/AliasAnalysis.h" alt="" coords="3332,184,3527,211"/>
+<area shape="rect" id="node24" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1635,587,1797,613"/>
+<area shape="rect" id="node30" href="$Instructions_8h.html" title="llvm/IR/Instructions.h" alt="" coords="4501,437,4648,464"/>
+<area shape="rect" id="node32" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="5185,661,5297,688"/>
+<area shape="rect" id="node33" href="$Use_8h.html" title="This defines the Use class. " alt="" coords="5734,736,5837,763"/>
+<area shape="rect" id="node34" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="5135,736,5289,763"/>
+<area shape="rect" id="node36" href="$User_8h.html" title="llvm/IR/User.h" alt="" coords="5399,587,5505,613"/>
+<area shape="rect" id="node39" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="3317,512,3438,539"/>
+<area shape="rect" id="node42" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="532,587,695,613"/>
+<area shape="rect" id="node46" href="$ObjCARCAnalysisUtils_8h.html" title="This file defines common analysis utilities used by the ObjC ARC Optimizer. " alt="" coords="3991,95,4204,136"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2324,587,2479,613"/>
+<area shape="rect" id="node45" href="$ValueHandle_8h.html" title="llvm/IR/ValueHandle.h" alt="" coords="4967,587,5121,613"/>
+<area shape="rect" id="node4" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="2591,661,2764,688"/>
+<area shape="rect" id="node6" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2210,661,2363,688"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2324,885,2487,912"/>
+<area shape="rect" id="node9" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1754,661,1931,688"/>
+<area shape="rect" id="node14" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="1198,661,1405,688"/>
+<area shape="rect" id="node15" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1407,811,1577,837"/>
+<area shape="rect" id="node21" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="3772,661,3895,688"/>
+<area shape="rect" id="node22" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3671,587,3811,613"/>
+<area shape="rect" id="node29" href="$MemoryLocation_8h.html" title="This file provides utility analysis objects describing memory locations. " alt="" coords="3849,355,4060,382"/>
+<area shape="rect" id="node31" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="4246,587,4375,613"/>
+<area shape="rect" id="node35" href="$IR_2Instruction_8h.html" title="llvm/IR/Instruction.h" alt="" coords="4917,512,5057,539"/>
+<area shape="rect" id="node37" href="$TargetLibraryInfo_8h.html" title="llvm/Analysis/TargetLibrary\lInfo.h" alt="" coords="3493,259,3673,300"/>
+<area shape="rect" id="node41" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM. " alt="" coords="3114,437,3273,464"/>
+<area shape="rect" id="node43" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="3716,512,3807,539"/>
+<area shape="rect" id="node25" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="4263,736,4433,763"/>
+<area shape="rect" id="node26" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="904,661,1072,688"/>
+<area shape="rect" id="node27" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2225,736,2415,763"/>
+<area shape="rect" id="node38" href="$CallSite_8h.html" title="llvm/IR/CallSite.h" alt="" coords="4991,355,5116,382"/>
+<area shape="rect" id="node47" href="$StringSwitch_8h.html" title="llvm/ADT/StringSwitch.h" alt="" coords="6133,661,6299,688"/>
+<area shape="rect" id="node48" href="$ObjCARCInstKind_8h.html" title="llvm/Analysis/ObjCARCInst\lKind.h" alt="" coords="4237,348,4422,389"/>
+<area shape="rect" id="node49" href="$Analysis_2Passes_8h.html" title="llvm/Analysis/Passes.h" alt="" coords="3749,184,3907,211"/>
+<area shape="rect" id="node50" href="$ValueTracking_8h.html" title="llvm/Analysis/ValueTracking.h" alt="" coords="4818,266,5017,293"/>
+</map>

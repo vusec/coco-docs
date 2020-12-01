@@ -1,0 +1,45 @@
+<map id="lib/Target/ARM/ThumbRegisterInfo.cpp" name="lib/Target/ARM/ThumbRegisterInfo.cpp">
+<area shape="rect" id="node2" href="$ThumbRegisterInfo_8h.html" title="ThumbRegisterInfo.h" alt="" coords="3797,266,3941,293"/>
+<area shape="rect" id="node5" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1158,534,1347,561"/>
+<area shape="rect" id="node14" href="$ARMBaseInstrInfo_8h.html" title="ARMBaseInstrInfo.h" alt="" coords="4043,184,4185,211"/>
+<area shape="rect" id="node17" href="$MachineInstrBuilder_8h.html" title="llvm/CodeGen/MachineInstr\lBuilder.h" alt="" coords="4230,348,4414,389"/>
+<area shape="rect" id="node18" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="2690,445,2909,471"/>
+<area shape="rect" id="node23" href="$ARMMachineFunctionInfo_8h.html" title="ARMMachineFunctionInfo.h" alt="" coords="139,355,323,382"/>
+<area shape="rect" id="node25" href="$ARMSubtarget_8h.html" title="ARMSubtarget.h" alt="" coords="1961,102,2080,129"/>
+<area shape="rect" id="node27" href="$MachineConstantPool_8h.html" title="This file declares the MachineConstantPool class which is an abstract constant pool to keep track of ..." alt="" coords="754,259,965,300"/>
+<area shape="rect" id="node29" href="$TargetFrameLowering_8h.html" title="llvm/CodeGen/TargetFrame\lLowering.h" alt="" coords="2432,437,2615,479"/>
+<area shape="rect" id="node31" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="2096,445,2225,471"/>
+<area shape="rect" id="node32" href="$DerivedTypes_8h.html" title="llvm/IR/DerivedTypes.h" alt="" coords="1871,534,2031,561"/>
+<area shape="rect" id="node34" href="$ARMAddressingModes_8h.html" title="MCTargetDesc/ARMAddressing\lModes.h" alt="" coords="1039,259,1250,300"/>
+<area shape="rect" id="node39" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="383,445,578,471"/>
+<area shape="rect" id="node45" href="$MachineFrameInfo_8h.html" title="llvm/CodeGen/MachineFrame\lInfo.h" alt="" coords="4387,95,4582,136"/>
+<area shape="rect" id="node46" href="$MachineRegisterInfo_8h.html" title="llvm/CodeGen/MachineRegister\lInfo.h" alt="" coords="3347,348,3553,389"/>
+<area shape="rect" id="node47" href="$RegisterScavenging_8h.html" title="This file declares the machine register scavenger class. " alt="" coords="3331,266,3569,293"/>
+<area shape="rect" id="node48" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="1882,445,2021,471"/>
+<area shape="rect" id="node49" href="$LLVMContext_8h.html" title="llvm/IR/LLVMContext.h" alt="" coords="2249,445,2408,471"/>
+<area shape="rect" id="node50" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="1128,102,1316,129"/>
+<area shape="rect" id="node3" href="$ARMBaseRegisterInfo_8h.html" title="ARMBaseRegisterInfo.h" alt="" coords="3787,355,3951,382"/>
+<area shape="rect" id="node13" href="$TargetRegisterInfo_8h.html" title="llvm/CodeGen/TargetRegister\lInfo.h" alt="" coords="3887,437,4082,479"/>
+<area shape="rect" id="node4" href="$MCTargetDesc_2ARMBaseInfo_8h.html" title="MCTargetDesc/ARMBaseInfo.h" alt="" coords="1007,445,1215,471"/>
+<area shape="rect" id="node7" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="3584,527,3775,568"/>
+<area shape="rect" id="node8" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="4141,623,4335,650"/>
+<area shape="rect" id="node9" href="$MachineOperand_8h.html" title="llvm/CodeGen/MachineOperand.h" alt="" coords="4195,705,4414,732"/>
+<area shape="rect" id="node10" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1757,780,1911,807"/>
+<area shape="rect" id="node15" href="$SmallSet_8h.html" title="llvm/ADT/SmallSet.h" alt="" coords="2933,445,3079,471"/>
+<area shape="rect" id="node20" href="$TargetInstrInfo_8h.html" title="llvm/CodeGen/TargetInstr\lInfo.h" alt="" coords="4388,259,4560,300"/>
+<area shape="rect" id="node16" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="282,534,445,561"/>
+<area shape="rect" id="node24" href="$GlobalVariable_8h.html" title="llvm/IR/GlobalVariable.h" alt="" coords="45,445,207,471"/>
+<area shape="rect" id="node26" href="$ARMConstantPoolValue_8h.html" title="ARMConstantPoolValue.h" alt="" coords="688,184,863,211"/>
+<area shape="rect" id="node28" href="$ARMFrameLowering_8h.html" title="ARMFrameLowering.h" alt="" coords="2463,355,2615,382"/>
+<area shape="rect" id="node30" href="$ARMISelLowering_8h.html" title="ARMISelLowering.h" alt="" coords="1895,355,2034,382"/>
+<area shape="rect" id="node33" href="$ARMSelectionDAGInfo_8h.html" title="ARMSelectionDAGInfo.h" alt="" coords="1447,184,1615,211"/>
+<area shape="rect" id="node35" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="1248,184,1372,211"/>
+<area shape="rect" id="node36" href="$CallLowering_8h.html" title="This file describes how to lower LLVM calls to machine code calls. " alt="" coords="1637,437,1807,479"/>
+<area shape="rect" id="node37" href="$InstructionSelector_8h.html" title="llvm/CodeGen/GlobalISel\l/InstructionSelector.h" alt="" coords="1811,616,1980,657"/>
+<area shape="rect" id="node38" href="$LegalizerInfo_8h.html" title="llvm/CodeGen/GlobalISel\l/LegalizerInfo.h" alt="" coords="1651,348,1820,389"/>
+<area shape="rect" id="node40" href="$RegisterBankInfo_8h.html" title="llvm/CodeGen/GlobalISel\l/RegisterBankInfo.h" alt="" coords="1341,437,1511,479"/>
+<area shape="rect" id="node41" href="$TargetSubtargetInfo_8h.html" title="llvm/CodeGen/TargetSubtarget\lInfo.h" alt="" coords="3154,437,3357,479"/>
+<area shape="rect" id="node42" href="$MCInstrItineraries_8h.html" title="llvm/MC/MCInstrItineraries.h" alt="" coords="1691,184,1881,211"/>
+<area shape="rect" id="node43" href="$MCSchedule_8h.html" title="llvm/MC/MCSchedule.h" alt="" coords="1739,266,1900,293"/>
+<area shape="rect" id="node44" href="$TargetOptions_8h.html" title="llvm/Target/TargetOptions.h" alt="" coords="1039,184,1223,211"/>
+</map>

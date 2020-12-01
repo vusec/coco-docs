@@ -1,0 +1,19 @@
+<map id="llvm::GCNSubtarget" name="llvm::GCNSubtarget">
+<area shape="rect" id="node2" href="$classAMDGPUGenSubtargetInfo.html" title="AMDGPUGenSubtargetInfo" alt="" coords="1439,5,1621,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1AMDGPUSubtarget.html" title="llvm::AMDGPUSubtarget" alt="" coords="374,309,543,336"/>
+<area shape="rect" id="node9" href="$structllvm_1_1MCProcResourceDesc.html" title="Define a kind of processor resource that will be modeled by the scheduler. " alt="" coords="364,668,553,695"/>
+<area shape="rect" id="node18" href="$structllvm_1_1InstrStage.html" title="These values represent a non&#45;pipelined step in the execution of an instruction. " alt="" coords="401,148,516,175"/>
+<area shape="rect" id="node5" href="$classbool.html" title="bool" alt="" coords="45,1193,91,1220"/>
+<area shape="rect" id="node8" href="$structllvm_1_1MCSchedModel.html" title="Machine model for scheduling, bundling, and heuristics. " alt="" coords="1160,797,1307,824"/>
+<area shape="rect" id="node11" href="$structllvm_1_1MCSchedClassDesc.html" title="Summarize the scheduling resources required for an instruction of a particular scheduling class..." alt="" coords="370,1212,547,1239"/>
+<area shape="rect" id="node16" href="$structllvm_1_1MCRegisterFileDesc.html" title="A register file descriptor. " alt="" coords="371,1347,547,1373"/>
+<area shape="rect" id="node17" href="$structllvm_1_1MCRegisterCostEntry.html" title="Specify the cost of a register definition in terms of number of physical register allocated at regist..." alt="" coords="367,961,550,988"/>
+<area shape="rect" id="node6" href="$classunsigned.html" title="unsigned" alt="" coords="31,604,105,631"/>
+<area shape="rect" id="node7" href="$classllvm_1_1InstrItineraryData.html" title="Itinerary data supplied by a subtarget to be used by a target. " alt="" coords="1453,560,1607,587"/>
+<area shape="rect" id="node15" href="$structllvm_1_1MCExtraProcessorInfo.html" title="Provide extra details about the machine processor. " alt="" coords="756,924,943,951"/>
+<area shape="rect" id="node10" href="$classchar.html" title="char" alt="" coords="45,1307,91,1333"/>
+<area shape="rect" id="node12" href="$classuint16__t.html" title="uint16_t" alt="" coords="34,1079,102,1105"/>
+<area shape="rect" id="node13" href="$structllvm_1_1InstrItinerary.html" title="An itinerary represents the scheduling information for an instruction. " alt="" coords="786,732,913,759"/>
+<area shape="rect" id="node21" href="$classllvm_1_1SelectionDAGTargetInfo.html" title="Targets can subclass this to parameterize the SelectionDAG lowering and instruction selection process..." alt="" coords="1432,807,1628,833"/>
+<area shape="rect" id="node22" href="$classllvm_1_1Triple.html" title="Triple &#45; Helper class for working with autoconf configuration names. " alt="" coords="1487,857,1573,884"/>
+</map>

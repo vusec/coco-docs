@@ -1,0 +1,17 @@
+<map id="include/llvm/IR/LLVMContext.h" name="include/llvm/IR/LLVMContext.h">
+<area shape="rect" id="node2" href="$c_2Types_8h.html" title="llvm&#45;c/Types.h" alt="" coords="2455,155,2563,181"/>
+<area shape="rect" id="node9" href="$DiagnosticHandler_8h.html" title="llvm/IR/DiagnosticHandler.h" alt="" coords="1388,80,1575,107"/>
+<area shape="rect" id="node38" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="2155,80,2373,107"/>
+<area shape="rect" id="node3" href="$c_2DataTypes_8h.html" title="llvm&#45;c/DataTypes.h" alt="" coords="2481,229,2617,256"/>
+<area shape="rect" id="node8" href="$ExternC_8h.html" title="llvm&#45;c/ExternC.h" alt="" coords="2641,229,2761,256"/>
+<area shape="rect" id="node10" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="620,155,767,181"/>
+<area shape="rect" id="node11" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="952,229,1107,256"/>
+<area shape="rect" id="node14" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1929,453,2092,480"/>
+<area shape="rect" id="node24" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="229,379,400,405"/>
+<area shape="rect" id="node12" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="1766,304,1906,331"/>
+<area shape="rect" id="node23" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="561,304,693,331"/>
+<area shape="rect" id="node29" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1400,304,1589,331"/>
+<area shape="rect" id="node13" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="1656,379,1779,405"/>
+<area shape="rect" id="node17" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1803,379,1973,405"/>
+<area shape="rect" id="node39" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="2168,304,2323,331"/>
+</map>

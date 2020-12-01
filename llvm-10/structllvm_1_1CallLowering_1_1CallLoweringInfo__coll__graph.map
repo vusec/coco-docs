@@ -1,0 +1,37 @@
+<map id="llvm::CallLowering::CallLoweringInfo" name="llvm::CallLowering::CallLoweringInfo">
+<area shape="rect" id="node2" href="$structllvm_1_1CallLowering_1_1ArgInfo.html" title="llvm::CallLowering\l::ArgInfo" alt="" coords="3275,511,3404,553"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Type.html" title="The instances of the Type class are immutable: once they are created, they are never changed..." alt="" coords="420,685,503,712"/>
+<area shape="rect" id="node4" href="$classunsigned.html" title="unsigned" alt="" coords="5,685,80,712"/>
+<area shape="rect" id="node9" href="$classllvm_1_1SmallVectorBase.html" title="This is all the non&#45;templated stuff common to all SmallVectors. " alt="" coords="241,261,396,288"/>
+<area shape="rect" id="node29" href="$classllvm_1_1MachineOperand.html" title="MachineOperand class &#45; Representation of each machine instruction operand. " alt="" coords="729,825,881,852"/>
+<area shape="rect" id="node31" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy. " alt="" coords="265,177,373,204"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::ISD::ArgFlagsTy, 4 \&gt;" alt="" coords="2984,571,3167,613"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; llvm::ISD::ArgFlagsTy \&gt;" alt="" coords="2564,274,2740,315"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="1453,269,1660,310"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="llvm::SmallVectorTemplate\lCommon\&lt; T \&gt;" alt="" coords="905,195,1084,237"/>
+<area shape="rect" id="node13" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; T \&gt;" alt="" coords="1706,151,1885,193"/>
+<area shape="rect" id="node14" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="1245,159,1423,201"/>
+<area shape="rect" id="node25" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="1467,218,1646,259"/>
+<area shape="rect" id="node35" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="1931,43,2109,99"/>
+<area shape="rect" id="node11" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="This is the part of SmallVectorTemplateBase which does not depend on whether the type T is a POD..." alt="" coords="527,195,705,237"/>
+<area shape="rect" id="node12" href="$classllvm_1_1SmallVectorImpl.html" title="This class consists of common code factored out of the SmallVector class to reduce code duplication b..." alt="" coords="2133,159,2316,185"/>
+<area shape="rect" id="node21" href="$classllvm_1_1SmallVector.html" title="This is a &#39;vector&#39; (really, a variable&#45;sized array), optimized for the case when the array is small..." alt="" coords="2585,413,2719,454"/>
+<area shape="rect" id="node24" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; llvm::Register \&gt;" alt="" coords="2577,209,2727,250"/>
+<area shape="rect" id="node34" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; llvm::CallLowering\l::ArgInfo \&gt;" alt="" coords="2577,92,2727,148"/>
+<area shape="rect" id="node15" href="$structllvm_1_1SmallVectorStorage.html" title="llvm::SmallVectorStorage\l\&lt; llvm::ISD::ArgFlagsTy, N \&gt;" alt="" coords="2555,609,2749,650"/>
+<area shape="rect" id="node16" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::ISD::ArgFlagsTy \&gt;" alt="" coords="1700,615,1891,657"/>
+<area shape="rect" id="node17" href="$classchar.html" title="char" alt="" coords="971,480,1018,507"/>
+<area shape="rect" id="node18" href="$structllvm_1_1AlignedCharArrayUnion.html" title="A suitably aligned and sized character array member which can hold elements of any type..." alt="" coords="1239,473,1429,514"/>
+<area shape="rect" id="node20" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\&lt; T \&gt;" alt="" coords="1684,447,1907,473"/>
+<area shape="rect" id="node27" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::Register \&gt;" alt="" coords="1700,550,1891,591"/>
+<area shape="rect" id="node37" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::CallLowering::ArgInfo \&gt;" alt="" coords="1694,335,1897,377"/>
+<area shape="rect" id="node19" href="$structllvm_1_1SmallVectorStorage.html" title="Storage for the SmallVector elements. " alt="" coords="2139,439,2310,481"/>
+<area shape="rect" id="node26" href="$structllvm_1_1SmallVectorStorage.html" title="llvm::SmallVectorStorage\l\&lt; llvm::Register, N \&gt;" alt="" coords="2567,543,2737,585"/>
+<area shape="rect" id="node36" href="$structllvm_1_1SmallVectorStorage.html" title="llvm::SmallVectorStorage\l\&lt; llvm::CallLowering::ArgInfo, N \&gt;" alt="" coords="2541,339,2763,381"/>
+<area shape="rect" id="node23" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::Register, 2 \&gt;" alt="" coords="3008,506,3143,547"/>
+<area shape="rect" id="node28" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::Register, 4 \&gt;" alt="" coords="3008,441,3143,482"/>
+<area shape="rect" id="node33" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::CallLowering\l::ArgInfo, 8 \&gt;" alt="" coords="3009,272,3142,328"/>
+<area shape="rect" id="node22" href="$classbool.html" title="bool" alt="" coords="3052,389,3099,416"/>
+<area shape="rect" id="node30" href="$classllvm_1_1MDNode.html" title="Metadata node. " alt="" coords="1108,16,1215,43"/>
+<area shape="rect" id="node32" href="$classllvm_1_1Register.html" title="Wrapper class representing virtual and physical registers. " alt="" coords="3288,792,3391,819"/>
+</map>

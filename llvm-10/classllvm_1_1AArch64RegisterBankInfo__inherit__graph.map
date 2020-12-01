@@ -1,0 +1,4 @@
+<map id="llvm::AArch64RegisterBankInfo" name="llvm::AArch64RegisterBankInfo">
+<area shape="rect" id="node2" href="$classllvm_1_1AArch64GenRegisterBankInfo.html" title="llvm::AArch64GenRegister\lBankInfo" alt="" coords="19,80,197,121"/>
+<area shape="rect" id="node3" href="$classllvm_1_1RegisterBankInfo.html" title="Holds all the information related to register banks. " alt="" coords="31,5,185,32"/>
+</map>

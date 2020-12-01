@@ -1,0 +1,37 @@
+<map id="include/llvm/MCA/Instruction.h" name="include/llvm/MCA/Instruction.h">
+<area shape="rect" id="node2" href="$CodeEmitter_8h.html" title="A utility class used to compute instruction encodings. " alt="" coords="5,87,219,114"/>
+<area shape="rect" id="node4" href="$LSUnit_8h.html" title="A Load/Store unit class that models load/store queues and that implements a simple weak memory consis..." alt="" coords="1315,80,1501,121"/>
+<area shape="rect" id="node10" href="$ExecuteStage_8h.html" title="This file defines the execution stage of a default instruction pipeline. " alt="" coords="293,259,464,300"/>
+<area shape="rect" id="node18" href="$LSUnit_8cpp.html" title="A Load&#45;Store Unit for the llvm&#45;mca tool. " alt="" coords="1197,169,1357,211"/>
+<area shape="rect" id="node19" href="$ResourceManager_8h.html" title="The classes here represent processor resource units and their management strategy. " alt="" coords="987,80,1173,121"/>
+<area shape="rect" id="node21" href="$RetireControlUnit_8h.html" title="This file simulates the hardware responsible for retiring instructions. " alt="" coords="2287,169,2473,211"/>
+<area shape="rect" id="node22" href="$DispatchStage_8h.html" title="This file models the dispatch component of an instruction pipeline. " alt="" coords="2168,259,2339,300"/>
+<area shape="rect" id="node24" href="$HWEventListener_8h.html" title="This file defines the main interface for hardware event listeners. " alt="" coords="1777,80,1964,121"/>
+<area shape="rect" id="node27" href="$EntryStage_8cpp.html" title="This file defines the Fetch stage of an instruction pipeline. " alt="" coords="124,355,332,382"/>
+<area shape="rect" id="node32" href="$InstrBuilder_8h.html" title="A builder class for instructions that are statically analyzed by llvm&#45;mca. " alt="" coords="2338,87,2545,114"/>
+<area shape="rect" id="node34" href="$MCA_2SourceMgr_8h.html" title="This file implements class SourceMgr. " alt="" coords="576,177,779,203"/>
+<area shape="rect" id="node35" href="$RegisterFile_8cpp.html" title="This file defines a register mapping file class. " alt="" coords="2569,80,2729,121"/>
+<area shape="rect" id="node36" href="$MCA_2Instruction_8cpp.html" title="lib/MCA/Instruction.cpp" alt="" coords="2754,87,2913,114"/>
+<area shape="rect" id="node3" href="$CodeEmitter_8cpp.html" title="lib/MCA/CodeEmitter.cpp" alt="" coords="27,177,197,203"/>
+<area shape="rect" id="node5" href="$Scheduler_8h.html" title="A scheduler for Processor Resource Units and Processor Resource Groups. " alt="" coords="987,169,1173,211"/>
+<area shape="rect" id="node16" href="$RetireStage_8h.html" title="This file defines the retire stage of a default instruction pipeline. " alt="" coords="1872,259,2043,300"/>
+<area shape="rect" id="node6" href="$Pipeline_8h.html" title="This file implements an ordered container of stages that simulate the pipeline of a hardware backend..." alt="" coords="968,266,1155,293"/>
+<area shape="rect" id="node8" href="$Context_8cpp.html" title="This file defines a class for holding ownership of various simulated hardware units. " alt="" coords="1239,437,1383,464"/>
+<area shape="rect" id="node12" href="$InstructionTables_8h.html" title="This file implements a custom stage to generate instruction tables. " alt="" coords="1179,259,1349,300"/>
+<area shape="rect" id="node14" href="$Scheduler_8cpp.html" title="lib/MCA/HardwareUnits\l/Scheduler.cpp" alt="" coords="733,259,893,300"/>
+<area shape="rect" id="node15" href="$DispatchStage_8cpp.html" title="This file models the dispatch component of an instruction pipeline. " alt="" coords="2025,355,2255,382"/>
+<area shape="rect" id="node7" href="$Context_8h.html" title="This file defines a class for holding ownership of various simulated hardware units. " alt="" coords="707,355,893,382"/>
+<area shape="rect" id="node9" href="$Pipeline_8cpp.html" title="This file implements an ordered container of stages that simulate the pipeline of a hardware backend..." alt="" coords="999,355,1143,382"/>
+<area shape="rect" id="node11" href="$ExecuteStage_8cpp.html" title="This file defines the execution stage of an instruction pipeline. " alt="" coords="357,355,582,382"/>
+<area shape="rect" id="node13" href="$InstructionTables_8cpp.html" title="This file implements the method InstructionTables::execute(). " alt="" coords="1175,348,1353,389"/>
+<area shape="rect" id="node17" href="$RetireStage_8cpp.html" title="This file defines the retire stage of an instruction pipeline. " alt="" coords="1789,355,2001,382"/>
+<area shape="rect" id="node20" href="$ResourceManager_8cpp.html" title="The classes here represent processor resource units and their management strategy. " alt="" coords="803,169,963,211"/>
+<area shape="rect" id="node23" href="$RetireControlUnit_8cpp.html" title="This file simulates the hardware responsible for retiring instructions. " alt="" coords="2413,259,2573,300"/>
+<area shape="rect" id="node25" href="$Stage_8h.html" title="This file defines a stage. " alt="" coords="1381,169,1552,211"/>
+<area shape="rect" id="node31" href="$HWEventListener_8cpp.html" title="This file defines a vtable anchor for class HWEventListener. " alt="" coords="1959,177,2161,203"/>
+<area shape="rect" id="node26" href="$EntryStage_8h.html" title="This file defines the Entry stage of an instruction pipeline. " alt="" coords="488,259,659,300"/>
+<area shape="rect" id="node28" href="$MicroOpQueueStage_8h.html" title="This file defines a stage that implements a queue of micro opcodes. " alt="" coords="1627,259,1797,300"/>
+<area shape="rect" id="node30" href="$Stage_8cpp.html" title="This file defines a stage. " alt="" coords="1374,266,1551,293"/>
+<area shape="rect" id="node29" href="$MicroOpQueueStage_8cpp.html" title="This file defines the MicroOpQueueStage. " alt="" coords="1459,348,1664,389"/>
+<area shape="rect" id="node33" href="$InstrBuilder_8cpp.html" title="This file implements the InstrBuilder interface. " alt="" coords="2497,177,2661,203"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="lib/DebugInfo/CodeView/TypeRecordMapping.cpp" name="lib/DebugInfo/CodeView/TypeRecordMapping.cpp">
+<area shape="rect" id="node2" href="$TypeRecordMapping_8h.html" title="llvm/DebugInfo/CodeView\l/TypeRecordMapping.h" alt="" coords="3257,95,3431,136"/>
+<area shape="rect" id="node31" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="1873,638,2037,665"/>
+<area shape="rect" id="node48" href="$CodeView_2EnumTables_8h.html" title="llvm/DebugInfo/CodeView\l/EnumTables.h" alt="" coords="3499,541,3674,583"/>
+<area shape="rect" id="node3" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3830,944,3970,971"/>
+<area shape="rect" id="node12" href="$CVTypeVisitor_8h.html" title="llvm/DebugInfo/CodeView\l/CVTypeVisitor.h" alt="" coords="2246,184,2421,225"/>
+<area shape="rect" id="node29" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="1588,549,1727,575"/>
+<area shape="rect" id="node44" href="$CodeViewRecordIO_8h.html" title="llvm/DebugInfo/CodeView\l/CodeViewRecordIO.h" alt="" coords="2798,184,2973,225"/>
+<area shape="rect" id="node46" href="$TypeVisitorCallbacks_8h.html" title="llvm/DebugInfo/CodeView\l/TypeVisitorCallbacks.h" alt="" coords="3257,184,3431,225"/>
+<area shape="rect" id="node4" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="4243,1019,4365,1045"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2796,1093,2959,1120"/>
+<area shape="rect" id="node6" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="3279,1019,3449,1045"/>
+<area shape="rect" id="node13" href="$CVRecord_8h.html" title="llvm/DebugInfo/CodeView\l/CVRecord.h" alt="" coords="2045,363,2219,404"/>
+<area shape="rect" id="node41" href="$TypeRecord_8h.html" title="llvm/DebugInfo/CodeView\l/TypeRecord.h" alt="" coords="3257,273,3431,315"/>
+<area shape="rect" id="node14" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="3331,720,3475,747"/>
+<area shape="rect" id="node28" href="$CodeViewError_8h.html" title="llvm/DebugInfo/CodeView\l/CodeViewError.h" alt="" coords="1541,452,1715,493"/>
+<area shape="rect" id="node40" href="$BinaryStreamReader_8h.html" title="llvm/Support/BinaryStream\lReader.h" alt="" coords="2260,452,2439,493"/>
+<area shape="rect" id="node15" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3056,795,3219,821"/>
+<area shape="rect" id="node24" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2099,869,2253,896"/>
+<area shape="rect" id="node16" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1769,869,1922,896"/>
+<area shape="rect" id="node18" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1235,944,1424,971"/>
+<area shape="rect" id="node30" href="$c_2Error_8h.html" title="llvm&#45;c/Error.h" alt="" coords="1270,638,1370,665"/>
+<area shape="rect" id="node34" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="1270,720,1397,747"/>
+<area shape="rect" id="node35" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="1446,638,1594,665"/>
+<area shape="rect" id="node36" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer. " alt="" coords="1493,795,1645,821"/>
+<area shape="rect" id="node38" href="$Format_8h.html" title="llvm/Support/Format.h" alt="" coords="2061,638,2211,665"/>
+<area shape="rect" id="node39" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2766,720,2951,747"/>
+<area shape="rect" id="node32" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="2329,720,2487,747"/>
+<area shape="rect" id="node33" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2379,795,2525,821"/>
+<area shape="rect" id="node42" href="$APSInt_8h.html" title="llvm/ADT/APSInt.h" alt="" coords="4230,720,4365,747"/>
+<area shape="rect" id="node43" href="$CodeView_8h.html" title="llvm/DebugInfo/CodeView\l/CodeView.h" alt="" coords="4291,631,4466,672"/>
+<area shape="rect" id="node45" href="$BinaryStreamWriter_8h.html" title="llvm/Support/BinaryStream\lWriter.h" alt="" coords="2056,452,2235,493"/>
+<area shape="rect" id="node49" href="$BinaryFormat_2COFF_8h.html" title="llvm/BinaryFormat/COFF.h" alt="" coords="2803,795,2981,821"/>
+<area shape="rect" id="node50" href="$ScopedPrinter_8h.html" title="llvm/Support/ScopedPrinter.h" alt="" coords="3533,638,3725,665"/>
+</map>

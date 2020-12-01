@@ -1,0 +1,4 @@
+<map id="llvm::Error" name="llvm::Error">
+<area shape="rect" id="node2" href="$classllvm_1_1ErrorSuccess.html" title="Subclass of Error for the sole purpose of identifying the success path in the type system..." alt="" coords="5,80,139,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MSVCPError.html" title="llvm::MSVCPError" alt="" coords="163,80,293,107"/>
+</map>

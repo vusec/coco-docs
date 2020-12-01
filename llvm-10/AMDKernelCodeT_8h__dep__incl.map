@@ -1,0 +1,51 @@
+<map id="lib/Target/AMDGPU/AMDKernelCodeT.h" name="lib/Target/AMDGPU/AMDKernelCodeT.h">
+<area shape="rect" id="node2" href="$AMDGPUBaseInfo_8h.html" title="lib/Target/AMDGPU/Utils\l/AMDGPUBaseInfo.h" alt="" coords="3095,95,3266,136"/>
+<area shape="rect" id="node31" href="$AMDGPUAsmParser_8cpp.html" title="lib/Target/AMDGPU/AsmParser\l/AMDGPUAsmParser.cpp" alt="" coords="5122,363,5330,404"/>
+<area shape="rect" id="node44" href="$AMDGPUAsmPrinter_8h.html" title="AMDGPU Assembly printer class. " alt="" coords="5126,273,5355,315"/>
+<area shape="rect" id="node46" href="$AMDGPUHSAMetadataStreamer_8h.html" title="AMDGPU HSA Metadata Streamer. " alt="" coords="5431,184,5715,225"/>
+<area shape="rect" id="node47" href="$AMDGPUTargetStreamer_8h.html" title="lib/Target/AMDGPU/MCTarget\lDesc/AMDGPUTargetStreamer.h" alt="" coords="5616,273,5833,315"/>
+<area shape="rect" id="node49" href="$AMDKernelCodeTUtils_8h.html" title="lib/Target/AMDGPU/Utils\l/AMDKernelCodeTUtils.h" alt="" coords="5957,273,6127,315"/>
+<area shape="rect" id="node3" href="$AMDGPUInstrInfo_8h.html" title="Contains the definition of a TargetInstrInfo class that is common to all AMD GPUs. " alt="" coords="3513,184,3741,225"/>
+<area shape="rect" id="node4" href="$SIInstrInfo_8h.html" title="Interface definition for SIInstrInfo. " alt="" coords="1959,273,2141,315"/>
+<area shape="rect" id="node5" href="$AMDGPUSubtarget_8h.html" title="AMDGPU specific subclass of TargetSubtarget. " alt="" coords="2863,370,3133,397"/>
+<area shape="rect" id="node6" href="$AMDGPUAnnotateKernelFeatures_8cpp.html" title="lib/Target/AMDGPU/AMDGPUAnnotate\lKernelFeatures.cpp" alt="" coords="3361,452,3616,493"/>
+<area shape="rect" id="node7" href="$AMDGPUAsmPrinter_8cpp.html" title="The AMDGPUAsmPrinter is used to print both assembly string and also binary code. " alt="" coords="5185,452,5414,493"/>
+<area shape="rect" id="node8" href="$AMDGPUHSAMetadataStreamer_8cpp.html" title="AMDGPU HSA Metadata Streamer. " alt="" coords="5489,452,5773,493"/>
+<area shape="rect" id="node11" href="$AMDGPUISelLowering_8cpp.html" title="This is the parent TargetLowering class for hardware code gen targets. " alt="" coords="685,452,911,493"/>
+<area shape="rect" id="node13" href="$AMDGPUPromoteAlloca_8cpp.html" title="lib/Target/AMDGPU/AMDGPUPromote\lAlloca.cpp" alt="" coords="3641,452,3891,493"/>
+<area shape="rect" id="node14" href="$AMDGPUPropagateAttributes_8cpp.html" title="This pass propagates attributes from kernels to the non&#45;entry functions. " alt="" coords="3915,452,4177,493"/>
+<area shape="rect" id="node16" href="$AMDGPUTargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the AMDGPU target machine..." alt="" coords="4652,452,4891,493"/>
+<area shape="rect" id="node17" href="$AMDGPUTargetTransformInfo_8cpp.html" title="lib/Target/AMDGPU/AMDGPUTarget\lTransformInfo.cpp" alt="" coords="2428,541,2667,583"/>
+<area shape="rect" id="node18" href="$AMDGPUBaseInfo_8cpp.html" title="lib/Target/AMDGPU/Utils\l/AMDGPUBaseInfo.cpp" alt="" coords="5026,541,5197,583"/>
+<area shape="rect" id="node19" href="$GCNHazardRecognizer_8cpp.html" title="lib/Target/AMDGPU/GCNHazard\lRecognizer.cpp" alt="" coords="2295,452,2509,493"/>
+<area shape="rect" id="node20" href="$GCNSchedStrategy_8cpp.html" title="This contains a MachineSchedStrategy implementation for maximizing wave occupancy on GCN hardware..." alt="" coords="1599,452,1810,493"/>
+<area shape="rect" id="node21" href="$R600InstrInfo_8cpp.html" title="R600 Implementation of TargetInstrInfo. " alt="" coords="462,452,662,493"/>
+<area shape="rect" id="node22" href="$R600ISelLowering_8cpp.html" title="Custom DAG lowering for R600. " alt="" coords="4201,452,4398,493"/>
+<area shape="rect" id="node23" href="$SIInsertWaitcnts_8cpp.html" title="Insert wait instructions for memory reads and writes. " alt="" coords="3147,452,3337,493"/>
+<area shape="rect" id="node24" href="$SIInstrInfo_8cpp.html" title="SI Implementation of TargetInstrInfo. " alt="" coords="255,452,437,493"/>
+<area shape="rect" id="node25" href="$SIISelLowering_8cpp.html" title="Custom DAG lowering for SI. " alt="" coords="935,452,1114,493"/>
+<area shape="rect" id="node26" href="$SILoadStoreOptimizer_8cpp.html" title="lib/Target/AMDGPU/SILoad\lStoreOptimizer.cpp" alt="" coords="46,452,230,493"/>
+<area shape="rect" id="node27" href="$SIMachineFunctionInfo_8cpp.html" title="lib/Target/AMDGPU/SIMachine\lFunctionInfo.cpp" alt="" coords="4422,452,4627,493"/>
+<area shape="rect" id="node28" href="$SIMemoryLegalizer_8cpp.html" title="Memory legalizer &#45; implements memory model. " alt="" coords="1138,452,1341,493"/>
+<area shape="rect" id="node30" href="$SIPeepholeSDWA_8cpp.html" title="lib/Target/AMDGPU/SIPeephole\lSDWA.cpp" alt="" coords="1365,452,1575,493"/>
+<area shape="rect" id="node33" href="$AMDGPUAlwaysInlinePass_8cpp.html" title="This pass marks all internal functions as always_inline and creates duplicates of all other functions..." alt="" coords="949,184,1194,225"/>
+<area shape="rect" id="node34" href="$AMDGPUMachineFunction_8h.html" title="lib/Target/AMDGPU/AMDGPUMachine\lFunction.h" alt="" coords="1218,184,1469,225"/>
+<area shape="rect" id="node35" href="$AMDGPUPerfHintAnalysis_8cpp.html" title="Analyzes if a function potentially memory bound and if a kernel kernel may benefit from limiting numb..." alt="" coords="1493,184,1719,225"/>
+<area shape="rect" id="node36" href="$AMDGPURewriteOutArguments_8cpp.html" title="lib/Target/AMDGPU/AMDGPURewrite\lOutArguments.cpp" alt="" coords="1744,184,1991,225"/>
+<area shape="rect" id="node37" href="$AMDGPUTargetObjectFile_8cpp.html" title="lib/Target/AMDGPU/AMDGPUTarget\lObjectFile.cpp" alt="" coords="2015,184,2253,225"/>
+<area shape="rect" id="node38" href="$AMDGPUDisassembler_8cpp.html" title="This file contains definition for AMDGPU ISA disassembler. " alt="" coords="2277,184,2500,225"/>
+<area shape="rect" id="node39" href="$AMDGPUAsmBackend_8cpp.html" title="lib/Target/AMDGPU/MCTarget\lDesc/AMDGPUAsmBackend.cpp" alt="" coords="2525,184,2743,225"/>
+<area shape="rect" id="node40" href="$AMDGPUELFStreamer_8cpp.html" title="lib/Target/AMDGPU/MCTarget\lDesc/AMDGPUELFStreamer.cpp" alt="" coords="2767,184,2986,225"/>
+<area shape="rect" id="node41" href="$AMDGPUInstPrinter_8cpp.html" title="lib/Target/AMDGPU/MCTarget\lDesc/AMDGPUInstPrinter.cpp" alt="" coords="3011,184,3212,225"/>
+<area shape="rect" id="node42" href="$AMDGPUTargetStreamer_8cpp.html" title="lib/Target/AMDGPU/MCTarget\lDesc/AMDGPUTargetStreamer.cpp" alt="" coords="5975,363,6205,404"/>
+<area shape="rect" id="node43" href="$SIMCCodeEmitter_8cpp.html" title="The SI code emitter produces machine code that can be executed directly on the GPU device..." alt="" coords="3288,184,3489,225"/>
+<area shape="rect" id="node9" href="$AMDGPUInstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for AMDGPU. " alt="" coords="2585,452,2848,493"/>
+<area shape="rect" id="node10" href="$AMDGPUISelDAGToDAG_8cpp.html" title="Defines an instruction selector for the AMDGPU target. " alt="" coords="1833,452,2059,493"/>
+<area shape="rect" id="node15" href="$AMDGPURegisterBankInfo_8cpp.html" title="This file implements the targeting of the RegisterBankInfo class for AMDGPU. " alt="" coords="2873,452,3123,493"/>
+<area shape="rect" id="node29" href="$SIModeRegister_8cpp.html" title="This pass inserts changes to the Mode register settings as required. " alt="" coords="2083,452,2271,493"/>
+<area shape="rect" id="node32" href="$AMDGPUInstrInfo_8cpp.html" title="Implementation of the TargetInstrInfo class that is common to all AMD GPUs. " alt="" coords="2165,273,2393,315"/>
+<area shape="rect" id="node12" href="$AMDGPUMCInstLower_8cpp.html" title="Code to lower AMDGPU MachineInstrs to their corresponding MCInst. " alt="" coords="4915,452,5161,493"/>
+<area shape="rect" id="node45" href="$AMDGPUPALMetadata_8cpp.html" title="This class has methods called by AMDGPUAsmPrinter to accumulate and print the PAL metadata..." alt="" coords="5354,363,5543,404"/>
+<area shape="rect" id="node48" href="$AMDGPUMCTargetDesc_8cpp.html" title="This file provides AMDGPU specific target descriptions. " alt="" coords="5720,363,5951,404"/>
+<area shape="rect" id="node50" href="$AMDKernelCodeTUtils_8cpp.html" title="lib/Target/AMDGPU/Utils\l/AMDKernelCodeTUtils.cpp" alt="" coords="6230,363,6414,404"/>
+</map>

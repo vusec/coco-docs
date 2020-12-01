@@ -1,0 +1,29 @@
+<map id="lib/DebugInfo/PDB/PDBSymbolTypeFunctionSig.cpp" name="lib/DebugInfo/PDB/PDBSymbolTypeFunctionSig.cpp">
+<area shape="rect" id="node2" href="$PDBSymbolTypeFunctionSig_8h.html" title="llvm/DebugInfo/PDB\l/PDBSymbolTypeFunctionSig.h" alt="" coords="2642,95,2849,136"/>
+<area shape="rect" id="node3" href="$PDBSymbol_8h.html" title="PDBSymbol.h" alt="" coords="2131,191,2237,218"/>
+<area shape="rect" id="node4" href="$ConcreteSymbolEnumerator_8h.html" title="ConcreteSymbolEnumerator.h" alt="" coords="1844,348,2041,375"/>
+<area shape="rect" id="node5" href="$IPDBEnumChildren_8h.html" title="llvm/DebugInfo/PDB\l/IPDBEnumChildren.h" alt="" coords="2323,512,2474,553"/>
+<area shape="rect" id="node47" href="$IPDBSession_8h.html" title="llvm/DebugInfo/PDB\l/IPDBSession.h" alt="" coords="1917,95,2059,136"/>
+<area shape="rect" id="node48" href="$PDBSymDumper_8h.html" title="llvm/DebugInfo/PDB\l/PDBSymDumper.h" alt="" coords="3061,184,3203,225"/>
+<area shape="rect" id="node49" href="$PDBSymbolTypeBuiltin_8h.html" title="llvm/DebugInfo/PDB\l/PDBSymbolTypeBuiltin.h" alt="" coords="2159,95,2334,136"/>
+<area shape="rect" id="node50" href="$PDBSymbolTypeFunctionArg_8h.html" title="llvm/DebugInfo/PDB\l/PDBSymbolTypeFunctionArg.h" alt="" coords="2409,95,2617,136"/>
+<area shape="rect" id="node9" href="$PDBTypes_8h.html" title="llvm/DebugInfo/PDB\l/PDBTypes.h" alt="" coords="2901,423,3043,464"/>
+<area shape="rect" id="node25" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="771,609,925,635"/>
+<area shape="rect" id="node29" href="$IPDBRawSymbol_8h.html" title="IPDBRawSymbol.h" alt="" coords="2116,348,2252,375"/>
+<area shape="rect" id="node38" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1487,519,1641,546"/>
+<area shape="rect" id="node44" href="$PDBExtras_8h.html" title="PDBExtras.h" alt="" coords="2728,273,2827,300"/>
+<area shape="rect" id="node10" href="$CodeView_8h.html" title="llvm/DebugInfo/CodeView\l/CodeView.h" alt="" coords="3654,512,3829,553"/>
+<area shape="rect" id="node20" href="$IPDBFrameData_8h.html" title="llvm/DebugInfo/PDB\l/IPDBFrameData.h" alt="" coords="3435,601,3578,643"/>
+<area shape="rect" id="node22" href="$RawTypes_8h.html" title="llvm/DebugInfo/PDB\l/Native/RawTypes.h" alt="" coords="3006,512,3149,553"/>
+<area shape="rect" id="node13" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="2905,609,3055,635"/>
+<area shape="rect" id="node14" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1013,765,1176,792"/>
+<area shape="rect" id="node26" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="887,691,1057,717"/>
+<area shape="rect" id="node30" href="$BitmaskEnum_8h.html" title="llvm/ADT/BitmaskEnum.h" alt="" coords="2145,609,2319,635"/>
+<area shape="rect" id="node31" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1627,609,1789,635"/>
+<area shape="rect" id="node37" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1907,430,2053,457"/>
+<area shape="rect" id="node32" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1183,691,1353,717"/>
+<area shape="rect" id="node34" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1939,691,2128,717"/>
+<area shape="rect" id="node39" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="1001,609,1141,635"/>
+<area shape="rect" id="node40" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1318,609,1450,635"/>
+<area shape="rect" id="node45" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2410,348,2595,375"/>
+</map>

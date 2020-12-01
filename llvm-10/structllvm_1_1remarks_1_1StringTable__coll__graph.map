@@ -1,0 +1,8 @@
+<map id="llvm::remarks::StringTable" name="llvm::remarks::StringTable">
+<area shape="rect" id="node2" href="$classsize__t.html" title="size_t" alt="" coords="13,341,71,367"/>
+<area shape="rect" id="node3" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; unsigned,\l llvm::BumpPtrAllocatorImpl \&gt;" alt="" coords="95,333,293,375"/>
+<area shape="rect" id="node4" href="$classllvm_1_1StringMapImpl.html" title="StringMapImpl &#45; This is the base class of StringMap that is shared among all of its instantiations..." alt="" coords="98,139,237,165"/>
+<area shape="rect" id="node7" href="$classllvm_1_1StringMap.html" title="StringMap &#45; This is an unconventional map that is specialized for handling keys that are &quot;strings&quot;..." alt="" coords="189,215,367,256"/>
+<area shape="rect" id="node5" href="$classllvm_1_1StringMapEntryBase.html" title="StringMapEntryBase &#45; Shared base class of StringMapEntry instances. " alt="" coords="5,5,180,32"/>
+<area shape="rect" id="node6" href="$classunsigned.html" title="unsigned" alt="" coords="205,5,279,32"/>
+</map>

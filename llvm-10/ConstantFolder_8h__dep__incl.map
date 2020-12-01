@@ -1,0 +1,51 @@
+<map id="include/llvm/IR/ConstantFolder.h" name="include/llvm/IR/ConstantFolder.h">
+<area shape="rect" id="node2" href="$IRBuilder_8h.html" title="include/llvm/IR/IRBuilder.h" alt="" coords="2706,95,2885,121"/>
+<area shape="rect" id="node50" href="$SROA_8cpp.html" title="This transformation implements the well known scalar replacement of aggregates transformation. " alt="" coords="7075,169,7222,211"/>
+<area shape="rect" id="node3" href="$IVDescriptors_8h.html" title="include/llvm/Analysis\l/IVDescriptors.h" alt="" coords="6804,169,6949,211"/>
+<area shape="rect" id="node4" href="$LoopUtils_8h.html" title="include/llvm/Transforms\l/Utils/LoopUtils.h" alt="" coords="6817,259,6979,300"/>
+<area shape="rect" id="node5" href="$ExpandReductions_8cpp.html" title="lib/CodeGen/ExpandReductions.cpp" alt="" coords="6851,348,7084,375"/>
+<area shape="rect" id="node6" href="$HardwareLoops_8cpp.html" title="Insert hardware loop intrinsics into loops which are deemed profitable by the target, by querying TargetTransformInfo. " alt="" coords="851,348,1065,375"/>
+<area shape="rect" id="node7" href="$MemoryBuiltins_8h.html" title="include/llvm/Analysis\l/MemoryBuiltins.h" alt="" coords="265,169,411,211"/>
+<area shape="rect" id="node8" href="$CodeGenPrepare_8cpp.html" title="lib/CodeGen/CodeGenPrepare.cpp" alt="" coords="291,266,513,293"/>
+<area shape="rect" id="node9" href="$ScalarEvolutionExpander_8h.html" title="include/llvm/Analysis\l/ScalarEvolutionExpander.h" alt="" coords="7,169,189,211"/>
+<area shape="rect" id="node10" href="$LoopAccessAnalysis_8cpp.html" title="lib/Analysis/LoopAccessAnalysis.cpp" alt="" coords="26,266,266,293"/>
+<area shape="rect" id="node11" href="$VectorUtils_8h.html" title="include/llvm/Analysis\l/VectorUtils.h" alt="" coords="673,169,819,211"/>
+<area shape="rect" id="node12" href="$VectorUtils_8cpp.html" title="lib/Analysis/VectorUtils.cpp" alt="" coords="537,266,720,293"/>
+<area shape="rect" id="node13" href="$AArch64ISelLowering_8cpp.html" title="lib/Target/AArch64\l/AArch64ISelLowering.cpp" alt="" coords="745,259,921,300"/>
+<area shape="rect" id="node14" href="$AtomicExpandUtils_8h.html" title="include/llvm/CodeGen\l/AtomicExpandUtils.h" alt="" coords="1145,169,1296,211"/>
+<area shape="rect" id="node15" href="$AtomicExpandPass_8cpp.html" title="lib/CodeGen/AtomicExpand\lPass.cpp" alt="" coords="996,259,1179,300"/>
+<area shape="rect" id="node16" href="$TargetLowering_8h.html" title="This file describes how to lower LLVM code to machine code. " alt="" coords="1460,169,1611,211"/>
+<area shape="rect" id="node17" href="$ExpandMemCmp_8cpp.html" title="lib/CodeGen/ExpandMemCmp.cpp" alt="" coords="1203,266,1427,293"/>
+<area shape="rect" id="node18" href="$InterleavedAccessPass_8cpp.html" title="lib/CodeGen/InterleavedAccess\lPass.cpp" alt="" coords="1452,259,1659,300"/>
+<area shape="rect" id="node19" href="$SafeStack_8cpp.html" title="lib/CodeGen/SafeStack.cpp" alt="" coords="1683,266,1867,293"/>
+<area shape="rect" id="node20" href="$StackProtector_8cpp.html" title="lib/CodeGen/StackProtector.cpp" alt="" coords="1891,266,2102,293"/>
+<area shape="rect" id="node21" href="$TargetLoweringBase_8cpp.html" title="lib/CodeGen/TargetLowering\lBase.cpp" alt="" coords="2126,259,2313,300"/>
+<area shape="rect" id="node22" href="$TypePromotion_8cpp.html" title="This is an opcode based type promotion pass for small types that would otherwise be promoted during l..." alt="" coords="2337,266,2547,293"/>
+<area shape="rect" id="node23" href="$WasmEHPrepare_8cpp.html" title="lib/CodeGen/WasmEHPrepare.cpp" alt="" coords="2571,266,2796,293"/>
+<area shape="rect" id="node24" href="$OMPIRBuilder_8h.html" title="include/llvm/Frontend\l/OpenMP/OMPIRBuilder.h" alt="" coords="1889,169,2065,211"/>
+<area shape="rect" id="node25" href="$OMPIRBuilder_8cpp.html" title="This file implements the OpenMPIRBuilder class, which is used as a convenient way to create LLVM inst..." alt="" coords="2820,259,2965,300"/>
+<area shape="rect" id="node26" href="$Reassociate_8h.html" title="include/llvm/Transforms\l/Scalar/Reassociate.h" alt="" coords="2089,169,2251,211"/>
+<area shape="rect" id="node27" href="$BuildLibCalls_8h.html" title="include/llvm/Transforms\l/Utils/BuildLibCalls.h" alt="" coords="2275,169,2436,211"/>
+<area shape="rect" id="node28" href="$EscapeEnumerator_8h.html" title="include/llvm/Transforms\l/Utils/EscapeEnumerator.h" alt="" coords="2511,169,2690,211"/>
+<area shape="rect" id="node29" href="$ShadowStackGCLowering_8cpp.html" title="lib/CodeGen/ShadowStackGCLowering.cpp" alt="" coords="2989,266,3265,293"/>
+<area shape="rect" id="node30" href="$SanitizerStats_8h.html" title="include/llvm/Transforms\l/Utils/SanitizerStats.h" alt="" coords="2715,169,2876,211"/>
+<area shape="rect" id="node31" href="$SimplifyLibCalls_8h.html" title="include/llvm/Transforms\l/Utils/SimplifyLibCalls.h" alt="" coords="435,169,598,211"/>
+<area shape="rect" id="node32" href="$VNCoercion_8h.html" title="include/llvm/Transforms\l/Utils/VNCoercion.h" alt="" coords="2952,169,3113,211"/>
+<area shape="rect" id="node33" href="$MemorySSAUpdater_8cpp.html" title="lib/Analysis/MemorySSAUpdater.cpp" alt="" coords="3137,177,3376,203"/>
+<area shape="rect" id="node34" href="$IndirectBrExpandPass_8cpp.html" title="Implements an expansion pass to turn indirectbr instructions in the IR into switch instructions..." alt="" coords="3400,169,3599,211"/>
+<area shape="rect" id="node35" href="$IntrinsicLowering_8cpp.html" title="lib/CodeGen/IntrinsicLowering.cpp" alt="" coords="3623,177,3845,203"/>
+<area shape="rect" id="node36" href="$MachineOutliner_8cpp.html" title="Replaces repeated sequences of instructions with function calls. " alt="" coords="3869,177,4087,203"/>
+<area shape="rect" id="node37" href="$PreISelIntrinsicLowering_8cpp.html" title="lib/CodeGen/PreISelIntrinsic\lLowering.cpp" alt="" coords="4111,169,4298,211"/>
+<area shape="rect" id="node38" href="$ScalarizeMaskedMemIntrin_8cpp.html" title="lib/CodeGen/ScalarizeMasked\lMemIntrin.cpp" alt="" coords="4323,169,4521,211"/>
+<area shape="rect" id="node39" href="$SjLjEHPrepare_8cpp.html" title="lib/CodeGen/SjLjEHPrepare.cpp" alt="" coords="4545,177,4755,203"/>
+<area shape="rect" id="node40" href="$IndirectionUtils_8cpp.html" title="lib/ExecutionEngine\l/Orc/IndirectionUtils.cpp" alt="" coords="4779,169,4942,211"/>
+<area shape="rect" id="node41" href="$Speculation_8cpp.html" title="lib/ExecutionEngine\l/Orc/Speculation.cpp" alt="" coords="4966,169,5110,211"/>
+<area shape="rect" id="node42" href="$AutoUpgrade_8cpp.html" title="lib/IR/AutoUpgrade.cpp" alt="" coords="5135,177,5293,203"/>
+<area shape="rect" id="node43" href="$IR_2Core_8cpp.html" title="lib/IR/Core.cpp" alt="" coords="5317,177,5428,203"/>
+<area shape="rect" id="node44" href="$DIBuilder_8cpp.html" title="lib/IR/DIBuilder.cpp" alt="" coords="5453,177,5589,203"/>
+<area shape="rect" id="node45" href="$IRBuilder_8cpp.html" title="lib/IR/IRBuilder.cpp" alt="" coords="5613,177,5749,203"/>
+<area shape="rect" id="node46" href="$AArch64PromoteConstant_8cpp.html" title="lib/Target/AArch64\l/AArch64PromoteConstant.cpp" alt="" coords="5773,169,5975,211"/>
+<area shape="rect" id="node47" href="$AMDGPUAnnotateUniformValues_8cpp.html" title="This pass adds amdgpu.uniform metadata to IR values so this information can be used during instructio..." alt="" coords="6000,169,6255,211"/>
+<area shape="rect" id="node48" href="$AMDGPUAtomicOptimizer_8cpp.html" title="This pass optimizes atomic operations by using a single lane of a wavefront to perform the atomic ope..." alt="" coords="6279,169,6522,211"/>
+<area shape="rect" id="node49" href="$AMDGPUCodeGenPrepare_8cpp.html" title="This pass does misc. " alt="" coords="6547,169,6780,211"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="llvm::AAAlign" name="llvm::AAAlign">
+<area shape="rect" id="node2" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::Alignment,\l StateWrapper\&lt; AAAlignmentState\lType, AbstractAttribute \&gt; \&gt;" alt="" coords="1184,43,1409,114"/>
+<area shape="rect" id="node3" href="$structllvm_1_1IRPosition.html" title="} " alt="" coords="415,8,530,35"/>
+<area shape="rect" id="node12" href="$structllvm_1_1IRAttribute.html" title="Helper class that provides common functionality to manifest IR attributes. " alt="" coords="782,58,907,99"/>
+<area shape="rect" id="node4" href="$structllvm_1_1StateWrapper.html" title="llvm::StateWrapper\l\&lt; AAAlignmentStateType,\l AbstractAttribute \&gt;" alt="" coords="757,148,932,204"/>
+<area shape="rect" id="node5" href="$structllvm_1_1IncIntegerState.html" title="Specialization of the integer state for an increasing value, hence ~0u is the best state and 0 the wo..." alt="" coords="393,188,552,215"/>
+<area shape="rect" id="node6" href="$structllvm_1_1IntegerStateBase.html" title="Simple state with integers encoding. " alt="" coords="189,184,344,240"/>
+<area shape="rect" id="node7" href="$structllvm_1_1AbstractState.html" title="An interface to query the internal state of an abstract attribute. " alt="" coords="5,199,140,225"/>
+<area shape="rect" id="node8" href="$structllvm_1_1AbstractAttribute.html" title="Base struct for all &quot;concrete attribute&quot; deductions. " alt="" coords="397,239,549,265"/>
+<area shape="rect" id="node9" href="$structllvm_1_1StateWrapper.html" title="Helper to tie a abstract state implementation to an abstract attribute. " alt="" coords="405,122,540,163"/>
+<area shape="rect" id="node10" href="$classllvm_1_1StateTy.html" title="StateTy" alt="" coords="233,133,301,160"/>
+<area shape="rect" id="node11" href="$classllvm_1_1Base.html" title="Base" alt="" coords="241,75,293,101"/>
+</map>

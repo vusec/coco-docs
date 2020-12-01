@@ -1,0 +1,4 @@
+<map id="llvm::orc::remote::exec::CallIntVoid" name="llvm::orc::remote::exec::CallIntVoid">
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; CallIntVoid, int32_t\l(JITTargetAddress Addr)\&gt;" alt="" coords="5,124,179,180"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; DerivedFunc, FnT \&gt;" alt="" coords="14,5,170,47"/>
+</map>

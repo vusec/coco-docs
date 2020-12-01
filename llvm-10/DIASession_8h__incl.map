@@ -1,0 +1,29 @@
+<map id="include/llvm/DebugInfo/PDB/DIA/DIASession.h" name="include/llvm/DebugInfo/PDB/DIA/DIASession.h">
+<area shape="rect" id="node2" href="$DIASupport_8h.html" title="DIASupport.h" alt="" coords="235,102,337,129"/>
+<area shape="rect" id="node8" href="$IPDBSession_8h.html" title="llvm/DebugInfo/PDB\l/IPDBSession.h" alt="" coords="1636,95,1779,136"/>
+<area shape="rect" id="node43" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="2941,184,3079,211"/>
+<area shape="rect" id="node9" href="$PDBSymbol_8h.html" title="PDBSymbol.h" alt="" coords="1595,184,1700,211"/>
+<area shape="rect" id="node15" href="$PDBTypes_8h.html" title="llvm/DebugInfo/PDB\l/PDBTypes.h" alt="" coords="1609,408,1752,449"/>
+<area shape="rect" id="node25" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="610,505,765,531"/>
+<area shape="rect" id="node36" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3609,415,3755,442"/>
+<area shape="rect" id="node10" href="$ConcreteSymbolEnumerator_8h.html" title="ConcreteSymbolEnumerator.h" alt="" coords="906,333,1103,360"/>
+<area shape="rect" id="node28" href="$IPDBRawSymbol_8h.html" title="IPDBRawSymbol.h" alt="" coords="1666,333,1802,360"/>
+<area shape="rect" id="node37" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3490,505,3645,531"/>
+<area shape="rect" id="node40" href="$PDBExtras_8h.html" title="PDBExtras.h" alt="" coords="1598,259,1697,285"/>
+<area shape="rect" id="node11" href="$IPDBEnumChildren_8h.html" title="llvm/DebugInfo/PDB\l/IPDBEnumChildren.h" alt="" coords="1043,497,1193,539"/>
+<area shape="rect" id="node16" href="$CodeView_8h.html" title="llvm/DebugInfo/CodeView\l/CodeView.h" alt="" coords="1217,497,1392,539"/>
+<area shape="rect" id="node18" href="$IPDBFrameData_8h.html" title="llvm/DebugInfo/PDB\l/IPDBFrameData.h" alt="" coords="3019,497,3161,539"/>
+<area shape="rect" id="node20" href="$RawTypes_8h.html" title="llvm/DebugInfo/PDB\l/Native/RawTypes.h" alt="" coords="1416,497,1559,539"/>
+<area shape="rect" id="node26" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2397,661,2559,688"/>
+<area shape="rect" id="node29" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2709,415,2871,442"/>
+<area shape="rect" id="node30" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3482,587,3653,613"/>
+<area shape="rect" id="node32" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2328,505,2481,531"/>
+<area shape="rect" id="node33" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="3855,587,4045,613"/>
+<area shape="rect" id="node41" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2685,333,2871,360"/>
+<area shape="rect" id="node44" href="$c_2Error_8h.html" title="llvm&#45;c/Error.h" alt="" coords="3073,259,3173,285"/>
+<area shape="rect" id="node45" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="3641,259,3805,285"/>
+<area shape="rect" id="node46" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="3757,333,3884,360"/>
+<area shape="rect" id="node47" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="3197,259,3345,285"/>
+<area shape="rect" id="node48" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer. " alt="" coords="2219,333,2371,360"/>
+<area shape="rect" id="node49" href="$Format_8h.html" title="llvm/Support/Format.h" alt="" coords="4316,333,4467,360"/>
+</map>

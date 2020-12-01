@@ -1,0 +1,17 @@
+<map id="llvm::pointer_union_detail::PointerUnionMembers&lt; Derived, ValTy, I, Types &gt;" name="llvm::pointer_union_detail::PointerUnionMembers&lt; Derived, ValTy, I, Types &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1pointer__union__detail_1_1PointerUnionMembers.html" title="llvm::pointer_union\l_detail::PointerUnionMembers\l\&lt; PointerUnion\&lt; PTs... \&gt;,\l PointerIntPair\&lt; void *, pointer\l_union_detail::bitsRequired(sizeof...\l(PTs)), int, pointer_union_detail::\lPointerUnionUIntTraits\&lt; PTs... \&gt; \&gt;,\l 0, PTs... \&gt;" alt="" coords="431,566,661,695"/>
+<area shape="rect" id="node15" href="$classllvm_1_1pointer__union__detail_1_1PointerUnionMembers.html" title="llvm::pointer_union\l_detail::PointerUnionMembers\l\&lt; Derived, ValTy, I+1, Types... \&gt;" alt="" coords="438,908,654,964"/>
+<area shape="rect" id="node3" href="$classllvm_1_1PointerUnion.html" title="A discriminated union of two or more pointer types, with the discriminator in the low bit of the poin..." alt="" coords="745,523,874,565"/>
+<area shape="rect" id="node4" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; llvm::MachineMemOperand\l *, llvm::MachineMemOperand **\&gt;" alt="" coords="1155,624,1375,680"/>
+<area shape="rect" id="node5" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; const BasicBlock *,\l MachineBasicBlock * \&gt;" alt="" coords="1183,311,1346,367"/>
+<area shape="rect" id="node6" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; std::vector\&lt; uint8\l_t \&gt; *, std::vector\&lt;\l uint16_t \&gt; *, std::vector\l\&lt; uint32_t \&gt; *, std::vector\l\&lt; uint64_t \&gt; * \&gt;" alt="" coords="1179,498,1350,598"/>
+<area shape="rect" id="node7" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; llvm::StructType *,\l llvm::Type *\&gt;" alt="" coords="1193,393,1336,449"/>
+<area shape="rect" id="node8" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; llvm::LLVMContext\l *, llvm::ReplaceableMetadata\lImpl *\&gt;" alt="" coords="1166,791,1363,862"/>
+<area shape="rect" id="node9" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; EltTy, VecTy * \&gt;" alt="" coords="1199,894,1331,935"/>
+<area shape="rect" id="node10" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; const llvm::Value\l *, const llvm::PseudoSource\lValue *\&gt;" alt="" coords="1169,982,1361,1053"/>
+<area shape="rect" id="node11" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; llvm::MCSymbol *,\l VecTy * \&gt;" alt="" coords="1193,707,1337,763"/>
+<area shape="rect" id="node12" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; const llvm::GlobalVariable\l *, const llvm::DIExpression *\&gt;" alt="" coords="1163,5,1366,61"/>
+<area shape="rect" id="node13" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; llvm::DIE *, llvm\l::DIEUnit *\&gt;" alt="" coords="1199,199,1330,255"/>
+<area shape="rect" id="node14" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; const Value *, const\l PseudoSourceValue * \&gt;" alt="" coords="1182,117,1347,173"/>
+<area shape="rect" id="node16" href="$classllvm_1_1pointer__union__detail_1_1PointerUnionMembers_3_01Derived_00_01ValTy_00_01I_00_01Type_00_01Types_8_8_8_01_4.html" title="llvm::pointer_union\l_detail::PointerUnionMembers\l\&lt; Derived, ValTy, I, Type,\l Types... \&gt;" alt="" coords="711,1098,908,1169"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="llvm::BranchProbabilityInfo::SccInfo" name="llvm::BranchProbabilityInfo::SccInfo">
+<area shape="rect" id="node2" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l BasicBlock *, int \&gt;" alt="" coords="1333,122,1495,164"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; const BasicBlock\l *, int, DenseMapInfo\&lt; const\l BasicBlock *\&gt;, llvm::detail\l::DenseMapPair\&lt; const BasicBlock\l *, int \&gt; \&gt;, const BasicBlock *,\l int, DenseMapInfo\&lt; const BasicBlock\l *\&gt;, llvm::detail::DenseMapPair\&lt; const\l BasicBlock *, int \&gt; \&gt;" alt="" coords="667,35,915,179"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DebugEpochBase.html" title="A base class for data structure classes wishing to make iterators (&quot;handles&quot;) pointing into themselve..." alt="" coords="5,155,164,182"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DerivedT, KeyT, ValueT,\l KeyInfoT, BucketT \&gt;" alt="" coords="213,140,392,196"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; KeyT, ValueT,\l KeyInfoT, BucketT \&gt;, KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="692,204,889,274"/>
+<area shape="rect" id="node6" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="964,164,1161,205"/>
+</map>

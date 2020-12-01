@@ -1,0 +1,10 @@
+<map id="llvm::trailing_objects_internal::TrailingObjectsBase" name="llvm::trailing_objects_internal::TrailingObjectsBase">
+<area shape="rect" id="node2" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsAligner.html" title="llvm::trailing_objects\l_internal::TrailingObjectsAligner\l\&lt; Align \&gt;" alt="" coords="268,13,475,69"/>
+<area shape="rect" id="node4" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsAligner_3_011_01_4.html" title="llvm::trailing_objects\l_internal::TrailingObjectsAligner\&lt; 1 \&gt;" alt="" coords="253,93,490,135"/>
+<area shape="rect" id="node5" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsAligner_3_0116_01_4.html" title="llvm::trailing_objects\l_internal::TrailingObjectsAligner\&lt; 16 \&gt;" alt="" coords="249,159,493,200"/>
+<area shape="rect" id="node6" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsAligner_3_012_01_4.html" title="llvm::trailing_objects\l_internal::TrailingObjectsAligner\&lt; 2 \&gt;" alt="" coords="253,224,490,265"/>
+<area shape="rect" id="node7" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsAligner_3_0132_01_4.html" title="llvm::trailing_objects\l_internal::TrailingObjectsAligner\&lt; 32 \&gt;" alt="" coords="249,289,493,331"/>
+<area shape="rect" id="node8" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsAligner_3_014_01_4.html" title="llvm::trailing_objects\l_internal::TrailingObjectsAligner\&lt; 4 \&gt;" alt="" coords="253,355,490,396"/>
+<area shape="rect" id="node9" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsAligner_3_018_01_4.html" title="llvm::trailing_objects\l_internal::TrailingObjectsAligner\&lt; 8 \&gt;" alt="" coords="253,420,490,461"/>
+<area shape="rect" id="node3" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl_3_01Align_00_01BaseTy_00_01TopTrailingObj_00_01PrevTy_01_4.html" title="llvm::trailing_objects\l_internal::TrailingObjectsImpl\l\&lt; Align, BaseTy, TopTrailingObj,\l PrevTy \&gt;" alt="" coords="541,5,753,76"/>
+</map>

@@ -1,0 +1,49 @@
+<map id="llvm::ilist_node_impl&lt; OptionsT &gt;" name="llvm::ilist_node_impl&lt; OptionsT &gt;">
+<area shape="rect" id="node3" href="$classllvm_1_1ilist__sentinel.html" title="llvm::ilist_sentinel\l\&lt; OptionsT \&gt;" alt="" coords="682,24,809,65"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; T, Options...\l \&gt;::type \&gt;" alt="" coords="650,809,841,880"/>
+<area shape="rect" id="node31" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; NodeTy,\l Options... \&gt;::type \&gt;" alt="" coords="912,896,1080,967"/>
+<area shape="rect" id="node32" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; GlobalIFunc,\l Options... \&gt;::type \&gt;" alt="" coords="649,1364,841,1435"/>
+<area shape="rect" id="node33" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; GlobalVariable,\l Options... \&gt;::type \&gt;" alt="" coords="893,549,1099,620"/>
+<area shape="rect" id="node34" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; MachineBasicBlock,\l Options... \&gt;::type \&gt;" alt="" coords="877,236,1115,307"/>
+<area shape="rect" id="node35" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; IndexListEntry,\l Options... \&gt;::type \&gt;" alt="" coords="893,1221,1099,1292"/>
+<area shape="rect" id="node36" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; SDNode,\l Options... \&gt;::type \&gt;" alt="" coords="1160,629,1332,700"/>
+<area shape="rect" id="node37" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; NamedMDNode,\l Options... \&gt;::type \&gt;" alt="" coords="637,1048,853,1119"/>
+<area shape="rect" id="node38" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; MachineInstr,\l Options... \&gt;::type \&gt;" alt="" coords="647,715,844,785"/>
+<area shape="rect" id="node39" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; Node, Options...\l \&gt;::type \&gt;" alt="" coords="1139,397,1353,468"/>
+<area shape="rect" id="node40" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; AliasSet,\l Options... \&gt;::type \&gt;" alt="" coords="1161,301,1331,372"/>
+<area shape="rect" id="node41" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; Function,\l Options... \&gt;::type \&gt;" alt="" coords="910,1616,1082,1687"/>
+<area shape="rect" id="node42" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; IVStrideUse,\l Options... \&gt;::type \&gt;" alt="" coords="649,1552,842,1623"/>
+<area shape="rect" id="node43" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; BasicBlock,\l Options... \&gt;::type \&gt;" alt="" coords="902,156,1090,227"/>
+<area shape="rect" id="node44" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; MemoryAccess,\l Options... \&gt;::type \&gt;" alt="" coords="1139,5,1353,76"/>
+<area shape="rect" id="node45" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; VPRecipeBase,\l Options... \&gt;::type \&gt;" alt="" coords="1141,999,1351,1069"/>
+<area shape="rect" id="node46" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; GlobalAlias,\l Options... \&gt;::type \&gt;" alt="" coords="902,1309,1090,1380"/>
+<area shape="rect" id="node47" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; MCFragment,\l Options... \&gt;::type \&gt;" alt="" coords="897,472,1095,543"/>
+<area shape="rect" id="node48" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; PredicateBase,\l Options... \&gt;::type \&gt;" alt="" coords="1143,1471,1349,1541"/>
+<area shape="rect" id="node49" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; Instruction,\l Options... \&gt;::type \&gt;" alt="" coords="654,1143,837,1213"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; T,\l Options \&gt;" alt="" coords="1179,824,1313,865"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Memory\lAccess, ilist_tag\&lt; MSSAHelpers\l::DefsOnlyTag \&gt; \&gt;" alt="" coords="1595,29,1810,85"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; MCFragment,\l Options... \&gt;" alt="" coords="1602,561,1803,603"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; NodeTy,\l Options... \&gt;" alt="" coords="1617,848,1788,889"/>
+<area shape="rect" id="node11" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Node \&gt;" alt="" coords="1621,493,1785,519"/>
+<area shape="rect" id="node12" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Global\lVariable \&gt;" alt="" coords="1623,628,1782,669"/>
+<area shape="rect" id="node14" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; SDNode \&gt;" alt="" coords="1611,695,1794,722"/>
+<area shape="rect" id="node15" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; BasicBlock,\l Options... \&gt;" alt="" coords="1607,213,1798,255"/>
+<area shape="rect" id="node16" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; AliasSet \&gt;" alt="" coords="1611,434,1794,461"/>
+<area shape="rect" id="node17" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Global\lAlias \&gt;" alt="" coords="1623,1255,1782,1296"/>
+<area shape="rect" id="node18" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Memory\lAccess, ilist_tag\&lt; MSSAHelpers\l::AllAccessTag \&gt; \&gt;" alt="" coords="1595,117,1810,173"/>
+<area shape="rect" id="node19" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Predicate\lBase \&gt;" alt="" coords="1615,1387,1791,1428"/>
+<area shape="rect" id="node20" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Function \&gt;" alt="" coords="1611,1582,1794,1609"/>
+<area shape="rect" id="node21" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; VPRecipe\lBase, Options... \&gt;" alt="" coords="1613,1007,1793,1048"/>
+<area shape="rect" id="node22" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; IndexList\lEntry \&gt;" alt="" coords="1615,1189,1790,1231"/>
+<area shape="rect" id="node24" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Global\lIFunc \&gt;" alt="" coords="1623,1320,1782,1361"/>
+<area shape="rect" id="node26" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; NamedMDNode \&gt;" alt="" coords="1589,1073,1816,1099"/>
+<area shape="rect" id="node27" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Instruction,\l Options... \&gt;" alt="" coords="1609,1124,1796,1165"/>
+<area shape="rect" id="node28" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Machine\lBasicBlock, Options... \&gt;" alt="" coords="1617,364,1788,405"/>
+<area shape="rect" id="node29" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; IVStride\lUse \&gt;" alt="" coords="1619,1453,1787,1495"/>
+<area shape="rect" id="node30" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Machine\lInstr, Options... \&gt;" alt="" coords="1617,780,1788,821"/>
+<area shape="rect" id="node9" href="$classllvm_1_1ilist__node__with__parent.html" title="An ilist node that can access its parent list. " alt="" coords="1865,761,2053,817"/>
+<area shape="rect" id="node10" href="$classllvm_1_1ilist__node__with__parent.html" title="llvm::ilist_node_with\l_parent\&lt; MachineBasicBlock,\l MachineFunction \&gt;" alt="" coords="2237,611,2433,667"/>
+<area shape="rect" id="node13" href="$classllvm_1_1GlobalVariable.html" title="llvm::GlobalVariable" alt="" coords="1890,635,2029,662"/>
+<area shape="rect" id="node23" href="$classllvm_1_1IndexListEntry.html" title="This class represents an entry in the slot index list held in the SlotIndexes pass. " alt="" coords="1890,1197,2029,1223"/>
+<area shape="rect" id="node25" href="$classllvm_1_1GlobalIFunc.html" title="llvm::GlobalIFunc" alt="" coords="1897,1327,2021,1354"/>
+</map>

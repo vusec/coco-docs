@@ -1,0 +1,29 @@
+<map id="lib/IR/PassRegistry.cpp" name="lib/IR/PassRegistry.cpp">
+<area shape="rect" id="node2" href="$PassRegistry_8h.html" title="llvm/PassRegistry.h" alt="" coords="2721,155,2861,181"/>
+<area shape="rect" id="node6" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1783,468,1937,495"/>
+<area shape="rect" id="node47" href="$PassInfo_8h.html" title="llvm/PassInfo.h" alt="" coords="4006,155,4119,181"/>
+<area shape="rect" id="node48" href="$PassSupport_8h.html" title="llvm/PassSupport.h" alt="" coords="3936,80,4072,107"/>
+<area shape="rect" id="node49" href="$ManagedStatic_8h.html" title="llvm/Support/ManagedStatic.h" alt="" coords="616,80,813,107"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1043,229,1197,256"/>
+<area shape="rect" id="node5" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2775,386,2921,413"/>
+<area shape="rect" id="node37" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="2829,304,2979,331"/>
+<area shape="rect" id="node39" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="2308,468,2527,495"/>
+<area shape="rect" id="node42" href="$RWMutex_8h.html" title="llvm/Support/RWMutex.h" alt="" coords="4370,386,4539,413"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="905,304,1082,331"/>
+<area shape="rect" id="node9" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3293,692,3456,719"/>
+<area shape="rect" id="node11" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1881,617,2052,644"/>
+<area shape="rect" id="node33" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="549,468,723,495"/>
+<area shape="rect" id="node34" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1259,543,1413,569"/>
+<area shape="rect" id="node35" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3109,543,3286,569"/>
+<area shape="rect" id="node36" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="499,304,706,331"/>
+<area shape="rect" id="node32" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="710,379,874,420"/>
+<area shape="rect" id="node18" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="2279,617,2449,644"/>
+<area shape="rect" id="node7" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="1715,543,1855,569"/>
+<area shape="rect" id="node17" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1879,543,2011,569"/>
+<area shape="rect" id="node23" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="3852,543,4041,569"/>
+<area shape="rect" id="node8" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="1684,617,1807,644"/>
+<area shape="rect" id="node38" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="2957,468,3118,495"/>
+<area shape="rect" id="node40" href="$c_2Types_8h.html" title="llvm&#45;c/Types.h" alt="" coords="2469,543,2577,569"/>
+<area shape="rect" id="node41" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="2137,543,2292,569"/>
+<area shape="rect" id="node43" href="$Threading_8h.html" title="llvm/Support/Threading.h" alt="" coords="4599,468,4766,495"/>
+</map>

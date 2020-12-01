@@ -1,0 +1,51 @@
+<map id="include/llvm/Support/SwapByteOrder.h" name="include/llvm/Support/SwapByteOrder.h">
+<area shape="rect" id="node2" href="$Hashing_8h.html" title="include/llvm/ADT/Hashing.h" alt="" coords="1739,102,1925,129"/>
+<area shape="rect" id="node24" href="$InstrProfReader_8h.html" title="include/llvm/ProfileData\l/InstrProfReader.h" alt="" coords="5027,273,5187,315"/>
+<area shape="rect" id="node25" href="$InstrProf_8cpp.html" title="lib/ProfileData/InstrProf.cpp" alt="" coords="4886,370,5069,397"/>
+<area shape="rect" id="node26" href="$InstrProfReader_8cpp.html" title="lib/ProfileData/InstrProf\lReader.cpp" alt="" coords="5170,363,5329,404"/>
+<area shape="rect" id="node28" href="$ELFObjectWriter_8cpp.html" title="lib/MC/ELFObjectWriter.cpp" alt="" coords="4715,281,4901,307"/>
+<area shape="rect" id="node30" href="$MachOObjectFile_8cpp.html" title="lib/Object/MachOObjectFile.cpp" alt="" coords="2969,281,3175,307"/>
+<area shape="rect" id="node33" href="$ConvertUTFWrapper_8cpp.html" title="lib/Support/ConvertUTFWrapper.cpp" alt="" coords="3200,281,3435,307"/>
+<area shape="rect" id="node46" href="$Endian_8h.html" title="include/llvm/Support\l/Endian.h" alt="" coords="4883,184,5023,225"/>
+<area shape="rect" id="node47" href="$MathExtras_8h.html" title="include/llvm/Support\l/MathExtras.h" alt="" coords="4382,184,4522,225"/>
+<area shape="rect" id="node48" href="$DWARFEmitter_8cpp.html" title="The DWARF component of yaml2obj. " alt="" coords="5312,281,5547,307"/>
+<area shape="rect" id="node49" href="$RuntimeDyldImpl_8h.html" title="lib/ExecutionEngine\l/RuntimeDyld/RuntimeDyldImpl.h" alt="" coords="5672,95,5891,136"/>
+<area shape="rect" id="node50" href="$DataExtractor_8cpp.html" title="lib/Support/DataExtractor.cpp" alt="" coords="5915,102,6109,129"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title="include/llvm/ADT/ArrayRef.h" alt="" coords="2709,191,2899,218"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title="include/llvm/ADT/DenseMap\lInfo.h" alt="" coords="1605,273,1795,315"/>
+<area shape="rect" id="node5" href="$ScalarEvolution_8h.html" title="include/llvm/Analysis\l/ScalarEvolution.h" alt="" coords="2595,363,2741,404"/>
+<area shape="rect" id="node6" href="$LoopStrengthReduce_8cpp.html" title="lib/Transforms/Scalar\l/LoopStrengthReduce.cpp" alt="" coords="2664,452,2837,493"/>
+<area shape="rect" id="node7" href="$LoopVectorize_8cpp.html" title="lib/Transforms/Vectorize\l/LoopVectorize.cpp" alt="" coords="2475,452,2639,493"/>
+<area shape="rect" id="node9" href="$TypeHashing_8h.html" title="include/llvm/DebugInfo\l/CodeView/TypeHashing.h" alt="" coords="1033,363,1212,404"/>
+<area shape="rect" id="node10" href="$FileEntry_8h.html" title="include/llvm/DebugInfo\l/GSYM/FileEntry.h" alt="" coords="1236,363,1391,404"/>
+<area shape="rect" id="node11" href="$Dominators_8h.html" title="include/llvm/IR/Dominators.h" alt="" coords="1567,370,1758,397"/>
+<area shape="rect" id="node12" href="$MemorySSA_8cpp.html" title="lib/Analysis/MemorySSA.cpp" alt="" coords="1588,459,1780,486"/>
+<area shape="rect" id="node14" href="$EarlyCSE_8cpp.html" title="lib/Transforms/Scalar\l/EarlyCSE.cpp" alt="" coords="1804,452,1951,493"/>
+<area shape="rect" id="node15" href="$GVN_8cpp.html" title="lib/Transforms/Scalar\l/GVN.cpp" alt="" coords="596,452,743,493"/>
+<area shape="rect" id="node16" href="$NewGVN_8cpp.html" title="This file implements the new LLVM&#39;s Global Value Numbering pass. " alt="" coords="1257,452,1404,493"/>
+<area shape="rect" id="node17" href="$Local_8cpp.html" title="lib/Transforms/Utils\l/Local.cpp" alt="" coords="1428,452,1564,493"/>
+<area shape="rect" id="node18" href="$ConstantsContext_8h.html" title="lib/IR/ConstantsContext.h" alt="" coords="2087,370,2262,397"/>
+<area shape="rect" id="node19" href="$LLVMContextImpl_8h.html" title="lib/IR/LLVMContextImpl.h" alt="" coords="2041,459,2215,486"/>
+<area shape="rect" id="node20" href="$X86OptimizeLEAs_8cpp.html" title="lib/Target/X86/X86Optimize\lLEAs.cpp" alt="" coords="2286,363,2469,404"/>
+<area shape="rect" id="node21" href="$GVNSink_8cpp.html" title="This pass attempts to sink instructions into successors, reducing static instruction count and enabli..." alt="" coords="863,363,1009,404"/>
+<area shape="rect" id="node22" href="$CoverageMapping_8h.html" title="include/llvm/ProfileData\l/Coverage/CoverageMapping.h" alt="" coords="3864,273,4067,315"/>
+<area shape="rect" id="node27" href="$MachineInstr_8cpp.html" title="lib/CodeGen/MachineInstr.cpp" alt="" coords="3458,281,3657,307"/>
+<area shape="rect" id="node29" href="$MCDwarf_8cpp.html" title="lib/MC/MCDwarf.cpp" alt="" coords="4545,281,4690,307"/>
+<area shape="rect" id="node31" href="$APFloat_8cpp.html" title="lib/Support/APFloat.cpp" alt="" coords="3680,281,3840,307"/>
+<area shape="rect" id="node32" href="$APInt_8cpp.html" title="lib/Support/APInt.cpp" alt="" coords="2544,281,2691,307"/>
+<area shape="rect" id="node34" href="$FunctionComparator_8cpp.html" title="lib/Transforms/Utils\l/FunctionComparator.cpp" alt="" coords="2249,273,2418,315"/>
+<area shape="rect" id="node35" href="$RegisterBankInfo_8h.html" title="include/llvm/CodeGen\l/GlobalISel/RegisterBankInfo.h" alt="" coords="2973,184,3176,225"/>
+<area shape="rect" id="node36" href="$Math_8h.html" title="include/llvm/CodeGen\l/PBQP/Math.h" alt="" coords="1870,184,2021,225"/>
+<area shape="rect" id="node37" href="$RegAllocPBQP_8h.html" title="include/llvm/CodeGen\l/RegAllocPBQP.h" alt="" coords="1921,273,2071,315"/>
+<area shape="rect" id="node38" href="$WasmTraits_8h.html" title="include/llvm/Object\l/WasmTraits.h" alt="" coords="3200,184,3333,225"/>
+<area shape="rect" id="node39" href="$InterfaceFile_8h.html" title="include/llvm/TextAPI\l/MachO/InterfaceFile.h" alt="" coords="5,184,160,225"/>
+<area shape="rect" id="node40" href="$GVNExpression_8h.html" title="The header file for the GVN pass that contains expression handling classes. " alt="" coords="850,273,1022,315"/>
+<area shape="rect" id="node41" href="$FoldingSet_8cpp.html" title="lib/Support/FoldingSet.cpp" alt="" coords="4142,281,4317,307"/>
+<area shape="rect" id="node42" href="$Hashing_8cpp.html" title="lib/Support/Hashing.cpp" alt="" coords="286,191,447,218"/>
+<area shape="rect" id="node43" href="$Unix_2Process_8inc.html" title="lib/Support/Unix/Process.inc" alt="" coords="471,191,659,218"/>
+<area shape="rect" id="node44" href="$StringRef_8cpp.html" title="lib/Support/StringRef.cpp" alt="" coords="684,191,852,218"/>
+<area shape="rect" id="node45" href="$GCOVProfiling_8cpp.html" title="lib/Transforms/Instrumentation\l/GCOVProfiling.cpp" alt="" coords="877,184,1075,225"/>
+<area shape="rect" id="node13" href="$PGOInstrumentation_8cpp.html" title="lib/Transforms/Instrumentation\l/PGOInstrumentation.cpp" alt="" coords="2862,452,3061,493"/>
+<area shape="rect" id="node23" href="$CoverageMapping_8cpp.html" title="lib/ProfileData/Coverage\l/CoverageMapping.cpp" alt="" coords="3851,363,4015,404"/>
+<area shape="rect" id="node8" href="$BinaryFormat_2Minidump_8h.html" title="include/llvm/BinaryFormat\l/Minidump.h" alt="" coords="3260,363,3433,404"/>
+</map>

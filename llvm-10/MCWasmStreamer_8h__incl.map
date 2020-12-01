@@ -1,0 +1,35 @@
+<map id="include/llvm/MC/MCWasmStreamer.h" name="include/llvm/MC/MCWasmStreamer.h">
+<area shape="rect" id="node2" href="$MCAsmBackend_8h.html" title="MCAsmBackend.h" alt="" coords="1079,155,1211,181"/>
+<area shape="rect" id="node5" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="554,453,729,480"/>
+<area shape="rect" id="node32" href="$MCDirectives_8h.html" title="llvm/MC/MCDirectives.h" alt="" coords="145,304,311,331"/>
+<area shape="rect" id="node38" href="$MCCodeEmitter_8h.html" title="MCCodeEmitter.h" alt="" coords="1959,80,2086,107"/>
+<area shape="rect" id="node39" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="3628,304,3791,331"/>
+<area shape="rect" id="node42" href="$MCObjectStreamer_8h.html" title="llvm/MC/MCObjectStreamer.h" alt="" coords="2110,80,2309,107"/>
+<area shape="rect" id="node45" href="$SectionKind_8h.html" title="llvm/MC/SectionKind.h" alt="" coords="4713,229,4869,256"/>
+<area shape="rect" id="node47" href="$MCObjectWriter_8h.html" title="llvm/MC/MCObjectWriter.h" alt="" coords="3313,80,3493,107"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2100,304,2244,331"/>
+<area shape="rect" id="node26" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="1541,453,1681,480"/>
+<area shape="rect" id="node31" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2640,304,2787,331"/>
+<area shape="rect" id="node33" href="$MCFixup_8h.html" title="llvm/MC/MCFixup.h" alt="" coords="1111,304,1249,331"/>
+<area shape="rect" id="node36" href="$MCFragment_8h.html" title="llvm/MC/MCFragment.h" alt="" coords="1389,229,1552,256"/>
+<area shape="rect" id="node37" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="4182,379,4333,405"/>
+<area shape="rect" id="node4" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="2102,379,2242,405"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3027,603,3189,629"/>
+<area shape="rect" id="node16" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="1497,528,1620,555"/>
+<area shape="rect" id="node17" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2800,379,2963,405"/>
+<area shape="rect" id="node25" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2317,379,2472,405"/>
+<area shape="rect" id="node7" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1931,453,2120,480"/>
+<area shape="rect" id="node10" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2961,528,3132,555"/>
+<area shape="rect" id="node6" href="$c_2DataTypes_8h.html" title="llvm&#45;c/DataTypes.h" alt="" coords="573,528,709,555"/>
+<area shape="rect" id="node18" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1244,453,1415,480"/>
+<area shape="rect" id="node34" href="$MCExpr_8h.html" title="llvm/MC/MCExpr.h" alt="" coords="1113,379,1247,405"/>
+<area shape="rect" id="node35" href="$SMLoc_8h.html" title="llvm/Support/SMLoc.h" alt="" coords="1705,453,1855,480"/>
+<area shape="rect" id="node40" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="1853,379,2027,405"/>
+<area shape="rect" id="node41" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="3595,379,3802,405"/>
+<area shape="rect" id="node43" href="$MCAssembler_8h.html" title="llvm/MC/MCAssembler.h" alt="" coords="1505,155,1674,181"/>
+<area shape="rect" id="node44" href="$MCSection_8h.html" title="llvm/MC/MCSection.h" alt="" coords="4135,155,4286,181"/>
+<area shape="rect" id="node46" href="$MCStreamer_8h.html" title="llvm/MC/MCStreamer.h" alt="" coords="565,229,725,256"/>
+<area shape="rect" id="node48" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="4310,155,4434,181"/>
+<area shape="rect" id="node49" href="$EndianStream_8h.html" title="llvm/Support/EndianStream.h" alt="" coords="3307,155,3499,181"/>
+<area shape="rect" id="node50" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="3443,229,3629,256"/>
+</map>

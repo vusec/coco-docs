@@ -1,0 +1,51 @@
+<map id="include/llvm/Analysis/DomTreeUpdater.h" name="include/llvm/Analysis/DomTreeUpdater.h">
+<area shape="rect" id="node2" href="$JumpThreading_8h.html" title="See the comments on JumpThreadingPass. " alt="" coords="203,95,369,136"/>
+<area shape="rect" id="node4" href="$JumpThreading_8cpp.html" title="lib/Transforms/Scalar\l/JumpThreading.cpp" alt="" coords="213,191,359,233"/>
+<area shape="rect" id="node5" href="$BasicBlockUtils_8h.html" title="include/llvm/Transforms\l/Utils/BasicBlockUtils.h" alt="" coords="4163,95,4324,136"/>
+<area shape="rect" id="node34" href="$PGOMemOPSizeOpt_8cpp.html" title="lib/Transforms/Instrumentation\l/PGOMemOPSizeOpt.cpp" alt="" coords="8176,191,8375,233"/>
+<area shape="rect" id="node35" href="$GVN_8cpp.html" title="lib/Transforms/Scalar\l/GVN.cpp" alt="" coords="1533,191,1679,233"/>
+<area shape="rect" id="node36" href="$LoopFuse_8cpp.html" title="This file implements the loop fusion pass. " alt="" coords="8399,191,8546,233"/>
+<area shape="rect" id="node37" href="$LoopSimplifyCFG_8cpp.html" title="lib/Transforms/Scalar\l/LoopSimplifyCFG.cpp" alt="" coords="1175,191,1330,233"/>
+<area shape="rect" id="node38" href="$MergeICmps_8cpp.html" title="lib/Transforms/Scalar\l/MergeICmps.cpp" alt="" coords="8570,191,8717,233"/>
+<area shape="rect" id="node39" href="$RewriteStatepointsForGC_8cpp.html" title="lib/Transforms/Scalar\l/RewriteStatepointsForGC.cpp" alt="" coords="781,191,983,233"/>
+<area shape="rect" id="node40" href="$TailRecursionElimination_8cpp.html" title="lib/Transforms/Scalar\l/TailRecursionElimination.cpp" alt="" coords="8741,191,8935,233"/>
+<area shape="rect" id="node41" href="$BasicBlockUtils_8cpp.html" title="lib/Transforms/Utils\l/BasicBlockUtils.cpp" alt="" coords="1007,191,1151,233"/>
+<area shape="rect" id="node42" href="$CloneFunction_8cpp.html" title="lib/Transforms/Utils\l/CloneFunction.cpp" alt="" coords="1703,191,1839,233"/>
+<area shape="rect" id="node43" href="$LoopRotationUtils_8cpp.html" title="lib/Transforms/Utils\l/LoopRotationUtils.cpp" alt="" coords="1354,191,1509,233"/>
+<area shape="rect" id="node44" href="$LoopUtils_8cpp.html" title="lib/Transforms/Utils\l/LoopUtils.cpp" alt="" coords="8959,191,9095,233"/>
+<area shape="rect" id="node45" href="$Transforms_2Utils_2Local_8h.html" title="include/llvm/Transforms\l/Utils/Local.h" alt="" coords="2000,95,2161,136"/>
+<area shape="rect" id="node46" href="$CorrelatedValuePropagation_8cpp.html" title="lib/Transforms/Scalar\l/CorrelatedValuePropagation.cpp" alt="" coords="383,191,597,233"/>
+<area shape="rect" id="node47" href="$Local_8cpp.html" title="lib/Transforms/Utils\l/Local.cpp" alt="" coords="621,191,757,233"/>
+<area shape="rect" id="node48" href="$DomTreeUpdater_8cpp.html" title="lib/Analysis/DomTreeUpdater.cpp" alt="" coords="4602,102,4821,129"/>
+<area shape="rect" id="node49" href="$IVDescriptors_8cpp.html" title="lib/Analysis/IVDescriptors.cpp" alt="" coords="4845,102,5044,129"/>
+<area shape="rect" id="node50" href="$ADCE_8cpp.html" title="lib/Transforms/Scalar\l/ADCE.cpp" alt="" coords="5069,95,5215,136"/>
+<area shape="rect" id="node3" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="5,199,188,225"/>
+<area shape="rect" id="node6" href="$CodeGenPrepare_8cpp.html" title="lib/CodeGen/CodeGenPrepare.cpp" alt="" coords="2087,199,2309,225"/>
+<area shape="rect" id="node7" href="$HardwareLoops_8cpp.html" title="Insert hardware loop intrinsics into loops which are deemed profitable by the target, by querying TargetTransformInfo. " alt="" coords="2333,199,2548,225"/>
+<area shape="rect" id="node8" href="$SafeStack_8cpp.html" title="lib/CodeGen/SafeStack.cpp" alt="" coords="2573,199,2757,225"/>
+<area shape="rect" id="node9" href="$SelectionDAGISel_8cpp.html" title="lib/CodeGen/SelectionDAG\l/SelectionDAGISel.cpp" alt="" coords="7742,191,7923,233"/>
+<area shape="rect" id="node10" href="$UnreachableBlockElim_8cpp.html" title="lib/CodeGen/UnreachableBlock\lElim.cpp" alt="" coords="7948,191,8152,233"/>
+<area shape="rect" id="node11" href="$WasmEHPrepare_8cpp.html" title="lib/CodeGen/WasmEHPrepare.cpp" alt="" coords="4488,199,4713,225"/>
+<area shape="rect" id="node12" href="$WinEHPrepare_8cpp.html" title="lib/CodeGen/WinEHPrepare.cpp" alt="" coords="2781,199,2991,225"/>
+<area shape="rect" id="node13" href="$OMPIRBuilder_8cpp.html" title="This file implements the OpenMPIRBuilder class, which is used as a convenient way to create LLVM inst..." alt="" coords="4737,191,4883,233"/>
+<area shape="rect" id="node14" href="$AMDGPUAtomicOptimizer_8cpp.html" title="This pass optimizes atomic operations by using a single lane of a wavefront to perform the atomic ope..." alt="" coords="4907,191,5150,233"/>
+<area shape="rect" id="node15" href="$AMDGPUPrintfRuntimeBinding_8cpp.html" title="lib/Target/AMDGPU/AMDGPUPrintf\lRuntimeBinding.cpp" alt="" coords="5175,191,5408,233"/>
+<area shape="rect" id="node16" href="$SIAnnotateControlFlow_8cpp.html" title="Annotates the control flow with hardware specific intrinsics. " alt="" coords="3015,191,3223,233"/>
+<area shape="rect" id="node17" href="$ARMParallelDSP_8cpp.html" title="Armv6 introduced instructions to perform 32&#45;bit SIMD operations. " alt="" coords="5433,191,5619,233"/>
+<area shape="rect" id="node18" href="$MVETailPredication_8cpp.html" title="Armv8.1m introduced MVE, M&#45;Profile Vector Extension, and low&#45;overhead branches to help accelerate DSP..." alt="" coords="5644,199,5899,225"/>
+<area shape="rect" id="node19" href="$BPFAbstractMemberAccess_8cpp.html" title="lib/Target/BPF/BPFAbstract\lMemberAccess.cpp" alt="" coords="5923,191,6108,233"/>
+<area shape="rect" id="node20" href="$NVPTXLowerAggrCopies_8cpp.html" title="lib/Target/NVPTX/NVPTXLower\lAggrCopies.cpp" alt="" coords="6132,191,6341,233"/>
+<area shape="rect" id="node21" href="$PPCCTRLoops_8cpp.html" title="lib/Target/PowerPC\l/PPCCTRLoops.cpp" alt="" coords="3248,191,3391,233"/>
+<area shape="rect" id="node22" href="$PPCLoopInstrFormPrep_8cpp.html" title="lib/Target/PowerPC\l/PPCLoopInstrFormPrep.cpp" alt="" coords="3415,191,3605,233"/>
+<area shape="rect" id="node23" href="$WebAssemblyLowerEmscriptenEHSjLj_8cpp.html" title="This file lowers exception&#45;related instructions and setjmp/longjmp function calls in order to use Ems..." alt="" coords="6366,184,6609,240"/>
+<area shape="rect" id="node24" href="$XCoreLowerThreadLocal_8cpp.html" title="This file contains a pass that lowers thread local variables on the XCore. " alt="" coords="6633,191,6827,233"/>
+<area shape="rect" id="node25" href="$CoroFrame_8cpp.html" title="lib/Transforms/Coroutines\l/CoroFrame.cpp" alt="" coords="3852,191,4024,233"/>
+<area shape="rect" id="node26" href="$CoroSplit_8cpp.html" title="lib/Transforms/Coroutines\l/CoroSplit.cpp" alt="" coords="4048,191,4220,233"/>
+<area shape="rect" id="node27" href="$InstCombineLoadStoreAlloca_8cpp.html" title="lib/Transforms/InstCombine\l/InstCombineLoadStoreAlloca.cpp" alt="" coords="4244,191,4464,233"/>
+<area shape="rect" id="node28" href="$AddressSanitizer_8cpp.html" title="lib/Transforms/Instrumentation\l/AddressSanitizer.cpp" alt="" coords="3629,191,3828,233"/>
+<area shape="rect" id="node29" href="$CFGMST_8h.html" title="lib/Transforms/Instrumentation\l/CFGMST.h" alt="" coords="6851,191,7049,233"/>
+<area shape="rect" id="node30" href="$ControlHeightReduction_8cpp.html" title="lib/Transforms/Instrumentation\l/ControlHeightReduction.cpp" alt="" coords="7073,191,7272,233"/>
+<area shape="rect" id="node31" href="$DataFlowSanitizer_8cpp.html" title="This file is a part of DataFlowSanitizer, a generalised dynamic data flow analysis. " alt="" coords="1864,191,2063,233"/>
+<area shape="rect" id="node32" href="$HWAddressSanitizer_8cpp.html" title="This file is a part of HWAddressSanitizer, an address sanity checker based on tagged addressing..." alt="" coords="7296,191,7495,233"/>
+<area shape="rect" id="node33" href="$IndirectCallPromotion_8cpp.html" title="lib/Transforms/Instrumentation\l/IndirectCallPromotion.cpp" alt="" coords="7519,191,7717,233"/>
+</map>

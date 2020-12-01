@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classAMDGPUGenRegisterInfo.html" title="AMDGPUGenRegisterInfo" alt="" coords="5,5,181,32"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AMDGPURegisterInfo.html" title="llvm::AMDGPURegisterInfo" alt="" coords="229,5,413,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SIRegisterInfo.html" title="llvm::SIRegisterInfo" alt="" coords="461,5,600,32"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="llvm::WasmYAML::Import" name="llvm::WasmYAML::Import">
+<area shape="rect" id="node2" href="$structllvm_1_1WasmYAML_1_1Table.html" title="llvm::WasmYAML::Table" alt="" coords="1433,43,1601,69"/>
+<area shape="rect" id="node3" href="$structllvm_1_1WasmYAML_1_1Limits.html" title="llvm::WasmYAML::Limits" alt="" coords="1037,76,1207,103"/>
+<area shape="rect" id="node7" href="$classuint32__t.html" title="uint32_t" alt="" coords="741,243,809,269"/>
+<area shape="rect" id="node8" href="$structllvm_1_1WasmYAML_1_1Global.html" title="llvm::WasmYAML::Global" alt="" coords="1431,355,1604,381"/>
+<area shape="rect" id="node9" href="$structllvm_1_1wasm_1_1WasmInitExpr.html" title="llvm::wasm::WasmInitExpr" alt="" coords="1032,359,1212,385"/>
+<area shape="rect" id="node20" href="$structllvm_1_1WasmYAML_1_1Event.html" title="llvm::WasmYAML::Event" alt="" coords="1236,220,1407,247"/>
+<area shape="rect" id="node14" href="$classbool.html" title="bool" alt="" coords="1099,489,1145,516"/>
+<area shape="rect" id="node15" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; const Value *, const\l PseudoSourceValue * \&gt;" alt="" coords="1039,409,1205,465"/>
+<area shape="rect" id="node16" href="$classllvm_1_1pointer__union__detail_1_1PointerUnionMembers.html" title="llvm::pointer_union\l_detail::PointerUnionMembers\l\&lt; PointerUnion\&lt; PTs... \&gt;,\l PointerIntPair\&lt; void *, pointer\l_union_detail::bitsRequired(sizeof...\l(PTs)), int, pointer_union_detail::\lPointerUnionUIntTraits\&lt; PTs... \&gt; \&gt;,\l 0, PTs... \&gt;" alt="" coords="431,535,661,665"/>
+<area shape="rect" id="node18" href="$classllvm_1_1PointerUnion.html" title="A discriminated union of two or more pointer types, with the discriminator in the low bit of the poin..." alt="" coords="711,609,840,650"/>
+<area shape="rect" id="node17" href="$classllvm_1_1pointer__union__detail_1_1PointerUnionMembers.html" title="llvm::pointer_union\l_detail::PointerUnionMembers\l\&lt; Derived, ValTy, I, Types \&gt;" alt="" coords="5,572,203,628"/>
+<area shape="rect" id="node21" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e. " alt="" coords="1463,405,1572,432"/>
+<area shape="rect" id="node22" href="$classsize__t.html" title="size_t" alt="" coords="1093,540,1151,567"/>
+</map>

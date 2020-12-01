@@ -1,0 +1,12 @@
+<map id="llvm::COFFYAML::Section" name="llvm::COFFYAML::Section">
+<area shape="rect" id="node3" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; llvm\l::CodeViewYAML::DebugHSection \&gt;" alt="" coords="333,71,572,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; T \&gt;" alt="" coords="5,78,140,105"/>
+<area shape="rect" id="node5" href="$classllvm_1_1yaml_1_1BinaryRef.html" title="Specialized YAMLIO scalar type for representing a binary blob. " alt="" coords="379,137,527,163"/>
+<area shape="rect" id="node8" href="$structllvm_1_1COFF_1_1section.html" title="llvm::COFF::section" alt="" coords="383,319,523,346"/>
+<area shape="rect" id="node9" href="$classuint16__t.html" title="uint16_t" alt="" coords="39,247,107,274"/>
+<area shape="rect" id="node10" href="$classchar.html" title="char" alt="" coords="49,298,96,325"/>
+<area shape="rect" id="node11" href="$classuint32__t.html" title="uint32_t" alt="" coords="39,431,107,458"/>
+<area shape="rect" id="node12" href="$classunsigned.html" title="unsigned" alt="" coords="415,370,490,397"/>
+<area shape="rect" id="node13" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e. " alt="" coords="398,441,507,467"/>
+<area shape="rect" id="node14" href="$classsize__t.html" title="size_t" alt="" coords="44,482,101,509"/>
+</map>

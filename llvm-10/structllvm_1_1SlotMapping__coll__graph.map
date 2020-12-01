@@ -1,0 +1,7 @@
+<map id="llvm::SlotMapping" name="llvm::SlotMapping">
+<area shape="rect" id="node3" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; llvm\l::Type *\&gt;" alt="" coords="859,71,1009,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1StringMapImpl.html" title="StringMapImpl &#45; This is the base class of StringMap that is shared among all of its instantiations..." alt="" coords="329,85,468,111"/>
+<area shape="rect" id="node7" href="$classllvm_1_1StringMap.html" title="StringMap &#45; This is an unconventional map that is specialized for handling keys that are &quot;strings&quot;..." alt="" coords="517,107,695,148"/>
+<area shape="rect" id="node5" href="$classllvm_1_1StringMapEntryBase.html" title="StringMapEntryBase &#45; Shared base class of StringMapEntry instances. " alt="" coords="5,39,180,66"/>
+<area shape="rect" id="node6" href="$classunsigned.html" title="unsigned" alt="" coords="55,129,130,155"/>
+</map>

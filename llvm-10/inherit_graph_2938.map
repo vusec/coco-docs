@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1MachineModuleInfoImpl.html" title="This class can be derived from and used by targets to hold private target&#45;specific information for ea..." alt="" coords="5,56,197,83"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MachineModuleInfoCOFF.html" title="MachineModuleInfoCOFF &#45; This is a MachineModuleInfoImpl implementation for COFF targets. " alt="" coords="249,5,451,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MachineModuleInfoELF.html" title="MachineModuleInfoELF &#45; This is a MachineModuleInfoImpl implementation for ELF targets. " alt="" coords="255,56,445,83"/>
+<area shape="rect" id="node5" href="$classllvm_1_1MachineModuleInfoMachO.html" title="MachineModuleInfoMachO &#45; This is a MachineModuleInfoImpl implementation for MachO targets..." alt="" coords="245,107,455,133"/>
+<area shape="rect" id="node4" href="$classllvm_1_1AMDGPUMachineModuleInfo.html" title="llvm::AMDGPUMachineModuleInfo" alt="" coords="503,56,729,83"/>
+</map>

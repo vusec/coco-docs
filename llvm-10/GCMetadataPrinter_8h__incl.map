@@ -1,0 +1,13 @@
+<map id="include/llvm/CodeGen/GCMetadataPrinter.h" name="include/llvm/CodeGen/GCMetadataPrinter.h">
+<area shape="rect" id="node2" href="$Registry_8h.html" title="llvm/Support/Registry.h" alt="" coords="1599,95,1758,121"/>
+<area shape="rect" id="node3" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="916,244,1071,271"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1831,468,1993,495"/>
+<area shape="rect" id="node16" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="23,393,193,420"/>
+<area shape="rect" id="node29" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="500,169,647,196"/>
+<area shape="rect" id="node31" href="$DynamicLibrary_8h.html" title="llvm/Support/DynamicLibrary.h" alt="" coords="1969,169,2170,196"/>
+<area shape="rect" id="node4" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="1103,319,1243,345"/>
+<area shape="rect" id="node15" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="277,319,409,345"/>
+<area shape="rect" id="node21" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1949,319,2139,345"/>
+<area shape="rect" id="node5" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="1191,393,1313,420"/>
+<area shape="rect" id="node9" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="996,393,1167,420"/>
+</map>

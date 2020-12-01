@@ -1,0 +1,5 @@
+<map id="llvm::PPCPreRASchedStrategy" name="llvm::PPCPreRASchedStrategy">
+<area shape="rect" id="node2" href="$classllvm_1_1GenericScheduler.html" title="GenericScheduler shrinks the unscheduled zone using heuristics to balance the schedule. " alt="" coords="30,155,187,181"/>
+<area shape="rect" id="node3" href="$classllvm_1_1GenericSchedulerBase.html" title="Base class for GenericScheduler. " alt="" coords="15,80,202,107"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MachineSchedStrategy.html" title="MachineSchedStrategy &#45; Interface to the scheduling algorithm used by ScheduleDAGMI. " alt="" coords="14,5,203,32"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="lib/Support/ErrorHandling.cpp" name="lib/Support/ErrorHandling.cpp">
+<area shape="rect" id="node2" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="3610,528,3799,555"/>
+<area shape="rect" id="node5" href="$c_2ErrorHandling_8h.html" title="llvm&#45;c/ErrorHandling.h" alt="" coords="4319,155,4469,181"/>
+<area shape="rect" id="node7" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2833,379,2995,405"/>
+<area shape="rect" id="node24" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="1248,304,1375,331"/>
+<area shape="rect" id="node32" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="4157,229,4305,256"/>
+<area shape="rect" id="node33" href="$Errc_8h.html" title="llvm/Support/Errc.h" alt="" coords="235,155,369,181"/>
+<area shape="rect" id="node35" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="3087,155,3226,181"/>
+<area shape="rect" id="node41" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="741,304,927,331"/>
+<area shape="rect" id="node43" href="$Process_8h.html" title="Provides a library for accessing information about this process and other processes on the operating ..." alt="" coords="3932,80,4091,107"/>
+<area shape="rect" id="node46" href="$Signals_8h.html" title="llvm/Support/Signals.h" alt="" coords="5,80,159,107"/>
+<area shape="rect" id="node47" href="$Threading_8h.html" title="llvm/Support/Threading.h" alt="" coords="4867,304,5033,331"/>
+<area shape="rect" id="node49" href="$WindowsError_8h.html" title="llvm/Support/WindowsError.h" alt="" coords="394,155,586,181"/>
+<area shape="rect" id="node3" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="4250,677,4413,704"/>
+<area shape="rect" id="node6" href="$ExternC_8h.html" title="llvm&#45;c/ExternC.h" alt="" coords="4287,304,4407,331"/>
+<area shape="rect" id="node8" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="2642,528,2813,555"/>
+<area shape="rect" id="node11" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2160,453,2313,480"/>
+<area shape="rect" id="node13" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="2541,453,2719,480"/>
+<area shape="rect" id="node18" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="3986,453,4154,480"/>
+<area shape="rect" id="node20" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="3054,603,3225,629"/>
+<area shape="rect" id="node25" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1583,379,1730,405"/>
+<area shape="rect" id="node26" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3098,453,3253,480"/>
+<area shape="rect" id="node27" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3925,528,4065,555"/>
+<area shape="rect" id="node36" href="$c_2Error_8h.html" title="llvm&#45;c/Error.h" alt="" coords="4033,229,4133,256"/>
+<area shape="rect" id="node37" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="1575,229,1739,256"/>
+<area shape="rect" id="node38" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer. " alt="" coords="951,304,1103,331"/>
+<area shape="rect" id="node39" href="$Format_8h.html" title="llvm/Support/Format.h" alt="" coords="2968,304,3119,331"/>
+<area shape="rect" id="node40" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="3635,379,3809,405"/>
+<area shape="rect" id="node44" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="3797,304,3959,331"/>
+<area shape="rect" id="node45" href="$Chrono_8h.html" title="llvm/Support/Chrono.h" alt="" coords="4533,229,4685,256"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="llvm::LoopBodyTraits::WrappedSuccIterator" name="llvm::LoopBodyTraits::WrappedSuccIterator">
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__adaptor__base.html" title="llvm::iterator_adaptor\l_base\&lt; WrappedSuccIterator,\l succ_iterator, std::iterator\l_traits\&lt; succ_iterator \&gt;::iterator\l_category, NodeRef, std::ptrdiff\l_t, NodeRef *, NodeRef \&gt;" alt="" coords="1279,177,1485,277"/>
+<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; WrappedSuccIterator,\l std::iterator_traits\&lt; succ\l_iterator \&gt;::iterator_category,\l NodeRef, std::ptrdiff_t, NodeRef\l *, NodeRef \&gt;" alt="" coords="743,74,959,174"/>
+<area shape="rect" id="node5" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="267,178,491,249"/>
+<area shape="rect" id="node8" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; SuccIterator\&lt;\l InstructionT, BlockT\l \&gt;, std::random_access\l_iterator_tag, BlockT, int,\l BlockT *, BlockT *\&gt;" alt="" coords="766,198,935,298"/>
+<area shape="rect" id="node10" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type. " alt="" coords="724,325,977,395"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SuccIterator.html" title="llvm::SuccIterator\l\&lt; InstructionT, BlockT \&gt;" alt="" coords="1042,206,1206,247"/>
+</map>

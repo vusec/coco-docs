@@ -1,0 +1,13 @@
+<map id="llvm::OverflowingBinaryOperator" name="llvm::OverflowingBinaryOperator">
+<area shape="rect" id="node5" href="$classllvm_1_1ConcreteOperator.html" title="llvm::ConcreteOperator\l\&lt; OverflowingBinaryOperator,\l Instruction::Add \&gt;" alt="" coords="681,5,876,61"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ConcreteOperator.html" title="llvm::ConcreteOperator\l\&lt; OverflowingBinaryOperator,\l Instruction::Mul \&gt;" alt="" coords="681,85,876,141"/>
+<area shape="rect" id="node9" href="$classllvm_1_1ConcreteOperator.html" title="llvm::ConcreteOperator\l\&lt; OverflowingBinaryOperator,\l Instruction::Shl \&gt;" alt="" coords="681,165,876,221"/>
+<area shape="rect" id="node11" href="$classllvm_1_1ConcreteOperator.html" title="llvm::ConcreteOperator\l\&lt; OverflowingBinaryOperator,\l Instruction::Sub \&gt;" alt="" coords="681,245,876,301"/>
+<area shape="rect" id="node2" href="$classllvm_1_1Operator.html" title="This is a utility class that provides an abstraction for the common functionality between Instruction..." alt="" coords="271,140,375,167"/>
+<area shape="rect" id="node3" href="$classllvm_1_1User.html" title="llvm::User" alt="" coords="140,140,223,167"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="5,140,92,167"/>
+<area shape="rect" id="node6" href="$classllvm_1_1AddOperator.html" title="llvm::AddOperator" alt="" coords="924,20,1051,47"/>
+<area shape="rect" id="node8" href="$classllvm_1_1MulOperator.html" title="llvm::MulOperator" alt="" coords="925,100,1050,127"/>
+<area shape="rect" id="node10" href="$classllvm_1_1ShlOperator.html" title="llvm::ShlOperator" alt="" coords="926,180,1049,207"/>
+<area shape="rect" id="node12" href="$classllvm_1_1SubOperator.html" title="llvm::SubOperator" alt="" coords="924,260,1051,287"/>
+</map>

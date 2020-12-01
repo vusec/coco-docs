@@ -1,0 +1,6 @@
+<map id="llvm::BooleanState" name="llvm::BooleanState">
+<area shape="rect" id="node2" href="$structllvm_1_1IntegerStateBase.html" title="llvm::IntegerStateBase\l\&lt; bool, 1, 0 \&gt;" alt="" coords="110,243,265,284"/>
+<area shape="rect" id="node3" href="$structllvm_1_1AbstractState.html" title="An interface to query the internal state of an abstract attribute. " alt="" coords="5,5,140,32"/>
+<area shape="rect" id="node5" href="$structllvm_1_1IntegerStateBase.html" title="Simple state with integers encoding. " alt="" coords="110,109,265,165"/>
+<area shape="rect" id="node4" href="$classbool.html" title="bool" alt="" coords="289,124,336,151"/>
+</map>

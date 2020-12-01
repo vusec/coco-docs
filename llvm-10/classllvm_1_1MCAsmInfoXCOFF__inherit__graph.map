@@ -1,0 +1,4 @@
+<map id="llvm::MCAsmInfoXCOFF" name="llvm::MCAsmInfoXCOFF">
+<area shape="rect" id="node3" href="$classllvm_1_1PPCXCOFFMCAsmInfo.html" title="llvm::PPCXCOFFMCAsmInfo" alt="" coords="5,155,203,181"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MCAsmInfo.html" title="This class is intended to be used as a base class for asm properties and features specific to the tar..." alt="" coords="42,5,166,32"/>
+</map>

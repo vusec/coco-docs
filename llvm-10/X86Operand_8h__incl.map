@@ -1,0 +1,31 @@
+<map id="lib/Target/X86/AsmParser/X86Operand.h" name="lib/Target/X86/AsmParser/X86Operand.h">
+<area shape="rect" id="node2" href="$X86IntelInstPrinter_8h.html" title="MCTargetDesc/X86IntelInst\lPrinter.h" alt="" coords="2523,259,2709,300"/>
+<area shape="rect" id="node19" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="4381,587,4571,613"/>
+<area shape="rect" id="node25" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2325,437,2472,464"/>
+<area shape="rect" id="node26" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1116,512,1271,539"/>
+<area shape="rect" id="node34" href="$X86MCTargetDesc_8h.html" title="MCTargetDesc/X86MCTarget\lDesc.h" alt="" coords="4249,95,4445,136"/>
+<area shape="rect" id="node39" href="$SMLoc_8h.html" title="llvm/Support/SMLoc.h" alt="" coords="3859,437,4010,464"/>
+<area shape="rect" id="node44" href="$X86AsmParserCommon_8h.html" title="X86AsmParserCommon.h" alt="" coords="1689,102,1863,129"/>
+<area shape="rect" id="node45" href="$MCExpr_8h.html" title="llvm/MC/MCExpr.h" alt="" coords="3275,184,3410,211"/>
+<area shape="rect" id="node46" href="$MCInst_8h.html" title="llvm/MC/MCInst.h" alt="" coords="2437,355,2566,382"/>
+<area shape="rect" id="node47" href="$MCParsedAsmOperand_8h.html" title="llvm/MC/MCParser/MCParsed\lAsmOperand.h" alt="" coords="3835,348,4035,389"/>
+<area shape="rect" id="node48" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="2947,184,3125,211"/>
+<area shape="rect" id="node50" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="3835,587,3989,613"/>
+<area shape="rect" id="node3" href="$X86InstPrinterCommon_8h.html" title="X86InstPrinterCommon.h" alt="" coords="2590,355,2759,382"/>
+<area shape="rect" id="node6" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2094,355,2279,382"/>
+<area shape="rect" id="node4" href="$MCInstPrinter_8h.html" title="llvm/MC/MCInstPrinter.h" alt="" coords="2630,512,2797,539"/>
+<area shape="rect" id="node7" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1987,512,2149,539"/>
+<area shape="rect" id="node8" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="463,661,633,688"/>
+<area shape="rect" id="node11" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3961,736,4124,763"/>
+<area shape="rect" id="node12" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1645,587,1822,613"/>
+<area shape="rect" id="node18" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="3733,661,3904,688"/>
+<area shape="rect" id="node27" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="4014,587,4154,613"/>
+<area shape="rect" id="node29" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1265,587,1397,613"/>
+<area shape="rect" id="node28" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="4080,661,4203,688"/>
+<area shape="rect" id="node35" href="$MCRegister_8h.html" title="llvm/MC/MCRegister.h" alt="" coords="3343,266,3499,293"/>
+<area shape="rect" id="node37" href="$MCStreamer_8h.html" title="llvm/MC/MCStreamer.h" alt="" coords="3980,184,4140,211"/>
+<area shape="rect" id="node40" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="4357,184,4531,211"/>
+<area shape="rect" id="node36" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="3075,355,3253,382"/>
+<area shape="rect" id="node38" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2927,266,3081,293"/>
+<area shape="rect" id="node49" href="$LaneBitmask_8h.html" title="A common definition of LaneBitmask for use in TableGen and CodeGen. " alt="" coords="3105,266,3268,293"/>
+</map>

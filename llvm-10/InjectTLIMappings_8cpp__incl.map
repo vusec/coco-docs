@@ -1,0 +1,35 @@
+<map id="lib/Transforms/Utils/InjectTLIMappings.cpp" name="lib/Transforms/Utils/InjectTLIMappings.cpp">
+<area shape="rect" id="node2" href="$InjectTLIMappings_8h.html" title="llvm/Transforms/Utils\l/InjectTLIMappings.h" alt="" coords="3049,95,3196,136"/>
+<area shape="rect" id="node38" href="$Statistic_8h.html" title="llvm/ADT/Statistic.h" alt="" coords="3798,348,3938,375"/>
+<area shape="rect" id="node40" href="$VectorUtils_8h.html" title="llvm/Analysis/VectorUtils.h" alt="" coords="1830,102,2010,129"/>
+<area shape="rect" id="node48" href="$InstIterator_8h.html" title="llvm/IR/InstIterator.h" alt="" coords="3390,266,3533,293"/>
+<area shape="rect" id="node49" href="$Transforms_2Utils_8h.html" title="llvm/Transforms/Utils.h" alt="" coords="3798,102,3957,129"/>
+<area shape="rect" id="node50" href="$ModuleUtils_8h.html" title="llvm/Transforms/Utils\l/ModuleUtils.h" alt="" coords="491,259,637,300"/>
+<area shape="rect" id="node3" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM. " alt="" coords="2750,184,2909,211"/>
+<area shape="rect" id="node37" href="$InitializePasses_8h.html" title="llvm/InitializePasses.h" alt="" coords="3046,184,3199,211"/>
+<area shape="rect" id="node4" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1456,423,1611,449"/>
+<area shape="rect" id="node16" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="1168,423,1331,449"/>
+<area shape="rect" id="node17" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2411,423,2557,449"/>
+<area shape="rect" id="node19" href="$TinyPtrVector_8h.html" title="llvm/ADT/TinyPtrVector.h" alt="" coords="1686,348,1858,375"/>
+<area shape="rect" id="node23" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="2969,348,3098,375"/>
+<area shape="rect" id="node27" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="2619,266,2741,293"/>
+<area shape="rect" id="node29" href="$PassInstrumentation_8h.html" title="This file defines the Pass Instrumentation classes that provide instrumentation points into the pass ..." alt="" coords="2194,266,2393,293"/>
+<area shape="rect" id="node30" href="$TypeName_8h.html" title="llvm/Support/TypeName.h" alt="" coords="2329,348,2503,375"/>
+<area shape="rect" id="node31" href="$PassManagerInternal_8h.html" title="This header provides internal APIs and implementation details used by the pass management interfaces ..." alt="" coords="3469,348,3672,375"/>
+<area shape="rect" id="node32" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="2112,348,2203,375"/>
+<area shape="rect" id="node33" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="2918,266,3066,293"/>
+<area shape="rect" id="node34" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="1477,348,1662,375"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2805,572,2968,599"/>
+<area shape="rect" id="node8" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1067,497,1237,524"/>
+<area shape="rect" id="node18" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3176,572,3347,599"/>
+<area shape="rect" id="node20" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="515,423,637,449"/>
+<area shape="rect" id="node21" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1847,423,2009,449"/>
+<area shape="rect" id="node24" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="3070,423,3215,449"/>
+<area shape="rect" id="node26" href="$SymbolTableListTraits_8h.html" title="llvm/IR/SymbolTableListTraits.h" alt="" coords="1955,497,2165,524"/>
+<area shape="rect" id="node25" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="2241,497,2373,524"/>
+<area shape="rect" id="node41" href="$MapVector_8h.html" title="llvm/ADT/MapVector.h" alt="" coords="1883,348,2037,375"/>
+<area shape="rect" id="node42" href="$SmallSet_8h.html" title="llvm/ADT/SmallSet.h" alt="" coords="491,348,637,375"/>
+<area shape="rect" id="node45" href="$LoopAccessAnalysis_8h.html" title="llvm/Analysis/LoopAccess\lAnalysis.h" alt="" coords="1739,259,1915,300"/>
+<area shape="rect" id="node46" href="$IRBuilder_8h.html" title="llvm/IR/IRBuilder.h" alt="" coords="1989,184,2123,211"/>
+<area shape="rect" id="node47" href="$CheckedArithmetic_8h.html" title="llvm/Support/CheckedArithmetic.h" alt="" coords="155,184,376,211"/>
+</map>

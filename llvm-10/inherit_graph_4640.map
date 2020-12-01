@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1JITSymbolResolver.html" title="Symbol resolution interface. " alt="" coords="5,113,175,140"/>
+<area shape="rect" id="node2" href="$classllvm_1_1LegacyJITSymbolResolver.html" title="Legacy symbol resolution interface. " alt="" coords="227,71,437,97"/>
+<area shape="rect" id="node8" href="$classllvm_1_1orc_1_1JITSymbolResolverAdapter.html" title="Legacy adapter. Remove once we kill off the old ORC layers. " alt="" coords="235,122,429,163"/>
+<area shape="rect" id="node3" href="$classllvm_1_1LinkingSymbolResolver.html" title="llvm::LinkingSymbolResolver" alt="" coords="511,5,702,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1orc_1_1LambdaResolver.html" title="llvm::orc::LambdaResolver\l\&lt; DylibLookupFtorT, ExternalLookup\lFtorT \&gt;" alt="" coords="489,56,724,112"/>
+<area shape="rect" id="node5" href="$classllvm_1_1orc_1_1NullLegacyResolver.html" title="SymbolResolver impliementation that rejects all resolution requests. " alt="" coords="508,136,705,163"/>
+<area shape="rect" id="node6" href="$classllvm_1_1RTDyldMemoryManager.html" title="llvm::RTDyldMemoryManager" alt="" coords="509,187,705,213"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SectionMemoryManager.html" title="This is a simple memory manager which implements the methods called by the RuntimeDyld class to alloc..." alt="" coords="772,187,967,213"/>
+<area shape="rect" id="node9" href="$classllvm_1_1RuntimeDyld_1_1MemoryManager.html" title="Memory Management. " alt="" coords="21,197,159,238"/>
+<area shape="rect" id="node10" href="$classllvm_1_1MCJITMemoryManager.html" title="llvm::MCJITMemoryManager" alt="" coords="237,188,427,215"/>
+<area shape="rect" id="node11" href="$classllvm_1_1orc_1_1remote_1_1OrcRemoteTargetClient_1_1RemoteRTDyldMemoryManager.html" title="Remote&#45;mapped RuntimeDyld&#45;compatible memory manager. " alt="" coords="223,239,441,295"/>
+</map>

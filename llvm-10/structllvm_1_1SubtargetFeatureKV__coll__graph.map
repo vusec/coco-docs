@@ -1,0 +1,6 @@
+<map id="llvm::SubtargetFeatureKV" name="llvm::SubtargetFeatureKV">
+<area shape="rect" id="node2" href="$classllvm_1_1FeatureBitArray.html" title="Class used to store the subtarget bits in the tables created by tablegen. " alt="" coords="5,81,151,108"/>
+<area shape="rect" id="node3" href="$classllvm_1_1FeatureBitset.html" title="Container class for subtarget features. " alt="" coords="12,5,144,32"/>
+<area shape="rect" id="node4" href="$classchar.html" title="char" alt="" coords="175,81,221,108"/>
+<area shape="rect" id="node5" href="$classunsigned.html" title="unsigned" alt="" coords="246,81,321,108"/>
+</map>

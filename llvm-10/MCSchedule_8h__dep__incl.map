@@ -1,0 +1,51 @@
+<map id="include/llvm/MC/MCSchedule.h" name="include/llvm/MC/MCSchedule.h">
+<area shape="rect" id="node2" href="$BasicTTIImpl_8h.html" title="This file provides a helper that implements much of the TTI interface in terms of the target&#45;independ..." alt="" coords="4497,80,4648,121"/>
+<area shape="rect" id="node26" href="$TargetSchedule_8h.html" title="include/llvm/CodeGen\l/TargetSchedule.h" alt="" coords="1215,169,1365,211"/>
+<area shape="rect" id="node31" href="$TargetSchedule_8cpp.html" title="lib/CodeGen/TargetSchedule.cpp" alt="" coords="1572,266,1787,293"/>
+<area shape="rect" id="node32" href="$AArch64SIMDInstrOpt_8cpp.html" title="lib/Target/AArch64\l/AArch64SIMDInstrOpt.cpp" alt="" coords="5,259,188,300"/>
+<area shape="rect" id="node33" href="$X86CmovConversion_8cpp.html" title="This file implements a pass that converts X86 cmov instructions into branches when profitable..." alt="" coords="213,266,469,293"/>
+<area shape="rect" id="node34" href="$X86FlagsCopyLowering_8cpp.html" title="Lowers COPY nodes of EFLAGS by directly extracting and preserving individual flag bits..." alt="" coords="493,259,687,300"/>
+<area shape="rect" id="node35" href="$X86SpeculativeLoadHardening_8cpp.html" title="Provide a pass which mitigates speculative execution attacks which operate by speculating incorrectly..." alt="" coords="711,259,909,300"/>
+<area shape="rect" id="node36" href="$MCInstrItineraries_8h.html" title="include/llvm/MC/MCInstrItineraries.h" alt="" coords="2039,87,2274,114"/>
+<area shape="rect" id="node37" href="$MCSubtargetInfo_8h.html" title="include/llvm/MC/MCSubtarget\lInfo.h" alt="" coords="2134,169,2331,211"/>
+<area shape="rect" id="node38" href="$RegisterFile_8h.html" title="This file defines a register mapping file class. " alt="" coords="2001,259,2187,300"/>
+<area shape="rect" id="node39" href="$Disassembler_8cpp.html" title="lib/MC/MCDisassembler\l/Disassembler.cpp" alt="" coords="1811,259,1977,300"/>
+<area shape="rect" id="node40" href="$MCSchedule_8cpp.html" title="lib/MC/MCSchedule.cpp" alt="" coords="2423,266,2587,293"/>
+<area shape="rect" id="node41" href="$MCSubtargetInfo_8cpp.html" title="lib/MC/MCSubtargetInfo.cpp" alt="" coords="2211,266,2399,293"/>
+<area shape="rect" id="node42" href="$ARMSubtarget_8h.html" title="lib/Target/ARM/ARMSubtarget.h" alt="" coords="2558,177,2769,203"/>
+<area shape="rect" id="node43" href="$ARMISelLowering_8cpp.html" title="lib/Target/ARM/ARMISelLowering.cpp" alt="" coords="2611,266,2855,293"/>
+<area shape="rect" id="node44" href="$LSUnit_8h.html" title="A Load/Store unit class that models load/store queues and that implements a simple weak memory consis..." alt="" coords="6573,80,6759,121"/>
+<area shape="rect" id="node45" href="$Scheduler_8h.html" title="A scheduler for Processor Resource Units and Processor Resource Groups. " alt="" coords="6704,259,6889,300"/>
+<area shape="rect" id="node46" href="$InstructionTables_8h.html" title="This file implements a custom stage to generate instruction tables. " alt="" coords="6893,348,7063,389"/>
+<area shape="rect" id="node47" href="$ResourceManager_8h.html" title="The classes here represent processor resource units and their management strategy. " alt="" coords="6704,169,6889,211"/>
+<area shape="rect" id="node48" href="$RetireControlUnit_8h.html" title="This file simulates the hardware responsible for retiring instructions. " alt="" coords="7235,80,7420,121"/>
+<area shape="rect" id="node49" href="$MCA_2Support_8h.html" title="Helper functions used by various pipeline components. " alt="" coords="6835,87,7020,114"/>
+<area shape="rect" id="node50" href="$Support_8cpp.html" title="This file implements a few helper functions used by various pipeline components. " alt="" coords="7016,177,7159,203"/>
+<area shape="rect" id="node3" href="$BasicTargetTransformInfo_8cpp.html" title="This file provides the implementation of a basic TargetTransformInfo pass predicated on the target ab..." alt="" coords="5826,169,6053,211"/>
+<area shape="rect" id="node4" href="$LLVMTargetMachine_8cpp.html" title="lib/CodeGen/LLVMTargetMachine.cpp" alt="" coords="2879,266,3122,293"/>
+<area shape="rect" id="node5" href="$AArch64TargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the AArch64 target machine..." alt="" coords="4258,169,4463,211"/>
+<area shape="rect" id="node6" href="$AArch64TargetTransformInfo_8cpp.html" title="lib/Target/AArch64\l/AArch64TargetTransformInfo.cpp" alt="" coords="4311,259,4530,300"/>
+<area shape="rect" id="node7" href="$AMDGPUTargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the AMDGPU target machine..." alt="" coords="3101,169,3340,211"/>
+<area shape="rect" id="node8" href="$ARCTargetTransformInfo_8h.html" title="lib/Target/ARC/ARCTarget\lTransformInfo.h" alt="" coords="3365,169,3543,211"/>
+<area shape="rect" id="node9" href="$ARMTargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the ARM target machine..." alt="" coords="4078,259,4259,300"/>
+<area shape="rect" id="node10" href="$HexagonTargetTransformInfo_8h.html" title="This file implements a TargetTransformInfo analysis pass specific to the Hexagon target machine..." alt="" coords="3568,169,3775,211"/>
+<area shape="rect" id="node11" href="$LanaiTargetTransformInfo_8h.html" title="lib/Target/Lanai/LanaiTarget\lTransformInfo.h" alt="" coords="3799,169,3981,211"/>
+<area shape="rect" id="node12" href="$MipsTargetMachine_8cpp.html" title="lib/Target/Mips/MipsTarget\lMachine.cpp" alt="" coords="4005,169,4183,211"/>
+<area shape="rect" id="node13" href="$NVPTXTargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the NVPTX target machine..." alt="" coords="4538,169,4749,211"/>
+<area shape="rect" id="node14" href="$NVPTXTargetTransformInfo_8cpp.html" title="lib/Target/NVPTX/NVPTXTarget\lTransformInfo.cpp" alt="" coords="4591,259,4802,300"/>
+<area shape="rect" id="node15" href="$PPCTargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the PPC target machine..." alt="" coords="2895,169,3077,211"/>
+<area shape="rect" id="node16" href="$PPCTargetTransformInfo_8cpp.html" title="lib/Target/PowerPC\l/PPCTargetTransformInfo.cpp" alt="" coords="3146,259,3343,300"/>
+<area shape="rect" id="node17" href="$RISCVTargetTransformInfo_8h.html" title="This file defines a TargetTransformInfo::Concept conforming object specific to the RISC&#45;V target mach..." alt="" coords="5327,169,5533,211"/>
+<area shape="rect" id="node18" href="$RISCVTargetTransformInfo_8cpp.html" title="lib/Target/RISCV/RISCVTarget\lTransformInfo.cpp" alt="" coords="5398,259,5603,300"/>
+<area shape="rect" id="node19" href="$SystemZTargetTransformInfo_8h.html" title="lib/Target/SystemZ\l/SystemZTargetTransformInfo.h" alt="" coords="6077,169,6285,211"/>
+<area shape="rect" id="node20" href="$SystemZTargetTransformInfo_8cpp.html" title="lib/Target/SystemZ\l/SystemZTargetTransformInfo.cpp" alt="" coords="6091,259,6313,300"/>
+<area shape="rect" id="node21" href="$VETargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the VE target machine..." alt="" coords="4823,169,5039,211"/>
+<area shape="rect" id="node22" href="$WebAssemblyTargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the WebAssembly target machine..." alt="" coords="5063,169,5303,211"/>
+<area shape="rect" id="node23" href="$X86TargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the X86 target machine..." alt="" coords="6360,169,6527,211"/>
+<area shape="rect" id="node24" href="$X86TargetTransformInfo_8cpp.html" title="This file implements a TargetTransformInfo analysis pass specific to the X86 target machine..." alt="" coords="6420,259,6587,300"/>
+<area shape="rect" id="node25" href="$XCoreTargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the XCore target machine..." alt="" coords="5607,169,5802,211"/>
+<area shape="rect" id="node27" href="$MachineScheduler_8h.html" title="include/llvm/CodeGen\l/MachineScheduler.h" alt="" coords="1215,348,1365,389"/>
+<area shape="rect" id="node28" href="$MachineTraceMetrics_8h.html" title="include/llvm/CodeGen\l/MachineTraceMetrics.h" alt="" coords="1385,259,1547,300"/>
+<area shape="rect" id="node29" href="$ScheduleDAGInstrs_8h.html" title="include/llvm/CodeGen\l/ScheduleDAGInstrs.h" alt="" coords="1156,259,1309,300"/>
+<area shape="rect" id="node30" href="$IfConversion_8cpp.html" title="lib/CodeGen/IfConversion.cpp" alt="" coords="934,266,1131,293"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="llvm::Resolver" name="llvm::Resolver">
+<area shape="rect" id="node2" href="$classllvm_1_1HasReferenceResolver.html" title="Do not resolve anything, but keep track of whether a given variable was referenced. " alt="" coords="167,5,358,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MapResolver.html" title="Resolve arbitrary mappings. " alt="" coords="197,56,328,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1RecordResolver.html" title="Resolve all variables from a record except for unset variables. " alt="" coords="189,107,337,133"/>
+<area shape="rect" id="node5" href="$classllvm_1_1RecordValResolver.html" title="Resolve all references to a specific RecordVal. " alt="" coords="179,157,346,184"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ShadowResolver.html" title="Delegate resolving to a sub&#45;resolver, but shadow some variable names. " alt="" coords="186,208,339,235"/>
+<area shape="rect" id="node7" href="$classllvm_1_1TrackUnresolvedResolver.html" title="(Optionally) delegate resolving to a sub&#45;resolver, and keep track whether there were unresolved refer..." alt="" coords="160,259,365,285"/>
+</map>

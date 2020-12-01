@@ -1,0 +1,33 @@
+<map id="include/llvm/DebugInfo/PDB/Native/NativeTypeArray.h" name="include/llvm/DebugInfo/PDB/Native/NativeTypeArray.h">
+<area shape="rect" id="node2" href="$NativeRawSymbol_8h.html" title="llvm/DebugInfo/PDB\l/Native/NativeRawSymbol.h" alt="" coords="2511,95,2699,136"/>
+<area shape="rect" id="node4" href="$PDBTypes_8h.html" title="PDBTypes.h" alt="" coords="984,273,1081,300"/>
+<area shape="rect" id="node20" href="$TypeRecord_8h.html" title="llvm/DebugInfo/CodeView\l/TypeRecord.h" alt="" coords="1923,437,2097,479"/>
+<area shape="rect" id="node3" href="$IPDBRawSymbol_8h.html" title="llvm/DebugInfo/PDB\l/IPDBRawSymbol.h" alt="" coords="2533,184,2676,225"/>
+<area shape="rect" id="node5" href="$CodeView_8h.html" title="llvm/DebugInfo/CodeView\l/CodeView.h" alt="" coords="884,527,1059,568"/>
+<area shape="rect" id="node32" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2530,713,2693,739"/>
+<area shape="rect" id="node44" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3289,623,3435,650"/>
+<area shape="rect" id="node50" href="$BitmaskEnum_8h.html" title="llvm/ADT/BitmaskEnum.h" alt="" coords="1540,713,1715,739"/>
+<area shape="rect" id="node14" href="$IPDBEnumChildren_8h.html" title="llvm/DebugInfo/PDB\l/IPDBEnumChildren.h" alt="" coords="2035,705,2185,747"/>
+<area shape="rect" id="node16" href="$IPDBFrameData_8h.html" title="llvm/DebugInfo/PDB\l/IPDBFrameData.h" alt="" coords="5,705,148,747"/>
+<area shape="rect" id="node18" href="$RawTypes_8h.html" title="llvm/DebugInfo/PDB\l/Native/RawTypes.h" alt="" coords="1232,348,1375,389"/>
+<area shape="rect" id="node7" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="1103,713,1253,739"/>
+<area shape="rect" id="node8" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2045,795,2199,821"/>
+<area shape="rect" id="node9" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2374,944,2537,971"/>
+<area shape="rect" id="node19" href="$GUID_8h.html" title="llvm/DebugInfo/CodeView\l/GUID.h" alt="" coords="1083,527,1257,568"/>
+<area shape="rect" id="node21" href="$APSInt_8h.html" title="llvm/ADT/APSInt.h" alt="" coords="1435,534,1569,561"/>
+<area shape="rect" id="node26" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2317,623,2461,650"/>
+<area shape="rect" id="node33" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="4378,795,4549,821"/>
+<area shape="rect" id="node40" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3808,795,3948,821"/>
+<area shape="rect" id="node45" href="$CVRecord_8h.html" title="llvm/DebugInfo/CodeView\l/CVRecord.h" alt="" coords="1923,527,2097,568"/>
+<area shape="rect" id="node47" href="$TypeIndex_8h.html" title="llvm/DebugInfo/CodeView\l/TypeIndex.h" alt="" coords="2880,616,3055,657"/>
+<area shape="rect" id="node48" href="$BinaryStreamArray_8h.html" title="llvm/Support/BinaryStream\lArray.h" alt="" coords="2267,527,2446,568"/>
+<area shape="rect" id="node22" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="831,713,957,739"/>
+<area shape="rect" id="node23" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1539,795,1716,821"/>
+<area shape="rect" id="node27" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="1272,795,1412,821"/>
+<area shape="rect" id="node31" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="3914,869,4037,896"/>
+<area shape="rect" id="node39" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3399,713,3554,739"/>
+<area shape="rect" id="node28" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1170,869,1359,896"/>
+<area shape="rect" id="node29" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2629,869,2799,896"/>
+<area shape="rect" id="node35" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="2527,795,2695,821"/>
+<area shape="rect" id="node46" href="$CodeViewError_8h.html" title="llvm/DebugInfo/CodeView\l/CodeViewError.h" alt="" coords="1032,616,1207,657"/>
+</map>

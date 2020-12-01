@@ -1,0 +1,8 @@
+<map id="llvm::function_ref&lt; Fn &gt;" name="llvm::function_ref&lt; Fn &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1function__ref.html" title="llvm::function_ref\l\&lt; void(llvm::Instruction\l *, llvm::Value *)\&gt;" alt="" coords="357,5,512,61"/>
+<area shape="rect" id="node3" href="$classllvm_1_1function__ref.html" title="llvm::function_ref\l\&lt; void(llvm::Instruction *)\&gt;" alt="" coords="347,86,523,127"/>
+<area shape="rect" id="node4" href="$classllvm_1_1function__ref.html" title="llvm::function_ref\l\&lt; llvm::AssumptionCache\l *(llvm::Function &amp;)\&gt;" alt="" coords="348,152,521,208"/>
+<area shape="rect" id="node5" href="$classllvm_1_1function__ref.html" title="llvm::function_ref\l\&lt; llvm::BlockFrequencyInfo\l *(llvm::Function &amp;)\&gt;" alt="" coords="343,232,526,288"/>
+<area shape="rect" id="node6" href="$classllvm_1_1function__ref.html" title="llvm::function_ref\l\&lt; llvm::TargetTransformInfo\l &amp;(llvm::Function &amp;)\&gt;" alt="" coords="343,312,527,368"/>
+<area shape="rect" id="node7" href="$classllvm_1_1function__ref.html" title="llvm::function_ref\l\&lt; void(const llvm::xray\l::XRayRecord &amp;)\&gt;" alt="" coords="357,392,512,448"/>
+</map>

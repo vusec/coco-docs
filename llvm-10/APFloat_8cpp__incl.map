@@ -1,0 +1,31 @@
+<map id="lib/Support/APFloat.cpp" name="lib/Support/APFloat.cpp">
+<area shape="rect" id="node2" href="$APFloat_8h.html" title="This file declares a class to represent arbitrary precision floating point values and provide a varie..." alt="" coords="1564,155,1703,181"/>
+<area shape="rect" id="node6" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1577,379,1754,405"/>
+<area shape="rect" id="node16" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="3077,229,3221,256"/>
+<area shape="rect" id="node17" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="1361,379,1501,405"/>
+<area shape="rect" id="node37" href="$APSInt_8h.html" title="llvm/ADT/APSInt.h" alt="" coords="318,80,453,107"/>
+<area shape="rect" id="node38" href="$FoldingSet_8h.html" title="llvm/ADT/FoldingSet.h" alt="" coords="4789,155,4944,181"/>
+<area shape="rect" id="node40" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="3297,155,3461,181"/>
+<area shape="rect" id="node42" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2285,304,2432,331"/>
+<area shape="rect" id="node44" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="529,155,677,181"/>
+<area shape="rect" id="node45" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="2460,80,2599,107"/>
+<area shape="rect" id="node49" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2437,229,2622,256"/>
+<area shape="rect" id="node3" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="853,304,979,331"/>
+<area shape="rect" id="node18" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="533,453,723,480"/>
+<area shape="rect" id="node4" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="916,528,1079,555"/>
+<area shape="rect" id="node7" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1771,453,1973,480"/>
+<area shape="rect" id="node8" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="1225,528,1399,555"/>
+<area shape="rect" id="node21" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="2995,304,3117,331"/>
+<area shape="rect" id="node22" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3317,304,3480,331"/>
+<area shape="rect" id="node30" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3648,379,3803,405"/>
+<area shape="rect" id="node19" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1576,453,1747,480"/>
+<area shape="rect" id="node23" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="4323,528,4493,555"/>
+<area shape="rect" id="node25" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2365,453,2518,480"/>
+<area shape="rect" id="node31" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="4222,453,4354,480"/>
+<area shape="rect" id="node39" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="3741,229,3902,256"/>
+<area shape="rect" id="node41" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="3301,229,3459,256"/>
+<area shape="rect" id="node43" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="2183,229,2310,256"/>
+<area shape="rect" id="node46" href="$c_2Error_8h.html" title="llvm&#45;c/Error.h" alt="" coords="2951,155,3051,181"/>
+<area shape="rect" id="node47" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer. " alt="" coords="2336,379,2488,405"/>
+<area shape="rect" id="node48" href="$Format_8h.html" title="llvm/Support/Format.h" alt="" coords="1829,155,1979,181"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="lib/Object/COFFModuleDefinition.cpp" name="lib/Object/COFFModuleDefinition.cpp">
+<area shape="rect" id="node2" href="$COFFModuleDefinition_8h.html" title="llvm/Object/COFFModuleDefinition.h" alt="" coords="1830,80,2066,107"/>
+<area shape="rect" id="node3" href="$Object_2COFF_8h.html" title="llvm/Object/COFF.h" alt="" coords="1327,229,1465,256"/>
+<area shape="rect" id="node10" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3291,827,3437,853"/>
+<area shape="rect" id="node26" href="$Object_2Error_8h.html" title="llvm/Object/Error.h" alt="" coords="1271,528,1401,555"/>
+<area shape="rect" id="node31" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="2463,603,2601,629"/>
+<area shape="rect" id="node39" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="1691,752,1877,779"/>
+<area shape="rect" id="node47" href="$COFFImportFile_8h.html" title="llvm/Object/COFFImportFile.h" alt="" coords="2363,155,2560,181"/>
+<area shape="rect" id="node49" href="$StringSwitch_8h.html" title="llvm/ADT/StringSwitch.h" alt="" coords="2105,752,2271,779"/>
+<area shape="rect" id="node50" href="$Path_8h.html" title="llvm/Support/Path.h" alt="" coords="721,677,858,704"/>
+<area shape="rect" id="node4" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="4333,976,4504,1003"/>
+<area shape="rect" id="node6" href="$BinaryFormat_2COFF_8h.html" title="llvm/BinaryFormat/COFF.h" alt="" coords="1739,827,1917,853"/>
+<area shape="rect" id="node9" href="$SubtargetFeature_8h.html" title="llvm/MC/SubtargetFeature.h" alt="" coords="923,752,1109,779"/>
+<area shape="rect" id="node13" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1171,976,1360,1003"/>
+<area shape="rect" id="node25" href="$Binary_8h.html" title="llvm/Object/Binary.h" alt="" coords="4483,453,4623,480"/>
+<area shape="rect" id="node41" href="$CVDebugRecord_8h.html" title="llvm/Object/CVDebugRecord.h" alt="" coords="1044,379,1247,405"/>
+<area shape="rect" id="node42" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="1411,827,1562,853"/>
+<area shape="rect" id="node43" href="$ObjectFile_8h.html" title="llvm/Object/ObjectFile.h" alt="" coords="2380,304,2543,331"/>
+<area shape="rect" id="node45" href="$BinaryByteStream_8h.html" title="llvm/Support/BinaryByteStream.h" alt="" coords="2752,528,2968,555"/>
+<area shape="rect" id="node46" href="$ConvertUTF_8h.html" title="llvm/Support/ConvertUTF.h" alt="" coords="310,752,493,779"/>
+<area shape="rect" id="node11" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3696,901,3851,928"/>
+<area shape="rect" id="node14" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1561,1051,1724,1077"/>
+<area shape="rect" id="node40" href="$MemoryBuffer_8h.html" title="llvm/Support/MemoryBuffer.h" alt="" coords="2928,677,3120,704"/>
+<area shape="rect" id="node27" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="1489,752,1615,779"/>
+<area shape="rect" id="node28" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2701,827,2864,853"/>
+<area shape="rect" id="node29" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1926,901,2079,928"/>
+<area shape="rect" id="node32" href="$c_2Error_8h.html" title="llvm&#45;c/Error.h" alt="" coords="2651,677,2751,704"/>
+<area shape="rect" id="node33" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="2239,677,2403,704"/>
+<area shape="rect" id="node35" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="2427,677,2575,704"/>
+<area shape="rect" id="node36" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer. " alt="" coords="2600,752,2752,779"/>
+<area shape="rect" id="node38" href="$Format_8h.html" title="llvm/Support/Format.h" alt="" coords="3546,677,3697,704"/>
+<area shape="rect" id="node34" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="3035,752,3179,779"/>
+<area shape="rect" id="node44" href="$SymbolicFile_8h.html" title="llvm/Object/SymbolicFile.h" alt="" coords="2892,379,3071,405"/>
+<area shape="rect" id="node48" href="$IRObjectFile_8h.html" title="llvm/Object/IRObjectFile.h" alt="" coords="2853,304,3029,331"/>
+</map>

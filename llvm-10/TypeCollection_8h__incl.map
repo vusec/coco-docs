@@ -1,0 +1,29 @@
+<map id="include/llvm/DebugInfo/CodeView/TypeCollection.h" name="include/llvm/DebugInfo/CodeView/TypeCollection.h">
+<area shape="rect" id="node2" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3540,459,3687,486"/>
+<area shape="rect" id="node30" href="$TypeIndex_8h.html" title="llvm/DebugInfo/CodeView\l/TypeIndex.h" alt="" coords="3415,273,3590,315"/>
+<area shape="rect" id="node44" href="$TypeRecord_8h.html" title="llvm/DebugInfo/CodeView\l/TypeRecord.h" alt="" coords="2523,95,2698,136"/>
+<area shape="rect" id="node3" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1744,549,1899,575"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1023,780,1185,807"/>
+<area shape="rect" id="node16" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1096,705,1267,732"/>
+<area shape="rect" id="node4" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="157,631,297,657"/>
+<area shape="rect" id="node15" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1289,631,1421,657"/>
+<area shape="rect" id="node21" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2075,631,2264,657"/>
+<area shape="rect" id="node5" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="309,705,432,732"/>
+<area shape="rect" id="node9" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="901,705,1072,732"/>
+<area shape="rect" id="node31" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="3677,370,3854,397"/>
+<area shape="rect" id="node41" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="3222,549,3373,575"/>
+<area shape="rect" id="node32" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1125,459,1269,486"/>
+<area shape="rect" id="node33" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="2694,549,2834,575"/>
+<area shape="rect" id="node39" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="4321,452,4485,493"/>
+<area shape="rect" id="node40" href="$TypeSize_8h.html" title="llvm/Support/TypeSize.h" alt="" coords="3812,549,3977,575"/>
+<area shape="rect" id="node35" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="633,549,796,575"/>
+<area shape="rect" id="node34" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="2805,631,3008,657"/>
+<area shape="rect" id="node36" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1497,631,1650,657"/>
+<area shape="rect" id="node42" href="$Host_8h.html" title="llvm/Support/Host.h" alt="" coords="3803,631,3941,657"/>
+<area shape="rect" id="node45" href="$APSInt_8h.html" title="llvm/ADT/APSInt.h" alt="" coords="3455,191,3590,218"/>
+<area shape="rect" id="node47" href="$CVRecord_8h.html" title="llvm/DebugInfo/CodeView\l/CVRecord.h" alt="" coords="2393,184,2567,225"/>
+<area shape="rect" id="node48" href="$CodeView_8h.html" title="llvm/DebugInfo/CodeView\l/CodeView.h" alt="" coords="3217,273,3391,315"/>
+<area shape="rect" id="node49" href="$GUID_8h.html" title="llvm/DebugInfo/CodeView\l/GUID.h" alt="" coords="2858,541,3033,583"/>
+<area shape="rect" id="node50" href="$BinaryStreamArray_8h.html" title="llvm/Support/BinaryStream\lArray.h" alt="" coords="2339,363,2517,404"/>
+<area shape="rect" id="node46" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="4320,549,4445,575"/>
+</map>

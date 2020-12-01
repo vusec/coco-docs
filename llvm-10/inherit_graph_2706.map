@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structllvm_1_1irsymtab_1_1Symbol.html" title="This represents a symbol that has been read from a storage::Symbol and possibly a storage::Uncommon..." alt="" coords="5,46,161,73"/>
+<area shape="rect" id="node2" href="$classllvm_1_1irsymtab_1_1Reader_1_1SymbolRef.html" title="Ephemeral symbols produced by Reader::symbols() and Reader::module_symbols(). " alt="" coords="209,5,364,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1lto_1_1InputFile_1_1Symbol.html" title="The purpose of this class is to only expose the symbol information that an LTO client should need in ..." alt="" coords="223,71,350,112"/>
+</map>

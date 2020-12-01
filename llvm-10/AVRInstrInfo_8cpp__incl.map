@@ -1,0 +1,34 @@
+<map id="lib/Target/AVR/AVRInstrInfo.cpp" name="lib/Target/AVR/AVRInstrInfo.cpp">
+<area shape="rect" id="node2" href="$AVRInstrInfo_8h.html" title="AVRInstrInfo.h" alt="" coords="2996,162,3105,189"/>
+<area shape="rect" id="node9" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="3280,676,3469,703"/>
+<area shape="rect" id="node17" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1595,601,1749,628"/>
+<area shape="rect" id="node28" href="$MachineMemOperand_8h.html" title="llvm/CodeGen/MachineMemOperand.h" alt="" coords="4367,676,4614,703"/>
+<area shape="rect" id="node31" href="$MachineInstrBuilder_8h.html" title="llvm/CodeGen/MachineInstr\lBuilder.h" alt="" coords="1165,333,1349,375"/>
+<area shape="rect" id="node34" href="$AVRRegisterInfo_8h.html" title="AVRRegisterInfo.h" alt="" coords="2039,251,2171,278"/>
+<area shape="rect" id="node36" href="$MachineConstantPool_8h.html" title="This file declares the MachineConstantPool class which is an abstract constant pool to keep track of ..." alt="" coords="1709,512,1920,553"/>
+<area shape="rect" id="node40" href="$MachineFrameInfo_8h.html" title="llvm/CodeGen/MachineFrame\lInfo.h" alt="" coords="3761,512,3956,553"/>
+<area shape="rect" id="node42" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="3448,430,3587,457"/>
+<area shape="rect" id="node43" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="2643,601,2773,628"/>
+<area shape="rect" id="node44" href="$MCContext_8h.html" title="llvm/MC/MCContext.h" alt="" coords="2097,519,2250,546"/>
+<area shape="rect" id="node45" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="3625,80,3773,107"/>
+<area shape="rect" id="node46" href="$TargetRegistry_8h.html" title="llvm/Support/TargetRegistry.h" alt="" coords="3843,601,4039,628"/>
+<area shape="rect" id="node47" href="$AVR_8h.html" title="AVR.h" alt="" coords="3848,80,3909,107"/>
+<area shape="rect" id="node48" href="$AVRMachineFunctionInfo_8h.html" title="AVRMachineFunctionInfo.h" alt="" coords="2842,341,3025,367"/>
+<area shape="rect" id="node49" href="$AVRTargetMachine_8h.html" title="AVRTargetMachine.h" alt="" coords="2977,80,3124,107"/>
+<area shape="rect" id="node50" href="$AVRMCTargetDesc_8h.html" title="MCTargetDesc/AVRMCTarget\lDesc.h" alt="" coords="4525,155,4726,196"/>
+<area shape="rect" id="node3" href="$TargetInstrInfo_8h.html" title="llvm/CodeGen/TargetInstr\lInfo.h" alt="" coords="2195,244,2367,285"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2275,519,2419,546"/>
+<area shape="rect" id="node26" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="806,512,997,553"/>
+<area shape="rect" id="node27" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="593,601,788,628"/>
+<area shape="rect" id="node30" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="2269,430,2488,457"/>
+<area shape="rect" id="node5" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2307,601,2469,628"/>
+<area shape="rect" id="node6" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1179,751,1349,777"/>
+<area shape="rect" id="node18" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3595,676,3735,703"/>
+<area shape="rect" id="node19" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="993,676,1125,703"/>
+<area shape="rect" id="node29" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="4403,751,4578,777"/>
+<area shape="rect" id="node32" href="$CodeGen_2GlobalISel_2Utils_8h.html" title="llvm/CodeGen/GlobalISel\l/Utils.h" alt="" coords="322,423,491,464"/>
+<area shape="rect" id="node33" href="$MachineInstrBundle_8h.html" title="llvm/CodeGen/MachineInstr\lBundle.h" alt="" coords="851,423,1035,464"/>
+<area shape="rect" id="node37" href="$DenseSet_8h.html" title="llvm/ADT/DenseSet.h" alt="" coords="1878,676,2029,703"/>
+<area shape="rect" id="node38" href="$SectionKind_8h.html" title="llvm/MC/SectionKind.h" alt="" coords="1099,601,1255,628"/>
+<area shape="rect" id="node41" href="$Alignment_8h.html" title="llvm/Support/Alignment.h" alt="" coords="3651,601,3819,628"/>
+</map>

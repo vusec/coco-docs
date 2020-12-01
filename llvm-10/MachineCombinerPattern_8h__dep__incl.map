@@ -1,0 +1,51 @@
+<map id="include/llvm/CodeGen/MachineCombinerPattern.h" name="include/llvm/CodeGen/MachineCombinerPattern.h">
+<area shape="rect" id="node2" href="$TargetInstrInfo_8h.html" title="include/llvm/CodeGen\l/TargetInstrInfo.h" alt="" coords="5048,95,5199,136"/>
+<area shape="rect" id="node50" href="$AArch64InstrInfo_8h.html" title="lib/Target/AArch64\l/AArch64InstrInfo.h" alt="" coords="10120,191,10255,233"/>
+<area shape="rect" id="node3" href="$InstructionSelectorImpl_8h.html" title="include/llvm/CodeGen\l/GlobalISel/InstructionSelector\lImpl.h" alt="" coords="5,184,204,240"/>
+<area shape="rect" id="node4" href="$MachinePipeliner_8h.html" title="include/llvm/CodeGen\l/MachinePipeliner.h" alt="" coords="228,191,379,233"/>
+<area shape="rect" id="node5" href="$ModuloSchedule_8h.html" title="include/llvm/CodeGen\l/ModuloSchedule.h" alt="" coords="403,191,553,233"/>
+<area shape="rect" id="node6" href="$ResourcePriorityQueue_8h.html" title="include/llvm/CodeGen\l/ResourcePriorityQueue.h" alt="" coords="577,191,749,233"/>
+<area shape="rect" id="node7" href="$TailDuplicator_8h.html" title="include/llvm/CodeGen\l/TailDuplicator.h" alt="" coords="773,191,924,233"/>
+<area shape="rect" id="node8" href="$MachineBlockPlacement_8cpp.html" title="lib/CodeGen/MachineBlock\lPlacement.cpp" alt="" coords="815,288,995,329"/>
+<area shape="rect" id="node9" href="$AggressiveAntiDepBreaker_8cpp.html" title="lib/CodeGen/AggressiveAnti\lDepBreaker.cpp" alt="" coords="999,191,1186,233"/>
+<area shape="rect" id="node10" href="$CodeGen_2Analysis_8cpp.html" title="lib/CodeGen/Analysis.cpp" alt="" coords="1210,199,1383,225"/>
+<area shape="rect" id="node11" href="$AsmPrinter_8cpp.html" title="lib/CodeGen/AsmPrinter\l/AsmPrinter.cpp" alt="" coords="1407,191,1570,233"/>
+<area shape="rect" id="node12" href="$AsmPrinterInlineAsm_8cpp.html" title="lib/CodeGen/AsmPrinter\l/AsmPrinterInlineAsm.cpp" alt="" coords="1595,191,1769,233"/>
+<area shape="rect" id="node13" href="$DwarfDebug_8cpp.html" title="lib/CodeGen/AsmPrinter\l/DwarfDebug.cpp" alt="" coords="1794,191,1957,233"/>
+<area shape="rect" id="node14" href="$BranchFolding_8cpp.html" title="lib/CodeGen/BranchFolding.cpp" alt="" coords="1981,199,2188,225"/>
+<area shape="rect" id="node15" href="$BranchRelaxation_8cpp.html" title="lib/CodeGen/BranchRelaxation.cpp" alt="" coords="2213,199,2439,225"/>
+<area shape="rect" id="node16" href="$BreakFalseDeps_8cpp.html" title="lib/CodeGen/BreakFalseDeps.cpp" alt="" coords="2464,199,2684,225"/>
+<area shape="rect" id="node17" href="$CalcSpillWeights_8cpp.html" title="lib/CodeGen/CalcSpillWeights.cpp" alt="" coords="2708,199,2931,225"/>
+<area shape="rect" id="node18" href="$CFIInstrInserter_8cpp.html" title="lib/CodeGen/CFIInstrInserter.cpp" alt="" coords="2955,199,3169,225"/>
+<area shape="rect" id="node19" href="$CriticalAntiDepBreaker_8cpp.html" title="lib/CodeGen/CriticalAnti\lDepBreaker.cpp" alt="" coords="3194,191,3357,233"/>
+<area shape="rect" id="node20" href="$DFAPacketizer_8cpp.html" title="lib/CodeGen/DFAPacketizer.cpp" alt="" coords="3381,199,3593,225"/>
+<area shape="rect" id="node21" href="$EarlyIfConversion_8cpp.html" title="lib/CodeGen/EarlyIfConversion.cpp" alt="" coords="3618,199,3845,225"/>
+<area shape="rect" id="node22" href="$ExecutionDomainFix_8cpp.html" title="lib/CodeGen/ExecutionDomain\lFix.cpp" alt="" coords="3869,191,4071,233"/>
+<area shape="rect" id="node23" href="$ExpandPostRAPseudos_8cpp.html" title="lib/CodeGen/ExpandPostRAPseudos.cpp" alt="" coords="4095,199,4359,225"/>
+<area shape="rect" id="node24" href="$FEntryInserter_8cpp.html" title="lib/CodeGen/FEntryInserter.cpp" alt="" coords="4384,199,4591,225"/>
+<area shape="rect" id="node25" href="$GCRootLowering_8cpp.html" title="lib/CodeGen/GCRootLowering.cpp" alt="" coords="4615,199,4837,225"/>
+<area shape="rect" id="node26" href="$CombinerHelper_8cpp.html" title="lib/CodeGen/GlobalISel\l/CombinerHelper.cpp" alt="" coords="4861,191,5020,233"/>
+<area shape="rect" id="node27" href="$InstructionSelect_8cpp.html" title="This file implements the InstructionSelect class. " alt="" coords="5044,191,5203,233"/>
+<area shape="rect" id="node28" href="$IRTranslator_8cpp.html" title="This file implements the IRTranslator class. " alt="" coords="5227,191,5385,233"/>
+<area shape="rect" id="node29" href="$LegalizerHelper_8cpp.html" title="lib/CodeGen/GlobalISel\l/LegalizerHelper.cpp" alt="" coords="5409,191,5568,233"/>
+<area shape="rect" id="node30" href="$MachineIRBuilder_8cpp.html" title="This file implements the MachineIRBuidler class. " alt="" coords="5592,191,5751,233"/>
+<area shape="rect" id="node31" href="$CodeGen_2GlobalISel_2Utils_8cpp.html" title="lib/CodeGen/GlobalISel\l/Utils.cpp" alt="" coords="5775,191,5933,233"/>
+<area shape="rect" id="node32" href="$IfConversion_8cpp.html" title="lib/CodeGen/IfConversion.cpp" alt="" coords="5958,199,6155,225"/>
+<area shape="rect" id="node33" href="$ImplicitNullChecks_8cpp.html" title="lib/CodeGen/ImplicitNull\lChecks.cpp" alt="" coords="6179,191,6342,233"/>
+<area shape="rect" id="node34" href="$InlineSpiller_8cpp.html" title="lib/CodeGen/InlineSpiller.cpp" alt="" coords="6367,199,6557,225"/>
+<area shape="rect" id="node35" href="$LiveDebugValues_8cpp.html" title="lib/CodeGen/LiveDebugValues.cpp" alt="" coords="6581,199,6807,225"/>
+<area shape="rect" id="node36" href="$LiveDebugVariables_8cpp.html" title="lib/CodeGen/LiveDebugVariables.cpp" alt="" coords="6831,199,7069,225"/>
+<area shape="rect" id="node37" href="$LiveRangeEdit_8cpp.html" title="lib/CodeGen/LiveRangeEdit.cpp" alt="" coords="7094,199,7302,225"/>
+<area shape="rect" id="node38" href="$MachineBasicBlock_8cpp.html" title="lib/CodeGen/MachineBasic\lBlock.cpp" alt="" coords="7327,191,7507,233"/>
+<area shape="rect" id="node39" href="$MachineCombiner_8cpp.html" title="lib/CodeGen/MachineCombiner.cpp" alt="" coords="7531,199,7759,225"/>
+<area shape="rect" id="node40" href="$MachineCopyPropagation_8cpp.html" title="lib/CodeGen/MachineCopyPropagation.cpp" alt="" coords="7783,199,8055,225"/>
+<area shape="rect" id="node41" href="$MachineCSE_8cpp.html" title="lib/CodeGen/MachineCSE.cpp" alt="" coords="8079,199,8279,225"/>
+<area shape="rect" id="node42" href="$MachineFrameInfo_8cpp.html" title="lib/CodeGen/MachineFrame\lInfo.cpp" alt="" coords="8303,191,8487,233"/>
+<area shape="rect" id="node43" href="$MachineInstr_8cpp.html" title="lib/CodeGen/MachineInstr.cpp" alt="" coords="8512,199,8711,225"/>
+<area shape="rect" id="node44" href="$MachineInstrBundle_8cpp.html" title="lib/CodeGen/MachineInstr\lBundle.cpp" alt="" coords="8735,191,8909,233"/>
+<area shape="rect" id="node45" href="$MachineLICM_8cpp.html" title="lib/CodeGen/MachineLICM.cpp" alt="" coords="8933,199,9137,225"/>
+<area shape="rect" id="node46" href="$MachineLoopUtils_8cpp.html" title="lib/CodeGen/MachineLoopUtils.cpp" alt="" coords="9162,199,9389,225"/>
+<area shape="rect" id="node47" href="$MachineOperand_8cpp.html" title="lib/CodeGen/MachineOperand.cpp" alt="" coords="9413,199,9634,225"/>
+<area shape="rect" id="node48" href="$MachineOutliner_8cpp.html" title="Replaces repeated sequences of instructions with function calls. " alt="" coords="9659,199,9876,225"/>
+<area shape="rect" id="node49" href="$MachineRegisterInfo_8cpp.html" title="lib/CodeGen/MachineRegister\lInfo.cpp" alt="" coords="9900,191,10096,233"/>
+</map>

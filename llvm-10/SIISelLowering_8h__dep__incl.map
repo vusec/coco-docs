@@ -1,0 +1,51 @@
+<map id="lib/Target/AMDGPU/SIISelLowering.h" name="lib/Target/AMDGPU/SIISelLowering.h">
+<area shape="rect" id="node2" href="$AMDGPUSubtarget_8h.html" title="AMDGPU specific subclass of TargetSubtarget. " alt="" coords="5224,95,5493,121"/>
+<area shape="rect" id="node7" href="$AMDGPUISelDAGToDAG_8cpp.html" title="Defines an instruction selector for the AMDGPU target. " alt="" coords="143,259,368,300"/>
+<area shape="rect" id="node14" href="$SIISelLowering_8cpp.html" title="Custom DAG lowering for SI. " alt="" coords="393,259,572,300"/>
+<area shape="rect" id="node17" href="$AMDGPUCallLowering_8cpp.html" title="This file implements the lowering of LLVM calls to machine code calls for GlobalISel. " alt="" coords="82,169,307,211"/>
+<area shape="rect" id="node3" href="$AMDGPUTargetMachine_8h.html" title="The AMDGPU TargetMachine interface definition for hw codgen targets. " alt="" coords="3592,169,3831,211"/>
+<area shape="rect" id="node4" href="$AMDGPUAsmPrinter_8cpp.html" title="The AMDGPUAsmPrinter is used to print both assembly string and also binary code. " alt="" coords="3633,259,3862,300"/>
+<area shape="rect" id="node5" href="$AMDGPUCodeGenPrepare_8cpp.html" title="This pass does misc. " alt="" coords="4116,259,4350,300"/>
+<area shape="rect" id="node6" href="$AMDGPUInstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for AMDGPU. " alt="" coords="6488,259,6751,300"/>
+<area shape="rect" id="node8" href="$AMDGPUISelLowering_8cpp.html" title="This is the parent TargetLowering class for hardware code gen targets. " alt="" coords="7832,259,8058,300"/>
+<area shape="rect" id="node9" href="$AMDGPULowerKernelArguments_8cpp.html" title="lib/Target/AMDGPU/AMDGPULower\lKernelArguments.cpp" alt="" coords="8609,259,8846,300"/>
+<area shape="rect" id="node10" href="$AMDGPUMCInstLower_8cpp.html" title="Code to lower AMDGPU MachineInstrs to their corresponding MCInst. " alt="" coords="1801,259,2046,300"/>
+<area shape="rect" id="node11" href="$AMDGPUSubtarget_8cpp.html" title="Implements the AMDGPU specific subclass of TargetSubtarget. " alt="" coords="3326,266,3609,293"/>
+<area shape="rect" id="node12" href="$AMDGPUTargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the AMDGPU target machine..." alt="" coords="9135,259,9374,300"/>
+<area shape="rect" id="node13" href="$AMDGPUTargetTransformInfo_8cpp.html" title="lib/Target/AMDGPU/AMDGPUTarget\lTransformInfo.cpp" alt="" coords="9214,348,9452,389"/>
+<area shape="rect" id="node15" href="$AMDGPUAnnotateKernelFeatures_8cpp.html" title="lib/Target/AMDGPU/AMDGPUAnnotate\lKernelFeatures.cpp" alt="" coords="483,169,738,211"/>
+<area shape="rect" id="node16" href="$AMDGPUAtomicOptimizer_8cpp.html" title="This pass optimizes atomic operations by using a single lane of a wavefront to perform the atomic ope..." alt="" coords="762,169,1005,211"/>
+<area shape="rect" id="node18" href="$AMDGPUHSAMetadataStreamer_8cpp.html" title="AMDGPU HSA Metadata Streamer. " alt="" coords="1030,169,1314,211"/>
+<area shape="rect" id="node19" href="$AMDGPULibCalls_8cpp.html" title="This file does AMD library function optimizations. " alt="" coords="1338,169,1557,211"/>
+<area shape="rect" id="node20" href="$AMDGPULowerIntrinsics_8cpp.html" title="lib/Target/AMDGPU/AMDGPULower\lIntrinsics.cpp" alt="" coords="1581,169,1818,211"/>
+<area shape="rect" id="node21" href="$AMDGPUMachineCFGStructurizer_8cpp.html" title="lib/Target/AMDGPU/AMDGPUMachine\lCFGStructurizer.cpp" alt="" coords="1842,169,2093,211"/>
+<area shape="rect" id="node22" href="$AMDGPUMachineFunction_8cpp.html" title="lib/Target/AMDGPU/AMDGPUMachine\lFunction.cpp" alt="" coords="2117,169,2368,211"/>
+<area shape="rect" id="node23" href="$AMDGPUMacroFusion_8cpp.html" title="lib/Target/AMDGPU/AMDGPUMacro\lFusion.cpp" alt="" coords="2392,169,2631,211"/>
+<area shape="rect" id="node24" href="$AMDGPUPromoteAlloca_8cpp.html" title="lib/Target/AMDGPU/AMDGPUPromote\lAlloca.cpp" alt="" coords="2656,169,2906,211"/>
+<area shape="rect" id="node25" href="$AMDGPUPropagateAttributes_8cpp.html" title="This pass propagates attributes from kernels to the non&#45;entry functions. " alt="" coords="2930,169,3192,211"/>
+<area shape="rect" id="node26" href="$AMDGPURegisterBankInfo_8cpp.html" title="This file implements the targeting of the RegisterBankInfo class for AMDGPU. " alt="" coords="3216,169,3466,211"/>
+<area shape="rect" id="node27" href="$GCNRegPressure_8h.html" title="lib/Target/AMDGPU/GCNReg\lPressure.h" alt="" coords="9500,169,9697,211"/>
+<area shape="rect" id="node28" href="$GCNIterativeScheduler_8cpp.html" title="lib/Target/AMDGPU/GCNIterative\lScheduler.cpp" alt="" coords="9450,259,9670,300"/>
+<area shape="rect" id="node29" href="$GCNRegPressure_8cpp.html" title="lib/Target/AMDGPU/GCNReg\lPressure.cpp" alt="" coords="9694,259,9892,300"/>
+<area shape="rect" id="node30" href="$AMDILCFGStructurizer_8cpp.html" title="lib/Target/AMDGPU/AMDILCFGStructurizer.cpp" alt="" coords="3856,177,4160,203"/>
+<area shape="rect" id="node31" href="$GCNDPPCombine_8cpp.html" title="lib/Target/AMDGPU/GCNDPPCombine.cpp" alt="" coords="4184,177,4463,203"/>
+<area shape="rect" id="node32" href="$GCNHazardRecognizer_8cpp.html" title="lib/Target/AMDGPU/GCNHazard\lRecognizer.cpp" alt="" coords="4487,169,4702,211"/>
+<area shape="rect" id="node33" href="$GCNNSAReassign_8cpp.html" title="Try to reassign registers on GFX10+ from non&#45;sequential to sequential in NSA image instructions..." alt="" coords="4726,177,5007,203"/>
+<area shape="rect" id="node34" href="$GCNRegBankReassign_8cpp.html" title="Try to reassign registers on GFX10+ to reduce register bank conflicts. " alt="" coords="5032,169,5229,211"/>
+<area shape="rect" id="node35" href="$GCNSchedStrategy_8cpp.html" title="This contains a MachineSchedStrategy implementation for maximizing wave occupancy on GCN hardware..." alt="" coords="5253,169,5464,211"/>
+<area shape="rect" id="node36" href="$R600AsmPrinter_8cpp.html" title="The R600AsmPrinter is used to print both assembly string and also binary code. " alt="" coords="5488,169,5690,211"/>
+<area shape="rect" id="node37" href="$R600ClauseMergePass_8cpp.html" title="R600EmitClauseMarker pass emits CFAlu instruction in a conservative maneer. " alt="" coords="5714,169,5928,211"/>
+<area shape="rect" id="node38" href="$R600ControlFlowFinalizer_8cpp.html" title="This pass compute turns all control flow pseudo instructions into native one computing their address ..." alt="" coords="5953,169,6169,211"/>
+<area shape="rect" id="node39" href="$R600EmitClauseMarkers_8cpp.html" title="Add CF_ALU. " alt="" coords="6194,169,6395,211"/>
+<area shape="rect" id="node40" href="$R600ExpandSpecialInstrs_8cpp.html" title="Vector, Reduction, and Cube instructions need to fill the entire instruction group to work correctly..." alt="" coords="6420,169,6638,211"/>
+<area shape="rect" id="node41" href="$R600FrameLowering_8cpp.html" title="lib/Target/AMDGPU/R600Frame\lLowering.cpp" alt="" coords="6662,169,6873,211"/>
+<area shape="rect" id="node42" href="$R600InstrInfo_8cpp.html" title="R600 Implementation of TargetInstrInfo. " alt="" coords="6897,169,7097,211"/>
+<area shape="rect" id="node43" href="$R600ISelLowering_8cpp.html" title="Custom DAG lowering for R600. " alt="" coords="7121,169,7318,211"/>
+<area shape="rect" id="node44" href="$R600MachineScheduler_8cpp.html" title="R600 Machine Scheduler interface. " alt="" coords="7343,169,7566,211"/>
+<area shape="rect" id="node45" href="$R600OptimizeVectorRegisters_8cpp.html" title="This pass merges inputs of swizzeable instructions into vector sharing common data and/or have enough..." alt="" coords="7590,169,7817,211"/>
+<area shape="rect" id="node46" href="$R600Packetizer_8cpp.html" title="This pass implements instructions packetization for R600. " alt="" coords="7841,177,8102,203"/>
+<area shape="rect" id="node47" href="$SIAddIMGInit_8cpp.html" title="Any MIMG instructions that use tfe or lwe require an initialization of the result register that will ..." alt="" coords="8126,177,8372,203"/>
+<area shape="rect" id="node48" href="$SIAnnotateControlFlow_8cpp.html" title="Annotates the control flow with hardware specific intrinsics. " alt="" coords="8397,169,8605,211"/>
+<area shape="rect" id="node49" href="$SIFixSGPRCopies_8cpp.html" title="Copies from VGPR to SGPR registers are illegal and the register coalescer will sometimes generate the..." alt="" coords="8630,177,8908,203"/>
+<area shape="rect" id="node50" href="$SIFixupVectorISel_8cpp.html" title="SIFixupVectorISel pass cleans up post ISEL Vector issues. " alt="" coords="8932,169,9120,211"/>
+</map>

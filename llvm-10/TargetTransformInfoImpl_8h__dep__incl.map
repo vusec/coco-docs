@@ -1,0 +1,47 @@
+<map id="include/llvm/Analysis/TargetTransformInfoImpl.h" name="include/llvm/Analysis/TargetTransformInfoImpl.h">
+<area shape="rect" id="node2" href="$BasicTTIImpl_8h.html" title="This file provides a helper that implements much of the TTI interface in terms of the target&#45;independ..." alt="" coords="2867,95,3018,136"/>
+<area shape="rect" id="node46" href="$TargetTransformInfo_8cpp.html" title="lib/Analysis/TargetTransform\lInfo.cpp" alt="" coords="3043,95,3232,136"/>
+<area shape="rect" id="node3" href="$BasicTargetTransformInfo_8cpp.html" title="This file provides the implementation of a basic TargetTransformInfo pass predicated on the target ab..." alt="" coords="153,184,380,225"/>
+<area shape="rect" id="node4" href="$LLVMTargetMachine_8cpp.html" title="lib/CodeGen/LLVMTargetMachine.cpp" alt="" coords="404,191,647,218"/>
+<area shape="rect" id="node5" href="$AArch64TargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the AArch64 target machine..." alt="" coords="671,184,876,225"/>
+<area shape="rect" id="node7" href="$AArch64TargetTransformInfo_8cpp.html" title="lib/Target/AArch64\l/AArch64TargetTransformInfo.cpp" alt="" coords="216,273,435,315"/>
+<area shape="rect" id="node8" href="$AMDGPUTargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the AMDGPU target machine..." alt="" coords="951,184,1190,225"/>
+<area shape="rect" id="node12" href="$ARCTargetTransformInfo_8h.html" title="lib/Target/ARC/ARCTarget\lTransformInfo.h" alt="" coords="1300,184,1479,225"/>
+<area shape="rect" id="node14" href="$ARMTargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the ARM target machine..." alt="" coords="1588,184,1769,225"/>
+<area shape="rect" id="node17" href="$HexagonTargetTransformInfo_8h.html" title="This file implements a TargetTransformInfo analysis pass specific to the Hexagon target machine..." alt="" coords="2014,184,2221,225"/>
+<area shape="rect" id="node20" href="$LanaiTargetTransformInfo_8h.html" title="lib/Target/Lanai/LanaiTarget\lTransformInfo.h" alt="" coords="2269,184,2451,225"/>
+<area shape="rect" id="node22" href="$MipsTargetMachine_8cpp.html" title="lib/Target/Mips/MipsTarget\lMachine.cpp" alt="" coords="2493,184,2670,225"/>
+<area shape="rect" id="node23" href="$NVPTXTargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the NVPTX target machine..." alt="" coords="2695,184,2905,225"/>
+<area shape="rect" id="node25" href="$NVPTXTargetTransformInfo_8cpp.html" title="lib/Target/NVPTX/NVPTXTarget\lTransformInfo.cpp" alt="" coords="2695,273,2905,315"/>
+<area shape="rect" id="node26" href="$PPCTargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the PPC target machine..." alt="" coords="3034,184,3217,225"/>
+<area shape="rect" id="node29" href="$PPCTargetTransformInfo_8cpp.html" title="lib/Target/PowerPC\l/PPCTargetTransformInfo.cpp" alt="" coords="3285,273,3483,315"/>
+<area shape="rect" id="node30" href="$RISCVTargetTransformInfo_8h.html" title="This file defines a TargetTransformInfo::Concept conforming object specific to the RISC&#45;V target mach..." alt="" coords="3507,184,3712,225"/>
+<area shape="rect" id="node32" href="$RISCVTargetTransformInfo_8cpp.html" title="lib/Target/RISCV/RISCVTarget\lTransformInfo.cpp" alt="" coords="3736,273,3941,315"/>
+<area shape="rect" id="node33" href="$SystemZTargetTransformInfo_8h.html" title="lib/Target/SystemZ\l/SystemZTargetTransformInfo.h" alt="" coords="3957,184,4165,225"/>
+<area shape="rect" id="node35" href="$SystemZTargetTransformInfo_8cpp.html" title="lib/Target/SystemZ\l/SystemZTargetTransformInfo.cpp" alt="" coords="4181,273,4403,315"/>
+<area shape="rect" id="node36" href="$VETargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the VE target machine..." alt="" coords="4360,184,4576,225"/>
+<area shape="rect" id="node38" href="$WebAssemblyTargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the WebAssembly target machine..." alt="" coords="4673,184,4913,225"/>
+<area shape="rect" id="node41" href="$X86TargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the X86 target machine..." alt="" coords="5207,184,5374,225"/>
+<area shape="rect" id="node43" href="$X86TargetTransformInfo_8cpp.html" title="This file implements a TargetTransformInfo analysis pass specific to the X86 target machine..." alt="" coords="5398,273,5565,315"/>
+<area shape="rect" id="node44" href="$XCoreTargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the XCore target machine..." alt="" coords="5536,184,5731,225"/>
+<area shape="rect" id="node6" href="$AArch64TargetMachine_8cpp.html" title="lib/Target/AArch64\l/AArch64TargetMachine.cpp" alt="" coords="5,273,192,315"/>
+<area shape="rect" id="node9" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="459,273,698,315"/>
+<area shape="rect" id="node10" href="$AMDGPUTargetTransformInfo_8cpp.html" title="lib/Target/AMDGPU/AMDGPUTarget\lTransformInfo.cpp" alt="" coords="722,273,961,315"/>
+<area shape="rect" id="node11" href="$AMDGPUBaseInfo_8cpp.html" title="lib/Target/AMDGPU/Utils\l/AMDGPUBaseInfo.cpp" alt="" coords="985,273,1156,315"/>
+<area shape="rect" id="node13" href="$ARCTargetMachine_8cpp.html" title="lib/Target/ARC/ARCTarget\lMachine.cpp" alt="" coords="1180,273,1359,315"/>
+<area shape="rect" id="node15" href="$ARMTargetMachine_8cpp.html" title="lib/Target/ARM/ARMTarget\lMachine.cpp" alt="" coords="1383,273,1564,315"/>
+<area shape="rect" id="node16" href="$ARMTargetTransformInfo_8cpp.html" title="lib/Target/ARM/ARMTarget\lTransformInfo.cpp" alt="" coords="1588,273,1769,315"/>
+<area shape="rect" id="node18" href="$HexagonTargetMachine_8cpp.html" title="lib/Target/Hexagon\l/HexagonTargetMachine.cpp" alt="" coords="1793,273,1983,315"/>
+<area shape="rect" id="node19" href="$HexagonTargetTransformInfo_8cpp.html" title="This file implements a TargetTransformInfo analysis pass specific to the Hexagon target machine..." alt="" coords="2007,273,2228,315"/>
+<area shape="rect" id="node21" href="$LanaiTargetMachine_8cpp.html" title="lib/Target/Lanai/LanaiTarget\lMachine.cpp" alt="" coords="2253,273,2435,315"/>
+<area shape="rect" id="node24" href="$NVPTXTargetMachine_8cpp.html" title="lib/Target/NVPTX/NVPTXTarget\lMachine.cpp" alt="" coords="2460,273,2671,315"/>
+<area shape="rect" id="node27" href="$PPCCTRLoops_8cpp.html" title="lib/Target/PowerPC\l/PPCCTRLoops.cpp" alt="" coords="2929,273,3071,315"/>
+<area shape="rect" id="node28" href="$PPCTargetMachine_8cpp.html" title="lib/Target/PowerPC\l/PPCTargetMachine.cpp" alt="" coords="3096,273,3261,315"/>
+<area shape="rect" id="node31" href="$RISCVTargetMachine_8cpp.html" title="lib/Target/RISCV/RISCVTarget\lMachine.cpp" alt="" coords="3507,273,3712,315"/>
+<area shape="rect" id="node34" href="$SystemZTargetMachine_8cpp.html" title="lib/Target/SystemZ\l/SystemZTargetMachine.cpp" alt="" coords="3966,273,4157,315"/>
+<area shape="rect" id="node37" href="$VETargetMachine_8cpp.html" title="lib/Target/VE/VETargetMachine.cpp" alt="" coords="4427,281,4658,307"/>
+<area shape="rect" id="node39" href="$WebAssemblyTargetMachine_8cpp.html" title="This file defines the WebAssembly&#45;specific subclass of TargetMachine. " alt="" coords="4682,273,4905,315"/>
+<area shape="rect" id="node40" href="$WebAssemblyTargetTransformInfo_8cpp.html" title="This file defines the WebAssembly&#45;specific TargetTransformInfo implementation. " alt="" coords="4929,273,5183,315"/>
+<area shape="rect" id="node42" href="$X86TargetMachine_8cpp.html" title="lib/Target/X86/X86Target\lMachine.cpp" alt="" coords="5207,273,5374,315"/>
+<area shape="rect" id="node45" href="$XCoreTargetMachine_8cpp.html" title="lib/Target/XCore/XCoreTarget\lMachine.cpp" alt="" coords="5589,273,5784,315"/>
+</map>

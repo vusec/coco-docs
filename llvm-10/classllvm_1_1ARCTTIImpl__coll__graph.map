@@ -1,0 +1,8 @@
+<map id="llvm::ARCTTIImpl" name="llvm::ARCTTIImpl">
+<area shape="rect" id="node2" href="$classllvm_1_1BasicTTIImplBase.html" title="llvm::BasicTTIImplBase\l\&lt; ARCTTIImpl \&gt;" alt="" coords="143,393,306,435"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TargetTransformInfoImplCRTPBase.html" title="llvm::TargetTransformInfo\lImplCRTPBase\&lt; ARCTTIImpl \&gt;" alt="" coords="5,289,217,331"/>
+<area shape="rect" id="node4" href="$classllvm_1_1TargetTransformInfoImplBase.html" title="Base class for use as a mix&#45;in that aids implementing a TargetTransformInfo&#45;compatible class..." alt="" coords="41,95,213,136"/>
+<area shape="rect" id="node6" href="$classllvm_1_1TargetTransformInfoImplCRTPBase.html" title="CRTP base class for use as a mix&#45;in that aids implementing a TargetTransformInfo&#45;compatible class..." alt="" coords="149,185,321,227"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DataLayout.html" title="A parsed version of the target data layout string in and methods for querying it. ..." alt="" coords="67,5,188,32"/>
+<area shape="rect" id="node7" href="$classllvm_1_1BasicTTIImplBase.html" title="Base class which can be used to help build a TTI implementation. " alt="" coords="242,297,437,323"/>
+</map>

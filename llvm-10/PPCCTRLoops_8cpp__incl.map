@@ -1,0 +1,49 @@
+<map id="lib/Target/PowerPC/PPCCTRLoops.cpp" name="lib/Target/PowerPC/PPCCTRLoops.cpp">
+<area shape="rect" id="node2" href="$PPC_8h.html" title="PPC.h" alt="" coords="1553,191,1615,218"/>
+<area shape="rect" id="node4" href="$PPCSubtarget_8h.html" title="PPCSubtarget.h" alt="" coords="1369,281,1487,307"/>
+<area shape="rect" id="node6" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1003,691,1157,717"/>
+<area shape="rect" id="node10" href="$DerivedTypes_8h.html" title="llvm/IR/DerivedTypes.h" alt="" coords="283,616,443,643"/>
+<area shape="rect" id="node14" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="2175,459,2393,486"/>
+<area shape="rect" id="node15" href="$InlineAsm_8h.html" title="llvm/IR/InlineAsm.h" alt="" coords="2418,459,2555,486"/>
+<area shape="rect" id="node20" href="$PPCTargetMachine_8h.html" title="PPCTargetMachine.h" alt="" coords="889,191,1036,218"/>
+<area shape="rect" id="node21" href="$PPCTargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the PPC target machine..." alt="" coords="1075,102,1253,129"/>
+<area shape="rect" id="node22" href="$TargetTransformInfo_8h.html" title="This pass exposes codegen information to IR&#45;level passes. " alt="" coords="2025,184,2225,225"/>
+<area shape="rect" id="node23" href="$LoopInfo_8h.html" title="llvm/Analysis/LoopInfo.h" alt="" coords="75,281,240,307"/>
+<area shape="rect" id="node24" href="$Instructions_8h.html" title="llvm/IR/Instructions.h" alt="" coords="97,370,244,397"/>
+<area shape="rect" id="node25" href="$Dominators_8h.html" title="llvm/IR/Dominators.h" alt="" coords="2129,281,2276,307"/>
+<area shape="rect" id="node26" href="$AssumptionCache_8h.html" title="llvm/Analysis/Assumption\lCache.h" alt="" coords="2401,273,2575,315"/>
+<area shape="rect" id="node27" href="$ValueHandle_8h.html" title="llvm/IR/ValueHandle.h" alt="" coords="2423,370,2577,397"/>
+<area shape="rect" id="node28" href="$Statistic_8h.html" title="llvm/ADT/Statistic.h" alt="" coords="1379,102,1519,129"/>
+<area shape="rect" id="node29" href="$Analysis_2CFG_8h.html" title="llvm/Analysis/CFG.h" alt="" coords="1543,102,1686,129"/>
+<area shape="rect" id="node30" href="$CodeMetrics_8h.html" title="llvm/Analysis/CodeMetrics.h" alt="" coords="1711,102,1900,129"/>
+<area shape="rect" id="node31" href="$LoopIterator_8h.html" title="llvm/Analysis/LoopIterator.h" alt="" coords="5,191,189,218"/>
+<area shape="rect" id="node32" href="$TargetLibraryInfo_8h.html" title="llvm/Analysis/TargetLibrary\lInfo.h" alt="" coords="533,363,713,404"/>
+<area shape="rect" id="node33" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="978,459,1099,486"/>
+<area shape="rect" id="node34" href="$TargetPassConfig_8h.html" title="llvm/CodeGen/TargetPassConfig.h" alt="" coords="1925,459,2150,486"/>
+<area shape="rect" id="node35" href="$TargetSchedule_8h.html" title="llvm/CodeGen/TargetSchedule.h" alt="" coords="1561,281,1772,307"/>
+<area shape="rect" id="node36" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="369,370,508,397"/>
+<area shape="rect" id="node37" href="$IntrinsicInst_8h.html" title="llvm/IR/IntrinsicInst.h" alt="" coords="365,281,512,307"/>
+<area shape="rect" id="node38" href="$InitializePasses_8h.html" title="llvm/InitializePasses.h" alt="" coords="2399,102,2553,129"/>
+<area shape="rect" id="node39" href="$PassSupport_8h.html" title="llvm/PassSupport.h" alt="" coords="2577,102,2713,129"/>
+<area shape="rect" id="node40" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="3793,459,3988,486"/>
+<area shape="rect" id="node41" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="3617,541,3802,568"/>
+<area shape="rect" id="node42" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="2839,102,2987,129"/>
+<area shape="rect" id="node43" href="$Transforms_2Scalar_8h.html" title="llvm/Transforms/Scalar.h" alt="" coords="3012,102,3180,129"/>
+<area shape="rect" id="node44" href="$Transforms_2Utils_8h.html" title="llvm/Transforms/Utils.h" alt="" coords="3205,102,3363,129"/>
+<area shape="rect" id="node45" href="$BasicBlockUtils_8h.html" title="llvm/Transforms/Utils\l/BasicBlockUtils.h" alt="" coords="3388,95,3535,136"/>
+<area shape="rect" id="node46" href="$Transforms_2Utils_2Local_8h.html" title="llvm/Transforms/Utils\l/Local.h" alt="" coords="668,184,815,225"/>
+<area shape="rect" id="node47" href="$LoopUtils_8h.html" title="llvm/Transforms/Utils\l/LoopUtils.h" alt="" coords="2076,95,2223,136"/>
+<area shape="rect" id="node48" href="$MachineDominators_8h.html" title="llvm/CodeGen/MachineDominators.h" alt="" coords="3559,102,3795,129"/>
+<area shape="rect" id="node49" href="$MachineFunctionPass_8h.html" title="llvm/CodeGen/MachineFunction\lPass.h" alt="" coords="2788,184,2996,225"/>
+<area shape="rect" id="node50" href="$MachineRegisterInfo_8h.html" title="llvm/CodeGen/MachineRegister\lInfo.h" alt="" coords="1847,273,2054,315"/>
+<area shape="rect" id="node3" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="1679,541,1844,568"/>
+<area shape="rect" id="node5" href="$PPCFrameLowering_8h.html" title="PPCFrameLowering.h" alt="" coords="1290,370,1441,397"/>
+<area shape="rect" id="node8" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="747,541,871,568"/>
+<area shape="rect" id="node9" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="896,541,1043,568"/>
+<area shape="rect" id="node12" href="$PPCISelLowering_8h.html" title="PPCISelLowering.h" alt="" coords="1617,370,1753,397"/>
+<area shape="rect" id="node13" href="$PPCInstrInfo_8h.html" title="PPCInstrInfo.h" alt="" coords="1387,459,1496,486"/>
+<area shape="rect" id="node16" href="$SelectionDAGTargetInfo_8h.html" title="llvm/CodeGen/SelectionDAGTarget\lInfo.h" alt="" coords="1571,452,1800,493"/>
+<area shape="rect" id="node17" href="$TargetSubtargetInfo_8h.html" title="llvm/CodeGen/TargetSubtarget\lInfo.h" alt="" coords="1993,363,2196,404"/>
+<area shape="rect" id="node18" href="$MCInstrItineraries_8h.html" title="llvm/MC/MCInstrItineraries.h" alt="" coords="1778,370,1969,397"/>
+<area shape="rect" id="node7" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="1123,459,1311,486"/>
+</map>

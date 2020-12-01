@@ -1,0 +1,8 @@
+<map id="include/llvm/DebugInfo/PDB/Native/PDBStringTableBuilder.h" name="include/llvm/DebugInfo/PDB/Native/PDBStringTableBuilder.h">
+<area shape="rect" id="node2" href="$DbiStreamBuilder_8h.html" title="include/llvm/DebugInfo\l/PDB/Native/DbiStreamBuilder.h" alt="" coords="39,95,252,136"/>
+<area shape="rect" id="node4" href="$PDBFileBuilder_8cpp.html" title="lib/DebugInfo/PDB/Native\l/PDBFileBuilder.cpp" alt="" coords="203,184,376,225"/>
+<area shape="rect" id="node5" href="$PDBFileBuilder_8h.html" title="include/llvm/DebugInfo\l/PDB/Native/PDBFileBuilder.h" alt="" coords="327,95,527,136"/>
+<area shape="rect" id="node7" href="$PDBStringTableBuilder_8cpp.html" title="lib/DebugInfo/PDB/Native\l/PDBStringTableBuilder.cpp" alt="" coords="551,95,737,136"/>
+<area shape="rect" id="node3" href="$DbiStreamBuilder_8cpp.html" title="lib/DebugInfo/PDB/Native\l/DbiStreamBuilder.cpp" alt="" coords="5,184,179,225"/>
+<area shape="rect" id="node6" href="$InfoStreamBuilder_8cpp.html" title="lib/DebugInfo/PDB/Native\l/InfoStreamBuilder.cpp" alt="" coords="400,184,573,225"/>
+</map>

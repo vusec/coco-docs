@@ -1,0 +1,43 @@
+<map id="lib/Analysis/ObjCARCAliasAnalysis.cpp" name="lib/Analysis/ObjCARCAliasAnalysis.cpp">
+<area shape="rect" id="node2" href="$ObjCARCAliasAnalysis_8h.html" title="This file declares a simple ARC&#45;aware AliasAnalysis using special knowledge of Objective C to enhance..." alt="" coords="1900,184,2092,225"/>
+<area shape="rect" id="node10" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="2037,348,2166,375"/>
+<area shape="rect" id="node23" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="4296,647,4408,673"/>
+<area shape="rect" id="node26" href="$IR_2Instruction_8h.html" title="llvm/IR/Instruction.h" alt="" coords="3483,497,3623,524"/>
+<area shape="rect" id="node37" href="$PassAnalysisSupport_8h.html" title="llvm/PassAnalysisSupport.h" alt="" coords="885,572,1072,599"/>
+<area shape="rect" id="node38" href="$PassSupport_8h.html" title="llvm/PassSupport.h" alt="" coords="1147,572,1283,599"/>
+<area shape="rect" id="node39" href="$ObjCARCAnalysisUtils_8h.html" title="This file defines common analysis utilities used by the ObjC ARC Optimizer. " alt="" coords="3293,95,3507,136"/>
+<area shape="rect" id="node50" href="$InitializePasses_8h.html" title="llvm/InitializePasses.h" alt="" coords="5567,102,5721,129"/>
+<area shape="rect" id="node3" href="$AliasAnalysis_8h.html" title="llvm/Analysis/AliasAnalysis.h" alt="" coords="3277,273,3472,300"/>
+<area shape="rect" id="node36" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="1080,497,1171,524"/>
+<area shape="rect" id="node4" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="4867,721,4989,748"/>
+<area shape="rect" id="node5" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="5422,647,5562,673"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2597,796,2760,823"/>
+<area shape="rect" id="node11" href="$DenseSet_8h.html" title="llvm/ADT/DenseSet.h" alt="" coords="785,647,935,673"/>
+<area shape="rect" id="node14" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1348,647,1495,673"/>
+<area shape="rect" id="node15" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="433,721,604,748"/>
+<area shape="rect" id="node17" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="2094,572,2221,599"/>
+<area shape="rect" id="node19" href="$ilist__node_8h.html" title="llvm/ADT/ilist_node.h" alt="" coords="1872,572,2019,599"/>
+<area shape="rect" id="node20" href="$Argument_8h.html" title="llvm/IR/Argument.h" alt="" coords="2117,497,2251,524"/>
+<area shape="rect" id="node21" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="1713,572,1847,599"/>
+<area shape="rect" id="node24" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="4275,721,4429,748"/>
+<area shape="rect" id="node25" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="1891,423,2037,449"/>
+<area shape="rect" id="node28" href="$SymbolTableListTraits_8h.html" title="llvm/IR/SymbolTableListTraits.h" alt="" coords="347,572,557,599"/>
+<area shape="rect" id="node31" href="$CallingConv_8h.html" title="llvm/IR/CallingConv.h" alt="" coords="3155,423,3306,449"/>
+<area shape="rect" id="node32" href="$DerivedTypes_8h.html" title="llvm/IR/DerivedTypes.h" alt="" coords="2792,572,2952,599"/>
+<area shape="rect" id="node33" href="$GlobalObject_8h.html" title="llvm/IR/GlobalObject.h" alt="" coords="1661,423,1816,449"/>
+<area shape="rect" id="node34" href="$GlobalValue_8h.html" title="llvm/IR/GlobalValue.h" alt="" coords="2492,497,2641,524"/>
+<area shape="rect" id="node35" href="$OperandTraits_8h.html" title="llvm/IR/OperandTraits.h" alt="" coords="4083,497,4245,524"/>
+<area shape="rect" id="node22" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2917,647,3061,673"/>
+<area shape="rect" id="node27" href="$DebugLoc_8h.html" title="llvm/IR/DebugLoc.h" alt="" coords="3584,572,3723,599"/>
+<area shape="rect" id="node29" href="$User_8h.html" title="llvm/IR/User.h" alt="" coords="4075,572,4181,599"/>
+<area shape="rect" id="node40" href="$StringSwitch_8h.html" title="llvm/ADT/StringSwitch.h" alt="" coords="2449,572,2615,599"/>
+<area shape="rect" id="node41" href="$ObjCARCInstKind_8h.html" title="llvm/Analysis/ObjCARCInst\lKind.h" alt="" coords="2782,184,2967,225"/>
+<area shape="rect" id="node42" href="$Analysis_2Passes_8h.html" title="llvm/Analysis/Passes.h" alt="" coords="3463,191,3622,218"/>
+<area shape="rect" id="node43" href="$ValueTracking_8h.html" title="llvm/Analysis/ValueTracking.h" alt="" coords="3814,191,4013,218"/>
+<area shape="rect" id="node44" href="$CallSite_8h.html" title="llvm/IR/CallSite.h" alt="" coords="3636,273,3761,300"/>
+<area shape="rect" id="node45" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="4213,423,4352,449"/>
+<area shape="rect" id="node46" href="$InstIterator_8h.html" title="llvm/IR/InstIterator.h" alt="" coords="1409,273,1551,300"/>
+<area shape="rect" id="node47" href="$LLVMContext_8h.html" title="llvm/IR/LLVMContext.h" alt="" coords="4915,572,5074,599"/>
+<area shape="rect" id="node48" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="1575,273,1697,300"/>
+<area shape="rect" id="node49" href="$ValueHandle_8h.html" title="llvm/IR/ValueHandle.h" alt="" coords="5098,572,5251,599"/>
+</map>

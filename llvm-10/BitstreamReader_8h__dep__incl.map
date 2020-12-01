@@ -1,0 +1,11 @@
+<map id="include/llvm/Bitstream/BitstreamReader.h" name="include/llvm/Bitstream/BitstreamReader.h">
+<area shape="rect" id="node2" href="$BitcodeAnalyzer_8h.html" title="include/llvm/Bitcode\l/BitcodeAnalyzer.h" alt="" coords="5,95,144,136"/>
+<area shape="rect" id="node3" href="$BitcodeAnalyzer_8cpp.html" title="lib/Bitcode/Reader\l/BitcodeAnalyzer.cpp" alt="" coords="55,184,201,225"/>
+<area shape="rect" id="node4" href="$include_2llvm_2Remarks_2BitstreamRemarkParser_8h.html" title="include/llvm/Remarks\l/BitstreamRemarkParser.h" alt="" coords="219,95,397,136"/>
+<area shape="rect" id="node8" href="$BitcodeReader_8cpp.html" title="lib/Bitcode/Reader\l/BitcodeReader.cpp" alt="" coords="421,95,558,136"/>
+<area shape="rect" id="node9" href="$MetadataLoader_8cpp.html" title="lib/Bitcode/Reader\l/MetadataLoader.cpp" alt="" coords="583,95,727,136"/>
+<area shape="rect" id="node10" href="$BitstreamReader_8cpp.html" title="lib/Bitstream/Reader\l/BitstreamReader.cpp" alt="" coords="751,95,900,136"/>
+<area shape="rect" id="node5" href="$BitstreamRemarkParser_8cpp.html" title="lib/Remarks/BitstreamRemark\lParser.cpp" alt="" coords="174,273,373,315"/>
+<area shape="rect" id="node6" href="$lib_2Remarks_2BitstreamRemarkParser_8h.html" title="lib/Remarks/BitstreamRemark\lParser.h" alt="" coords="310,184,509,225"/>
+<area shape="rect" id="node7" href="$RemarkParser_8cpp.html" title="lib/Remarks/RemarkParser.cpp" alt="" coords="397,281,603,307"/>
+</map>

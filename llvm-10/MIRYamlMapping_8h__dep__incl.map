@@ -1,0 +1,51 @@
+<map id="include/llvm/CodeGen/MIRYamlMapping.h" name="include/llvm/CodeGen/MIRYamlMapping.h">
+<area shape="rect" id="node2" href="$MIRParser_8cpp.html" title="lib/CodeGen/MIRParser\l/MIRParser.cpp" alt="" coords="3378,95,3539,136"/>
+<area shape="rect" id="node3" href="$MIRPrinter_8cpp.html" title="lib/CodeGen/MIRPrinter.cpp" alt="" coords="3564,102,3751,129"/>
+<area shape="rect" id="node4" href="$SIMachineFunctionInfo_8h.html" title="lib/Target/AMDGPU/SIMachine\lFunctionInfo.h" alt="" coords="3775,95,3980,136"/>
+<area shape="rect" id="node33" href="$WebAssemblyMachineFunctionInfo_8h.html" title="This file declares WebAssembly&#45;specific per&#45;machine&#45;function information. " alt="" coords="8275,95,8517,136"/>
+<area shape="rect" id="node5" href="$AMDGPUAsmPrinter_8cpp.html" title="The AMDGPUAsmPrinter is used to print both assembly string and also binary code. " alt="" coords="5,191,235,233"/>
+<area shape="rect" id="node6" href="$AMDGPUCallLowering_8cpp.html" title="This file implements the lowering of LLVM calls to machine code calls for GlobalISel. " alt="" coords="259,191,485,233"/>
+<area shape="rect" id="node7" href="$AMDGPUHSAMetadataStreamer_8cpp.html" title="AMDGPU HSA Metadata Streamer. " alt="" coords="509,191,793,233"/>
+<area shape="rect" id="node8" href="$AMDGPUInstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for AMDGPU. " alt="" coords="817,191,1079,233"/>
+<area shape="rect" id="node9" href="$AMDGPUISelDAGToDAG_8cpp.html" title="Defines an instruction selector for the AMDGPU target. " alt="" coords="1103,191,1329,233"/>
+<area shape="rect" id="node10" href="$AMDGPUISelLowering_8cpp.html" title="This is the parent TargetLowering class for hardware code gen targets. " alt="" coords="1353,191,1578,233"/>
+<area shape="rect" id="node11" href="$AMDGPULegalizerInfo_8cpp.html" title="This file implements the targeting of the Machinelegalizer class for AMDGPU. " alt="" coords="1602,191,1857,233"/>
+<area shape="rect" id="node12" href="$AMDGPURegisterBankInfo_8cpp.html" title="This file implements the targeting of the RegisterBankInfo class for AMDGPU. " alt="" coords="1881,191,2132,233"/>
+<area shape="rect" id="node13" href="$AMDGPURegisterInfo_8cpp.html" title="Parent TargetRegisterInfo class common to all hw codegen targets. " alt="" coords="2156,191,2407,233"/>
+<area shape="rect" id="node14" href="$AMDGPUSubtarget_8cpp.html" title="Implements the AMDGPU specific subclass of TargetSubtarget. " alt="" coords="2431,199,2713,225"/>
+<area shape="rect" id="node15" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="2738,191,2977,233"/>
+<area shape="rect" id="node16" href="$GCNIterativeScheduler_8cpp.html" title="lib/Target/AMDGPU/GCNIterative\lScheduler.cpp" alt="" coords="3001,191,3221,233"/>
+<area shape="rect" id="node17" href="$GCNNSAReassign_8cpp.html" title="Try to reassign registers on GFX10+ from non&#45;sequential to sequential in NSA image instructions..." alt="" coords="3245,199,3526,225"/>
+<area shape="rect" id="node18" href="$GCNRegBankReassign_8cpp.html" title="Try to reassign registers on GFX10+ to reduce register bank conflicts. " alt="" coords="3551,191,3748,233"/>
+<area shape="rect" id="node19" href="$GCNSchedStrategy_8cpp.html" title="This contains a MachineSchedStrategy implementation for maximizing wave occupancy on GCN hardware..." alt="" coords="3772,191,3983,233"/>
+<area shape="rect" id="node20" href="$SIFoldOperands_8cpp.html" title="lib/Target/AMDGPU/SIFold\lOperands.cpp" alt="" coords="4007,191,4188,233"/>
+<area shape="rect" id="node21" href="$SIFormMemoryClauses_8cpp.html" title="This pass creates bundles of SMEM and VMEM instructions forming memory clauses if XNACK is enabled..." alt="" coords="4212,191,4399,233"/>
+<area shape="rect" id="node22" href="$SIFrameLowering_8cpp.html" title="lib/Target/AMDGPU/SIFrame\lLowering.cpp" alt="" coords="4423,191,4617,233"/>
+<area shape="rect" id="node23" href="$SIInsertSkips_8cpp.html" title="This pass inserts branches on the 0 exec mask over divergent branches branches when it&#39;s expected tha..." alt="" coords="4641,191,4831,233"/>
+<area shape="rect" id="node24" href="$SIInsertWaitcnts_8cpp.html" title="Insert wait instructions for memory reads and writes. " alt="" coords="4855,191,5044,233"/>
+<area shape="rect" id="node25" href="$SIInstrInfo_8cpp.html" title="SI Implementation of TargetInstrInfo. " alt="" coords="5069,191,5251,233"/>
+<area shape="rect" id="node26" href="$SIISelLowering_8cpp.html" title="Custom DAG lowering for SI. " alt="" coords="5276,191,5455,233"/>
+<area shape="rect" id="node27" href="$SILowerSGPRSpills_8cpp.html" title="lib/Target/AMDGPU/SILower\lSGPRSpills.cpp" alt="" coords="5479,191,5670,233"/>
+<area shape="rect" id="node28" href="$SIMachineFunctionInfo_8cpp.html" title="lib/Target/AMDGPU/SIMachine\lFunctionInfo.cpp" alt="" coords="5695,191,5900,233"/>
+<area shape="rect" id="node29" href="$SIModeRegister_8cpp.html" title="This pass inserts changes to the Mode register settings as required. " alt="" coords="5925,191,6113,233"/>
+<area shape="rect" id="node30" href="$SIPreAllocateWWMRegs_8cpp.html" title="Pass to pre&#45;allocated WWM registers. " alt="" coords="6137,191,6359,233"/>
+<area shape="rect" id="node31" href="$SIRegisterInfo_8cpp.html" title="SI implementation of the TargetRegisterInfo class. " alt="" coords="6384,191,6589,233"/>
+<area shape="rect" id="node32" href="$SIWholeQuadMode_8cpp.html" title="This pass adds instructions to enable whole quad mode for pixel shaders, and whole wavefront mode for..." alt="" coords="6614,191,6807,233"/>
+<area shape="rect" id="node34" href="$WebAssemblyInstPrinter_8cpp.html" title="Print MCInst instructions to wasm format. " alt="" coords="6832,184,7059,240"/>
+<area shape="rect" id="node35" href="$WebAssemblyArgumentMove_8cpp.html" title="This file moves ARGUMENT instructions after ScheduleDAG scheduling. " alt="" coords="7083,191,7307,233"/>
+<area shape="rect" id="node36" href="$WebAssemblyAsmPrinter_8h.html" title="lib/Target/WebAssembly\l/WebAssemblyAsmPrinter.h" alt="" coords="7381,191,7568,233"/>
+<area shape="rect" id="node37" href="$WebAssemblyAsmPrinter_8cpp.html" title="This file contains a printer that converts from our internal representation of machine&#45;dependent LLVM..." alt="" coords="7258,288,7459,329"/>
+<area shape="rect" id="node38" href="$WebAssemblyMCInstLower_8cpp.html" title="This file contains code to lower WebAssembly MachineInstrs to their corresponding MCInst records..." alt="" coords="7490,288,7705,329"/>
+<area shape="rect" id="node39" href="$WebAssemblyCallIndirectFixup_8cpp.html" title="This file converts pseudo call_indirect instructions into real call_indirects. " alt="" coords="7643,191,7877,233"/>
+<area shape="rect" id="node40" href="$WebAssemblyCFGStackify_8cpp.html" title="This file implements a CFG stacking pass. " alt="" coords="7901,191,8113,233"/>
+<area shape="rect" id="node41" href="$WebAssemblyDebugValueManager_8cpp.html" title="This file implements the manager for MachineInstr DebugValues. " alt="" coords="8137,191,8394,233"/>
+<area shape="rect" id="node42" href="$WebAssemblyExplicitLocals_8cpp.html" title="This file converts any remaining registers into WebAssembly locals. " alt="" coords="8418,191,8635,233"/>
+<area shape="rect" id="node43" href="$WebAssemblyFastISel_8cpp.html" title="This file defines the WebAssembly&#45;specific support for the FastISel class. " alt="" coords="8659,191,8845,233"/>
+<area shape="rect" id="node44" href="$WebAssemblyFrameLowering_8cpp.html" title="This file contains the WebAssembly implementation of TargetFrameLowering class. " alt="" coords="8869,191,9094,233"/>
+<area shape="rect" id="node45" href="$WebAssemblyInstrInfo_8cpp.html" title="This file contains the WebAssembly implementation of the TargetInstrInfo class. " alt="" coords="9119,191,9303,233"/>
+<area shape="rect" id="node46" href="$WebAssemblyISelLowering_8cpp.html" title="This file implements the WebAssemblyTargetLowering class. " alt="" coords="9327,191,9537,233"/>
+<area shape="rect" id="node47" href="$WebAssemblyLowerBrUnless_8cpp.html" title="This file lowers br_unless into br_if with an inverted condition. " alt="" coords="9561,191,9786,233"/>
+<area shape="rect" id="node48" href="$WebAssemblyMachineFunctionInfo_8cpp.html" title="This file implements WebAssembly&#45;specific per&#45;machine&#45;function information. " alt="" coords="9810,191,10067,233"/>
+<area shape="rect" id="node49" href="$WebAssemblyMemIntrinsicResults_8cpp.html" title="This file implements an optimization pass using memory intrinsic results. " alt="" coords="10092,191,10348,233"/>
+<area shape="rect" id="node50" href="$WebAssemblyPeephole_8cpp.html" title="Late peephole optimizations for WebAssembly. " alt="" coords="10373,191,10563,233"/>
+</map>

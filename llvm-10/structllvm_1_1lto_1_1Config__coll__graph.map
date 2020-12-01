@@ -1,0 +1,10 @@
+<map id="llvm::lto::Config" name="llvm::lto::Config">
+<area shape="rect" id="node3" href="$classllvm_1_1PipelineTuningOptions.html" title="Tunable parameters for passes in the default pipelines. " alt="" coords="812,267,996,293"/>
+<area shape="rect" id="node4" href="$classbool.html" title="bool" alt="" coords="52,267,99,293"/>
+<area shape="rect" id="node16" href="$classllvm_1_1MCTargetOptions.html" title="llvm::MCTargetOptions" alt="" coords="389,788,546,815"/>
+<area shape="rect" id="node5" href="$classunsigned.html" title="unsigned" alt="" coords="430,436,505,463"/>
+<area shape="rect" id="node9" href="$classllvm_1_1TargetOptions.html" title="llvm::TargetOptions" alt="" coords="836,867,972,893"/>
+<area shape="rect" id="node7" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; CodeModel\l::Model \&gt;" alt="" coords="814,1226,994,1267"/>
+<area shape="rect" id="node8" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; T \&gt;" alt="" coords="400,1333,535,1360"/>
+<area shape="rect" id="node25" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; Reloc\l::Model \&gt;" alt="" coords="830,1161,978,1202"/>
+</map>

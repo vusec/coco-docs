@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1ErrorHandlerTraits.html" title="llvm::ErrorHandlerTraits\l\&lt; RetT(&amp;)(ErrT &amp;)\&gt;" alt="" coords="5,119,165,161"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ErrorHandlerTraits_3_01RetT_07C_1_1_5_08_07const_01ErrT_01_6_08_01const_01_4.html" title="llvm::ErrorHandlerTraits\l\&lt; RetT(C::*)(const ErrT\l &amp;) const \&gt;" alt="" coords="227,5,387,61"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ErrorHandlerTraits_3_01RetT_07C_1_1_5_08_07const_01ErrT_01_6_08_4.html" title="llvm::ErrorHandlerTraits\l\&lt; RetT(C::*)(const ErrT &amp;)\&gt;" alt="" coords="215,86,399,127"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ErrorHandlerTraits_3_01RetT_07C_1_1_5_08_07ErrT_01_6_08_01const_01_4.html" title="llvm::ErrorHandlerTraits\l\&lt; RetT(C::*)(ErrT &amp;) const \&gt;" alt="" coords="213,151,401,193"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ErrorHandlerTraits_3_01RetT_07C_1_1_5_08_07ErrT_01_6_08_4.html" title="llvm::ErrorHandlerTraits\l\&lt; RetT(C::*)(ErrT &amp;)\&gt;" alt="" coords="227,217,387,258"/>
+</map>

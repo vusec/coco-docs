@@ -1,0 +1,31 @@
+<map id="include/llvm/DebugInfo/CodeView/TypeTableCollection.h" name="include/llvm/DebugInfo/CodeView/TypeTableCollection.h">
+<area shape="rect" id="node2" href="$TypeCollection_8h.html" title="llvm/DebugInfo/CodeView\l/TypeCollection.h" alt="" coords="967,95,1142,136"/>
+<area shape="rect" id="node45" href="$StringSaver_8h.html" title="llvm/Support/StringSaver.h" alt="" coords="2957,191,3136,218"/>
+<area shape="rect" id="node3" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2589,541,2736,568"/>
+<area shape="rect" id="node29" href="$TypeIndex_8h.html" title="llvm/DebugInfo/CodeView\l/TypeIndex.h" alt="" coords="690,363,865,404"/>
+<area shape="rect" id="node39" href="$TypeRecord_8h.html" title="llvm/DebugInfo/CodeView\l/TypeRecord.h" alt="" coords="967,184,1142,225"/>
+<area shape="rect" id="node4" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2025,623,2180,650"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="5089,855,5252,881"/>
+<area shape="rect" id="node15" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="2129,780,2300,807"/>
+<area shape="rect" id="node5" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="4487,705,4627,732"/>
+<area shape="rect" id="node14" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1914,705,2046,732"/>
+<area shape="rect" id="node20" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="4223,780,4412,807"/>
+<area shape="rect" id="node9" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="4460,780,4631,807"/>
+<area shape="rect" id="node30" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="2782,459,2959,486"/>
+<area shape="rect" id="node37" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="702,623,853,650"/>
+<area shape="rect" id="node31" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1952,541,2096,568"/>
+<area shape="rect" id="node32" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="3511,705,3651,732"/>
+<area shape="rect" id="node33" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3659,623,3821,650"/>
+<area shape="rect" id="node34" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="4234,705,4411,732"/>
+<area shape="rect" id="node35" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="4753,705,4921,732"/>
+<area shape="rect" id="node40" href="$APSInt_8h.html" title="llvm/ADT/APSInt.h" alt="" coords="631,281,766,307"/>
+<area shape="rect" id="node41" href="$CVRecord_8h.html" title="llvm/DebugInfo/CodeView\l/CVRecord.h" alt="" coords="842,273,1017,315"/>
+<area shape="rect" id="node42" href="$CodeView_8h.html" title="llvm/DebugInfo/CodeView\l/CodeView.h" alt="" coords="347,363,522,404"/>
+<area shape="rect" id="node43" href="$GUID_8h.html" title="llvm/DebugInfo/CodeView\l/GUID.h" alt="" coords="877,616,1051,657"/>
+<area shape="rect" id="node44" href="$BinaryStreamArray_8h.html" title="llvm/Support/BinaryStream\lArray.h" alt="" coords="1279,452,1457,493"/>
+<area shape="rect" id="node46" href="$DenseSet_8h.html" title="llvm/ADT/DenseSet.h" alt="" coords="3135,281,3286,307"/>
+<area shape="rect" id="node48" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="2983,459,3110,486"/>
+<area shape="rect" id="node49" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="4335,541,4497,568"/>
+<area shape="rect" id="node47" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="3185,370,3340,397"/>
+<area shape="rect" id="node50" href="$Alignment_8h.html" title="llvm/Support/Alignment.h" alt="" coords="4693,623,4861,650"/>
+</map>

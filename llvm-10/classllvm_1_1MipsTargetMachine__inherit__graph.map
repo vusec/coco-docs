@@ -1,0 +1,6 @@
+<map id="llvm::MipsTargetMachine" name="llvm::MipsTargetMachine">
+<area shape="rect" id="node4" href="$classllvm_1_1MipsebTargetMachine.html" title="Mips32/64 big endian target machine. " alt="" coords="5,229,188,256"/>
+<area shape="rect" id="node5" href="$classllvm_1_1MipselTargetMachine.html" title="Mips32/64 little endian target machine. " alt="" coords="213,229,391,256"/>
+<area shape="rect" id="node2" href="$classllvm_1_1LLVMTargetMachine.html" title="This class describes a target machine that is implemented with the LLVM target&#45;independent code gener..." alt="" coords="112,80,287,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TargetMachine.html" title="Primary interface to the complete machine description for the target machine. " alt="" coords="129,5,269,32"/>
+</map>

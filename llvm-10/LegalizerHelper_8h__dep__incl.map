@@ -1,0 +1,11 @@
+<map id="include/llvm/CodeGen/GlobalISel/LegalizerHelper.h" name="include/llvm/CodeGen/GlobalISel/LegalizerHelper.h">
+<area shape="rect" id="node2" href="$Legalizer_8cpp.html" title="lib/CodeGen/GlobalISel\l/Legalizer.cpp" alt="" coords="5,95,164,136"/>
+<area shape="rect" id="node3" href="$LegalizerHelper_8cpp.html" title="lib/CodeGen/GlobalISel\l/LegalizerHelper.cpp" alt="" coords="188,95,347,136"/>
+<area shape="rect" id="node4" href="$AArch64LegalizerInfo_8cpp.html" title="This file implements the targeting of the Machinelegalizer class for AArch64. " alt="" coords="371,95,545,136"/>
+<area shape="rect" id="node5" href="$AMDGPULegalizerInfo_8cpp.html" title="This file implements the targeting of the Machinelegalizer class for AMDGPU. " alt="" coords="569,95,824,136"/>
+<area shape="rect" id="node6" href="$AMDGPURegisterBankInfo_8cpp.html" title="This file implements the targeting of the RegisterBankInfo class for AMDGPU. " alt="" coords="849,95,1099,136"/>
+<area shape="rect" id="node7" href="$ARMLegalizerInfo_8cpp.html" title="This file implements the targeting of the Machinelegalizer class for ARM. " alt="" coords="1124,95,1320,136"/>
+<area shape="rect" id="node8" href="$MipsLegalizerInfo_8cpp.html" title="This file implements the targeting of the Machinelegalizer class for Mips. " alt="" coords="1345,95,1537,136"/>
+<area shape="rect" id="node9" href="$MipsRegisterBankInfo_8cpp.html" title="This file implements the targeting of the RegisterBankInfo class for Mips. " alt="" coords="1561,95,1750,136"/>
+<area shape="rect" id="node10" href="$X86LegalizerInfo_8cpp.html" title="This file implements the targeting of the Machinelegalizer class for X86. " alt="" coords="1775,95,1957,136"/>
+</map>

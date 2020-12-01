@@ -1,0 +1,30 @@
+<map id="include/llvm/DebugInfo/CodeView/TypeDeserializer.h" name="include/llvm/DebugInfo/CodeView/TypeDeserializer.h">
+<area shape="rect" id="node2" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1317,638,1461,665"/>
+<area shape="rect" id="node18" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2441,720,2596,747"/>
+<area shape="rect" id="node28" href="$CodeView_8h.html" title="llvm/DebugInfo/CodeView\l/CodeView.h" alt="" coords="3370,452,3545,493"/>
+<area shape="rect" id="node34" href="$TypeRecord_8h.html" title="llvm/DebugInfo/CodeView\l/TypeRecord.h" alt="" coords="2142,273,2317,315"/>
+<area shape="rect" id="node39" href="$BinaryStreamReader_8h.html" title="llvm/Support/BinaryStream\lReader.h" alt="" coords="2292,452,2471,493"/>
+<area shape="rect" id="node41" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="1895,638,2033,665"/>
+<area shape="rect" id="node43" href="$TypeRecordMapping_8h.html" title="llvm/DebugInfo/CodeView\l/TypeRecordMapping.h" alt="" coords="1943,95,2118,136"/>
+<area shape="rect" id="node46" href="$TypeVisitorCallbacks_8h.html" title="llvm/DebugInfo/CodeView\l/TypeVisitorCallbacks.h" alt="" coords="2142,184,2317,225"/>
+<area shape="rect" id="node48" href="$BinaryByteStream_8h.html" title="llvm/Support/BinaryByteStream.h" alt="" coords="977,370,1193,397"/>
+<area shape="rect" id="node3" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="1018,720,1158,747"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1297,869,1460,896"/>
+<area shape="rect" id="node9" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="57,869,180,896"/>
+<area shape="rect" id="node10" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1611,720,1773,747"/>
+<area shape="rect" id="node4" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1284,795,1473,821"/>
+<area shape="rect" id="node11" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="2593,869,2764,896"/>
+<area shape="rect" id="node19" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="207,795,347,821"/>
+<area shape="rect" id="node20" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="3069,795,3201,821"/>
+<area shape="rect" id="node30" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="2899,549,3050,575"/>
+<area shape="rect" id="node35" href="$APSInt_8h.html" title="llvm/ADT/APSInt.h" alt="" coords="1683,370,1818,397"/>
+<area shape="rect" id="node36" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="760,638,907,665"/>
+<area shape="rect" id="node37" href="$CVRecord_8h.html" title="llvm/DebugInfo/CodeView\l/CVRecord.h" alt="" coords="2293,363,2467,404"/>
+<area shape="rect" id="node38" href="$TypeIndex_8h.html" title="llvm/DebugInfo/CodeView\l/TypeIndex.h" alt="" coords="2887,452,3062,493"/>
+<area shape="rect" id="node40" href="$BinaryStreamArray_8h.html" title="llvm/Support/BinaryStream\lArray.h" alt="" coords="2241,541,2420,583"/>
+<area shape="rect" id="node42" href="$GUID_8h.html" title="llvm/DebugInfo/CodeView\l/GUID.h" alt="" coords="4006,631,4181,672"/>
+<area shape="rect" id="node44" href="$CVTypeVisitor_8h.html" title="llvm/DebugInfo/CodeView\l/CVTypeVisitor.h" alt="" coords="1943,184,2118,225"/>
+<area shape="rect" id="node45" href="$CodeViewRecordIO_8h.html" title="llvm/DebugInfo/CodeView\l/CodeViewRecordIO.h" alt="" coords="1545,184,1719,225"/>
+<area shape="rect" id="node49" href="$BinaryStream_8h.html" title="llvm/Support/BinaryStream.h" alt="" coords="1427,459,1616,486"/>
+<area shape="rect" id="node50" href="$BinaryStreamError_8h.html" title="llvm/Support/BinaryStream\lError.h" alt="" coords="1173,541,1352,583"/>
+</map>

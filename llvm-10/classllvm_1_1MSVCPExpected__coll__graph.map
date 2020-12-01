@@ -1,0 +1,7 @@
+<map id="llvm::MSVCPExpected&lt; T &gt;" name="llvm::MSVCPExpected&lt; T &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1Expected.html" title="Tagged union holding either a T or a Error. " alt="" coords="796,46,937,73"/>
+<area shape="rect" id="node3" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; error_type \&gt;" alt="" coords="480,5,671,47"/>
+<area shape="rect" id="node4" href="$classchar.html" title="char" alt="" coords="5,55,52,82"/>
+<area shape="rect" id="node5" href="$structllvm_1_1AlignedCharArrayUnion.html" title="A suitably aligned and sized character array member which can hold elements of any type..." alt="" coords="137,48,328,89"/>
+<area shape="rect" id="node6" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; storage_type \&gt;" alt="" coords="480,71,671,112"/>
+</map>

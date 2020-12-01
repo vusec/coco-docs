@@ -1,0 +1,5 @@
+<map id="llvm::ELFYAML::NoteEntry" name="llvm::ELFYAML::NoteEntry">
+<area shape="rect" id="node3" href="$classllvm_1_1yaml_1_1BinaryRef.html" title="Specialized YAMLIO scalar type for representing a binary blob. " alt="" coords="89,95,237,121"/>
+<area shape="rect" id="node4" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e. " alt="" coords="262,95,371,121"/>
+<area shape="rect" id="node5" href="$classsize__t.html" title="size_t" alt="" coords="288,5,345,32"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="include/llvm/DebugInfo/DWARF/DWARFAttribute.h" name="include/llvm/DebugInfo/DWARF/DWARFAttribute.h">
+<area shape="rect" id="node2" href="$Dwarf_8h.html" title="This file contains constants used for implementing Dwarf debug support. " alt="" coords="2836,259,3015,285"/>
+<area shape="rect" id="node45" href="$DWARFFormValue_8h.html" title="llvm/DebugInfo/DWARF\l/DWARFFormValue.h" alt="" coords="3367,95,3531,136"/>
+<area shape="rect" id="node3" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2991,661,3131,688"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3271,811,3433,837"/>
+<area shape="rect" id="node14" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="111,661,286,688"/>
+<area shape="rect" id="node20" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="3257,661,3447,688"/>
+<area shape="rect" id="node22" href="$Format_8h.html" title="llvm/Support/Format.h" alt="" coords="1877,430,2027,457"/>
+<area shape="rect" id="node40" href="$FormatVariadicDetails_8h.html" title="llvm/Support/FormatVariadic\lDetails.h" alt="" coords="1800,333,1987,375"/>
+<area shape="rect" id="node42" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="3407,341,3531,367"/>
+<area shape="rect" id="node4" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="3484,736,3607,763"/>
+<area shape="rect" id="node8" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2661,736,2832,763"/>
+<area shape="rect" id="node15" href="$c_2DataTypes_8h.html" title="llvm&#45;c/DataTypes.h" alt="" coords="131,736,267,763"/>
+<area shape="rect" id="node23" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2109,512,2253,539"/>
+<area shape="rect" id="node31" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1676,587,1831,613"/>
+<area shape="rect" id="node38" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1633,512,1780,539"/>
+<area shape="rect" id="node24" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="2058,587,2198,613"/>
+<area shape="rect" id="node26" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2605,587,2768,613"/>
+<area shape="rect" id="node27" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="959,736,1129,763"/>
+<area shape="rect" id="node32" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1394,661,1526,688"/>
+<area shape="rect" id="node41" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2594,430,2779,457"/>
+<area shape="rect" id="node43" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="3405,430,3531,457"/>
+<area shape="rect" id="node46" href="$DIContext_8h.html" title="llvm/DebugInfo/DIContext.h" alt="" coords="3357,184,3542,211"/>
+<area shape="rect" id="node48" href="$DWARFDataExtractor_8h.html" title="llvm/DebugInfo/DWARF\l/DWARFDataExtractor.h" alt="" coords="1557,333,1725,375"/>
+<area shape="rect" id="node47" href="$ObjectFile_8h.html" title="llvm/Object/ObjectFile.h" alt="" coords="3407,259,3569,285"/>
+<area shape="rect" id="node49" href="$DWARFSection_8h.html" title="llvm/DebugInfo/DWARF\l/DWARFSection.h" alt="" coords="1563,423,1727,464"/>
+<area shape="rect" id="node50" href="$DataExtractor_8h.html" title="llvm/Support/DataExtractor.h" alt="" coords="411,430,602,457"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="llvm::legacy::PassManagerBase" name="llvm::legacy::PassManagerBase">
+<area shape="rect" id="node2" href="$classllvm_1_1legacy_1_1FunctionPassManager.html" title="FunctionPassManager manages FunctionPasses. " alt="" coords="5,80,185,121"/>
+<area shape="rect" id="node3" href="$classllvm_1_1legacy_1_1PassManager.html" title="PassManager manages ModulePassManagers. " alt="" coords="209,87,389,114"/>
+</map>

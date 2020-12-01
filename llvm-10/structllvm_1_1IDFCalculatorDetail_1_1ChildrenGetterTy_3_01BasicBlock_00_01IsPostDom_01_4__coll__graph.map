@@ -1,0 +1,4 @@
+<map id="llvm::IDFCalculatorDetail::ChildrenGetterTy&lt; BasicBlock, IsPostDom &gt;" name="llvm::IDFCalculatorDetail::ChildrenGetterTy&lt; BasicBlock, IsPostDom &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1GraphDiff.html" title="llvm::GraphDiff\&lt; llvm\l::BasicBlock *, IsPostDom \&gt;" alt="" coords="15,124,206,165"/>
+<area shape="rect" id="node3" href="$classllvm_1_1GraphDiff.html" title="llvm::GraphDiff\&lt; NodePtr,\l InverseGraph \&gt;" alt="" coords="23,5,198,47"/>
+</map>

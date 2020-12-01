@@ -1,0 +1,27 @@
+<map id="llvm::cl::Option" name="llvm::cl::Option">
+<area shape="rect" id="node2" href="$classllvm_1_1SmallPtrSet.html" title="llvm::SmallPtrSet\&lt;\l llvm::cl::SubCommand\l *, 1 \&gt;" alt="" coords="1340,67,1499,123"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SmallPtrSetImpl.html" title="llvm::SmallPtrSetImpl\l\&lt; llvm::cl::SubCommand * \&gt;" alt="" coords="939,27,1127,69"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SmallPtrSetImplBase.html" title="SmallPtrSetImplBase &#45; This is the common code shared among all the SmallPtrSet&lt;&gt;&#39;s, which is almost everything. " alt="" coords="313,56,492,83"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SmallPtrSetImpl.html" title="A templated base class for SmallPtrSet which provides the typesafe interface that is common across al..." alt="" coords="556,73,705,114"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DebugEpochBase.html" title="A base class for data structure classes wishing to make iterators (&quot;handles&quot;) pointing into themselve..." alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node7" href="$classunsigned.html" title="unsigned" alt="" coords="47,157,122,184"/>
+<area shape="rect" id="node14" href="$classllvm_1_1SmallVectorBase.html" title="This is all the non&#45;templated stuff common to all SmallVectors. " alt="" coords="325,225,480,252"/>
+<area shape="rect" id="node9" href="$classllvm_1_1SmallPtrSet.html" title="SmallPtrSet &#45; This class implements a set which is optimized for holding SmallSize or less elements..." alt="" coords="957,93,1108,134"/>
+<area shape="rect" id="node10" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::cl::OptionCategory\l *, 1 \&gt;" alt="" coords="2948,232,3115,288"/>
+<area shape="rect" id="node11" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; llvm::cl::OptionCategory * \&gt;" alt="" coords="2537,174,2733,215"/>
+<area shape="rect" id="node12" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="1539,145,1765,186"/>
+<area shape="rect" id="node13" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="llvm::SmallVectorTemplate\lCommon\&lt; T \&gt;" alt="" coords="943,190,1122,231"/>
+<area shape="rect" id="node18" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; T \&gt;" alt="" coords="1811,225,1990,266"/>
+<area shape="rect" id="node19" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="1330,249,1509,290"/>
+<area shape="rect" id="node16" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="This is the part of SmallVectorTemplateBase which does not depend on whether the type T is a POD..." alt="" coords="541,237,720,278"/>
+<area shape="rect" id="node17" href="$classllvm_1_1SmallVectorImpl.html" title="This class consists of common code factored out of the SmallVector class to reduce code duplication b..." alt="" coords="2119,232,2301,259"/>
+<area shape="rect" id="node26" href="$classllvm_1_1SmallVector.html" title="This is a &#39;vector&#39; (really, a variable&#45;sized array), optimized for the case when the array is small..." alt="" coords="2569,239,2702,281"/>
+<area shape="rect" id="node20" href="$structllvm_1_1SmallVectorStorage.html" title="llvm::SmallVectorStorage\l\&lt; llvm::cl::OptionCategory *, N \&gt;" alt="" coords="2528,305,2743,346"/>
+<area shape="rect" id="node21" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::cl::OptionCategory *\&gt;" alt="" coords="1805,309,1997,350"/>
+<area shape="rect" id="node22" href="$classchar.html" title="char" alt="" coords="1009,385,1056,412"/>
+<area shape="rect" id="node23" href="$structllvm_1_1AlignedCharArrayUnion.html" title="A suitably aligned and sized character array member which can hold elements of any type..." alt="" coords="1324,378,1515,419"/>
+<area shape="rect" id="node25" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\&lt; T \&gt;" alt="" coords="1789,396,2012,423"/>
+<area shape="rect" id="node24" href="$structllvm_1_1SmallVectorStorage.html" title="Storage for the SmallVector elements. " alt="" coords="2125,387,2295,429"/>
+<area shape="rect" id="node27" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e. " alt="" coords="2977,357,3086,384"/>
+<area shape="rect" id="node28" href="$classsize__t.html" title="size_t" alt="" coords="2607,371,2664,397"/>
+</map>

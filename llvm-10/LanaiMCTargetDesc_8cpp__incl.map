@@ -1,0 +1,38 @@
+<map id="lib/Target/Lanai/MCTargetDesc/LanaiMCTargetDesc.cpp" name="lib/Target/Lanai/MCTargetDesc/LanaiMCTargetDesc.cpp">
+<area shape="rect" id="node2" href="$LanaiMCTargetDesc_8h.html" title="LanaiMCTargetDesc.h" alt="" coords="752,95,905,121"/>
+<area shape="rect" id="node3" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="2059,408,2238,435"/>
+<area shape="rect" id="node24" href="$LanaiInstPrinter_8h.html" title="LanaiInstPrinter.h" alt="" coords="1705,251,1829,278"/>
+<area shape="rect" id="node25" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3357,333,3503,360"/>
+<area shape="rect" id="node28" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="4550,483,4739,509"/>
+<area shape="rect" id="node31" href="$LanaiMCAsmInfo_8h.html" title="LanaiMCAsmInfo.h" alt="" coords="40,95,175,121"/>
+<area shape="rect" id="node33" href="$LanaiTargetInfo_8h.html" title="TargetInfo/LanaiTargetInfo.h" alt="" coords="1950,95,2137,121"/>
+<area shape="rect" id="node34" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="4452,169,4576,196"/>
+<area shape="rect" id="node37" href="$MCInst_8h.html" title="llvm/MC/MCInst.h" alt="" coords="1956,251,2085,278"/>
+<area shape="rect" id="node39" href="$MCInstrAnalysis_8h.html" title="llvm/MC/MCInstrAnalysis.h" alt="" coords="1348,169,1531,196"/>
+<area shape="rect" id="node41" href="$MCInstrInfo_8h.html" title="llvm/MC/MCInstrInfo.h" alt="" coords="866,251,1021,278"/>
+<area shape="rect" id="node42" href="$MCStreamer_8h.html" title="llvm/MC/MCStreamer.h" alt="" coords="1766,95,1926,121"/>
+<area shape="rect" id="node49" href="$MCSubtargetInfo_8h.html" title="llvm/MC/MCSubtargetInfo.h" alt="" coords="4508,95,4693,121"/>
+<area shape="rect" id="node50" href="$TargetRegistry_8h.html" title="llvm/Support/TargetRegistry.h" alt="" coords="4719,95,4915,121"/>
+<area shape="rect" id="node18" href="$MCTargetOptions_8h.html" title="llvm/MC/MCTargetOptions.h" alt="" coords="4702,408,4891,435"/>
+<area shape="rect" id="node20" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="1072,408,1247,435"/>
+<area shape="rect" id="node4" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2769,483,2923,509"/>
+<area shape="rect" id="node13" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="3556,483,3688,509"/>
+<area shape="rect" id="node14" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3417,557,3587,584"/>
+<area shape="rect" id="node15" href="$LaneBitmask_8h.html" title="A common definition of LaneBitmask for use in TableGen and CodeGen. " alt="" coords="2011,483,2174,509"/>
+<area shape="rect" id="node16" href="$MCRegister_8h.html" title="llvm/MC/MCRegister.h" alt="" coords="1679,483,1835,509"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2379,557,2542,584"/>
+<area shape="rect" id="node30" href="$MCInstPrinter_8h.html" title="llvm/MC/MCInstPrinter.h" alt="" coords="1664,333,1831,360"/>
+<area shape="rect" id="node26" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3505,408,3659,435"/>
+<area shape="rect" id="node27" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2199,483,2339,509"/>
+<area shape="rect" id="node32" href="$MCAsmInfoELF_8h.html" title="llvm/MC/MCAsmInfoELF.h" alt="" coords="5,169,185,196"/>
+<area shape="rect" id="node35" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="3217,251,3344,278"/>
+<area shape="rect" id="node36" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2946,408,3109,435"/>
+<area shape="rect" id="node38" href="$SMLoc_8h.html" title="llvm/Support/SMLoc.h" alt="" coords="1096,333,1247,360"/>
+<area shape="rect" id="node40" href="$MCInstrDesc_8h.html" title="llvm/MC/MCInstrDesc.h" alt="" coords="1373,333,1537,360"/>
+<area shape="rect" id="node43" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="3759,333,3903,360"/>
+<area shape="rect" id="node44" href="$MCDirectives_8h.html" title="llvm/MC/MCDirectives.h" alt="" coords="1767,169,1933,196"/>
+<area shape="rect" id="node45" href="$MCLinkerOptimizationHint_8h.html" title="llvm/MC/MCLinkerOptimization\lHint.h" alt="" coords="1477,244,1681,285"/>
+<area shape="rect" id="node46" href="$MCSymbol_8h.html" title="llvm/MC/MCSymbol.h" alt="" coords="3017,251,3168,278"/>
+<area shape="rect" id="node47" href="$MCWinEH_8h.html" title="llvm/MC/MCWinEH.h" alt="" coords="1958,169,2107,196"/>
+<area shape="rect" id="node48" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="2538,169,2677,196"/>
+</map>

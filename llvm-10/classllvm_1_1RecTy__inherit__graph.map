@@ -1,0 +1,10 @@
+<map id="llvm::RecTy" name="llvm::RecTy">
+<area shape="rect" id="node2" href="$classllvm_1_1BitRecTy.html" title="&#39;bit&#39; &#45; Represent a single bit " alt="" coords="159,5,269,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1BitsRecTy.html" title="&#39;bits&lt;n&gt;&#39; &#45; Represent a fixed number of bits " alt="" coords="156,56,272,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1CodeRecTy.html" title="&#39;code&#39; &#45; Represent a code fragment " alt="" coords="152,107,276,133"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DagRecTy.html" title="&#39;dag&#39; &#45; Represent a dag fragment " alt="" coords="155,157,273,184"/>
+<area shape="rect" id="node6" href="$classllvm_1_1IntRecTy.html" title="&#39;int&#39; &#45; Represent an integer value of no particular size " alt="" coords="160,208,268,235"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ListRecTy.html" title="&#39;list&lt;Ty&gt;&#39; &#45; Represent a list of values, all of which must be of the specified type. " alt="" coords="157,259,271,285"/>
+<area shape="rect" id="node8" href="$classllvm_1_1RecordRecTy.html" title="&#39;[classname]&#39; &#45; Type of record values that have zero or more superclasses. " alt="" coords="147,309,281,336"/>
+<area shape="rect" id="node9" href="$classllvm_1_1StringRecTy.html" title="&#39;string&#39; &#45; Represent an string value " alt="" coords="151,360,277,387"/>
+</map>

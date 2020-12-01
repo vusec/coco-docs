@@ -1,0 +1,5 @@
+<map id="llvm::mca::HWInstructionEvent" name="llvm::mca::HWInstructionEvent">
+<area shape="rect" id="node2" href="$classllvm_1_1mca_1_1HWInstructionDispatchedEvent.html" title="llvm::mca::HWInstruction\lDispatchedEvent" alt="" coords="224,5,395,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1mca_1_1HWInstructionIssuedEvent.html" title="llvm::mca::HWInstruction\lIssuedEvent" alt="" coords="224,71,395,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1mca_1_1HWInstructionRetiredEvent.html" title="llvm::mca::HWInstruction\lRetiredEvent" alt="" coords="224,136,395,177"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="include/llvm/IR/InstVisitor.h" name="include/llvm/IR/InstVisitor.h">
+<area shape="rect" id="node2" href="$IndirectCallVisitor_8h.html" title="include/llvm/Analysis\l/IndirectCallVisitor.h" alt="" coords="359,80,504,121"/>
+<area shape="rect" id="node3" href="$IndirectCallPromotionAnalysis_8cpp.html" title="lib/Analysis/IndirectCall\lPromotionAnalysis.cpp" alt="" coords="5,169,164,211"/>
+<area shape="rect" id="node5" href="$ValueProfilePlugins_8inc.html" title="lib/Transforms/Instrumentation\l/ValueProfilePlugins.inc" alt="" coords="411,169,609,211"/>
+<area shape="rect" id="node6" href="$LoopUnrollAnalyzer_8h.html" title="include/llvm/Analysis\l/LoopUnrollAnalyzer.h" alt="" coords="845,80,996,121"/>
+<area shape="rect" id="node9" href="$MemoryBuiltins_8h.html" title="include/llvm/Analysis\l/MemoryBuiltins.h" alt="" coords="2615,80,2760,121"/>
+<area shape="rect" id="node11" href="$CFLGraph_8h.html" title="This file defines CFLGraph, an auxiliary data structure used by CFL&#45;based alias analysis. " alt="" coords="1060,177,1224,203"/>
+<area shape="rect" id="node19" href="$AddressSanitizer_8cpp.html" title="lib/Transforms/Instrumentation\l/AddressSanitizer.cpp" alt="" coords="4495,169,4693,211"/>
+<area shape="rect" id="node21" href="$PoisonChecking_8cpp.html" title="lib/Transforms/Instrumentation\l/PoisonChecking.cpp" alt="" coords="4717,169,4916,211"/>
+<area shape="rect" id="node29" href="$PtrUseVisitor_8h.html" title="This file provides a collection of visitors which walk the (instruction) uses of a pointer..." alt="" coords="2937,80,3083,121"/>
+<area shape="rect" id="node30" href="$SROA_8cpp.html" title="This transformation implements the well known scalar replacement of aggregates transformation. " alt="" coords="4941,169,5087,211"/>
+<area shape="rect" id="node31" href="$InlineCost_8cpp.html" title="lib/Analysis/InlineCost.cpp" alt="" coords="3107,87,3284,114"/>
+<area shape="rect" id="node32" href="$InstCount_8cpp.html" title="lib/Analysis/InstCount.cpp" alt="" coords="3308,87,3483,114"/>
+<area shape="rect" id="node33" href="$Lint_8cpp.html" title="lib/Analysis/Lint.cpp" alt="" coords="3507,87,3646,114"/>
+<area shape="rect" id="node34" href="$lib_2ExecutionEngine_2Interpreter_2Interpreter_8h.html" title="lib/ExecutionEngine\l/Interpreter/Interpreter.h" alt="" coords="3671,80,3829,121"/>
+<area shape="rect" id="node35" href="$Verifier_8cpp.html" title="lib/IR/Verifier.cpp" alt="" coords="3854,87,3977,114"/>
+<area shape="rect" id="node36" href="$AMDGPUAnnotateUniformValues_8cpp.html" title="This pass adds amdgpu.uniform metadata to IR values so this information can be used during instructio..." alt="" coords="4001,80,4256,121"/>
+<area shape="rect" id="node37" href="$AMDGPUAtomicOptimizer_8cpp.html" title="This pass optimizes atomic operations by using a single lane of a wavefront to perform the atomic ope..." alt="" coords="4281,80,4523,121"/>
+<area shape="rect" id="node38" href="$AMDGPUCodeGenPrepare_8cpp.html" title="This pass does misc. " alt="" coords="4548,80,4781,121"/>
+<area shape="rect" id="node39" href="$AMDGPUFixFunctionBitcasts_8cpp.html" title="Promote indirect (bitcast) calls to direct calls when they are statically known to be direct..." alt="" coords="4805,80,5025,121"/>
+<area shape="rect" id="node40" href="$WebAssemblyOptimizeReturned_8cpp.html" title="Optimize calls with &quot;returned&quot; attributes for WebAssembly. " alt="" coords="5049,80,5291,121"/>
+<area shape="rect" id="node41" href="$InstCombineInternal_8h.html" title="This file provides internal interfaces used to implement the InstCombine. " alt="" coords="1455,80,1637,121"/>
+<area shape="rect" id="node42" href="$DataFlowSanitizer_8cpp.html" title="This file is a part of DataFlowSanitizer, a generalised dynamic data flow analysis. " alt="" coords="5315,80,5513,121"/>
+<area shape="rect" id="node43" href="$HWAddressSanitizer_8cpp.html" title="This file is a part of HWAddressSanitizer, an address sanity checker based on tagged addressing..." alt="" coords="5537,80,5736,121"/>
+<area shape="rect" id="node44" href="$MemorySanitizer_8cpp.html" title="This file is a part of MemorySanitizer, a detector of uninitialized reads. " alt="" coords="5760,80,5959,121"/>
+<area shape="rect" id="node45" href="$PGOInstrumentation_8cpp.html" title="lib/Transforms/Instrumentation\l/PGOInstrumentation.cpp" alt="" coords="5983,80,6181,121"/>
+<area shape="rect" id="node46" href="$PGOMemOPSizeOpt_8cpp.html" title="lib/Transforms/Instrumentation\l/PGOMemOPSizeOpt.cpp" alt="" coords="6205,80,6404,121"/>
+<area shape="rect" id="node47" href="$CalledValuePropagation_8cpp.html" title="lib/Transforms/IPO\l/CalledValuePropagation.cpp" alt="" coords="6428,80,6619,121"/>
+<area shape="rect" id="node48" href="$Scalarizer_8cpp.html" title="lib/Transforms/Scalar\l/Scalarizer.cpp" alt="" coords="6643,80,6790,121"/>
+<area shape="rect" id="node49" href="$Scalar_2SCCP_8cpp.html" title="lib/Transforms/Scalar\l/SCCP.cpp" alt="" coords="6814,80,6961,121"/>
+<area shape="rect" id="node50" href="$LibCallsShrinkWrap_8cpp.html" title="lib/Transforms/Utils\l/LibCallsShrinkWrap.cpp" alt="" coords="6985,80,7152,121"/>
+<area shape="rect" id="node4" href="$IndirectCallPromotion_8cpp.html" title="lib/Transforms/Instrumentation\l/IndirectCallPromotion.cpp" alt="" coords="188,169,387,211"/>
+<area shape="rect" id="node7" href="$LoopUnrollAnalyzer_8cpp.html" title="lib/Analysis/LoopUnrollAnalyzer.cpp" alt="" coords="805,177,1036,203"/>
+<area shape="rect" id="node8" href="$LoopUnrollPass_8cpp.html" title="lib/Transforms/Scalar\l/LoopUnrollPass.cpp" alt="" coords="634,169,781,211"/>
+<area shape="rect" id="node10" href="$BasicAliasAnalysis_8cpp.html" title="lib/Analysis/BasicAliasAnalysis.cpp" alt="" coords="3359,177,3589,203"/>
+<area shape="rect" id="node12" href="$GlobalsModRef_8cpp.html" title="lib/Analysis/GlobalsModRef.cpp" alt="" coords="3614,177,3822,203"/>
+<area shape="rect" id="node13" href="$InstructionSimplify_8cpp.html" title="lib/Analysis/Instruction\lSimplify.cpp" alt="" coords="3846,169,4001,211"/>
+<area shape="rect" id="node14" href="$MemoryBuiltins_8cpp.html" title="lib/Analysis/MemoryBuiltins.cpp" alt="" coords="4025,177,4233,203"/>
+<area shape="rect" id="node15" href="$MemoryDependenceAnalysis_8cpp.html" title="lib/Analysis/MemoryDependence\lAnalysis.cpp" alt="" coords="4257,169,4470,211"/>
+<area shape="rect" id="node16" href="$CodeGenPrepare_8cpp.html" title="lib/CodeGen/CodeGenPrepare.cpp" alt="" coords="1661,177,1884,203"/>
+<area shape="rect" id="node17" href="$InstCombineCalls_8cpp.html" title="lib/Transforms/InstCombine\l/InstCombineCalls.cpp" alt="" coords="1455,169,1637,211"/>
+<area shape="rect" id="node18" href="$InstructionCombining_8cpp.html" title="lib/Transforms/InstCombine\l/InstructionCombining.cpp" alt="" coords="1248,169,1431,211"/>
+<area shape="rect" id="node20" href="$BoundsChecking_8cpp.html" title="lib/Transforms/Instrumentation\l/BoundsChecking.cpp" alt="" coords="1908,169,2107,211"/>
+<area shape="rect" id="node22" href="$Attributor_8cpp.html" title="lib/Transforms/IPO\l/Attributor.cpp" alt="" coords="2131,169,2263,211"/>
+<area shape="rect" id="node23" href="$FunctionAttrs_8cpp.html" title="This file implements interprocedural passes which walk the call&#45;graph deducing and/or propagating fun..." alt="" coords="2287,169,2419,211"/>
+<area shape="rect" id="node24" href="$GlobalOpt_8cpp.html" title="lib/Transforms/IPO\l/GlobalOpt.cpp" alt="" coords="2443,169,2575,211"/>
+<area shape="rect" id="node25" href="$DeadStoreElimination_8cpp.html" title="lib/Transforms/Scalar\l/DeadStoreElimination.cpp" alt="" coords="2599,169,2776,211"/>
+<area shape="rect" id="node26" href="$GVN_8cpp.html" title="lib/Transforms/Scalar\l/GVN.cpp" alt="" coords="2801,169,2947,211"/>
+<area shape="rect" id="node27" href="$LICM_8cpp.html" title="lib/Transforms/Scalar\l/LICM.cpp" alt="" coords="2971,169,3118,211"/>
+<area shape="rect" id="node28" href="$LowerConstantIntrinsics_8cpp.html" title="lib/Transforms/Scalar\l/LowerConstantIntrinsics.cpp" alt="" coords="3142,169,3334,211"/>
+</map>

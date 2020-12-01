@@ -1,0 +1,12 @@
+<map id="llvm::pdb::NativeTypeVTShape" name="llvm::pdb::NativeTypeVTShape">
+<area shape="rect" id="node2" href="$classllvm_1_1pdb_1_1NativeRawSymbol.html" title="llvm::pdb::NativeRawSymbol" alt="" coords="716,105,908,132"/>
+<area shape="rect" id="node3" href="$classllvm_1_1pdb_1_1IPDBRawSymbol.html" title="IPDBRawSymbol defines an interface used to represent an arbitrary symbol. " alt="" coords="345,5,531,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1pdb_1_1NativeSession.html" title="llvm::pdb::NativeSession" alt="" coords="354,56,522,83"/>
+<area shape="rect" id="node5" href="$classllvm_1_1pdb_1_1IPDBSession.html" title="IPDBSession defines an interface used to provide a context for querying debug information from a debu..." alt="" coords="5,56,168,83"/>
+<area shape="rect" id="node6" href="$classuint32__t.html" title="uint32_t" alt="" coords="404,187,472,213"/>
+<area shape="rect" id="node14" href="$classllvm_1_1codeview_1_1TypeIndex.html" title="A 32&#45;bit type reference. " alt="" coords="723,240,901,267"/>
+<area shape="rect" id="node8" href="$classllvm_1_1codeview_1_1VFTableShapeRecord.html" title="llvm::codeview::VFTableShape\lRecord" alt="" coords="711,310,913,351"/>
+<area shape="rect" id="node9" href="$classllvm_1_1codeview_1_1TypeRecord.html" title="llvm::codeview::TypeRecord" alt="" coords="344,399,532,425"/>
+<area shape="rect" id="node12" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; VFTableSlot\lKind \&gt;" alt="" coords="343,333,533,374"/>
+<area shape="rect" id="node13" href="$classllvm_1_1ArrayRef.html" title="ArrayRef &#45; Represent a constant reference to an array (0 or more elements consecutively in memory)..." alt="" coords="17,340,156,367"/>
+</map>

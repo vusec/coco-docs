@@ -1,0 +1,5 @@
+<map id="llvm::SparseMultiSet&lt; ValueT, KeyFunctorT, SparseT &gt;" name="llvm::SparseMultiSet&lt; ValueT, KeyFunctorT, SparseT &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1SparseMultiSet.html" title="llvm::SparseMultiSet\l\&lt; PhysRegSUOper, identity\l\&lt; unsigned \&gt;, uint16_t \&gt;" alt="" coords="404,5,589,61"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SparseMultiSet.html" title="llvm::SparseMultiSet\l\&lt; VReg2SUnitOperIdx,\l VirtReg2IndexFunctor \&gt;" alt="" coords="414,85,579,141"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SparseMultiSet.html" title="llvm::SparseMultiSet\l\&lt; VReg2SUnit, VirtReg2Index\lFunctor \&gt;" alt="" coords="397,165,596,221"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="llvm::AccelTableBase" name="llvm::AccelTableBase">
+<area shape="rect" id="node2" href="$classllvm_1_1AccelTable.html" title="llvm::AccelTable\&lt; llvm\l::AppleAccelTableOffsetData \&gt;" alt="" coords="613,9,817,51"/>
+<area shape="rect" id="node3" href="$classllvm_1_1AccelTable.html" title="llvm::AccelTable\&lt; llvm\l::AppleAccelTableTypeData \&gt;" alt="" coords="617,96,814,137"/>
+<area shape="rect" id="node4" href="$classllvm_1_1AccelTable.html" title="llvm::AccelTable\&lt; llvm\l::DWARF5AccelTableData \&gt;" alt="" coords="619,203,811,244"/>
+<area shape="rect" id="node5" href="$classllvm_1_1AccelTable.html" title="This class holds an abstract representation of an Accelerator Table, consisting of a sequence of buck..." alt="" coords="204,107,383,134"/>
+</map>

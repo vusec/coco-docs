@@ -1,0 +1,44 @@
+<map id="lib/Target/WebAssembly/WebAssemblyTargetObjectFile.cpp" name="lib/Target/WebAssembly/WebAssemblyTargetObjectFile.cpp">
+<area shape="rect" id="node2" href="$WebAssemblyTargetObjectFile_8h.html" title="This file declares the WebAssembly&#45;specific subclass of TargetLoweringObjectFile. ..." alt="" coords="2345,95,2559,121"/>
+<area shape="rect" id="node38" href="$WebAssemblyTargetMachine_8h.html" title="This file declares the WebAssembly&#45;specific subclass of TargetMachine. " alt="" coords="3518,95,3722,121"/>
+<area shape="rect" id="node3" href="$TargetLoweringObjectFileImpl_8h.html" title="llvm/CodeGen/TargetLowering\lObjectFileImpl.h" alt="" coords="1435,169,1634,211"/>
+<area shape="rect" id="node4" href="$XCOFF_8h.html" title="llvm/BinaryFormat/XCOFF.h" alt="" coords="270,512,458,539"/>
+<area shape="rect" id="node14" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="1474,348,1595,375"/>
+<area shape="rect" id="node32" href="$MCExpr_8h.html" title="llvm/MC/MCExpr.h" alt="" coords="193,430,327,457"/>
+<area shape="rect" id="node34" href="$TargetLoweringObjectFile_8h.html" title="llvm/Target/TargetLowering\lObjectFile.h" alt="" coords="2686,259,2866,300"/>
+<area shape="rect" id="node5" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2571,594,2717,621"/>
+<area shape="rect" id="node6" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2568,676,2723,703"/>
+<area shape="rect" id="node9" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1949,751,2120,777"/>
+<area shape="rect" id="node7" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2531,751,2671,777"/>
+<area shape="rect" id="node15" href="$c_2Types_8h.html" title="llvm&#45;c/Types.h" alt="" coords="745,594,853,621"/>
+<area shape="rect" id="node16" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="1030,512,1181,539"/>
+<area shape="rect" id="node17" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="2043,512,2178,539"/>
+<area shape="rect" id="node20" href="$IR_2Comdat_8h.html" title="This file contains the declaration of the Comdat class, which represents a single COMDAT in LLVM..." alt="" coords="627,430,752,457"/>
+<area shape="rect" id="node21" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="584,512,803,539"/>
+<area shape="rect" id="node22" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="3859,512,4005,539"/>
+<area shape="rect" id="node23" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="2549,430,2678,457"/>
+<area shape="rect" id="node24" href="$SymbolTableListTraits_8h.html" title="llvm/IR/SymbolTableListTraits.h" alt="" coords="2406,512,2615,539"/>
+<area shape="rect" id="node25" href="$GlobalAlias_8h.html" title="llvm/IR/GlobalAlias.h" alt="" coords="1462,430,1607,457"/>
+<area shape="rect" id="node26" href="$GlobalIFunc_8h.html" title="llvm/IR/GlobalIFunc.h" alt="" coords="928,430,1077,457"/>
+<area shape="rect" id="node27" href="$GlobalVariable_8h.html" title="llvm/IR/GlobalVariable.h" alt="" coords="1683,430,1845,457"/>
+<area shape="rect" id="node28" href="$Metadata_8h.html" title="This file contains the declarations for metadata subclasses. " alt="" coords="1152,430,1285,457"/>
+<area shape="rect" id="node30" href="$ProfileSummary_8h.html" title="llvm/IR/ProfileSummary.h" alt="" coords="1611,594,1783,621"/>
+<area shape="rect" id="node31" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="3195,512,3360,539"/>
+<area shape="rect" id="node18" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="4119,594,4263,621"/>
+<area shape="rect" id="node29" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1813,512,1968,539"/>
+<area shape="rect" id="node33" href="$SMLoc_8h.html" title="llvm/Support/SMLoc.h" alt="" coords="43,512,194,539"/>
+<area shape="rect" id="node35" href="$MCObjectFileInfo_8h.html" title="llvm/MC/MCObjectFileInfo.h" alt="" coords="3046,430,3234,457"/>
+<area shape="rect" id="node37" href="$SectionKind_8h.html" title="llvm/MC/SectionKind.h" alt="" coords="2814,348,2970,375"/>
+<area shape="rect" id="node36" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="3046,512,3170,539"/>
+<area shape="rect" id="node39" href="$WebAssemblySubtarget_8h.html" title="This file declares the WebAssembly&#45;specific subclass of TargetSubtarget. " alt="" coords="4007,177,4182,203"/>
+<area shape="rect" id="node44" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="3526,430,3714,457"/>
+<area shape="rect" id="node40" href="$WebAssemblyFrameLowering_8h.html" title="This class implements WebAssembly&#45;specific bits of TargetFrameLowering class. " alt="" coords="4611,266,4818,293"/>
+<area shape="rect" id="node42" href="$WebAssemblyISelLowering_8h.html" title="This file defines the interfaces that WebAssembly uses to lower LLVM code into a selection DAG..." alt="" coords="3715,266,3909,293"/>
+<area shape="rect" id="node47" href="$WebAssemblyInstrInfo_8h.html" title="This file contains the WebAssembly implementation of the TargetInstrInfo class. " alt="" coords="3918,348,4085,375"/>
+<area shape="rect" id="node48" href="$WebAssemblySelectionDAGInfo_8h.html" title="This file defines the WebAssembly subclass for SelectionDAGTargetInfo. " alt="" coords="4058,266,4281,293"/>
+<area shape="rect" id="node49" href="$TargetSubtargetInfo_8h.html" title="llvm/CodeGen/TargetSubtarget\lInfo.h" alt="" coords="4283,423,4485,464"/>
+<area shape="rect" id="node41" href="$TargetFrameLowering_8h.html" title="llvm/CodeGen/TargetFrame\lLowering.h" alt="" coords="4541,587,4723,628"/>
+<area shape="rect" id="node43" href="$TargetLowering_8h.html" title="This file describes how to lower LLVM code to machine code. " alt="" coords="3685,348,3894,375"/>
+<area shape="rect" id="node45" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="3435,512,3525,539"/>
+<area shape="rect" id="node46" href="$TargetOptions_8h.html" title="llvm/Target/TargetOptions.h" alt="" coords="3549,512,3733,539"/>
+</map>

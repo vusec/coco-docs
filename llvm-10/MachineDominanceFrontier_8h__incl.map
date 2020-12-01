@@ -1,0 +1,37 @@
+<map id="include/llvm/CodeGen/MachineDominanceFrontier.h" name="include/llvm/CodeGen/MachineDominanceFrontier.h">
+<area shape="rect" id="node2" href="$DominanceFrontier_8h.html" title="llvm/Analysis/DominanceFrontier.h" alt="" coords="3887,281,4113,307"/>
+<area shape="rect" id="node33" href="$GenericDomTree_8h.html" title="This file defines a set of templates that efficiently compute a dominator tree over a generic graph..." alt="" coords="2722,363,2931,389"/>
+<area shape="rect" id="node38" href="$DominanceFrontierImpl_8h.html" title="llvm/Analysis/DominanceFrontier\lImpl.h" alt="" coords="4733,184,4947,225"/>
+<area shape="rect" id="node39" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="954,273,1145,315"/>
+<area shape="rect" id="node49" href="$MachineFunctionPass_8h.html" title="llvm/CodeGen/MachineFunction\lPass.h" alt="" coords="3667,95,3875,136"/>
+<area shape="rect" id="node3" href="$GraphTraits_8h.html" title="llvm/ADT/GraphTraits.h" alt="" coords="2061,437,2221,464"/>
+<area shape="rect" id="node8" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM. " alt="" coords="3930,363,4089,389"/>
+<area shape="rect" id="node30" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="3776,437,3867,464"/>
+<area shape="rect" id="node4" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3060,751,3231,777"/>
+<area shape="rect" id="node9" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2585,676,2740,703"/>
+<area shape="rect" id="node14" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="1892,676,2055,703"/>
+<area shape="rect" id="node15" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3371,601,3517,628"/>
+<area shape="rect" id="node21" href="$TinyPtrVector_8h.html" title="llvm/ADT/TinyPtrVector.h" alt="" coords="4049,601,4221,628"/>
+<area shape="rect" id="node23" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="3118,519,3247,546"/>
+<area shape="rect" id="node25" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="3326,437,3447,464"/>
+<area shape="rect" id="node27" href="$PassInstrumentation_8h.html" title="This file defines the Pass Instrumentation classes that provide instrumentation points into the pass ..." alt="" coords="4095,437,4294,464"/>
+<area shape="rect" id="node28" href="$TypeName_8h.html" title="llvm/Support/TypeName.h" alt="" coords="4041,519,4215,546"/>
+<area shape="rect" id="node29" href="$PassManagerInternal_8h.html" title="This header provides internal APIs and implementation details used by the pass management interfaces ..." alt="" coords="4717,519,4920,546"/>
+<area shape="rect" id="node31" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="4545,519,4693,546"/>
+<area shape="rect" id="node32" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="3526,519,3711,546"/>
+<area shape="rect" id="node16" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3068,676,3223,703"/>
+<area shape="rect" id="node22" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3449,676,3612,703"/>
+<area shape="rect" id="node24" href="$ilist__node_8h.html" title="llvm/ADT/ilist_node.h" alt="" coords="509,751,656,777"/>
+<area shape="rect" id="node34" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="2011,601,2181,628"/>
+<area shape="rect" id="node35" href="$CFGUpdate_8h.html" title="llvm/Support/CFGUpdate.h" alt="" coords="2966,437,3146,464"/>
+<area shape="rect" id="node40" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="648,601,760,628"/>
+<area shape="rect" id="node41" href="$simple__ilist_8h.html" title="llvm/ADT/simple_ilist.h" alt="" coords="665,676,823,703"/>
+<area shape="rect" id="node42" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="1048,519,1243,546"/>
+<area shape="rect" id="node43" href="$DebugLoc_8h.html" title="llvm/IR/DebugLoc.h" alt="" coords="936,601,1075,628"/>
+<area shape="rect" id="node44" href="$MachineInstrBundleIterator_8h.html" title="llvm/CodeGen/MachineInstr\lBundleIterator.h" alt="" coords="483,512,667,553"/>
+<area shape="rect" id="node45" href="$LaneBitmask_8h.html" title="A common definition of LaneBitmask for use in TableGen and CodeGen. " alt="" coords="1419,437,1581,464"/>
+<area shape="rect" id="node46" href="$Printable_8h.html" title="llvm/Support/Printable.h" alt="" coords="145,519,306,546"/>
+<area shape="rect" id="node47" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="1561,363,1740,389"/>
+<area shape="rect" id="node48" href="$BranchProbability_8h.html" title="llvm/Support/BranchProbability.h" alt="" coords="1302,676,1514,703"/>
+<area shape="rect" id="node50" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="1915,191,2133,218"/>
+</map>

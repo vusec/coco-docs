@@ -1,0 +1,51 @@
+<map id="include/llvm/IR/PassManagerInternal.h" name="include/llvm/IR/PassManagerInternal.h">
+<area shape="rect" id="node2" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM. " alt="" coords="2521,95,2725,121"/>
+<area shape="rect" id="node3" href="$AliasAnalysis_8h.html" title="include/llvm/Analysis\l/AliasAnalysis.h" alt="" coords="852,281,997,322"/>
+<area shape="rect" id="node4" href="$BasicAliasAnalysis_8h.html" title="This is the interface for LLVM&#39;s primary stateless and local alias analysis. " alt="" coords="2103,377,2252,419"/>
+<area shape="rect" id="node5" href="$LoopAnalysisManager_8h.html" title="This header provides classes for managing per&#45;loop analyses. " alt="" coords="2343,467,2508,508"/>
+<area shape="rect" id="node6" href="$CFLAndersAliasAnalysis_8h.html" title="This is the interface for LLVM&#39;s inclusion&#45;based alias analysis implemented with CFL graph reachabili..." alt="" coords="266,377,449,419"/>
+<area shape="rect" id="node7" href="$CFLSteensAliasAnalysis_8h.html" title="This is the interface for LLVM&#39;s unification&#45;based alias analysis implemented with CFL graph reachabi..." alt="" coords="473,377,656,419"/>
+<area shape="rect" id="node8" href="$MemoryDependenceAnalysis_8h.html" title="include/llvm/Analysis\l/MemoryDependenceAnalysis.h" alt="" coords="680,377,886,419"/>
+<area shape="rect" id="node9" href="$ScopedNoAliasAA_8h.html" title="This is the interface for a metadata&#45;based scoped no&#45;alias analysis. " alt="" coords="962,377,1108,419"/>
+<area shape="rect" id="node10" href="$TypeBasedAliasAnalysis_8h.html" title="This is the interface for a metadata&#45;based TBAA. " alt="" coords="1184,377,1366,419"/>
+<area shape="rect" id="node11" href="$AliasAnalysisEvaluator_8h.html" title="This file implements a simple N^2 alias analysis accuracy evaluator. " alt="" coords="671,177,842,218"/>
+<area shape="rect" id="node12" href="$AssumptionCache_8h.html" title="include/llvm/Analysis\l/AssumptionCache.h" alt="" coords="2269,281,2414,322"/>
+<area shape="rect" id="node13" href="$TargetTransformInfo_8h.html" title="This pass exposes codegen information to IR&#45;level passes. " alt="" coords="2712,377,2867,419"/>
+<area shape="rect" id="node14" href="$BlockFrequencyInfo_8h.html" title="include/llvm/Analysis\l/BlockFrequencyInfo.h" alt="" coords="1138,177,1292,218"/>
+<area shape="rect" id="node15" href="$OptimizationRemarkEmitter_8h.html" title="include/llvm/Analysis\l/OptimizationRemarkEmitter.h" alt="" coords="1444,281,1642,322"/>
+<area shape="rect" id="node16" href="$BranchProbabilityInfo_8h.html" title="include/llvm/Analysis\l/BranchProbabilityInfo.h" alt="" coords="1316,177,1477,218"/>
+<area shape="rect" id="node17" href="$CallGraph_8h.html" title="This file provides interfaces used to build and manipulate a call graph, which is a very useful tool ..." alt="" coords="1501,177,1646,218"/>
+<area shape="rect" id="node18" href="$CFGPrinter_8h.html" title="include/llvm/Analysis\l/CFGPrinter.h" alt="" coords="1670,177,1816,218"/>
+<area shape="rect" id="node19" href="$CGSCCPassManager_8h.html" title="This header provides classes for managing passes over SCCs of the call graph. " alt="" coords="24,377,190,419"/>
+<area shape="rect" id="node20" href="$PassBuilder_8h.html" title="Interfaces for registering analysis passes, producing common pass manager configurations, and parsing of pass pipelines. " alt="" coords="38,467,176,508"/>
+<area shape="rect" id="node21" href="$Speculation_8h.html" title="include/llvm/ExecutionEngine\l/Orc/Speculation.h" alt="" coords="70,556,264,597"/>
+<area shape="rect" id="node22" href="$DemandedBits_8h.html" title="include/llvm/Analysis\l/DemandedBits.h" alt="" coords="1993,177,2138,218"/>
+<area shape="rect" id="node23" href="$DominanceFrontier_8h.html" title="include/llvm/Analysis\l/DominanceFrontier.h" alt="" coords="2163,177,2310,218"/>
+<area shape="rect" id="node24" href="$LazyCallGraph_8h.html" title="Implements a lazy call graph analysis and related passes for the new pass manager. " alt="" coords="349,281,494,322"/>
+<area shape="rect" id="node25" href="$LazyValueInfo_8h.html" title="include/llvm/Analysis\l/LazyValueInfo.h" alt="" coords="2385,177,2530,218"/>
+<area shape="rect" id="node26" href="$LoopInfo_8h.html" title="include/llvm/Analysis\l/LoopInfo.h" alt="" coords="2606,177,2752,218"/>
+<area shape="rect" id="node27" href="$ScalarEvolution_8h.html" title="include/llvm/Analysis\l/ScalarEvolution.h" alt="" coords="2830,281,2976,322"/>
+<area shape="rect" id="node28" href="$ControlHeightReduction_8h.html" title="include/llvm/Transforms\l/Instrumentation/ControlHeight\lReduction.h" alt="" coords="2439,273,2639,329"/>
+<area shape="rect" id="node29" href="$ModuleSummaryAnalysis_8h.html" title="This is the interface to build a ModuleSummaryIndex for a module. " alt="" coords="2828,177,3013,218"/>
+<area shape="rect" id="node30" href="$PhiValues_8h.html" title="include/llvm/Analysis\l/PhiValues.h" alt="" coords="3037,177,3182,218"/>
+<area shape="rect" id="node31" href="$PostDominators_8h.html" title="include/llvm/Analysis\l/PostDominators.h" alt="" coords="3226,281,3372,322"/>
+<area shape="rect" id="node32" href="$ProfileSummaryInfo_8h.html" title="include/llvm/Analysis\l/ProfileSummaryInfo.h" alt="" coords="3258,177,3410,218"/>
+<area shape="rect" id="node33" href="$RegionInfo_8h.html" title="include/llvm/Analysis\l/RegionInfo.h" alt="" coords="3780,281,3925,322"/>
+<area shape="rect" id="node34" href="$StackSafetyAnalysis_8h.html" title="include/llvm/Analysis\l/StackSafetyAnalysis.h" alt="" coords="3485,177,3644,218"/>
+<area shape="rect" id="node35" href="$TargetLibraryInfo_8h.html" title="include/llvm/Analysis\l/TargetLibraryInfo.h" alt="" coords="866,177,1012,218"/>
+<area shape="rect" id="node36" href="$BitcodeWriterPass_8h.html" title="This file provides a bitcode writing pass. " alt="" coords="3883,177,4030,218"/>
+<area shape="rect" id="node37" href="$ExpandReductions_8h.html" title="include/llvm/CodeGen\l/ExpandReductions.h" alt="" coords="4054,177,4205,218"/>
+<area shape="rect" id="node38" href="$CSEInfo_8h.html" title="include/llvm/CodeGen\l/GlobalISel/CSEInfo.h" alt="" coords="4229,177,4380,218"/>
+<area shape="rect" id="node39" href="$GISelKnownBits_8h.html" title="include/llvm/CodeGen\l/GlobalISel/GISelKnownBits.h" alt="" coords="4404,177,4602,218"/>
+<area shape="rect" id="node40" href="$MachineModuleInfo_8h.html" title="include/llvm/CodeGen\l/MachineModuleInfo.h" alt="" coords="4626,177,4777,218"/>
+<area shape="rect" id="node41" href="$PreISelIntrinsicLowering_8h.html" title="include/llvm/CodeGen\l/PreISelIntrinsicLowering.h" alt="" coords="4802,177,4980,218"/>
+<area shape="rect" id="node42" href="$UnreachableBlockElim_8h.html" title="include/llvm/CodeGen\l/UnreachableBlockElim.h" alt="" coords="5005,177,5174,218"/>
+<area shape="rect" id="node43" href="$Dominators_8h.html" title="include/llvm/IR/Dominators.h" alt="" coords="3668,184,3858,211"/>
+<area shape="rect" id="node44" href="$SafepointIRVerifier_8h.html" title="include/llvm/IR/Safepoint\lIRVerifier.h" alt="" coords="5250,177,5418,218"/>
+<area shape="rect" id="node45" href="$Verifier_8h.html" title="include/llvm/IR/Verifier.h" alt="" coords="5442,184,5607,211"/>
+<area shape="rect" id="node46" href="$Transforms_2AggressiveInstCombine_2AggressiveInstCombine_8h.html" title="This file provides the primary interface to the aggressive instcombine pass. " alt="" coords="5631,169,5807,225"/>
+<area shape="rect" id="node47" href="$Transforms_2InstCombine_2InstCombine_8h.html" title="This file provides the primary interface to the instcombine pass. " alt="" coords="5831,177,6020,218"/>
+<area shape="rect" id="node48" href="$AddressSanitizer_8h.html" title="include/llvm/Transforms\l/Instrumentation/AddressSanitizer.h" alt="" coords="6045,177,6276,218"/>
+<area shape="rect" id="node49" href="$BoundsChecking_8h.html" title="include/llvm/Transforms\l/Instrumentation/BoundsChecking.h" alt="" coords="6300,177,6530,218"/>
+<area shape="rect" id="node50" href="$CGProfile_8h.html" title="This file provides the interface for LLVM&#39;s Call Graph Profile pass. " alt="" coords="6554,177,6742,218"/>
+</map>

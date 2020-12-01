@@ -1,0 +1,10 @@
+<map id="include/llvm/CodeGen/LazyMachineBlockFrequencyInfo.h" name="include/llvm/CodeGen/LazyMachineBlockFrequencyInfo.h">
+<area shape="rect" id="node2" href="$AsmPrinter_8cpp.html" title="lib/CodeGen/AsmPrinter\l/AsmPrinter.cpp" alt="" coords="5,95,168,136"/>
+<area shape="rect" id="node3" href="$LazyMachineBlockFrequencyInfo_8cpp.html" title="===&#45; LazyMachineBlockFrequencyInfo.cpp &#45; Lazy Machine Block Frequency –===// " alt="" coords="192,95,400,136"/>
+<area shape="rect" id="node4" href="$MachineCombiner_8cpp.html" title="lib/CodeGen/MachineCombiner.cpp" alt="" coords="425,102,653,129"/>
+<area shape="rect" id="node5" href="$MachineOptimizationRemarkEmitter_8cpp.html" title="===&#45; MachineOptimizationRemarkEmitter.cpp &#45; Opt Diagnostic &#45;*&#45; C++ &#45;*—===// " alt="" coords="677,95,897,136"/>
+<area shape="rect" id="node6" href="$TailDuplication_8cpp.html" title="lib/CodeGen/TailDuplication.cpp" alt="" coords="921,102,1130,129"/>
+<area shape="rect" id="node7" href="$X86FixupBWInsts_8cpp.html" title="This file defines the pass that looks through the machine instructions late in the compilation..." alt="" coords="1154,102,1393,129"/>
+<area shape="rect" id="node8" href="$X86OptimizeLEAs_8cpp.html" title="lib/Target/X86/X86Optimize\lLEAs.cpp" alt="" coords="1417,95,1599,136"/>
+<area shape="rect" id="node9" href="$X86PadShortFunction_8cpp.html" title="lib/Target/X86/X86PadShort\lFunction.cpp" alt="" coords="1624,95,1808,136"/>
+</map>

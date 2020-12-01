@@ -1,0 +1,5 @@
+<map id="llvm::CrashRecoveryContextDeleteCleanup&lt; T &gt;" name="llvm::CrashRecoveryContextDeleteCleanup&lt; T &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1CrashRecoveryContextCleanupBase.html" title="llvm::CrashRecoveryContext\lCleanupBase\&lt; CrashRecoveryContext\lDeleteCleanup\&lt; T \&gt;, T \&gt;" alt="" coords="676,5,925,61"/>
+<area shape="rect" id="node3" href="$classllvm_1_1CrashRecoveryContextCleanup.html" title="Abstract base class of cleanup handlers. " alt="" coords="5,15,196,57"/>
+<area shape="rect" id="node4" href="$classllvm_1_1CrashRecoveryContextCleanupBase.html" title="Base class of cleanup handler that controls recovery of resources of the given type. " alt="" coords="245,45,436,86"/>
+</map>

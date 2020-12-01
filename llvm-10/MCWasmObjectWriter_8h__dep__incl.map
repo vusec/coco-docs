@@ -1,0 +1,7 @@
+<map id="include/llvm/MC/MCWasmObjectWriter.h" name="include/llvm/MC/MCWasmObjectWriter.h">
+<area shape="rect" id="node2" href="$MCAsmBackend_8cpp.html" title="lib/MC/MCAsmBackend.cpp" alt="" coords="5,109,193,136"/>
+<area shape="rect" id="node3" href="$MCWasmObjectTargetWriter_8cpp.html" title="lib/MC/MCWasmObjectTarget\lWriter.cpp" alt="" coords="217,102,416,143"/>
+<area shape="rect" id="node4" href="$WasmObjectWriter_8cpp.html" title="lib/MC/WasmObjectWriter.cpp" alt="" coords="439,109,639,136"/>
+<area shape="rect" id="node5" href="$WebAssemblyAsmBackend_8cpp.html" title="This file implements the WebAssemblyAsmBackend class. " alt="" coords="664,95,895,151"/>
+<area shape="rect" id="node6" href="$WebAssemblyWasmObjectWriter_8cpp.html" title="This file handles Wasm&#45;specific object emission, converting LLVM&#39;s internal fixups into the appropria..." alt="" coords="919,95,1162,151"/>
+</map>

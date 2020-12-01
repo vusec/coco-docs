@@ -1,0 +1,5 @@
+<map id="llvm::GISelChangeObserver" name="llvm::GISelChangeObserver">
+<area shape="rect" id="node2" href="$classllvm_1_1GISelCSEInfo.html" title="The CSE Analysis object. " alt="" coords="5,80,143,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1GISelKnownBits.html" title="llvm::GISelKnownBits" alt="" coords="167,80,317,107"/>
+<area shape="rect" id="node4" href="$classllvm_1_1GISelObserverWrapper.html" title="Simple wrapper observer that takes several observers, and calls each one for each event..." alt="" coords="342,80,531,107"/>
+</map>

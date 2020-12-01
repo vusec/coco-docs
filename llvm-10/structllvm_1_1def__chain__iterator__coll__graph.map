@@ -1,0 +1,4 @@
+<map id="llvm::def_chain_iterator&lt; T, UseOptimizedChain &gt;" name="llvm::def_chain_iterator&lt; T, UseOptimizedChain &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; def_chain_iterator\l\&lt; T, UseOptimizedChain \&gt;\l, std::forward_iterator_tag,\l MemoryAccess *\&gt;" alt="" coords="684,57,863,143"/>
+<area shape="rect" id="node4" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="267,115,491,186"/>
+</map>

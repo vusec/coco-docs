@@ -1,0 +1,33 @@
+<map id="include/llvm/CodeGen/MIRParser/MIParser.h" name="include/llvm/CodeGen/MIRParser/MIParser.h">
+<area shape="rect" id="node2" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1327,177,1481,203"/>
+<area shape="rect" id="node42" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="3525,259,3675,285"/>
+<area shape="rect" id="node43" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="3170,341,3331,367"/>
+<area shape="rect" id="node45" href="$MachineMemOperand_8h.html" title="llvm/CodeGen/MachineMemOperand.h" alt="" coords="3287,95,3534,121"/>
+<area shape="rect" id="node3" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="3306,259,3483,285"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1468,647,1631,673"/>
+<area shape="rect" id="node15" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2315,572,2485,599"/>
+<area shape="rect" id="node23" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="541,497,694,524"/>
+<area shape="rect" id="node24" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="2763,497,2941,524"/>
+<area shape="rect" id="node40" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="1024,423,1197,449"/>
+<area shape="rect" id="node41" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="1301,259,1507,285"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2653,341,2797,367"/>
+<area shape="rect" id="node5" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="2021,497,2161,524"/>
+<area shape="rect" id="node36" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3527,341,3673,367"/>
+<area shape="rect" id="node37" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="1427,333,1591,375"/>
+<area shape="rect" id="node39" href="$TypeSize_8h.html" title="llvm/Support/TypeSize.h" alt="" coords="4293,341,4459,367"/>
+<area shape="rect" id="node20" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2373,423,2536,449"/>
+<area shape="rect" id="node31" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3767,423,3921,449"/>
+<area shape="rect" id="node6" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="957,647,1131,673"/>
+<area shape="rect" id="node7" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1587,572,1776,599"/>
+<area shape="rect" id="node12" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1901,572,2104,599"/>
+<area shape="rect" id="node21" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="5155,572,5325,599"/>
+<area shape="rect" id="node27" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="1676,497,1844,524"/>
+<area shape="rect" id="node32" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3422,497,3562,524"/>
+<area shape="rect" id="node33" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="4787,497,4919,524"/>
+<area shape="rect" id="node44" href="$Alignment_8h.html" title="llvm/Support/Alignment.h" alt="" coords="3516,423,3684,449"/>
+<area shape="rect" id="node46" href="$BitmaskEnum_8h.html" title="llvm/ADT/BitmaskEnum.h" alt="" coords="4737,423,4911,449"/>
+<area shape="rect" id="node47" href="$PointerUnion_8h.html" title="llvm/ADT/PointerUnion.h" alt="" coords="3311,177,3478,203"/>
+<area shape="rect" id="node48" href="$PseudoSourceValue_8h.html" title="llvm/CodeGen/PseudoSource\lValue.h" alt="" coords="3503,169,3697,211"/>
+<area shape="rect" id="node49" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="4691,341,4803,367"/>
+<area shape="rect" id="node50" href="$AtomicOrdering_8h.html" title="Atomic ordering constants. " alt="" coords="5,259,205,285"/>
+</map>

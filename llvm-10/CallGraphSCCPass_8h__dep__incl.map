@@ -1,0 +1,51 @@
+<map id="include/llvm/Analysis/CallGraphSCCPass.h" name="include/llvm/Analysis/CallGraphSCCPass.h">
+<area shape="rect" id="node2" href="$InlineCost_8h.html" title="include/llvm/Analysis\l/InlineCost.h" alt="" coords="1166,95,1311,136"/>
+<area shape="rect" id="node3" href="$Inliner_8h.html" title="include/llvm/Transforms\l/IPO/Inliner.h" alt="" coords="637,184,798,225"/>
+<area shape="rect" id="node18" href="$CoroSplit_8cpp.html" title="lib/Transforms/Coroutines\l/CoroSplit.cpp" alt="" coords="5679,273,5851,315"/>
+<area shape="rect" id="node23" href="$SampleProfile_8cpp.html" title="lib/Transforms/IPO\l/SampleProfile.cpp" alt="" coords="5875,273,6007,315"/>
+<area shape="rect" id="node39" href="$CallGraphSCCPass_8cpp.html" title="lib/Analysis/CallGraphSCCPass.cpp" alt="" coords="4972,102,5207,129"/>
+<area shape="rect" id="node40" href="$TargetPassConfig_8cpp.html" title="lib/CodeGen/TargetPassConfig.cpp" alt="" coords="5231,102,5459,129"/>
+<area shape="rect" id="node41" href="$StandardInstrumentations_8cpp.html" title="This file defines IR&#45;printing pass instrumentation callbacks as well as StandardInstrumentations clas..." alt="" coords="5484,102,5745,129"/>
+<area shape="rect" id="node42" href="$AMDGPUAnnotateKernelFeatures_8cpp.html" title="lib/Target/AMDGPU/AMDGPUAnnotate\lKernelFeatures.cpp" alt="" coords="5770,95,6025,136"/>
+<area shape="rect" id="node43" href="$AMDGPUPerfHintAnalysis_8h.html" title="Analyzes if a function potentially memory bound and if a kernel kernel may benefit from limiting numb..." alt="" coords="6049,95,6276,136"/>
+<area shape="rect" id="node47" href="$Coroutines_8cpp.html" title="lib/Transforms/Coroutines\l/Coroutines.cpp" alt="" coords="6301,95,6473,136"/>
+<area shape="rect" id="node48" href="$ArgumentPromotion_8cpp.html" title="lib/Transforms/IPO\l/ArgumentPromotion.cpp" alt="" coords="6497,95,6663,136"/>
+<area shape="rect" id="node49" href="$FunctionAttrs_8cpp.html" title="This file implements interprocedural passes which walk the call&#45;graph deducing and/or propagating fun..." alt="" coords="6687,95,6819,136"/>
+<area shape="rect" id="node50" href="$PruneEH_8cpp.html" title="lib/Transforms/IPO\l/PruneEH.cpp" alt="" coords="6843,95,6975,136"/>
+<area shape="rect" id="node5" href="$AMDGPUInline_8cpp.html" title="This is AMDGPU specific replacement of the standard inliner. " alt="" coords="5,281,264,307"/>
+<area shape="rect" id="node6" href="$AlwaysInliner_8cpp.html" title="lib/Transforms/IPO\l/AlwaysInliner.cpp" alt="" coords="651,273,783,315"/>
+<area shape="rect" id="node7" href="$Inliner_8cpp.html" title="lib/Transforms/IPO\l/Inliner.cpp" alt="" coords="807,273,939,315"/>
+<area shape="rect" id="node8" href="$InlineSimple_8cpp.html" title="lib/Transforms/IPO\l/InlineSimple.cpp" alt="" coords="495,273,627,315"/>
+<area shape="rect" id="node9" href="$Cloning_8h.html" title="include/llvm/Transforms\l/Utils/Cloning.h" alt="" coords="3042,184,3203,225"/>
+<area shape="rect" id="node10" href="$SafeStack_8cpp.html" title="lib/CodeGen/SafeStack.cpp" alt="" coords="964,281,1148,307"/>
+<area shape="rect" id="node22" href="$PartialInlining_8cpp.html" title="lib/Transforms/IPO\l/PartialInlining.cpp" alt="" coords="1173,273,1305,315"/>
+<area shape="rect" id="node36" href="$InlineCost_8cpp.html" title="lib/Analysis/InlineCost.cpp" alt="" coords="3279,191,3457,218"/>
+<area shape="rect" id="node37" href="$PassManagerBuilder_8cpp.html" title="lib/Transforms/IPO\l/PassManagerBuilder.cpp" alt="" coords="3481,184,3652,225"/>
+<area shape="rect" id="node38" href="$TailRecursionElimination_8cpp.html" title="lib/Transforms/Scalar\l/TailRecursionElimination.cpp" alt="" coords="3676,184,3871,225"/>
+<area shape="rect" id="node4" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="289,281,471,307"/>
+<area shape="rect" id="node11" href="$WinEHPrepare_8cpp.html" title="lib/CodeGen/WinEHPrepare.cpp" alt="" coords="1329,281,1540,307"/>
+<area shape="rect" id="node12" href="$IndirectionUtils_8cpp.html" title="lib/ExecutionEngine\l/Orc/IndirectionUtils.cpp" alt="" coords="1564,273,1727,315"/>
+<area shape="rect" id="node13" href="$ThreadSafeModule_8cpp.html" title="lib/ExecutionEngine\l/Orc/ThreadSafeModule.cpp" alt="" coords="1751,273,1937,315"/>
+<area shape="rect" id="node14" href="$IRMover_8cpp.html" title="lib/Linker/IRMover.cpp" alt="" coords="1961,281,2114,307"/>
+<area shape="rect" id="node15" href="$AMDGPUAlwaysInlinePass_8cpp.html" title="This pass marks all internal functions as always_inline and creates duplicates of all other functions..." alt="" coords="2139,273,2384,315"/>
+<area shape="rect" id="node16" href="$AMDGPUPropagateAttributes_8cpp.html" title="This pass propagates attributes from kernels to the non&#45;entry functions. " alt="" coords="2408,273,2669,315"/>
+<area shape="rect" id="node17" href="$R600OpenCLImageTypeLoweringPass_8cpp.html" title="This pass resolves calls to OpenCL image attribute, image resource ID and sampler resource ID getter ..." alt="" coords="2693,273,2904,315"/>
+<area shape="rect" id="node19" href="$ControlHeightReduction_8cpp.html" title="lib/Transforms/Instrumentation\l/ControlHeightReduction.cpp" alt="" coords="2927,273,3126,315"/>
+<area shape="rect" id="node20" href="$FunctionImport_8cpp.html" title="lib/Transforms/IPO\l/FunctionImport.cpp" alt="" coords="3151,273,3289,315"/>
+<area shape="rect" id="node21" href="$HotColdSplitting_8cpp.html" title="The goal of hot/cold splitting is to improve the memory locality of code. " alt="" coords="3313,273,3460,315"/>
+<area shape="rect" id="node24" href="$ThinLTOBitcodeWriter_8cpp.html" title="lib/Transforms/IPO\l/ThinLTOBitcodeWriter.cpp" alt="" coords="3485,273,3665,315"/>
+<area shape="rect" id="node25" href="$CallSiteSplitting_8cpp.html" title="lib/Transforms/Scalar\l/CallSiteSplitting.cpp" alt="" coords="3689,273,3836,315"/>
+<area shape="rect" id="node26" href="$InductiveRangeCheckElimination_8cpp.html" title="lib/Transforms/Scalar\l/InductiveRangeCheckElimination.cpp" alt="" coords="3861,273,4105,315"/>
+<area shape="rect" id="node27" href="$JumpThreading_8cpp.html" title="lib/Transforms/Scalar\l/JumpThreading.cpp" alt="" coords="4129,273,4276,315"/>
+<area shape="rect" id="node28" href="$LoopDistribute_8cpp.html" title="lib/Transforms/Scalar\l/LoopDistribute.cpp" alt="" coords="4300,273,4447,315"/>
+<area shape="rect" id="node29" href="$LoopUnswitch_8cpp.html" title="lib/Transforms/Scalar\l/LoopUnswitch.cpp" alt="" coords="4471,273,4617,315"/>
+<area shape="rect" id="node30" href="$PlaceSafepoints_8cpp.html" title="lib/Transforms/Scalar\l/PlaceSafepoints.cpp" alt="" coords="4641,273,4788,315"/>
+<area shape="rect" id="node31" href="$SimpleLoopUnswitch_8cpp.html" title="lib/Transforms/Scalar\l/SimpleLoopUnswitch.cpp" alt="" coords="4813,273,4987,315"/>
+<area shape="rect" id="node32" href="$BreakCriticalEdges_8cpp.html" title="lib/Transforms/Utils\l/BreakCriticalEdges.cpp" alt="" coords="5012,273,5175,315"/>
+<area shape="rect" id="node33" href="$CloneFunction_8cpp.html" title="lib/Transforms/Utils\l/CloneFunction.cpp" alt="" coords="5199,273,5335,315"/>
+<area shape="rect" id="node34" href="$CloneModule_8cpp.html" title="lib/Transforms/Utils\l/CloneModule.cpp" alt="" coords="5359,273,5495,315"/>
+<area shape="rect" id="node35" href="$InlineFunction_8cpp.html" title="lib/Transforms/Utils\l/InlineFunction.cpp" alt="" coords="5519,273,5655,315"/>
+<area shape="rect" id="node44" href="$AMDGPUISelDAGToDAG_8cpp.html" title="Defines an instruction selector for the AMDGPU target. " alt="" coords="5787,184,6013,225"/>
+<area shape="rect" id="node45" href="$AMDGPUMachineFunction_8cpp.html" title="lib/Target/AMDGPU/AMDGPUMachine\lFunction.cpp" alt="" coords="6037,184,6288,225"/>
+<area shape="rect" id="node46" href="$AMDGPUPerfHintAnalysis_8cpp.html" title="Analyzes if a function potentially memory bound and if a kernel kernel may benefit from limiting numb..." alt="" coords="6312,184,6539,225"/>
+</map>

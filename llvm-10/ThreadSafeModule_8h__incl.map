@@ -1,0 +1,31 @@
+<map id="include/llvm/ExecutionEngine/Orc/ThreadSafeModule.h" name="include/llvm/ExecutionEngine/Orc/ThreadSafeModule.h">
+<area shape="rect" id="node2" href="$LLVMContext_8h.html" title="llvm/IR/LLVMContext.h" alt="" coords="715,244,874,271"/>
+<area shape="rect" id="node11" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1176,692,1339,719"/>
+<area shape="rect" id="node36" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="2319,95,2441,121"/>
+<area shape="rect" id="node3" href="$c_2Types_8h.html" title="llvm&#45;c/Types.h" alt="" coords="366,393,474,420"/>
+<area shape="rect" id="node6" href="$DiagnosticHandler_8h.html" title="llvm/IR/DiagnosticHandler.h" alt="" coords="2485,319,2672,345"/>
+<area shape="rect" id="node33" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="832,319,1051,345"/>
+<area shape="rect" id="node4" href="$c_2DataTypes_8h.html" title="llvm&#45;c/DataTypes.h" alt="" coords="389,468,525,495"/>
+<area shape="rect" id="node5" href="$ExternC_8h.html" title="llvm&#45;c/ExternC.h" alt="" coords="245,468,365,495"/>
+<area shape="rect" id="node7" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2732,393,2879,420"/>
+<area shape="rect" id="node8" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1936,468,2091,495"/>
+<area shape="rect" id="node20" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3489,617,3660,644"/>
+<area shape="rect" id="node9" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="1523,543,1663,569"/>
+<area shape="rect" id="node19" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="3137,543,3269,569"/>
+<area shape="rect" id="node25" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1005,543,1195,569"/>
+<area shape="rect" id="node10" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="1515,617,1637,644"/>
+<area shape="rect" id="node14" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1320,617,1491,644"/>
+<area shape="rect" id="node34" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="1099,393,1253,420"/>
+<area shape="rect" id="node37" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="3145,319,3295,345"/>
+<area shape="rect" id="node38" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="2326,319,2461,345"/>
+<area shape="rect" id="node39" href="$IR_2Comdat_8h.html" title="This file contains the declaration of the Comdat class, which represents a single COMDAT in LLVM..." alt="" coords="245,244,371,271"/>
+<area shape="rect" id="node40" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="1563,319,1709,345"/>
+<area shape="rect" id="node41" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="2379,244,2509,271"/>
+<area shape="rect" id="node42" href="$SymbolTableListTraits_8h.html" title="llvm/IR/SymbolTableListTraits.h" alt="" coords="4009,319,4218,345"/>
+<area shape="rect" id="node43" href="$GlobalAlias_8h.html" title="llvm/IR/GlobalAlias.h" alt="" coords="2623,169,2769,196"/>
+<area shape="rect" id="node44" href="$GlobalIFunc_8h.html" title="llvm/IR/GlobalIFunc.h" alt="" coords="2793,169,2943,196"/>
+<area shape="rect" id="node45" href="$GlobalVariable_8h.html" title="llvm/IR/GlobalVariable.h" alt="" coords="2899,244,3061,271"/>
+<area shape="rect" id="node46" href="$Metadata_8h.html" title="This file contains the declarations for metadata subclasses. " alt="" coords="1731,169,1864,196"/>
+<area shape="rect" id="node47" href="$ProfileSummary_8h.html" title="llvm/IR/ProfileSummary.h" alt="" coords="3705,169,3877,196"/>
+<area shape="rect" id="node49" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="3952,169,4117,196"/>
+</map>

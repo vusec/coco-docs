@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1InstructionPrecedenceTracking.html" title="llvm::InstructionPrecedence\lTracking" alt="" coords="5,35,189,76"/>
+<area shape="rect" id="node2" href="$classllvm_1_1ImplicitControlFlowTracking.html" title="This class allows to keep track on instructions with implicit control flow. " alt="" coords="245,5,412,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MemoryWriteTracking.html" title="llvm::MemoryWriteTracking" alt="" coords="237,71,420,98"/>
+</map>

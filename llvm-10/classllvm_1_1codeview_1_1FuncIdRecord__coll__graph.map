@@ -1,0 +1,7 @@
+<map id="llvm::codeview::FuncIdRecord" name="llvm::codeview::FuncIdRecord">
+<area shape="rect" id="node2" href="$classllvm_1_1codeview_1_1TypeRecord.html" title="llvm::codeview::TypeRecord" alt="" coords="5,139,193,165"/>
+<area shape="rect" id="node4" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e. " alt="" coords="218,139,327,165"/>
+<area shape="rect" id="node5" href="$classsize__t.html" title="size_t" alt="" coords="244,5,301,32"/>
+<area shape="rect" id="node6" href="$classllvm_1_1codeview_1_1TypeIndex.html" title="A 32&#45;bit type reference. " alt="" coords="351,139,530,165"/>
+<area shape="rect" id="node7" href="$classuint32__t.html" title="uint32_t" alt="" coords="407,5,475,32"/>
+</map>

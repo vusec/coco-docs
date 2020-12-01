@@ -1,0 +1,12 @@
+<map id="llvm::MinidumpYAML::SystemInfoStream" name="llvm::MinidumpYAML::SystemInfoStream">
+<area shape="rect" id="node2" href="$structllvm_1_1MinidumpYAML_1_1Stream.html" title="The base class for all minidump streams. " alt="" coords="1181,49,1327,90"/>
+<area shape="rect" id="node5" href="$structllvm_1_1minidump_1_1SystemInfo.html" title="The SystemInfo stream, containing various information about the system where this minidump was genera..." alt="" coords="1161,335,1347,361"/>
+<area shape="rect" id="node7" href="$unionllvm_1_1minidump_1_1CPUInfo.html" title="Detailed information about the processor of the system that generated this minidump. " alt="" coords="806,389,975,416"/>
+<area shape="rect" id="node8" href="$structllvm_1_1minidump_1_1CPUInfo_1_1OtherInfo.html" title="llvm::minidump::CPUInfo\l::OtherInfo" alt="" coords="390,251,559,293"/>
+<area shape="rect" id="node10" href="$structllvm_1_1minidump_1_1CPUInfo_1_1ArmInfo.html" title="llvm::minidump::CPUInfo\l::ArmInfo" alt="" coords="390,385,559,426"/>
+<area shape="rect" id="node12" href="$structllvm_1_1minidump_1_1CPUInfo_1_1X86Info.html" title="llvm::minidump::CPUInfo\l::X86Info" alt="" coords="390,450,559,491"/>
+<area shape="rect" id="node13" href="$classchar.html" title="char" alt="" coords="75,571,121,597"/>
+<area shape="rect" id="node14" href="$structllvm_1_1support_1_1detail_1_1packed__endian__specific__integral.html" title="llvm::support::detail\l::packed_endian_specific\l_integral\&lt; ProcessorArchitecture \&gt;" alt="" coords="779,608,1003,664"/>
+<area shape="rect" id="node17" href="$structllvm_1_1support_1_1detail_1_1packed__endian__specific__integral.html" title="llvm::support::detail\l::packed_endian_specific\l_integral\&lt; ValueType, Endian,\l Alignment, ALIGN \&gt;" alt="" coords="376,657,573,727"/>
+<area shape="rect" id="node18" href="$structllvm_1_1support_1_1detail_1_1packed__endian__specific__integral.html" title="llvm::support::detail\l::packed_endian_specific\l_integral\&lt; OSPlatform \&gt;" alt="" coords="806,688,975,744"/>
+</map>

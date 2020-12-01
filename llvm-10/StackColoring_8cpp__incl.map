@@ -1,0 +1,41 @@
+<map id="lib/CodeGen/StackColoring.cpp" name="lib/CodeGen/StackColoring.cpp">
+<area shape="rect" id="node2" href="$BitVector_8h.html" title="llvm/ADT/BitVector.h" alt="" coords="1512,707,1659,733"/>
+<area shape="rect" id="node4" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2411,871,2573,897"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="5604,1020,5767,1047"/>
+<area shape="rect" id="node18" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2088,632,2243,659"/>
+<area shape="rect" id="node21" href="$DepthFirstIterator_8h.html" title="llvm/ADT/DepthFirstIterator.h" alt="" coords="347,557,541,584"/>
+<area shape="rect" id="node22" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="2449,632,2612,659"/>
+<area shape="rect" id="node23" href="$Statistic_8h.html" title="llvm/ADT/Statistic.h" alt="" coords="6054,871,6194,897"/>
+<area shape="rect" id="node24" href="$ValueTracking_8h.html" title="llvm/Analysis/ValueTracking.h" alt="" coords="4471,632,4670,659"/>
+<area shape="rect" id="node25" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="4776,707,4915,733"/>
+<area shape="rect" id="node26" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="5232,789,5344,815"/>
+<area shape="rect" id="node27" href="$Use_8h.html" title="This defines the Use class. " alt="" coords="5774,871,5877,897"/>
+<area shape="rect" id="node28" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="5003,871,5157,897"/>
+<area shape="rect" id="node29" href="$LiveInterval_8h.html" title="llvm/CodeGen/LiveInterval.h" alt="" coords="851,80,1037,107"/>
+<area shape="rect" id="node30" href="$SlotIndexes_8h.html" title="llvm/CodeGen/SlotIndexes.h" alt="" coords="2691,155,2880,181"/>
+<area shape="rect" id="node31" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="2891,393,3082,435"/>
+<area shape="rect" id="node32" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="2711,483,2905,509"/>
+<area shape="rect" id="node33" href="$MachineMemOperand_8h.html" title="llvm/CodeGen/MachineMemOperand.h" alt="" coords="4477,557,4723,584"/>
+<area shape="rect" id="node34" href="$MachineOperand_8h.html" title="llvm/CodeGen/MachineOperand.h" alt="" coords="2845,557,3064,584"/>
+<area shape="rect" id="node35" href="$TargetOpcodes_8h.html" title="llvm/CodeGen/TargetOpcodes.h" alt="" coords="2510,557,2719,584"/>
+<area shape="rect" id="node36" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="3272,319,3491,345"/>
+<area shape="rect" id="node37" href="$MachineFunctionPass_8h.html" title="llvm/CodeGen/MachineFunction\lPass.h" alt="" coords="3277,229,3485,271"/>
+<area shape="rect" id="node38" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="3157,319,3248,345"/>
+<area shape="rect" id="node39" href="$MachineFrameInfo_8h.html" title="llvm/CodeGen/MachineFrame\lInfo.h" alt="" coords="4043,781,4237,823"/>
+<area shape="rect" id="node40" href="$CodeGen_2Passes_8h.html" title="llvm/CodeGen/Passes.h" alt="" coords="6203,80,6367,107"/>
+<area shape="rect" id="node41" href="$SelectionDAGNodes_8h.html" title="llvm/CodeGen/SelectionDAGNodes.h" alt="" coords="3342,483,3583,509"/>
+<area shape="rect" id="node42" href="$Instructions_8h.html" title="llvm/IR/Instructions.h" alt="" coords="4795,632,4941,659"/>
+<area shape="rect" id="node43" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="5395,707,5525,733"/>
+<area shape="rect" id="node44" href="$Metadata_8h.html" title="This file contains the declarations for metadata subclasses. " alt="" coords="3712,557,3845,584"/>
+<area shape="rect" id="node45" href="$WinEHFuncInfo_8h.html" title="llvm/CodeGen/WinEHFuncInfo.h" alt="" coords="1749,557,1963,584"/>
+<area shape="rect" id="node46" href="$DebugInfoMetadata_8h.html" title="llvm/IR/DebugInfoMetadata.h" alt="" coords="3970,483,4163,509"/>
+<area shape="rect" id="node47" href="$InitializePasses_8h.html" title="llvm/InitializePasses.h" alt="" coords="6391,80,6545,107"/>
+<area shape="rect" id="node48" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="2240,557,2435,584"/>
+<area shape="rect" id="node49" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2190,707,2375,733"/>
+<area shape="rect" id="node50" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="6569,80,6717,107"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="4312,789,4456,815"/>
+<area shape="rect" id="node5" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="859,945,1029,972"/>
+<area shape="rect" id="node9" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1879,945,2057,972"/>
+<area shape="rect" id="node19" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="3358,707,3535,733"/>
+<area shape="rect" id="node20" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="2501,707,2675,733"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="llvm::OuterAnalysisManagerProxy&lt; AnalysisManagerT, IRUnitT, ExtraArgTs &gt;" name="llvm::OuterAnalysisManagerProxy&lt; AnalysisManagerT, IRUnitT, ExtraArgTs &gt;">
+<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title="llvm::AnalysisInfoMixin\l\&lt; OuterAnalysisManagerProxy\l\&lt; AnalysisManagerT, IRUnitT,\l ExtraArgTs... \&gt; \&gt;" alt="" coords="804,44,1004,115"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; OuterAnalysisManagerProxy\l\&lt; AnalysisManagerT, IRUnitT,\l ExtraArgTs... \&gt; \&gt;" alt="" coords="373,5,573,76"/>
+<area shape="rect" id="node4" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes. " alt="" coords="5,61,143,103"/>
+<area shape="rect" id="node5" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes. " alt="" coords="395,100,552,141"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="llvm::SEHHandler" name="llvm::SEHHandler">
+<area shape="rect" id="node2" href="$classllvm_1_1BlockAddress.html" title="The address of a basic block. " alt="" coords="1441,404,1576,431"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Constant.html" title="This is an important base class in LLVM. " alt="" coords="1045,404,1151,431"/>
+<area shape="rect" id="node9" href="$classllvm_1_1GlobalValue.html" title="llvm::GlobalValue" alt="" coords="1289,540,1413,567"/>
+<area shape="rect" id="node4" href="$classllvm_1_1User.html" title="llvm::User" alt="" coords="630,327,713,353"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="313,385,399,412"/>
+<area shape="rect" id="node6" href="$classunsigned.html" title="unsigned" alt="" coords="5,477,80,504"/>
+<area shape="rect" id="node8" href="$classllvm_1_1GlobalObject.html" title="llvm::GlobalObject" alt="" coords="1627,327,1756,353"/>
+<area shape="rect" id="node10" href="$classllvm_1_1Type.html" title="The instances of the Type class are immutable: once they are created, they are never changed..." alt="" coords="469,612,552,639"/>
+<area shape="rect" id="node7" href="$classllvm_1_1Function.html" title="llvm::Function" alt="" coords="1903,327,2007,353"/>
+<area shape="rect" id="node11" href="$classllvm_1_1Module.html" title="A Module instance is used to store all the information related to an LLVM module. ..." alt="" coords="1050,652,1146,679"/>
+<area shape="rect" id="node12" href="$classllvm_1_1Comdat.html" title="llvm::Comdat" alt="" coords="1301,327,1401,353"/>
+<area shape="rect" id="node13" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Function \&gt;" alt="" coords="1600,191,1783,217"/>
+<area shape="rect" id="node14" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; Function,\l Options... \&gt;::type \&gt;" alt="" coords="1012,169,1184,239"/>
+<area shape="rect" id="node16" href="$classllvm_1_1ilist__node__impl.html" title="Implementation for an ilist node. " alt="" coords="601,101,741,142"/>
+<area shape="rect" id="node19" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; T, Options...\l \&gt;::type \&gt;" alt="" coords="1003,62,1193,133"/>
+<area shape="rect" id="node18" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; T,\l Options \&gt;" alt="" coords="1284,101,1417,142"/>
+</map>

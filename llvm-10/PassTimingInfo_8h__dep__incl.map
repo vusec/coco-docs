@@ -1,0 +1,12 @@
+<map id="include/llvm/IR/PassTimingInfo.h" name="include/llvm/IR/PassTimingInfo.h">
+<area shape="rect" id="node2" href="$StandardInstrumentations_8h.html" title="This header defines a class that provides bookkeeping for all standard (i.e in&#45;tree) pass instrumenta..." alt="" coords="117,95,303,136"/>
+<area shape="rect" id="node5" href="$CallGraphSCCPass_8cpp.html" title="lib/Analysis/CallGraphSCCPass.cpp" alt="" coords="327,102,562,129"/>
+<area shape="rect" id="node6" href="$LoopPass_8cpp.html" title="lib/Analysis/LoopPass.cpp" alt="" coords="586,102,762,129"/>
+<area shape="rect" id="node7" href="$RegionPass_8cpp.html" title="lib/Analysis/RegionPass.cpp" alt="" coords="786,102,975,129"/>
+<area shape="rect" id="node8" href="$LegacyPassManager_8cpp.html" title="lib/IR/LegacyPassManager.cpp" alt="" coords="1000,102,1204,129"/>
+<area shape="rect" id="node9" href="$PassTimingInfo_8cpp.html" title="lib/IR/PassTimingInfo.cpp" alt="" coords="1229,102,1402,129"/>
+<area shape="rect" id="node10" href="$LTOCodeGenerator_8cpp.html" title="lib/LTO/LTOCodeGenerator.cpp" alt="" coords="1427,102,1633,129"/>
+<area shape="rect" id="node11" href="$ThinLTOCodeGenerator_8cpp.html" title="lib/LTO/ThinLTOCodeGenerator.cpp" alt="" coords="1657,102,1888,129"/>
+<area shape="rect" id="node3" href="$LTOBackend_8cpp.html" title="lib/LTO/LTOBackend.cpp" alt="" coords="5,184,175,211"/>
+<area shape="rect" id="node4" href="$StandardInstrumentations_8cpp.html" title="This file defines IR&#45;printing pass instrumentation callbacks as well as StandardInstrumentations clas..." alt="" coords="199,184,461,211"/>
+</map>

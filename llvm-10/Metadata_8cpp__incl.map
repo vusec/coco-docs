@@ -1,0 +1,41 @@
+<map id="lib/IR/Metadata.cpp" name="lib/IR/Metadata.cpp">
+<area shape="rect" id="node2" href="$LLVMContextImpl_8h.html" title="LLVMContextImpl.h" alt="" coords="4573,155,4712,181"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="4259,603,4403,629"/>
+<area shape="rect" id="node5" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="3425,677,3548,704"/>
+<area shape="rect" id="node6" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="4124,677,4287,704"/>
+<area shape="rect" id="node7" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3934,752,4111,779"/>
+<area shape="rect" id="node11" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1209,827,1399,853"/>
+<area shape="rect" id="node15" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="5099,752,5253,779"/>
+<area shape="rect" id="node19" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="4891,677,5037,704"/>
+<area shape="rect" id="node21" href="$DenseSet_8h.html" title="llvm/ADT/DenseSet.h" alt="" coords="7046,603,7197,629"/>
+<area shape="rect" id="node22" href="$Constant_8h.html" title="llvm/IR/Constant.h" alt="" coords="2582,603,2714,629"/>
+<area shape="rect" id="node23" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="2848,677,2960,704"/>
+<area shape="rect" id="node24" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="2315,752,2469,779"/>
+<area shape="rect" id="node25" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="2632,453,2771,480"/>
+<area shape="rect" id="node26" href="$APFloat_8h.html" title="This file declares a class to represent arbitrary precision floating point values and provide a varie..." alt="" coords="1816,528,1955,555"/>
+<area shape="rect" id="node27" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="2027,603,2152,629"/>
+<area shape="rect" id="node28" href="$IR_2Instruction_8h.html" title="llvm/IR/Instruction.h" alt="" coords="3125,304,3265,331"/>
+<area shape="rect" id="node29" href="$DebugLoc_8h.html" title="llvm/IR/DebugLoc.h" alt="" coords="3589,379,3728,405"/>
+<area shape="rect" id="node30" href="$TrackingMDRef_8h.html" title="llvm/IR/TrackingMDRef.h" alt="" coords="3608,453,3779,480"/>
+<area shape="rect" id="node31" href="$Metadata_8h.html" title="This file contains the declarations for metadata subclasses. " alt="" coords="3899,528,4032,555"/>
+<area shape="rect" id="node32" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="5214,603,5365,629"/>
+<area shape="rect" id="node33" href="$LLVMContext_8h.html" title="llvm/IR/LLVMContext.h" alt="" coords="195,603,354,629"/>
+<area shape="rect" id="node35" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="6875,752,7037,779"/>
+<area shape="rect" id="node36" href="$DebugInfoMetadata_8h.html" title="llvm/IR/DebugInfoMetadata.h" alt="" coords="3955,379,4149,405"/>
+<area shape="rect" id="node37" href="$MetadataImpl_8h.html" title="MetadataImpl.h" alt="" coords="6013,453,6125,480"/>
+<area shape="rect" id="node38" href="$SymbolTableListTraitsImpl_8h.html" title="SymbolTableListTraitsImpl.h" alt="" coords="7931,80,8119,107"/>
+<area shape="rect" id="node39" href="$SetVector_8h.html" title="llvm/ADT/SetVector.h" alt="" coords="6075,528,6226,555"/>
+<area shape="rect" id="node40" href="$SmallSet_8h.html" title="llvm/ADT/SmallSet.h" alt="" coords="6369,603,6514,629"/>
+<area shape="rect" id="node41" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="987,603,1114,629"/>
+<area shape="rect" id="node42" href="$Argument_8h.html" title="llvm/IR/Argument.h" alt="" coords="2182,304,2317,331"/>
+<area shape="rect" id="node43" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="2677,229,2822,256"/>
+<area shape="rect" id="node44" href="$ConstantRange_8h.html" title="llvm/IR/ConstantRange.h" alt="" coords="1415,229,1585,256"/>
+<area shape="rect" id="node45" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="2881,155,3010,181"/>
+<area shape="rect" id="node46" href="$GlobalObject_8h.html" title="llvm/IR/GlobalObject.h" alt="" coords="4629,603,4784,629"/>
+<area shape="rect" id="node47" href="$GlobalVariable_8h.html" title="llvm/IR/GlobalVariable.h" alt="" coords="3347,528,3509,555"/>
+<area shape="rect" id="node48" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="5409,80,5530,107"/>
+<area shape="rect" id="node49" href="$Type_8h.html" title="llvm/IR/Type.h" alt="" coords="1545,453,1653,480"/>
+<area shape="rect" id="node50" href="$ValueHandle_8h.html" title="llvm/IR/ValueHandle.h" alt="" coords="1798,603,1951,629"/>
+<area shape="rect" id="node3" href="$AttributeImpl_8h.html" title="This file defines various helper methods and classes used by LLVMContextImpl for creating and managin..." alt="" coords="4907,528,5013,555"/>
+<area shape="rect" id="node20" href="$ConstantsContext_8h.html" title="ConstantsContext.h" alt="" coords="3240,229,3379,256"/>
+</map>

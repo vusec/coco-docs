@@ -1,0 +1,29 @@
+<map id="include/llvm/CodeGen/SchedulerRegistry.h" name="include/llvm/CodeGen/SchedulerRegistry.h">
+<area shape="rect" id="node2" href="$MachinePassRegistry_8h.html" title="llvm/CodeGen/MachinePass\lRegistry.h" alt="" coords="3683,95,3871,136"/>
+<area shape="rect" id="node50" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="3896,102,4061,129"/>
+<area shape="rect" id="node3" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2416,423,2562,449"/>
+<area shape="rect" id="node31" href="$CodeGen_2Passes_8h.html" title="llvm/CodeGen/Passes.h" alt="" coords="5948,497,6112,524"/>
+<area shape="rect" id="node32" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="3680,184,3874,211"/>
+<area shape="rect" id="node4" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2136,497,2290,524"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3381,721,3544,748"/>
+<area shape="rect" id="node17" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="109,647,280,673"/>
+<area shape="rect" id="node5" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="4824,572,4964,599"/>
+<area shape="rect" id="node16" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="696,572,828,599"/>
+<area shape="rect" id="node22" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="4002,647,4192,673"/>
+<area shape="rect" id="node6" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="5546,647,5669,673"/>
+<area shape="rect" id="node10" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="3725,647,3896,673"/>
+<area shape="rect" id="node33" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="4032,423,4176,449"/>
+<area shape="rect" id="node35" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3425,497,3588,524"/>
+<area shape="rect" id="node42" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="1365,497,1528,524"/>
+<area shape="rect" id="node45" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="1582,348,1732,375"/>
+<area shape="rect" id="node46" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="4108,348,4235,375"/>
+<area shape="rect" id="node47" href="$ManagedStatic_8h.html" title="llvm/Support/ManagedStatic.h" alt="" coords="682,266,880,293"/>
+<area shape="rect" id="node48" href="$VirtualFileSystem_8h.html" title="Defines the virtual file system interface vfs::FileSystem. " alt="" coords="4250,259,4408,300"/>
+<area shape="rect" id="node49" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="3328,348,3514,375"/>
+<area shape="rect" id="node34" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="3848,572,3988,599"/>
+<area shape="rect" id="node36" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2718,572,2871,599"/>
+<area shape="rect" id="node37" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3544,572,3722,599"/>
+<area shape="rect" id="node39" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="3301,572,3469,599"/>
+<area shape="rect" id="node43" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="1258,572,1432,599"/>
+<area shape="rect" id="node44" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="312,572,519,599"/>
+</map>

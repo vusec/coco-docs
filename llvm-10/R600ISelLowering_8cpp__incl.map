@@ -1,0 +1,44 @@
+<map id="lib/Target/AMDGPU/R600ISelLowering.cpp" name="lib/Target/AMDGPU/R600ISelLowering.cpp">
+<area shape="rect" id="node2" href="$R600ISelLowering_8h.html" title="R600 DAG Lowering interface definition. " alt="" coords="1971,184,2109,211"/>
+<area shape="rect" id="node6" href="$CallingConvLower_8h.html" title="llvm/CodeGen/CallingConv\lLower.h" alt="" coords="2369,333,2549,375"/>
+<area shape="rect" id="node7" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3029,609,3192,635"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="4152,765,4315,792"/>
+<area shape="rect" id="node9" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="4145,691,4322,717"/>
+<area shape="rect" id="node11" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="3708,691,3897,717"/>
+<area shape="rect" id="node14" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="1919,430,2137,457"/>
+<area shape="rect" id="node15" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="3419,519,3563,546"/>
+<area shape="rect" id="node17" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2324,609,2479,635"/>
+<area shape="rect" id="node18" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="1294,512,1485,553"/>
+<area shape="rect" id="node19" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="1139,609,1333,635"/>
+<area shape="rect" id="node20" href="$MachineMemOperand_8h.html" title="llvm/CodeGen/MachineMemOperand.h" alt="" coords="1287,691,1534,717"/>
+<area shape="rect" id="node22" href="$AMDGPUFrameLowering_8h.html" title="Interface to describe a layout of a stack frame on an AMDGPU target. " alt="" coords="676,259,857,285"/>
+<area shape="rect" id="node24" href="$AMDGPUSubtarget_8h.html" title="AMDGPU specific subclass of TargetSubtarget. " alt="" coords="1430,102,1578,129"/>
+<area shape="rect" id="node26" href="$R600FrameLowering_8h.html" title="R600FrameLowering.h" alt="" coords="729,184,882,211"/>
+<area shape="rect" id="node27" href="$R600InstrInfo_8h.html" title="Interface definition for R600InstrInfo. " alt="" coords="2235,184,2347,211"/>
+<area shape="rect" id="node31" href="$AMDGPUBaseInfo_8h.html" title="Utils/AMDGPUBaseInfo.h" alt="" coords="1179,341,1354,367"/>
+<area shape="rect" id="node32" href="$MachineInstrBuilder_8h.html" title="llvm/CodeGen/MachineInstr\lBuilder.h" alt="" coords="1607,333,1791,375"/>
+<area shape="rect" id="node37" href="$R600Defines_8h.html" title="R600Defines.h" alt="" coords="3664,102,3773,129"/>
+<area shape="rect" id="node38" href="$R600MachineFunctionInfo_8h.html" title="R600MachineFunctionInfo.h" alt="" coords="3798,102,3983,129"/>
+<area shape="rect" id="node39" href="$AMDGPUMCTargetDesc_8h.html" title="Provides AMDGPU specific target descriptions. " alt="" coords="4008,95,4240,136"/>
+<area shape="rect" id="node40" href="$APFloat_8h.html" title="This file declares a class to represent arbitrary precision floating point values and provide a varie..." alt="" coords="4773,430,4912,457"/>
+<area shape="rect" id="node41" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="4780,519,4905,546"/>
+<area shape="rect" id="node42" href="$DAGCombine_8h.html" title="llvm/CodeGen/DAGCombine.h" alt="" coords="4329,430,4530,457"/>
+<area shape="rect" id="node43" href="$ISDOpcodes_8h.html" title="llvm/CodeGen/ISDOpcodes.h" alt="" coords="4555,430,4749,457"/>
+<area shape="rect" id="node44" href="$MachineRegisterInfo_8h.html" title="llvm/CodeGen/MachineRegister\lInfo.h" alt="" coords="2787,333,2994,375"/>
+<area shape="rect" id="node45" href="$SelectionDAG_8h.html" title="llvm/CodeGen/SelectionDAG.h" alt="" coords="3575,341,3777,367"/>
+<area shape="rect" id="node46" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="4515,519,4669,546"/>
+<area shape="rect" id="node47" href="$MachineValueType_8h.html" title="llvm/Support/MachineValue\lType.h" alt="" coords="4144,601,4325,643"/>
+<area shape="rect" id="node48" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="4824,341,4963,367"/>
+<area shape="rect" id="node49" href="$DerivedTypes_8h.html" title="llvm/IR/DerivedTypes.h" alt="" coords="4043,430,4203,457"/>
+<area shape="rect" id="node3" href="$AMDGPUISelLowering_8h.html" title="Interface definition of the TargetLowering class that is common to all AMD GPUs. " alt="" coords="1663,259,1830,285"/>
+<area shape="rect" id="node4" href="$AMDGPU_8h.html" title="AMDGPU.h" alt="" coords="961,430,1053,457"/>
+<area shape="rect" id="node23" href="$TargetFrameLowering_8h.html" title="llvm/CodeGen/TargetFrame\lLowering.h" alt="" coords="651,423,834,464"/>
+<area shape="rect" id="node25" href="$AMDGPUCallLowering_8h.html" title="This file describes how to lower LLVM calls to machine code calls. " alt="" coords="933,259,1099,285"/>
+<area shape="rect" id="node28" href="$SIFrameLowering_8h.html" title="SIFrameLowering.h" alt="" coords="1230,184,1365,211"/>
+<area shape="rect" id="node29" href="$SIISelLowering_8h.html" title="SI DAG Lowering interface definition. " alt="" coords="1593,184,1714,211"/>
+<area shape="rect" id="node30" href="$SIInstrInfo_8h.html" title="Interface definition for SIInstrInfo. " alt="" coords="1542,259,1637,285"/>
+<area shape="rect" id="node33" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="1082,184,1206,211"/>
+<area shape="rect" id="node34" href="$InstructionSelector_8h.html" title="llvm/CodeGen/GlobalISel\l/InstructionSelector.h" alt="" coords="2118,512,2287,553"/>
+<area shape="rect" id="node35" href="$LegalizerInfo_8h.html" title="llvm/CodeGen/GlobalISel\l/LegalizerInfo.h" alt="" coords="449,333,618,375"/>
+<area shape="rect" id="node36" href="$RegisterBankInfo_8h.html" title="llvm/CodeGen/GlobalISel\l/RegisterBankInfo.h" alt="" coords="2465,512,2634,553"/>
+</map>

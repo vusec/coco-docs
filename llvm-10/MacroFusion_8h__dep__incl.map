@@ -1,0 +1,7 @@
+<map id="include/llvm/CodeGen/MacroFusion.h" name="include/llvm/CodeGen/MacroFusion.h">
+<area shape="rect" id="node2" href="$MacroFusion_8cpp.html" title="lib/CodeGen/MacroFusion.cpp" alt="" coords="5,102,204,129"/>
+<area shape="rect" id="node3" href="$AArch64MacroFusion_8cpp.html" title="lib/Target/AArch64\l/AArch64MacroFusion.cpp" alt="" coords="229,95,405,136"/>
+<area shape="rect" id="node4" href="$AMDGPUMacroFusion_8cpp.html" title="lib/Target/AMDGPU/AMDGPUMacro\lFusion.cpp" alt="" coords="429,95,668,136"/>
+<area shape="rect" id="node5" href="$ARMMacroFusion_8cpp.html" title="lib/Target/ARM/ARMMacroFusion.cpp" alt="" coords="692,102,936,129"/>
+<area shape="rect" id="node6" href="$X86MacroFusion_8cpp.html" title="lib/Target/X86/X86MacroFusion.cpp" alt="" coords="960,102,1191,129"/>
+</map>

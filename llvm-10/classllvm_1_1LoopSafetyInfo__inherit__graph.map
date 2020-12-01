@@ -1,0 +1,4 @@
+<map id="llvm::LoopSafetyInfo" name="llvm::LoopSafetyInfo">
+<area shape="rect" id="node2" href="$classllvm_1_1ICFLoopSafetyInfo.html" title="This implementation of LoopSafetyInfo use ImplicitControlFlowTracking to give precise answers on &quot;may..." alt="" coords="5,80,169,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SimpleLoopSafetyInfo.html" title="Simple and conservative implementation of LoopSafetyInfo that can give false&#45;positive answers to its ..." alt="" coords="193,80,376,107"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="llvm::orc::remote::stubs::DestroyIndirectStubsOwner" name="llvm::orc::remote::stubs::DestroyIndirectStubsOwner">
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; DestroyIndirectStubsOwner,\l void(ResourceIdMgr::ResourceId\l StubsOwnerID)\&gt;" alt="" coords="407,14,625,85"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; DerivedFunc, FnT \&gt;" alt="" coords="5,29,161,70"/>
+</map>

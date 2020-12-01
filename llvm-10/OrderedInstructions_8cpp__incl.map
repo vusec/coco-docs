@@ -1,0 +1,36 @@
+<map id="lib/Analysis/OrderedInstructions.cpp" name="lib/Analysis/OrderedInstructions.cpp">
+<area shape="rect" id="node2" href="$OrderedInstructions_8h.html" title="llvm/Analysis/OrderedInstructions.h" alt="" coords="2538,80,2767,107"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2918,319,3073,345"/>
+<area shape="rect" id="node33" href="$OrderedBasicBlock_8h.html" title="llvm/Analysis/OrderedBasic\lBlock.h" alt="" coords="2107,229,2289,271"/>
+<area shape="rect" id="node40" href="$Dominators_8h.html" title="llvm/IR/Dominators.h" alt="" coords="2706,155,2853,181"/>
+<area shape="rect" id="node48" href="$Operator_8h.html" title="llvm/IR/Operator.h" alt="" coords="1267,319,1396,345"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="2591,393,2768,420"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="534,707,697,733"/>
+<area shape="rect" id="node13" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2446,632,2617,659"/>
+<area shape="rect" id="node26" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="2945,393,3118,420"/>
+<area shape="rect" id="node28" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="199,632,352,659"/>
+<area shape="rect" id="node29" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3231,557,3408,584"/>
+<area shape="rect" id="node31" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="3193,393,3400,420"/>
+<area shape="rect" id="node5" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1049,475,1193,502"/>
+<area shape="rect" id="node6" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="2844,557,2984,584"/>
+<area shape="rect" id="node21" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3059,557,3206,584"/>
+<area shape="rect" id="node23" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="3047,468,3211,509"/>
+<area shape="rect" id="node24" href="$TypeSize_8h.html" title="llvm/Support/TypeSize.h" alt="" coords="1369,475,1534,502"/>
+<area shape="rect" id="node18" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="630,557,753,584"/>
+<area shape="rect" id="node7" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="2995,632,3198,659"/>
+<area shape="rect" id="node34" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="1855,319,2000,345"/>
+<area shape="rect" id="node35" href="$c_2Types_8h.html" title="llvm&#45;c/Types.h" alt="" coords="1660,557,1768,584"/>
+<area shape="rect" id="node36" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="2227,393,2353,420"/>
+<area shape="rect" id="node37" href="$IR_2Instruction_8h.html" title="llvm/IR/Instruction.h" alt="" coords="1833,393,1973,420"/>
+<area shape="rect" id="node38" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="1811,475,1923,502"/>
+<area shape="rect" id="node39" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="1843,557,1998,584"/>
+<area shape="rect" id="node41" href="$DepthFirstIterator_8h.html" title="llvm/ADT/DepthFirstIterator.h" alt="" coords="2682,237,2877,263"/>
+<area shape="rect" id="node42" href="$GraphTraits_8h.html" title="llvm/ADT/GraphTraits.h" alt="" coords="2565,319,2725,345"/>
+<area shape="rect" id="node44" href="$IR_2CFG_8h.html" title="This file provides various utilities for inspecting and working with the control flow graph in LLVM I..." alt="" coords="2365,237,2471,263"/>
+<area shape="rect" id="node45" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM. " alt="" coords="4203,237,4361,263"/>
+<area shape="rect" id="node46" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="4129,319,4219,345"/>
+<area shape="rect" id="node47" href="$GenericDomTree_8h.html" title="This file defines a set of templates that efficiently compute a dominator tree over a generic graph..." alt="" coords="3811,237,4020,263"/>
+<area shape="rect" id="node43" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="428,475,568,502"/>
+<area shape="rect" id="node49" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="714,393,853,420"/>
+<area shape="rect" id="node50" href="$Type_8h.html" title="llvm/IR/Type.h" alt="" coords="1277,393,1385,420"/>
+</map>

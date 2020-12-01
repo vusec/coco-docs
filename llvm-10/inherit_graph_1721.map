@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1coverage_1_1CoverageMappingReader.html" title="llvm::coverage::Coverage\lMappingReader" alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node2" href="$classllvm_1_1coverage_1_1BinaryCoverageReader.html" title="Reader for the coverage mapping data that is emitted by the frontend and stored in an object file..." alt="" coords="224,5,432,47"/>
+</map>

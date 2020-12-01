@@ -1,0 +1,9 @@
+<map id="llvm::X86ELFTargetObjectFile" name="llvm::X86ELFTargetObjectFile">
+<area shape="rect" id="node5" href="$classllvm_1_1X86FreeBSDTargetObjectFile.html" title="X86FreeBSDTargetObjectFile &#45; This implementation is used for FreeBSD on x86 and x86&#45;64. " alt="" coords="935,5,1161,32"/>
+<area shape="rect" id="node6" href="$classllvm_1_1X86FuchsiaTargetObjectFile.html" title="This implementation is used for Fuchsia on x86&#45;64. " alt="" coords="939,56,1157,83"/>
+<area shape="rect" id="node7" href="$classllvm_1_1X86LinuxNaClTargetObjectFile.html" title="X86LinuxNaClTargetObjectFile &#45; This implementation is used for linux and Native Client on x86 and x86..." alt="" coords="961,107,1135,149"/>
+<area shape="rect" id="node8" href="$classllvm_1_1X86SolarisTargetObjectFile.html" title="This implementation is used for Solaris on x86/x86&#45;64. " alt="" coords="941,173,1155,200"/>
+<area shape="rect" id="node2" href="$classllvm_1_1TargetLoweringObjectFileELF.html" title="llvm::TargetLoweringObject\lFileELF" alt="" coords="460,78,641,119"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TargetLoweringObjectFile.html" title="llvm::TargetLoweringObjectFile" alt="" coords="209,85,412,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MCObjectFileInfo.html" title="llvm::MCObjectFileInfo" alt="" coords="5,85,161,112"/>
+</map>

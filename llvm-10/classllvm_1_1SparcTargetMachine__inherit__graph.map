@@ -1,0 +1,7 @@
+<map id="llvm::SparcTargetMachine" name="llvm::SparcTargetMachine">
+<area shape="rect" id="node4" href="$classllvm_1_1SparcelTargetMachine.html" title="llvm::SparcelTargetMachine" alt="" coords="5,229,189,256"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SparcV8TargetMachine.html" title="Sparc 32&#45;bit target machine. " alt="" coords="214,229,405,256"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SparcV9TargetMachine.html" title="Sparc 64&#45;bit target machine. " alt="" coords="429,229,619,256"/>
+<area shape="rect" id="node2" href="$classllvm_1_1LLVMTargetMachine.html" title="This class describes a target machine that is implemented with the LLVM target&#45;independent code gener..." alt="" coords="222,80,397,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TargetMachine.html" title="Primary interface to the complete machine description for the target machine. " alt="" coords="239,5,379,32"/>
+</map>

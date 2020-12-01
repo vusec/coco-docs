@@ -1,0 +1,4 @@
+<map id="llvm::SmallSetVector&lt; T, N &gt;" name="llvm::SmallSetVector&lt; T, N &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1SetVector.html" title="llvm::SetVector\&lt; T,\l SmallVector\&lt; T, N \&gt;\l, SmallDenseSet\&lt; T, N \&gt; \&gt;" alt="" coords="5,139,188,195"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SetVector.html" title="A vector that has set insertion semantics. " alt="" coords="29,5,165,47"/>
+</map>

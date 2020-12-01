@@ -1,0 +1,6 @@
+<map id="llvm::BranchInst::const_succ_op_iterator" name="llvm::BranchInst::const_succ_op_iterator">
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__adaptor__base.html" title="llvm::iterator_adaptor\l_base\&lt; const_succ_op_iterator,\l const_value_op_iterator, std\l::random_access_iterator_tag,\l const BasicBlock *, ptrdiff_t,\l const BasicBlock *, const BasicBlock *\&gt;" alt="" coords="1359,71,1623,171"/>
+<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; const_succ_op\l_iterator, std::random\l_access_iterator_tag, const\l BasicBlock *, ptrdiff_t,\l const BasicBlock *, const\l BasicBlock * \&gt;" alt="" coords="835,5,1018,120"/>
+<area shape="rect" id="node5" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="267,134,491,205"/>
+<area shape="rect" id="node7" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type. " alt="" coords="800,145,1053,215"/>
+</map>

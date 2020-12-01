@@ -1,0 +1,6 @@
+<map id="llvm::ThinLTOCodeGenerator::CachingOptions" name="llvm::ThinLTOCodeGenerator::CachingOptions">
+<area shape="rect" id="node3" href="$structllvm_1_1CachePruningPolicy.html" title="Policy for the pruneCache() function. " alt="" coords="125,213,297,240"/>
+<area shape="rect" id="node6" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; std\l::chrono::seconds \&gt;" alt="" coords="206,95,345,136"/>
+<area shape="rect" id="node7" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; T \&gt;" alt="" coords="208,5,343,32"/>
+<area shape="rect" id="node8" href="$classunsigned.html" title="unsigned" alt="" coords="369,102,443,129"/>
+</map>

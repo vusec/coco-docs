@@ -1,0 +1,15 @@
+<map id="llvm::GlobalAlias" name="llvm::GlobalAlias">
+<area shape="rect" id="node2" href="$classllvm_1_1GlobalIndirectSymbol.html" title="llvm::GlobalIndirectSymbol" alt="" coords="1557,273,1736,300"/>
+<area shape="rect" id="node3" href="$classllvm_1_1GlobalValue.html" title="llvm::GlobalValue" alt="" coords="1286,216,1410,243"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Constant.html" title="This is an important base class in LLVM. " alt="" coords="1042,269,1149,296"/>
+<area shape="rect" id="node5" href="$classllvm_1_1User.html" title="llvm::User" alt="" coords="638,277,721,304"/>
+<area shape="rect" id="node6" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="313,335,399,361"/>
+<area shape="rect" id="node7" href="$classunsigned.html" title="unsigned" alt="" coords="5,216,80,243"/>
+<area shape="rect" id="node8" href="$classllvm_1_1Type.html" title="The instances of the Type class are immutable: once they are created, they are never changed..." alt="" coords="469,44,552,71"/>
+<area shape="rect" id="node9" href="$classllvm_1_1Module.html" title="A Module instance is used to store all the information related to an LLVM module. ..." alt="" coords="1047,165,1143,192"/>
+<area shape="rect" id="node10" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Global\lAlias \&gt;" alt="" coords="1567,353,1726,394"/>
+<area shape="rect" id="node11" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; GlobalAlias,\l Options... \&gt;::type \&gt;" alt="" coords="1001,459,1189,530"/>
+<area shape="rect" id="node13" href="$classllvm_1_1ilist__node__impl.html" title="Implementation for an ilist node. " alt="" coords="609,423,749,465"/>
+<area shape="rect" id="node16" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; T, Options...\l \&gt;::type \&gt;" alt="" coords="1000,338,1191,409"/>
+<area shape="rect" id="node15" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; T,\l Options \&gt;" alt="" coords="1281,353,1415,394"/>
+</map>

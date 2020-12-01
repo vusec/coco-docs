@@ -1,0 +1,9 @@
+<map id="llvm::ScheduleHazardRecognizer" name="llvm::ScheduleHazardRecognizer">
+<area shape="rect" id="node2" href="$classllvm_1_1GCNHazardRecognizer.html" title="llvm::GCNHazardRecognizer" alt="" coords="287,5,479,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1HexagonHazardRecognizer.html" title="llvm::HexagonHazardRecognizer" alt="" coords="276,56,491,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1PPCHazardRecognizer970.html" title="PPCHazardRecognizer970 &#45; This class defines a finite state automata that models the dispatch logic on..." alt="" coords="278,107,489,133"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ScoreboardHazardRecognizer.html" title="llvm::ScoreboardHazardRecognizer" alt="" coords="269,157,497,184"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SystemZHazardRecognizer.html" title="SystemZHazardRecognizer maintains the state for one MBB during scheduling. " alt="" coords="276,208,491,235"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ARMHazardRecognizer.html" title="ARMHazardRecognizer handles special constraints that are not expressed in the scheduling itinerary..." alt="" coords="564,128,756,155"/>
+<area shape="rect" id="node7" href="$classllvm_1_1PPCDispatchGroupSBHazardRecognizer.html" title="PPCDispatchGroupSBHazardRecognizer &#45; This class implements a scoreboard&#45;based hazard recognizer for P..." alt="" coords="545,179,775,221"/>
+</map>

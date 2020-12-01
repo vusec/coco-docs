@@ -1,0 +1,11 @@
+<map id="include/llvm/Support/ItaniumManglingCanonicalizer.h" name="include/llvm/Support/ItaniumManglingCanonicalizer.h">
+<area shape="rect" id="node2" href="$SymbolRemappingReader_8h.html" title="include/llvm/Support\l/SymbolRemappingReader.h" alt="" coords="499,95,688,136"/>
+<area shape="rect" id="node10" href="$ItaniumManglingCanonicalizer_8cpp.html" title="lib/Support/ItaniumMangling\lCanonicalizer.cpp" alt="" coords="713,95,895,136"/>
+<area shape="rect" id="node3" href="$SampleProfReader_8h.html" title="include/llvm/ProfileData\l/SampleProfReader.h" alt="" coords="329,184,489,225"/>
+<area shape="rect" id="node8" href="$InstrProfReader_8cpp.html" title="lib/ProfileData/InstrProf\lReader.cpp" alt="" coords="514,184,673,225"/>
+<area shape="rect" id="node9" href="$SymbolRemappingReader_8cpp.html" title="lib/Support/SymbolRemapping\lReader.cpp" alt="" coords="697,184,895,225"/>
+<area shape="rect" id="node4" href="$SampleProfReader_8cpp.html" title="lib/ProfileData/SampleProf\lReader.cpp" alt="" coords="5,273,181,315"/>
+<area shape="rect" id="node5" href="$X86DiscriminateMemOps_8cpp.html" title="lib/Target/X86/X86Discriminate\lMemOps.cpp" alt="" coords="205,273,408,315"/>
+<area shape="rect" id="node6" href="$X86InsertPrefetch_8cpp.html" title="lib/Target/X86/X86Insert\lPrefetch.cpp" alt="" coords="432,273,595,315"/>
+<area shape="rect" id="node7" href="$SampleProfile_8cpp.html" title="lib/Transforms/IPO\l/SampleProfile.cpp" alt="" coords="619,273,751,315"/>
+</map>

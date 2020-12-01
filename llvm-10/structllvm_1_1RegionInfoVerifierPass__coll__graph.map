@@ -1,0 +1,4 @@
+<map id="llvm::RegionInfoVerifierPass" name="llvm::RegionInfoVerifierPass">
+<area shape="rect" id="node2" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; RegionInfoVerifierPass \&gt;" alt="" coords="9,109,189,151"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes. " alt="" coords="31,5,168,47"/>
+</map>

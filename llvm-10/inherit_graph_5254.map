@@ -1,0 +1,22 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structllvm_1_1WasmYAML_1_1Section.html" title="llvm::WasmYAML::Section" alt="" coords="5,405,185,432"/>
+<area shape="rect" id="node2" href="$structllvm_1_1WasmYAML_1_1CodeSection.html" title="llvm::WasmYAML::CodeSection" alt="" coords="241,56,452,83"/>
+<area shape="rect" id="node3" href="$structllvm_1_1WasmYAML_1_1CustomSection.html" title="llvm::WasmYAML::CustomSection" alt="" coords="233,107,460,133"/>
+<area shape="rect" id="node9" href="$structllvm_1_1WasmYAML_1_1DataCountSection.html" title="llvm::WasmYAML::DataCount\lSection" alt="" coords="247,158,446,199"/>
+<area shape="rect" id="node10" href="$structllvm_1_1WasmYAML_1_1DataSection.html" title="llvm::WasmYAML::DataSection" alt="" coords="243,224,451,251"/>
+<area shape="rect" id="node11" href="$structllvm_1_1WasmYAML_1_1ElemSection.html" title="llvm::WasmYAML::ElemSection" alt="" coords="241,275,452,301"/>
+<area shape="rect" id="node12" href="$structllvm_1_1WasmYAML_1_1EventSection.html" title="llvm::WasmYAML::EventSection" alt="" coords="239,325,454,352"/>
+<area shape="rect" id="node13" href="$structllvm_1_1WasmYAML_1_1ExportSection.html" title="llvm::WasmYAML::ExportSection" alt="" coords="237,376,456,403"/>
+<area shape="rect" id="node14" href="$structllvm_1_1WasmYAML_1_1FunctionSection.html" title="llvm::WasmYAML::Function\lSection" alt="" coords="253,427,440,469"/>
+<area shape="rect" id="node15" href="$structllvm_1_1WasmYAML_1_1GlobalSection.html" title="llvm::WasmYAML::GlobalSection" alt="" coords="238,493,455,520"/>
+<area shape="rect" id="node16" href="$structllvm_1_1WasmYAML_1_1ImportSection.html" title="llvm::WasmYAML::ImportSection" alt="" coords="238,544,455,571"/>
+<area shape="rect" id="node17" href="$structllvm_1_1WasmYAML_1_1MemorySection.html" title="llvm::WasmYAML::MemorySection" alt="" coords="233,595,460,621"/>
+<area shape="rect" id="node18" href="$structllvm_1_1WasmYAML_1_1StartSection.html" title="llvm::WasmYAML::StartSection" alt="" coords="243,645,451,672"/>
+<area shape="rect" id="node19" href="$structllvm_1_1WasmYAML_1_1TableSection.html" title="llvm::WasmYAML::TableSection" alt="" coords="241,696,453,723"/>
+<area shape="rect" id="node20" href="$structllvm_1_1WasmYAML_1_1TypeSection.html" title="llvm::WasmYAML::TypeSection" alt="" coords="242,747,451,773"/>
+<area shape="rect" id="node4" href="$structllvm_1_1WasmYAML_1_1DylinkSection.html" title="llvm::WasmYAML::DylinkSection" alt="" coords="511,5,729,32"/>
+<area shape="rect" id="node5" href="$structllvm_1_1WasmYAML_1_1LinkingSection.html" title="llvm::WasmYAML::LinkingSection" alt="" coords="509,56,731,83"/>
+<area shape="rect" id="node6" href="$structllvm_1_1WasmYAML_1_1NameSection.html" title="llvm::WasmYAML::NameSection" alt="" coords="513,107,727,133"/>
+<area shape="rect" id="node7" href="$structllvm_1_1WasmYAML_1_1ProducersSection.html" title="llvm::WasmYAML::Producers\lSection" alt="" coords="523,158,717,199"/>
+<area shape="rect" id="node8" href="$structllvm_1_1WasmYAML_1_1TargetFeaturesSection.html" title="llvm::WasmYAML::TargetFeatures\lSection" alt="" coords="508,223,732,265"/>
+</map>

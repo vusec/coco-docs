@@ -1,0 +1,32 @@
+<map id="include/llvm/Object/ELFObjectFile.h" name="include/llvm/Object/ELFObjectFile.h">
+<area shape="rect" id="node2" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2355,408,2499,435"/>
+<area shape="rect" id="node4" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="3109,632,3299,659"/>
+<area shape="rect" id="node13" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2812,483,2975,509"/>
+<area shape="rect" id="node14" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="4469,632,4640,659"/>
+<area shape="rect" id="node25" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3677,483,3832,509"/>
+<area shape="rect" id="node34" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2167,408,2313,435"/>
+<area shape="rect" id="node35" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="4694,333,4818,360"/>
+<area shape="rect" id="node36" href="$BinaryFormat_2ELF_8h.html" title="llvm/BinaryFormat/ELF.h" alt="" coords="1006,333,1173,360"/>
+<area shape="rect" id="node37" href="$SubtargetFeature_8h.html" title="llvm/MC/SubtargetFeature.h" alt="" coords="1709,333,1896,360"/>
+<area shape="rect" id="node38" href="$Binary_8h.html" title="llvm/Object/Binary.h" alt="" coords="4318,259,4458,285"/>
+<area shape="rect" id="node39" href="$Object_2Error_8h.html" title="llvm/Object/Error.h" alt="" coords="4539,333,4669,360"/>
+<area shape="rect" id="node40" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="3952,408,4091,435"/>
+<area shape="rect" id="node42" href="$MemoryBuffer_8h.html" title="llvm/Support/MemoryBuffer.h" alt="" coords="3817,333,4009,360"/>
+<area shape="rect" id="node43" href="$Object_2ELF_8h.html" title="llvm/Object/ELF.h" alt="" coords="2727,184,2854,211"/>
+<area shape="rect" id="node44" href="$ELFTypes_8h.html" title="llvm/Object/ELFTypes.h" alt="" coords="2273,259,2436,285"/>
+<area shape="rect" id="node45" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="1182,483,1333,509"/>
+<area shape="rect" id="node46" href="$ObjectFile_8h.html" title="llvm/Object/ObjectFile.h" alt="" coords="4307,102,4469,129"/>
+<area shape="rect" id="node47" href="$SymbolicFile_8h.html" title="llvm/Object/SymbolicFile.h" alt="" coords="4787,184,4965,211"/>
+<area shape="rect" id="node48" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="1461,557,1616,584"/>
+<area shape="rect" id="node49" href="$ARMAttributeParser_8h.html" title="llvm/Support/ARMAttribute\lParser.h" alt="" coords="5819,95,5997,136"/>
+<area shape="rect" id="node50" href="$ARMBuildAttributes_8h.html" title="ARMBuildAttributes.h" alt="" coords="5801,184,5949,211"/>
+<area shape="rect" id="node3" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="2297,557,2437,584"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1979,707,2141,733"/>
+<area shape="rect" id="node12" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="2896,632,3019,659"/>
+<area shape="rect" id="node6" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2281,632,2452,659"/>
+<area shape="rect" id="node16" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1742,557,1895,584"/>
+<area shape="rect" id="node18" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1107,557,1285,584"/>
+<area shape="rect" id="node20" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="3120,557,3288,584"/>
+<area shape="rect" id="node26" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3465,557,3605,584"/>
+<area shape="rect" id="node27" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="4059,557,4191,584"/>
+</map>

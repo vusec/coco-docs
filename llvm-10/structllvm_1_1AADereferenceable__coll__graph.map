@@ -1,0 +1,17 @@
+<map id="llvm::AADereferenceable" name="llvm::AADereferenceable">
+<area shape="rect" id="node2" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::Dereferenceable,\l StateWrapper\&lt; DerefState,\l AbstractAttribute \&gt; \&gt;" alt="" coords="1756,186,1941,257"/>
+<area shape="rect" id="node3" href="$structllvm_1_1IRPosition.html" title="} " alt="" coords="941,151,1056,177"/>
+<area shape="rect" id="node18" href="$structllvm_1_1IRAttribute.html" title="Helper class that provides common functionality to manifest IR attributes. " alt="" coords="1365,201,1490,242"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="628,109,715,136"/>
+<area shape="rect" id="node5" href="$classunsigned.html" title="unsigned" alt="" coords="288,109,363,136"/>
+<area shape="rect" id="node7" href="$structllvm_1_1StateWrapper.html" title="llvm::StateWrapper\l\&lt; DerefState, AbstractAttribute \&gt;" alt="" coords="1320,282,1535,323"/>
+<area shape="rect" id="node8" href="$structllvm_1_1DerefState.html" title="State for dereferenceable attribute. " alt="" coords="940,393,1057,420"/>
+<area shape="rect" id="node9" href="$structllvm_1_1AbstractState.html" title="An interface to query the internal state of an abstract attribute. " alt="" coords="5,425,140,452"/>
+<area shape="rect" id="node12" href="$structllvm_1_1IntegerStateBase.html" title="Simple state with integers encoding. " alt="" coords="248,460,403,516"/>
+<area shape="rect" id="node11" href="$structllvm_1_1IncIntegerState.html" title="Specialization of the integer state for an increasing value, hence ~0u is the best state and 0 the wo..." alt="" coords="596,460,747,516"/>
+<area shape="rect" id="node14" href="$structllvm_1_1AbstractAttribute.html" title="Base struct for all &quot;concrete attribute&quot; deductions. " alt="" coords="923,260,1075,287"/>
+<area shape="rect" id="node15" href="$structllvm_1_1StateWrapper.html" title="Helper to tie a abstract state implementation to an abstract attribute. " alt="" coords="931,311,1066,353"/>
+<area shape="rect" id="node16" href="$classllvm_1_1StateTy.html" title="StateTy" alt="" coords="637,308,705,335"/>
+<area shape="rect" id="node17" href="$classllvm_1_1Base.html" title="Base" alt="" coords="645,215,697,241"/>
+<area shape="rect" id="node19" href="$classchar.html" title="char" alt="" coords="1825,281,1872,308"/>
+</map>

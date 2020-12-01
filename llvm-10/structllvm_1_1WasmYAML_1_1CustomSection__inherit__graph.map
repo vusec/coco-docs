@@ -1,0 +1,8 @@
+<map id="llvm::WasmYAML::CustomSection" name="llvm::WasmYAML::CustomSection">
+<area shape="rect" id="node3" href="$structllvm_1_1WasmYAML_1_1DylinkSection.html" title="llvm::WasmYAML::DylinkSection" alt="" coords="511,5,729,32"/>
+<area shape="rect" id="node4" href="$structllvm_1_1WasmYAML_1_1LinkingSection.html" title="llvm::WasmYAML::LinkingSection" alt="" coords="509,56,731,83"/>
+<area shape="rect" id="node5" href="$structllvm_1_1WasmYAML_1_1NameSection.html" title="llvm::WasmYAML::NameSection" alt="" coords="513,107,727,133"/>
+<area shape="rect" id="node6" href="$structllvm_1_1WasmYAML_1_1ProducersSection.html" title="llvm::WasmYAML::Producers\lSection" alt="" coords="523,158,717,199"/>
+<area shape="rect" id="node7" href="$structllvm_1_1WasmYAML_1_1TargetFeaturesSection.html" title="llvm::WasmYAML::TargetFeatures\lSection" alt="" coords="508,223,732,265"/>
+<area shape="rect" id="node2" href="$structllvm_1_1WasmYAML_1_1Section.html" title="llvm::WasmYAML::Section" alt="" coords="5,107,185,133"/>
+</map>

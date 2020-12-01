@@ -1,0 +1,33 @@
+<map id="lib/Target/VE/VEInstrInfo.cpp" name="lib/Target/VE/VEInstrInfo.cpp">
+<area shape="rect" id="node2" href="$VEInstrInfo_8h.html" title="VEInstrInfo.h" alt="" coords="153,341,252,367"/>
+<area shape="rect" id="node5" href="$MachineInstrBuilder_8h.html" title="llvm/CodeGen/MachineInstr\lBuilder.h" alt="" coords="853,601,1037,643"/>
+<area shape="rect" id="node6" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1461,691,1651,717"/>
+<area shape="rect" id="node14" href="$VE_8h.html" title="VE.h" alt="" coords="796,251,847,278"/>
+<area shape="rect" id="node20" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2184,519,2339,546"/>
+<area shape="rect" id="node34" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2911,519,3073,546"/>
+<area shape="rect" id="node39" href="$VESubtarget_8h.html" title="VESubtarget.h" alt="" coords="645,80,752,107"/>
+<area shape="rect" id="node44" href="$MachineMemOperand_8h.html" title="llvm/CodeGen/MachineMemOperand.h" alt="" coords="1093,251,1339,278"/>
+<area shape="rect" id="node46" href="$MachineFrameInfo_8h.html" title="llvm/CodeGen/MachineFrame\lInfo.h" alt="" coords="1264,423,1459,464"/>
+<area shape="rect" id="node47" href="$MachineRegisterInfo_8h.html" title="llvm/CodeGen/MachineRegister\lInfo.h" alt="" coords="3027,333,3234,375"/>
+<area shape="rect" id="node48" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="2427,430,2621,457"/>
+<area shape="rect" id="node49" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="3333,80,3481,107"/>
+<area shape="rect" id="node50" href="$TargetRegistry_8h.html" title="llvm/Support/TargetRegistry.h" alt="" coords="3367,519,3563,546"/>
+<area shape="rect" id="node3" href="$VERegisterInfo_8h.html" title="VERegisterInfo.h" alt="" coords="43,430,165,457"/>
+<area shape="rect" id="node4" href="$TargetInstrInfo_8h.html" title="llvm/CodeGen/TargetInstr\lInfo.h" alt="" coords="859,512,1031,553"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3529,765,3692,792"/>
+<area shape="rect" id="node15" href="$VEMCTargetDesc_8h.html" title="MCTargetDesc/VEMCTargetDesc.h" alt="" coords="471,341,705,367"/>
+<area shape="rect" id="node18" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="729,341,917,367"/>
+<area shape="rect" id="node19" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="1043,430,1189,457"/>
+<area shape="rect" id="node36" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="2299,609,2477,635"/>
+<area shape="rect" id="node21" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3475,609,3615,635"/>
+<area shape="rect" id="node24" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="3639,609,3771,635"/>
+<area shape="rect" id="node25" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="4591,691,4761,717"/>
+<area shape="rect" id="node22" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="3352,691,3523,717"/>
+<area shape="rect" id="node35" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="3949,609,4102,635"/>
+<area shape="rect" id="node38" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="3080,609,3248,635"/>
+<area shape="rect" id="node40" href="$VEFrameLowering_8h.html" title="VEFrameLowering.h" alt="" coords="459,162,599,189"/>
+<area shape="rect" id="node41" href="$TargetFrameLowering_8h.html" title="llvm/CodeGen/TargetFrame\lLowering.h" alt="" coords="345,244,527,285"/>
+<area shape="rect" id="node42" href="$VEISelLowering_8h.html" title="VEISelLowering.h" alt="" coords="695,162,822,189"/>
+<area shape="rect" id="node43" href="$SelectionDAGTargetInfo_8h.html" title="llvm/CodeGen/SelectionDAGTarget\lInfo.h" alt="" coords="1008,155,1237,196"/>
+<area shape="rect" id="node45" href="$TargetSubtargetInfo_8h.html" title="llvm/CodeGen/TargetSubtarget\lInfo.h" alt="" coords="3055,423,3257,464"/>
+</map>

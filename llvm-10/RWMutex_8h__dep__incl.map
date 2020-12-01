@@ -1,0 +1,51 @@
+<map id="include/llvm/Support/RWMutex.h" name="include/llvm/Support/RWMutex.h">
+<area shape="rect" id="node2" href="$PassRegistry_8h.html" title="include/llvm/PassRegistry.h" alt="" coords="6008,95,6193,121"/>
+<area shape="rect" id="node50" href="$RWMutex_8cpp.html" title="lib/Support/RWMutex.cpp" alt="" coords="6217,95,6389,121"/>
+<area shape="rect" id="node3" href="$PassSupport_8h.html" title="include/llvm/PassSupport.h" alt="" coords="6010,177,6191,203"/>
+<area shape="rect" id="node5" href="$UnifyFunctionExitNodes_8h.html" title="include/llvm/Transforms\l/Utils/UnifyFunctionExitNodes.h" alt="" coords="4665,355,4875,397"/>
+<area shape="rect" id="node9" href="$DetectDeadLanes_8cpp.html" title="Analysis that tracks defined/used subregister lanes across COPY instructions and instructions that ge..." alt="" coords="4900,363,5128,389"/>
+<area shape="rect" id="node10" href="$HardwareLoops_8cpp.html" title="Insert hardware loop intrinsics into loops which are deemed profitable by the target, by querying TargetTransformInfo. " alt="" coords="5511,363,5725,389"/>
+<area shape="rect" id="node11" href="$Pass_8cpp.html" title="lib/IR/Pass.cpp" alt="" coords="5374,363,5486,389"/>
+<area shape="rect" id="node12" href="$ARMParallelDSP_8cpp.html" title="Armv6 introduced instructions to perform 32&#45;bit SIMD operations. " alt="" coords="5750,355,5937,397"/>
+<area shape="rect" id="node16" href="$InstrOrderFile_8cpp.html" title="lib/Transforms/Instrumentation\l/InstrOrderFile.cpp" alt="" coords="5152,355,5351,397"/>
+<area shape="rect" id="node17" href="$PGOMemOPSizeOpt_8cpp.html" title="lib/Transforms/Instrumentation\l/PGOMemOPSizeOpt.cpp" alt="" coords="5961,355,6160,397"/>
+<area shape="rect" id="node18" href="$WholeProgramDevirt_8cpp.html" title="lib/Transforms/IPO\l/WholeProgramDevirt.cpp" alt="" coords="6903,355,7075,397"/>
+<area shape="rect" id="node19" href="$ObjCARCExpand_8cpp.html" title="This file defines ObjC ARC optimizations. " alt="" coords="6185,355,6353,397"/>
+<area shape="rect" id="node21" href="$PassRegistry_8cpp.html" title="lib/IR/PassRegistry.cpp" alt="" coords="7027,266,7188,293"/>
+<area shape="rect" id="node27" href="$Analysis_2Analysis_8cpp.html" title="lib/Analysis/Analysis.cpp" alt="" coords="7314,177,7482,203"/>
+<area shape="rect" id="node28" href="$CodeGen_8cpp.html" title="lib/CodeGen/CodeGen.cpp" alt="" coords="7506,177,7685,203"/>
+<area shape="rect" id="node29" href="$GlobalISel_8cpp.html" title="lib/CodeGen/GlobalISel\l/GlobalISel.cpp" alt="" coords="7709,169,7868,211"/>
+<area shape="rect" id="node30" href="$WebAssembly_8h.html" title="This file contains the entry points for global functions defined in the LLVM WebAssembly back&#45;end..." alt="" coords="2547,259,2713,300"/>
+<area shape="rect" id="node48" href="$Instrumentation_8cpp.html" title="lib/Transforms/Instrumentation\l/Instrumentation.cpp" alt="" coords="7892,169,8091,211"/>
+<area shape="rect" id="node49" href="$Transforms_2Utils_2Utils_8cpp.html" title="lib/Transforms/Utils\l/Utils.cpp" alt="" coords="8114,169,8250,211"/>
+<area shape="rect" id="node4" href="$Pass_8h.html" title="include/llvm/Pass.h" alt="" coords="5183,266,5319,293"/>
+<area shape="rect" id="node20" href="$ObjCARCAliasAnalysis_8cpp.html" title="This file defines a simple ARC&#45;aware AliasAnalysis using special knowledge of Objective C to enhance ..." alt="" coords="6543,259,6725,300"/>
+<area shape="rect" id="node22" href="$HexagonCopyToCombine_8cpp.html" title="lib/Target/Hexagon\l/HexagonCopyToCombine.cpp" alt="" coords="6749,259,6951,300"/>
+<area shape="rect" id="node23" href="$HexagonFixupHwLoops_8cpp.html" title="lib/Target/Hexagon\l/HexagonFixupHwLoops.cpp" alt="" coords="5597,259,5788,300"/>
+<area shape="rect" id="node24" href="$HexagonPeephole_8cpp.html" title="lib/Target/Hexagon\l/HexagonPeephole.cpp" alt="" coords="5965,259,6122,300"/>
+<area shape="rect" id="node25" href="$HexagonVExtract_8cpp.html" title="lib/Target/Hexagon\l/HexagonVExtract.cpp" alt="" coords="6197,259,6351,300"/>
+<area shape="rect" id="node26" href="$PPCCTRLoops_8cpp.html" title="lib/Target/PowerPC\l/PPCCTRLoops.cpp" alt="" coords="6376,259,6519,300"/>
+<area shape="rect" id="node13" href="$WebAssemblyAddMissingPrototypes_8cpp.html" title="Add prototypes to prototypes&#45;less functions. " alt="" coords="4097,355,4363,397"/>
+<area shape="rect" id="node14" href="$WebAssemblyFixFunctionBitcasts_8cpp.html" title="Fix bitcasted functions. " alt="" coords="4388,355,4640,397"/>
+<area shape="rect" id="node15" href="$WebAssemblyLowerGlobalDtors_8cpp.html" title="Lower .global_dtors. " alt="" coords="3833,355,4073,397"/>
+<area shape="rect" id="node6" href="$LinkAllPasses_8h.html" title="include/llvm/LinkAllPasses.h" alt="" coords="4483,459,4673,486"/>
+<area shape="rect" id="node7" href="$Scalar_8cpp.html" title="lib/Transforms/Scalar\l/Scalar.cpp" alt="" coords="4697,452,4843,493"/>
+<area shape="rect" id="node8" href="$UnifyFunctionExitNodes_8cpp.html" title="lib/Transforms/Utils\l/UnifyFunctionExitNodes.cpp" alt="" coords="4868,452,5061,493"/>
+<area shape="rect" id="node31" href="$WebAssemblyAsmParser_8cpp.html" title="This file is part of the WebAssembly Assembler. " alt="" coords="1492,355,1763,397"/>
+<area shape="rect" id="node32" href="$WebAssemblyInstPrinter_8cpp.html" title="Print MCInst instructions to wasm format. " alt="" coords="1787,348,2014,404"/>
+<area shape="rect" id="node33" href="$WebAssemblyArgumentMove_8cpp.html" title="This file moves ARGUMENT instructions after ScheduleDAG scheduling. " alt="" coords="2038,355,2262,397"/>
+<area shape="rect" id="node34" href="$WebAssemblyAsmPrinter_8cpp.html" title="This file contains a printer that converts from our internal representation of machine&#45;dependent LLVM..." alt="" coords="2287,355,2488,397"/>
+<area shape="rect" id="node35" href="$WebAssemblyCallIndirectFixup_8cpp.html" title="This file converts pseudo call_indirect instructions into real call_indirects. " alt="" coords="2513,355,2747,397"/>
+<area shape="rect" id="node36" href="$WebAssemblyCFGSort_8cpp.html" title="This file implements a CFG sorting pass. " alt="" coords="2704,452,2892,493"/>
+<area shape="rect" id="node37" href="$WebAssemblyExceptionInfo_8h.html" title="This file implements WebAssemblyException information analysis. " alt="" coords="2822,355,3025,397"/>
+<area shape="rect" id="node38" href="$WebAssemblyCFGStackify_8cpp.html" title="This file implements a CFG stacking pass. " alt="" coords="2929,452,3141,493"/>
+<area shape="rect" id="node39" href="$WebAssemblyDebugValueManager_8cpp.html" title="This file implements the manager for MachineInstr DebugValues. " alt="" coords="3100,355,3357,397"/>
+<area shape="rect" id="node40" href="$WebAssemblyExplicitLocals_8cpp.html" title="This file converts any remaining registers into WebAssembly locals. " alt="" coords="3381,355,3599,397"/>
+<area shape="rect" id="node41" href="$WebAssemblyFastISel_8cpp.html" title="This file defines the WebAssembly&#45;specific support for the FastISel class. " alt="" coords="3623,355,3808,397"/>
+<area shape="rect" id="node42" href="$WebAssemblyFixIrreducibleControlFlow_8cpp.html" title="This file implements a pass that removes irreducible control flow. " alt="" coords="5,348,236,404"/>
+<area shape="rect" id="node43" href="$WebAssemblyInstrInfo_8cpp.html" title="This file contains the WebAssembly implementation of the TargetInstrInfo class. " alt="" coords="261,355,445,397"/>
+<area shape="rect" id="node44" href="$WebAssemblyISelDAGToDAG_8cpp.html" title="This file defines an instruction selector for the WebAssembly target. " alt="" coords="469,355,701,397"/>
+<area shape="rect" id="node45" href="$WebAssemblyLateEHPrepare_8cpp.html" title="Does various transformations for exception handling. " alt="" coords="725,355,951,397"/>
+<area shape="rect" id="node46" href="$WebAssemblyLowerBrUnless_8cpp.html" title="This file lowers br_unless into br_if with an inverted condition. " alt="" coords="975,355,1200,397"/>
+<area shape="rect" id="node47" href="$WebAssemblyLowerEmscriptenEHSjLj_8cpp.html" title="This file lowers exception&#45;related instructions and setjmp/longjmp function calls in order to use Ems..." alt="" coords="1225,348,1467,404"/>
+</map>

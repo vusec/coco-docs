@@ -1,0 +1,37 @@
+<map id="lib/DebugInfo/MSF/MSFBuilder.cpp" name="lib/DebugInfo/MSF/MSFBuilder.cpp">
+<area shape="rect" id="node2" href="$MSFBuilder_8h.html" title="llvm/DebugInfo/MSF\l/MSFBuilder.h" alt="" coords="1394,348,1537,389"/>
+<area shape="rect" id="node3" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2103,676,2247,703"/>
+<area shape="rect" id="node28" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="1131,751,1282,777"/>
+<area shape="rect" id="node30" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="3080,527,3219,553"/>
+<area shape="rect" id="node40" href="$MSFError_8h.html" title="llvm/DebugInfo/MSF\l/MSFError.h" alt="" coords="5849,437,5991,479"/>
+<area shape="rect" id="node41" href="$MappedBlockStream_8h.html" title="llvm/DebugInfo/MSF\l/MappedBlockStream.h" alt="" coords="1573,169,1731,211"/>
+<area shape="rect" id="node46" href="$BinaryByteStream_8h.html" title="llvm/Support/BinaryByteStream.h" alt="" coords="3313,266,3529,293"/>
+<area shape="rect" id="node47" href="$FileOutputBuffer_8h.html" title="llvm/Support/FileOutputBuffer.h" alt="" coords="4971,355,5176,382"/>
+<area shape="rect" id="node49" href="$BinaryStreamWriter_8h.html" title="llvm/Support/BinaryStream\lWriter.h" alt="" coords="2493,80,2672,121"/>
+<area shape="rect" id="node26" href="$BitVector_8h.html" title="llvm/ADT/BitVector.h" alt="" coords="2313,601,2460,628"/>
+<area shape="rect" id="node27" href="$MSFCommon_8h.html" title="llvm/DebugInfo/MSF\l/MSFCommon.h" alt="" coords="1285,437,1427,479"/>
+<area shape="rect" id="node39" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="1985,751,2146,777"/>
+<area shape="rect" id="node4" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="3510,751,3650,777"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1431,975,1593,1001"/>
+<area shape="rect" id="node15" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="1459,751,1581,777"/>
+<area shape="rect" id="node16" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2728,825,2891,852"/>
+<area shape="rect" id="node21" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3016,825,3171,852"/>
+<area shape="rect" id="node5" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="3089,900,3279,927"/>
+<area shape="rect" id="node8" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1157,825,1360,852"/>
+<area shape="rect" id="node17" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2037,900,2190,927"/>
+<area shape="rect" id="node29" href="$Host_8h.html" title="llvm/Support/Host.h" alt="" coords="3979,825,4117,852"/>
+<area shape="rect" id="node31" href="$c_2Error_8h.html" title="llvm&#45;c/Error.h" alt="" coords="2839,601,2939,628"/>
+<area shape="rect" id="node32" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="4649,601,4813,628"/>
+<area shape="rect" id="node34" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="4414,676,4541,703"/>
+<area shape="rect" id="node35" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="2963,601,3111,628"/>
+<area shape="rect" id="node36" href="$ErrorOr_8h.html" title="Provides ErrorOr&lt;T&gt; smart pointer. " alt="" coords="3296,825,3448,852"/>
+<area shape="rect" id="node37" href="$Format_8h.html" title="llvm/Support/Format.h" alt="" coords="3827,601,3978,628"/>
+<area shape="rect" id="node38" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="3979,676,4165,703"/>
+<area shape="rect" id="node33" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="4759,751,4905,777"/>
+<area shape="rect" id="node42" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2043,825,2197,852"/>
+<area shape="rect" id="node43" href="$BinaryStream_8h.html" title="llvm/Support/BinaryStream.h" alt="" coords="2216,355,2405,382"/>
+<area shape="rect" id="node45" href="$BinaryStreamRef_8h.html" title="llvm/Support/BinaryStream\lRef.h" alt="" coords="2341,259,2520,300"/>
+<area shape="rect" id="node44" href="$BinaryStreamError_8h.html" title="llvm/Support/BinaryStream\lError.h" alt="" coords="3060,437,3239,479"/>
+<area shape="rect" id="node48" href="$MemoryBuffer_8h.html" title="llvm/Support/MemoryBuffer.h" alt="" coords="4299,601,4491,628"/>
+<area shape="rect" id="node50" href="$BinaryStreamArray_8h.html" title="llvm/Support/BinaryStream\lArray.h" alt="" coords="2341,169,2520,211"/>
+</map>

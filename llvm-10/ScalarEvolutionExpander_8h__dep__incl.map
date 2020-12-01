@@ -1,0 +1,20 @@
+<map id="include/llvm/Analysis/ScalarEvolutionExpander.h" name="include/llvm/Analysis/ScalarEvolutionExpander.h">
+<area shape="rect" id="node2" href="$LoopAccessAnalysis_8cpp.html" title="lib/Analysis/LoopAccessAnalysis.cpp" alt="" coords="5,102,245,129"/>
+<area shape="rect" id="node3" href="$ScalarEvolutionExpander_8cpp.html" title="lib/Analysis/ScalarEvolution\lExpander.cpp" alt="" coords="269,95,453,136"/>
+<area shape="rect" id="node4" href="$HardwareLoops_8cpp.html" title="Insert hardware loop intrinsics into loops which are deemed profitable by the target, by querying TargetTransformInfo. " alt="" coords="478,102,693,129"/>
+<area shape="rect" id="node5" href="$MVETailPredication_8cpp.html" title="Armv8.1m introduced MVE, M&#45;Profile Vector Extension, and low&#45;overhead branches to help accelerate DSP..." alt="" coords="717,102,971,129"/>
+<area shape="rect" id="node6" href="$HexagonLoopIdiomRecognition_8cpp.html" title="lib/Target/Hexagon\l/HexagonLoopIdiomRecognition.cpp" alt="" coords="996,95,1228,136"/>
+<area shape="rect" id="node7" href="$PPCLoopInstrFormPrep_8cpp.html" title="lib/Target/PowerPC\l/PPCLoopInstrFormPrep.cpp" alt="" coords="1253,95,1443,136"/>
+<area shape="rect" id="node8" href="$InductiveRangeCheckElimination_8cpp.html" title="lib/Transforms/Scalar\l/InductiveRangeCheckElimination.cpp" alt="" coords="1467,95,1711,136"/>
+<area shape="rect" id="node9" href="$IndVarSimplify_8cpp.html" title="lib/Transforms/Scalar\l/IndVarSimplify.cpp" alt="" coords="1736,95,1883,136"/>
+<area shape="rect" id="node10" href="$LoopDataPrefetch_8cpp.html" title="lib/Transforms/Scalar\l/LoopDataPrefetch.cpp" alt="" coords="1907,95,2063,136"/>
+<area shape="rect" id="node11" href="$LoopIdiomRecognize_8cpp.html" title="lib/Transforms/Scalar\l/LoopIdiomRecognize.cpp" alt="" coords="2088,95,2261,136"/>
+<area shape="rect" id="node12" href="$LoopLoadElimination_8cpp.html" title="lib/Transforms/Scalar\l/LoopLoadElimination.cpp" alt="" coords="2285,95,2456,136"/>
+<area shape="rect" id="node13" href="$LoopPredication_8cpp.html" title="lib/Transforms/Scalar\l/LoopPredication.cpp" alt="" coords="2480,95,2627,136"/>
+<area shape="rect" id="node14" href="$LoopRerollPass_8cpp.html" title="lib/Transforms/Scalar\l/LoopRerollPass.cpp" alt="" coords="2651,95,2797,136"/>
+<area shape="rect" id="node15" href="$LoopStrengthReduce_8cpp.html" title="lib/Transforms/Scalar\l/LoopStrengthReduce.cpp" alt="" coords="2821,95,2995,136"/>
+<area shape="rect" id="node16" href="$LoopUnrollRuntime_8cpp.html" title="lib/Transforms/Utils\l/LoopUnrollRuntime.cpp" alt="" coords="3019,95,3181,136"/>
+<area shape="rect" id="node17" href="$LoopVersioning_8cpp.html" title="lib/Transforms/Utils\l/LoopVersioning.cpp" alt="" coords="3206,95,3346,136"/>
+<area shape="rect" id="node18" href="$SimplifyIndVar_8cpp.html" title="lib/Transforms/Utils\l/SimplifyIndVar.cpp" alt="" coords="3371,95,3507,136"/>
+<area shape="rect" id="node19" href="$LoopVectorize_8cpp.html" title="lib/Transforms/Vectorize\l/LoopVectorize.cpp" alt="" coords="3531,95,3695,136"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1cl_1_1bits__storage.html" title="llvm::cl::bits_storage\l\&lt; DataType, Storage \&gt;" alt="" coords="25,5,181,47"/>
+<area shape="rect" id="node2" href="$classllvm_1_1cl_1_1bits.html" title="llvm::cl::bits\&lt; DataType,\l Storage, ParserClass \&gt;" alt="" coords="271,5,438,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1cl_1_1list__storage.html" title="llvm::cl::list_storage\l\&lt; DataType, StorageClass \&gt;" alt="" coords="8,71,199,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1cl_1_1list.html" title="llvm::cl::list\&lt; DataType,\l StorageClass, ParserClass \&gt;" alt="" coords="256,71,453,112"/>
+<area shape="rect" id="node5" href="$classllvm_1_1cl_1_1opt__storage.html" title="llvm::cl::opt_storage\l\&lt; DataType, ExternalStorage,\l std::is_class\&lt; DataType\l \&gt;::value \&gt;" alt="" coords="5,188,201,259"/>
+<area shape="rect" id="node6" href="$classllvm_1_1cl_1_1opt.html" title="llvm::cl::opt\&lt; DataType,\l ExternalStorage, ParserClass \&gt;" alt="" coords="249,195,460,236"/>
+<area shape="rect" id="node7" href="$classllvm_1_1cl_1_1Option.html" title="llvm::cl::Option" alt="" coords="48,137,159,163"/>
+<area shape="rect" id="node8" href="$classllvm_1_1cl_1_1alias.html" title="llvm::cl::alias" alt="" coords="305,137,404,163"/>
+</map>

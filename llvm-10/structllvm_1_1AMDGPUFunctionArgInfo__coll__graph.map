@@ -1,0 +1,5 @@
+<map id="llvm::AMDGPUFunctionArgInfo" name="llvm::AMDGPUFunctionArgInfo">
+<area shape="rect" id="node2" href="$structllvm_1_1ArgDescriptor.html" title="llvm::ArgDescriptor" alt="" coords="41,95,175,121"/>
+<area shape="rect" id="node3" href="$classunsigned.html" title="unsigned" alt="" coords="15,5,89,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Register.html" title="Wrapper class representing virtual and physical registers. " alt="" coords="114,5,217,32"/>
+</map>

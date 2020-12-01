@@ -1,0 +1,35 @@
+<map id="lib/MCA/HardwareUnits/RegisterFile.cpp" name="lib/MCA/HardwareUnits/RegisterFile.cpp">
+<area shape="rect" id="node2" href="$RegisterFile_8h.html" title="This file defines a register mapping file class. " alt="" coords="4216,95,4387,136"/>
+<area shape="rect" id="node49" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="6006,273,6154,300"/>
+<area shape="rect" id="node50" href="$MCA_2Instruction_8h.html" title="This file defines abstractions used by the Pipeline to model register reads, register writes and inst..." alt="" coords="2605,273,2761,300"/>
+<area shape="rect" id="node3" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="4752,497,4877,524"/>
+<area shape="rect" id="node13" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3501,497,3664,524"/>
+<area shape="rect" id="node26" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="2148,191,2327,218"/>
+<area shape="rect" id="node37" href="$MCSchedule_8h.html" title="llvm/MC/MCSchedule.h" alt="" coords="1526,348,1687,375"/>
+<area shape="rect" id="node40" href="$MCSubtargetInfo_8h.html" title="llvm/MC/MCSubtargetInfo.h" alt="" coords="3437,191,3622,218"/>
+<area shape="rect" id="node45" href="$HardwareUnit_8h.html" title="This file defines a base class for describing a simulated hardware unit. " alt="" coords="4339,184,4509,225"/>
+<area shape="rect" id="node46" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="4533,191,4672,218"/>
+<area shape="rect" id="node4" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="4159,721,4321,748"/>
+<area shape="rect" id="node6" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="4041,572,4218,599"/>
+<area shape="rect" id="node14" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="428,647,599,673"/>
+<area shape="rect" id="node17" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="3457,572,3610,599"/>
+<area shape="rect" id="node19" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="5003,572,5171,599"/>
+<area shape="rect" id="node20" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="5164,647,5353,673"/>
+<area shape="rect" id="node22" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2016,647,2187,673"/>
+<area shape="rect" id="node27" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2349,497,2504,524"/>
+<area shape="rect" id="node28" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="753,572,885,599"/>
+<area shape="rect" id="node29" href="$LaneBitmask_8h.html" title="A common definition of LaneBitmask for use in TableGen and CodeGen. " alt="" coords="3756,273,3919,300"/>
+<area shape="rect" id="node36" href="$MCRegister_8h.html" title="llvm/MC/MCRegister.h" alt="" coords="2402,348,2558,375"/>
+<area shape="rect" id="node30" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="3306,348,3491,375"/>
+<area shape="rect" id="node31" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3456,423,3603,449"/>
+<area shape="rect" id="node32" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2039,497,2193,524"/>
+<area shape="rect" id="node33" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2046,572,2186,599"/>
+<area shape="rect" id="node38" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2032,423,2176,449"/>
+<area shape="rect" id="node39" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="1519,423,1694,449"/>
+<area shape="rect" id="node41" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="3994,273,4118,300"/>
+<area shape="rect" id="node43" href="$MCInstrItineraries_8h.html" title="llvm/MC/MCInstrItineraries.h" alt="" coords="1511,273,1702,300"/>
+<area shape="rect" id="node44" href="$SubtargetFeature_8h.html" title="llvm/MC/SubtargetFeature.h" alt="" coords="3865,348,4052,375"/>
+<area shape="rect" id="node42" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="4077,348,4203,375"/>
+<area shape="rect" id="node47" href="$c_2Error_8h.html" title="llvm&#45;c/Error.h" alt="" coords="4755,273,4855,300"/>
+<area shape="rect" id="node48" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="3567,273,3731,300"/>
+</map>

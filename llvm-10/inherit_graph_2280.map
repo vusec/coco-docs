@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structllvm_1_1FixedNumOperandTraits.html" title="FixedNumOperandTraits &#45; determine the allocation regime of the Use array when it is a prefix to the U..." alt="" coords="5,5,201,47"/>
+<area shape="rect" id="node2" href="$structllvm_1_1OptionalOperandTraits.html" title="OptionalOperandTraits &#45; when the number of operands may change at runtime. " alt="" coords="249,5,433,47"/>
+</map>

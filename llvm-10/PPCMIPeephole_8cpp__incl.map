@@ -1,0 +1,42 @@
+<map id="lib/Target/PowerPC/PPCMIPeephole.cpp" name="lib/Target/PowerPC/PPCMIPeephole.cpp">
+<area shape="rect" id="node2" href="$PPCMCTargetDesc_8h.html" title="MCTargetDesc/PPCMCTarget\lDesc.h" alt="" coords="1666,423,1867,464"/>
+<area shape="rect" id="node13" href="$PPCPredicates_8h.html" title="MCTargetDesc/PPCPredicates.h" alt="" coords="4057,95,4273,121"/>
+<area shape="rect" id="node14" href="$PPC_8h.html" title="PPC.h" alt="" coords="3613,169,3675,196"/>
+<area shape="rect" id="node16" href="$PPCInstrBuilder_8h.html" title="PPCInstrBuilder.h" alt="" coords="886,169,1013,196"/>
+<area shape="rect" id="node17" href="$MachineInstrBuilder_8h.html" title="llvm/CodeGen/MachineInstr\lBuilder.h" alt="" coords="361,423,545,464"/>
+<area shape="rect" id="node28" href="$PPCInstrInfo_8h.html" title="PPCInstrInfo.h" alt="" coords="1712,251,1821,278"/>
+<area shape="rect" id="node31" href="$PPCMachineFunctionInfo_8h.html" title="PPCMachineFunctionInfo.h" alt="" coords="2514,430,2697,457"/>
+<area shape="rect" id="node33" href="$PPCTargetMachine_8h.html" title="PPCTargetMachine.h" alt="" coords="2601,95,2748,121"/>
+<area shape="rect" id="node38" href="$Statistic_8h.html" title="llvm/ADT/Statistic.h" alt="" coords="3950,609,4090,635"/>
+<area shape="rect" id="node40" href="$MachineBlockFrequencyInfo_8h.html" title="llvm/CodeGen/MachineBlock\lFrequencyInfo.h" alt="" coords="3353,333,3543,375"/>
+<area shape="rect" id="node41" href="$MachineFunctionPass_8h.html" title="llvm/CodeGen/MachineFunction\lPass.h" alt="" coords="3079,423,3287,464"/>
+<area shape="rect" id="node43" href="$MachineDominators_8h.html" title="llvm/CodeGen/MachineDominators.h" alt="" coords="2771,341,3007,367"/>
+<area shape="rect" id="node47" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="3726,609,3874,635"/>
+<area shape="rect" id="node48" href="$MachinePostDominators_8h.html" title="llvm/CodeGen/MachinePost\lDominators.h" alt="" coords="3133,244,3318,285"/>
+<area shape="rect" id="node49" href="$MachineRegisterInfo_8h.html" title="llvm/CodeGen/MachineRegister\lInfo.h" alt="" coords="1014,423,1221,464"/>
+<area shape="rect" id="node50" href="$InitializePasses_8h.html" title="llvm/InitializePasses.h" alt="" coords="4298,95,4451,121"/>
+<area shape="rect" id="node3" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="1492,698,1671,725"/>
+<area shape="rect" id="node6" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="2485,780,2662,807"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2983,855,3145,881"/>
+<area shape="rect" id="node15" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="3585,519,3751,546"/>
+<area shape="rect" id="node18" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2416,609,2560,635"/>
+<area shape="rect" id="node21" href="$CodeGen_2GlobalISel_2Utils_8h.html" title="llvm/CodeGen/GlobalISel\l/Utils.h" alt="" coords="145,512,314,553"/>
+<area shape="rect" id="node22" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="1105,601,1295,643"/>
+<area shape="rect" id="node23" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="701,698,896,725"/>
+<area shape="rect" id="node24" href="$MachineOperand_8h.html" title="llvm/CodeGen/MachineOperand.h" alt="" coords="496,780,715,807"/>
+<area shape="rect" id="node25" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="1868,519,2087,546"/>
+<area shape="rect" id="node27" href="$MachineInstrBundle_8h.html" title="llvm/CodeGen/MachineInstr\lBundle.h" alt="" coords="795,512,979,553"/>
+<area shape="rect" id="node19" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2737,698,2900,725"/>
+<area shape="rect" id="node26" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3009,698,3149,725"/>
+<area shape="rect" id="node29" href="$PPCRegisterInfo_8h.html" title="PPCRegisterInfo.h" alt="" coords="1701,341,1833,367"/>
+<area shape="rect" id="node30" href="$TargetInstrInfo_8h.html" title="llvm/CodeGen/TargetInstr\lInfo.h" alt="" coords="781,333,953,375"/>
+<area shape="rect" id="node32" href="$TargetCallingConv_8h.html" title="llvm/CodeGen/TargetCalling\lConv.h" alt="" coords="2071,691,2257,732"/>
+<area shape="rect" id="node34" href="$PPCSubtarget_8h.html" title="PPCSubtarget.h" alt="" coords="2341,169,2459,196"/>
+<area shape="rect" id="node35" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="2561,519,2708,546"/>
+<area shape="rect" id="node36" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="3311,430,3499,457"/>
+<area shape="rect" id="node37" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="3409,519,3500,546"/>
+<area shape="rect" id="node42" href="$BlockFrequency_8h.html" title="llvm/Support/BlockFrequency.h" alt="" coords="3575,430,3779,457"/>
+<area shape="rect" id="node44" href="$SmallSet_8h.html" title="llvm/ADT/SmallSet.h" alt="" coords="3326,609,3471,635"/>
+<area shape="rect" id="node45" href="$GenericDomTree_8h.html" title="This file defines a set of templates that efficiently compute a dominator tree over a generic graph..." alt="" coords="2889,609,3098,635"/>
+<area shape="rect" id="node46" href="$GenericDomTreeConstruction_8h.html" title="Generic dominator tree construction &#45; This file provides routines to construct immediate dominator in..." alt="" coords="3035,512,3234,553"/>
+</map>

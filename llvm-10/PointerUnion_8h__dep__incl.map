@@ -1,0 +1,51 @@
+<map id="include/llvm/ADT/PointerUnion.h" name="include/llvm/ADT/PointerUnion.h">
+<area shape="rect" id="node2" href="$FunctionExtras_8h.html" title="This file provides a collection of function (or more generally, callable) type erasure utilities supp..." alt="" coords="315,95,491,136"/>
+<area shape="rect" id="node8" href="$ConstantHoisting_8h.html" title="include/llvm/Transforms\l/Scalar/ConstantHoisting.h" alt="" coords="601,363,779,404"/>
+<area shape="rect" id="node10" href="$LowerTypeTests_8cpp.html" title="lib/Transforms/IPO\l/LowerTypeTests.cpp" alt="" coords="1768,363,1916,404"/>
+<area shape="rect" id="node12" href="$TinyPtrVector_8h.html" title="include/llvm/ADT/TinyPtr\lVector.h" alt="" coords="1463,95,1631,136"/>
+<area shape="rect" id="node15" href="$MachineRegisterInfo_8h.html" title="include/llvm/CodeGen\l/MachineRegisterInfo.h" alt="" coords="2507,363,2665,404"/>
+<area shape="rect" id="node16" href="$MipsDelaySlotFiller_8cpp.html" title="lib/Target/Mips/MipsDelay\lSlotFiller.cpp" alt="" coords="2445,452,2620,493"/>
+<area shape="rect" id="node17" href="$MipsOptimizePICCall_8cpp.html" title="lib/Target/Mips/MipsOptimize\lPICCall.cpp" alt="" coords="2682,452,2874,493"/>
+<area shape="rect" id="node28" href="$DIE_8h.html" title="include/llvm/CodeGen\l/DIE.h" alt="" coords="3669,95,3820,136"/>
+<area shape="rect" id="node39" href="$MachineMemOperand_8h.html" title="include/llvm/CodeGen\l/MachineMemOperand.h" alt="" coords="2648,95,2812,136"/>
+<area shape="rect" id="node41" href="$WasmEHFuncInfo_8h.html" title="include/llvm/CodeGen\l/WasmEHFuncInfo.h" alt="" coords="3844,95,3995,136"/>
+<area shape="rect" id="node42" href="$WinEHFuncInfo_8h.html" title="include/llvm/CodeGen\l/WinEHFuncInfo.h" alt="" coords="4019,95,4169,136"/>
+<area shape="rect" id="node43" href="$DebugInfoMetadata_8h.html" title="include/llvm/IR/DebugInfo\lMetadata.h" alt="" coords="2955,184,3129,225"/>
+<area shape="rect" id="node44" href="$GetElementPtrTypeIterator_8h.html" title="include/llvm/IR/GetElement\lPtrTypeIterator.h" alt="" coords="1032,95,1215,136"/>
+<area shape="rect" id="node45" href="$GlobalVariable_8h.html" title="include/llvm/IR/GlobalVariable.h" alt="" coords="2825,281,3033,307"/>
+<area shape="rect" id="node46" href="$Metadata_8h.html" title="This file contains the declarations for metadata subclasses. " alt="" coords="2082,102,2261,129"/>
+<area shape="rect" id="node47" href="$IRObjectFile_8h.html" title="include/llvm/Object\l/IRObjectFile.h" alt="" coords="4654,184,4787,225"/>
+<area shape="rect" id="node48" href="$ModuleSymbolTable_8h.html" title="include/llvm/Object\l/ModuleSymbolTable.h" alt="" coords="4194,95,4349,136"/>
+<area shape="rect" id="node49" href="$Support_2SourceMgr_8h.html" title="include/llvm/Support\l/SourceMgr.h" alt="" coords="4424,95,4564,136"/>
+<area shape="rect" id="node50" href="$CodeViewDebug_8h.html" title="lib/CodeGen/AsmPrinter\l/CodeViewDebug.h" alt="" coords="2209,273,2371,315"/>
+<area shape="rect" id="node3" href="$JITSymbol_8h.html" title="include/llvm/ExecutionEngine\l/JITSymbol.h" alt="" coords="127,184,320,225"/>
+<area shape="rect" id="node4" href="$ExecutionEngine_2Orc_2Core_8h.html" title="include/llvm/ExecutionEngine\l/Orc/Core.h" alt="" coords="236,273,429,315"/>
+<area shape="rect" id="node5" href="$RuntimeDyld_8h.html" title="include/llvm/ExecutionEngine\l/RuntimeDyld.h" alt="" coords="5,273,199,315"/>
+<area shape="rect" id="node6" href="$PassInstrumentation_8h.html" title="This file defines the Pass Instrumentation classes that provide instrumentation points into the pass ..." alt="" coords="612,191,856,218"/>
+<area shape="rect" id="node11" href="$Threading_8h.html" title="include/llvm/Support\l/Threading.h" alt="" coords="396,184,536,225"/>
+<area shape="rect" id="node7" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM. " alt="" coords="703,281,907,307"/>
+<area shape="rect" id="node9" href="$InstructionCombining_8cpp.html" title="lib/Transforms/InstCombine\l/InstructionCombining.cpp" alt="" coords="1056,363,1239,404"/>
+<area shape="rect" id="node13" href="$EHPersonalities_8h.html" title="include/llvm/Analysis\l/EHPersonalities.h" alt="" coords="1583,184,1728,225"/>
+<area shape="rect" id="node19" href="$CodeViewDebug_8cpp.html" title="lib/CodeGen/AsmPrinter\l/CodeViewDebug.cpp" alt="" coords="2270,363,2433,404"/>
+<area shape="rect" id="node22" href="$MachineModuleInfo_8cpp.html" title="lib/CodeGen/MachineModule\lInfo.cpp" alt="" coords="2057,363,2246,404"/>
+<area shape="rect" id="node23" href="$Local_8cpp.html" title="lib/Transforms/Utils\l/Local.cpp" alt="" coords="1330,273,1466,315"/>
+<area shape="rect" id="node24" href="$ModuleSummaryIndex_8h.html" title="ModuleSummaryIndex.h This file contains the declarations the classes that hold the module index and s..." alt="" coords="1670,273,1881,315"/>
+<area shape="rect" id="node25" href="$Transforms_2Utils_2Local_8h.html" title="include/llvm/Transforms\l/Utils/Local.h" alt="" coords="983,184,1144,225"/>
+<area shape="rect" id="node26" href="$PromoteMemoryToRegister_8cpp.html" title="lib/Transforms/Utils\l/PromoteMemoryToRegister.cpp" alt="" coords="1035,273,1246,315"/>
+<area shape="rect" id="node27" href="$SSAUpdater_8cpp.html" title="lib/Transforms/Utils\l/SSAUpdater.cpp" alt="" coords="1371,184,1507,225"/>
+<area shape="rect" id="node14" href="$MachineFunction_8h.html" title="include/llvm/CodeGen\l/MachineFunction.h" alt="" coords="2599,273,2749,315"/>
+<area shape="rect" id="node18" href="$AsmPrinterDwarf_8cpp.html" title="lib/CodeGen/AsmPrinter\l/AsmPrinterDwarf.cpp" alt="" coords="2847,363,3010,404"/>
+<area shape="rect" id="node20" href="$DwarfCompileUnit_8cpp.html" title="lib/CodeGen/AsmPrinter\l/DwarfCompileUnit.cpp" alt="" coords="3039,363,3202,404"/>
+<area shape="rect" id="node21" href="$DwarfDebug_8cpp.html" title="lib/CodeGen/AsmPrinter\l/DwarfDebug.cpp" alt="" coords="3454,363,3617,404"/>
+<area shape="rect" id="node29" href="$AccelTable_8h.html" title="include/llvm/CodeGen\l/AccelTable.h" alt="" coords="4377,273,4528,315"/>
+<area shape="rect" id="node30" href="$AccelTable_8cpp.html" title="lib/CodeGen/AsmPrinter\l/AccelTable.cpp" alt="" coords="4371,363,4534,404"/>
+<area shape="rect" id="node31" href="$DWARFLinkerCompileUnit_8h.html" title="include/llvm/DWARFLinker\l/DWARFLinkerCompileUnit.h" alt="" coords="3513,184,3707,225"/>
+<area shape="rect" id="node32" href="$DIEHash_8h.html" title="lib/CodeGen/AsmPrinter\l/DIEHash.h" alt="" coords="4019,184,4182,225"/>
+<area shape="rect" id="node33" href="$DIEHash_8cpp.html" title="lib/CodeGen/AsmPrinter\l/DIEHash.cpp" alt="" coords="4139,273,4302,315"/>
+<area shape="rect" id="node34" href="$DwarfFile_8h.html" title="lib/CodeGen/AsmPrinter\l/DwarfFile.h" alt="" coords="3513,273,3675,315"/>
+<area shape="rect" id="node35" href="$DwarfFile_8cpp.html" title="lib/CodeGen/AsmPrinter\l/DwarfFile.cpp" alt="" coords="3801,363,3963,404"/>
+<area shape="rect" id="node36" href="$DwarfUnit_8h.html" title="lib/CodeGen/AsmPrinter\l/DwarfUnit.h" alt="" coords="3833,184,3995,225"/>
+<area shape="rect" id="node37" href="$DwarfCompileUnit_8h.html" title="lib/CodeGen/AsmPrinter\l/DwarfCompileUnit.h" alt="" coords="3801,273,3963,315"/>
+<area shape="rect" id="node38" href="$DIE_8cpp.html" title="lib/CodeGen/AsmPrinter\l/DIE.cpp" alt="" coords="4021,363,4183,404"/>
+<area shape="rect" id="node40" href="$MachineInstr_8h.html" title="include/llvm/CodeGen\l/MachineInstr.h" alt="" coords="2712,184,2863,225"/>
+</map>

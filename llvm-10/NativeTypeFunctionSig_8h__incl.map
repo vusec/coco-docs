@@ -1,0 +1,31 @@
+<map id="include/llvm/DebugInfo/PDB/Native/NativeTypeFunctionSig.h" name="include/llvm/DebugInfo/PDB/Native/NativeTypeFunctionSig.h">
+<area shape="rect" id="node2" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="4149,549,4289,575"/>
+<area shape="rect" id="node13" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2993,549,3156,575"/>
+<area shape="rect" id="node27" href="$CodeView_8h.html" title="llvm/DebugInfo/CodeView\l/CodeView.h" alt="" coords="534,452,709,493"/>
+<area shape="rect" id="node34" href="$TypeRecord_8h.html" title="llvm/DebugInfo/CodeView\l/TypeRecord.h" alt="" coords="1570,273,1745,315"/>
+<area shape="rect" id="node44" href="$NativeRawSymbol_8h.html" title="llvm/DebugInfo/PDB\l/Native/NativeRawSymbol.h" alt="" coords="3447,273,3635,315"/>
+<area shape="rect" id="node46" href="$NativeSession_8h.html" title="llvm/DebugInfo/PDB\l/Native/NativeSession.h" alt="" coords="3218,95,3382,136"/>
+<area shape="rect" id="node3" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="2692,631,2815,657"/>
+<area shape="rect" id="node4" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="4109,780,4272,807"/>
+<area shape="rect" id="node7" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="3815,631,3985,657"/>
+<area shape="rect" id="node14" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3367,631,3537,657"/>
+<area shape="rect" id="node16" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2514,631,2667,657"/>
+<area shape="rect" id="node18" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1957,631,2134,657"/>
+<area shape="rect" id="node23" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="4567,631,4735,657"/>
+<area shape="rect" id="node24" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="4876,705,5065,732"/>
+<area shape="rect" id="node19" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1579,705,1781,732"/>
+<area shape="rect" id="node29" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="933,549,1083,575"/>
+<area shape="rect" id="node35" href="$APSInt_8h.html" title="llvm/ADT/APSInt.h" alt="" coords="1159,370,1294,397"/>
+<area shape="rect" id="node36" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1653,459,1797,486"/>
+<area shape="rect" id="node38" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3527,549,3673,575"/>
+<area shape="rect" id="node39" href="$CVRecord_8h.html" title="llvm/DebugInfo/CodeView\l/CVRecord.h" alt="" coords="1318,363,1493,404"/>
+<area shape="rect" id="node40" href="$TypeIndex_8h.html" title="llvm/DebugInfo/CodeView\l/TypeIndex.h" alt="" coords="807,452,982,493"/>
+<area shape="rect" id="node42" href="$GUID_8h.html" title="llvm/DebugInfo/CodeView\l/GUID.h" alt="" coords="1261,541,1435,583"/>
+<area shape="rect" id="node43" href="$BinaryStreamArray_8h.html" title="llvm/Support/BinaryStream\lArray.h" alt="" coords="1568,363,1747,404"/>
+<area shape="rect" id="node41" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="2565,459,2704,486"/>
+<area shape="rect" id="node45" href="$IPDBRawSymbol_8h.html" title="llvm/DebugInfo/PDB\l/IPDBRawSymbol.h" alt="" coords="3389,363,3531,404"/>
+<area shape="rect" id="node47" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2412,549,2567,575"/>
+<area shape="rect" id="node48" href="$IPDBSession_8h.html" title="llvm/DebugInfo/PDB\l/IPDBSession.h" alt="" coords="4754,452,4897,493"/>
+<area shape="rect" id="node49" href="$SymbolCache_8h.html" title="llvm/DebugInfo/PDB\l/Native/SymbolCache.h" alt="" coords="3159,184,3321,225"/>
+<area shape="rect" id="node50" href="$Allocator_8h.html" title="This file defines the MallocAllocator and BumpPtrAllocator interfaces. " alt="" coords="4058,459,4219,486"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="llvm::MipselTargetMachine" name="llvm::MipselTargetMachine">
+<area shape="rect" id="node2" href="$classllvm_1_1MipsTargetMachine.html" title="llvm::MipsTargetMachine" alt="" coords="11,155,179,181"/>
+<area shape="rect" id="node3" href="$classllvm_1_1LLVMTargetMachine.html" title="This class describes a target machine that is implemented with the LLVM target&#45;independent code gener..." alt="" coords="7,80,182,107"/>
+<area shape="rect" id="node4" href="$classllvm_1_1TargetMachine.html" title="Primary interface to the complete machine description for the target machine. " alt="" coords="25,5,165,32"/>
+</map>

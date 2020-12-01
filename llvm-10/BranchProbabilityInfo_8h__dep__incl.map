@@ -1,0 +1,42 @@
+<map id="include/llvm/Analysis/BranchProbabilityInfo.h" name="include/llvm/Analysis/BranchProbabilityInfo.h">
+<area shape="rect" id="node2" href="$LazyBranchProbabilityInfo_8h.html" title="include/llvm/Analysis\l/LazyBranchProbabilityInfo.h" alt="" coords="645,95,834,136"/>
+<area shape="rect" id="node5" href="$OptimizationRemarkEmitter_8cpp.html" title="lib/Analysis/Optimization\lRemarkEmitter.cpp" alt="" coords="5,273,172,315"/>
+<area shape="rect" id="node7" href="$SelectionDAGISel_8cpp.html" title="lib/CodeGen/SelectionDAG\l/SelectionDAGISel.cpp" alt="" coords="1255,273,1437,315"/>
+<area shape="rect" id="node12" href="$SpeculateAnalyses_8h.html" title="include/llvm/ExecutionEngine\l/Orc/SpeculateAnalyses.h" alt="" coords="1039,95,1232,136"/>
+<area shape="rect" id="node13" href="$SpeculateAnalyses_8cpp.html" title="lib/ExecutionEngine\l/Orc/SpeculateAnalyses.cpp" alt="" coords="1045,184,1233,225"/>
+<area shape="rect" id="node14" href="$JumpThreading_8h.html" title="See the comments on JumpThreadingPass. " alt="" coords="1359,95,1525,136"/>
+<area shape="rect" id="node15" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="1272,191,1455,218"/>
+<area shape="rect" id="node16" href="$JumpThreading_8cpp.html" title="lib/Transforms/Scalar\l/JumpThreading.cpp" alt="" coords="1486,184,1633,225"/>
+<area shape="rect" id="node17" href="$BlockFrequencyInfo_8cpp.html" title="lib/Analysis/BlockFrequency\lInfo.cpp" alt="" coords="1601,95,1787,136"/>
+<area shape="rect" id="node18" href="$BranchProbabilityInfo_8cpp.html" title="lib/Analysis/BranchProbability\lInfo.cpp" alt="" coords="1811,95,2006,136"/>
+<area shape="rect" id="node19" href="$ModuleSummaryAnalysis_8cpp.html" title="lib/Analysis/ModuleSummary\lAnalysis.cpp" alt="" coords="2031,95,2221,136"/>
+<area shape="rect" id="node20" href="$CodeGenPrepare_8cpp.html" title="lib/CodeGen/CodeGenPrepare.cpp" alt="" coords="2245,102,2468,129"/>
+<area shape="rect" id="node21" href="$IRTranslator_8cpp.html" title="This file implements the IRTranslator class. " alt="" coords="2492,95,2651,136"/>
+<area shape="rect" id="node22" href="$SafeStack_8cpp.html" title="lib/CodeGen/SafeStack.cpp" alt="" coords="2675,102,2859,129"/>
+<area shape="rect" id="node23" href="$FastISel_8cpp.html" title="lib/CodeGen/SelectionDAG\l/FastISel.cpp" alt="" coords="2883,95,3065,136"/>
+<area shape="rect" id="node24" href="$SelectionDAGBuilder_8cpp.html" title="lib/CodeGen/SelectionDAG\l/SelectionDAGBuilder.cpp" alt="" coords="3089,95,3270,136"/>
+<area shape="rect" id="node25" href="$StackProtector_8cpp.html" title="lib/CodeGen/StackProtector.cpp" alt="" coords="3294,102,3505,129"/>
+<area shape="rect" id="node26" href="$AArch64FastISel_8cpp.html" title="lib/Target/AArch64\l/AArch64FastISel.cpp" alt="" coords="3529,95,3680,136"/>
+<area shape="rect" id="node27" href="$PPCISelDAGToDAG_8cpp.html" title="lib/Target/PowerPC\l/PPCISelDAGToDAG.cpp" alt="" coords="3704,95,3879,136"/>
+<area shape="rect" id="node28" href="$WebAssemblyFastISel_8cpp.html" title="This file defines the WebAssembly&#45;specific support for the FastISel class. " alt="" coords="3903,95,4088,136"/>
+<area shape="rect" id="node29" href="$X86FastISel_8cpp.html" title="lib/Target/X86/X86FastISel.cpp" alt="" coords="4112,102,4316,129"/>
+<area shape="rect" id="node30" href="$CFGMST_8h.html" title="lib/Transforms/Instrumentation\l/CFGMST.h" alt="" coords="4340,95,4539,136"/>
+<area shape="rect" id="node31" href="$PGOInstrumentation_8cpp.html" title="lib/Transforms/Instrumentation\l/PGOInstrumentation.cpp" alt="" coords="4408,184,4607,225"/>
+<area shape="rect" id="node32" href="$InstrProfiling_8cpp.html" title="lib/Transforms/Instrumentation\l/InstrProfiling.cpp" alt="" coords="4612,95,4811,136"/>
+<area shape="rect" id="node33" href="$HotColdSplitting_8cpp.html" title="The goal of hot/cold splitting is to improve the memory locality of code. " alt="" coords="4835,95,4982,136"/>
+<area shape="rect" id="node34" href="$PartialInlining_8cpp.html" title="lib/Transforms/IPO\l/PartialInlining.cpp" alt="" coords="5007,95,5139,136"/>
+<area shape="rect" id="node35" href="$GuardWidening_8cpp.html" title="lib/Transforms/Scalar\l/GuardWidening.cpp" alt="" coords="5163,95,5310,136"/>
+<area shape="rect" id="node36" href="$InductiveRangeCheckElimination_8cpp.html" title="lib/Transforms/Scalar\l/InductiveRangeCheckElimination.cpp" alt="" coords="5335,95,5579,136"/>
+<area shape="rect" id="node37" href="$LoopPredication_8cpp.html" title="lib/Transforms/Scalar\l/LoopPredication.cpp" alt="" coords="5603,95,5750,136"/>
+<area shape="rect" id="node38" href="$BreakCriticalEdges_8cpp.html" title="lib/Transforms/Utils\l/BreakCriticalEdges.cpp" alt="" coords="5774,95,5937,136"/>
+<area shape="rect" id="node39" href="$CodeExtractor_8cpp.html" title="lib/Transforms/Utils\l/CodeExtractor.cpp" alt="" coords="5961,95,6097,136"/>
+<area shape="rect" id="node40" href="$LCSSA_8cpp.html" title="lib/Transforms/Utils\l/LCSSA.cpp" alt="" coords="6121,95,6257,136"/>
+<area shape="rect" id="node41" href="$LoopSimplify_8cpp.html" title="lib/Transforms/Utils\l/LoopSimplify.cpp" alt="" coords="6281,95,6417,136"/>
+<area shape="rect" id="node3" href="$LazyBlockFrequencyInfo_8h.html" title="include/llvm/Analysis\l/LazyBlockFrequencyInfo.h" alt="" coords="535,184,717,225"/>
+<area shape="rect" id="node4" href="$LazyBlockFrequencyInfo_8cpp.html" title="lib/Analysis/LazyBlockFrequency\lInfo.cpp" alt="" coords="196,273,411,315"/>
+<area shape="rect" id="node11" href="$LazyBranchProbabilityInfo_8cpp.html" title="lib/Analysis/LazyBranchProbability\lInfo.cpp" alt="" coords="741,184,964,225"/>
+<area shape="rect" id="node6" href="$ExpandMemCmp_8cpp.html" title="lib/CodeGen/ExpandMemCmp.cpp" alt="" coords="1007,281,1231,307"/>
+<area shape="rect" id="node8" href="$InstructionCombining_8cpp.html" title="lib/Transforms/InstCombine\l/InstructionCombining.cpp" alt="" coords="435,273,617,315"/>
+<area shape="rect" id="node9" href="$LoopLoadElimination_8cpp.html" title="lib/Transforms/Scalar\l/LoopLoadElimination.cpp" alt="" coords="642,273,813,315"/>
+<area shape="rect" id="node10" href="$LoopUnrollPass_8cpp.html" title="lib/Transforms/Scalar\l/LoopUnrollPass.cpp" alt="" coords="837,273,983,315"/>
+</map>

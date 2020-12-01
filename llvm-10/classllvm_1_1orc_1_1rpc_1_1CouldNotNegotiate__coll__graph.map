@@ -1,0 +1,7 @@
+<map id="llvm::orc::rpc::CouldNotNegotiate" name="llvm::orc::rpc::CouldNotNegotiate">
+<area shape="rect" id="node2" href="$classllvm_1_1ErrorInfo.html" title="llvm::ErrorInfo\&lt; CouldNot\lNegotiate \&gt;" alt="" coords="9,185,179,227"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes. " alt="" coords="5,89,140,115"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types. " alt="" coords="164,81,323,123"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ParentErrT.html" title="ParentErrT" alt="" coords="201,5,286,32"/>
+<area shape="rect" id="node6" href="$classchar.html" title="char" alt="" coords="204,193,251,219"/>
+</map>

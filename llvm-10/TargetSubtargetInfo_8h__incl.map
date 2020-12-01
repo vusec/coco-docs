@@ -1,0 +1,30 @@
+<map id="include/llvm/CodeGen/TargetSubtargetInfo.h" name="include/llvm/CodeGen/TargetSubtargetInfo.h">
+<area shape="rect" id="node2" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="793,408,919,435"/>
+<area shape="rect" id="node17" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2487,333,2631,360"/>
+<area shape="rect" id="node23" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1808,408,1971,435"/>
+<area shape="rect" id="node40" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3067,333,3213,360"/>
+<area shape="rect" id="node41" href="$PBQPRAConstraint_8h.html" title="llvm/CodeGen/PBQPRAConstraint.h" alt="" coords="3682,333,3918,360"/>
+<area shape="rect" id="node42" href="$ScheduleDAGMutation_8h.html" title="llvm/CodeGen/ScheduleDAGMutation.h" alt="" coords="4043,95,4296,121"/>
+<area shape="rect" id="node43" href="$SchedulerRegistry_8h.html" title="llvm/CodeGen/SchedulerRegistry.h" alt="" coords="3261,95,3488,121"/>
+<area shape="rect" id="node45" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="3493,177,3659,203"/>
+<area shape="rect" id="node46" href="$MCSubtargetInfo_8h.html" title="llvm/MC/MCSubtargetInfo.h" alt="" coords="2178,95,2363,121"/>
+<area shape="rect" id="node3" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="695,632,857,659"/>
+<area shape="rect" id="node6" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1311,483,1489,509"/>
+<area shape="rect" id="node7" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1183,557,1385,584"/>
+<area shape="rect" id="node8" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="495,632,670,659"/>
+<area shape="rect" id="node18" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="1147,483,1287,509"/>
+<area shape="rect" id="node22" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="2399,557,2521,584"/>
+<area shape="rect" id="node32" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3011,408,3165,435"/>
+<area shape="rect" id="node19" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="549,557,739,584"/>
+<area shape="rect" id="node20" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1868,557,2039,584"/>
+<area shape="rect" id="node24" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="4031,557,4201,584"/>
+<area shape="rect" id="node26" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1639,557,1793,584"/>
+<area shape="rect" id="node27" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="651,483,819,509"/>
+<area shape="rect" id="node33" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2330,483,2470,509"/>
+<area shape="rect" id="node34" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="3911,483,4043,509"/>
+<area shape="rect" id="node44" href="$MachinePassRegistry_8h.html" title="llvm/CodeGen/MachinePass\lRegistry.h" alt="" coords="3281,169,3469,211"/>
+<area shape="rect" id="node47" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="2209,177,2333,203"/>
+<area shape="rect" id="node48" href="$MCInstrItineraries_8h.html" title="llvm/MC/MCInstrItineraries.h" alt="" coords="2357,177,2547,203"/>
+<area shape="rect" id="node49" href="$MCSchedule_8h.html" title="llvm/MC/MCSchedule.h" alt="" coords="1761,259,1922,285"/>
+<area shape="rect" id="node50" href="$SubtargetFeature_8h.html" title="llvm/MC/SubtargetFeature.h" alt="" coords="1947,259,2133,285"/>
+</map>

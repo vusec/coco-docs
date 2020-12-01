@@ -1,0 +1,29 @@
+<map id="include/llvm/Transforms/Utils/SimplifyIndVar.h" name="include/llvm/Transforms/Utils/SimplifyIndVar.h">
+<area shape="rect" id="node2" href="$ValueHandle_8h.html" title="llvm/IR/ValueHandle.h" alt="" coords="3617,95,3771,121"/>
+<area shape="rect" id="node3" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="2536,169,2713,196"/>
+<area shape="rect" id="node42" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="3398,319,3569,345"/>
+<area shape="rect" id="node43" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="3901,169,4013,196"/>
+<area shape="rect" id="node48" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="3713,401,3867,427"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2321,244,2465,271"/>
+<area shape="rect" id="node5" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="740,319,880,345"/>
+<area shape="rect" id="node38" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="466,244,613,271"/>
+<area shape="rect" id="node39" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="3524,393,3688,435"/>
+<area shape="rect" id="node41" href="$TypeSize_8h.html" title="llvm/Support/TypeSize.h" alt="" coords="3057,319,3222,345"/>
+<area shape="rect" id="node9" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2971,557,3134,584"/>
+<area shape="rect" id="node21" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="2770,483,2893,509"/>
+<area shape="rect" id="node22" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1411,401,1574,427"/>
+<area shape="rect" id="node28" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1945,319,2099,345"/>
+<area shape="rect" id="node6" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="759,483,933,509"/>
+<area shape="rect" id="node8" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1107,483,1297,509"/>
+<area shape="rect" id="node13" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="577,401,779,427"/>
+<area shape="rect" id="node16" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2967,483,3138,509"/>
+<area shape="rect" id="node7" href="$c_2DataTypes_8h.html" title="llvm&#45;c/DataTypes.h" alt="" coords="3585,557,3721,584"/>
+<area shape="rect" id="node23" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1731,483,1902,509"/>
+<area shape="rect" id="node29" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="3105,401,3245,427"/>
+<area shape="rect" id="node30" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1751,401,1883,427"/>
+<area shape="rect" id="node44" href="$c_2Types_8h.html" title="llvm&#45;c/Types.h" alt="" coords="4208,401,4316,427"/>
+<area shape="rect" id="node46" href="$Use_8h.html" title="This defines the Use class. " alt="" coords="4273,244,4376,271"/>
+<area shape="rect" id="node47" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="4075,319,4294,345"/>
+<area shape="rect" id="node49" href="$Alignment_8h.html" title="llvm/Support/Alignment.h" alt="" coords="3782,319,3950,345"/>
+<area shape="rect" id="node45" href="$ExternC_8h.html" title="llvm&#45;c/ExternC.h" alt="" coords="4202,483,4322,509"/>
+</map>

@@ -1,0 +1,37 @@
+<map id="lib/CodeGen/SelectionDAG/LegalizeVectorTypes.cpp" name="lib/CodeGen/SelectionDAG/LegalizeVectorTypes.cpp">
+<area shape="rect" id="node2" href="$LegalizeTypes_8h.html" title="LegalizeTypes.h" alt="" coords="4641,95,4759,121"/>
+<area shape="rect" id="node19" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="5592,781,5781,808"/>
+<area shape="rect" id="node28" href="$TypeSize_8h.html" title="llvm/Support/TypeSize.h" alt="" coords="5115,632,5280,659"/>
+<area shape="rect" id="node44" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="4687,319,4833,345"/>
+<area shape="rect" id="node49" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="1878,557,2063,584"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2432,483,2587,509"/>
+<area shape="rect" id="node11" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="4841,856,5004,883"/>
+<area shape="rect" id="node31" href="$SelectionDAG_8h.html" title="llvm/CodeGen/SelectionDAG.h" alt="" coords="3619,244,3821,271"/>
+<area shape="rect" id="node43" href="$TargetLowering_8h.html" title="This file describes how to lower LLVM code to machine code. " alt="" coords="4494,169,4703,196"/>
+<area shape="rect" id="node48" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="4727,169,4875,196"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="2139,557,2317,584"/>
+<area shape="rect" id="node10" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2555,781,2709,808"/>
+<area shape="rect" id="node13" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3811,781,3989,808"/>
+<area shape="rect" id="node18" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="3515,781,3685,808"/>
+<area shape="rect" id="node29" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="2323,707,2496,733"/>
+<area shape="rect" id="node30" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="2545,557,2751,584"/>
+<area shape="rect" id="node5" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="3731,632,3875,659"/>
+<area shape="rect" id="node27" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1756,632,1903,659"/>
+<area shape="rect" id="node6" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3205,707,3368,733"/>
+<area shape="rect" id="node23" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2925,707,3080,733"/>
+<area shape="rect" id="node7" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1511,856,1681,883"/>
+<area shape="rect" id="node24" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="1310,781,1442,808"/>
+<area shape="rect" id="node32" href="$APFloat_8h.html" title="This file declares a class to represent arbitrary precision floating point values and provide a varie..." alt="" coords="4635,557,4773,584"/>
+<area shape="rect" id="node33" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="4355,707,4480,733"/>
+<area shape="rect" id="node34" href="$DenseSet_8h.html" title="llvm/ADT/DenseSet.h" alt="" coords="2105,401,2255,427"/>
+<area shape="rect" id="node35" href="$FoldingSet_8h.html" title="llvm/ADT/FoldingSet.h" alt="" coords="1425,632,1580,659"/>
+<area shape="rect" id="node36" href="$SetVector_8h.html" title="llvm/ADT/SetVector.h" alt="" coords="3045,319,3195,345"/>
+<area shape="rect" id="node37" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="1550,557,1701,584"/>
+<area shape="rect" id="node38" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="4267,781,4379,808"/>
+<area shape="rect" id="node39" href="$DAGCombine_8h.html" title="llvm/CodeGen/DAGCombine.h" alt="" coords="4258,319,4459,345"/>
+<area shape="rect" id="node40" href="$FunctionLoweringInfo_8h.html" title="llvm/CodeGen/FunctionLowering\lInfo.h" alt="" coords="3747,393,3957,435"/>
+<area shape="rect" id="node42" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="4355,557,4509,584"/>
+<area shape="rect" id="node41" href="$Type_8h.html" title="llvm/IR/Type.h" alt="" coords="5001,483,5109,509"/>
+<area shape="rect" id="node45" href="$DerivedTypes_8h.html" title="llvm/IR/DerivedTypes.h" alt="" coords="4563,401,4723,427"/>
+<area shape="rect" id="node46" href="$Alignment_8h.html" title="llvm/Support/Alignment.h" alt="" coords="4656,707,4824,733"/>
+</map>

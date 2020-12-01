@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1pdb_1_1IPDBSectionContrib.html" title="IPDBSectionContrib defines an interface used to represent section contributions whose information are..." alt="" coords="5,5,207,32"/>
+<area shape="rect" id="node2" href="$classllvm_1_1pdb_1_1DIASectionContrib.html" title="llvm::pdb::DIASectionContrib" alt="" coords="255,5,447,32"/>
+</map>

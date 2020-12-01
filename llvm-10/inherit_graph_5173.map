@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1vfs_1_1RedirectingFileSystem_1_1Entry.html" title="A single file or directory in the VFS. " alt="" coords="5,39,172,80"/>
+<area shape="rect" id="node2" href="$classllvm_1_1vfs_1_1RedirectingFileSystem_1_1RedirectingDirectoryEntry.html" title="llvm::vfs::RedirectingFile\lSystem::RedirectingDirectoryEntry" alt="" coords="220,5,445,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1vfs_1_1RedirectingFileSystem_1_1RedirectingFileEntry.html" title="llvm::vfs::RedirectingFile\lSystem::RedirectingFileEntry" alt="" coords="236,71,429,112"/>
+</map>

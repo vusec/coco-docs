@@ -1,0 +1,38 @@
+<map id="lib/Target/AMDGPU/AMDGPULegalizerInfo.h" name="lib/Target/AMDGPU/AMDGPULegalizerInfo.h">
+<area shape="rect" id="node2" href="$LegalizerInfo_8h.html" title="llvm/CodeGen/GlobalISel\l/LegalizerInfo.h" alt="" coords="1489,169,1658,211"/>
+<area shape="rect" id="node39" href="$AMDGPUArgumentUsageInfo_8h.html" title="AMDGPUArgumentUsageInfo.h" alt="" coords="2266,497,2474,524"/>
+<area shape="rect" id="node42" href="$SIInstrInfo_8h.html" title="Interface definition for SIInstrInfo. " alt="" coords="3950,95,4045,121"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2098,579,2252,606"/>
+<area shape="rect" id="node6" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="168,960,291,987"/>
+<area shape="rect" id="node7" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1270,811,1432,837"/>
+<area shape="rect" id="node21" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1608,811,1763,837"/>
+<area shape="rect" id="node22" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="750,885,890,912"/>
+<area shape="rect" id="node27" href="$SmallBitVector_8h.html" title="llvm/ADT/SmallBitVector.h" alt="" coords="2112,811,2291,837"/>
+<area shape="rect" id="node28" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="2990,259,3208,285"/>
+<area shape="rect" id="node33" href="$LowLevelTypeImpl_8h.html" title="llvm/Support/LowLevelType\lImpl.h" alt="" coords="3486,572,3669,613"/>
+<area shape="rect" id="node34" href="$TargetOpcodes_8h.html" title="llvm/CodeGen/TargetOpcodes.h" alt="" coords="2672,497,2881,524"/>
+<area shape="rect" id="node36" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="1139,661,1334,688"/>
+<area shape="rect" id="node37" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="996,736,1181,763"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="3118,661,3296,688"/>
+<area shape="rect" id="node8" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1697,885,1850,912"/>
+<area shape="rect" id="node9" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3339,1035,3502,1061"/>
+<area shape="rect" id="node11" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1977,885,2154,912"/>
+<area shape="rect" id="node16" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1014,960,1184,987"/>
+<area shape="rect" id="node25" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="3336,736,3510,763"/>
+<area shape="rect" id="node26" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="1930,661,2137,688"/>
+<area shape="rect" id="node5" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1722,736,1866,763"/>
+<area shape="rect" id="node29" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="3414,333,3605,375"/>
+<area shape="rect" id="node30" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="3326,423,3520,449"/>
+<area shape="rect" id="node31" href="$MachineOperand_8h.html" title="llvm/CodeGen/MachineOperand.h" alt="" coords="3782,497,4000,524"/>
+<area shape="rect" id="node35" href="$MCInstrDesc_8h.html" title="llvm/MC/MCInstrDesc.h" alt="" coords="4278,497,4442,524"/>
+<area shape="rect" id="node32" href="$Register_8h.html" title="llvm/CodeGen/Register.h" alt="" coords="3846,579,4016,606"/>
+<area shape="rect" id="node40" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="3076,811,3205,837"/>
+<area shape="rect" id="node41" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="2327,579,2418,606"/>
+<area shape="rect" id="node43" href="$AMDGPUInstrInfo_8h.html" title="Contains the definition of a TargetInstrInfo class that is common to all AMD GPUs. " alt="" coords="4160,177,4300,203"/>
+<area shape="rect" id="node44" href="$AMDGPUBaseInfo_8h.html" title="Utils/AMDGPUBaseInfo.h" alt="" coords="4273,341,4448,367"/>
+<area shape="rect" id="node45" href="$SIDefines_8h.html" title="SIDefines.h" alt="" coords="4575,423,4666,449"/>
+<area shape="rect" id="node46" href="$SIRegisterInfo_8h.html" title="Interface definition for SIRegisterInfo. " alt="" coords="4472,341,4590,367"/>
+<area shape="rect" id="node47" href="$SetVector_8h.html" title="llvm/ADT/SetVector.h" alt="" coords="2602,661,2753,688"/>
+<area shape="rect" id="node48" href="$MachineInstrBuilder_8h.html" title="llvm/CodeGen/MachineInstr\lBuilder.h" alt="" coords="3652,169,3836,211"/>
+<area shape="rect" id="node49" href="$TargetSchedule_8h.html" title="llvm/CodeGen/TargetSchedule.h" alt="" coords="659,736,870,763"/>
+</map>

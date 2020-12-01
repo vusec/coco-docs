@@ -1,0 +1,5 @@
+<map id="llvm::buffer_ostream" name="llvm::buffer_ostream">
+<area shape="rect" id="node2" href="$classllvm_1_1raw__svector__ostream.html" title="A raw_ostream that writes to an SmallVector or SmallString. " alt="" coords="5,155,184,181"/>
+<area shape="rect" id="node3" href="$classllvm_1_1raw__pwrite__stream.html" title="An abstract base class for streams implementations that also support a pwrite operation. " alt="" coords="13,80,177,107"/>
+<area shape="rect" id="node4" href="$classllvm_1_1raw__ostream.html" title="This class implements an extremely fast bulk output stream that can only output to a stream..." alt="" coords="30,5,159,32"/>
+</map>

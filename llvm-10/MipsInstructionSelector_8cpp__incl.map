@@ -1,0 +1,42 @@
+<map id="lib/Target/Mips/MipsInstructionSelector.cpp" name="lib/Target/Mips/MipsInstructionSelector.cpp">
+<area shape="rect" id="node2" href="$MipsInstPrinter_8h.html" title="MCTargetDesc/MipsInstPrinter.h" alt="" coords="2505,102,2719,129"/>
+<area shape="rect" id="node9" href="$MipsMachineFunction_8h.html" title="MipsMachineFunction.h" alt="" coords="75,281,235,307"/>
+<area shape="rect" id="node22" href="$MipsRegisterBankInfo_8h.html" title="This file declares the targeting of the RegisterBankInfo class for Mips. " alt="" coords="191,102,353,129"/>
+<area shape="rect" id="node25" href="$MipsTargetMachine_8h.html" title="MipsTargetMachine.h" alt="" coords="957,191,1104,218"/>
+<area shape="rect" id="node33" href="$InstructionSelectorImpl_8h.html" title="llvm/CodeGen/GlobalISel\l/InstructionSelectorImpl.h" alt="" coords="2259,95,2429,136"/>
+<area shape="rect" id="node45" href="$MachineIRBuilder_8h.html" title="This file declares the MachineIRBuilder class. " alt="" coords="3433,184,3602,225"/>
+<area shape="rect" id="node48" href="$MachineJumpTableInfo_8h.html" title="llvm/CodeGen/MachineJump\lTableInfo.h" alt="" coords="2110,452,2301,493"/>
+<area shape="rect" id="node3" href="$MCInstPrinter_8h.html" title="llvm/MC/MCInstPrinter.h" alt="" coords="4461,281,4627,307"/>
+<area shape="rect" id="node4" href="$Format_8h.html" title="llvm/Support/Format.h" alt="" coords="3734,370,3885,397"/>
+<area shape="rect" id="node5" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3264,459,3411,486"/>
+<area shape="rect" id="node10" href="$Mips16HardFloatInfo_8h.html" title="Mips16HardFloatInfo.h" alt="" coords="5,370,160,397"/>
+<area shape="rect" id="node11" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="1371,370,1589,397"/>
+<area shape="rect" id="node20" href="$MachineMemOperand_8h.html" title="llvm/CodeGen/MachineMemOperand.h" alt="" coords="461,459,707,486"/>
+<area shape="rect" id="node12" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="1302,459,1442,486"/>
+<area shape="rect" id="node14" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1619,459,1781,486"/>
+<area shape="rect" id="node15" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1119,541,1308,568"/>
+<area shape="rect" id="node16" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="2934,452,3125,493"/>
+<area shape="rect" id="node17" href="$DebugLoc_8h.html" title="llvm/IR/DebugLoc.h" alt="" coords="3841,541,3980,568"/>
+<area shape="rect" id="node18" href="$Printable_8h.html" title="llvm/Support/Printable.h" alt="" coords="2714,541,2875,568"/>
+<area shape="rect" id="node23" href="$RegisterBankInfo_8h.html" title="llvm/CodeGen/GlobalISel\l/RegisterBankInfo.h" alt="" coords="462,363,631,404"/>
+<area shape="rect" id="node26" href="$MipsABIInfo_8h.html" title="MCTargetDesc/MipsABIInfo.h" alt="" coords="655,370,854,397"/>
+<area shape="rect" id="node27" href="$MipsSubtarget_8h.html" title="MipsSubtarget.h" alt="" coords="833,281,951,307"/>
+<area shape="rect" id="node30" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="2947,370,3098,397"/>
+<area shape="rect" id="node31" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="1080,370,1245,397"/>
+<area shape="rect" id="node32" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="1395,281,1583,307"/>
+<area shape="rect" id="node28" href="$InstructionSelector_8h.html" title="llvm/CodeGen/GlobalISel\l/InstructionSelector.h" alt="" coords="1614,363,1783,404"/>
+<area shape="rect" id="node29" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="1808,370,1955,397"/>
+<area shape="rect" id="node34" href="$CodeGen_2GlobalISel_2Utils_8h.html" title="llvm/CodeGen/GlobalISel\l/Utils.h" alt="" coords="3377,363,3546,404"/>
+<area shape="rect" id="node35" href="$MachineInstrBuilder_8h.html" title="llvm/CodeGen/MachineInstr\lBuilder.h" alt="" coords="2336,273,2520,315"/>
+<area shape="rect" id="node36" href="$MachineOperand_8h.html" title="llvm/CodeGen/MachineOperand.h" alt="" coords="2181,370,2400,397"/>
+<area shape="rect" id="node37" href="$TargetRegisterInfo_8h.html" title="llvm/CodeGen/TargetRegister\lInfo.h" alt="" coords="2627,363,2821,404"/>
+<area shape="rect" id="node38" href="$MachineRegisterInfo_8h.html" title="llvm/CodeGen/MachineRegister\lInfo.h" alt="" coords="2545,273,2751,315"/>
+<area shape="rect" id="node40" href="$TargetInstrInfo_8h.html" title="llvm/CodeGen/TargetInstr\lInfo.h" alt="" coords="2089,184,2261,225"/>
+<area shape="rect" id="node41" href="$TargetOpcodes_8h.html" title="llvm/CodeGen/TargetOpcodes.h" alt="" coords="3027,191,3237,218"/>
+<area shape="rect" id="node42" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="3571,370,3709,397"/>
+<area shape="rect" id="node43" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="3261,191,3409,218"/>
+<area shape="rect" id="node44" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="3909,370,4094,397"/>
+<area shape="rect" id="node39" href="$LowLevelType_8h.html" title="llvm/CodeGen/LowLevelType.h" alt="" coords="4271,370,4475,397"/>
+<area shape="rect" id="node46" href="$CSEInfo_8h.html" title="llvm/CodeGen/GlobalISel\l/CSEInfo.h" alt="" coords="3346,273,3515,315"/>
+<area shape="rect" id="node47" href="$CodeGen_2GlobalISel_2Types_8h.html" title="This file describes high level types that are used by several passes or APIs involved in the GlobalIS..." alt="" coords="3743,273,3913,315"/>
+</map>

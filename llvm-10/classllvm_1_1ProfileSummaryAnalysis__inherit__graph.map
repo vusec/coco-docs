@@ -1,0 +1,6 @@
+<map id="llvm::ProfileSummaryAnalysis" name="llvm::ProfileSummaryAnalysis">
+<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title="llvm::AnalysisInfoMixin\l\&lt; ProfileSummaryAnalysis \&gt;" alt="" coords="103,213,292,255"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; ProfileSummaryAnalysis \&gt;" alt="" coords="5,109,195,151"/>
+<area shape="rect" id="node4" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes. " alt="" coords="130,5,267,47"/>
+<area shape="rect" id="node5" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes. " alt="" coords="219,109,376,151"/>
+</map>

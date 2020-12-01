@@ -1,0 +1,6 @@
+<map id="llvm::simple_ilist&lt; T, Options &gt;" name="llvm::simple_ilist&lt; T, Options &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1ilist__base.html" title="Implementations of list algorithms using ilist_node_base. " alt="" coords="536,5,727,61"/>
+<area shape="rect" id="node3" href="$structllvm_1_1ilist__detail_1_1SpecificNodeAccess.html" title="llvm::ilist_detail\l::SpecificNodeAccess\l\&lt; ilist_detail::compute\l_node_options\&lt; T, Options...\l \&gt;::type \&gt;" alt="" coords="536,85,727,171"/>
+<area shape="rect" id="node4" href="$structllvm_1_1ilist__detail_1_1NodeAccess.html" title="An access class for ilist_node private API. " alt="" coords="5,109,117,150"/>
+<area shape="rect" id="node5" href="$structllvm_1_1ilist__detail_1_1SpecificNodeAccess.html" title="llvm::ilist_detail\l::SpecificNodeAccess\l\&lt; OptionsT \&gt;" alt="" coords="167,133,319,189"/>
+</map>

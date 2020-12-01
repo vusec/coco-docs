@@ -1,0 +1,37 @@
+<map id="lib/IR/Attributes.cpp" name="lib/IR/Attributes.cpp">
+<area shape="rect" id="node2" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="1401,379,1535,405"/>
+<area shape="rect" id="node4" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="4480,461,4624,487"/>
+<area shape="rect" id="node6" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="4907,617,5096,644"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="6272,692,6435,719"/>
+<area shape="rect" id="node13" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="4597,543,4760,569"/>
+<area shape="rect" id="node15" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="6329,617,6506,644"/>
+<area shape="rect" id="node19" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="4419,543,4573,569"/>
+<area shape="rect" id="node20" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="5475,617,5615,644"/>
+<area shape="rect" id="node23" href="$FoldingSet_8h.html" title="llvm/ADT/FoldingSet.h" alt="" coords="2067,461,2221,487"/>
+<area shape="rect" id="node24" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3803,461,3949,487"/>
+<area shape="rect" id="node30" href="$AttributeImpl_8h.html" title="This file defines various helper methods and classes used by LLVMContextImpl for creating and managin..." alt="" coords="2771,304,2877,331"/>
+<area shape="rect" id="node32" href="$LLVMContextImpl_8h.html" title="LLVMContextImpl.h" alt="" coords="4296,80,4435,107"/>
+<area shape="rect" id="node40" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="4734,229,4882,256"/>
+<area shape="rect" id="node41" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="3054,379,3239,405"/>
+<area shape="rect" id="node45" href="$LLVMContext_8h.html" title="llvm/IR/LLVMContext.h" alt="" coords="398,379,557,405"/>
+<area shape="rect" id="node46" href="$StringExtras_8h.html" title="llvm/ADT/StringExtras.h" alt="" coords="2430,304,2594,331"/>
+<area shape="rect" id="node47" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="2449,379,2575,405"/>
+<area shape="rect" id="node48" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="2327,155,2457,181"/>
+<area shape="rect" id="node49" href="$Type_8h.html" title="llvm/IR/Type.h" alt="" coords="5493,304,5601,331"/>
+<area shape="rect" id="node3" href="$c_2Types_8h.html" title="llvm&#45;c/Types.h" alt="" coords="550,461,658,487"/>
+<area shape="rect" id="node14" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="2741,617,2912,644"/>
+<area shape="rect" id="node25" href="$Alignment_8h.html" title="llvm/Support/Alignment.h" alt="" coords="5933,543,6101,569"/>
+<area shape="rect" id="node26" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="2854,453,3018,495"/>
+<area shape="rect" id="node5" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="3190,543,3330,569"/>
+<area shape="rect" id="node31" href="$TrailingObjects_8h.html" title="This header defines support for implementing classes that have some trailing object (or arrays of obj..." alt="" coords="6104,461,6301,487"/>
+<area shape="rect" id="node33" href="$ConstantsContext_8h.html" title="ConstantsContext.h" alt="" coords="3943,155,4081,181"/>
+<area shape="rect" id="node34" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="3366,379,3543,405"/>
+<area shape="rect" id="node35" href="$DenseSet_8h.html" title="llvm/ADT/DenseSet.h" alt="" coords="4050,229,4201,256"/>
+<area shape="rect" id="node36" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="4301,304,4456,331"/>
+<area shape="rect" id="node37" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="4675,304,4813,331"/>
+<area shape="rect" id="node38" href="$APFloat_8h.html" title="This file declares a class to represent arbitrary precision floating point values and provide a varie..." alt="" coords="5341,379,5480,405"/>
+<area shape="rect" id="node39" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="6531,543,6656,569"/>
+<area shape="rect" id="node42" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="5189,543,5352,569"/>
+<area shape="rect" id="node43" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="2777,379,2927,405"/>
+<area shape="rect" id="node44" href="$Dwarf_8h.html" title="This file contains constants used for implementing Dwarf debug support. " alt="" coords="5629,543,5808,569"/>
+</map>

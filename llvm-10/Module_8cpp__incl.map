@@ -1,0 +1,43 @@
+<map id="lib/IR/Module.cpp" name="lib/IR/Module.cpp">
+<area shape="rect" id="node2" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="3223,87,3345,114"/>
+<area shape="rect" id="node4" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="1635,543,1775,569"/>
+<area shape="rect" id="node14" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="3401,319,3551,345"/>
+<area shape="rect" id="node15" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="3907,393,4053,420"/>
+<area shape="rect" id="node16" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="1889,319,2023,345"/>
+<area shape="rect" id="node17" href="$IR_2Comdat_8h.html" title="This file contains the declaration of the Comdat class, which represents a single COMDAT in LLVM..." alt="" coords="1395,393,1520,420"/>
+<area shape="rect" id="node19" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="1115,543,1269,569"/>
+<area shape="rect" id="node20" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="1899,244,2045,271"/>
+<area shape="rect" id="node21" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="5175,468,5337,495"/>
+<area shape="rect" id="node22" href="$DerivedTypes_8h.html" title="llvm/IR/DerivedTypes.h" alt="" coords="1552,319,1712,345"/>
+<area shape="rect" id="node23" href="$Type_8h.html" title="llvm/IR/Type.h" alt="" coords="806,393,914,420"/>
+<area shape="rect" id="node24" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="448,468,611,495"/>
+<area shape="rect" id="node25" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="2291,169,2421,196"/>
+<area shape="rect" id="node26" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="4793,319,4919,345"/>
+<area shape="rect" id="node27" href="$GlobalValue_8h.html" title="llvm/IR/GlobalValue.h" alt="" coords="1624,244,1773,271"/>
+<area shape="rect" id="node28" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="2808,319,2920,345"/>
+<area shape="rect" id="node29" href="$SymbolTableListTraits_8h.html" title="llvm/IR/SymbolTableListTraits.h" alt="" coords="5479,244,5689,271"/>
+<area shape="rect" id="node30" href="$GlobalAlias_8h.html" title="llvm/IR/GlobalAlias.h" alt="" coords="2822,169,2967,196"/>
+<area shape="rect" id="node31" href="$GlobalIFunc_8h.html" title="llvm/IR/GlobalIFunc.h" alt="" coords="2597,169,2747,196"/>
+<area shape="rect" id="node32" href="$GlobalVariable_8h.html" title="llvm/IR/GlobalVariable.h" alt="" coords="4048,244,4211,271"/>
+<area shape="rect" id="node33" href="$Metadata_8h.html" title="This file contains the declarations for metadata subclasses. " alt="" coords="3043,244,3176,271"/>
+<area shape="rect" id="node34" href="$LLVMContext_8h.html" title="llvm/IR/LLVMContext.h" alt="" coords="1545,393,1703,420"/>
+<area shape="rect" id="node37" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="2051,169,2216,196"/>
+<area shape="rect" id="node38" href="$SymbolTableListTraitsImpl_8h.html" title="SymbolTableListTraitsImpl.h" alt="" coords="5450,169,5638,196"/>
+<area shape="rect" id="node39" href="$ValueSymbolTable_8h.html" title="llvm/IR/ValueSymbolTable.h" alt="" coords="3325,244,3513,271"/>
+<area shape="rect" id="node40" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="6142,319,6301,345"/>
+<area shape="rect" id="node41" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="2677,244,2816,271"/>
+<area shape="rect" id="node42" href="$DebugInfoMetadata_8h.html" title="llvm/IR/DebugInfoMetadata.h" alt="" coords="4777,169,4970,196"/>
+<area shape="rect" id="node43" href="$GVMaterializer_8h.html" title="llvm/IR/GVMaterializer.h" alt="" coords="5625,87,5791,114"/>
+<area shape="rect" id="node44" href="$TypeFinder_8h.html" title="llvm/IR/TypeFinder.h" alt="" coords="6447,244,6591,271"/>
+<area shape="rect" id="node45" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="5865,87,5956,114"/>
+<area shape="rect" id="node46" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="4911,244,5049,271"/>
+<area shape="rect" id="node47" href="$MemoryBuffer_8h.html" title="llvm/Support/MemoryBuffer.h" alt="" coords="5916,244,6108,271"/>
+<area shape="rect" id="node48" href="$Path_8h.html" title="llvm/Support/Path.h" alt="" coords="6234,244,6371,271"/>
+<area shape="rect" id="node49" href="$RandomNumberGenerator_8h.html" title="llvm/Support/RandomNumber\lGenerator.h" alt="" coords="6455,80,6649,121"/>
+<area shape="rect" id="node50" href="$VersionTuple_8h.html" title="Defines the llvm::VersionTuple class, which represents a version in the form major[.minor[.subminor]]. " alt="" coords="1059,319,1245,345"/>
+<area shape="rect" id="node3" href="$c_2Types_8h.html" title="llvm&#45;c/Types.h" alt="" coords="1851,543,1959,569"/>
+<area shape="rect" id="node8" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3451,468,3605,495"/>
+<area shape="rect" id="node9" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="3760,543,3931,569"/>
+<area shape="rect" id="node18" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="1597,468,1816,495"/>
+<area shape="rect" id="node35" href="$ProfileSummary_8h.html" title="llvm/IR/ProfileSummary.h" alt="" coords="4337,244,4509,271"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; PassManager\&lt; Function,\l AnalysisManager\&lt; Function\l \&gt;, ExtraArgTs... \&gt; \&gt;" alt="" coords="5,5,193,76"/>
+<area shape="rect" id="node2" href="$classllvm_1_1PassManager.html" title="llvm::PassManager\&lt;\l Function \&gt;" alt="" coords="241,20,384,61"/>
+</map>

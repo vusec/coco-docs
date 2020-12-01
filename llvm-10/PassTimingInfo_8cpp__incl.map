@@ -1,0 +1,36 @@
+<map id="lib/IR/PassTimingInfo.cpp" name="lib/IR/PassTimingInfo.cpp">
+<area shape="rect" id="node2" href="$PassTimingInfo_8h.html" title="This header defines classes/functions to handle pass execution timing information with interfaces for..." alt="" coords="1098,80,1269,107"/>
+<area shape="rect" id="node21" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="4011,155,4166,181"/>
+<area shape="rect" id="node29" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1666,304,1813,331"/>
+<area shape="rect" id="node34" href="$Timer_8h.html" title="llvm/Support/Timer.h" alt="" coords="1197,155,1340,181"/>
+<area shape="rect" id="node36" href="$Statistic_8h.html" title="llvm/ADT/Statistic.h" alt="" coords="5587,304,5727,331"/>
+<area shape="rect" id="node38" href="$PassInstrumentation_8h.html" title="This file defines the Pass Instrumentation classes that provide instrumentation points into the pass ..." alt="" coords="260,155,459,181"/>
+<area shape="rect" id="node40" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="1775,155,1866,181"/>
+<area shape="rect" id="node43" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="2614,155,2809,181"/>
+<area shape="rect" id="node46" href="$ManagedStatic_8h.html" title="llvm/Support/ManagedStatic.h" alt="" coords="5365,304,5562,331"/>
+<area shape="rect" id="node47" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="3104,229,3289,256"/>
+<area shape="rect" id="node48" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="5623,80,5771,107"/>
+<area shape="rect" id="node49" href="$FormatVariadic_8h.html" title="llvm/Support/FormatVariadic.h" alt="" coords="1904,155,2103,181"/>
+<area shape="rect" id="node50" href="$Mutex_8h.html" title="llvm/Support/Mutex.h" alt="" coords="639,80,786,107"/>
+<area shape="rect" id="node3" href="$Any_8h.html" title="llvm/ADT/Any.h" alt="" coords="503,304,618,331"/>
+<area shape="rect" id="node33" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="1088,229,1239,256"/>
+<area shape="rect" id="node35" href="$TypeName_8h.html" title="llvm/Support/TypeName.h" alt="" coords="533,229,708,256"/>
+<area shape="rect" id="node4" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1582,379,1737,405"/>
+<area shape="rect" id="node5" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2268,453,2408,480"/>
+<area shape="rect" id="node15" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1161,453,1331,480"/>
+<area shape="rect" id="node6" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="4179,528,4302,555"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="5375,603,5538,629"/>
+<area shape="rect" id="node9" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2831,528,3002,555"/>
+<area shape="rect" id="node22" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="2749,229,2927,256"/>
+<area shape="rect" id="node25" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="5215,453,5368,480"/>
+<area shape="rect" id="node26" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="3468,453,3645,480"/>
+<area shape="rect" id="node31" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="4278,453,4451,480"/>
+<area shape="rect" id="node32" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="4527,453,4733,480"/>
+<area shape="rect" id="node23" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2951,304,3095,331"/>
+<area shape="rect" id="node24" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3266,379,3429,405"/>
+<area shape="rect" id="node39" href="$FunctionExtras_8h.html" title="This file provides a collection of function (or more generally, callable) type erasure utilities supp..." alt="" coords="703,453,883,480"/>
+<area shape="rect" id="node41" href="$PassAnalysisSupport_8h.html" title="llvm/PassAnalysisSupport.h" alt="" coords="1727,229,1914,256"/>
+<area shape="rect" id="node42" href="$PassSupport_8h.html" title="llvm/PassSupport.h" alt="" coords="1466,229,1602,256"/>
+<area shape="rect" id="node44" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="3507,379,3670,405"/>
+<area shape="rect" id="node45" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="2344,229,2471,256"/>
+</map>

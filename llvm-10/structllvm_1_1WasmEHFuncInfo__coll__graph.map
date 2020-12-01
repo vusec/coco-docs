@@ -1,0 +1,8 @@
+<map id="llvm::WasmEHFuncInfo" name="llvm::WasmEHFuncInfo">
+<area shape="rect" id="node2" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::PointerUnion, llvm\l::PointerUnion \&gt;" alt="" coords="1401,136,1555,192"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; llvm::PointerUnion,\l llvm::PointerUnion, DenseMapInfo\l\&lt; llvm::PointerUnion \&gt;, llvm::detail\l::DenseMapPair\&lt; llvm::PointerUnion,\l llvm::PointerUnion \&gt; \&gt;, llvm::PointerUnion,\l llvm::PointerUnion, DenseMapInfo\&lt; llvm::\lPointerUnion \&gt;, llvm::detail::DenseMapPair\l\&lt; llvm::PointerUnion, llvm::PointerUnion \&gt; \&gt;" alt="" coords="699,54,979,198"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DebugEpochBase.html" title="A base class for data structure classes wishing to make iterators (&quot;handles&quot;) pointing into themselve..." alt="" coords="5,174,164,200"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DerivedT, KeyT, ValueT,\l KeyInfoT, BucketT \&gt;" alt="" coords="213,159,392,215"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; KeyT, ValueT,\l KeyInfoT, BucketT \&gt;, KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="740,222,937,293"/>
+<area shape="rect" id="node6" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="1028,182,1225,224"/>
+</map>

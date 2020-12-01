@@ -1,0 +1,47 @@
+<map id="lib/Transforms/Utils/SSAUpdaterBulk.cpp" name="lib/Transforms/Utils/SSAUpdaterBulk.cpp">
+<area shape="rect" id="node2" href="$SSAUpdaterBulk_8h.html" title="llvm/Transforms/Utils\l/SSAUpdaterBulk.h" alt="" coords="1993,95,2140,136"/>
+<area shape="rect" id="node20" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="3081,497,3226,524"/>
+<area shape="rect" id="node28" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="5755,647,5867,673"/>
+<area shape="rect" id="node29" href="$Use_8h.html" title="This defines the Use class. " alt="" coords="6361,721,6463,748"/>
+<area shape="rect" id="node37" href="$IteratedDominanceFrontier_8h.html" title="llvm/Analysis/IteratedDominance\lFrontier.h" alt="" coords="1709,95,1923,136"/>
+<area shape="rect" id="node41" href="$Dominators_8h.html" title="llvm/IR/Dominators.h" alt="" coords="863,184,1009,211"/>
+<area shape="rect" id="node45" href="$IRBuilder_8h.html" title="llvm/IR/IRBuilder.h" alt="" coords="4652,102,4785,129"/>
+<area shape="rect" id="node49" href="$Instructions_8h.html" title="llvm/IR/Instructions.h" alt="" coords="4036,259,4183,285"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="668,497,823,524"/>
+<area shape="rect" id="node13" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2555,647,2701,673"/>
+<area shape="rect" id="node15" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="1220,721,1383,748"/>
+<area shape="rect" id="node16" href="$PredIteratorCache_8h.html" title="llvm/IR/PredIteratorCache.h" alt="" coords="1974,184,2159,211"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="411,572,589,599"/>
+<area shape="rect" id="node10" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="4152,945,4315,972"/>
+<area shape="rect" id="node5" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="3979,647,4123,673"/>
+<area shape="rect" id="node6" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="347,721,487,748"/>
+<area shape="rect" id="node9" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="4988,721,5111,748"/>
+<area shape="rect" id="node14" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1824,721,1995,748"/>
+<area shape="rect" id="node17" href="$IR_2CFG_8h.html" title="This file provides various utilities for inspecting and working with the control flow graph in LLVM I..." alt="" coords="2013,259,2120,285"/>
+<area shape="rect" id="node18" href="$GraphTraits_8h.html" title="llvm/ADT/GraphTraits.h" alt="" coords="816,647,976,673"/>
+<area shape="rect" id="node19" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="2049,572,2181,599"/>
+<area shape="rect" id="node31" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="5391,871,5545,897"/>
+<area shape="rect" id="node32" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="3307,423,3437,449"/>
+<area shape="rect" id="node34" href="$InstrTypes_8h.html" title="llvm/IR/InstrTypes.h" alt="" coords="3907,341,4048,367"/>
+<area shape="rect" id="node21" href="$c_2Types_8h.html" title="llvm&#45;c/Types.h" alt="" coords="6115,871,6223,897"/>
+<area shape="rect" id="node22" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="2713,572,2839,599"/>
+<area shape="rect" id="node23" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="3029,721,3141,748"/>
+<area shape="rect" id="node24" href="$ilist__node_8h.html" title="llvm/ADT/ilist_node.h" alt="" coords="4397,647,4544,673"/>
+<area shape="rect" id="node25" href="$IR_2Instruction_8h.html" title="llvm/IR/Instruction.h" alt="" coords="4569,572,4709,599"/>
+<area shape="rect" id="node27" href="$SymbolTableListTraits_8h.html" title="llvm/IR/SymbolTableListTraits.h" alt="" coords="3081,647,3290,673"/>
+<area shape="rect" id="node30" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="6060,796,6279,823"/>
+<area shape="rect" id="node26" href="$DebugLoc_8h.html" title="llvm/IR/DebugLoc.h" alt="" coords="5441,647,5580,673"/>
+<area shape="rect" id="node33" href="$DerivedTypes_8h.html" title="llvm/IR/DerivedTypes.h" alt="" coords="4181,572,4341,599"/>
+<area shape="rect" id="node35" href="$Constants_8h.html" title="This file contains the declarations for the subclasses of Constant, which represent the different fla..." alt="" coords="5260,497,5399,524"/>
+<area shape="rect" id="node36" href="$Constant_8h.html" title="llvm/IR/Constant.h" alt="" coords="5950,572,6082,599"/>
+<area shape="rect" id="node38" href="$CFGDiff_8h.html" title="llvm/IR/CFGDiff.h" alt="" coords="1752,184,1880,211"/>
+<area shape="rect" id="node39" href="$GenericIteratedDominanceFrontier_8h.html" title="Compute iterated dominance frontiers using a linear time algorithm. " alt="" coords="974,333,1162,375"/>
+<area shape="rect" id="node40" href="$GenericDomTree_8h.html" title="This file defines a set of templates that efficiently compute a dominator tree over a generic graph..." alt="" coords="851,423,1061,449"/>
+<area shape="rect" id="node42" href="$DepthFirstIterator_8h.html" title="llvm/ADT/DepthFirstIterator.h" alt="" coords="1019,572,1213,599"/>
+<area shape="rect" id="node43" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM. " alt="" coords="1339,341,1498,367"/>
+<area shape="rect" id="node44" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="1541,423,1632,449"/>
+<area shape="rect" id="node46" href="$ConstantFolder_8h.html" title="llvm/IR/ConstantFolder.h" alt="" coords="4635,259,4803,285"/>
+<area shape="rect" id="node47" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="3749,497,3896,524"/>
+<area shape="rect" id="node48" href="$GlobalVariable_8h.html" title="llvm/IR/GlobalVariable.h" alt="" coords="4785,497,4948,524"/>
+<area shape="rect" id="node50" href="$IntrinsicInst_8h.html" title="llvm/IR/IntrinsicInst.h" alt="" coords="5383,184,5529,211"/>
+</map>

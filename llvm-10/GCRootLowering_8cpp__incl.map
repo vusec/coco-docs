@@ -1,0 +1,43 @@
+<map id="lib/CodeGen/GCRootLowering.cpp" name="lib/CodeGen/GCRootLowering.cpp">
+<area shape="rect" id="node2" href="$GCMetadata_8h.html" title="llvm/CodeGen/GCMetadata.h" alt="" coords="4429,534,4623,561"/>
+<area shape="rect" id="node9" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="285,855,474,881"/>
+<area shape="rect" id="node15" href="$GCStrategy_8h.html" title="llvm/CodeGen/GCStrategy.h" alt="" coords="2197,623,2386,650"/>
+<area shape="rect" id="node23" href="$MachineFrameInfo_8h.html" title="llvm/CodeGen/MachineFrame\lInfo.h" alt="" coords="1279,527,1474,568"/>
+<area shape="rect" id="node25" href="$MachineFunctionPass_8h.html" title="llvm/CodeGen/MachineFunction\lPass.h" alt="" coords="4651,169,4859,211"/>
+<area shape="rect" id="node32" href="$MachineInstrBuilder_8h.html" title="llvm/CodeGen/MachineInstr\lBuilder.h" alt="" coords="1907,169,2091,211"/>
+<area shape="rect" id="node35" href="$TargetRegisterInfo_8h.html" title="llvm/CodeGen/TargetRegister\lInfo.h" alt="" coords="1562,259,1757,300"/>
+<area shape="rect" id="node37" href="$MachineModuleInfo_8h.html" title="llvm/CodeGen/MachineModule\lInfo.h" alt="" coords="4727,437,4927,479"/>
+<area shape="rect" id="node40" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="3235,623,3356,650"/>
+<area shape="rect" id="node41" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="5792,623,5940,650"/>
+<area shape="rect" id="node42" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="4779,705,4964,732"/>
+<area shape="rect" id="node44" href="$CodeGen_2Passes_8h.html" title="llvm/CodeGen/Passes.h" alt="" coords="5,355,169,382"/>
+<area shape="rect" id="node45" href="$TargetFrameLowering_8h.html" title="llvm/CodeGen/TargetFrame\lLowering.h" alt="" coords="4064,259,4247,300"/>
+<area shape="rect" id="node46" href="$TargetInstrInfo_8h.html" title="llvm/CodeGen/TargetInstr\lInfo.h" alt="" coords="2368,80,2540,121"/>
+<area shape="rect" id="node47" href="$TargetSubtargetInfo_8h.html" title="llvm/CodeGen/TargetSubtarget\lInfo.h" alt="" coords="3533,616,3735,657"/>
+<area shape="rect" id="node48" href="$Dominators_8h.html" title="llvm/IR/Dominators.h" alt="" coords="6111,445,6258,471"/>
+<area shape="rect" id="node49" href="$IntrinsicInst_8h.html" title="llvm/IR/IntrinsicInst.h" alt="" coords="853,534,999,561"/>
+<area shape="rect" id="node50" href="$InitializePasses_8h.html" title="llvm/InitializePasses.h" alt="" coords="6264,87,6417,114"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="5495,705,5650,732"/>
+<area shape="rect" id="node8" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="3767,780,3930,807"/>
+<area shape="rect" id="node12" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="4451,705,4601,732"/>
+<area shape="rect" id="node13" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="5071,780,5218,807"/>
+<area shape="rect" id="node19" href="$DebugLoc_8h.html" title="llvm/IR/DebugLoc.h" alt="" coords="1781,623,1919,650"/>
+<area shape="rect" id="node21" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="6066,623,6157,650"/>
+<area shape="rect" id="node16" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="2211,780,2334,807"/>
+<area shape="rect" id="node17" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2363,705,2503,732"/>
+<area shape="rect" id="node18" href="$Registry_8h.html" title="llvm/Support/Registry.h" alt="" coords="4165,705,4324,732"/>
+<area shape="rect" id="node20" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="1707,705,1881,732"/>
+<area shape="rect" id="node24" href="$Alignment_8h.html" title="llvm/Support/Alignment.h" alt="" coords="1279,623,1447,650"/>
+<area shape="rect" id="node26" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="2657,266,2875,293"/>
+<area shape="rect" id="node27" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2781,705,2925,732"/>
+<area shape="rect" id="node28" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="1853,348,2044,389"/>
+<area shape="rect" id="node29" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="2171,445,2366,471"/>
+<area shape="rect" id="node30" href="$MachineOperand_8h.html" title="llvm/CodeGen/MachineOperand.h" alt="" coords="1611,534,1830,561"/>
+<area shape="rect" id="node31" href="$Intrinsics_8h.html" title="llvm/IR/Intrinsics.h" alt="" coords="1573,623,1705,650"/>
+<area shape="rect" id="node33" href="$CodeGen_2GlobalISel_2Utils_8h.html" title="llvm/CodeGen/GlobalISel\l/Utils.h" alt="" coords="5435,348,5604,389"/>
+<area shape="rect" id="node34" href="$MachineInstrBundle_8h.html" title="llvm/CodeGen/MachineInstr\lBundle.h" alt="" coords="1882,259,2066,300"/>
+<area shape="rect" id="node36" href="$InstrTypes_8h.html" title="llvm/IR/InstrTypes.h" alt="" coords="2461,623,2602,650"/>
+<area shape="rect" id="node38" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="1410,705,1581,732"/>
+<area shape="rect" id="node39" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM. " alt="" coords="5421,534,5580,561"/>
+<area shape="rect" id="node43" href="$MCContext_8h.html" title="llvm/MC/MCContext.h" alt="" coords="4728,623,4881,650"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="llvm::DOTGraphTraits&lt; MachineBlockFrequencyInfo * &gt;" name="llvm::DOTGraphTraits&lt; MachineBlockFrequencyInfo * &gt;">
+<area shape="rect" id="node2" href="$structllvm_1_1BFIDOTGraphTraitsBase.html" title="MBFIDOTGraphTraitsBase" alt="" coords="25,80,205,107"/>
+<area shape="rect" id="node3" href="$structllvm_1_1DefaultDOTGraphTraits.html" title="DefaultDOTGraphTraits &#45; This class provides the default implementations of all of the DOTGraphTraits ..." alt="" coords="19,5,211,32"/>
+</map>

@@ -1,0 +1,41 @@
+<map id="lib/Target/ARC/ARCTargetMachine.cpp" name="lib/Target/ARC/ARCTargetMachine.cpp">
+<area shape="rect" id="node2" href="$ARCTargetMachine_8h.html" title="ARCTargetMachine.h" alt="" coords="3162,251,3310,278"/>
+<area shape="rect" id="node5" href="$ARC_8h.html" title="ARC.h" alt="" coords="3487,505,3550,531"/>
+<area shape="rect" id="node30" href="$ARCTargetTransformInfo_8h.html" title="ARCTargetTransformInfo.h" alt="" coords="1195,95,1375,121"/>
+<area shape="rect" id="node41" href="$ARCTargetInfo_8h.html" title="TargetInfo/ARCTargetInfo.h" alt="" coords="2801,95,2985,121"/>
+<area shape="rect" id="node42" href="$CodeGen_2Passes_8h.html" title="llvm/CodeGen/Passes.h" alt="" coords="3683,251,3847,278"/>
+<area shape="rect" id="node43" href="$TargetLoweringObjectFileImpl_8h.html" title="llvm/CodeGen/TargetLowering\lObjectFileImpl.h" alt="" coords="1375,408,1574,449"/>
+<area shape="rect" id="node47" href="$TargetPassConfig_8h.html" title="llvm/CodeGen/TargetPassConfig.h" alt="" coords="1494,594,1719,621"/>
+<area shape="rect" id="node48" href="$TargetRegistry_8h.html" title="llvm/Support/TargetRegistry.h" alt="" coords="2069,594,2265,621"/>
+<area shape="rect" id="node3" href="$ARCSubtarget_8h.html" title="ARCSubtarget.h" alt="" coords="3321,333,3439,360"/>
+<area shape="rect" id="node11" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="2873,594,3061,621"/>
+<area shape="rect" id="node4" href="$ARCFrameLowering_8h.html" title="ARCFrameLowering.h" alt="" coords="3526,415,3677,442"/>
+<area shape="rect" id="node25" href="$ARCISelLowering_8h.html" title="ARCISelLowering.h" alt="" coords="3365,415,3502,442"/>
+<area shape="rect" id="node26" href="$ARCInstrInfo_8h.html" title="ARCInstrInfo.h" alt="" coords="3898,415,4009,442"/>
+<area shape="rect" id="node27" href="$SelectionDAGTargetInfo_8h.html" title="llvm/CodeGen/SelectionDAGTarget\lInfo.h" alt="" coords="2325,497,2555,539"/>
+<area shape="rect" id="node28" href="$TargetSubtargetInfo_8h.html" title="llvm/CodeGen/TargetSubtarget\lInfo.h" alt="" coords="1020,587,1223,628"/>
+<area shape="rect" id="node6" href="$ARCMCTargetDesc_8h.html" title="MCTargetDesc/ARCMCTarget\lDesc.h" alt="" coords="3545,587,3748,628"/>
+<area shape="rect" id="node7" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="3365,676,3539,703"/>
+<area shape="rect" id="node12" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="964,751,1111,777"/>
+<area shape="rect" id="node19" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="2805,676,2929,703"/>
+<area shape="rect" id="node20" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="1881,676,2028,703"/>
+<area shape="rect" id="node22" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="1071,676,1161,703"/>
+<area shape="rect" id="node23" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="1489,676,1655,703"/>
+<area shape="rect" id="node24" href="$TargetOptions_8h.html" title="llvm/Target/TargetOptions.h" alt="" coords="3055,676,3239,703"/>
+<area shape="rect" id="node13" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="1439,825,1609,852"/>
+<area shape="rect" id="node21" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2347,751,2536,777"/>
+<area shape="rect" id="node31" href="$TargetTransformInfo_8h.html" title="This pass exposes codegen information to IR&#45;level passes. " alt="" coords="791,244,991,285"/>
+<area shape="rect" id="node40" href="$BasicTTIImpl_8h.html" title="This file provides a helper that implements much of the TTI interface in terms of the target&#45;independ..." alt="" coords="791,169,990,196"/>
+<area shape="rect" id="node32" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="450,676,590,703"/>
+<area shape="rect" id="node33" href="$Operator_8h.html" title="llvm/IR/Operator.h" alt="" coords="195,415,325,442"/>
+<area shape="rect" id="node34" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM. " alt="" coords="553,505,711,531"/>
+<area shape="rect" id="node36" href="$AtomicOrdering_8h.html" title="Atomic ordering constants. " alt="" coords="689,751,889,777"/>
+<area shape="rect" id="node37" href="$LoopInfo_8h.html" title="llvm/Analysis/LoopInfo.h" alt="" coords="653,415,819,442"/>
+<area shape="rect" id="node38" href="$ScalarEvolution_8h.html" title="llvm/Analysis/ScalarEvolution.h" alt="" coords="411,333,618,360"/>
+<area shape="rect" id="node35" href="$Module_8h.html" title="Module.h This file contains the declarations for the Module class. " alt="" coords="1349,594,1470,621"/>
+<area shape="rect" id="node44" href="$XCOFF_8h.html" title="llvm/BinaryFormat/XCOFF.h" alt="" coords="838,505,1026,531"/>
+<area shape="rect" id="node45" href="$MCExpr_8h.html" title="llvm/MC/MCExpr.h" alt="" coords="1407,505,1542,531"/>
+<area shape="rect" id="node46" href="$TargetLoweringObjectFile_8h.html" title="llvm/Target/TargetLowering\lObjectFile.h" alt="" coords="1203,497,1383,539"/>
+<area shape="rect" id="node49" href="$DisassemblerTypes_8h.html" title="llvm&#45;c/DisassemblerTypes.h" alt="" coords="2205,676,2393,703"/>
+<area shape="rect" id="node50" href="$FormattedStream_8h.html" title="llvm/Support/FormattedStream.h" alt="" coords="2417,676,2628,703"/>
+</map>

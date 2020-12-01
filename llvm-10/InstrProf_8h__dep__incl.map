@@ -1,0 +1,35 @@
+<map id="include/llvm/ProfileData/InstrProf.h" name="include/llvm/ProfileData/InstrProf.h">
+<area shape="rect" id="node2" href="$IndirectCallPromotionAnalysis_8h.html" title="Interface to identify indirect call promotion candidates. " alt="" coords="257,95,469,136"/>
+<area shape="rect" id="node3" href="$IndirectCallPromotionAnalysis_8cpp.html" title="lib/Analysis/IndirectCall\lPromotionAnalysis.cpp" alt="" coords="5,184,164,225"/>
+<area shape="rect" id="node5" href="$IndirectCallPromotion_8cpp.html" title="lib/Transforms/Instrumentation\l/IndirectCallPromotion.cpp" alt="" coords="403,184,601,225"/>
+<area shape="rect" id="node6" href="$CoverageMapping_8h.html" title="include/llvm/ProfileData\l/Coverage/CoverageMapping.h" alt="" coords="969,95,1171,136"/>
+<area shape="rect" id="node7" href="$CoverageMappingReader_8h.html" title="include/llvm/ProfileData\l/Coverage/CoverageMappingReader.h" alt="" coords="676,184,920,225"/>
+<area shape="rect" id="node9" href="$CoverageMappingReader_8cpp.html" title="lib/ProfileData/Coverage\l/CoverageMappingReader.cpp" alt="" coords="596,273,795,315"/>
+<area shape="rect" id="node12" href="$InstrProfReader_8h.html" title="include/llvm/ProfileData\l/InstrProfReader.h" alt="" coords="1409,95,1569,136"/>
+<area shape="rect" id="node13" href="$InstrProf_8cpp.html" title="lib/ProfileData/InstrProf.cpp" alt="" coords="1257,191,1440,218"/>
+<area shape="rect" id="node14" href="$InstrProfReader_8cpp.html" title="lib/ProfileData/InstrProf\lReader.cpp" alt="" coords="1960,184,2119,225"/>
+<area shape="rect" id="node15" href="$PGOInstrumentation_8cpp.html" title="lib/Transforms/Instrumentation\l/PGOInstrumentation.cpp" alt="" coords="1515,184,1713,225"/>
+<area shape="rect" id="node16" href="$InstrProfWriter_8h.html" title="include/llvm/ProfileData\l/InstrProfWriter.h" alt="" coords="1915,95,2075,136"/>
+<area shape="rect" id="node17" href="$InstrProfWriter_8cpp.html" title="lib/ProfileData/InstrProf\lWriter.cpp" alt="" coords="2143,184,2301,225"/>
+<area shape="rect" id="node18" href="$ProfileCommon_8h.html" title="include/llvm/ProfileData\l/ProfileCommon.h" alt="" coords="2150,95,2310,136"/>
+<area shape="rect" id="node19" href="$ProfileSummaryBuilder_8cpp.html" title="lib/ProfileData/ProfileSummary\lBuilder.cpp" alt="" coords="2727,184,2928,225"/>
+<area shape="rect" id="node22" href="$InstrProfiling_8h.html" title="This file provides the interface for LLVM&#39;s PGO Instrumentation lowering pass. " alt="" coords="2385,95,2589,136"/>
+<area shape="rect" id="node24" href="$InstrProfiling_8cpp.html" title="lib/Transforms/Instrumentation\l/InstrProfiling.cpp" alt="" coords="3176,184,3375,225"/>
+<area shape="rect" id="node25" href="$TargetLoweringObjectFileImpl_8cpp.html" title="lib/CodeGen/TargetLowering\lObjectFileImpl.cpp" alt="" coords="2614,95,2801,136"/>
+<area shape="rect" id="node26" href="$CGProfile_8cpp.html" title="lib/Transforms/Instrumentation\l/CGProfile.cpp" alt="" coords="2825,95,3024,136"/>
+<area shape="rect" id="node27" href="$InstrOrderFile_8cpp.html" title="lib/Transforms/Instrumentation\l/InstrOrderFile.cpp" alt="" coords="3048,95,3247,136"/>
+<area shape="rect" id="node28" href="$ValueProfileCollector_8h.html" title="lib/Transforms/Instrumentation\l/ValueProfileCollector.h" alt="" coords="1643,95,1841,136"/>
+<area shape="rect" id="node31" href="$PGOMemOPSizeOpt_8cpp.html" title="lib/Transforms/Instrumentation\l/PGOMemOPSizeOpt.cpp" alt="" coords="3320,95,3519,136"/>
+<area shape="rect" id="node32" href="$ThreadSanitizer_8cpp.html" title="lib/Transforms/Instrumentation\l/ThreadSanitizer.cpp" alt="" coords="3543,95,3741,136"/>
+<area shape="rect" id="node33" href="$SampleProfile_8cpp.html" title="lib/Transforms/IPO\l/SampleProfile.cpp" alt="" coords="3765,95,3897,136"/>
+<area shape="rect" id="node34" href="$ADCE_8cpp.html" title="lib/Transforms/Scalar\l/ADCE.cpp" alt="" coords="3922,95,4069,136"/>
+<area shape="rect" id="node4" href="$ModuleSummaryAnalysis_8cpp.html" title="lib/Analysis/ModuleSummary\lAnalysis.cpp" alt="" coords="188,184,379,225"/>
+<area shape="rect" id="node8" href="$CoverageMapping_8cpp.html" title="lib/ProfileData/Coverage\l/CoverageMapping.cpp" alt="" coords="853,273,1017,315"/>
+<area shape="rect" id="node10" href="$CoverageMappingWriter_8h.html" title="include/llvm/ProfileData\l/Coverage/CoverageMappingWriter.h" alt="" coords="995,184,1233,225"/>
+<area shape="rect" id="node11" href="$CoverageMappingWriter_8cpp.html" title="lib/ProfileData/Coverage\l/CoverageMappingWriter.cpp" alt="" coords="1041,273,1232,315"/>
+<area shape="rect" id="node20" href="$SampleProfReader_8cpp.html" title="lib/ProfileData/SampleProf\lReader.cpp" alt="" coords="2326,184,2502,225"/>
+<area shape="rect" id="node21" href="$SampleProfWriter_8cpp.html" title="lib/ProfileData/SampleProf\lWriter.cpp" alt="" coords="2526,184,2702,225"/>
+<area shape="rect" id="node23" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="2952,191,3135,218"/>
+<area shape="rect" id="node29" href="$ValueProfilePlugins_8inc.html" title="lib/Transforms/Instrumentation\l/ValueProfilePlugins.inc" alt="" coords="1737,184,1936,225"/>
+<area shape="rect" id="node30" href="$ValueProfileCollector_8cpp.html" title="lib/Transforms/Instrumentation\l/ValueProfileCollector.cpp" alt="" coords="1737,273,1936,315"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; InnerAnalysisManagerProxy\l\&lt; AnalysisManagerT, IRUnitT \&gt; \&gt;" alt="" coords="5,5,225,61"/>
+<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title="llvm::AnalysisInfoMixin\l\&lt; InnerAnalysisManagerProxy\l\&lt; AnalysisManagerT, IRUnitT \&gt; \&gt;" alt="" coords="273,5,493,61"/>
+<area shape="rect" id="node3" href="$classllvm_1_1InnerAnalysisManagerProxy.html" title="An analysis over an &quot;outer&quot; IR unit that provides access to an analysis manager over an &quot;inner&quot; IR un..." alt="" coords="541,5,724,61"/>
+</map>

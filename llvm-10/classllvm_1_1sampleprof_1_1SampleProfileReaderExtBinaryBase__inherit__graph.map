@@ -1,0 +1,5 @@
+<map id="llvm::sampleprof::SampleProfileReaderExtBinaryBase" name="llvm::sampleprof::SampleProfileReaderExtBinaryBase">
+<area shape="rect" id="node4" href="$classllvm_1_1sampleprof_1_1SampleProfileReaderExtBinary.html" title="llvm::sampleprof::Sample\lProfileReaderExtBinary" alt="" coords="14,273,185,315"/>
+<area shape="rect" id="node2" href="$classllvm_1_1sampleprof_1_1SampleProfileReaderBinary.html" title="llvm::sampleprof::Sample\lProfileReaderBinary" alt="" coords="14,95,185,136"/>
+<area shape="rect" id="node3" href="$classllvm_1_1sampleprof_1_1SampleProfileReader.html" title="Sample&#45;based profile reader. " alt="" coords="14,5,185,47"/>
+</map>

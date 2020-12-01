@@ -1,0 +1,8 @@
+<map id="AllocaSlices::SliceBuilder" name="AllocaSlices::SliceBuilder">
+<area shape="rect" id="node2" href="$classllvm_1_1PtrUseVisitor.html" title="llvm::PtrUseVisitor\l\&lt; SliceBuilder \&gt;" alt="" coords="937,65,1069,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l SliceBuilder \&gt;" alt="" coords="515,5,636,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1InstVisitor.html" title="Base class for instruction visitors. " alt="" coords="5,33,144,75"/>
+<area shape="rect" id="node7" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l DerivedT \&gt;" alt="" coords="329,63,451,104"/>
+<area shape="rect" id="node5" href="$classllvm_1_1detail_1_1PtrUseVisitorBase.html" title="Implementation of non&#45;dependent functionality for PtrUseVisitor. " alt="" coords="289,130,491,157"/>
+<area shape="rect" id="node6" href="$classllvm_1_1PtrUseVisitor.html" title="A base class for visitors over the uses of a pointer value. " alt="" coords="660,65,792,107"/>
+</map>

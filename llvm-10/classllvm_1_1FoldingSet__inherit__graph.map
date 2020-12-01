@@ -1,0 +1,16 @@
+<map id="llvm::FoldingSet&lt; T &gt;" name="llvm::FoldingSet&lt; T &gt;">
+<area shape="rect" id="node4" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; llvm\l::SDVTListNode \&gt;" alt="" coords="816,11,968,53"/>
+<area shape="rect" id="node5" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; llvm\l::AttributeImpl \&gt;" alt="" coords="816,77,968,118"/>
+<area shape="rect" id="node6" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; llvm\l::AttributeListImpl \&gt;" alt="" coords="816,142,968,183"/>
+<area shape="rect" id="node7" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; llvm\l::SCEVPredicate \&gt;" alt="" coords="816,207,968,249"/>
+<area shape="rect" id="node8" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; llvm\l::SDNode \&gt;" alt="" coords="816,273,968,314"/>
+<area shape="rect" id="node9" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; llvm\l::AttributeSetNode \&gt;" alt="" coords="816,338,968,379"/>
+<area shape="rect" id="node10" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; ListTy \&gt;" alt="" coords="804,404,980,431"/>
+<area shape="rect" id="node11" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; AUFolding\lSetNode \&gt;" alt="" coords="797,455,987,497"/>
+<area shape="rect" id="node12" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; llvm\l::SCEV \&gt;" alt="" coords="816,521,968,562"/>
+<area shape="rect" id="node13" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; llvm\l::UniqueMachineInstr \&gt;" alt="" coords="813,586,971,627"/>
+<area shape="rect" id="node14" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; llvm\l::RecordRecTy \&gt;" alt="" coords="816,651,968,693"/>
+<area shape="rect" id="node15" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; llvm\l::DIEAbbrev \&gt;" alt="" coords="816,717,968,758"/>
+<area shape="rect" id="node2" href="$classllvm_1_1FoldingSetImpl.html" title="FoldingSetImpl &#45; An implementation detail that lets us share code between FoldingSet and ContextualFo..." alt="" coords="201,375,375,401"/>
+<area shape="rect" id="node3" href="$classllvm_1_1FoldingSetBase.html" title="FoldingSetBase &#45; Implements the folding set functionality. " alt="" coords="5,375,152,401"/>
+</map>

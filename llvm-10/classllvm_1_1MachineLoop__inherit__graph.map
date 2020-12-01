@@ -1,0 +1,4 @@
+<map id="llvm::MachineLoop" name="llvm::MachineLoop">
+<area shape="rect" id="node2" href="$classllvm_1_1LoopBase.html" title="llvm::LoopBase\&lt; MachineBasic\lBlock, MachineLoop \&gt;" alt="" coords="5,124,212,165"/>
+<area shape="rect" id="node3" href="$classllvm_1_1LoopBase.html" title="Instances of this class are used to represent loops that are detected in the flow graph..." alt="" coords="24,5,193,47"/>
+</map>

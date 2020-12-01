@@ -1,0 +1,14 @@
+<map id="llvm::TargetLoweringObjectFileMachO" name="llvm::TargetLoweringObjectFileMachO">
+<area shape="rect" id="node2" href="$classllvm_1_1TargetLoweringObjectFile.html" title="llvm::TargetLoweringObjectFile" alt="" coords="2131,164,2333,191"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MCObjectFileInfo.html" title="llvm::MCObjectFileInfo" alt="" coords="1901,367,2057,393"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::MCSymbol *, unsigned \&gt;" alt="" coords="1375,405,1579,446"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; const llvm\l::MCSymbol *, unsigned,\l DenseMapInfo\&lt; const llvm\l::MCSymbol *\&gt;, llvm::detail\l::DenseMapPair\&lt; const llvm\l::MCSymbol *, unsigned \&gt; \&gt;,\l const llvm::MCSymbol *, unsigned,\l DenseMapInfo\&lt; const llvm::MCSymbol\l *\&gt;, llvm::detail::DenseMapPair\&lt; const\l llvm::MCSymbol *, unsigned \&gt; \&gt;" alt="" coords="675,300,931,473"/>
+<area shape="rect" id="node6" href="$classllvm_1_1DebugEpochBase.html" title="A base class for data structure classes wishing to make iterators (&quot;handles&quot;) pointing into themselve..." alt="" coords="5,449,164,476"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DerivedT, KeyT, ValueT,\l KeyInfoT, BucketT \&gt;" alt="" coords="213,435,392,491"/>
+<area shape="rect" id="node9" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; KeyT, ValueT,\l KeyInfoT, BucketT \&gt;, KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="704,498,901,569"/>
+<area shape="rect" id="node8" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="980,447,1177,489"/>
+<area shape="rect" id="node10" href="$classbool.html" title="bool" alt="" coords="1453,97,1500,124"/>
+<area shape="rect" id="node11" href="$classllvm_1_1MCSection.html" title="Instances of this class represent a uniqued identifier for a section in the current translation unit..." alt="" coords="1417,268,1536,295"/>
+<area shape="rect" id="node12" href="$classllvm_1_1SectionKind.html" title="SectionKind &#45; This is a simple POD value that classifies the properties of a section. " alt="" coords="1017,243,1141,269"/>
+<area shape="rect" id="node14" href="$classunsigned.html" title="unsigned" alt="" coords="1439,493,1514,520"/>
+</map>

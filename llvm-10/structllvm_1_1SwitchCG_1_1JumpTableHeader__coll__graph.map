@@ -1,0 +1,16 @@
+<map id="llvm::SwitchCG::JumpTableHeader" name="llvm::SwitchCG::JumpTableHeader">
+<area shape="rect" id="node2" href="$classllvm_1_1APInt.html" title="Class for arbitrary precision integers. " alt="" coords="2340,101,2427,128"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="2340,156,2427,183"/>
+<area shape="rect" id="node5" href="$classunsigned.html" title="unsigned" alt="" coords="1977,176,2051,203"/>
+<area shape="rect" id="node6" href="$classbool.html" title="bool" alt="" coords="2360,211,2407,237"/>
+<area shape="rect" id="node7" href="$classllvm_1_1MachineBasicBlock.html" title="llvm::MachineBasicBlock" alt="" coords="2299,261,2468,288"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ilist__node__with__parent.html" title="llvm::ilist_node_with\l_parent\&lt; MachineBasicBlock,\l MachineFunction \&gt;" alt="" coords="1916,247,2112,303"/>
+<area shape="rect" id="node9" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Machine\lBasicBlock, Options... \&gt;" alt="" coords="1324,221,1495,262"/>
+<area shape="rect" id="node10" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; MachineBasicBlock,\l Options... \&gt;::type \&gt;" alt="" coords="716,143,953,214"/>
+<area shape="rect" id="node12" href="$classllvm_1_1ilist__node__impl.html" title="Implementation for an ilist node. " alt="" coords="273,242,413,283"/>
+<area shape="rect" id="node15" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; T, Options...\l \&gt;::type \&gt;" alt="" coords="739,238,930,309"/>
+<area shape="rect" id="node19" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; NodeTy,\l Options... \&gt;::type \&gt;" alt="" coords="751,333,919,403"/>
+<area shape="rect" id="node14" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; T,\l Options \&gt;" alt="" coords="1003,253,1136,294"/>
+<area shape="rect" id="node18" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; NodeTy,\l Options... \&gt;" alt="" coords="1324,286,1495,327"/>
+<area shape="rect" id="node17" href="$classllvm_1_1ilist__node__with__parent.html" title="An ilist node that can access its parent list. " alt="" coords="1544,279,1732,335"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1detail_1_1DenseSetImpl.html" title="llvm::detail::DenseSetImpl\l\&lt; ValueT, SmallDenseMap\l\&lt; ValueT, detail::DenseSetEmpty,\l InlineBuckets, ValueInfoT, detail\l::DenseSetPair\&lt; ValueT \&gt; \&gt;, ValueInfoT \&gt;" alt="" coords="5,5,276,91"/>
+<area shape="rect" id="node2" href="$classllvm_1_1SmallDenseSet.html" title="Implements a dense probed hash&#45;table based set with some number of buckets stored inline..." alt="" coords="324,20,491,76"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1sys_1_1ThreadLocalImpl.html" title="llvm::sys::ThreadLocalImpl" alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node2" href="$classllvm_1_1sys_1_1ThreadLocal.html" title="ThreadLocal &#45; A class used to abstract thread&#45;local storage. " alt="" coords="232,5,419,32"/>
+</map>

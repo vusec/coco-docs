@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classMipsGenRegisterInfo.html" title="MipsGenRegisterInfo" alt="" coords="5,31,151,57"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MipsRegisterInfo.html" title="llvm::MipsRegisterInfo" alt="" coords="199,31,352,57"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Mips16RegisterInfo.html" title="llvm::Mips16RegisterInfo" alt="" coords="402,5,569,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MipsSERegisterInfo.html" title="llvm::MipsSERegisterInfo" alt="" coords="400,56,571,83"/>
+</map>

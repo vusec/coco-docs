@@ -1,0 +1,35 @@
+<map id="include/llvm/CodeGen/MachineDominators.h" name="include/llvm/CodeGen/MachineDominators.h">
+<area shape="rect" id="node2" href="$SmallSet_8h.html" title="llvm/ADT/SmallSet.h" alt="" coords="501,355,646,382"/>
+<area shape="rect" id="node15" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1386,437,1548,464"/>
+<area shape="rect" id="node28" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="3576,259,3766,300"/>
+<area shape="rect" id="node33" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="4083,355,4278,382"/>
+<area shape="rect" id="node46" href="$MachineFunctionPass_8h.html" title="llvm/CodeGen/MachineFunction\lPass.h" alt="" coords="3892,95,4100,136"/>
+<area shape="rect" id="node49" href="$GenericDomTree_8h.html" title="This file defines a set of templates that efficiently compute a dominator tree over a generic graph..." alt="" coords="1808,355,2017,382"/>
+<area shape="rect" id="node50" href="$GenericDomTreeConstruction_8h.html" title="Generic dominator tree construction &#45; This file provides routines to construct immediate dominator in..." alt="" coords="1529,259,1728,300"/>
+<area shape="rect" id="node3" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="239,437,362,464"/>
+<area shape="rect" id="node4" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="551,437,714,464"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="894,661,1056,688"/>
+<area shape="rect" id="node6" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="338,512,508,539"/>
+<area shape="rect" id="node25" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="2305,437,2437,464"/>
+<area shape="rect" id="node16" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="2406,512,2576,539"/>
+<area shape="rect" id="node17" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="898,512,1052,539"/>
+<area shape="rect" id="node18" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1076,512,1253,539"/>
+<area shape="rect" id="node20" href="$MemAlloc_8h.html" title="This file defines counterparts of C library allocation functions defined in the namespace &#39;std&#39;..." alt="" coords="706,512,874,539"/>
+<area shape="rect" id="node21" href="$Support_2ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2975,587,3164,613"/>
+<area shape="rect" id="node29" href="$GraphTraits_8h.html" title="llvm/ADT/GraphTraits.h" alt="" coords="2614,437,2774,464"/>
+<area shape="rect" id="node30" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="3514,437,3626,464"/>
+<area shape="rect" id="node31" href="$simple__ilist_8h.html" title="llvm/ADT/simple_ilist.h" alt="" coords="3208,512,3366,539"/>
+<area shape="rect" id="node32" href="$ilist__node_8h.html" title="llvm/ADT/ilist_node.h" alt="" coords="4828,587,4975,613"/>
+<area shape="rect" id="node39" href="$DebugLoc_8h.html" title="llvm/IR/DebugLoc.h" alt="" coords="3954,437,4092,464"/>
+<area shape="rect" id="node40" href="$MachineInstrBundleIterator_8h.html" title="llvm/CodeGen/MachineInstr\lBundleIterator.h" alt="" coords="3292,348,3476,389"/>
+<area shape="rect" id="node41" href="$LaneBitmask_8h.html" title="A common definition of LaneBitmask for use in TableGen and CodeGen. " alt="" coords="3164,437,3327,464"/>
+<area shape="rect" id="node42" href="$Printable_8h.html" title="llvm/Support/Printable.h" alt="" coords="3542,512,3704,539"/>
+<area shape="rect" id="node43" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="2848,355,3027,382"/>
+<area shape="rect" id="node44" href="$BranchProbability_8h.html" title="llvm/Support/BranchProbability.h" alt="" coords="3930,512,4142,539"/>
+<area shape="rect" id="node34" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="4268,512,4445,539"/>
+<area shape="rect" id="node36" href="$PointerSumType_8h.html" title="llvm/ADT/PointerSumType.h" alt="" coords="4268,437,4458,464"/>
+<area shape="rect" id="node37" href="$MachineMemOperand_8h.html" title="llvm/CodeGen/MachineMemOperand.h" alt="" coords="4746,437,4993,464"/>
+<area shape="rect" id="node38" href="$MachineOperand_8h.html" title="llvm/CodeGen/MachineOperand.h" alt="" coords="4520,512,4739,539"/>
+<area shape="rect" id="node47" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="3428,184,3647,211"/>
+<area shape="rect" id="node48" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="5380,184,5471,211"/>
+</map>

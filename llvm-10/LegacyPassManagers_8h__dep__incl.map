@@ -1,0 +1,44 @@
+<map id="include/llvm/IR/LegacyPassManagers.h" name="include/llvm/IR/LegacyPassManagers.h">
+<area shape="rect" id="node2" href="$LoopPass_8h.html" title="include/llvm/Analysis\l/LoopPass.h" alt="" coords="2839,95,2985,136"/>
+<area shape="rect" id="node38" href="$RegionPass_8h.html" title="include/llvm/Analysis\l/RegionPass.h" alt="" coords="5789,95,5934,136"/>
+<area shape="rect" id="node42" href="$CallGraphSCCPass_8cpp.html" title="lib/Analysis/CallGraphSCCPass.cpp" alt="" coords="5959,102,6193,129"/>
+<area shape="rect" id="node43" href="$LegacyPassManager_8cpp.html" title="lib/IR/LegacyPassManager.cpp" alt="" coords="6218,102,6422,129"/>
+<area shape="rect" id="node3" href="$IVUsers_8h.html" title="include/llvm/Analysis\l/IVUsers.h" alt="" coords="3999,184,4145,225"/>
+<area shape="rect" id="node7" href="$IVUsers_8cpp.html" title="lib/Analysis/IVUsers.cpp" alt="" coords="4105,281,4271,307"/>
+<area shape="rect" id="node9" href="$LoopStrengthReduce_8cpp.html" title="lib/Transforms/Scalar\l/LoopStrengthReduce.cpp" alt="" coords="4296,273,4469,315"/>
+<area shape="rect" id="node10" href="$IVDescriptors_8cpp.html" title="lib/Analysis/IVDescriptors.cpp" alt="" coords="4270,191,4469,218"/>
+<area shape="rect" id="node11" href="$LoopPass_8cpp.html" title="lib/Analysis/LoopPass.cpp" alt="" coords="4493,191,4669,218"/>
+<area shape="rect" id="node12" href="$MVETailPredication_8cpp.html" title="Armv8.1m introduced MVE, M&#45;Profile Vector Extension, and low&#45;overhead branches to help accelerate DSP..." alt="" coords="4694,191,4949,218"/>
+<area shape="rect" id="node13" href="$HexagonLoopIdiomRecognition_8cpp.html" title="lib/Target/Hexagon\l/HexagonLoopIdiomRecognition.cpp" alt="" coords="4973,184,5205,225"/>
+<area shape="rect" id="node14" href="$HexagonVectorLoopCarriedReuse_8cpp.html" title="lib/Target/Hexagon\l/HexagonVectorLoopCarriedReuse.cpp" alt="" coords="5230,184,5479,225"/>
+<area shape="rect" id="node15" href="$LoopExtractor_8cpp.html" title="lib/Transforms/IPO\l/LoopExtractor.cpp" alt="" coords="5503,184,5635,225"/>
+<area shape="rect" id="node16" href="$GuardWidening_8cpp.html" title="lib/Transforms/Scalar\l/GuardWidening.cpp" alt="" coords="5,184,152,225"/>
+<area shape="rect" id="node17" href="$InductiveRangeCheckElimination_8cpp.html" title="lib/Transforms/Scalar\l/InductiveRangeCheckElimination.cpp" alt="" coords="177,184,421,225"/>
+<area shape="rect" id="node18" href="$IndVarSimplify_8cpp.html" title="lib/Transforms/Scalar\l/IndVarSimplify.cpp" alt="" coords="445,184,592,225"/>
+<area shape="rect" id="node19" href="$LICM_8cpp.html" title="lib/Transforms/Scalar\l/LICM.cpp" alt="" coords="616,184,763,225"/>
+<area shape="rect" id="node20" href="$LoopDeletion_8cpp.html" title="lib/Transforms/Scalar\l/LoopDeletion.cpp" alt="" coords="787,184,933,225"/>
+<area shape="rect" id="node21" href="$LoopIdiomRecognize_8cpp.html" title="lib/Transforms/Scalar\l/LoopIdiomRecognize.cpp" alt="" coords="957,184,1131,225"/>
+<area shape="rect" id="node22" href="$LoopInstSimplify_8cpp.html" title="lib/Transforms/Scalar\l/LoopInstSimplify.cpp" alt="" coords="1155,184,1303,225"/>
+<area shape="rect" id="node23" href="$LoopInterchange_8cpp.html" title="lib/Transforms/Scalar\l/LoopInterchange.cpp" alt="" coords="1328,184,1475,225"/>
+<area shape="rect" id="node24" href="$LoopPredication_8cpp.html" title="lib/Transforms/Scalar\l/LoopPredication.cpp" alt="" coords="1499,184,1645,225"/>
+<area shape="rect" id="node25" href="$LoopRerollPass_8cpp.html" title="lib/Transforms/Scalar\l/LoopRerollPass.cpp" alt="" coords="1669,184,1816,225"/>
+<area shape="rect" id="node26" href="$LoopRotation_8cpp.html" title="lib/Transforms/Scalar\l/LoopRotation.cpp" alt="" coords="1840,184,1987,225"/>
+<area shape="rect" id="node27" href="$LoopSimplifyCFG_8cpp.html" title="lib/Transforms/Scalar\l/LoopSimplifyCFG.cpp" alt="" coords="2011,184,2165,225"/>
+<area shape="rect" id="node28" href="$LoopSink_8cpp.html" title="lib/Transforms/Scalar\l/LoopSink.cpp" alt="" coords="2189,184,2336,225"/>
+<area shape="rect" id="node29" href="$LoopUnrollAndJamPass_8cpp.html" title="lib/Transforms/Scalar\l/LoopUnrollAndJamPass.cpp" alt="" coords="2361,184,2551,225"/>
+<area shape="rect" id="node30" href="$LoopUnrollPass_8cpp.html" title="lib/Transforms/Scalar\l/LoopUnrollPass.cpp" alt="" coords="2576,184,2723,225"/>
+<area shape="rect" id="node31" href="$LoopUnswitch_8cpp.html" title="lib/Transforms/Scalar\l/LoopUnswitch.cpp" alt="" coords="2747,184,2893,225"/>
+<area shape="rect" id="node32" href="$LoopVersioningLICM_8cpp.html" title="lib/Transforms/Scalar\l/LoopVersioningLICM.cpp" alt="" coords="2918,184,3090,225"/>
+<area shape="rect" id="node33" href="$SimpleLoopUnswitch_8cpp.html" title="lib/Transforms/Scalar\l/SimpleLoopUnswitch.cpp" alt="" coords="3114,184,3289,225"/>
+<area shape="rect" id="node34" href="$LCSSA_8cpp.html" title="lib/Transforms/Utils\l/LCSSA.cpp" alt="" coords="3313,184,3449,225"/>
+<area shape="rect" id="node35" href="$LoopRotationUtils_8cpp.html" title="lib/Transforms/Utils\l/LoopRotationUtils.cpp" alt="" coords="3473,184,3628,225"/>
+<area shape="rect" id="node36" href="$LoopUnrollAndJam_8cpp.html" title="lib/Transforms/Utils\l/LoopUnrollAndJam.cpp" alt="" coords="3653,184,3814,225"/>
+<area shape="rect" id="node37" href="$LoopUtils_8cpp.html" title="lib/Transforms/Utils\l/LoopUtils.cpp" alt="" coords="3839,184,3975,225"/>
+<area shape="rect" id="node4" href="$IVUsersPrinter_8h.html" title="include/llvm/Transforms\l/Scalar/IVUsersPrinter.h" alt="" coords="3865,273,4029,315"/>
+<area shape="rect" id="node5" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="3915,370,4098,397"/>
+<area shape="rect" id="node6" href="$IVUsersPrinter_8cpp.html" title="lib/Transforms/Scalar\l/IVUsersPrinter.cpp" alt="" coords="3668,363,3815,404"/>
+<area shape="rect" id="node8" href="$MachineFunctionPass_8cpp.html" title="lib/CodeGen/MachineFunction\lPass.cpp" alt="" coords="3643,273,3840,315"/>
+<area shape="rect" id="node39" href="$LinkAllPasses_8h.html" title="include/llvm/LinkAllPasses.h" alt="" coords="5660,191,5849,218"/>
+<area shape="rect" id="node40" href="$RegionPass_8cpp.html" title="lib/Analysis/RegionPass.cpp" alt="" coords="5873,191,6063,218"/>
+<area shape="rect" id="node41" href="$StructurizeCFG_8cpp.html" title="lib/Transforms/Scalar\l/StructurizeCFG.cpp" alt="" coords="6087,184,6233,225"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="llvm::orc::LegacyIRCompileLayer&lt; BaseLayerT, CompileFtor &gt;" name="llvm::orc::LegacyIRCompileLayer&lt; BaseLayerT, CompileFtor &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1LegacyIRCompileLayer.html" title="llvm::orc::LegacyIRCompile\lLayer\&lt; ObjectLayerT, orc\l::SimpleCompiler \&gt;" alt="" coords="431,5,615,61"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1LegacyIRCompileLayer.html" title="llvm::orc::LegacyIRCompile\lLayer\&lt; ObjLayerT, orc::\lSimpleCompiler \&gt;" alt="" coords="431,85,615,141"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="llvm::ScopedNoAliasAA" name="llvm::ScopedNoAliasAA">
+<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title="llvm::AnalysisInfoMixin\l\&lt; ScopedNoAliasAA \&gt;" alt="" coords="93,213,251,255"/>
+<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; ScopedNoAliasAA \&gt;" alt="" coords="5,109,160,151"/>
+<area shape="rect" id="node4" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes. " alt="" coords="103,5,241,47"/>
+<area shape="rect" id="node5" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes. " alt="" coords="184,109,341,151"/>
+</map>

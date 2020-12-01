@@ -1,0 +1,6 @@
+<map id="llvm::CallSiteBase&lt; FunTy, BBTy, ValTy, UserTy, UseTy, InstrTy, CallTy, InvokeTy, CallBrTy, IterTy &gt;" name="llvm::CallSiteBase&lt; FunTy, BBTy, ValTy, UserTy, UseTy, InstrTy, CallTy, InvokeTy, CallBrTy, IterTy &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1CallSiteBase.html" title="llvm::CallSiteBase\&lt;\&gt;" alt="" coords="464,5,611,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1CallSiteBase.html" title="llvm::CallSiteBase\l\&lt; Function, BasicBlock,\l Value, User, Use, Instruction,\l CallInst, InvokeInst, CallBrInst,\l User::op_iterator \&gt;" alt="" coords="432,65,643,151"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ImmutableCallSite.html" title="Establish a view to a call site for examination. " alt="" coords="692,5,853,32"/>
+<area shape="rect" id="node5" href="$classllvm_1_1CallSite.html" title="llvm::CallSite" alt="" coords="723,95,823,121"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="llvm::object::WindowsResourceParser::StringOrID" name="llvm::object::WindowsResourceParser::StringOrID">
+<area shape="rect" id="node2" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; UTF16 \&gt;" alt="" coords="5,95,176,121"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ArrayRef.html" title="ArrayRef &#45; Represent a constant reference to an array (0 or more elements consecutively in memory)..." alt="" coords="21,5,160,32"/>
+<area shape="rect" id="node4" href="$classuint32__t.html" title="uint32_t" alt="" coords="201,95,269,121"/>
+<area shape="rect" id="node5" href="$classbool.html" title="bool" alt="" coords="293,95,339,121"/>
+</map>

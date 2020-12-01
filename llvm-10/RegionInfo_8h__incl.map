@@ -1,0 +1,34 @@
+<map id="include/llvm/Analysis/RegionInfo.h" name="include/llvm/Analysis/RegionInfo.h">
+<area shape="rect" id="node2" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1469,319,1624,345"/>
+<area shape="rect" id="node25" href="$DepthFirstIterator_8h.html" title="llvm/ADT/DepthFirstIterator.h" alt="" coords="2128,244,2323,271"/>
+<area shape="rect" id="node26" href="$GraphTraits_8h.html" title="llvm/ADT/GraphTraits.h" alt="" coords="4337,319,4497,345"/>
+<area shape="rect" id="node27" href="$iterator__range_8h.html" title="This provides a very simple, boring adaptor for a begin and end iterator into a range type..." alt="" coords="4441,393,4612,420"/>
+<area shape="rect" id="node34" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="1009,468,1180,495"/>
+<area shape="rect" id="node35" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="3515,169,3661,196"/>
+<area shape="rect" id="node46" href="$Dominators_8h.html" title="llvm/IR/Dominators.h" alt="" coords="2607,95,2753,121"/>
+<area shape="rect" id="node47" href="$PassManager_8h.html" title="This header defines various interfaces for pass management in LLVM. " alt="" coords="2347,244,2506,271"/>
+<area shape="rect" id="node48" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="4673,319,4764,345"/>
+<area shape="rect" id="node49" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2586,393,2771,420"/>
+<area shape="rect" id="node3" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="2333,393,2510,420"/>
+<area shape="rect" id="node5" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1263,550,1433,577"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="505,632,668,659"/>
+<area shape="rect" id="node17" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="1985,468,2159,495"/>
+<area shape="rect" id="node18" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1279,393,1433,420"/>
+<area shape="rect" id="node19" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1255,468,1433,495"/>
+<area shape="rect" id="node21" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="727,468,934,495"/>
+<area shape="rect" id="node4" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="2386,468,2526,495"/>
+<area shape="rect" id="node14" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="845,543,1009,584"/>
+<area shape="rect" id="node28" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="213,550,336,577"/>
+<area shape="rect" id="node29" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="563,468,703,495"/>
+<area shape="rect" id="node31" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="1892,393,2055,420"/>
+<area shape="rect" id="node36" href="$c_2Types_8h.html" title="llvm&#45;c/Types.h" alt="" coords="4391,468,4499,495"/>
+<area shape="rect" id="node37" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="3250,468,3377,495"/>
+<area shape="rect" id="node38" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="3303,393,3415,420"/>
+<area shape="rect" id="node39" href="$ilist__node_8h.html" title="llvm/ADT/ilist_node.h" alt="" coords="3353,319,3500,345"/>
+<area shape="rect" id="node40" href="$iterator_8h.html" title="llvm/ADT/iterator.h" alt="" coords="3734,319,3866,345"/>
+<area shape="rect" id="node41" href="$IR_2Instruction_8h.html" title="llvm/IR/Instruction.h" alt="" coords="3221,244,3361,271"/>
+<area shape="rect" id="node42" href="$SymbolTableListTraits_8h.html" title="llvm/IR/SymbolTableListTraits.h" alt="" coords="3018,319,3227,345"/>
+<area shape="rect" id="node43" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="4100,319,4212,345"/>
+<area shape="rect" id="node44" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="4047,393,4265,420"/>
+<area shape="rect" id="node45" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="3641,468,3796,495"/>
+</map>

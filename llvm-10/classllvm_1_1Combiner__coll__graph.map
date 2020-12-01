@@ -1,0 +1,34 @@
+<map id="llvm::Combiner" name="llvm::Combiner">
+<area shape="rect" id="node2" href="$classllvm_1_1TargetPassConfig.html" title="Target&#45;Independent Code Generator Pass Configuration Options. " alt="" coords="2355,1072,2513,1099"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ImmutablePass.html" title="ImmutablePass class &#45; This class is used to provide information that does not need to be run..." alt="" coords="2109,824,2255,851"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ModulePass.html" title="ModulePass class &#45; This class is used to implement unstructured interprocedural optimizations and ana..." alt="" coords="1790,657,1917,684"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Pass.html" title="Pass interface &#45; Implemented by all &#39;passes&#39;. " alt="" coords="1402,601,1486,628"/>
+<area shape="rect" id="node6" href="$classchar.html" title="char" alt="" coords="279,509,326,536"/>
+<area shape="rect" id="node38" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; InsertedPass \&gt;" alt="" coords="867,419,1058,461"/>
+<area shape="rect" id="node7" href="$classllvm_1_1LLVMTargetMachine.html" title="This class describes a target machine that is implemented with the LLVM target&#45;independent code gener..." alt="" coords="2095,1320,2269,1347"/>
+<area shape="rect" id="node8" href="$classllvm_1_1TargetMachine.html" title="Primary interface to the complete machine description for the target machine. " alt="" coords="1783,1511,1923,1537"/>
+<area shape="rect" id="node9" href="$classllvm_1_1TargetOptions.html" title="llvm::TargetOptions" alt="" coords="1376,1127,1512,1153"/>
+<area shape="rect" id="node16" href="$classllvm_1_1MCTargetOptions.html" title="llvm::MCTargetOptions" alt="" coords="884,901,1041,928"/>
+<area shape="rect" id="node19" href="$classbool.html" title="bool" alt="" coords="279,1947,326,1973"/>
+<area shape="rect" id="node47" href="$classllvm_1_1CombinerInfo.html" title="llvm::CombinerInfo" alt="" coords="897,2040,1029,2067"/>
+<area shape="rect" id="node22" href="$classunsigned.html" title="unsigned" alt="" coords="925,776,1000,803"/>
+<area shape="rect" id="node26" href="$classllvm_1_1Target.html" title="Target &#45; Wrapper for Target specific information. " alt="" coords="1399,1601,1489,1628"/>
+<area shape="rect" id="node28" href="$classllvm_1_1DataLayout.html" title="A parsed version of the target data layout string in and methods for querying it. ..." alt="" coords="1383,1719,1505,1745"/>
+<area shape="rect" id="node31" href="$classllvm_1_1Triple.html" title="Triple &#45; Helper class for working with autoconf configuration names. " alt="" coords="1401,1887,1487,1913"/>
+<area shape="rect" id="node32" href="$classllvm_1_1PassConfigImpl.html" title="llvm::PassConfigImpl" alt="" coords="2109,401,2255,428"/>
+<area shape="rect" id="node33" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l InsertedPass, 4 \&gt;" alt="" coords="1787,394,1920,435"/>
+<area shape="rect" id="node34" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; InsertedPass \&gt;" alt="" coords="1369,329,1519,370"/>
+<area shape="rect" id="node35" href="$classllvm_1_1SmallVectorTemplateBase.html" title="SmallVectorTemplateBase&lt;TriviallyCopyable = false&gt; &#45; This is where we put method implementations that..." alt="" coords="873,302,1052,343"/>
+<area shape="rect" id="node36" href="$classllvm_1_1SmallVectorImpl.html" title="This class consists of common code factored out of the SmallVector class to reduce code duplication b..." alt="" coords="871,368,1054,395"/>
+<area shape="rect" id="node40" href="$classllvm_1_1SmallVector.html" title="This is a &#39;vector&#39; (really, a variable&#45;sized array), optimized for the case when the array is small..." alt="" coords="1377,459,1511,501"/>
+<area shape="rect" id="node37" href="$structllvm_1_1SmallVectorStorage.html" title="llvm::SmallVectorStorage\l\&lt; InsertedPass, N \&gt;" alt="" coords="1359,394,1529,435"/>
+<area shape="rect" id="node39" href="$structllvm_1_1SmallVectorStorage.html" title="Storage for the SmallVector elements. " alt="" coords="877,485,1048,526"/>
+<area shape="rect" id="node41" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; Analysis\lID, llvm::IdentifyingPassPtr \&gt;" alt="" coords="1756,222,1951,263"/>
+<area shape="rect" id="node42" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; AnalysisID,\l llvm::IdentifyingPassPtr,\l DenseMapInfo\&lt; AnalysisID\l \&gt;, llvm::detail::DenseMapPair\l\&lt; AnalysisID, llvm::IdentifyingPassPtr\l \&gt; \&gt;, AnalysisID, llvm::IdentifyingPassPtr,\l DenseMapInfo\&lt; AnalysisID \&gt;, llvm::detail\l::DenseMapPair\&lt; AnalysisID, llvm::IdentifyingPassPtr \&gt; \&gt;" alt="" coords="781,39,1144,183"/>
+<area shape="rect" id="node43" href="$classllvm_1_1DebugEpochBase.html" title="A base class for data structure classes wishing to make iterators (&quot;handles&quot;) pointing into themselve..." alt="" coords="5,160,164,187"/>
+<area shape="rect" id="node44" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DerivedT, KeyT, ValueT,\l KeyInfoT, BucketT \&gt;" alt="" coords="213,145,392,201"/>
+<area shape="rect" id="node46" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; KeyT, ValueT,\l KeyInfoT, BucketT \&gt;, KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="864,207,1061,278"/>
+<area shape="rect" id="node45" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="1345,222,1543,263"/>
+<area shape="rect" id="node48" href="$classllvm_1_1LegalizerInfo.html" title="llvm::LegalizerInfo" alt="" coords="239,2085,367,2112"/>
+<area shape="rect" id="node50" href="$classllvm_1_1MachineRegisterInfo.html" title="MachineRegisterInfo &#45; Keep track of information for virtual and physical registers, including vreg register classes, use/def chains for registers, etc. " alt="" coords="2347,2136,2521,2163"/>
+</map>

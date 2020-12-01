@@ -1,0 +1,40 @@
+<map id="lib/Target/X86/MCTargetDesc/X86WinCOFFStreamer.cpp" name="lib/Target/X86/MCTargetDesc/X86WinCOFFStreamer.cpp">
+<area shape="rect" id="node2" href="$X86MCTargetDesc_8h.html" title="X86MCTargetDesc.h" alt="" coords="1122,169,1267,196"/>
+<area shape="rect" id="node42" href="$X86TargetStreamer_8h.html" title="X86TargetStreamer.h" alt="" coords="1293,169,1440,196"/>
+<area shape="rect" id="node43" href="$MCAsmBackend_8h.html" title="llvm/MC/MCAsmBackend.h" alt="" coords="3146,326,3331,353"/>
+<area shape="rect" id="node44" href="$MCCodeEmitter_8h.html" title="llvm/MC/MCCodeEmitter.h" alt="" coords="1549,95,1729,121"/>
+<area shape="rect" id="node45" href="$MCObjectWriter_8h.html" title="llvm/MC/MCObjectWriter.h" alt="" coords="2037,244,2217,271"/>
+<area shape="rect" id="node47" href="$MCWin64EH_8h.html" title="llvm/MC/MCWin64EH.h" alt="" coords="1439,244,1601,271"/>
+<area shape="rect" id="node49" href="$MCWinCOFFStreamer_8h.html" title="llvm/MC/MCWinCOFFStreamer.h" alt="" coords="1753,95,1972,121"/>
+<area shape="rect" id="node3" href="$MCRegister_8h.html" title="llvm/MC/MCRegister.h" alt="" coords="2966,326,3122,353"/>
+<area shape="rect" id="node7" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="3679,632,3854,659"/>
+<area shape="rect" id="node23" href="$MCStreamer_8h.html" title="llvm/MC/MCStreamer.h" alt="" coords="1255,244,1415,271"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="1893,408,2070,435"/>
+<area shape="rect" id="node5" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2024,483,2168,509"/>
+<area shape="rect" id="node6" href="$Hashing_8h.html" title="llvm/ADT/Hashing.h" alt="" coords="1595,557,1735,584"/>
+<area shape="rect" id="node22" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1651,483,1797,509"/>
+<area shape="rect" id="node13" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="3459,707,3581,733"/>
+<area shape="rect" id="node14" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1256,557,1419,584"/>
+<area shape="rect" id="node15" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1489,707,1652,733"/>
+<area shape="rect" id="node17" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="1760,557,1915,584"/>
+<area shape="rect" id="node8" href="$c_2DataTypes_8h.html" title="llvm&#45;c/DataTypes.h" alt="" coords="3699,707,3835,733"/>
+<area shape="rect" id="node18" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="2825,632,2965,659"/>
+<area shape="rect" id="node24" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="932,326,1087,353"/>
+<area shape="rect" id="node25" href="$MCDirectives_8h.html" title="llvm/MC/MCDirectives.h" alt="" coords="3407,408,3574,435"/>
+<area shape="rect" id="node26" href="$MCLinkerOptimizationHint_8h.html" title="llvm/MC/MCLinkerOptimization\lHint.h" alt="" coords="1594,319,1798,360"/>
+<area shape="rect" id="node28" href="$MCSymbol_8h.html" title="llvm/MC/MCSymbol.h" alt="" coords="2303,326,2454,353"/>
+<area shape="rect" id="node31" href="$SMLoc_8h.html" title="llvm/Support/SMLoc.h" alt="" coords="3817,557,3967,584"/>
+<area shape="rect" id="node32" href="$MCWinEH_8h.html" title="llvm/MC/MCWinEH.h" alt="" coords="253,326,403,353"/>
+<area shape="rect" id="node33" href="$Support_2Error_8h.html" title="llvm/Support/Error.h" alt="" coords="763,326,901,353"/>
+<area shape="rect" id="node34" href="$MD5_8h.html" title="llvm/Support/MD5.h" alt="" coords="2585,408,2724,435"/>
+<area shape="rect" id="node36" href="$TargetParser_8h.html" title="llvm/Support/TargetParser.h" alt="" coords="427,326,613,353"/>
+<area shape="rect" id="node38" href="$VersionTuple_8h.html" title="Defines the llvm::VersionTuple class, which represents a version in the form major[.minor[.subminor]]. " alt="" coords="1383,326,1569,353"/>
+<area shape="rect" id="node27" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="1327,408,1513,435"/>
+<area shape="rect" id="node29" href="$MCFragment_8h.html" title="llvm/MC/MCFragment.h" alt="" coords="2297,408,2460,435"/>
+<area shape="rect" id="node30" href="$MCFixup_8h.html" title="llvm/MC/MCFixup.h" alt="" coords="3716,483,3855,509"/>
+<area shape="rect" id="node35" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="3179,483,3330,509"/>
+<area shape="rect" id="node37" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="347,408,471,435"/>
+<area shape="rect" id="node46" href="$EndianStream_8h.html" title="llvm/Support/EndianStream.h" alt="" coords="2031,326,2223,353"/>
+<area shape="rect" id="node48" href="$Win64EH_8h.html" title="llvm/Support/Win64EH.h" alt="" coords="3598,408,3765,435"/>
+<area shape="rect" id="node50" href="$MCObjectStreamer_8h.html" title="llvm/MC/MCObjectStreamer.h" alt="" coords="1547,169,1746,196"/>
+</map>

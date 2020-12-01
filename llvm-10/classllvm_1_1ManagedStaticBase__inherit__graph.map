@@ -1,0 +1,3 @@
+<map id="llvm::ManagedStaticBase" name="llvm::ManagedStaticBase">
+<area shape="rect" id="node2" href="$classllvm_1_1ManagedStatic.html" title="ManagedStatic &#45; This transparently changes the behavior of global statics to be lazily constructed on..." alt="" coords="12,80,169,121"/>
+</map>

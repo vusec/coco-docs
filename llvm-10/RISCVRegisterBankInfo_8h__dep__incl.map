@@ -1,0 +1,5 @@
+<map id="lib/Target/RISCV/RISCVRegisterBankInfo.h" name="lib/Target/RISCV/RISCVRegisterBankInfo.h">
+<area shape="rect" id="node2" href="$RISCVInstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for RISCV. " alt="" coords="5,95,235,136"/>
+<area shape="rect" id="node3" href="$RISCVRegisterBankInfo_8cpp.html" title="This file implements the targeting of the RegisterBankInfo class for RISCV. " alt="" coords="259,95,477,136"/>
+<area shape="rect" id="node4" href="$RISCVSubtarget_8cpp.html" title="lib/Target/RISCV/RISCVSubtarget.cpp" alt="" coords="501,102,750,129"/>
+</map>

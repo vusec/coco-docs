@@ -1,0 +1,51 @@
+<map id="include/llvm/IR/DerivedUser.h" name="include/llvm/IR/DerivedUser.h">
+<area shape="rect" id="node2" href="$MemorySSA_8h.html" title="This file exposes an interface to building/using memory SSA to walk memory instructions using a use/d..." alt="" coords="4308,80,4453,121"/>
+<area shape="rect" id="node50" href="$Value_8cpp.html" title="lib/IR/Value.cpp" alt="" coords="4478,87,4593,114"/>
+<area shape="rect" id="node3" href="$LoopAnalysisManager_8h.html" title="This header provides classes for managing per&#45;loop analyses. " alt="" coords="1766,169,1931,211"/>
+<area shape="rect" id="node5" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="2024,445,2207,471"/>
+<area shape="rect" id="node12" href="$LoopLoadElimination_8cpp.html" title="lib/Transforms/Scalar\l/LoopLoadElimination.cpp" alt="" coords="194,348,365,389"/>
+<area shape="rect" id="node13" href="$LoopVectorize_8cpp.html" title="lib/Transforms/Vectorize\l/LoopVectorize.cpp" alt="" coords="5,348,169,389"/>
+<area shape="rect" id="node19" href="$LoopInstSimplify_8cpp.html" title="lib/Transforms/Scalar\l/LoopInstSimplify.cpp" alt="" coords="3201,348,3349,389"/>
+<area shape="rect" id="node22" href="$SimpleLoopUnswitch_8cpp.html" title="lib/Transforms/Scalar\l/SimpleLoopUnswitch.cpp" alt="" coords="3588,437,3763,479"/>
+<area shape="rect" id="node23" href="$LICM_8cpp.html" title="lib/Transforms/Scalar\l/LICM.cpp" alt="" coords="3374,348,3521,389"/>
+<area shape="rect" id="node24" href="$LoopRotation_8cpp.html" title="lib/Transforms/Scalar\l/LoopRotation.cpp" alt="" coords="3545,348,3691,389"/>
+<area shape="rect" id="node25" href="$LoopSimplifyCFG_8cpp.html" title="lib/Transforms/Scalar\l/LoopSimplifyCFG.cpp" alt="" coords="3715,348,3870,389"/>
+<area shape="rect" id="node27" href="$LoopUnswitch_8cpp.html" title="lib/Transforms/Scalar\l/LoopUnswitch.cpp" alt="" coords="4327,348,4474,389"/>
+<area shape="rect" id="node32" href="$LoopAnalysisManager_8cpp.html" title="lib/Analysis/LoopAnalysis\lManager.cpp" alt="" coords="2955,259,3126,300"/>
+<area shape="rect" id="node35" href="$MemorySSAUpdater_8h.html" title="include/llvm/Analysis\l/MemorySSAUpdater.h" alt="" coords="4222,169,4379,211"/>
+<area shape="rect" id="node36" href="$LoopInfo_8cpp.html" title="lib/Analysis/LoopInfo.cpp" alt="" coords="3403,266,3571,293"/>
+<area shape="rect" id="node37" href="$MemorySSAUpdater_8cpp.html" title="lib/Analysis/MemorySSAUpdater.cpp" alt="" coords="3596,266,3835,293"/>
+<area shape="rect" id="node38" href="$InterleavedLoadCombinePass_8cpp.html" title="lib/CodeGen/InterleavedLoad\lCombinePass.cpp" alt="" coords="3859,259,4049,300"/>
+<area shape="rect" id="node39" href="$EarlyCSE_8cpp.html" title="lib/Transforms/Scalar\l/EarlyCSE.cpp" alt="" coords="4378,259,4525,300"/>
+<area shape="rect" id="node40" href="$GVNHoist_8cpp.html" title="lib/Transforms/Scalar\l/GVNHoist.cpp" alt="" coords="4549,259,4695,300"/>
+<area shape="rect" id="node41" href="$LoopRotationUtils_8cpp.html" title="lib/Transforms/Utils\l/LoopRotationUtils.cpp" alt="" coords="4719,259,4874,300"/>
+<area shape="rect" id="node42" href="$LoopSimplify_8cpp.html" title="lib/Transforms/Utils\l/LoopSimplify.cpp" alt="" coords="4898,259,5034,300"/>
+<area shape="rect" id="node43" href="$LoopUtils_8cpp.html" title="lib/Transforms/Utils\l/LoopUtils.cpp" alt="" coords="5058,259,5194,300"/>
+<area shape="rect" id="node44" href="$SimplifyCFG_8cpp.html" title="lib/Transforms/Utils\l/SimplifyCFG.cpp" alt="" coords="5218,259,5354,300"/>
+<area shape="rect" id="node45" href="$GVNExpression_8h.html" title="The header file for the GVN pass that contains expression handling classes. " alt="" coords="5480,169,5652,211"/>
+<area shape="rect" id="node46" href="$NewGVN_8cpp.html" title="This file implements the new LLVM&#39;s Global Value Numbering pass. " alt="" coords="5555,259,5702,300"/>
+<area shape="rect" id="node47" href="$AliasSetTracker_8cpp.html" title="lib/Analysis/AliasSetTracker.cpp" alt="" coords="5727,177,5938,203"/>
+<area shape="rect" id="node48" href="$MemorySSA_8cpp.html" title="lib/Analysis/MemorySSA.cpp" alt="" coords="5962,177,6154,203"/>
+<area shape="rect" id="node49" href="$LCSSA_8cpp.html" title="lib/Transforms/Utils\l/LCSSA.cpp" alt="" coords="6178,169,6314,211"/>
+<area shape="rect" id="node4" href="$DDG_8h.html" title="include/llvm/Analysis\l/DDG.h" alt="" coords="2416,348,2561,389"/>
+<area shape="rect" id="node6" href="$IVUsers_8h.html" title="include/llvm/Analysis\l/IVUsers.h" alt="" coords="1640,259,1785,300"/>
+<area shape="rect" id="node7" href="$IVUsers_8cpp.html" title="lib/Analysis/IVUsers.cpp" alt="" coords="1368,355,1535,382"/>
+<area shape="rect" id="node8" href="$LoopStrengthReduce_8cpp.html" title="lib/Transforms/Scalar\l/LoopStrengthReduce.cpp" alt="" coords="1119,348,1293,389"/>
+<area shape="rect" id="node9" href="$LoopAccessAnalysis_8h.html" title="include/llvm/Analysis\l/LoopAccessAnalysis.h" alt="" coords="379,259,537,300"/>
+<area shape="rect" id="node10" href="$LoopAccessAnalysis_8cpp.html" title="lib/Analysis/LoopAccessAnalysis.cpp" alt="" coords="439,355,679,382"/>
+<area shape="rect" id="node11" href="$LoopDistribute_8cpp.html" title="lib/Transforms/Scalar\l/LoopDistribute.cpp" alt="" coords="703,348,850,389"/>
+<area shape="rect" id="node14" href="$LoopCacheAnalysis_8h.html" title="This file defines the interface for the loop cache analysis. " alt="" coords="1747,348,1900,389"/>
+<area shape="rect" id="node15" href="$IndVarSimplify_8h.html" title="include/llvm/Transforms\l/Scalar/IndVarSimplify.h" alt="" coords="1559,348,1722,389"/>
+<area shape="rect" id="node16" href="$LoopDeletion_8h.html" title="include/llvm/Transforms\l/Scalar/LoopDeletion.h" alt="" coords="2637,348,2799,389"/>
+<area shape="rect" id="node17" href="$LoopIdiomRecognize_8h.html" title="include/llvm/Transforms\l/Scalar/LoopIdiomRecognize.h" alt="" coords="2191,348,2391,389"/>
+<area shape="rect" id="node18" href="$LoopInstSimplify_8h.html" title="include/llvm/Transforms\l/Scalar/LoopInstSimplify.h" alt="" coords="2545,259,2720,300"/>
+<area shape="rect" id="node20" href="$LoopPassManager_8h.html" title="This header provides classes for managing a pipeline of passes over loops in LLVM IR..." alt="" coords="2745,259,2931,300"/>
+<area shape="rect" id="node21" href="$SimpleLoopUnswitch_8h.html" title="include/llvm/Transforms\l/Scalar/SimpleLoopUnswitch.h" alt="" coords="2823,348,3024,389"/>
+<area shape="rect" id="node26" href="$LoopUnrollAndJamPass_8cpp.html" title="lib/Transforms/Scalar\l/LoopUnrollAndJamPass.cpp" alt="" coords="1976,348,2167,389"/>
+<area shape="rect" id="node28" href="$LoopStrengthReduce_8h.html" title="include/llvm/Transforms\l/Scalar/LoopStrengthReduce.h" alt="" coords="717,259,917,300"/>
+<area shape="rect" id="node29" href="$LoopUnrollAndJamPass_8h.html" title="include/llvm/Transforms\l/Scalar/LoopUnrollAndJamPass.h" alt="" coords="1962,259,2181,300"/>
+<area shape="rect" id="node30" href="$LoopUnrollPass_8h.html" title="include/llvm/Transforms\l/Scalar/LoopUnrollPass.h" alt="" coords="874,348,1045,389"/>
+<area shape="rect" id="node31" href="$InstructionSimplify_8cpp.html" title="lib/Analysis/Instruction\lSimplify.cpp" alt="" coords="941,259,1095,300"/>
+<area shape="rect" id="node33" href="$LoopPass_8cpp.html" title="lib/Analysis/LoopPass.cpp" alt="" coords="1119,266,1295,293"/>
+<area shape="rect" id="node34" href="$InductiveRangeCheckElimination_8cpp.html" title="lib/Transforms/Scalar\l/InductiveRangeCheckElimination.cpp" alt="" coords="1320,259,1564,300"/>
+</map>

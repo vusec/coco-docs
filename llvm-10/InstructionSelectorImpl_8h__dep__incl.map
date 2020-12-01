@@ -1,0 +1,8 @@
+<map id="include/llvm/CodeGen/GlobalISel/InstructionSelectorImpl.h" name="include/llvm/CodeGen/GlobalISel/InstructionSelectorImpl.h">
+<area shape="rect" id="node2" href="$AArch64InstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for AArch64. " alt="" coords="5,109,216,151"/>
+<area shape="rect" id="node3" href="$AMDGPUInstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for AMDGPU. " alt="" coords="241,109,503,151"/>
+<area shape="rect" id="node4" href="$ARMInstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for ARM. " alt="" coords="528,109,733,151"/>
+<area shape="rect" id="node5" href="$MipsInstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for Mips. " alt="" coords="758,109,959,151"/>
+<area shape="rect" id="node6" href="$RISCVInstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for RISCV. " alt="" coords="984,109,1213,151"/>
+<area shape="rect" id="node7" href="$X86InstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for X86. " alt="" coords="1238,109,1429,151"/>
+</map>

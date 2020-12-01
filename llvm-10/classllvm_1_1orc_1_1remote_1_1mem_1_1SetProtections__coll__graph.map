@@ -1,0 +1,4 @@
+<map id="llvm::orc::remote::mem::SetProtections" name="llvm::orc::remote::mem::SetProtections">
+<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; SetProtections, void\l(ResourceIdMgr::ResourceId\l AllocID, JITTargetAddress\l Dst, uint32_t ProtFlags)\&gt;" alt="" coords="379,21,569,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; DerivedFunc, FnT \&gt;" alt="" coords="5,43,161,85"/>
+</map>

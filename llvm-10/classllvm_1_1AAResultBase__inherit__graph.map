@@ -1,0 +1,20 @@
+<map id="llvm::AAResultBase&lt; DerivedT &gt;" name="llvm::AAResultBase&lt; DerivedT &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1BasicAAResult.html" title="This is the AA result object for the basic, local, and stateless alias analysis. " alt="" coords="393,5,535,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1AAResultBase.html" title="llvm::AAResultBase\l\&lt; BasicAAResult \&gt;" alt="" coords="394,71,534,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1AAResultBase.html" title="llvm::AAResultBase\l\&lt; ScopedNoAliasAAResult \&gt;" alt="" coords="368,136,560,177"/>
+<area shape="rect" id="node6" href="$classllvm_1_1AAResultBase.html" title="llvm::AAResultBase\l\&lt; AMDGPUAAResult \&gt;" alt="" coords="383,201,545,243"/>
+<area shape="rect" id="node8" href="$classllvm_1_1AAResultBase.html" title="llvm::AAResultBase\l\&lt; ObjCARCAAResult \&gt;" alt="" coords="383,267,545,308"/>
+<area shape="rect" id="node10" href="$classllvm_1_1AAResultBase.html" title="llvm::AAResultBase\l\&lt; GlobalsAAResult \&gt;" alt="" coords="391,332,537,373"/>
+<area shape="rect" id="node12" href="$classllvm_1_1AAResultBase.html" title="llvm::AAResultBase\l\&lt; CFLSteensAAResult \&gt;" alt="" coords="380,397,548,439"/>
+<area shape="rect" id="node14" href="$classllvm_1_1AAResultBase.html" title="llvm::AAResultBase\l\&lt; CFLAndersAAResult \&gt;" alt="" coords="380,463,548,504"/>
+<area shape="rect" id="node16" href="$classllvm_1_1AAResultBase.html" title="llvm::AAResultBase\l\&lt; SCEVAAResult \&gt;" alt="" coords="394,528,534,569"/>
+<area shape="rect" id="node18" href="$classllvm_1_1AAResultBase.html" title="llvm::AAResultBase\l\&lt; TypeBasedAAResult \&gt;" alt="" coords="380,593,548,635"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ScopedNoAliasAAResult.html" title="A simple AA result which uses scoped&#45;noalias metadata to answer queries. " alt="" coords="619,143,819,170"/>
+<area shape="rect" id="node7" href="$classllvm_1_1AMDGPUAAResult.html" title="A simple AA result that uses TBAA metadata to answer queries. " alt="" coords="634,209,803,235"/>
+<area shape="rect" id="node9" href="$classllvm_1_1objcarc_1_1ObjCARCAAResult.html" title="This is a simple alias analysis implementation that uses knowledge of ARC constructs to answer querie..." alt="" coords="609,274,828,301"/>
+<area shape="rect" id="node11" href="$classllvm_1_1GlobalsAAResult.html" title="An alias analysis result set for globals. " alt="" coords="641,339,796,366"/>
+<area shape="rect" id="node13" href="$classllvm_1_1CFLSteensAAResult.html" title="llvm::CFLSteensAAResult" alt="" coords="631,405,807,431"/>
+<area shape="rect" id="node15" href="$classllvm_1_1CFLAndersAAResult.html" title="llvm::CFLAndersAAResult" alt="" coords="631,470,807,497"/>
+<area shape="rect" id="node17" href="$classllvm_1_1SCEVAAResult.html" title="A simple alias analysis implementation that uses ScalarEvolution to answer queries. " alt="" coords="645,535,792,562"/>
+<area shape="rect" id="node19" href="$classllvm_1_1TypeBasedAAResult.html" title="A simple AA result that uses TBAA metadata to answer queries. " alt="" coords="631,601,807,627"/>
+</map>
