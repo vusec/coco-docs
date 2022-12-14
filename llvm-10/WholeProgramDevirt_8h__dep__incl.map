@@ -1,6 +1,0 @@
-<map id="include/llvm/Transforms/IPO/WholeProgramDevirt.h" name="include/llvm/Transforms/IPO/WholeProgramDevirt.h">
-<area shape="rect" id="node2" href="$LTO_8cpp.html" title="lib/LTO/LTO.cpp" alt="" coords="5,102,124,129"/>
-<area shape="rect" id="node3" href="$ThinLTOCodeGenerator_8cpp.html" title="lib/LTO/ThinLTOCodeGenerator.cpp" alt="" coords="148,102,379,129"/>
-<area shape="rect" id="node4" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="403,102,585,129"/>
-<area shape="rect" id="node5" href="$WholeProgramDevirt_8cpp.html" title="lib/Transforms/IPO\l/WholeProgramDevirt.cpp" alt="" coords="609,95,781,136"/>
-</map>

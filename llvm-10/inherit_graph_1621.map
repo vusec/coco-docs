@@ -1,8 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1codeview_1_1TypeVisitorCallbacks.html" title="llvm::codeview::TypeVisitor\lCallbacks" alt="" coords="5,123,188,164"/>
-<area shape="rect" id="node2" href="$classllvm_1_1codeview_1_1FieldListDeserializer.html" title="llvm::codeview::FieldList\lDeserializer" alt="" coords="260,5,427,47"/>
-<area shape="rect" id="node3" href="$classllvm_1_1codeview_1_1TypeDeserializer.html" title="llvm::codeview::TypeDeserializer" alt="" coords="236,71,451,98"/>
-<area shape="rect" id="node4" href="$classllvm_1_1codeview_1_1TypeDumpVisitor.html" title="Dumper for CodeView type streams found in COFF object files and PDB files. " alt="" coords="253,123,434,164"/>
-<area shape="rect" id="node5" href="$classllvm_1_1codeview_1_1TypeRecordMapping.html" title="llvm::codeview::TypeRecord\lMapping" alt="" coords="249,188,437,229"/>
-<area shape="rect" id="node6" href="$classllvm_1_1codeview_1_1TypeVisitorCallbackPipeline.html" title="llvm::codeview::TypeVisitor\lCallbackPipeline" alt="" coords="252,253,435,295"/>
-</map>

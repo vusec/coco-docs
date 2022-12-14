@@ -1,5 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1AMDGPU_1_1HSAMD_1_1MetadataStreamer.html" title="llvm::AMDGPU::HSAMD\l::MetadataStreamer" alt="" coords="5,39,176,80"/>
-<area shape="rect" id="node2" href="$classllvm_1_1AMDGPU_1_1HSAMD_1_1MetadataStreamerV2.html" title="llvm::AMDGPU::HSAMD\l::MetadataStreamerV2" alt="" coords="224,5,395,47"/>
-<area shape="rect" id="node3" href="$classllvm_1_1AMDGPU_1_1HSAMD_1_1MetadataStreamerV3.html" title="llvm::AMDGPU::HSAMD\l::MetadataStreamerV3" alt="" coords="224,71,395,112"/>
-</map>

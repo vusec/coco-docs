@@ -1,6 +1,0 @@
-<map id="llvm::ilist_alloc_traits&lt; MachineBasicBlock &gt;" name="llvm::ilist_alloc_traits&lt; MachineBasicBlock &gt;">
-<area shape="rect" id="node2" href="$structllvm_1_1ilist__node__traits.html" title="llvm::ilist_node_traits\l\&lt; MachineBasicBlock \&gt;" alt="" coords="215,20,376,61"/>
-<area shape="rect" id="node3" href="$structllvm_1_1ilist__traits.html" title="llvm::ilist_traits\l\&lt; MachineBasicBlock \&gt;" alt="" coords="424,20,585,61"/>
-<area shape="rect" id="node4" href="$classllvm_1_1iplist__impl.html" title="llvm::iplist_impl\&lt;\l simple_ilist\&lt; MachineBasic\lBlock, Options... \&gt;, ilist\l_traits\&lt; MachineBasicBlock \&gt; \&gt;" alt="" coords="633,5,843,76"/>
-<area shape="rect" id="node5" href="$classllvm_1_1iplist.html" title="llvm::iplist\&lt; MachineBasic\lBlock \&gt;" alt="" coords="891,20,1065,61"/>
-</map>

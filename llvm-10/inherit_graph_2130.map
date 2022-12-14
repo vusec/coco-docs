@@ -1,5 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1DWARFLocationTable.html" title="An abstract base class for various kinds of location tables (.debug_loc, .debug_loclists, and their dwo variants). " alt="" coords="5,31,191,57"/>
-<area shape="rect" id="node2" href="$classllvm_1_1DWARFDebugLoc.html" title="llvm::DWARFDebugLoc" alt="" coords="251,5,413,32"/>
-<area shape="rect" id="node3" href="$classllvm_1_1DWARFDebugLoclists.html" title="llvm::DWARFDebugLoclists" alt="" coords="239,56,425,83"/>
-</map>

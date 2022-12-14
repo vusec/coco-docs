@@ -1,5 +1,0 @@
-<map id="llvm::DOTGraphTraits&lt; DominatorTree * &gt;" name="llvm::DOTGraphTraits&lt; DominatorTree * &gt;">
-<area shape="rect" id="node2" href="$structllvm_1_1DOTGraphTraits.html" title="llvm::DOTGraphTraits\l\&lt; DomTreeNode *\&gt;" alt="" coords="31,185,182,227"/>
-<area shape="rect" id="node3" href="$structllvm_1_1DefaultDOTGraphTraits.html" title="DefaultDOTGraphTraits &#45; This class provides the default implementations of all of the DOTGraphTraits ..." alt="" coords="5,5,197,32"/>
-<area shape="rect" id="node4" href="$structllvm_1_1DOTGraphTraits.html" title="DOTGraphTraits &#45; Template class that can be specialized to customize how graphs are converted to &#39;dot..." alt="" coords="123,81,274,123"/>
-</map>

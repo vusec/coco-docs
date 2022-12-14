@@ -1,4 +1,0 @@
-<map id="llvm::AArch64TargetWinCOFFStreamer" name="llvm::AArch64TargetWinCOFFStreamer">
-<area shape="rect" id="node2" href="$classllvm_1_1AArch64TargetStreamer.html" title="llvm::AArch64TargetStreamer" alt="" coords="35,80,229,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1MCTargetStreamer.html" title="Target specific streamer interface. " alt="" coords="49,5,215,32"/>
-</map>

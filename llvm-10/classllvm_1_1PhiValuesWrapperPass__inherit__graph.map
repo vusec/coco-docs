@@ -1,4 +1,0 @@
-<map id="llvm::PhiValuesWrapperPass" name="llvm::PhiValuesWrapperPass">
-<area shape="rect" id="node2" href="$classllvm_1_1FunctionPass.html" title="FunctionPass class &#45; This class is used to implement most global optimizations. " alt="" coords="34,80,169,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1Pass.html" title="Pass interface &#45; Implemented by all &#39;passes&#39;. " alt="" coords="59,5,143,32"/>
-</map>

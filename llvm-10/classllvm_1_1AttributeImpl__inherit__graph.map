@@ -1,7 +1,0 @@
-<map id="llvm::AttributeImpl" name="llvm::AttributeImpl">
-<area shape="rect" id="node3" href="$classllvm_1_1EnumAttributeImpl.html" title="llvm::EnumAttributeImpl" alt="" coords="82,155,245,181"/>
-<area shape="rect" id="node6" href="$classllvm_1_1StringAttributeImpl.html" title="llvm::StringAttributeImpl" alt="" coords="269,155,431,181"/>
-<area shape="rect" id="node2" href="$classllvm_1_1FoldingSetBase_1_1Node.html" title="Node &#45; This class is used to maintain the singly linked bucket list in a folding set. " alt="" coords="199,5,314,32"/>
-<area shape="rect" id="node4" href="$classllvm_1_1IntAttributeImpl.html" title="llvm::IntAttributeImpl" alt="" coords="5,229,148,256"/>
-<area shape="rect" id="node5" href="$classllvm_1_1TypeAttributeImpl.html" title="llvm::TypeAttributeImpl" alt="" coords="173,229,330,256"/>
-</map>

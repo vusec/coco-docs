@@ -1,4 +1,0 @@
-<map id="llvm::IRMutationStrategy" name="llvm::IRMutationStrategy">
-<area shape="rect" id="node2" href="$classllvm_1_1InjectorIRStrategy.html" title="Strategy that injects operations into the function. " alt="" coords="5,80,165,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1InstDeleterIRStrategy.html" title="llvm::InstDeleterIRStrategy" alt="" coords="189,80,371,107"/>
-</map>

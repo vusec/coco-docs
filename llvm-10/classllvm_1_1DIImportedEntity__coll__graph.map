@@ -1,6 +1,0 @@
-<map id="llvm::DIImportedEntity" name="llvm::DIImportedEntity">
-<area shape="rect" id="node2" href="$classllvm_1_1DINode.html" title="Tagged DWARF&#45;like metadata node. " alt="" coords="101,352,199,379"/>
-<area shape="rect" id="node3" href="$classllvm_1_1MDNode.html" title="Metadata node. " alt="" coords="111,245,218,272"/>
-<area shape="rect" id="node4" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy. " alt="" coords="99,139,207,165"/>
-<area shape="rect" id="node5" href="$classunsigned.html" title="unsigned" alt="" coords="33,5,107,32"/>
-</map>

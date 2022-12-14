@@ -1,5 +1,0 @@
-<map id="llvm::PostGenericScheduler" name="llvm::PostGenericScheduler">
-<area shape="rect" id="node4" href="$classllvm_1_1PPCPostRASchedStrategy.html" title="A MachineSchedStrategy implementation for PowerPC post RA scheduling. " alt="" coords="5,229,220,256"/>
-<area shape="rect" id="node2" href="$classllvm_1_1GenericSchedulerBase.html" title="Base class for GenericScheduler. " alt="" coords="19,80,206,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1MachineSchedStrategy.html" title="MachineSchedStrategy &#45; Interface to the scheduling algorithm used by ScheduleDAGMI. " alt="" coords="18,5,207,32"/>
-</map>

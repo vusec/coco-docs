@@ -1,8 +1,0 @@
-<map id="llvm::AMDGPU::HSAMD::Kernel::Arg::Metadata" name="llvm::AMDGPU::HSAMD::Kernel::Arg::Metadata">
-<area shape="rect" id="node3" href="$classuint32__t.html" title="uint32_t" alt="" coords="1081,97,1149,124"/>
-<area shape="rect" id="node4" href="$classbool.html" title="bool" alt="" coords="1091,187,1138,213"/>
-<area shape="rect" id="node8" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; const Value *, const\l PseudoSourceValue * \&gt;" alt="" coords="1032,405,1197,461"/>
-<area shape="rect" id="node9" href="$classllvm_1_1pointer__union__detail_1_1PointerUnionMembers.html" title="llvm::pointer_union\l_detail::PointerUnionMembers\l\&lt; PointerUnion\&lt; PTs... \&gt;,\l PointerIntPair\&lt; void *, pointer\l_union_detail::bitsRequired(sizeof...\l(PTs)), int, pointer_union_detail::\lPointerUnionUIntTraits\&lt; PTs... \&gt; \&gt;,\l 0, PTs... \&gt;" alt="" coords="431,369,661,498"/>
-<area shape="rect" id="node11" href="$classllvm_1_1PointerUnion.html" title="A discriminated union of two or more pointer types, with the discriminator in the low bit of the poin..." alt="" coords="711,442,840,483"/>
-<area shape="rect" id="node10" href="$classllvm_1_1pointer__union__detail_1_1PointerUnionMembers.html" title="llvm::pointer_union\l_detail::PointerUnionMembers\l\&lt; Derived, ValTy, I, Types \&gt;" alt="" coords="5,405,203,461"/>
-</map>

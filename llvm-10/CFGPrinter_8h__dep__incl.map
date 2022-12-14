@@ -1,9 +1,0 @@
-<map id="include/llvm/Analysis/CFGPrinter.h" name="include/llvm/Analysis/CFGPrinter.h">
-<area shape="rect" id="node2" href="$DOTGraphTraitsPass_8h.html" title="include/llvm/Analysis\l/DOTGraphTraitsPass.h" alt="" coords="219,95,381,136"/>
-<area shape="rect" id="node6" href="$CFGPrinter_8cpp.html" title="lib/Analysis/CFGPrinter.cpp" alt="" coords="405,102,589,129"/>
-<area shape="rect" id="node7" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="614,102,797,129"/>
-<area shape="rect" id="node8" href="$NewGVN_8cpp.html" title="This file implements the new LLVM&#39;s Global Value Numbering pass. " alt="" coords="821,95,968,136"/>
-<area shape="rect" id="node3" href="$CallPrinter_8cpp.html" title="lib/Analysis/CallPrinter.cpp" alt="" coords="5,184,184,211"/>
-<area shape="rect" id="node4" href="$DomPrinter_8cpp.html" title="lib/Analysis/DomPrinter.cpp" alt="" coords="208,184,392,211"/>
-<area shape="rect" id="node5" href="$RegionPrinter_8cpp.html" title="lib/Analysis/RegionPrinter.cpp" alt="" coords="416,184,613,211"/>
-</map>

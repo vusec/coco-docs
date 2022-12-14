@@ -1,4 +1,0 @@
-<map id="llvm::ModuleToPostOrderCGSCCPassAdaptor&lt; CGSCCPassT &gt;" name="llvm::ModuleToPostOrderCGSCCPassAdaptor&lt; CGSCCPassT &gt;">
-<area shape="rect" id="node2" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; ModuleToPostOrderCGSCCPass\lAdaptor\&lt; CGSCCPassT \&gt; \&gt;" alt="" coords="15,124,245,180"/>
-<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes. " alt="" coords="61,5,199,47"/>
-</map>

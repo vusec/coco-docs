@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; CorrelatedValuePropagation\lPass \&gt;" alt="" coords="5,5,201,61"/>
-<area shape="rect" id="node2" href="$structllvm_1_1CorrelatedValuePropagationPass.html" title="llvm::CorrelatedValuePropagationPass" alt="" coords="249,20,496,47"/>
-</map>

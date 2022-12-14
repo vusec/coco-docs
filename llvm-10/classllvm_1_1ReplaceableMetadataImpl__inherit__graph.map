@@ -1,5 +1,0 @@
-<map id="llvm::ReplaceableMetadataImpl" name="llvm::ReplaceableMetadataImpl">
-<area shape="rect" id="node2" href="$classllvm_1_1ValueAsMetadata.html" title="Value wrapper in the Metadata hierarchy. " alt="" coords="110,80,267,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1ConstantAsMetadata.html" title="llvm::ConstantAsMetadata" alt="" coords="5,155,183,181"/>
-<area shape="rect" id="node4" href="$classllvm_1_1LocalAsMetadata.html" title="llvm::LocalAsMetadata" alt="" coords="207,155,362,181"/>
-</map>

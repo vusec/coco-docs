@@ -1,5 +1,0 @@
-<map id="lib/Target/NVPTX/MCTargetDesc/NVPTXTargetStreamer.h" name="lib/Target/NVPTX/MCTargetDesc/NVPTXTargetStreamer.h">
-<area shape="rect" id="node2" href="$NVPTXMCTargetDesc_8cpp.html" title="lib/Target/NVPTX/MCTarget\lDesc/NVPTXMCTargetDesc.cpp" alt="" coords="5,95,221,136"/>
-<area shape="rect" id="node3" href="$NVPTXTargetStreamer_8cpp.html" title="lib/Target/NVPTX/MCTarget\lDesc/NVPTXTargetStreamer.cpp" alt="" coords="246,95,463,136"/>
-<area shape="rect" id="node4" href="$NVPTXAsmPrinter_8cpp.html" title="lib/Target/NVPTX/NVPTXAsm\lPrinter.cpp" alt="" coords="487,95,689,136"/>
-</map>

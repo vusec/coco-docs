@@ -1,4 +1,0 @@
-<map id="llvm::DebugEpochBase::HandleBase" name="llvm::DebugEpochBase::HandleBase">
-<area shape="rect" id="node2" href="$classllvm_1_1DenseMapIterator.html" title="llvm::DenseMapIterator\l\&lt; KeyT, ValueT, KeyInfoT,\l Bucket, IsConst \&gt;" alt="" coords="212,5,391,61"/>
-<area shape="rect" id="node3" href="$classllvm_1_1SmallPtrSetIterator.html" title="SmallPtrSetIterator &#45; This implements a const_iterator for SmallPtrSet. " alt="" coords="219,86,384,127"/>
-</map>

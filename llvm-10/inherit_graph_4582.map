@@ -1,6 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1RegionNodeBase.html" title="llvm::RegionNodeBase\l\&lt; RegionTraits\&lt; MachineFunction \&gt; \&gt;" alt="" coords="5,27,248,69"/>
-<area shape="rect" id="node2" href="$classllvm_1_1MachineRegionNode.html" title="llvm::MachineRegionNode" alt="" coords="304,5,479,32"/>
-<area shape="rect" id="node3" href="$classllvm_1_1RegionBase.html" title="llvm::RegionBase\&lt; Region\lTraits\&lt; MachineFunction \&gt; \&gt;" alt="" coords="296,57,487,98"/>
-<area shape="rect" id="node4" href="$classllvm_1_1MachineRegion.html" title="llvm::MachineRegion" alt="" coords="535,64,679,91"/>
-</map>

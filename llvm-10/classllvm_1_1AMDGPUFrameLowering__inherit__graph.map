@@ -1,5 +1,0 @@
-<map id="llvm::AMDGPUFrameLowering" name="llvm::AMDGPUFrameLowering">
-<area shape="rect" id="node3" href="$classllvm_1_1R600FrameLowering.html" title="llvm::R600FrameLowering" alt="" coords="5,155,180,181"/>
-<area shape="rect" id="node4" href="$classllvm_1_1SIFrameLowering.html" title="llvm::SIFrameLowering" alt="" coords="204,155,360,181"/>
-<area shape="rect" id="node2" href="$classllvm_1_1TargetFrameLowering.html" title="Information about stack frame layout on the target. " alt="" coords="97,5,277,32"/>
-</map>

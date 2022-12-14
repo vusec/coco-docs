@@ -1,9 +1,0 @@
-<map id="include/llvm/Transforms/Utils/ImportedFunctionsInliningStatistics.h" name="include/llvm/Transforms/Utils/ImportedFunctionsInliningStatistics.h">
-<area shape="rect" id="node2" href="$Inliner_8h.html" title="include/llvm/Transforms\l/IPO/Inliner.h" alt="" coords="559,109,720,151"/>
-<area shape="rect" id="node6" href="$Inliner_8cpp.html" title="lib/Transforms/IPO\l/Inliner.cpp" alt="" coords="808,199,940,240"/>
-<area shape="rect" id="node8" href="$ImportedFunctionsInliningStatistics_8cpp.html" title="lib/Transforms/Utils\l/ImportedFunctionsInliningStatistics.cpp" alt="" coords="853,109,1108,151"/>
-<area shape="rect" id="node3" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="5,206,188,233"/>
-<area shape="rect" id="node4" href="$AMDGPUInline_8cpp.html" title="This is AMDGPU specific replacement of the standard inliner. " alt="" coords="213,206,471,233"/>
-<area shape="rect" id="node5" href="$AlwaysInliner_8cpp.html" title="lib/Transforms/IPO\l/AlwaysInliner.cpp" alt="" coords="496,199,628,240"/>
-<area shape="rect" id="node7" href="$InlineSimple_8cpp.html" title="lib/Transforms/IPO\l/InlineSimple.cpp" alt="" coords="652,199,784,240"/>
-</map>

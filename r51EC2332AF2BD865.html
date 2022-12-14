@@ -1,0 +1,36 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"></meta><meta content="width=device-width, initial-scale=1" name="viewport"></meta><title>class Graph::NeighborEdgeIteratorT: LLVM 10.0.0 documentation</title><link href="styles.css" rel="stylesheet"></link><script src="highlight.min.js"></script><script>hljs.highlightAll();</script><link href="katex.min.css" rel="stylesheet"></link><script src="katex.min.js"></script><script src="auto-render.min.js"></script><script>
+    document.addEventListener("DOMContentLoaded", function() {
+      renderMathInElement(document.body, {
+        delimiters: [
+          {left: '$$', right: '$$', display: true},
+          {left: '$', right: '$', display: false},
+        ],
+      });
+    });
+  </script><link href="apple-touch-icon.png" sizes="180x180" rel="apple-touch-icon"></link><link href="favicon-32x32.png" sizes="32x32" type="image/png" rel="icon"></link><link href="favicon-16x16.png" sizes="16x16" type="image/png" rel="icon"></link></head><body><div id="wrapper"><section class="section"><div class="container"><div class="columns"><aside class="column is-one-fifth"><ul class="menu-list"><p class="is-size-4">LLVM 10.0.0</p><p class="menu-label">Navigation</p><li><a href="index.html">Home</a></li><li><a href="search.html">Search</a></li><li><a href="https://github.com/llvm/llvm-project/">Repository</a></li><li><a href="https://hdoc.io">Made with hdoc</a></li><p class="menu-label">API Documentation</p><li><a href="functions.html">Functions</a></li><li><a href="records.html">Records</a></li><li><a href="enums.html">Enums</a></li><li><a href="namespaces.html">Namespaces</a></li></ul></aside><div class="column" style="overflow-x: auto"><nav class="breadcrumb has-arrow-separator" aria-label="breadcrumbs"><ul><li><a href="namespaces.html#00A4DA910CC17C2D"><span>namespace llvm</span></a></li><li><a href="namespaces.html#35130EE1CAB2FD6E"><span>namespace xray</span></a></li><li><a href="r0595E347790680D3.html"><span>class Graph</span></a></li><li class="is-active"><a aria-current="page51EC2332AF2BD865"><span>class Graph::NeighborEdgeIteratorT</span></a></li></ul></nav><main class="content"><h1>class Graph::NeighborEdgeIteratorT</h1><h2>Declaration</h2><pre class="p-0"><code class="hdoc-record-code language-cpp">template &lt;bool IsConst,
+          bool IsOut,
+          typename BaseIt = typename NeighborSetT::const_iterator,
+          typename T = typename std::conditional&lt;IsConst,
+                                                 const EdgeValueType,
+                                                 EdgeValueType&gt;::type&gt;
+class Graph::NeighborEdgeIteratorT { /* full declaration omitted */ };</code></pre><h2>Description</h2><p>An Iterator adapter using an InnerInvGraphT::iterator as a base iterator, and storing the VertexIdentifier the iterator range comes from. The dereference operator is then performed using a pointer to the graph&apos;s edge set.</p><p>Declared at: <a class="is-family-code" href="https://github.com/llvm/llvm-project/blob/release/10.x/llvm/include/llvm/XRay/Graph.h#L131">llvm/include/llvm/XRay/Graph.h:131</a></p><h2>Templates</h2><dl><dt class="is-family-code">bool<b> IsConst</b></dt><dt class="is-family-code">bool<b> IsOut</b></dt><dt class="is-family-code"><b> BaseIt</b> = typename NeighborSetT::const_iterator</dt><dt class="is-family-code"><b> T</b> = typename std::conditional&lt;IsConst, const EdgeValueType, EdgeValueType&gt;::type</dt></dl><h2>Method Overview</h2><ul><li class="is-family-code">public  <a href="#E633811769876F16"><b>NeighborEdgeIteratorT&lt;IsConst, IsOut, BaseIt, T&gt;</b></a>()</li><li class="is-family-code">public  <a href="#D478F8E0B93F5E9F"><b>NeighborEdgeIteratorT&lt;IsConst, IsOut, BaseIt, T&gt;</b></a>(BaseIt _I, llvm::xray::Graph::NeighborEdgeIteratorT::InternalEdgeMapT * _MP, llvm::xray::Graph::VertexIdentifier _SI)</li><li class="is-family-code">public template &lt;bool IsConstDest, typename  = typename std::enable_if&lt;IsConstDest &amp;&amp; !IsConst&gt;::type&gt;NeighborEdgeIteratorT&lt;IsConstDest, IsOut, BaseIt, const llvm::xray::Graph::EdgeValueType&gt;  <a href="#C406080B4A70F99E"><b>operator NeighborEdgeIteratorT&lt;IsConstDest, IsOut, type-parameter-1-2, const DenseMapPair&lt;pair&lt;type-parameter-0-2, type-parameter-0-2&gt;, type-parameter-0-1&gt; &gt;</b></a>() const</li></ul><h2>Methods</h2><h3 id="E633811769876F16"><pre class="p-0 hdoc-pre-parent"><a class="hdoc-permalink-icon" href="#E633811769876F16">¶</a><code class="hdoc-function-code language-cpp">NeighborEdgeIteratorT&lt;IsConst, IsOut, BaseIt, T&gt;()</code></pre></h3><p>Declared at: <a class="is-family-code" href="https://github.com/llvm/llvm-project/blob/release/10.x/llvm/include/llvm/XRay/Graph.h#L154">llvm/include/llvm/XRay/Graph.h:154</a></p><h3 id="D478F8E0B93F5E9F"><pre class="p-0 hdoc-pre-parent"><a class="hdoc-permalink-icon" href="#D478F8E0B93F5E9F">¶</a><code class="hdoc-function-code language-cpp">NeighborEdgeIteratorT&lt;IsConst, IsOut, BaseIt, T&gt;(
+    BaseIt _I,
+    llvm::xray::Graph::NeighborEdgeIteratorT::
+        InternalEdgeMapT* _MP,
+    llvm::xray::Graph::VertexIdentifier _SI)</code></pre></h3><p>Declared at: <a class="is-family-code" href="https://github.com/llvm/llvm-project/blob/release/10.x/llvm/include/llvm/XRay/Graph.h#L155">llvm/include/llvm/XRay/Graph.h:155</a></p><h4>Parameters</h4><dl><dt class="is-family-code">BaseIt<b> _I</b></dt><dt class="is-family-code">llvm::xray::Graph::NeighborEdgeIteratorT::
+    InternalEdgeMapT*<b> _MP</b></dt><dt class="is-family-code">llvm::xray::Graph::VertexIdentifier<b> _SI</b></dt></dl><h3 id="C406080B4A70F99E"><pre class="p-0 hdoc-pre-parent"><a class="hdoc-permalink-icon" href="#C406080B4A70F99E">¶</a><code class="hdoc-function-code language-cpp">template &lt;bool IsConstDest,
+          typename = typename std::enable_if&lt;
+              IsConstDest &amp;&amp; !IsConst&gt;::type&gt;
+NeighborEdgeIteratorT&lt;
+    IsConstDest,
+    IsOut,
+    BaseIt,
+    const llvm::xray::Graph::EdgeValueType&gt;
+operator NeighborEdgeIteratorT&lt;
+    IsConstDest,
+    IsOut,
+    type - parameter - 1 - 2,
+    const DenseMapPair&lt;
+        pair&lt;type - parameter - 0 - 2,
+             type - parameter - 0 - 2&gt;,
+        type - parameter - 0 - 1&gt; &gt;() const</code></pre></h3><p>Declared at: <a class="is-family-code" href="https://github.com/llvm/llvm-project/blob/release/10.x/llvm/include/llvm/XRay/Graph.h#L148">llvm/include/llvm/XRay/Graph.h:148</a></p><h4>Templates</h4><dl><dt class="is-family-code">bool<b> IsConstDest</b></dt><dt class="is-family-code"><b> </b> = typename std::enable_if&lt;IsConstDest &amp;&amp; !IsConst&gt;::type</dt></dl></main></div></div></div></section></div><footer class="footer"><p>Documentation for LLVM 10.0.0.</p><p>Generated by <a href="https://hdoc.io/">hdoc</a> version 1.4.0-hdocInternal on 2022-12-14T09:44:14 UTC.</p><p class="has-text-grey-light">19AD43E11B2996</p></footer></body></html>

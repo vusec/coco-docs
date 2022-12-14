@@ -1,5 +1,0 @@
-<map id="include/llvm/Frontend/OpenMP/OMPConstants.h" name="include/llvm/Frontend/OpenMP/OMPConstants.h">
-<area shape="rect" id="node2" href="$OMPIRBuilder_8h.html" title="include/llvm/Frontend\l/OpenMP/OMPIRBuilder.h" alt="" coords="5,95,181,136"/>
-<area shape="rect" id="node4" href="$OMPConstants_8cpp.html" title="lib/Frontend/OpenMP\l/OMPConstants.cpp" alt="" coords="206,95,351,136"/>
-<area shape="rect" id="node3" href="$OMPIRBuilder_8cpp.html" title="This file implements the OpenMPIRBuilder class, which is used as a convenient way to create LLVM inst..." alt="" coords="21,184,166,225"/>
-</map>

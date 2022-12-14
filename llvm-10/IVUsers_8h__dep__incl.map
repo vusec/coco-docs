@@ -1,8 +1,0 @@
-<map id="include/llvm/Analysis/IVUsers.h" name="include/llvm/Analysis/IVUsers.h">
-<area shape="rect" id="node2" href="$IVUsersPrinter_8h.html" title="include/llvm/Transforms\l/Scalar/IVUsersPrinter.h" alt="" coords="109,95,273,136"/>
-<area shape="rect" id="node3" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="5,191,188,218"/>
-<area shape="rect" id="node4" href="$IVUsersPrinter_8cpp.html" title="lib/Transforms/Scalar\l/IVUsersPrinter.cpp" alt="" coords="225,184,371,225"/>
-<area shape="rect" id="node5" href="$IVUsers_8cpp.html" title="lib/Analysis/IVUsers.cpp" alt="" coords="349,102,516,129"/>
-<area shape="rect" id="node6" href="$MachineFunctionPass_8cpp.html" title="lib/CodeGen/MachineFunction\lPass.cpp" alt="" coords="541,95,738,136"/>
-<area shape="rect" id="node7" href="$LoopStrengthReduce_8cpp.html" title="lib/Transforms/Scalar\l/LoopStrengthReduce.cpp" alt="" coords="762,95,935,136"/>
-</map>

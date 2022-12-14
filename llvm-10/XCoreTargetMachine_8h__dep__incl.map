@@ -1,8 +1,0 @@
-<map id="lib/Target/XCore/XCoreTargetMachine.h" name="lib/Target/XCore/XCoreTargetMachine.h">
-<area shape="rect" id="node2" href="$XCoreAsmPrinter_8cpp.html" title="lib/Target/XCore/XCoreAsm\lPrinter.cpp" alt="" coords="5,95,191,136"/>
-<area shape="rect" id="node3" href="$XCoreISelDAGToDAG_8cpp.html" title="lib/Target/XCore/XCoreISel\lDAGToDAG.cpp" alt="" coords="215,95,397,136"/>
-<area shape="rect" id="node4" href="$XCoreISelLowering_8cpp.html" title="lib/Target/XCore/XCoreISel\lLowering.cpp" alt="" coords="421,95,602,136"/>
-<area shape="rect" id="node5" href="$XCoreSelectionDAGInfo_8cpp.html" title="lib/Target/XCore/XCoreSelection\lDAGInfo.cpp" alt="" coords="627,95,839,136"/>
-<area shape="rect" id="node6" href="$XCoreTargetMachine_8cpp.html" title="lib/Target/XCore/XCoreTarget\lMachine.cpp" alt="" coords="845,184,1039,225"/>
-<area shape="rect" id="node7" href="$XCoreTargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the XCore target machine..." alt="" coords="913,95,1107,136"/>
-</map>

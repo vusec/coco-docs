@@ -1,9 +1,0 @@
-<map id="include/llvm/DebugInfo/PDB/Native/TpiStream.h" name="include/llvm/DebugInfo/PDB/Native/TpiStream.h">
-<area shape="rect" id="node2" href="$NativeSession_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeSession.cpp" alt="" coords="5,95,179,136"/>
-<area shape="rect" id="node3" href="$NativeTypeEnum_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeTypeEnum.cpp" alt="" coords="203,95,376,136"/>
-<area shape="rect" id="node4" href="$NativeTypeFunctionSig_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeTypeFunctionSig.cpp" alt="" coords="400,95,587,136"/>
-<area shape="rect" id="node5" href="$PDBFile_8cpp.html" title="lib/DebugInfo/PDB/Native\l/PDBFile.cpp" alt="" coords="611,95,784,136"/>
-<area shape="rect" id="node6" href="$PDBFileBuilder_8cpp.html" title="lib/DebugInfo/PDB/Native\l/PDBFileBuilder.cpp" alt="" coords="808,95,981,136"/>
-<area shape="rect" id="node7" href="$SymbolCache_8cpp.html" title="lib/DebugInfo/PDB/Native\l/SymbolCache.cpp" alt="" coords="1005,95,1179,136"/>
-<area shape="rect" id="node8" href="$TpiStream_8cpp.html" title="lib/DebugInfo/PDB/Native\l/TpiStream.cpp" alt="" coords="1203,95,1376,136"/>
-</map>

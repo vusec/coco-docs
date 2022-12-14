@@ -1,7 +1,0 @@
-<map id="llvm::ClrEHUnwindMapEntry" name="llvm::ClrEHUnwindMapEntry">
-<area shape="rect" id="node2" href="$classuint32__t.html" title="uint32_t" alt="" coords="1089,5,1157,32"/>
-<area shape="rect" id="node4" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; const BasicBlock *,\l MachineBasicBlock * \&gt;" alt="" coords="1041,111,1204,167"/>
-<area shape="rect" id="node5" href="$classllvm_1_1pointer__union__detail_1_1PointerUnionMembers.html" title="llvm::pointer_union\l_detail::PointerUnionMembers\l\&lt; PointerUnion\&lt; PTs... \&gt;,\l PointerIntPair\&lt; void *, pointer\l_union_detail::bitsRequired(sizeof...\l(PTs)), int, pointer_union_detail::\lPointerUnionUIntTraits\&lt; PTs... \&gt; \&gt;,\l 0, PTs... \&gt;" alt="" coords="431,77,661,206"/>
-<area shape="rect" id="node7" href="$classllvm_1_1PointerUnion.html" title="A discriminated union of two or more pointer types, with the discriminator in the low bit of the poin..." alt="" coords="711,150,840,191"/>
-<area shape="rect" id="node6" href="$classllvm_1_1pointer__union__detail_1_1PointerUnionMembers.html" title="llvm::pointer_union\l_detail::PointerUnionMembers\l\&lt; Derived, ValTy, I, Types \&gt;" alt="" coords="5,113,203,169"/>
-</map>

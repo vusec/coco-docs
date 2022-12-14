@@ -1,9 +1,0 @@
-<map id="llvm::GlobalIndirectSymbol" name="llvm::GlobalIndirectSymbol">
-<area shape="rect" id="node2" href="$classllvm_1_1GlobalValue.html" title="llvm::GlobalValue" alt="" coords="223,627,347,653"/>
-<area shape="rect" id="node3" href="$classllvm_1_1Constant.html" title="This is an important base class in LLVM. " alt="" coords="164,537,271,564"/>
-<area shape="rect" id="node4" href="$classllvm_1_1User.html" title="llvm::User" alt="" coords="183,373,265,400"/>
-<area shape="rect" id="node5" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="139,197,226,224"/>
-<area shape="rect" id="node6" href="$classunsigned.html" title="unsigned" alt="" coords="101,5,176,32"/>
-<area shape="rect" id="node7" href="$classllvm_1_1Type.html" title="The instances of the Type class are immutable: once they are created, they are never changed..." alt="" coords="267,248,349,275"/>
-<area shape="rect" id="node8" href="$classllvm_1_1Module.html" title="A Module instance is used to store all the information related to an LLVM module. ..." alt="" coords="345,537,441,564"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="llvm::ilist_traits&lt; NodeTy &gt;" name="llvm::ilist_traits&lt; NodeTy &gt;">
-<area shape="rect" id="node2" href="$structllvm_1_1ilist__node__traits.html" title="A fragment for template traits for intrusive list that provides default node related operations..." alt="" coords="85,95,230,136"/>
-<area shape="rect" id="node3" href="$structllvm_1_1ilist__alloc__traits.html" title="Use delete by default for iplist and ilist. " alt="" coords="5,5,149,47"/>
-<area shape="rect" id="node4" href="$structllvm_1_1ilist__callback__traits.html" title="Callbacks do nothing by default in iplist and ilist. " alt="" coords="174,5,303,47"/>
-</map>

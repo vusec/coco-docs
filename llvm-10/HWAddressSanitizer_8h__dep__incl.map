@@ -1,4 +1,0 @@
-<map id="include/llvm/Transforms/Instrumentation/HWAddressSanitizer.h" name="include/llvm/Transforms/Instrumentation/HWAddressSanitizer.h">
-<area shape="rect" id="node2" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="5,102,188,129"/>
-<area shape="rect" id="node3" href="$HWAddressSanitizer_8cpp.html" title="This file is a part of HWAddressSanitizer, an address sanity checker based on tagged addressing..." alt="" coords="212,95,411,136"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="llvm::AArch64IC::IC" name="llvm::AArch64IC::IC">
-<area shape="rect" id="node2" href="$structllvm_1_1SysAliasReg.html" title="llvm::SysAliasReg" alt="" coords="114,184,245,211"/>
-<area shape="rect" id="node3" href="$structllvm_1_1SysAlias.html" title="llvm::SysAlias" alt="" coords="75,95,182,121"/>
-<area shape="rect" id="node4" href="$classuint16__t.html" title="uint16_t" alt="" coords="5,5,73,32"/>
-<area shape="rect" id="node5" href="$classchar.html" title="char" alt="" coords="105,5,152,32"/>
-<area shape="rect" id="node6" href="$classllvm_1_1FeatureBitset.html" title="Container class for subtarget features. " alt="" coords="176,5,308,32"/>
-<area shape="rect" id="node7" href="$classbool.html" title="bool" alt="" coords="207,95,253,121"/>
-</map>

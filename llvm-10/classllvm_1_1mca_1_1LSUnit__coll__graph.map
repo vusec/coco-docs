@@ -1,4 +1,0 @@
-<map id="llvm::mca::LSUnit" name="llvm::mca::LSUnit">
-<area shape="rect" id="node2" href="$classllvm_1_1mca_1_1LSUnitBase.html" title="Abstract base interface for LS (load/store) units in llvm&#45;mca. " alt="" coords="10,80,167,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1mca_1_1HardwareUnit.html" title="llvm::mca::HardwareUnit" alt="" coords="5,5,172,32"/>
-</map>

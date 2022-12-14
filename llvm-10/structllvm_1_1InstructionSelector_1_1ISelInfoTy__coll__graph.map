@@ -1,9 +1,0 @@
-<map id="llvm::InstructionSelector::ISelInfoTy&lt; PredicateBitset, ComplexMatcherMemFn, CustomRendererFn &gt;" name="llvm::InstructionSelector::ISelInfoTy&lt; PredicateBitset, ComplexMatcherMemFn, CustomRendererFn &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1LLT.html" title="llvm::LLT" alt="" coords="1438,82,1514,109"/>
-<area shape="rect" id="node3" href="$classllvm_1_1SmallDenseMap.html" title="llvm::SmallDenseMap\l\&lt; llvm::LLT, unsigned, 64 \&gt;" alt="" coords="1385,133,1567,175"/>
-<area shape="rect" id="node4" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; SmallDenseMap\&lt; llvm\l::LLT, unsigned, InlineBuckets,\l DenseMapInfo\&lt; llvm::LLT \&gt;,\l llvm::detail::DenseMapPair\l\&lt; llvm::LLT, unsigned \&gt; \&gt;, llvm\l::LLT, unsigned, DenseMapInfo\&lt;\l llvm::LLT \&gt;, llvm::detail::DenseMapPair\l\&lt; llvm::LLT, unsigned \&gt; \&gt;" alt="" coords="676,45,933,189"/>
-<area shape="rect" id="node5" href="$classllvm_1_1DebugEpochBase.html" title="A base class for data structure classes wishing to make iterators (&quot;handles&quot;) pointing into themselve..." alt="" coords="5,165,164,191"/>
-<area shape="rect" id="node6" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DerivedT, KeyT, ValueT,\l KeyInfoT, BucketT \&gt;" alt="" coords="213,150,392,206"/>
-<area shape="rect" id="node8" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; SmallDenseMap\&lt; KeyT,\l ValueT, InlineBuckets,\l KeyInfoT, BucketT \&gt;, KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="706,213,903,298"/>
-<area shape="rect" id="node7" href="$classllvm_1_1SmallDenseMap.html" title="llvm::SmallDenseMap\l\&lt; KeyT, ValueT, InlineBuckets,\l KeyInfoT, BucketT \&gt;" alt="" coords="983,173,1188,229"/>
-</map>

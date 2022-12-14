@@ -1,5 +1,0 @@
-<map id="llvm::IVUsersWrapperPass" name="llvm::IVUsersWrapperPass">
-<area shape="rect" id="node2" href="$classllvm_1_1LoopPass.html" title="llvm::LoopPass" alt="" coords="5,81,117,108"/>
-<area shape="rect" id="node3" href="$classllvm_1_1Pass.html" title="Pass interface &#45; Implemented by all &#39;passes&#39;. " alt="" coords="19,5,103,32"/>
-<area shape="rect" id="node4" href="$classchar.html" title="char" alt="" coords="142,81,189,108"/>
-</map>

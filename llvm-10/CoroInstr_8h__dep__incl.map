@@ -1,9 +1,0 @@
-<map id="lib/Transforms/Coroutines/CoroInstr.h" name="lib/Transforms/Coroutines/CoroInstr.h">
-<area shape="rect" id="node2" href="$CoroInternal_8h.html" title="lib/Transforms/Coroutines\l/CoroInternal.h" alt="" coords="593,95,765,136"/>
-<area shape="rect" id="node7" href="$CoroSplit_8cpp.html" title="lib/Transforms/Coroutines\l/CoroSplit.cpp" alt="" coords="789,184,961,225"/>
-<area shape="rect" id="node8" href="$Coroutines_8cpp.html" title="lib/Transforms/Coroutines\l/Coroutines.cpp" alt="" coords="985,184,1157,225"/>
-<area shape="rect" id="node3" href="$CoroCleanup_8cpp.html" title="lib/Transforms/Coroutines\l/CoroCleanup.cpp" alt="" coords="397,184,569,225"/>
-<area shape="rect" id="node4" href="$CoroEarly_8cpp.html" title="lib/Transforms/Coroutines\l/CoroEarly.cpp" alt="" coords="593,184,765,225"/>
-<area shape="rect" id="node5" href="$CoroElide_8cpp.html" title="lib/Transforms/Coroutines\l/CoroElide.cpp" alt="" coords="5,184,177,225"/>
-<area shape="rect" id="node6" href="$CoroFrame_8cpp.html" title="lib/Transforms/Coroutines\l/CoroFrame.cpp" alt="" coords="201,184,373,225"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="lib/Target/ARM/TargetInfo/ARMTargetInfo.h" name="lib/Target/ARM/TargetInfo/ARMTargetInfo.h">
-<area shape="rect" id="node2" href="$ARMAsmPrinter_8cpp.html" title="lib/Target/ARM/ARMAsmPrinter.cpp" alt="" coords="5,102,240,129"/>
-<area shape="rect" id="node3" href="$ARMTargetMachine_8cpp.html" title="lib/Target/ARM/ARMTarget\lMachine.cpp" alt="" coords="264,95,445,136"/>
-<area shape="rect" id="node4" href="$ARMAsmParser_8cpp.html" title="lib/Target/ARM/AsmParser\l/ARMAsmParser.cpp" alt="" coords="469,95,648,136"/>
-<area shape="rect" id="node5" href="$ARMDisassembler_8cpp.html" title="lib/Target/ARM/Disassembler\l/ARMDisassembler.cpp" alt="" coords="672,95,867,136"/>
-<area shape="rect" id="node6" href="$ARMMCTargetDesc_8cpp.html" title="lib/Target/ARM/MCTargetDesc\l/ARMMCTargetDesc.cpp" alt="" coords="891,95,1093,136"/>
-<area shape="rect" id="node7" href="$ARMTargetInfo_8cpp.html" title="lib/Target/ARM/TargetInfo\l/ARMTargetInfo.cpp" alt="" coords="1117,95,1291,136"/>
-</map>

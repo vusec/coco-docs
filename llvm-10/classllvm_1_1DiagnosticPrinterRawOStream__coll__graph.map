@@ -1,4 +1,0 @@
-<map id="llvm::DiagnosticPrinterRawOStream" name="llvm::DiagnosticPrinterRawOStream">
-<area shape="rect" id="node2" href="$classllvm_1_1DiagnosticPrinter.html" title="Interface for custom diagnostic printing. " alt="" coords="5,241,160,268"/>
-<area shape="rect" id="node3" href="$classllvm_1_1raw__ostream.html" title="This class implements an extremely fast bulk output stream that can only output to a stream..." alt="" coords="185,241,314,268"/>
-</map>

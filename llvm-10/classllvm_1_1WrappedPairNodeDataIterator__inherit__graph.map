@@ -1,6 +1,0 @@
-<map id="llvm::WrappedPairNodeDataIterator&lt; ItType, NodeRef, DataRef &gt;" name="llvm::WrappedPairNodeDataIterator&lt; ItType, NodeRef, DataRef &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1iterator__adaptor__base.html" title="llvm::iterator_adaptor\l_base\&lt; WrappedPairNodeDataIterator\l\&lt; ItType, NodeRef, DataRef \&gt;,\l ItType, std::iterator_traits\l\&lt; ItType \&gt;::iterator_category,\l NodeRef, std::ptrdiff_t, NodeRef\l *, NodeRef &amp;\&gt;" alt="" coords="1264,75,1508,189"/>
-<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; WrappedPairNodeDataIterator\l\&lt; ItType, NodeRef, DataRef \&gt;,\l std::iterator_traits\&lt; ItType\l \&gt;::iterator_category, NodeRef,\l std::ptrdiff_t, NodeRef *, NodeRef &amp; \&gt;" alt="" coords="769,26,1020,126"/>
-<area shape="rect" id="node5" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="267,133,491,203"/>
-<area shape="rect" id="node7" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type. " alt="" coords="768,150,1021,221"/>
-</map>

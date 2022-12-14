@@ -1,5 +1,0 @@
-<map id="llvm::AArch64MCAsmInfoMicrosoftCOFF" name="llvm::AArch64MCAsmInfoMicrosoftCOFF">
-<area shape="rect" id="node2" href="$classllvm_1_1MCAsmInfoMicrosoft.html" title="llvm::MCAsmInfoMicrosoft" alt="" coords="48,155,227,181"/>
-<area shape="rect" id="node3" href="$classllvm_1_1MCAsmInfoCOFF.html" title="llvm::MCAsmInfoCOFF" alt="" coords="57,80,217,107"/>
-<area shape="rect" id="node4" href="$classllvm_1_1MCAsmInfo.html" title="This class is intended to be used as a base class for asm properties and features specific to the tar..." alt="" coords="75,5,199,32"/>
-</map>

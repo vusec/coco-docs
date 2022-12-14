@@ -1,6 +1,0 @@
-<map id="include/llvm/CodeGen/PBQP/Math.h" name="include/llvm/CodeGen/PBQP/Math.h">
-<area shape="rect" id="node2" href="$ReductionRules_8h.html" title="include/llvm/CodeGen\l/PBQP/ReductionRules.h" alt="" coords="69,95,239,136"/>
-<area shape="rect" id="node3" href="$RegAllocPBQP_8h.html" title="include/llvm/CodeGen\l/RegAllocPBQP.h" alt="" coords="108,184,259,225"/>
-<area shape="rect" id="node4" href="$RegAllocPBQP_8cpp.html" title="lib/CodeGen/RegAllocPBQP.cpp" alt="" coords="221,281,434,307"/>
-<area shape="rect" id="node5" href="$AArch64PBQPRegAlloc_8cpp.html" title="lib/Target/AArch64\l/AArch64PBQPRegAlloc.cpp" alt="" coords="5,273,196,315"/>
-</map>

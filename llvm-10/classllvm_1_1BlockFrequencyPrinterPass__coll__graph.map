@@ -1,4 +1,0 @@
-<map id="llvm::BlockFrequencyPrinterPass" name="llvm::BlockFrequencyPrinterPass">
-<area shape="rect" id="node2" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; BlockFrequencyPrinterPass \&gt;" alt="" coords="9,109,217,151"/>
-<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes. " alt="" coords="45,5,182,47"/>
-</map>

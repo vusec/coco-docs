@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; LoopLoadEliminationPass \&gt;" alt="" coords="5,5,201,47"/>
-<area shape="rect" id="node2" href="$structllvm_1_1LoopLoadEliminationPass.html" title="Pass to forward loads in a loop around the backedge to subsequent iterations. " alt="" coords="249,13,453,39"/>
-</map>

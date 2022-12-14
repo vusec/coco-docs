@@ -1,9 +1,0 @@
-<map id="lib/Target/RISCV/MCTargetDesc/RISCVFixupKinds.h" name="lib/Target/RISCV/MCTargetDesc/RISCVFixupKinds.h">
-<area shape="rect" id="node2" href="$RISCVAsmBackend_8h.html" title="lib/Target/RISCV/MCTarget\lDesc/RISCVAsmBackend.h" alt="" coords="455,95,643,136"/>
-<area shape="rect" id="node6" href="$RISCVMCExpr_8cpp.html" title="lib/Target/RISCV/MCTarget\lDesc/RISCVMCExpr.cpp" alt="" coords="674,184,858,225"/>
-<area shape="rect" id="node7" href="$RISCVELFObjectWriter_8cpp.html" title="lib/Target/RISCV/MCTarget\lDesc/RISCVELFObjectWriter.cpp" alt="" coords="761,95,982,136"/>
-<area shape="rect" id="node8" href="$RISCVMCCodeEmitter_8cpp.html" title="lib/Target/RISCV/MCTarget\lDesc/RISCVMCCodeEmitter.cpp" alt="" coords="1006,95,1225,136"/>
-<area shape="rect" id="node3" href="$RISCVAsmParser_8cpp.html" title="lib/Target/RISCV/AsmParser\l/RISCVAsmParser.cpp" alt="" coords="5,184,196,225"/>
-<area shape="rect" id="node4" href="$RISCVAsmBackend_8cpp.html" title="lib/Target/RISCV/MCTarget\lDesc/RISCVAsmBackend.cpp" alt="" coords="221,184,423,225"/>
-<area shape="rect" id="node5" href="$RISCVELFStreamer_8cpp.html" title="lib/Target/RISCV/MCTarget\lDesc/RISCVELFStreamer.cpp" alt="" coords="448,184,649,225"/>
-</map>

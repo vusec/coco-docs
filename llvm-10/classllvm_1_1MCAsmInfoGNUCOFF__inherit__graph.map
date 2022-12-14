@@ -1,7 +1,0 @@
-<map id="llvm::MCAsmInfoGNUCOFF" name="llvm::MCAsmInfoGNUCOFF">
-<area shape="rect" id="node4" href="$structllvm_1_1AArch64MCAsmInfoGNUCOFF.html" title="llvm::AArch64MCAsmInfoGNUCOFF" alt="" coords="5,229,245,256"/>
-<area shape="rect" id="node5" href="$classllvm_1_1ARMCOFFMCAsmInfoGNU.html" title="llvm::ARMCOFFMCAsmInfoGNU" alt="" coords="270,229,490,256"/>
-<area shape="rect" id="node6" href="$classllvm_1_1X86MCAsmInfoGNUCOFF.html" title="llvm::X86MCAsmInfoGNUCOFF" alt="" coords="515,229,728,256"/>
-<area shape="rect" id="node2" href="$classllvm_1_1MCAsmInfoCOFF.html" title="llvm::MCAsmInfoCOFF" alt="" coords="300,80,460,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1MCAsmInfo.html" title="This class is intended to be used as a base class for asm properties and features specific to the tar..." alt="" coords="318,5,442,32"/>
-</map>

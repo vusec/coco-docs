@@ -1,6 +1,0 @@
-<map id="llvm::AMDGPUTargetLowering" name="llvm::AMDGPUTargetLowering">
-<area shape="rect" id="node4" href="$classllvm_1_1R600TargetLowering.html" title="llvm::R600TargetLowering" alt="" coords="5,229,180,256"/>
-<area shape="rect" id="node5" href="$classllvm_1_1SITargetLowering.html" title="llvm::SITargetLowering" alt="" coords="204,229,360,256"/>
-<area shape="rect" id="node2" href="$classllvm_1_1TargetLowering.html" title="This class defines information used to lower LLVM code to legal SelectionDAG operators that the targe..." alt="" coords="116,80,259,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1TargetLoweringBase.html" title="This base class for TargetLowering contains the SelectionDAG&#45;independent parts that can be used from ..." alt="" coords="101,5,274,32"/>
-</map>

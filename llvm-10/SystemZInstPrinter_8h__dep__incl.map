@@ -1,6 +1,0 @@
-<map id="lib/Target/SystemZ/MCTargetDesc/SystemZInstPrinter.h" name="lib/Target/SystemZ/MCTargetDesc/SystemZInstPrinter.h">
-<area shape="rect" id="node2" href="$SystemZAsmParser_8cpp.html" title="lib/Target/SystemZ\l/AsmParser/SystemZAsmParser.cpp" alt="" coords="5,102,244,143"/>
-<area shape="rect" id="node3" href="$SystemZInstPrinter_8cpp.html" title="lib/Target/SystemZ\l/MCTargetDesc/SystemZInstPrinter.cpp" alt="" coords="268,102,525,143"/>
-<area shape="rect" id="node4" href="$SystemZMCTargetDesc_8cpp.html" title="lib/Target/SystemZ\l/MCTargetDesc/SystemZMCTarget\lDesc.cpp" alt="" coords="549,95,780,151"/>
-<area shape="rect" id="node5" href="$SystemZAsmPrinter_8cpp.html" title="lib/Target/SystemZ\l/SystemZAsmPrinter.cpp" alt="" coords="804,102,973,143"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="llvm::CallGraphSCCPass" name="llvm::CallGraphSCCPass">
-<area shape="rect" id="node3" href="$structllvm_1_1AMDGPUPerfHintAnalysis.html" title="llvm::AMDGPUPerfHintAnalysis" alt="" coords="5,155,216,181"/>
-<area shape="rect" id="node4" href="$classllvm_1_1DummyCGSCCPass.html" title="This pass is required by interprocedural register allocation. " alt="" coords="240,155,419,181"/>
-<area shape="rect" id="node5" href="$structllvm_1_1LegacyInlinerBase.html" title="This class contains all of the helper code which is used to perform the inlining operations that do n..." alt="" coords="443,155,605,181"/>
-<area shape="rect" id="node2" href="$classllvm_1_1Pass.html" title="Pass interface &#45; Implemented by all &#39;passes&#39;. " alt="" coords="287,5,371,32"/>
-</map>

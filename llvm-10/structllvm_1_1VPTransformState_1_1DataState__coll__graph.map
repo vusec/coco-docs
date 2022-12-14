@@ -1,8 +1,0 @@
-<map id="llvm::VPTransformState::DataState" name="llvm::VPTransformState::DataState">
-<area shape="rect" id="node2" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::VPValue *, llvm::SmallVector \&gt;" alt="" coords="1357,137,1571,178"/>
-<area shape="rect" id="node3" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; llvm::VPValue\l *, llvm::SmallVector, DenseMap\lInfo\&lt; llvm::VPValue *\&gt;, llvm\l::detail::DenseMapPair\&lt; llvm\l::VPValue *, llvm::SmallVector\l \&gt; \&gt;, llvm::VPValue *, llvm::SmallVector,\l DenseMapInfo\&lt; llvm::VPValue *\&gt;, llvm\l::detail::DenseMapPair\&lt; llvm::VPValue\l *, llvm::SmallVector \&gt; \&gt;" alt="" coords="681,38,943,197"/>
-<area shape="rect" id="node4" href="$classllvm_1_1DebugEpochBase.html" title="A base class for data structure classes wishing to make iterators (&quot;handles&quot;) pointing into themselve..." alt="" coords="5,172,164,199"/>
-<area shape="rect" id="node5" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DerivedT, KeyT, ValueT,\l KeyInfoT, BucketT \&gt;" alt="" coords="213,157,392,213"/>
-<area shape="rect" id="node7" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; KeyT, ValueT,\l KeyInfoT, BucketT \&gt;, KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="713,221,911,291"/>
-<area shape="rect" id="node6" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="992,175,1189,217"/>
-</map>

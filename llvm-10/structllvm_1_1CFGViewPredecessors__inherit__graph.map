@@ -1,6 +1,0 @@
-<map id="llvm::CFGViewPredecessors&lt; InverseGraph &gt;" name="llvm::CFGViewPredecessors&lt; InverseGraph &gt;">
-<area shape="rect" id="node2" href="$structllvm_1_1CFGViewPredecessors.html" title="llvm::CFGViewPredecessors\l\&lt; false \&gt;" alt="" coords="301,27,492,68"/>
-<area shape="rect" id="node4" href="$structllvm_1_1CFGViewPredecessors.html" title="llvm::CFGViewPredecessors\l\&lt; true \&gt;" alt="" coords="301,107,492,148"/>
-<area shape="rect" id="node3" href="$structllvm_1_1GraphTraits_3_01std_1_1pair_3_01const_01GraphDiff_3_01BasicBlock_01_5_00_01false_0e71361a9a54515306544b7edd3bd3834.html" title="llvm::GraphTraits\&lt;\l std::pair\&lt; const GraphDiff\l\&lt; BasicBlock *, false \&gt; *,\l Inverse\&lt; BasicBlock * \&gt; \&gt; \&gt;" alt="" coords="541,5,733,76"/>
-<area shape="rect" id="node5" href="$structllvm_1_1GraphTraits_3_01std_1_1pair_3_01const_01GraphDiff_3_01BasicBlock_01_5_00_01true_01de5fe15cdaf739722801f176093c99df.html" title="llvm::GraphTraits\&lt;\l std::pair\&lt; const GraphDiff\l\&lt; BasicBlock *, true \&gt; *,\l Inverse\&lt; BasicBlock * \&gt; \&gt; \&gt;" alt="" coords="541,100,733,171"/>
-</map>

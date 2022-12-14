@@ -1,4 +1,0 @@
-<map id="llvm::DoNothingMemorySSAWalker" name="llvm::DoNothingMemorySSAWalker">
-<area shape="rect" id="node2" href="$classllvm_1_1MemorySSAWalker.html" title="This is the generic walker interface for walkers of MemorySSA. " alt="" coords="36,95,205,121"/>
-<area shape="rect" id="node3" href="$classllvm_1_1MemorySSA.html" title="Encapsulates MemorySSA, including all data associated with memory accesses. " alt="" coords="57,5,185,32"/>
-</map>

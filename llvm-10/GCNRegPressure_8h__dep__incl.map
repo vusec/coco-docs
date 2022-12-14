@@ -1,9 +1,0 @@
-<map id="lib/Target/AMDGPU/GCNRegPressure.h" name="lib/Target/AMDGPU/GCNRegPressure.h">
-<area shape="rect" id="node2" href="$GCNIterativeScheduler_8h.html" title="lib/Target/AMDGPU/GCNIterative\lScheduler.h" alt="" coords="422,95,642,136"/>
-<area shape="rect" id="node4" href="$GCNIterativeScheduler_8cpp.html" title="lib/Target/AMDGPU/GCNIterative\lScheduler.cpp" alt="" coords="503,184,723,225"/>
-<area shape="rect" id="node5" href="$GCNSchedStrategy_8h.html" title="lib/Target/AMDGPU/GCNSched\lStrategy.h" alt="" coords="187,95,397,136"/>
-<area shape="rect" id="node7" href="$GCNRegPressure_8cpp.html" title="lib/Target/AMDGPU/GCNReg\lPressure.cpp" alt="" coords="717,95,915,136"/>
-<area shape="rect" id="node8" href="$SIFormMemoryClauses_8cpp.html" title="This pass creates bundles of SMEM and VMEM instructions forming memory clauses if XNACK is enabled..." alt="" coords="939,95,1125,136"/>
-<area shape="rect" id="node3" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="241,184,479,225"/>
-<area shape="rect" id="node6" href="$GCNSchedStrategy_8cpp.html" title="This contains a MachineSchedStrategy implementation for maximizing wave occupancy on GCN hardware..." alt="" coords="5,184,216,225"/>
-</map>

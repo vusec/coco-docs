@@ -1,5 +1,0 @@
-<map id="llvm::ReplacementItem" name="llvm::ReplacementItem">
-<area shape="rect" id="node2" href="$classchar.html" title="char" alt="" coords="5,96,52,123"/>
-<area shape="rect" id="node3" href="$classsize__t.html" title="size_t" alt="" coords="93,5,151,32"/>
-<area shape="rect" id="node6" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e. " alt="" coords="158,96,267,123"/>
-</map>

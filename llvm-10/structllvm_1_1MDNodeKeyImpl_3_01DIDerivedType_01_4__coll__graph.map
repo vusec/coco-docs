@@ -1,8 +1,0 @@
-<map id="llvm::MDNodeKeyImpl&lt; DIDerivedType &gt;" name="llvm::MDNodeKeyImpl&lt; DIDerivedType &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; unsigned \&gt;" alt="" coords="5,273,184,300"/>
-<area shape="rect" id="node3" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; T \&gt;" alt="" coords="27,139,162,165"/>
-<area shape="rect" id="node4" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy. " alt="" coords="293,139,401,165"/>
-<area shape="rect" id="node8" href="$classllvm_1_1MDString.html" title="A single uniqued string. " alt="" coords="404,273,513,300"/>
-<area shape="rect" id="node5" href="$classunsigned.html" title="unsigned" alt="" coords="239,5,313,32"/>
-<area shape="rect" id="node7" href="$classuint32__t.html" title="uint32_t" alt="" coords="634,273,702,300"/>
-</map>

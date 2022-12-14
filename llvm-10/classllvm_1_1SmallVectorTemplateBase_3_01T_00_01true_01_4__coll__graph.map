@@ -1,6 +1,0 @@
-<map id="llvm::SmallVectorTemplateBase&lt; T, true &gt;" name="llvm::SmallVectorTemplateBase&lt; T, true &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="llvm::SmallVectorTemplate\lCommon\&lt; T \&gt;" alt="" coords="5,289,184,331"/>
-<area shape="rect" id="node3" href="$classllvm_1_1SmallVectorBase.html" title="This is all the non&#45;templated stuff common to all SmallVectors. " alt="" coords="12,109,167,136"/>
-<area shape="rect" id="node6" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="This is the part of SmallVectorTemplateBase which does not depend on whether the type T is a POD..." alt="" coords="111,185,289,227"/>
-<area shape="rect" id="node4" href="$classunsigned.html" title="unsigned" alt="" coords="8,5,83,32"/>
-</map>

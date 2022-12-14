@@ -1,8 +1,0 @@
-<map id="lib/Target/AVR/TargetInfo/AVRTargetInfo.h" name="lib/Target/AVR/TargetInfo/AVRTargetInfo.h">
-<area shape="rect" id="node2" href="$AVRAsmParser_8cpp.html" title="lib/Target/AVR/AsmParser\l/AVRAsmParser.cpp" alt="" coords="5,95,183,136"/>
-<area shape="rect" id="node3" href="$AVRAsmPrinter_8cpp.html" title="lib/Target/AVR/AVRAsmPrinter.cpp" alt="" coords="207,102,437,129"/>
-<area shape="rect" id="node4" href="$AVRTargetMachine_8cpp.html" title="lib/Target/AVR/AVRTarget\lMachine.cpp" alt="" coords="461,95,639,136"/>
-<area shape="rect" id="node5" href="$AVRDisassembler_8cpp.html" title="lib/Target/AVR/Disassembler\l/AVRDisassembler.cpp" alt="" coords="663,95,855,136"/>
-<area shape="rect" id="node6" href="$AVRMCTargetDesc_8cpp.html" title="lib/Target/AVR/MCTargetDesc\l/AVRMCTargetDesc.cpp" alt="" coords="880,95,1081,136"/>
-<area shape="rect" id="node7" href="$AVRTargetInfo_8cpp.html" title="lib/Target/AVR/TargetInfo\l/AVRTargetInfo.cpp" alt="" coords="1106,95,1277,136"/>
-</map>

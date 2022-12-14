@@ -1,5 +1,0 @@
-<map id="lib/Target/AMDGPU/MCTargetDesc/AMDGPUFixupKinds.h" name="lib/Target/AMDGPU/MCTargetDesc/AMDGPUFixupKinds.h">
-<area shape="rect" id="node2" href="$AMDGPUAsmBackend_8cpp.html" title="lib/Target/AMDGPU/MCTarget\lDesc/AMDGPUAsmBackend.cpp" alt="" coords="5,95,224,136"/>
-<area shape="rect" id="node3" href="$R600MCCodeEmitter_8cpp.html" title="The R600 code emitter produces machine code that can be executed directly on the GPU device..." alt="" coords="249,95,455,136"/>
-<area shape="rect" id="node4" href="$SIMCCodeEmitter_8cpp.html" title="The SI code emitter produces machine code that can be executed directly on the GPU device..." alt="" coords="479,95,681,136"/>
-</map>

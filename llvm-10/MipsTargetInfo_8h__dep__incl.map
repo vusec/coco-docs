@@ -1,8 +1,0 @@
-<map id="lib/Target/Mips/TargetInfo/MipsTargetInfo.h" name="lib/Target/Mips/TargetInfo/MipsTargetInfo.h">
-<area shape="rect" id="node2" href="$MipsAsmParser_8cpp.html" title="lib/Target/Mips/AsmParser\l/MipsAsmParser.cpp" alt="" coords="5,95,183,136"/>
-<area shape="rect" id="node3" href="$MipsDisassembler_8cpp.html" title="lib/Target/Mips/Disassembler\l/MipsDisassembler.cpp" alt="" coords="207,95,399,136"/>
-<area shape="rect" id="node4" href="$MipsMCTargetDesc_8cpp.html" title="lib/Target/Mips/MCTarget\lDesc/MipsMCTargetDesc.cpp" alt="" coords="424,95,623,136"/>
-<area shape="rect" id="node5" href="$MipsAsmPrinter_8cpp.html" title="lib/Target/Mips/MipsAsmPrinter.cpp" alt="" coords="647,102,877,129"/>
-<area shape="rect" id="node6" href="$MipsTargetMachine_8cpp.html" title="lib/Target/Mips/MipsTarget\lMachine.cpp" alt="" coords="901,95,1079,136"/>
-<area shape="rect" id="node7" href="$MipsTargetInfo_8cpp.html" title="lib/Target/Mips/TargetInfo\l/MipsTargetInfo.cpp" alt="" coords="1103,95,1274,136"/>
-</map>

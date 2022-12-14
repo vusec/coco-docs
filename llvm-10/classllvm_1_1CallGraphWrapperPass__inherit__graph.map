@@ -1,4 +1,0 @@
-<map id="llvm::CallGraphWrapperPass" name="llvm::CallGraphWrapperPass">
-<area shape="rect" id="node2" href="$classllvm_1_1ModulePass.html" title="ModulePass class &#45; This class is used to implement unstructured interprocedural optimizations and ana..." alt="" coords="37,80,164,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1Pass.html" title="Pass interface &#45; Implemented by all &#39;passes&#39;. " alt="" coords="59,5,143,32"/>
-</map>

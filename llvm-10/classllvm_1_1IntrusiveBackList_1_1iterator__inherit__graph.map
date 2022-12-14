@@ -1,4 +1,0 @@
-<map id="llvm::IntrusiveBackList&lt; T &gt;::iterator" name="llvm::IntrusiveBackList&lt; T &gt;::iterator">
-<area shape="rect" id="node2" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; iterator, std\l::forward_iterator_tag, T \&gt;" alt="" coords="672,61,845,117"/>
-<area shape="rect" id="node4" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="267,100,491,171"/>
-</map>

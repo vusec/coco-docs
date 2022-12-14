@@ -1,5 +1,0 @@
-<map id="lib/Target/ARM/ARMRegisterBankInfo.h" name="lib/Target/ARM/ARMRegisterBankInfo.h">
-<area shape="rect" id="node2" href="$ARMInstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for ARM. " alt="" coords="5,95,211,136"/>
-<area shape="rect" id="node3" href="$ARMRegisterBankInfo_8cpp.html" title="This file implements the targeting of the RegisterBankInfo class for ARM. " alt="" coords="235,95,429,136"/>
-<area shape="rect" id="node4" href="$ARMSubtarget_8cpp.html" title="lib/Target/ARM/ARMSubtarget.cpp" alt="" coords="453,102,678,129"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="llvm::VarStreamArrayExtractor&lt; T &gt;" name="llvm::VarStreamArrayExtractor&lt; T &gt;">
-<area shape="rect" id="node2" href="$structllvm_1_1VarStreamArrayExtractor.html" title="llvm::VarStreamArrayExtractor\l\&lt; CVType \&gt;" alt="" coords="512,5,712,47"/>
-<area shape="rect" id="node3" href="$structllvm_1_1VarStreamArrayExtractor.html" title="llvm::VarStreamArrayExtractor\l\&lt; llvm::pdb::DbiModuleDescriptor \&gt;" alt="" coords="497,71,727,112"/>
-<area shape="rect" id="node4" href="$structllvm_1_1VarStreamArrayExtractor.html" title="llvm::VarStreamArrayExtractor\l\&lt; DebugSubsectionRecord \&gt;" alt="" coords="512,136,712,177"/>
-<area shape="rect" id="node5" href="$structllvm_1_1VarStreamArrayExtractor.html" title="llvm::VarStreamArrayExtractor\l\&lt; CVSymbol \&gt;" alt="" coords="512,201,712,243"/>
-<area shape="rect" id="node6" href="$structllvm_1_1VarStreamArrayExtractor.html" title="llvm::VarStreamArrayExtractor\l\&lt; InlineeSourceLine \&gt;" alt="" coords="512,267,712,308"/>
-<area shape="rect" id="node7" href="$structllvm_1_1VarStreamArrayExtractor.html" title="llvm::VarStreamArrayExtractor\l\&lt; CrossModuleImportItem \&gt;" alt="" coords="512,332,712,373"/>
-</map>

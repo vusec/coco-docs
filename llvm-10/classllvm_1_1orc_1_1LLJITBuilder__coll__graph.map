@@ -1,8 +1,0 @@
-<map id="llvm::orc::LLJITBuilder" name="llvm::orc::LLJITBuilder">
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1LLJITBuilderState.html" title="llvm::orc::LLJITBuilderState" alt="" coords="855,185,1039,211"/>
-<area shape="rect" id="node4" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; llvm\l::orc::JITTargetMachineBuilder \&gt;" alt="" coords="392,71,605,112"/>
-<area shape="rect" id="node5" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; T \&gt;" alt="" coords="5,78,140,105"/>
-<area shape="rect" id="node7" href="$classunsigned.html" title="unsigned" alt="" coords="461,217,536,243"/>
-<area shape="rect" id="node9" href="$classllvm_1_1orc_1_1LLJITBuilderSetters.html" title="llvm::orc::LLJITBuilderSetters\l\&lt; LLJIT, LLJITBuilder, LLJITBuilder\lState \&gt;" alt="" coords="832,279,1061,335"/>
-<area shape="rect" id="node10" href="$classllvm_1_1orc_1_1LLJITBuilderSetters.html" title="llvm::orc::LLJITBuilderSetters\l\&lt; JITType, SetterImpl, State \&gt;" alt="" coords="398,363,599,404"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="include/llvm/Analysis/ValueLattice.h" name="include/llvm/Analysis/ValueLattice.h">
-<area shape="rect" id="node2" href="$LazyValueInfo_8cpp.html" title="lib/Analysis/LazyValueInfo.cpp" alt="" coords="5,102,207,129"/>
-<area shape="rect" id="node3" href="$ValueLattice_8cpp.html" title="lib/Analysis/ValueLattice.cpp" alt="" coords="231,102,421,129"/>
-<area shape="rect" id="node4" href="$Scalar_2SCCP_8cpp.html" title="lib/Transforms/Scalar\l/SCCP.cpp" alt="" coords="446,95,593,136"/>
-</map>

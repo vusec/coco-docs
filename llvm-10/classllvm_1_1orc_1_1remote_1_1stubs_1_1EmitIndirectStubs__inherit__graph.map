@@ -1,4 +1,0 @@
-<map id="llvm::orc::remote::stubs::EmitIndirectStubs" name="llvm::orc::remote::stubs::EmitIndirectStubs">
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; EmitIndirectStubs, std\l::tuple\&lt; JITTargetAddress,\l JITTargetAddress, uint32\l_t \&gt;(ResourceIdMgr::ResourceId\l StubsOwnerID, uint32_t NumStubsRequired)\&gt;" alt="" coords="484,29,780,129"/>
-<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; DerivedFunc, FnT \&gt;" alt="" coords="5,58,161,99"/>
-</map>

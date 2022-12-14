@@ -1,5 +1,0 @@
-<map id="lib/Target/AMDGPU/AMDGPUAsmPrinter.h" name="lib/Target/AMDGPU/AMDGPUAsmPrinter.h">
-<area shape="rect" id="node2" href="$AMDGPUAsmPrinter_8cpp.html" title="The AMDGPUAsmPrinter is used to print both assembly string and also binary code. " alt="" coords="5,95,235,136"/>
-<area shape="rect" id="node3" href="$AMDGPUMCInstLower_8cpp.html" title="Code to lower AMDGPU MachineInstrs to their corresponding MCInst. " alt="" coords="259,95,504,136"/>
-<area shape="rect" id="node4" href="$AMDGPUPALMetadata_8cpp.html" title="This class has methods called by AMDGPUAsmPrinter to accumulate and print the PAL metadata..." alt="" coords="528,95,717,136"/>
-</map>

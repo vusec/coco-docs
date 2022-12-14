@@ -1,5 +1,0 @@
-<map id="RegInfo" name="RegInfo">
-<area shape="rect" id="node2" href="$classllvm_1_1StringLiteral.html" title="A wrapper around a string literal that serves as a proxy for constructing global tables of StringRefs..." alt="" coords="5,171,128,197"/>
-<area shape="rect" id="node3" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e. " alt="" coords="12,95,121,121"/>
-<area shape="rect" id="node4" href="$classsize__t.html" title="size_t" alt="" coords="38,5,95,32"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1MCAsmBackend.html" title="Generic interface to target specific assembler backends. " alt="" coords="5,81,159,108"/>
-<area shape="rect" id="node2" href="$classllvm_1_1ARMAsmBackend.html" title="llvm::ARMAsmBackend" alt="" coords="213,5,375,32"/>
-<area shape="rect" id="node4" href="$classllvm_1_1AVRAsmBackend.html" title="Utilities for manipulating generated AVR machine code. " alt="" coords="214,56,374,83"/>
-<area shape="rect" id="node5" href="$classllvm_1_1MipsAsmBackend.html" title="llvm::MipsAsmBackend" alt="" coords="214,107,374,133"/>
-<area shape="rect" id="node6" href="$classllvm_1_1RISCVAsmBackend.html" title="llvm::RISCVAsmBackend" alt="" coords="207,157,381,184"/>
-<area shape="rect" id="node3" href="$classllvm_1_1ARMAsmBackendDarwin.html" title="llvm::ARMAsmBackendDarwin" alt="" coords="429,5,632,32"/>
-</map>

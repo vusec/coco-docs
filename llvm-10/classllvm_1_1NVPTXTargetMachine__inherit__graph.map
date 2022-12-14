@@ -1,6 +1,0 @@
-<map id="llvm::NVPTXTargetMachine" name="llvm::NVPTXTargetMachine">
-<area shape="rect" id="node4" href="$classllvm_1_1NVPTXTargetMachine32.html" title="llvm::NVPTXTargetMachine32" alt="" coords="5,229,204,256"/>
-<area shape="rect" id="node5" href="$classllvm_1_1NVPTXTargetMachine64.html" title="llvm::NVPTXTargetMachine64" alt="" coords="228,229,427,256"/>
-<area shape="rect" id="node2" href="$classllvm_1_1LLVMTargetMachine.html" title="This class describes a target machine that is implemented with the LLVM target&#45;independent code gener..." alt="" coords="128,80,303,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1TargetMachine.html" title="Primary interface to the complete machine description for the target machine. " alt="" coords="145,5,285,32"/>
-</map>

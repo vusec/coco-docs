@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; RequestCompile, JITTargetAddress\l(JITTargetAddress TrampolineAddr)\&gt;" alt="" coords="5,5,248,61"/>
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1remote_1_1utils_1_1RequestCompile.html" title="Request that the host execute a compile callback. " alt="" coords="296,13,447,54"/>
-</map>

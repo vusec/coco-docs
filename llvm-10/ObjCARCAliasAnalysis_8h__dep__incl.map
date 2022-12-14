@@ -1,5 +1,0 @@
-<map id="include/llvm/Analysis/ObjCARCAliasAnalysis.h" name="include/llvm/Analysis/ObjCARCAliasAnalysis.h">
-<area shape="rect" id="node2" href="$AliasAnalysis_8cpp.html" title="lib/Analysis/AliasAnalysis.cpp" alt="" coords="5,102,203,129"/>
-<area shape="rect" id="node3" href="$ObjCARCAliasAnalysis_8cpp.html" title="This file defines a simple ARC&#45;aware AliasAnalysis using special knowledge of Objective C to enhance ..." alt="" coords="227,95,408,136"/>
-<area shape="rect" id="node4" href="$ObjCARCOpts_8cpp.html" title="This file defines ObjC ARC optimizations. " alt="" coords="432,95,600,136"/>
-</map>

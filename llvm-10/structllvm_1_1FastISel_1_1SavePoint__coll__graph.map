@@ -1,7 +1,0 @@
-<map id="llvm::FastISel::SavePoint" name="llvm::FastISel::SavePoint">
-<area shape="rect" id="node2" href="$classllvm_1_1MachineInstrBundleIterator.html" title="llvm::MachineInstrBundle\lIterator\&lt; MachineInstr \&gt;" alt="" coords="563,29,732,71"/>
-<area shape="rect" id="node3" href="$structllvm_1_1MachineInstrBundleIteratorHelper_3_01false_01_4.html" title="llvm::MachineInstrBundle\lIteratorHelper\&lt; false \&gt;" alt="" coords="241,5,410,47"/>
-<area shape="rect" id="node4" href="$classllvm_1_1MachineInstrBundleIterator.html" title="MachineBasicBlock iterator that automatically skips over MIs that are inside bundles (i..." alt="" coords="240,71,411,112"/>
-<area shape="rect" id="node5" href="$structllvm_1_1MachineInstrBundleIteratorHelper.html" title="llvm::MachineInstrBundle\lIteratorHelper\&lt; IsReverse \&gt;" alt="" coords="5,71,191,112"/>
-<area shape="rect" id="node6" href="$classllvm_1_1DebugLoc.html" title="A debug info location. " alt="" coords="591,95,704,122"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="lib/Target/WebAssembly/TargetInfo/WebAssemblyTargetInfo.h" name="lib/Target/WebAssembly/TargetInfo/WebAssemblyTargetInfo.h">
-<area shape="rect" id="node2" href="$WebAssemblyAsmParser_8cpp.html" title="This file is part of the WebAssembly Assembler. " alt="" coords="5,117,276,158"/>
-<area shape="rect" id="node3" href="$WebAssemblyDisassembler_8cpp.html" title="This file is part of the WebAssembly Disassembler. " alt="" coords="300,117,600,158"/>
-<area shape="rect" id="node4" href="$WebAssemblyMCTargetDesc_8cpp.html" title="This file provides WebAssembly&#45;specific target descriptions. " alt="" coords="624,109,887,165"/>
-<area shape="rect" id="node5" href="$WebAssemblyTargetInfo_8cpp.html" title="This file registers the WebAssembly target. " alt="" coords="911,109,1122,165"/>
-<area shape="rect" id="node6" href="$WebAssemblyAsmPrinter_8cpp.html" title="This file contains a printer that converts from our internal representation of machine&#45;dependent LLVM..." alt="" coords="1147,117,1348,158"/>
-<area shape="rect" id="node7" href="$WebAssemblyTargetMachine_8cpp.html" title="This file defines the WebAssembly&#45;specific subclass of TargetMachine. " alt="" coords="1372,117,1595,158"/>
-</map>

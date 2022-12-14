@@ -1,7 +1,0 @@
-<map id="llvm::DICompositeType" name="llvm::DICompositeType">
-<area shape="rect" id="node2" href="$classllvm_1_1DIType.html" title="Base class for types. " alt="" coords="37,304,134,331"/>
-<area shape="rect" id="node3" href="$classllvm_1_1DIScope.html" title="Base class for scope&#45;like contexts. " alt="" coords="33,229,138,256"/>
-<area shape="rect" id="node4" href="$classllvm_1_1DINode.html" title="Tagged DWARF&#45;like metadata node. " alt="" coords="36,155,135,181"/>
-<area shape="rect" id="node5" href="$classllvm_1_1MDNode.html" title="Metadata node. " alt="" coords="32,80,139,107"/>
-<area shape="rect" id="node6" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy. " alt="" coords="31,5,139,32"/>
-</map>

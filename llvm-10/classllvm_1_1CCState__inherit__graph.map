@@ -1,5 +1,0 @@
-<map id="llvm::CCState" name="llvm::CCState">
-<area shape="rect" id="node2" href="$classllvm_1_1MipsCCState.html" title="llvm::MipsCCState" alt="" coords="5,80,139,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1PPCCCState.html" title="llvm::PPCCCState" alt="" coords="163,80,296,107"/>
-<area shape="rect" id="node4" href="$classllvm_1_1SystemZCCState.html" title="llvm::SystemZCCState" alt="" coords="321,80,479,107"/>
-</map>

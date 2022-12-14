@@ -1,8 +1,0 @@
-<map id="include/llvm/Transforms/Utils/CodeExtractor.h" name="include/llvm/Transforms/Utils/CodeExtractor.h">
-<area shape="rect" id="node2" href="$OMPIRBuilder_8cpp.html" title="This file implements the OpenMPIRBuilder class, which is used as a convenient way to create LLVM inst..." alt="" coords="5,95,151,136"/>
-<area shape="rect" id="node3" href="$BlockExtractor_8cpp.html" title="lib/Transforms/IPO\l/BlockExtractor.cpp" alt="" coords="175,95,312,136"/>
-<area shape="rect" id="node4" href="$HotColdSplitting_8cpp.html" title="The goal of hot/cold splitting is to improve the memory locality of code. " alt="" coords="337,95,483,136"/>
-<area shape="rect" id="node5" href="$LoopExtractor_8cpp.html" title="lib/Transforms/IPO\l/LoopExtractor.cpp" alt="" coords="508,95,640,136"/>
-<area shape="rect" id="node6" href="$PartialInlining_8cpp.html" title="lib/Transforms/IPO\l/PartialInlining.cpp" alt="" coords="664,95,796,136"/>
-<area shape="rect" id="node7" href="$CodeExtractor_8cpp.html" title="lib/Transforms/Utils\l/CodeExtractor.cpp" alt="" coords="821,95,957,136"/>
-</map>

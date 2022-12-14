@@ -1,8 +1,0 @@
-<map id="include/llvm/MC/MCDisassembler/MCExternalSymbolizer.h" name="include/llvm/MC/MCDisassembler/MCExternalSymbolizer.h">
-<area shape="rect" id="node2" href="$include_2llvm-c_2Disassembler_8h.html" title="llvm&#45;c/Disassembler.h" alt="" coords="345,102,497,129"/>
-<area shape="rect" id="node11" href="$MCSymbolizer_8h.html" title="llvm/MC/MCDisassembler\l/MCSymbolizer.h" alt="" coords="667,95,843,136"/>
-<area shape="rect" id="node3" href="$DisassemblerTypes_8h.html" title="llvm&#45;c/DisassemblerTypes.h" alt="" coords="148,191,336,218"/>
-<area shape="rect" id="node10" href="$ExternC_8h.html" title="llvm&#45;c/ExternC.h" alt="" coords="361,191,481,218"/>
-<area shape="rect" id="node4" href="$c_2DataTypes_8h.html" title="llvm&#45;c/DataTypes.h" alt="" coords="111,273,247,300"/>
-<area shape="rect" id="node12" href="$MCRelocationInfo_8h.html" title="llvm/MC/MCDisassembler\l/MCRelocationInfo.h" alt="" coords="505,184,681,225"/>
-</map>

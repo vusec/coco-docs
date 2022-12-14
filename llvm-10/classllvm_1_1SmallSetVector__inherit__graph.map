@@ -1,9 +1,0 @@
-<map id="llvm::SmallSetVector&lt; T, N &gt;" name="llvm::SmallSetVector&lt; T, N &gt;">
-<area shape="rect" id="node4" href="$classllvm_1_1SmallSetVector.html" title="llvm::SmallSetVector\l\&lt; const llvm::DISubprogram\l *, 4 \&gt;" alt="" coords="912,5,1099,61"/>
-<area shape="rect" id="node5" href="$classllvm_1_1SmallSetVector.html" title="llvm::SmallSetVector\l\&lt; llvm::PHINode *, 8 \&gt;" alt="" coords="927,86,1083,127"/>
-<area shape="rect" id="node6" href="$classllvm_1_1SmallSetVector.html" title="llvm::SmallSetVector\l\&lt; llvm::Function *, 4 \&gt;" alt="" coords="929,151,1081,193"/>
-<area shape="rect" id="node7" href="$classllvm_1_1SmallSetVector.html" title="llvm::SmallSetVector\l\&lt; llvm::SelectInst *, 8 \&gt;" alt="" coords="925,217,1086,258"/>
-<area shape="rect" id="node8" href="$classllvm_1_1SmallSetVector.html" title="llvm::SmallSetVector\l\&lt; unsigned, 32 \&gt;" alt="" coords="933,282,1078,323"/>
-<area shape="rect" id="node2" href="$classllvm_1_1SetVector.html" title="llvm::SetVector\&lt; T,\l SmallVector\&lt; T, N \&gt;\l, SmallDenseSet\&lt; T, N \&gt; \&gt;" alt="" coords="317,144,500,200"/>
-<area shape="rect" id="node3" href="$classllvm_1_1SetVector.html" title="A vector that has set insertion semantics. " alt="" coords="5,151,141,193"/>
-</map>

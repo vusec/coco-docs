@@ -1,5 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1xray_1_1RecordConsumer.html" title="llvm::xray::RecordConsumer" alt="" coords="5,31,195,57"/>
-<area shape="rect" id="node2" href="$classllvm_1_1xray_1_1LogBuilderConsumer.html" title="llvm::xray::LogBuilderConsumer" alt="" coords="243,5,451,32"/>
-<area shape="rect" id="node3" href="$classllvm_1_1xray_1_1PipelineConsumer.html" title="llvm::xray::PipelineConsumer" alt="" coords="250,56,443,83"/>
-</map>

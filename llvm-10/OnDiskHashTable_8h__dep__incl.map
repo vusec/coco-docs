@@ -1,8 +1,0 @@
-<map id="include/llvm/Support/OnDiskHashTable.h" name="include/llvm/Support/OnDiskHashTable.h">
-<area shape="rect" id="node2" href="$InstrProfReader_8h.html" title="include/llvm/ProfileData\l/InstrProfReader.h" alt="" coords="302,95,462,136"/>
-<area shape="rect" id="node7" href="$InstrProfWriter_8cpp.html" title="lib/ProfileData/InstrProf\lWriter.cpp" alt="" coords="487,95,645,136"/>
-<area shape="rect" id="node3" href="$CoverageMapping_8cpp.html" title="lib/ProfileData/Coverage\l/CoverageMapping.cpp" alt="" coords="5,184,169,225"/>
-<area shape="rect" id="node4" href="$InstrProf_8cpp.html" title="lib/ProfileData/InstrProf.cpp" alt="" coords="193,191,376,218"/>
-<area shape="rect" id="node5" href="$InstrProfReader_8cpp.html" title="lib/ProfileData/InstrProf\lReader.cpp" alt="" coords="400,184,559,225"/>
-<area shape="rect" id="node6" href="$PGOInstrumentation_8cpp.html" title="lib/Transforms/Instrumentation\l/PGOInstrumentation.cpp" alt="" coords="583,184,781,225"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="lib/Target/X86/X86CallingConv.h" name="lib/Target/X86/X86CallingConv.h">
-<area shape="rect" id="node2" href="$X86CallingConv_8cpp.html" title="lib/Target/X86/X86Calling\lConv.cpp" alt="" coords="5,95,176,136"/>
-<area shape="rect" id="node3" href="$X86CallLowering_8cpp.html" title="This file implements the lowering of LLVM calls to machine code calls for GlobalISel. " alt="" coords="201,102,431,129"/>
-<area shape="rect" id="node4" href="$X86FastISel_8cpp.html" title="lib/Target/X86/X86FastISel.cpp" alt="" coords="455,102,659,129"/>
-<area shape="rect" id="node5" href="$X86ISelLowering_8cpp.html" title="lib/Target/X86/X86ISelLowering.cpp" alt="" coords="683,102,914,129"/>
-</map>

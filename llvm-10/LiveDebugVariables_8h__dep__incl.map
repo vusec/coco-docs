@@ -1,6 +1,0 @@
-<map id="lib/CodeGen/LiveDebugVariables.h" name="lib/CodeGen/LiveDebugVariables.h">
-<area shape="rect" id="node2" href="$LiveDebugVariables_8cpp.html" title="lib/CodeGen/LiveDebugVariables.cpp" alt="" coords="5,80,244,107"/>
-<area shape="rect" id="node3" href="$RegAllocBasic_8cpp.html" title="lib/CodeGen/RegAllocBasic.cpp" alt="" coords="268,80,477,107"/>
-<area shape="rect" id="node4" href="$RegAllocGreedy_8cpp.html" title="lib/CodeGen/RegAllocGreedy.cpp" alt="" coords="502,80,721,107"/>
-<area shape="rect" id="node5" href="$VirtRegMap_8cpp.html" title="lib/CodeGen/VirtRegMap.cpp" alt="" coords="745,80,937,107"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1ThreadSafeRefCountedBase.html" title="llvm::ThreadSafeRefCounted\lBase\&lt; FileSystem \&gt;" alt="" coords="5,74,196,115"/>
-<area shape="rect" id="node2" href="$classllvm_1_1vfs_1_1FileSystem.html" title="The virtual file system interface. " alt="" coords="244,81,391,108"/>
-<area shape="rect" id="node3" href="$classllvm_1_1vfs_1_1InMemoryFileSystem.html" title="An in&#45;memory file system. " alt="" coords="439,5,643,32"/>
-<area shape="rect" id="node4" href="$classllvm_1_1vfs_1_1OverlayFileSystem.html" title="A file system that allows overlaying one AbstractFileSystem on top of another. " alt="" coords="445,56,636,83"/>
-<area shape="rect" id="node5" href="$classllvm_1_1vfs_1_1ProxyFileSystem.html" title="By default, this delegates all calls to the underlying file system. " alt="" coords="451,107,631,133"/>
-<area shape="rect" id="node6" href="$classllvm_1_1vfs_1_1RedirectingFileSystem.html" title="A virtual file system parsed from a YAML file. " alt="" coords="457,158,624,199"/>
-</map>

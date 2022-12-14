@@ -1,5 +1,0 @@
-<map id="include/llvm/Analysis/SyntheticCountsUtils.h" name="include/llvm/Analysis/SyntheticCountsUtils.h">
-<area shape="rect" id="node2" href="$SyntheticCountsUtils_8cpp.html" title="lib/Analysis/SyntheticCounts\lUtils.cpp" alt="" coords="5,95,196,136"/>
-<area shape="rect" id="node3" href="$SummaryBasedOptimizations_8cpp.html" title="lib/LTO/SummaryBasedOptimizations.cpp" alt="" coords="221,102,487,129"/>
-<area shape="rect" id="node4" href="$SyntheticCountsPropagation_8cpp.html" title="lib/Transforms/IPO\l/SyntheticCountsPropagation.cpp" alt="" coords="512,95,729,136"/>
-</map>

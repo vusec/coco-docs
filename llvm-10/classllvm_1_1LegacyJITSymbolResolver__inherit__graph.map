@@ -1,8 +1,0 @@
-<map id="llvm::LegacyJITSymbolResolver" name="llvm::LegacyJITSymbolResolver">
-<area shape="rect" id="node3" href="$classllvm_1_1LinkingSymbolResolver.html" title="llvm::LinkingSymbolResolver" alt="" coords="503,5,694,32"/>
-<area shape="rect" id="node4" href="$classllvm_1_1orc_1_1LambdaResolver.html" title="llvm::orc::LambdaResolver\l\&lt; DylibLookupFtorT, ExternalLookup\lFtorT \&gt;" alt="" coords="481,56,716,112"/>
-<area shape="rect" id="node5" href="$classllvm_1_1orc_1_1NullLegacyResolver.html" title="SymbolResolver impliementation that rejects all resolution requests. " alt="" coords="500,136,697,163"/>
-<area shape="rect" id="node6" href="$classllvm_1_1RTDyldMemoryManager.html" title="llvm::RTDyldMemoryManager" alt="" coords="501,187,697,213"/>
-<area shape="rect" id="node2" href="$classllvm_1_1JITSymbolResolver.html" title="Symbol resolution interface. " alt="" coords="5,104,175,131"/>
-<area shape="rect" id="node7" href="$classllvm_1_1SectionMemoryManager.html" title="This is a simple memory manager which implements the methods called by the RuntimeDyld class to alloc..." alt="" coords="764,187,959,213"/>
-</map>

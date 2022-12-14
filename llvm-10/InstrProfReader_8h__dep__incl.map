@@ -1,6 +1,0 @@
-<map id="include/llvm/ProfileData/InstrProfReader.h" name="include/llvm/ProfileData/InstrProfReader.h">
-<area shape="rect" id="node2" href="$CoverageMapping_8cpp.html" title="lib/ProfileData/Coverage\l/CoverageMapping.cpp" alt="" coords="5,95,169,136"/>
-<area shape="rect" id="node3" href="$InstrProf_8cpp.html" title="lib/ProfileData/InstrProf.cpp" alt="" coords="193,102,376,129"/>
-<area shape="rect" id="node4" href="$InstrProfReader_8cpp.html" title="lib/ProfileData/InstrProf\lReader.cpp" alt="" coords="400,95,559,136"/>
-<area shape="rect" id="node5" href="$PGOInstrumentation_8cpp.html" title="lib/Transforms/Instrumentation\l/PGOInstrumentation.cpp" alt="" coords="583,95,781,136"/>
-</map>

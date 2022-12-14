@@ -1,5 +1,0 @@
-<map id="llvm::APFloatBase" name="llvm::APFloatBase">
-<area shape="rect" id="node2" href="$classllvm_1_1APFloat.html" title="llvm::APFloat" alt="" coords="5,80,107,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1detail_1_1DoubleAPFloat.html" title="llvm::detail::DoubleAPFloat" alt="" coords="131,80,312,107"/>
-<area shape="rect" id="node4" href="$classllvm_1_1detail_1_1IEEEFloat.html" title="llvm::detail::IEEEFloat" alt="" coords="337,80,490,107"/>
-</map>

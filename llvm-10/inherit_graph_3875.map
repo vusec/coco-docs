@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; CallIntVoid, int32_t\l(JITTargetAddress Addr)\&gt;" alt="" coords="5,5,179,61"/>
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1remote_1_1exec_1_1CallIntVoid.html" title="Call an &#39;int32_t()&#39;&#45;type function on the remote, returns the called function&#39;s return value..." alt="" coords="227,13,355,54"/>
-</map>

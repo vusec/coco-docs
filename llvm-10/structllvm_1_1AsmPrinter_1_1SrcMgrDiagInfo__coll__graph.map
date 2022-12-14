@@ -1,4 +1,0 @@
-<map id="llvm::AsmPrinter::SrcMgrDiagInfo" name="llvm::AsmPrinter::SrcMgrDiagInfo">
-<area shape="rect" id="node3" href="$classllvm_1_1SourceMgr.html" title="This owns the files read by a parser, handles include stacks, and handles diagnostic wrangling..." alt="" coords="160,13,277,39"/>
-<area shape="rect" id="node5" href="$classllvm_1_1SMDiagnostic.html" title="Instances of this class encapsulate one diagnostic report, allowing printing to a raw_ostream as a ca..." alt="" coords="381,13,517,39"/>
-</map>

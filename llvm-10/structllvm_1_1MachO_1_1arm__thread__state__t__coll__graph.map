@@ -1,5 +1,0 @@
-<map id="llvm::MachO::arm_thread_state_t" name="llvm::MachO::arm_thread_state_t">
-<area shape="rect" id="node3" href="$structllvm_1_1MachO_1_1arm__thread__state32__t.html" title="llvm::MachO::arm_thread\l_state32_t" alt="" coords="140,153,309,195"/>
-<area shape="rect" id="node4" href="$classuint32__t.html" title="uint32_t" alt="" coords="285,5,353,32"/>
-<area shape="rect" id="node5" href="$structllvm_1_1MachO_1_1arm__state__hdr__t.html" title="llvm::MachO::arm_state\l_hdr_t" alt="" coords="334,153,497,195"/>
-</map>

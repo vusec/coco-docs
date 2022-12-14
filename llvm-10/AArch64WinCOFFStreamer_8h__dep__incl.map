@@ -1,5 +1,0 @@
-<map id="lib/Target/AArch64/MCTargetDesc/AArch64WinCOFFStreamer.h" name="lib/Target/AArch64/MCTargetDesc/AArch64WinCOFFStreamer.h">
-<area shape="rect" id="node2" href="$AArch64ELFStreamer_8cpp.html" title="lib/Target/AArch64\l/MCTargetDesc/AArch64ELFStreamer.cpp" alt="" coords="5,102,276,143"/>
-<area shape="rect" id="node3" href="$AArch64MCTargetDesc_8cpp.html" title="lib/Target/AArch64\l/MCTargetDesc/AArch64MCTarget\lDesc.cpp" alt="" coords="301,95,527,151"/>
-<area shape="rect" id="node4" href="$AArch64WinCOFFStreamer_8cpp.html" title="lib/Target/AArch64\l/MCTargetDesc/AArch64WinCOFFStreamer.cpp" alt="" coords="551,102,858,143"/>
-</map>

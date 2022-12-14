@@ -1,5 +1,0 @@
-<map id="llvm::RelocAddrEntry" name="llvm::RelocAddrEntry">
-<area shape="rect" id="node2" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; llvm\l::object::RelocationRef \&gt;" alt="" coords="5,109,173,151"/>
-<area shape="rect" id="node3" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; T \&gt;" alt="" coords="22,5,157,32"/>
-<area shape="rect" id="node5" href="$classllvm_1_1object_1_1RelocationRef.html" title="This is a value type class that represents a single relocation in the list of relocations in the obje..." alt="" coords="290,117,470,143"/>
-</map>

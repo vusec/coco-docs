@@ -1,6 +1,0 @@
-<map id="llvm::MemoryBufferByteStream" name="llvm::MemoryBufferByteStream">
-<area shape="rect" id="node2" href="$classllvm_1_1BinaryByteStream.html" title="An implementation of BinaryStream which holds its entire data set in a single contiguous buffer..." alt="" coords="127,191,287,218"/>
-<area shape="rect" id="node3" href="$classllvm_1_1BinaryStream.html" title="An interface for accessing data in a stream&#45;like format, but which discourages copying. " alt="" coords="5,95,139,121"/>
-<area shape="rect" id="node5" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; uint8_t \&gt;" alt="" coords="275,95,445,121"/>
-<area shape="rect" id="node6" href="$classllvm_1_1ArrayRef.html" title="ArrayRef &#45; Represent a constant reference to an array (0 or more elements consecutively in memory)..." alt="" coords="291,5,429,32"/>
-</map>

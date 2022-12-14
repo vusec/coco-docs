@@ -1,4 +1,0 @@
-<map id="llvm::SwitchInst::CaseIteratorImpl&lt; CaseHandleT &gt;" name="llvm::SwitchInst::CaseIteratorImpl&lt; CaseHandleT &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; CaseIteratorImpl\l\&lt; CaseHandleT \&gt;, std::random\l_access_iterator_tag, CaseHandleT \&gt;" alt="" coords="687,65,929,135"/>
-<area shape="rect" id="node4" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="267,115,491,186"/>
-</map>

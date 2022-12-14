@@ -1,6 +1,0 @@
-<map id="llvm::object::content_iterator&lt; content_type &gt;" name="llvm::object::content_iterator&lt; content_type &gt;">
-<area shape="rect" id="node3" href="$classllvm_1_1object_1_1elf__relocation__iterator.html" title="llvm::object::elf_relocation\l_iterator\&lt; RelocationRef \&gt;" alt="" coords="426,5,602,47"/>
-<area shape="rect" id="node4" href="$classllvm_1_1object_1_1elf__section__iterator.html" title="llvm::object::elf_section\l_iterator\&lt; SectionRef \&gt;" alt="" coords="434,71,594,112"/>
-<area shape="rect" id="node5" href="$classllvm_1_1object_1_1symbol__iterator.html" title="llvm::object::symbol\l_iterator\&lt; BasicSymbolRef \&gt;" alt="" coords="419,136,609,177"/>
-<area shape="rect" id="node6" href="$classllvm_1_1object_1_1elf__symbol__iterator.html" title="llvm::object::elf_symbol\l_iterator" alt="" coords="657,136,817,177"/>
-</map>

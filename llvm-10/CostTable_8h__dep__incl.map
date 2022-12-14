@@ -1,9 +1,0 @@
-<map id="include/llvm/CodeGen/CostTable.h" name="include/llvm/CodeGen/CostTable.h">
-<area shape="rect" id="node2" href="$AArch64TargetTransformInfo_8cpp.html" title="lib/Target/AArch64\l/AArch64TargetTransformInfo.cpp" alt="" coords="5,95,224,136"/>
-<area shape="rect" id="node3" href="$ARMTargetTransformInfo_8cpp.html" title="lib/Target/ARM/ARMTarget\lTransformInfo.cpp" alt="" coords="248,95,429,136"/>
-<area shape="rect" id="node4" href="$NVPTXTargetTransformInfo_8cpp.html" title="lib/Target/NVPTX/NVPTXTarget\lTransformInfo.cpp" alt="" coords="453,95,664,136"/>
-<area shape="rect" id="node5" href="$PPCTargetTransformInfo_8cpp.html" title="lib/Target/PowerPC\l/PPCTargetTransformInfo.cpp" alt="" coords="688,95,885,136"/>
-<area shape="rect" id="node6" href="$SystemZTargetTransformInfo_8cpp.html" title="lib/Target/SystemZ\l/SystemZTargetTransformInfo.cpp" alt="" coords="910,95,1133,136"/>
-<area shape="rect" id="node7" href="$WebAssemblyTargetTransformInfo_8cpp.html" title="This file defines the WebAssembly&#45;specific TargetTransformInfo implementation. " alt="" coords="1157,95,1411,136"/>
-<area shape="rect" id="node8" href="$X86TargetTransformInfo_8cpp.html" title="This file implements a TargetTransformInfo analysis pass specific to the X86 target machine..." alt="" coords="1435,95,1602,136"/>
-</map>

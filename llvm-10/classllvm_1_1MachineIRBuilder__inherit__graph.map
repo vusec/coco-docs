@@ -1,4 +1,0 @@
-<map id="llvm::MachineIRBuilder" name="llvm::MachineIRBuilder">
-<area shape="rect" id="node2" href="$classllvm_1_1ConstantFoldingMIRBuilder.html" title="An MIRBuilder which does trivial constant folding of binary ops. " alt="" coords="5,80,220,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1CSEMIRBuilder.html" title="Defines a builder that does CSE of MachineInstructions using GISelCSEInfo. " alt="" coords="245,80,391,107"/>
-</map>

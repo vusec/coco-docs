@@ -1,4 +1,0 @@
-<map id="llvm::DefaultVLIWScheduler" name="llvm::DefaultVLIWScheduler">
-<area shape="rect" id="node2" href="$classllvm_1_1ScheduleDAGInstrs.html" title="A ScheduleDAG for scheduling lists of MachineInstr. " alt="" coords="13,80,184,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1ScheduleDAG.html" title="llvm::ScheduleDAG" alt="" coords="30,5,167,32"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="llvm::DICommonBlock" name="llvm::DICommonBlock">
-<area shape="rect" id="node2" href="$classllvm_1_1DIScope.html" title="Base class for scope&#45;like contexts. " alt="" coords="30,229,135,256"/>
-<area shape="rect" id="node3" href="$classllvm_1_1DINode.html" title="Tagged DWARF&#45;like metadata node. " alt="" coords="33,155,132,181"/>
-<area shape="rect" id="node4" href="$classllvm_1_1MDNode.html" title="Metadata node. " alt="" coords="29,80,136,107"/>
-<area shape="rect" id="node5" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy. " alt="" coords="29,5,137,32"/>
-</map>

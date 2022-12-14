@@ -1,7 +1,0 @@
-<map id="llvm::CommonHandleTraits" name="llvm::CommonHandleTraits">
-<area shape="rect" id="node2" href="$structllvm_1_1CryptContextTraits.html" title="llvm::CryptContextTraits" alt="" coords="235,5,400,32"/>
-<area shape="rect" id="node3" href="$structllvm_1_1FileHandleTraits.html" title="llvm::FileHandleTraits" alt="" coords="243,56,392,83"/>
-<area shape="rect" id="node4" href="$structllvm_1_1FindHandleTraits.html" title="llvm::FindHandleTraits" alt="" coords="241,107,394,133"/>
-<area shape="rect" id="node5" href="$structllvm_1_1JobHandleTraits.html" title="llvm::JobHandleTraits" alt="" coords="243,157,392,184"/>
-<area shape="rect" id="node6" href="$structllvm_1_1RegTraits.html" title="llvm::RegTraits" alt="" coords="262,208,373,235"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="llvm::FileCheckString" name="llvm::FileCheckString">
-<area shape="rect" id="node3" href="$classllvm_1_1SMLoc.html" title="Represents a location in source code. " alt="" coords="185,95,280,121"/>
-<area shape="rect" id="node4" href="$classllvm_1_1Pattern.html" title="llvm::Pattern" alt="" coords="305,95,401,121"/>
-<area shape="rect" id="node5" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e. " alt="" coords="425,95,534,121"/>
-<area shape="rect" id="node6" href="$classsize__t.html" title="size_t" alt="" coords="451,5,508,32"/>
-</map>

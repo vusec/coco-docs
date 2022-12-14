@@ -1,6 +1,0 @@
-<map id="lib/Target/WebAssembly/MCTargetDesc/WebAssemblyTargetStreamer.h" name="lib/Target/WebAssembly/MCTargetDesc/WebAssemblyTargetStreamer.h">
-<area shape="rect" id="node2" href="$WebAssemblyAsmParser_8cpp.html" title="This file is part of the WebAssembly Assembler. " alt="" coords="5,117,276,158"/>
-<area shape="rect" id="node3" href="$WebAssemblyMCTargetDesc_8cpp.html" title="This file provides WebAssembly&#45;specific target descriptions. " alt="" coords="300,109,563,165"/>
-<area shape="rect" id="node4" href="$WebAssemblyTargetStreamer_8cpp.html" title="This file defines WebAssembly&#45;specific target streamer classes. " alt="" coords="587,109,828,165"/>
-<area shape="rect" id="node5" href="$WebAssemblyAsmPrinter_8cpp.html" title="This file contains a printer that converts from our internal representation of machine&#45;dependent LLVM..." alt="" coords="852,117,1053,158"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="include/llvm/DebugInfo/PDB/Native/SymbolStream.h" name="include/llvm/DebugInfo/PDB/Native/SymbolStream.h">
-<area shape="rect" id="node2" href="$GlobalsStream_8cpp.html" title="lib/DebugInfo/PDB/Native\l/GlobalsStream.cpp" alt="" coords="5,95,179,136"/>
-<area shape="rect" id="node3" href="$NativeEnumGlobals_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeEnumGlobals.cpp" alt="" coords="203,95,376,136"/>
-<area shape="rect" id="node4" href="$PDBFile_8cpp.html" title="lib/DebugInfo/PDB/Native\l/PDBFile.cpp" alt="" coords="400,95,573,136"/>
-<area shape="rect" id="node5" href="$SymbolCache_8cpp.html" title="lib/DebugInfo/PDB/Native\l/SymbolCache.cpp" alt="" coords="597,95,771,136"/>
-<area shape="rect" id="node6" href="$SymbolStream_8cpp.html" title="lib/DebugInfo/PDB/Native\l/SymbolStream.cpp" alt="" coords="795,95,968,136"/>
-</map>

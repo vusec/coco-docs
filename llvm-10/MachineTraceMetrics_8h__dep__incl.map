@@ -1,8 +1,0 @@
-<map id="include/llvm/CodeGen/MachineTraceMetrics.h" name="include/llvm/CodeGen/MachineTraceMetrics.h">
-<area shape="rect" id="node2" href="$EarlyIfConversion_8cpp.html" title="lib/CodeGen/EarlyIfConversion.cpp" alt="" coords="5,102,232,129"/>
-<area shape="rect" id="node3" href="$MachineCombiner_8cpp.html" title="lib/CodeGen/MachineCombiner.cpp" alt="" coords="257,102,485,129"/>
-<area shape="rect" id="node4" href="$MachineTraceMetrics_8cpp.html" title="lib/CodeGen/MachineTrace\lMetrics.cpp" alt="" coords="509,95,689,136"/>
-<area shape="rect" id="node5" href="$AArch64ConditionalCompares_8cpp.html" title="lib/Target/AArch64\l/AArch64ConditionalCompares.cpp" alt="" coords="713,95,940,136"/>
-<area shape="rect" id="node6" href="$AArch64StackTaggingPreRA_8cpp.html" title="lib/Target/AArch64\l/AArch64StackTaggingPreRA.cpp" alt="" coords="965,95,1185,136"/>
-<area shape="rect" id="node7" href="$AArch64StorePairSuppress_8cpp.html" title="lib/Target/AArch64\l/AArch64StorePairSuppress.cpp" alt="" coords="1209,95,1420,136"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1InstrProfReaderRemapper.html" title="Name matcher supporting fuzzy matching of symbol names to names in profiles. " alt="" coords="5,13,212,39"/>
-<area shape="rect" id="node2" href="$classllvm_1_1InstrProfReaderItaniumRemapper.html" title="A remapper that applies remappings based on a symbol remapping file. " alt="" coords="260,5,455,47"/>
-</map>

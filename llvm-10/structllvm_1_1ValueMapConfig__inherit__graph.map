@@ -1,7 +1,0 @@
-<map id="llvm::ValueMapConfig&lt; KeyT, MutexT &gt;" name="llvm::ValueMapConfig&lt; KeyT, MutexT &gt;">
-<area shape="rect" id="node2" href="$structllvm_1_1ValueMapConfig.html" title="llvm::ValueMapConfig\l\&lt; const Value * \&gt;" alt="" coords="401,5,552,47"/>
-<area shape="rect" id="node3" href="$structllvm_1_1ValueMapConfig.html" title="llvm::ValueMapConfig\l\&lt; GlobalValue *\&gt;" alt="" coords="401,71,552,112"/>
-<area shape="rect" id="node4" href="$structllvm_1_1ValueMapConfig.html" title="llvm::ValueMapConfig\l\&lt; const llvm::GlobalValue * \&gt;" alt="" coords="380,136,573,177"/>
-<area shape="rect" id="node5" href="$structllvm_1_1ValueMapConfig.html" title="llvm::ValueMapConfig\l\&lt; llvm::Value * \&gt;" alt="" coords="401,201,552,243"/>
-<area shape="rect" id="node6" href="$structllvm_1_1ValueMapConfig.html" title="llvm::ValueMapConfig\l\&lt; const Function * \&gt;" alt="" coords="401,267,552,308"/>
-</map>

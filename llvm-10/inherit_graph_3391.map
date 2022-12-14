@@ -1,5 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1object_1_1BasicSymbolRef.html" title="This is a value type class that represents a single symbol in the list of symbols in the object file..." alt="" coords="5,5,200,32"/>
-<area shape="rect" id="node2" href="$classllvm_1_1object_1_1SymbolRef.html" title="This is a value type class that represents a single symbol in the list of symbols in the object file..." alt="" coords="248,5,411,32"/>
-<area shape="rect" id="node3" href="$classllvm_1_1object_1_1ELFSymbolRef.html" title="llvm::object::ELFSymbolRef" alt="" coords="459,5,645,32"/>
-</map>

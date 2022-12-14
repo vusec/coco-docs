@@ -1,5 +1,0 @@
-<map id="llvm::RegisterBankInfo::ValueMapping" name="llvm::RegisterBankInfo::ValueMapping">
-<area shape="rect" id="node2" href="$structllvm_1_1RegisterBankInfo_1_1PartialMapping.html" title="Helper struct that represents how a value is partially mapped into a register. " alt="" coords="193,109,348,151"/>
-<area shape="rect" id="node3" href="$classunsigned.html" title="unsigned" alt="" coords="76,5,151,32"/>
-<area shape="rect" id="node4" href="$classllvm_1_1RegisterBank.html" title="This class implements the register bank concept. " alt="" coords="204,5,337,32"/>
-</map>

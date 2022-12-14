@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structllvm_1_1detail_1_1PassConcept.html" title="llvm::detail::PassConcept\l\&lt; IRUnitT, AnalysisManagerT,\l ExtraArgTs... \&gt;" alt="" coords="5,5,205,61"/>
-<area shape="rect" id="node2" href="$structllvm_1_1detail_1_1PassModel.html" title="A template wrapper used to implement the polymorphic API. " alt="" coords="253,5,500,61"/>
-</map>

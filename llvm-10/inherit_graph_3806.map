@@ -1,9 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1orc_1_1LLJITBuilderSetters.html" title="llvm::orc::LLJITBuilderSetters\l\&lt; LLJIT, LLJITBuilder, LLJITBuilder\lState \&gt;" alt="" coords="5,5,235,61"/>
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1LLJITBuilder.html" title="Constructs LLJIT instances. " alt="" coords="331,23,485,49"/>
-<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1LLJITBuilderSetters.html" title="llvm::orc::LLJITBuilderSetters\l\&lt; LLLazyJIT, LLLazyJITBuilder,\l LLLazyJITBuilderState \&gt;" alt="" coords="16,144,224,200"/>
-<area shape="rect" id="node4" href="$classllvm_1_1orc_1_1LLLazyJITBuilderSetters.html" title="llvm::orc::LLLazyJITBuilder\lSetters\&lt; LLLazyJIT, LLLazyJITBuilder,\l LLLazyJITBuilderState \&gt;" alt="" coords="283,144,533,200"/>
-<area shape="rect" id="node5" href="$classllvm_1_1orc_1_1LLLazyJITBuilder.html" title="Constructs LLLazyJIT instances. " alt="" coords="581,123,763,149"/>
-<area shape="rect" id="node6" href="$classllvm_1_1orc_1_1LLJITBuilderState.html" title="llvm::orc::LLJITBuilderState" alt="" coords="28,85,212,112"/>
-<area shape="rect" id="node7" href="$classllvm_1_1orc_1_1LLLazyJITBuilderState.html" title="llvm::orc::LLLazyJITBuilder\lState" alt="" coords="317,78,499,119"/>
-</map>

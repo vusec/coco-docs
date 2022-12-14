@@ -1,5 +1,0 @@
-<map id="llvm::AArch64TargetELFStreamer" name="llvm::AArch64TargetELFStreamer">
-<area shape="rect" id="node2" href="$classllvm_1_1AArch64TargetStreamer.html" title="llvm::AArch64TargetStreamer" alt="" coords="17,171,212,197"/>
-<area shape="rect" id="node3" href="$classllvm_1_1MCTargetStreamer.html" title="Target specific streamer interface. " alt="" coords="32,95,197,121"/>
-<area shape="rect" id="node4" href="$classllvm_1_1MCStreamer.html" title="Streaming machine code generation interface. " alt="" coords="51,5,179,32"/>
-</map>

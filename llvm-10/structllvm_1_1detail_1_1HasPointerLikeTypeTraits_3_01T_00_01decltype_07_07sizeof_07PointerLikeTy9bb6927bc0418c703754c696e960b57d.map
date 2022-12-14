@@ -1,3 +1,0 @@
-<map id="llvm::detail::HasPointerLikeTypeTraits&lt; T, decltype((sizeof(PointerLikeTypeTraits&lt; T &gt;)+sizeof(T)), void())&gt;" name="llvm::detail::HasPointerLikeTypeTraits&lt; T, decltype((sizeof(PointerLikeTypeTraits&lt; T &gt;)+sizeof(T)), void())&gt;">
-<area shape="rect" id="node2" href="$classbool.html" title="bool" alt="" coords="80,5,127,32"/>
-</map>

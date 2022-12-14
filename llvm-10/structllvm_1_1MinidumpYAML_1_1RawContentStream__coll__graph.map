@@ -1,4 +1,0 @@
-<map id="llvm::MinidumpYAML::RawContentStream" name="llvm::MinidumpYAML::RawContentStream">
-<area shape="rect" id="node2" href="$structllvm_1_1MinidumpYAML_1_1Stream.html" title="The base class for all minidump streams. " alt="" coords="45,95,192,136"/>
-<area shape="rect" id="node6" href="$classllvm_1_1yaml_1_1BinaryRef.html" title="Specialized YAMLIO scalar type for representing a binary blob. " alt="" coords="301,102,449,129"/>
-</map>

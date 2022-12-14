@@ -1,5 +1,0 @@
-<map id="lib/Target/BPF/BTF.h" name="lib/Target/BPF/BTF.h">
-<area shape="rect" id="node2" href="$BTFDebug_8h.html" title="This file contains support for writing BTF debug info. " alt="" coords="145,80,329,107"/>
-<area shape="rect" id="node3" href="$BPFAsmPrinter_8cpp.html" title="lib/Target/BPF/BPFAsmPrinter.cpp" alt="" coords="5,155,232,181"/>
-<area shape="rect" id="node4" href="$BTFDebug_8cpp.html" title="lib/Target/BPF/BTFDebug.cpp" alt="" coords="257,155,455,181"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="llvm::object::BasicSymbolRef" name="llvm::object::BasicSymbolRef">
-<area shape="rect" id="node2" href="$classllvm_1_1object_1_1SymbolRef.html" title="This is a value type class that represents a single symbol in the list of symbols in the object file..." alt="" coords="21,80,184,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1object_1_1ELFSymbolRef.html" title="llvm::object::ELFSymbolRef" alt="" coords="9,155,196,181"/>
-</map>

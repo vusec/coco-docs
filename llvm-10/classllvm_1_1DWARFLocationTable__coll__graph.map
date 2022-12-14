@@ -1,4 +1,0 @@
-<map id="llvm::DWARFLocationTable" name="llvm::DWARFLocationTable">
-<area shape="rect" id="node2" href="$classllvm_1_1DWARFDataExtractor.html" title="A DataExtractor (typically for an in&#45;memory copy of an object&#45;file section) plus a relocation map for..." alt="" coords="5,81,191,108"/>
-<area shape="rect" id="node3" href="$classllvm_1_1DataExtractor.html" title="llvm::DataExtractor" alt="" coords="31,5,165,32"/>
-</map>

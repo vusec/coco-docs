@@ -1,6 +1,0 @@
-<map id="include/llvm/ADT/DirectedGraph.h" name="include/llvm/ADT/DirectedGraph.h">
-<area shape="rect" id="node2" href="$DDG_8h.html" title="include/llvm/Analysis\l/DDG.h" alt="" coords="205,95,351,136"/>
-<area shape="rect" id="node3" href="$DDG_8cpp.html" title="lib/Analysis/DDG.cpp" alt="" coords="5,191,153,218"/>
-<area shape="rect" id="node4" href="$DependenceGraphBuilder_8cpp.html" title="lib/Analysis/DependenceGraph\lBuilder.cpp" alt="" coords="177,184,379,225"/>
-<area shape="rect" id="node5" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="403,191,585,218"/>
-</map>

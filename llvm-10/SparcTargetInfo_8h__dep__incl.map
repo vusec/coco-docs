@@ -1,8 +1,0 @@
-<map id="lib/Target/Sparc/TargetInfo/SparcTargetInfo.h" name="lib/Target/Sparc/TargetInfo/SparcTargetInfo.h">
-<area shape="rect" id="node2" href="$SparcAsmParser_8cpp.html" title="lib/Target/Sparc/AsmParser\l/SparcAsmParser.cpp" alt="" coords="5,95,188,136"/>
-<area shape="rect" id="node3" href="$SparcDisassembler_8cpp.html" title="lib/Target/Sparc/Disassembler\l/SparcDisassembler.cpp" alt="" coords="212,95,411,136"/>
-<area shape="rect" id="node4" href="$SparcMCTargetDesc_8cpp.html" title="lib/Target/Sparc/MCTarget\lDesc/SparcMCTargetDesc.cpp" alt="" coords="435,95,641,136"/>
-<area shape="rect" id="node5" href="$SparcAsmPrinter_8cpp.html" title="lib/Target/Sparc/SparcAsm\lPrinter.cpp" alt="" coords="665,95,843,136"/>
-<area shape="rect" id="node6" href="$SparcTargetMachine_8cpp.html" title="lib/Target/Sparc/SparcTarget\lMachine.cpp" alt="" coords="867,95,1057,136"/>
-<area shape="rect" id="node7" href="$SparcTargetInfo_8cpp.html" title="lib/Target/Sparc/TargetInfo\l/SparcTargetInfo.cpp" alt="" coords="1081,95,1259,136"/>
-</map>

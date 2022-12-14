@@ -1,8 +1,0 @@
-<map id="lib/Target/RISCV/Utils/RISCVMatInt.h" name="lib/Target/RISCV/Utils/RISCVMatInt.h">
-<area shape="rect" id="node2" href="$RISCVAsmParser_8cpp.html" title="lib/Target/RISCV/AsmParser\l/RISCVAsmParser.cpp" alt="" coords="5,95,196,136"/>
-<area shape="rect" id="node3" href="$RISCVInstrInfo_8cpp.html" title="lib/Target/RISCV/RISCVInstr\lInfo.cpp" alt="" coords="221,95,415,136"/>
-<area shape="rect" id="node4" href="$RISCVISelDAGToDAG_8cpp.html" title="lib/Target/RISCV/RISCVISel\lDAGToDAG.cpp" alt="" coords="440,95,631,136"/>
-<area shape="rect" id="node5" href="$RISCVISelLowering_8cpp.html" title="lib/Target/RISCV/RISCVISel\lLowering.cpp" alt="" coords="655,95,845,136"/>
-<area shape="rect" id="node6" href="$RISCVTargetTransformInfo_8cpp.html" title="lib/Target/RISCV/RISCVTarget\lTransformInfo.cpp" alt="" coords="870,95,1075,136"/>
-<area shape="rect" id="node7" href="$RISCVMatInt_8cpp.html" title="lib/Target/RISCV/Utils\l/RISCVMatInt.cpp" alt="" coords="1100,95,1253,136"/>
-</map>

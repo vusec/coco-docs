@@ -1,7 +1,0 @@
-<map id="llvm::DITemplateValueParameter" name="llvm::DITemplateValueParameter">
-<area shape="rect" id="node2" href="$classllvm_1_1DITemplateParameter.html" title="Base class for template parameters. " alt="" coords="111,424,293,451"/>
-<area shape="rect" id="node3" href="$classllvm_1_1DINode.html" title="Tagged DWARF&#45;like metadata node. " alt="" coords="149,348,247,375"/>
-<area shape="rect" id="node4" href="$classllvm_1_1MDNode.html" title="Metadata node. " alt="" coords="139,215,246,241"/>
-<area shape="rect" id="node5" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy. " alt="" coords="129,139,237,165"/>
-<area shape="rect" id="node6" href="$classunsigned.html" title="unsigned" alt="" coords="57,5,131,32"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="llvm::detail::zip_first&lt; Iters &gt;" name="llvm::detail::zip_first&lt; Iters &gt;">
-<area shape="rect" id="node2" href="$structllvm_1_1detail_1_1zip__common.html" title="llvm::detail::zip_common\l\&lt; zip_first\&lt; Iters... \&gt;\l, Iters... \&gt;" alt="" coords="928,62,1095,118"/>
-<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="429,5,576,47"/>
-<area shape="rect" id="node7" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="267,60,405,101"/>
-<area shape="rect" id="node6" href="$structllvm_1_1detail_1_1zip__common.html" title="llvm::detail::zip_common\l\&lt; ZipType, Iters \&gt;" alt="" coords="600,69,767,111"/>
-</map>

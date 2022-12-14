@@ -1,7 +1,0 @@
-<map id="include/llvm/Support/Win64EH.h" name="include/llvm/Support/Win64EH.h">
-<area shape="rect" id="node2" href="$MCWin64EH_8h.html" title="include/llvm/MC/MCWin64EH.h" alt="" coords="174,95,382,121"/>
-<area shape="rect" id="node4" href="$MCWin64EH_8cpp.html" title="lib/MC/MCWin64EH.cpp" alt="" coords="5,177,172,203"/>
-<area shape="rect" id="node3" href="$MCStreamer_8cpp.html" title="lib/MC/MCStreamer.cpp" alt="" coords="197,177,359,203"/>
-<area shape="rect" id="node5" href="$AArch64WinCOFFStreamer_8cpp.html" title="lib/Target/AArch64\l/MCTargetDesc/AArch64WinCOFFStreamer.cpp" alt="" coords="383,169,690,211"/>
-<area shape="rect" id="node6" href="$X86WinCOFFStreamer_8cpp.html" title="lib/Target/X86/MCTargetDesc\l/X86WinCOFFStreamer.cpp" alt="" coords="715,169,911,211"/>
-</map>

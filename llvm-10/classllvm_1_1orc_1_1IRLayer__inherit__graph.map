@@ -1,6 +1,0 @@
-<map id="llvm::orc::IRLayer" name="llvm::orc::IRLayer">
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1CompileOnDemandLayer.html" title="llvm::orc::CompileOnDemand\lLayer" alt="" coords="180,5,375,47"/>
-<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1IRCompileLayer.html" title="llvm::orc::IRCompileLayer" alt="" coords="190,71,365,98"/>
-<area shape="rect" id="node4" href="$classllvm_1_1orc_1_1IRSpeculationLayer.html" title="llvm::orc::IRSpeculation\lLayer" alt="" coords="196,123,359,164"/>
-<area shape="rect" id="node5" href="$classllvm_1_1orc_1_1IRTransformLayer.html" title="A layer that applies a transform to emitted modules. " alt="" coords="185,189,370,215"/>
-</map>

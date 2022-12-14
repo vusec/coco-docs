@@ -1,5 +1,0 @@
-<map id="llvm::ilist_alloc_traits&lt; Instruction &gt;" name="llvm::ilist_alloc_traits&lt; Instruction &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1SymbolTableListTraits.html" title="llvm::SymbolTableListTraits\l\&lt; Instruction \&gt;" alt="" coords="197,20,381,61"/>
-<area shape="rect" id="node3" href="$classllvm_1_1iplist__impl.html" title="llvm::iplist_impl\&lt;\l simple_ilist\&lt; Instruction\l \&gt;, SymbolTableListTraits\l\&lt; Instruction \&gt; \&gt;" alt="" coords="429,5,601,76"/>
-<area shape="rect" id="node4" href="$classllvm_1_1SymbolTableList.html" title="llvm::SymbolTableList\l\&lt; Instruction \&gt;" alt="" coords="649,20,800,61"/>
-</map>

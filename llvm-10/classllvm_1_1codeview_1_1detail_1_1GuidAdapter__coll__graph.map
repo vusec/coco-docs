@@ -1,7 +1,0 @@
-<map id="llvm::codeview::detail::GuidAdapter" name="llvm::codeview::detail::GuidAdapter">
-<area shape="rect" id="node2" href="$classllvm_1_1FormatAdapter.html" title="llvm::FormatAdapter\l\&lt; ArrayRef\&lt; uint8_t \&gt; \&gt;" alt="" coords="106,199,267,240"/>
-<area shape="rect" id="node3" href="$classllvm_1_1detail_1_1format__adapter.html" title="llvm::detail::format\l_adapter" alt="" coords="5,5,136,47"/>
-<area shape="rect" id="node6" href="$classllvm_1_1FormatAdapter.html" title="llvm::FormatAdapter\&lt; T \&gt;" alt="" coords="101,109,273,136"/>
-<area shape="rect" id="node4" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; uint8_t \&gt;" alt="" coords="297,109,466,136"/>
-<area shape="rect" id="node5" href="$classllvm_1_1ArrayRef.html" title="ArrayRef &#45; Represent a constant reference to an array (0 or more elements consecutively in memory)..." alt="" coords="312,13,451,39"/>
-</map>

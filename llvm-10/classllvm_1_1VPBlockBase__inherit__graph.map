@@ -1,4 +1,0 @@
-<map id="llvm::VPBlockBase" name="llvm::VPBlockBase">
-<area shape="rect" id="node2" href="$classllvm_1_1VPBasicBlock.html" title="VPBasicBlock serves as the leaf of the Hierarchical Control&#45;Flow Graph. " alt="" coords="5,80,144,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1VPRegionBlock.html" title="VPRegionBlock represents a collection of VPBasicBlocks and VPRegionBlocks which form a Single&#45;Entry&#45;S..." alt="" coords="168,80,315,107"/>
-</map>

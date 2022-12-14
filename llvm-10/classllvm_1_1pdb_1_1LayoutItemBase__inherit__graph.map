@@ -1,8 +1,0 @@
-<map id="llvm::pdb::LayoutItemBase" name="llvm::pdb::LayoutItemBase">
-<area shape="rect" id="node2" href="$classllvm_1_1pdb_1_1DataMemberLayoutItem.html" title="llvm::pdb::DataMemberLayoutItem" alt="" coords="232,5,455,32"/>
-<area shape="rect" id="node3" href="$classllvm_1_1pdb_1_1UDTLayoutBase.html" title="llvm::pdb::UDTLayoutBase" alt="" coords="253,56,433,83"/>
-<area shape="rect" id="node6" href="$classllvm_1_1pdb_1_1VBPtrLayoutItem.html" title="llvm::pdb::VBPtrLayoutItem" alt="" coords="252,107,435,133"/>
-<area shape="rect" id="node7" href="$classllvm_1_1pdb_1_1VTableLayoutItem.html" title="llvm::pdb::VTableLayoutItem" alt="" coords="249,157,438,184"/>
-<area shape="rect" id="node4" href="$classllvm_1_1pdb_1_1BaseClassLayout.html" title="llvm::pdb::BaseClassLayout" alt="" coords="503,31,689,57"/>
-<area shape="rect" id="node5" href="$classllvm_1_1pdb_1_1ClassLayout.html" title="llvm::pdb::ClassLayout" alt="" coords="518,81,674,108"/>
-</map>

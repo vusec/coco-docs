@@ -1,3 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1orc_1_1rpc_1_1SerializationTraits_3_01ChannelT_00_01std_1_1string_00_01StringRef_00af5c13c88e891fac7d28c24134628054.html" title="llvm::orc::rpc::Serialization\lTraits\&lt; ChannelT, std::string,\l StringRef, typename std::enable\l_if\&lt; std::is_base_of\&lt; RawByteChannel,\l ChannelT \&gt;::value \&gt;::type \&gt;" alt="" coords="5,5,260,91"/>
-</map>

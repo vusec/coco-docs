@@ -1,4 +1,0 @@
-<map id="llvm::BinaryByteStream" name="llvm::BinaryByteStream">
-<area shape="rect" id="node3" href="$classllvm_1_1MemoryBufferByteStream.html" title="An implementation of BinaryStream whose data is backed by an llvm MemoryBuffer object. " alt="" coords="5,155,211,181"/>
-<area shape="rect" id="node2" href="$classllvm_1_1BinaryStream.html" title="An interface for accessing data in a stream&#45;like format, but which discourages copying. " alt="" coords="41,5,175,32"/>
-</map>

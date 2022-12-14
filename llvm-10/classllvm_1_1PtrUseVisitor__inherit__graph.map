@@ -1,7 +1,0 @@
-<map id="llvm::PtrUseVisitor&lt; DerivedT &gt;" name="llvm::PtrUseVisitor&lt; DerivedT &gt;">
-<area shape="rect" id="node5" href="$classllvm_1_1PtrUseVisitor.html" title="llvm::PtrUseVisitor\l\&lt; SliceBuilder \&gt;" alt="" coords="147,304,279,345"/>
-<area shape="rect" id="node2" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l DerivedT \&gt;" alt="" coords="14,109,135,151"/>
-<area shape="rect" id="node3" href="$classllvm_1_1InstVisitor.html" title="Base class for instruction visitors. " alt="" coords="5,5,144,47"/>
-<area shape="rect" id="node4" href="$classllvm_1_1detail_1_1PtrUseVisitorBase.html" title="Implementation of non&#45;dependent functionality for PtrUseVisitor. " alt="" coords="159,117,361,143"/>
-<area shape="rect" id="node6" href="$classAllocaSlices_1_1SliceBuilder.html" title="Builder for the alloca slices. " alt="" coords="128,395,299,421"/>
-</map>

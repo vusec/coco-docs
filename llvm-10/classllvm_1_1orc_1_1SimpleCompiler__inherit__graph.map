@@ -1,4 +1,0 @@
-<map id="llvm::orc::SimpleCompiler" name="llvm::orc::SimpleCompiler">
-<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1TMOwningSimpleCompiler.html" title="A SimpleCompiler that owns its TargetMachine. " alt="" coords="5,169,188,211"/>
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1IRCompileLayer_1_1IRCompiler.html" title="llvm::orc::IRCompileLayer\l::IRCompiler" alt="" coords="9,5,184,47"/>
-</map>

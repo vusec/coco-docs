@@ -1,9 +1,0 @@
-<map id="lib/Target/AMDGPU/Utils/AMDGPUPALMetadata.h" name="lib/Target/AMDGPU/Utils/AMDGPUPALMetadata.h">
-<area shape="rect" id="node2" href="$AMDGPUTargetStreamer_8h.html" title="lib/Target/AMDGPU/MCTarget\lDesc/AMDGPUTargetStreamer.h" alt="" coords="807,95,1025,136"/>
-<area shape="rect" id="node8" href="$AMDGPUPALMetadata_8cpp.html" title="This class has methods called by AMDGPUAsmPrinter to accumulate and print the PAL metadata..." alt="" coords="1311,184,1500,225"/>
-<area shape="rect" id="node3" href="$AMDGPUAsmPrinter_8cpp.html" title="The AMDGPUAsmPrinter is used to print both assembly string and also binary code. " alt="" coords="5,184,235,225"/>
-<area shape="rect" id="node4" href="$AMDGPUHSAMetadataStreamer_8cpp.html" title="AMDGPU HSA Metadata Streamer. " alt="" coords="259,184,543,225"/>
-<area shape="rect" id="node5" href="$AMDGPUAsmParser_8cpp.html" title="lib/Target/AMDGPU/AsmParser\l/AMDGPUAsmParser.cpp" alt="" coords="568,184,776,225"/>
-<area shape="rect" id="node6" href="$AMDGPUMCTargetDesc_8cpp.html" title="This file provides AMDGPU specific target descriptions. " alt="" coords="801,184,1031,225"/>
-<area shape="rect" id="node7" href="$AMDGPUTargetStreamer_8cpp.html" title="lib/Target/AMDGPU/MCTarget\lDesc/AMDGPUTargetStreamer.cpp" alt="" coords="1055,184,1286,225"/>
-</map>

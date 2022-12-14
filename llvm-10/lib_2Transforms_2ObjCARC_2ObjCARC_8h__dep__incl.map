@@ -1,9 +1,0 @@
-<map id="lib/Transforms/ObjCARC/ObjCARC.h" name="lib/Transforms/ObjCARC/ObjCARC.h">
-<area shape="rect" id="node2" href="$DependencyAnalysis_8cpp.html" title="This file defines special dependency analysis routines used in Objective C ARC Optimizations. " alt="" coords="5,95,180,136"/>
-<area shape="rect" id="node3" href="$ObjCARC_8cpp.html" title="lib/Transforms/ObjCARC\l/ObjCARC.cpp" alt="" coords="205,95,373,136"/>
-<area shape="rect" id="node4" href="$ObjCARCAPElim_8cpp.html" title="This file defines ObjC ARC optimizations. " alt="" coords="397,95,565,136"/>
-<area shape="rect" id="node5" href="$ObjCARCContract_8cpp.html" title="This file defines late ObjC ARC optimizations. " alt="" coords="589,95,757,136"/>
-<area shape="rect" id="node6" href="$ObjCARCExpand_8cpp.html" title="This file defines ObjC ARC optimizations. " alt="" coords="781,95,949,136"/>
-<area shape="rect" id="node7" href="$ObjCARCOpts_8cpp.html" title="This file defines ObjC ARC optimizations. " alt="" coords="973,95,1141,136"/>
-<area shape="rect" id="node8" href="$PtrState_8cpp.html" title="lib/Transforms/ObjCARC\l/PtrState.cpp" alt="" coords="1165,95,1333,136"/>
-</map>

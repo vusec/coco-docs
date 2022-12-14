@@ -1,9 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1MCObjectTargetWriter.html" title="Base class for classes that define behaviour that is specific to both the target and the object forma..." alt="" coords="5,129,191,156"/>
-<area shape="rect" id="node2" href="$classllvm_1_1MCELFObjectTargetWriter.html" title="llvm::MCELFObjectTargetWriter" alt="" coords="239,5,448,32"/>
-<area shape="rect" id="node4" href="$classllvm_1_1MCMachObjectTargetWriter.html" title="llvm::MCMachObjectTarget\lWriter" alt="" coords="252,57,435,98"/>
-<area shape="rect" id="node5" href="$classllvm_1_1MCWasmObjectTargetWriter.html" title="llvm::MCWasmObjectTarget\lWriter" alt="" coords="249,122,437,163"/>
-<area shape="rect" id="node6" href="$classllvm_1_1MCWinCOFFObjectTargetWriter.html" title="llvm::MCWinCOFFObjectTarget\lWriter" alt="" coords="239,187,448,229"/>
-<area shape="rect" id="node7" href="$classllvm_1_1MCXCOFFObjectTargetWriter.html" title="llvm::MCXCOFFObjectTarget\lWriter" alt="" coords="246,253,441,294"/>
-<area shape="rect" id="node3" href="$classllvm_1_1AVRELFObjectWriter.html" title="Writes AVR machine code into an ELF32 object file. " alt="" coords="496,5,675,32"/>
-</map>

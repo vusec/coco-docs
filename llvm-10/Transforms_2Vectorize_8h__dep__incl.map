@@ -1,9 +1,0 @@
-<map id="include/llvm/Transforms/Vectorize.h" name="include/llvm/Transforms/Vectorize.h">
-<area shape="rect" id="node2" href="$LinkAllPasses_8h.html" title="include/llvm/LinkAllPasses.h" alt="" coords="5,102,195,129"/>
-<area shape="rect" id="node3" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="219,95,458,136"/>
-<area shape="rect" id="node4" href="$NVPTXTargetMachine_8cpp.html" title="lib/Target/NVPTX/NVPTXTarget\lMachine.cpp" alt="" coords="483,95,693,136"/>
-<area shape="rect" id="node5" href="$PassManagerBuilder_8cpp.html" title="lib/Transforms/IPO\l/PassManagerBuilder.cpp" alt="" coords="717,95,888,136"/>
-<area shape="rect" id="node6" href="$LoadStoreVectorizer_8cpp.html" title="lib/Transforms/Vectorize\l/LoadStoreVectorizer.cpp" alt="" coords="913,95,1082,136"/>
-<area shape="rect" id="node7" href="$SLPVectorizer_8cpp.html" title="lib/Transforms/Vectorize\l/SLPVectorizer.cpp" alt="" coords="1106,95,1270,136"/>
-<area shape="rect" id="node8" href="$Vectorize_8cpp.html" title="lib/Transforms/Vectorize\l/Vectorize.cpp" alt="" coords="1294,95,1458,136"/>
-</map>

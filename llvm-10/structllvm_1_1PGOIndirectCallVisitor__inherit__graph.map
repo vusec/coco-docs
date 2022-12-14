@@ -1,4 +1,0 @@
-<map id="llvm::PGOIndirectCallVisitor" name="llvm::PGOIndirectCallVisitor">
-<area shape="rect" id="node2" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l PGOIndirectCallVisitor \&gt;" alt="" coords="13,109,184,151"/>
-<area shape="rect" id="node3" href="$classllvm_1_1InstVisitor.html" title="Base class for instruction visitors. " alt="" coords="29,5,168,47"/>
-</map>

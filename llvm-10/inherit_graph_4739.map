@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1SetVector.html" title="llvm::SetVector\&lt; T,\l SmallVector\&lt; T, N \&gt;\l, SmallDenseSet\&lt; T, N \&gt; \&gt;" alt="" coords="5,5,188,61"/>
-<area shape="rect" id="node2" href="$classllvm_1_1SmallSetVector.html" title="A SetVector that performs no allocations if smaller than a certain size. " alt="" coords="236,13,381,54"/>
-</map>

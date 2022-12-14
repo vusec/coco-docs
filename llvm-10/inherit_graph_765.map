@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1AbstractDependenceGraphBuilder.html" title="llvm::AbstractDependence\lGraphBuilder\&lt; DataDependence\lGraph \&gt;" alt="" coords="5,5,216,61"/>
-<area shape="rect" id="node2" href="$classllvm_1_1DDGBuilder.html" title="Concrete implementation of a pure data dependence graph builder. " alt="" coords="264,20,388,47"/>
-</map>

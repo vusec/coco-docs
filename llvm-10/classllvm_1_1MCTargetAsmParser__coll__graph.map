@@ -1,9 +1,0 @@
-<map id="llvm::MCTargetAsmParser" name="llvm::MCTargetAsmParser">
-<area shape="rect" id="node2" href="$classllvm_1_1MCAsmParserExtension.html" title="Generic interface for extending the MCAsmParser, which is implemented by target and object file assem..." alt="" coords="397,111,596,137"/>
-<area shape="rect" id="node3" href="$classbool.html" title="bool" alt="" coords="52,27,99,53"/>
-<area shape="rect" id="node5" href="$classllvm_1_1MCTargetOptions.html" title="llvm::MCTargetOptions" alt="" coords="418,241,575,268"/>
-<area shape="rect" id="node4" href="$classllvm_1_1MCAsmParserSemaCallback.html" title="Generic Sema callback for assembly parser. " alt="" coords="384,292,609,319"/>
-<area shape="rect" id="node9" href="$classllvm_1_1FeatureBitset.html" title="Container class for subtarget features. " alt="" coords="431,343,563,369"/>
-<area shape="rect" id="node10" href="$classllvm_1_1MCInstrInfo.html" title="Interface to description of machine instruction set. " alt="" coords="435,393,558,420"/>
-<area shape="rect" id="node11" href="$classllvm_1_1MCSubtargetInfo.html" title="Generic base class for all target subtargets. " alt="" coords="420,444,573,471"/>
-</map>

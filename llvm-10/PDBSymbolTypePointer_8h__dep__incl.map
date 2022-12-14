@@ -1,7 +1,0 @@
-<map id="include/llvm/DebugInfo/PDB/PDBSymbolTypePointer.h" name="include/llvm/DebugInfo/PDB/PDBSymbolTypePointer.h">
-<area shape="rect" id="node2" href="$DIARawSymbol_8cpp.html" title="lib/DebugInfo/PDB/DIA\l/DIARawSymbol.cpp" alt="" coords="5,95,164,136"/>
-<area shape="rect" id="node3" href="$PDBSymbol_8cpp.html" title="lib/DebugInfo/PDB/PDBSymbol.cpp" alt="" coords="189,102,421,129"/>
-<area shape="rect" id="node4" href="$PDBSymbolExe_8cpp.html" title="lib/DebugInfo/PDB/PDBSymbol\lExe.cpp" alt="" coords="445,95,652,136"/>
-<area shape="rect" id="node5" href="$PDBSymbolTypePointer_8cpp.html" title="lib/DebugInfo/PDB/PDBSymbol\lTypePointer.cpp" alt="" coords="676,95,883,136"/>
-<area shape="rect" id="node6" href="$UDTLayout_8cpp.html" title="lib/DebugInfo/PDB/UDTLayout.cpp" alt="" coords="907,102,1134,129"/>
-</map>

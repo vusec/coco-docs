@@ -1,9 +1,0 @@
-<map id="llvm::ConstantDataArraySlice" name="llvm::ConstantDataArraySlice">
-<area shape="rect" id="node3" href="$classllvm_1_1ConstantDataArray.html" title="An array constant whose element type is a simple 1/2/4/8&#45;byte integer or float/double, and whose elements are just simple data values (i.e. " alt="" coords="107,577,274,604"/>
-<area shape="rect" id="node4" href="$classllvm_1_1ConstantDataSequential.html" title="ConstantDataSequential &#45; A vector or array constant whose element type is a simple 1/2/4/8&#45;byte integ..." alt="" coords="93,501,289,528"/>
-<area shape="rect" id="node5" href="$classllvm_1_1ConstantData.html" title="Base class for constants with no operands. " alt="" coords="123,425,258,452"/>
-<area shape="rect" id="node6" href="$classllvm_1_1Constant.html" title="This is an important base class in LLVM. " alt="" coords="137,349,244,376"/>
-<area shape="rect" id="node7" href="$classllvm_1_1User.html" title="llvm::User" alt="" coords="149,273,232,300"/>
-<area shape="rect" id="node8" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="147,197,234,224"/>
-<area shape="rect" id="node9" href="$classunsigned.html" title="unsigned" alt="" coords="153,5,228,32"/>
-</map>

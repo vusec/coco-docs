@@ -1,5 +1,0 @@
-<map id="include/llvm/CodeGen/SelectionDAGAddressAnalysis.h" name="include/llvm/CodeGen/SelectionDAGAddressAnalysis.h">
-<area shape="rect" id="node2" href="$DAGCombiner_8cpp.html" title="lib/CodeGen/SelectionDAG\l/DAGCombiner.cpp" alt="" coords="5,95,187,136"/>
-<area shape="rect" id="node3" href="$SelectionDAG_8cpp.html" title="lib/CodeGen/SelectionDAG\l/SelectionDAG.cpp" alt="" coords="211,95,392,136"/>
-<area shape="rect" id="node4" href="$SelectionDAGAddressAnalysis_8cpp.html" title="lib/CodeGen/SelectionDAG\l/SelectionDAGAddressAnalysis.cpp" alt="" coords="416,95,648,136"/>
-</map>

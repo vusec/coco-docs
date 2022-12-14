@@ -1,8 +1,0 @@
-<map id="llvm::DevirtCallSite" name="llvm::DevirtCallSite">
-<area shape="rect" id="node3" href="$classllvm_1_1CallSite.html" title="llvm::CallSite" alt="" coords="1361,56,1461,83"/>
-<area shape="rect" id="node4" href="$classllvm_1_1CallSiteBase.html" title="llvm::CallSiteBase\l\&lt; Function, BasicBlock,\l Value, User, Use, Instruction,\l CallInst, InvokeInst, CallBrInst,\l User::op_iterator \&gt;" alt="" coords="1101,27,1312,112"/>
-<area shape="rect" id="node5" href="$classllvm_1_1PointerIntPair.html" title="llvm::PointerIntPair\l\&lt; Instruction *, 2, int \&gt;" alt="" coords="497,9,651,50"/>
-<area shape="rect" id="node6" href="$classllvm_1_1PointerIntPair.html" title="PointerIntPair &#45; This class implements a pair of a pointer and small integer. " alt="" coords="5,32,176,88"/>
-<area shape="rect" id="node8" href="$classllvm_1_1PointerIntPair.html" title="llvm::PointerIntPair\l\&lt; InstrTy *, 2, int \&gt;" alt="" coords="340,73,473,114"/>
-<area shape="rect" id="node7" href="$classllvm_1_1CallSiteBase.html" title="llvm::CallSiteBase\l\&lt; FunTy, BBTy, ValTy,\l UserTy, UseTy, InstrTy,\l CallTy, InvokeTy, CallBrTy,\l IterTy \&gt;" alt="" coords="675,75,864,160"/>
-</map>

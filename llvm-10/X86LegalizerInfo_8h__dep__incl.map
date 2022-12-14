@@ -1,5 +1,0 @@
-<map id="lib/Target/X86/X86LegalizerInfo.h" name="lib/Target/X86/X86LegalizerInfo.h">
-<area shape="rect" id="node2" href="$X86LegalizerInfo_8cpp.html" title="This file implements the targeting of the Machinelegalizer class for X86. " alt="" coords="5,95,188,136"/>
-<area shape="rect" id="node3" href="$X86Subtarget_8cpp.html" title="lib/Target/X86/X86Subtarget.cpp" alt="" coords="213,102,423,129"/>
-<area shape="rect" id="node4" href="$X86TargetMachine_8cpp.html" title="lib/Target/X86/X86Target\lMachine.cpp" alt="" coords="447,95,613,136"/>
-</map>

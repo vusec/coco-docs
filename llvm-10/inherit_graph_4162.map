@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; PGOInstrumentationGenCreate\lVar \&gt;" alt="" coords="5,5,221,61"/>
-<area shape="rect" id="node2" href="$classllvm_1_1PGOInstrumentationGenCreateVar.html" title="The instrumentation (profile&#45;instr&#45;gen) pass for IR based PGO. " alt="" coords="269,13,443,54"/>
-</map>

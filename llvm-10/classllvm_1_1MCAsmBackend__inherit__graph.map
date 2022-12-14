@@ -1,7 +1,0 @@
-<map id="llvm::MCAsmBackend" name="llvm::MCAsmBackend">
-<area shape="rect" id="node2" href="$classllvm_1_1ARMAsmBackend.html" title="llvm::ARMAsmBackend" alt="" coords="25,80,188,107"/>
-<area shape="rect" id="node4" href="$classllvm_1_1AVRAsmBackend.html" title="Utilities for manipulating generated AVR machine code. " alt="" coords="212,80,372,107"/>
-<area shape="rect" id="node5" href="$classllvm_1_1MipsAsmBackend.html" title="llvm::MipsAsmBackend" alt="" coords="396,80,556,107"/>
-<area shape="rect" id="node6" href="$classllvm_1_1RISCVAsmBackend.html" title="llvm::RISCVAsmBackend" alt="" coords="581,80,755,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1ARMAsmBackendDarwin.html" title="llvm::ARMAsmBackendDarwin" alt="" coords="5,155,208,181"/>
-</map>

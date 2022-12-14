@@ -1,4 +1,0 @@
-<map id="llvm::AVRTargetAsmStreamer" name="llvm::AVRTargetAsmStreamer">
-<area shape="rect" id="node2" href="$classllvm_1_1AVRTargetStreamer.html" title="A generic AVR target output stream. " alt="" coords="19,80,191,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1MCTargetStreamer.html" title="Target specific streamer interface. " alt="" coords="22,5,187,32"/>
-</map>

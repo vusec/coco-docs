@@ -1,4 +1,0 @@
-<map id="llvm::SmallDenseSet&lt; ValueT, InlineBuckets, ValueInfoT &gt;" name="llvm::SmallDenseSet&lt; ValueT, InlineBuckets, ValueInfoT &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1detail_1_1DenseSetImpl.html" title="llvm::detail::DenseSetImpl\l\&lt; ValueT, SmallDenseMap\l\&lt; ValueT, detail::DenseSetEmpty,\l InlineBuckets, ValueInfoT, detail\l::DenseSetPair\&lt; ValueT \&gt; \&gt;, ValueInfoT \&gt;" alt="" coords="461,36,732,121"/>
-<area shape="rect" id="node3" href="$classllvm_1_1detail_1_1DenseSetImpl.html" title="Base class for DenseSet and DenseSmallSet. " alt="" coords="5,58,212,99"/>
-</map>

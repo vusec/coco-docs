@@ -1,5 +1,0 @@
-<map id="llvm::HexagonMCELFStreamer" name="llvm::HexagonMCELFStreamer">
-<area shape="rect" id="node2" href="$classllvm_1_1MCELFStreamer.html" title="llvm::MCELFStreamer" alt="" coords="31,155,183,181"/>
-<area shape="rect" id="node3" href="$classllvm_1_1MCObjectStreamer.html" title="Streaming object file generation interface. " alt="" coords="24,80,191,107"/>
-<area shape="rect" id="node4" href="$classllvm_1_1MCStreamer.html" title="Streaming machine code generation interface. " alt="" coords="43,5,171,32"/>
-</map>

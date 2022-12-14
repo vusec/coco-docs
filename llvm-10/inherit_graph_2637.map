@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l AllocaSliceRewriter,\l bool \&gt;" alt="" coords="5,5,149,61"/>
-<area shape="rect" id="node2" href="$classllvm_1_1sroa_1_1AllocaSliceRewriter.html" title="Visitor to rewrite instructions using p particular slice of an alloca to use a new alloca..." alt="" coords="197,20,399,47"/>
-</map>

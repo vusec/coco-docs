@@ -1,6 +1,0 @@
-<map id="llvm::BTFTypeFuncProto" name="llvm::BTFTypeFuncProto">
-<area shape="rect" id="node2" href="$classllvm_1_1BTFTypeBase.html" title="The base class for BTF type generation. " alt="" coords="163,228,302,255"/>
-<area shape="rect" id="node3" href="$classuint32__t.html" title="uint32_t" alt="" coords="5,5,73,32"/>
-<area shape="rect" id="node6" href="$structllvm_1_1BTF_1_1CommonType.html" title="The BTF common type definition. " alt="" coords="77,139,247,165"/>
-<area shape="rect" id="node4" href="$classbool.html" title="bool" alt="" coords="271,139,317,165"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1IntrusiveListT.html" title="IntrusiveListT" alt="" coords="5,5,107,32"/>
-<area shape="rect" id="node2" href="$classllvm_1_1iplist__impl.html" title="A wrapper around an intrusive list with callbacks and non&#45;intrusive ownership. " alt="" coords="155,23,321,65"/>
-<area shape="rect" id="node3" href="$classllvm_1_1TraitsT.html" title="TraitsT" alt="" coords="25,56,87,83"/>
-</map>

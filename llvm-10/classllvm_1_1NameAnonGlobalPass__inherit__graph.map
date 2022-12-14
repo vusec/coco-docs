@@ -1,4 +1,0 @@
-<map id="llvm::NameAnonGlobalPass" name="llvm::NameAnonGlobalPass">
-<area shape="rect" id="node2" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; NameAnonGlobalPass \&gt;" alt="" coords="9,109,188,151"/>
-<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes. " alt="" coords="30,5,167,47"/>
-</map>

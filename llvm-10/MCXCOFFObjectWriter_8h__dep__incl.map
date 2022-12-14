@@ -1,6 +1,0 @@
-<map id="include/llvm/MC/MCXCOFFObjectWriter.h" name="include/llvm/MC/MCXCOFFObjectWriter.h">
-<area shape="rect" id="node2" href="$MCAsmBackend_8cpp.html" title="lib/MC/MCAsmBackend.cpp" alt="" coords="5,109,193,136"/>
-<area shape="rect" id="node3" href="$MCXCOFFObjectTargetWriter_8cpp.html" title="lib/MC/MCXCOFFObjectTarget\lWriter.cpp" alt="" coords="218,102,423,143"/>
-<area shape="rect" id="node4" href="$XCOFFObjectWriter_8cpp.html" title="lib/MC/XCOFFObjectWriter.cpp" alt="" coords="448,109,655,136"/>
-<area shape="rect" id="node5" href="$PPCXCOFFObjectWriter_8cpp.html" title="lib/Target/PowerPC\l/MCTargetDesc/PPCXCOFFObject\lWriter.cpp" alt="" coords="679,95,909,151"/>
-</map>

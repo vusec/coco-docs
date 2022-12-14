@@ -1,7 +1,0 @@
-<map id="llvm::RegionBase&lt; Tr &gt;::block_iterator_wrapper&lt; IsConst &gt;" name="llvm::RegionBase&lt; Tr &gt;::block_iterator_wrapper&lt; IsConst &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1df__iterator.html" title="llvm::df_iterator\&lt;\l std::conditional\&lt; IsConst,\l const BlockT, BlockT \&gt;\l::type *\&gt;" alt="" coords="1280,93,1456,163"/>
-<area shape="rect" id="node4" href="$classllvm_1_1df__iterator__storage.html" title="llvm::df_iterator_storage\l\&lt; df_iterator_default_set\l\&lt; typename GraphTraits\&lt; std\l::conditional\&lt; IsConst, const\l BlockT, BlockT \&gt;::type *\&gt;::NodeRef\l \&gt;, false \&gt;" alt="" coords="584,77,823,177"/>
-<area shape="rect" id="node5" href="$classllvm_1_1df__iterator__storage.html" title="llvm::df_iterator_storage\l\&lt; SetType, External \&gt;" alt="" coords="5,135,168,177"/>
-<area shape="rect" id="node8" href="$classllvm_1_1df__iterator__storage.html" title="llvm::df_iterator_storage\l\&lt; SetType, ExtStorage \&gt;" alt="" coords="392,165,560,206"/>
-<area shape="rect" id="node6" href="$classllvm_1_1df__iterator.html" title="llvm::df_iterator\&lt;\l GraphT, SetType, ExtStorage, GT \&gt;" alt="" coords="847,175,1084,217"/>
-</map>

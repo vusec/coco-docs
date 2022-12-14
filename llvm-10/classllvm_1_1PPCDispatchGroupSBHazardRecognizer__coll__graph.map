@@ -1,5 +1,0 @@
-<map id="llvm::PPCDispatchGroupSBHazardRecognizer" name="llvm::PPCDispatchGroupSBHazardRecognizer">
-<area shape="rect" id="node2" href="$classllvm_1_1ScoreboardHazardRecognizer.html" title="llvm::ScoreboardHazardRecognizer" alt="" coords="6,171,234,197"/>
-<area shape="rect" id="node3" href="$classllvm_1_1ScheduleHazardRecognizer.html" title="HazardRecognizer &#45; This determines whether or not an instruction can be issued this cycle..." alt="" coords="12,95,228,121"/>
-<area shape="rect" id="node4" href="$classunsigned.html" title="unsigned" alt="" coords="83,5,157,32"/>
-</map>

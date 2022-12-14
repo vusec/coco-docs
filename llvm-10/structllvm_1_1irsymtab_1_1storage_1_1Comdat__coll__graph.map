@@ -1,5 +1,0 @@
-<map id="llvm::irsymtab::storage::Comdat" name="llvm::irsymtab::storage::Comdat">
-<area shape="rect" id="node2" href="$structllvm_1_1irsymtab_1_1storage_1_1Str.html" title="A reference to a string in the string table. " alt="" coords="587,56,767,83"/>
-<area shape="rect" id="node3" href="$structllvm_1_1support_1_1detail_1_1packed__endian__specific__integral.html" title="llvm::support::detail\l::packed_endian_specific\l_integral\&lt; ValueType, Endian,\l Alignment, ALIGN \&gt;" alt="" coords="300,34,497,105"/>
-<area shape="rect" id="node5" href="$classchar.html" title="char" alt="" coords="75,56,121,83"/>
-</map>

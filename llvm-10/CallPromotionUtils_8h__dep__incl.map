@@ -1,6 +1,0 @@
-<map id="include/llvm/Transforms/Utils/CallPromotionUtils.h" name="include/llvm/Transforms/Utils/CallPromotionUtils.h">
-<area shape="rect" id="node2" href="$AMDGPUFixFunctionBitcasts_8cpp.html" title="Promote indirect (bitcast) calls to direct calls when they are statically known to be direct..." alt="" coords="5,95,225,136"/>
-<area shape="rect" id="node3" href="$IndirectCallPromotion_8cpp.html" title="lib/Transforms/Instrumentation\l/IndirectCallPromotion.cpp" alt="" coords="249,95,448,136"/>
-<area shape="rect" id="node4" href="$SampleProfile_8cpp.html" title="lib/Transforms/IPO\l/SampleProfile.cpp" alt="" coords="472,95,604,136"/>
-<area shape="rect" id="node5" href="$CallPromotionUtils_8cpp.html" title="lib/Transforms/Utils\l/CallPromotionUtils.cpp" alt="" coords="629,95,789,136"/>
-</map>

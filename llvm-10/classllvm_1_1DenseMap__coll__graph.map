@@ -1,5 +1,0 @@
-<map id="llvm::DenseMap&lt; KeyT, ValueT, KeyInfoT, BucketT &gt;" name="llvm::DenseMap&lt; KeyT, ValueT, KeyInfoT, BucketT &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; KeyT, ValueT,\l KeyInfoT, BucketT \&gt;, KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="616,5,813,76"/>
-<area shape="rect" id="node3" href="$classllvm_1_1DebugEpochBase.html" title="A base class for data structure classes wishing to make iterators (&quot;handles&quot;) pointing into themselve..." alt="" coords="5,29,164,55"/>
-<area shape="rect" id="node4" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DerivedT, KeyT, ValueT,\l KeyInfoT, BucketT \&gt;" alt="" coords="213,46,392,102"/>
-</map>

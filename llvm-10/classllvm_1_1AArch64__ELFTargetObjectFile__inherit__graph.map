@@ -1,5 +1,0 @@
-<map id="llvm::AArch64_ELFTargetObjectFile" name="llvm::AArch64_ELFTargetObjectFile">
-<area shape="rect" id="node2" href="$classllvm_1_1TargetLoweringObjectFileELF.html" title="llvm::TargetLoweringObject\lFileELF" alt="" coords="30,155,211,196"/>
-<area shape="rect" id="node3" href="$classllvm_1_1TargetLoweringObjectFile.html" title="llvm::TargetLoweringObjectFile" alt="" coords="19,80,222,107"/>
-<area shape="rect" id="node4" href="$classllvm_1_1MCObjectFileInfo.html" title="llvm::MCObjectFileInfo" alt="" coords="43,5,199,32"/>
-</map>

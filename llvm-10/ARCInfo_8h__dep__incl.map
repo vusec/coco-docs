@@ -1,6 +1,0 @@
-<map id="lib/Target/ARC/MCTargetDesc/ARCInfo.h" name="lib/Target/ARC/MCTargetDesc/ARCInfo.h">
-<area shape="rect" id="node2" href="$ARCBranchFinalize_8cpp.html" title="lib/Target/ARC/ARCBranch\lFinalize.cpp" alt="" coords="5,95,188,136"/>
-<area shape="rect" id="node3" href="$ARCInstrInfo_8cpp.html" title="lib/Target/ARC/ARCInstrInfo.cpp" alt="" coords="212,102,427,129"/>
-<area shape="rect" id="node4" href="$ARCISelLowering_8cpp.html" title="lib/Target/ARC/ARCISelLowering.cpp" alt="" coords="451,102,694,129"/>
-<area shape="rect" id="node5" href="$ARCInstPrinter_8cpp.html" title="lib/Target/ARC/MCTargetDesc\l/ARCInstPrinter.cpp" alt="" coords="718,95,921,136"/>
-</map>

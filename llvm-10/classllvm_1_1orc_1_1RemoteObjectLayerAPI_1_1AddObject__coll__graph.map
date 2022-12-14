@@ -1,4 +1,0 @@
-<map id="llvm::orc::RemoteObjectLayerAPI::AddObject" name="llvm::orc::RemoteObjectLayerAPI::AddObject">
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; AddObject, Expected\&lt;\l ObjHandleT \&gt;(std::string)\&gt;" alt="" coords="13,124,194,180"/>
-<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; DerivedFunc, FnT \&gt;" alt="" coords="25,5,181,47"/>
-</map>

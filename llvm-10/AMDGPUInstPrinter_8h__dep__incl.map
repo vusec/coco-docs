@@ -1,7 +1,0 @@
-<map id="lib/Target/AMDGPU/MCTargetDesc/AMDGPUInstPrinter.h" name="lib/Target/AMDGPU/MCTargetDesc/AMDGPUInstPrinter.h">
-<area shape="rect" id="node2" href="$AMDGPUAsmPrinter_8cpp.html" title="The AMDGPUAsmPrinter is used to print both assembly string and also binary code. " alt="" coords="5,95,235,136"/>
-<area shape="rect" id="node3" href="$AMDGPUMCInstLower_8cpp.html" title="Code to lower AMDGPU MachineInstrs to their corresponding MCInst. " alt="" coords="259,95,504,136"/>
-<area shape="rect" id="node4" href="$AMDGPUInstPrinter_8cpp.html" title="lib/Target/AMDGPU/MCTarget\lDesc/AMDGPUInstPrinter.cpp" alt="" coords="529,95,730,136"/>
-<area shape="rect" id="node5" href="$AMDGPUMCTargetDesc_8cpp.html" title="This file provides AMDGPU specific target descriptions. " alt="" coords="754,95,985,136"/>
-<area shape="rect" id="node6" href="$SIRegisterInfo_8cpp.html" title="SI implementation of the TargetRegisterInfo class. " alt="" coords="1009,95,1215,136"/>
-</map>

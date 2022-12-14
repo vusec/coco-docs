@@ -1,4 +1,0 @@
-<map id="llvm::TrailingObjects&lt; BaseTy, TrailingTys &gt;" name="llvm::TrailingObjects&lt; BaseTy, TrailingTys &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title="llvm::trailing_objects\l_internal::TrailingObjectsImpl\l\&lt; trailing_objects_internal\l::AlignmentCalcHelper\&lt; TrailingTys...\l \&gt;::Alignment, BaseTy, TrailingObjects\l\&lt; BaseTy, TrailingTys... \&gt;, BaseTy, TrailingTys... \&gt;" alt="" coords="507,29,831,129"/>
-<area shape="rect" id="node3" href="$classllvm_1_1trailing__objects__internal_1_1TrailingObjectsImpl.html" title="llvm::trailing_objects\l_internal::TrailingObjectsImpl\l\&lt; Align, BaseTy, TopTrailingObj,\l PrevTy, MoreTys \&gt;" alt="" coords="5,43,217,114"/>
-</map>

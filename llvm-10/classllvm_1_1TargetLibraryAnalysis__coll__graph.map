@@ -1,6 +1,0 @@
-<map id="llvm::TargetLibraryAnalysis" name="llvm::TargetLibraryAnalysis">
-<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title="llvm::AnalysisInfoMixin\l\&lt; TargetLibraryAnalysis \&gt;" alt="" coords="99,213,271,255"/>
-<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; TargetLibraryAnalysis \&gt;" alt="" coords="5,109,177,151"/>
-<area shape="rect" id="node4" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes. " alt="" coords="116,5,253,47"/>
-<area shape="rect" id="node5" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes. " alt="" coords="202,109,359,151"/>
-</map>

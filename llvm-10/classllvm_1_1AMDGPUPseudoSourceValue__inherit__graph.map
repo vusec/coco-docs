@@ -1,6 +1,0 @@
-<map id="llvm::AMDGPUPseudoSourceValue" name="llvm::AMDGPUPseudoSourceValue">
-<area shape="rect" id="node3" href="$classllvm_1_1AMDGPUBufferPseudoSourceValue.html" title="llvm::AMDGPUBufferPseudo\lSourceValue" alt="" coords="499,5,691,47"/>
-<area shape="rect" id="node4" href="$classllvm_1_1AMDGPUGWSResourcePseudoSourceValue.html" title="llvm::AMDGPUGWSResourcePseudo\lSourceValue" alt="" coords="472,71,717,112"/>
-<area shape="rect" id="node5" href="$classllvm_1_1AMDGPUImagePseudoSourceValue.html" title="llvm::AMDGPUImagePseudoSource\lValue" alt="" coords="477,136,712,177"/>
-<area shape="rect" id="node2" href="$classllvm_1_1PseudoSourceValue.html" title="Special value supplied for machine level alias analysis. " alt="" coords="5,78,177,105"/>
-</map>

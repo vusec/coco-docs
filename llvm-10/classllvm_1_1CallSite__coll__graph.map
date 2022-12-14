@@ -1,7 +1,0 @@
-<map id="llvm::CallSite" name="llvm::CallSite">
-<area shape="rect" id="node2" href="$classllvm_1_1CallSiteBase.html" title="llvm::CallSiteBase\l\&lt; Function, BasicBlock,\l Value, User, Use, Instruction,\l CallInst, InvokeInst, CallBrInst,\l User::op_iterator \&gt;" alt="" coords="1101,23,1312,109"/>
-<area shape="rect" id="node3" href="$classllvm_1_1PointerIntPair.html" title="llvm::PointerIntPair\l\&lt; Instruction *, 2, int \&gt;" alt="" coords="497,5,651,47"/>
-<area shape="rect" id="node4" href="$classllvm_1_1PointerIntPair.html" title="PointerIntPair &#45; This class implements a pair of a pointer and small integer. " alt="" coords="5,29,176,85"/>
-<area shape="rect" id="node6" href="$classllvm_1_1PointerIntPair.html" title="llvm::PointerIntPair\l\&lt; InstrTy *, 2, int \&gt;" alt="" coords="340,69,473,111"/>
-<area shape="rect" id="node5" href="$classllvm_1_1CallSiteBase.html" title="llvm::CallSiteBase\l\&lt; FunTy, BBTy, ValTy,\l UserTy, UseTy, InstrTy,\l CallTy, InvokeTy, CallBrTy,\l IterTy \&gt;" alt="" coords="675,71,864,157"/>
-</map>

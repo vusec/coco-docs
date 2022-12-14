@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structllvm_1_1HungoffOperandTraits.html" title="llvm::HungoffOperandTraits\&lt; 2 \&gt;" alt="" coords="5,111,219,138"/>
-<area shape="rect" id="node2" href="$structllvm_1_1OperandTraits_3_01CatchSwitchInst_01_4.html" title="llvm::OperandTraits\l\&lt; CatchSwitchInst \&gt;" alt="" coords="267,5,409,47"/>
-<area shape="rect" id="node3" href="$structllvm_1_1OperandTraits_3_01MemoryPhi_01_4.html" title="llvm::OperandTraits\l\&lt; MemoryPhi \&gt;" alt="" coords="270,71,406,112"/>
-<area shape="rect" id="node4" href="$structllvm_1_1OperandTraits_3_01PHINode_01_4.html" title="llvm::OperandTraits\l\&lt; PHINode \&gt;" alt="" coords="270,136,406,177"/>
-<area shape="rect" id="node5" href="$structllvm_1_1OperandTraits_3_01SwitchInst_01_4.html" title="llvm::OperandTraits\l\&lt; SwitchInst \&gt;" alt="" coords="270,201,406,243"/>
-</map>

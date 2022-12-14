@@ -1,4 +1,0 @@
-<map id="llvm::msf::WritableMappedBlockStream" name="llvm::msf::WritableMappedBlockStream">
-<area shape="rect" id="node2" href="$classllvm_1_1WritableBinaryStream.html" title="A BinaryStream which can be read from as well as written to. " alt="" coords="5,80,187,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1BinaryStream.html" title="An interface for accessing data in a stream&#45;like format, but which discourages copying. " alt="" coords="29,5,163,32"/>
-</map>

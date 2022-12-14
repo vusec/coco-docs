@@ -1,5 +1,0 @@
-<map id="llvm::CallEntryPseudoSourceValue" name="llvm::CallEntryPseudoSourceValue">
-<area shape="rect" id="node3" href="$classllvm_1_1ExternalSymbolPseudoSourceValue.html" title="A specialized pseudo source value for holding external symbol values. " alt="" coords="5,169,196,211"/>
-<area shape="rect" id="node4" href="$classllvm_1_1GlobalValuePseudoSourceValue.html" title="A specialized pseudo source value for holding GlobalValue values. " alt="" coords="220,169,429,211"/>
-<area shape="rect" id="node2" href="$classllvm_1_1PseudoSourceValue.html" title="Special value supplied for machine level alias analysis. " alt="" coords="127,5,299,32"/>
-</map>

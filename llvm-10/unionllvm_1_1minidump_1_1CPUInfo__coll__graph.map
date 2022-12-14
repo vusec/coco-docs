@@ -1,6 +1,0 @@
-<map id="llvm::minidump::CPUInfo" name="llvm::minidump::CPUInfo">
-<area shape="rect" id="node2" href="$structllvm_1_1minidump_1_1CPUInfo_1_1OtherInfo.html" title="llvm::minidump::CPUInfo\l::OtherInfo" alt="" coords="356,5,525,47"/>
-<area shape="rect" id="node4" href="$structllvm_1_1minidump_1_1CPUInfo_1_1ArmInfo.html" title="llvm::minidump::CPUInfo\l::ArmInfo" alt="" coords="356,71,525,112"/>
-<area shape="rect" id="node6" href="$structllvm_1_1minidump_1_1CPUInfo_1_1X86Info.html" title="llvm::minidump::CPUInfo\l::X86Info" alt="" coords="356,143,525,184"/>
-<area shape="rect" id="node7" href="$classchar.html" title="char" alt="" coords="65,195,111,222"/>
-</map>

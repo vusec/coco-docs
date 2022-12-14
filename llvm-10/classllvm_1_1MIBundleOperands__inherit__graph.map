@@ -1,7 +1,0 @@
-<map id="llvm::MIBundleOperands" name="llvm::MIBundleOperands">
-<area shape="rect" id="node2" href="$classllvm_1_1MIBundleOperandIteratorBase.html" title="llvm::MIBundleOperandIterator\lBase\&lt; MachineOperand \&gt;" alt="" coords="1397,131,1596,173"/>
-<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; MIBundleOperandIterator\lBase\&lt; MachineOperand \&gt;, std\l::forward_iterator_tag, MachineOperand \&gt;" alt="" coords="712,82,975,153"/>
-<area shape="rect" id="node5" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="267,115,491,186"/>
-<area shape="rect" id="node8" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; MIBundleOperandIterator\lBase\&lt; ValueT \&gt;, std::forward\l_iterator_tag, ValueT \&gt;" alt="" coords="736,177,951,247"/>
-<area shape="rect" id="node7" href="$classllvm_1_1MIBundleOperandIteratorBase.html" title="MIBundleOperandIteratorBase &#45; Iterator that visits all operands in a bundle of MachineInstrs. " alt="" coords="1024,165,1223,206"/>
-</map>

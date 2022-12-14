@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; Align \&gt;" alt="" coords="5,5,160,32"/>
-<area shape="rect" id="node2" href="$structllvm_1_1MaybeAlign.html" title="This struct is a compact representation of a valid (power of two) or undefined (0) alignment..." alt="" coords="208,5,331,32"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="llvm::orc::rpc::detail::ResponseHandler&lt; ChannelT &gt;" name="llvm::orc::rpc::detail::ResponseHandler&lt; ChannelT &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1rpc_1_1detail_1_1ResponseHandlerImpl.html" title="llvm::orc::rpc::detail\l::ResponseHandlerImpl\l\&lt; ChannelT \&gt;" alt="" coords="300,5,459,61"/>
-<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1rpc_1_1detail_1_1ResponseHandlerImpl_3_01ChannelT_00_01Error_00_01HandlerT_01_4.html" title="llvm::orc::rpc::detail\l::ResponseHandlerImpl\l\&lt; ChannelT, Error, HandlerT \&gt;" alt="" coords="280,85,479,141"/>
-<area shape="rect" id="node4" href="$classllvm_1_1orc_1_1rpc_1_1detail_1_1ResponseHandlerImpl_3_01ChannelT_00_01Expected_3_01FuncRetT_01_4_00_01HandlerT_01_4.html" title="llvm::orc::rpc::detail\l::ResponseHandlerImpl\l\&lt; ChannelT, Expected\&lt; FuncRetT\l \&gt;, HandlerT \&gt;" alt="" coords="268,166,491,237"/>
-<area shape="rect" id="node5" href="$classllvm_1_1orc_1_1rpc_1_1detail_1_1ResponseHandlerImpl_3_01ChannelT_00_01void_00_01HandlerT_01_4.html" title="llvm::orc::rpc::detail\l::ResponseHandlerImpl\l\&lt; ChannelT, void, HandlerT \&gt;" alt="" coords="282,261,477,317"/>
-</map>

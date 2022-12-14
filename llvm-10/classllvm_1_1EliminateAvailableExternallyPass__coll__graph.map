@@ -1,4 +1,0 @@
-<map id="llvm::EliminateAvailableExternallyPass" name="llvm::EliminateAvailableExternallyPass">
-<area shape="rect" id="node2" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; EliminateAvailableExternally\lPass \&gt;" alt="" coords="5,124,204,180"/>
-<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes. " alt="" coords="36,5,173,47"/>
-</map>

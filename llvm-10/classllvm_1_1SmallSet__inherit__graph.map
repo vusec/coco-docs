@@ -1,9 +1,0 @@
-<map id="llvm::SmallSet&lt; T, N, C &gt;" name="llvm::SmallSet&lt; T, N, C &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1SmallSet.html" title="llvm::SmallSet\&lt; llvm\l::AssertingVH\&lt; llvm::\lMemoryPhi \&gt;, 8 \&gt;" alt="" coords="373,5,521,61"/>
-<area shape="rect" id="node3" href="$classllvm_1_1SmallSet.html" title="llvm::SmallSet\&lt; llvm\l::AssertingVH\&lt; llvm::\lFunction \&gt;, 20 \&gt;" alt="" coords="373,85,521,141"/>
-<area shape="rect" id="node4" href="$classllvm_1_1SmallSet.html" title="llvm::SmallSet\&lt; unsigned, 8 \&gt;" alt="" coords="348,165,547,192"/>
-<area shape="rect" id="node5" href="$classllvm_1_1SmallSet.html" title="llvm::SmallSet\&lt; unsigned, 2 \&gt;" alt="" coords="348,216,547,243"/>
-<area shape="rect" id="node6" href="$classllvm_1_1SmallSet.html" title="llvm::SmallSet\&lt; llvm\l::MachineBasicBlock *, 32 \&gt;" alt="" coords="353,267,541,309"/>
-<area shape="rect" id="node7" href="$classllvm_1_1SmallSet.html" title="llvm::SmallSet\&lt; llvm\l::AssertingVH\&lt; const\l llvm::BasicBlock \&gt;, 16 \&gt;" alt="" coords="362,335,533,391"/>
-<area shape="rect" id="node8" href="$classllvm_1_1SmallSet.html" title="llvm::SmallSet\&lt; unsigned,\l 16 \&gt;" alt="" coords="360,415,535,457"/>
-</map>

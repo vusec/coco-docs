@@ -1,7 +1,0 @@
-<map id="include/llvm/CodeGen/WasmEHFuncInfo.h" name="include/llvm/CodeGen/WasmEHFuncInfo.h">
-<area shape="rect" id="node2" href="$MachineFunction_8cpp.html" title="lib/CodeGen/MachineFunction.cpp" alt="" coords="5,102,228,129"/>
-<area shape="rect" id="node3" href="$FunctionLoweringInfo_8cpp.html" title="lib/CodeGen/SelectionDAG\l/FunctionLoweringInfo.cpp" alt="" coords="253,95,434,136"/>
-<area shape="rect" id="node4" href="$WasmEHPrepare_8cpp.html" title="lib/CodeGen/WasmEHPrepare.cpp" alt="" coords="459,102,684,129"/>
-<area shape="rect" id="node5" href="$WebAssemblyISelLowering_8cpp.html" title="This file implements the WebAssemblyTargetLowering class. " alt="" coords="707,95,918,136"/>
-<area shape="rect" id="node6" href="$WebAssemblyLateEHPrepare_8cpp.html" title="Does various transformations for exception handling. " alt="" coords="941,95,1167,136"/>
-</map>

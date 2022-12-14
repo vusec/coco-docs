@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1AMDGPULibFuncBase.html" title="llvm::AMDGPULibFuncBase" alt="" coords="5,31,195,57"/>
-<area shape="rect" id="node2" href="$classllvm_1_1AMDGPULibFunc.html" title="Wrapper class for AMDGPULIbFuncImpl. " alt="" coords="255,5,414,32"/>
-<area shape="rect" id="node3" href="$classllvm_1_1AMDGPULibFuncImpl.html" title="llvm::AMDGPULibFuncImpl" alt="" coords="243,56,427,83"/>
-<area shape="rect" id="node4" href="$classllvm_1_1AMDGPUMangledLibFunc.html" title="llvm::AMDGPUMangledLibFunc" alt="" coords="483,31,691,57"/>
-<area shape="rect" id="node5" href="$classllvm_1_1AMDGPUUnmangledLibFunc.html" title="llvm::AMDGPUUnmangledLibFunc" alt="" coords="475,81,700,108"/>
-</map>

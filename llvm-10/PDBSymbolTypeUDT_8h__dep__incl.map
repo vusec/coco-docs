@@ -1,6 +1,0 @@
-<map id="include/llvm/DebugInfo/PDB/PDBSymbolTypeUDT.h" name="include/llvm/DebugInfo/PDB/PDBSymbolTypeUDT.h">
-<area shape="rect" id="node2" href="$UDTLayout_8h.html" title="include/llvm/DebugInfo\l/PDB/UDTLayout.h" alt="" coords="5,95,160,136"/>
-<area shape="rect" id="node3" href="$UDTLayout_8cpp.html" title="lib/DebugInfo/PDB/UDTLayout.cpp" alt="" coords="27,184,253,211"/>
-<area shape="rect" id="node4" href="$PDBSymbol_8cpp.html" title="lib/DebugInfo/PDB/PDBSymbol.cpp" alt="" coords="235,102,467,129"/>
-<area shape="rect" id="node5" href="$PDBSymbolTypeUDT_8cpp.html" title="lib/DebugInfo/PDB/PDBSymbol\lTypeUDT.cpp" alt="" coords="491,95,698,136"/>
-</map>

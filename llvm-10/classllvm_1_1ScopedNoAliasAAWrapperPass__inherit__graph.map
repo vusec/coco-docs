@@ -1,5 +1,0 @@
-<map id="llvm::ScopedNoAliasAAWrapperPass" name="llvm::ScopedNoAliasAAWrapperPass">
-<area shape="rect" id="node2" href="$classllvm_1_1ImmutablePass.html" title="ImmutablePass class &#45; This class is used to provide information that does not need to be run..." alt="" coords="53,155,199,181"/>
-<area shape="rect" id="node3" href="$classllvm_1_1ModulePass.html" title="ModulePass class &#45; This class is used to implement unstructured interprocedural optimizations and ana..." alt="" coords="63,80,189,107"/>
-<area shape="rect" id="node4" href="$classllvm_1_1Pass.html" title="Pass interface &#45; Implemented by all &#39;passes&#39;. " alt="" coords="84,5,168,32"/>
-</map>

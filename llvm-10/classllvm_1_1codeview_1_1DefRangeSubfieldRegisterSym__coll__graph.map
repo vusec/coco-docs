@@ -1,7 +1,0 @@
-<map id="llvm::codeview::DefRangeSubfieldRegisterSym" name="llvm::codeview::DefRangeSubfieldRegisterSym">
-<area shape="rect" id="node2" href="$classllvm_1_1codeview_1_1SymbolRecord.html" title="llvm::codeview::SymbolRecord" alt="" coords="297,7,500,33"/>
-<area shape="rect" id="node5" href="$classuint32__t.html" title="uint32_t" alt="" coords="39,143,107,169"/>
-<area shape="rect" id="node9" href="$structllvm_1_1codeview_1_1LocalVariableAddrRange.html" title="llvm::codeview::LocalVariable\lAddrRange" alt="" coords="301,187,496,229"/>
-<area shape="rect" id="node6" href="$structllvm_1_1codeview_1_1DefRangeSubfieldRegisterHeader.html" title="llvm::codeview::DefRange\lSubfieldRegisterHeader" alt="" coords="311,263,487,305"/>
-<area shape="rect" id="node10" href="$classuint16__t.html" title="uint16_t" alt="" coords="39,220,107,247"/>
-</map>

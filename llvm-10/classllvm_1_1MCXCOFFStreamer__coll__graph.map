@@ -1,4 +1,0 @@
-<map id="llvm::MCXCOFFStreamer" name="llvm::MCXCOFFStreamer">
-<area shape="rect" id="node2" href="$classllvm_1_1MCObjectStreamer.html" title="Streaming object file generation interface. " alt="" coords="9,80,175,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1MCStreamer.html" title="Streaming machine code generation interface. " alt="" coords="28,5,156,32"/>
-</map>

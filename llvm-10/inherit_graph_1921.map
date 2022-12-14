@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1detail_1_1DenseSetImpl.html" title="llvm::detail::DenseSetImpl\l\&lt; PhiValuesCallbackVH, DenseMap\l\&lt; PhiValuesCallbackVH, detail\l::DenseSetEmpty, llvm::DenseMapInfo\l\&lt; llvm::Value * \&gt;, detail::DenseSetPair\l\&lt; PhiValuesCallbackVH \&gt; \&gt;, llvm::DenseMapInfo\l\&lt; llvm::Value * \&gt; \&gt;" alt="" coords="5,5,317,120"/>
-<area shape="rect" id="node2" href="$classllvm_1_1DenseSet.html" title="llvm::DenseSet\&lt; PhiValues\lCallbackVH, llvm::DenseMapInfo\l\&lt; llvm::Value *\&gt; \&gt;" alt="" coords="365,35,583,91"/>
-</map>

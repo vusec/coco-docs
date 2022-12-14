@@ -1,4 +1,0 @@
-<map id="llvm::SystemZTargetLowering" name="llvm::SystemZTargetLowering">
-<area shape="rect" id="node2" href="$classllvm_1_1TargetLowering.html" title="This class defines information used to lower LLVM code to legal SelectionDAG operators that the targe..." alt="" coords="32,80,175,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1TargetLoweringBase.html" title="This base class for TargetLowering contains the SelectionDAG&#45;independent parts that can be used from ..." alt="" coords="17,5,190,32"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="llvm::DominanceFrontierBase&lt; BlockT, IsPostDom &gt;" name="llvm::DominanceFrontierBase&lt; BlockT, IsPostDom &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1DominanceFrontierBase.html" title="llvm::DominanceFrontierBase\l\&lt; llvm::MachineBasicBlock,\l false \&gt;" alt="" coords="635,5,829,61"/>
-<area shape="rect" id="node4" href="$classllvm_1_1DominanceFrontierBase.html" title="llvm::DominanceFrontierBase\l\&lt; BlockT, false \&gt;" alt="" coords="416,71,611,113"/>
-<area shape="rect" id="node8" href="$classllvm_1_1DominanceFrontierBase.html" title="llvm::DominanceFrontierBase\l\&lt; BasicBlock, false \&gt;" alt="" coords="635,133,829,174"/>
-<area shape="rect" id="node3" href="$classllvm_1_1ForwardDominanceFrontierBase.html" title="llvm::ForwardDominanceFrontier\lBase\&lt; llvm::MachineBasicBlock \&gt;" alt="" coords="1288,30,1511,71"/>
-<area shape="rect" id="node5" href="$classllvm_1_1ForwardDominanceFrontierBase.html" title="DominanceFrontier Class &#45; Concrete subclass of DominanceFrontierBase that is used to compute a forwar..." alt="" coords="853,71,1064,113"/>
-<area shape="rect" id="node6" href="$classllvm_1_1ForwardDominanceFrontierBase.html" title="llvm::ForwardDominanceFrontier\lBase\&lt; BasicBlock \&gt;" alt="" coords="1294,107,1505,149"/>
-<area shape="rect" id="node7" href="$classllvm_1_1DominanceFrontier.html" title="llvm::DominanceFrontier" alt="" coords="1560,115,1724,141"/>
-</map>

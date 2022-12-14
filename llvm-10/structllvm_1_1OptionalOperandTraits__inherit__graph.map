@@ -1,5 +1,0 @@
-<map id="llvm::OptionalOperandTraits&lt; SubClass, ARITY &gt;" name="llvm::OptionalOperandTraits&lt; SubClass, ARITY &gt;">
-<area shape="rect" id="node3" href="$structllvm_1_1OptionalOperandTraits.html" title="llvm::OptionalOperandTraits\l\&lt; GlobalVariable \&gt;" alt="" coords="11,200,195,241"/>
-<area shape="rect" id="node2" href="$structllvm_1_1FixedNumOperandTraits.html" title="FixedNumOperandTraits &#45; determine the allocation regime of the Use array when it is a prefix to the U..." alt="" coords="5,5,201,47"/>
-<area shape="rect" id="node4" href="$structllvm_1_1OperandTraits_3_01GlobalVariable_01_4.html" title="llvm::OperandTraits\l\&lt; GlobalVariable \&gt;" alt="" coords="35,291,171,332"/>
-</map>

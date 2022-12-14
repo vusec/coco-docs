@@ -1,9 +1,0 @@
-<map id="llvm::orc::MaterializationUnit" name="llvm::orc::MaterializationUnit">
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1AbsoluteSymbolsMaterializationUnit.html" title="A MaterializationUnit implementation for pre&#45;existing absolute symbols. " alt="" coords="275,5,458,47"/>
-<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1BasicObjectLayerMaterializationUnit.html" title="Materializes the given object file (represented by a MemoryBuffer instance) by calling &#39;emit&#39; on the ..." alt="" coords="275,71,458,112"/>
-<area shape="rect" id="node4" href="$classllvm_1_1orc_1_1IRMaterializationUnit.html" title="IRMaterializationUnit is a convenient base class for MaterializationUnits wrapping LLVM IR..." alt="" coords="265,137,468,163"/>
-<area shape="rect" id="node7" href="$classllvm_1_1orc_1_1LazyReexportsMaterializationUnit.html" title="A materialization unit that builds lazy re&#45;exports. " alt="" coords="283,188,451,229"/>
-<area shape="rect" id="node8" href="$classllvm_1_1orc_1_1ReExportsMaterializationUnit.html" title="A materialization unit for symbol aliases. " alt="" coords="241,254,492,281"/>
-<area shape="rect" id="node5" href="$classllvm_1_1orc_1_1BasicIRLayerMaterializationUnit.html" title="MaterializationUnit that materializes modules by calling the &#39;emit&#39; method on the given IRLayer..." alt="" coords="540,111,807,138"/>
-<area shape="rect" id="node6" href="$classllvm_1_1orc_1_1PartitioningIRMaterializationUnit.html" title="llvm::orc::PartitioningIRMaterializationUnit" alt="" coords="540,162,807,189"/>
-</map>

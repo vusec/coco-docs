@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; CallVoidVoid, void(JITTarget\lAddress FnAddr)\&gt;" alt="" coords="5,5,207,61"/>
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1remote_1_1exec_1_1CallVoidVoid.html" title="Calls a &#39;void()&#39;&#45;type function on the remote, returns when the called function completes. " alt="" coords="255,13,388,54"/>
-</map>

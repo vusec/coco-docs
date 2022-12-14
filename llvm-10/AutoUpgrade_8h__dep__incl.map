@@ -1,8 +1,0 @@
-<map id="include/llvm/IR/AutoUpgrade.h" name="include/llvm/IR/AutoUpgrade.h">
-<area shape="rect" id="node2" href="$LLParser_8cpp.html" title="lib/AsmParser/LLParser.cpp" alt="" coords="5,87,191,114"/>
-<area shape="rect" id="node3" href="$BitcodeReader_8cpp.html" title="lib/Bitcode/Reader\l/BitcodeReader.cpp" alt="" coords="215,80,352,121"/>
-<area shape="rect" id="node4" href="$MetadataLoader_8cpp.html" title="lib/Bitcode/Reader\l/MetadataLoader.cpp" alt="" coords="377,80,521,121"/>
-<area shape="rect" id="node5" href="$AutoUpgrade_8cpp.html" title="lib/IR/AutoUpgrade.cpp" alt="" coords="545,87,704,114"/>
-<area shape="rect" id="node6" href="$LTO_8cpp.html" title="lib/LTO/LTO.cpp" alt="" coords="728,87,847,114"/>
-<area shape="rect" id="node7" href="$FunctionImport_8cpp.html" title="lib/Transforms/IPO\l/FunctionImport.cpp" alt="" coords="871,80,1010,121"/>
-</map>

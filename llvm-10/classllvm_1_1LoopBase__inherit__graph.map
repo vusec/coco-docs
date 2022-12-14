@@ -1,8 +1,0 @@
-<map id="llvm::LoopBase&lt; BlockT, LoopT &gt;" name="llvm::LoopBase&lt; BlockT, LoopT &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1LoopBase.html" title="llvm::LoopBase\&lt; MachineBasic\lBlock, MachineLoop \&gt;" alt="" coords="388,5,595,47"/>
-<area shape="rect" id="node4" href="$classllvm_1_1LoopBase.html" title="llvm::LoopBase\&lt; VPBlockBase,\l VPLoop \&gt;" alt="" coords="387,71,596,112"/>
-<area shape="rect" id="node6" href="$classllvm_1_1LoopBase.html" title="llvm::LoopBase\&lt; BasicBlock,\l Loop \&gt;" alt="" coords="394,136,589,177"/>
-<area shape="rect" id="node3" href="$classllvm_1_1MachineLoop.html" title="llvm::MachineLoop" alt="" coords="645,13,776,39"/>
-<area shape="rect" id="node5" href="$classllvm_1_1VPLoop.html" title="Hold analysis information for every loop detected by VPLoopInfo. " alt="" coords="661,78,761,105"/>
-<area shape="rect" id="node7" href="$classllvm_1_1Loop.html" title="Represents a single loop in the control flow graph. " alt="" coords="669,143,752,170"/>
-</map>

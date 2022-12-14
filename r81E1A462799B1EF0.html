@@ -1,0 +1,44 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"></meta><meta content="width=device-width, initial-scale=1" name="viewport"></meta><title>class iterator_adaptor_base: LLVM 10.0.0 documentation</title><link href="styles.css" rel="stylesheet"></link><script src="highlight.min.js"></script><script>hljs.highlightAll();</script><link href="katex.min.css" rel="stylesheet"></link><script src="katex.min.js"></script><script src="auto-render.min.js"></script><script>
+    document.addEventListener("DOMContentLoaded", function() {
+      renderMathInElement(document.body, {
+        delimiters: [
+          {left: '$$', right: '$$', display: true},
+          {left: '$', right: '$', display: false},
+        ],
+      });
+    });
+  </script><link href="apple-touch-icon.png" sizes="180x180" rel="apple-touch-icon"></link><link href="favicon-32x32.png" sizes="32x32" type="image/png" rel="icon"></link><link href="favicon-16x16.png" sizes="16x16" type="image/png" rel="icon"></link></head><body><div id="wrapper"><section class="section"><div class="container"><div class="columns"><aside class="column is-one-fifth"><ul class="menu-list"><p class="is-size-4">LLVM 10.0.0</p><p class="menu-label">Navigation</p><li><a href="index.html">Home</a></li><li><a href="search.html">Search</a></li><li><a href="https://github.com/llvm/llvm-project/">Repository</a></li><li><a href="https://hdoc.io">Made with hdoc</a></li><p class="menu-label">API Documentation</p><li><a href="functions.html">Functions</a></li><li><a href="records.html">Records</a></li><li><a href="enums.html">Enums</a></li><li><a href="namespaces.html">Namespaces</a></li></ul></aside><div class="column" style="overflow-x: auto"><nav class="breadcrumb has-arrow-separator" aria-label="breadcrumbs"><ul><li><a href="namespaces.html#00A4DA910CC17C2D"><span>namespace llvm</span></a></li><li class="is-active"><a aria-current="page81E1A462799B1EF0"><span>class iterator_adaptor_base</span></a></li></ul></nav><main class="content"><h1>class iterator_adaptor_base</h1><h2>Declaration</h2><pre class="p-0"><code class="hdoc-record-code language-cpp">template &lt;
+    typename DerivedT,
+    typename WrappedIteratorT,
+    typename IteratorCategoryT = typename std::iterator_traits&lt;
+        WrappedIteratorT&gt;::iterator_category,
+    typename T =
+        typename std::iterator_traits&lt;WrappedIteratorT&gt;::value_type,
+    typename DifferenceTypeT = typename std::iterator_traits&lt;
+        WrappedIteratorT&gt;::difference_type,
+    typename PointerT = typename std::conditional&lt;
+        std::is_same&lt;T,
+                     typename std::iterator_traits&lt;
+                         WrappedIteratorT&gt;::value_type&gt;::value,
+        typename std::iterator_traits&lt;WrappedIteratorT&gt;::pointer,
+        T*&gt;::type,
+    typename ReferenceT = typename std::conditional&lt;
+        std::is_same&lt;T,
+                     typename std::iterator_traits&lt;
+                         WrappedIteratorT&gt;::value_type&gt;::value,
+        typename std::iterator_traits&lt;WrappedIteratorT&gt;::reference,
+        T&amp;&gt;::type&gt;
+class iterator_adaptor_base { /* full declaration omitted */ };</code></pre><h2>Description</h2><p>CRTP base class for adapting an iterator to a different type. This class can be used through CRTP to adapt one iterator into another. Typically this is done through providing in the derived class a custom \c operator* implementation. Other methods can be overridden as well.</p><p>Declared at: <a class="is-family-code" href="https://github.com/llvm/llvm-project/blob/release/10.x/llvm/include/llvm/ADT/iterator.h#L205">llvm/include/llvm/ADT/iterator.h:205</a></p><h2>Templates</h2><dl><dt class="is-family-code"><b> DerivedT</b></dt><dt class="is-family-code"><b> WrappedIteratorT</b></dt><dt class="is-family-code"><b> IteratorCategoryT</b> = typename std::iterator_traits&lt;WrappedIteratorT&gt;::iterator_category</dt><dt class="is-family-code"><b> T</b> = typename std::iterator_traits&lt;WrappedIteratorT&gt;::value_type</dt><dt class="is-family-code"><b> DifferenceTypeT</b> = typename std::iterator_traits&lt;WrappedIteratorT&gt;::difference_type</dt><dt class="is-family-code"><b> PointerT</b> = typename std::conditional&lt;std::is_same&lt;T, typename std::iterator_traits&lt;WrappedIteratorT&gt;::value_type&gt;::value, typename std::iterator_traits&lt;WrappedIteratorT&gt;::pointer, T *&gt;::type</dt><dt class="is-family-code"><b> ReferenceT</b> = typename std::conditional&lt;std::is_same&lt;T, typename std::iterator_traits&lt;WrappedIteratorT&gt;::value_type&gt;::value, typename std::iterator_traits&lt;WrappedIteratorT&gt;::reference, T &amp;&gt;::type</dt></dl><h2>Member Variables</h2><dl><dt class="is-family-code" id="var_I">protected  WrappedIteratorT <b>I</b></dt></dl><h2>Method Overview</h2><ul><li class="is-family-code">protected  <a href="#734D157D169F85BE"><b>iterator_adaptor_base&lt;DerivedT, WrappedIteratorT, IteratorCategoryT, T, DifferenceTypeT, PointerT, ReferenceT&gt;</b></a>()</li><li class="is-family-code">protected  <a href="#8E78CBEA5EC940F3"><b>iterator_adaptor_base&lt;DerivedT, WrappedIteratorT, IteratorCategoryT, T, DifferenceTypeT, PointerT, ReferenceT&gt;</b></a>(WrappedIteratorT u)</li><li class="is-family-code">protected const WrappedIteratorT &amp;  <a href="#5D74B8C4C813DAF3"><b>wrapped</b></a>() const</li></ul><h2>Methods</h2><h3 id="734D157D169F85BE"><pre class="p-0 hdoc-pre-parent"><a class="hdoc-permalink-icon" href="#734D157D169F85BE">¶</a><code class="hdoc-function-code language-cpp">iterator_adaptor_base&lt;DerivedT,
+                      WrappedIteratorT,
+                      IteratorCategoryT,
+                      T,
+                      DifferenceTypeT,
+                      PointerT,
+                      ReferenceT&gt;()</code></pre></h3><p>Declared at: <a class="is-family-code" href="https://github.com/llvm/llvm-project/blob/release/10.x/llvm/include/llvm/ADT/iterator.h#L213">llvm/include/llvm/ADT/iterator.h:213</a></p><h3 id="8E78CBEA5EC940F3"><pre class="p-0 hdoc-pre-parent"><a class="hdoc-permalink-icon" href="#8E78CBEA5EC940F3">¶</a><code class="hdoc-function-code language-cpp">iterator_adaptor_base&lt;DerivedT,
+                      WrappedIteratorT,
+                      IteratorCategoryT,
+                      T,
+                      DifferenceTypeT,
+                      PointerT,
+                      ReferenceT&gt;(
+    WrappedIteratorT u)</code></pre></h3><p>Declared at: <a class="is-family-code" href="https://github.com/llvm/llvm-project/blob/release/10.x/llvm/include/llvm/ADT/iterator.h#L215">llvm/include/llvm/ADT/iterator.h:215</a></p><h4>Parameters</h4><dl><dt class="is-family-code">WrappedIteratorT<b> u</b></dt></dl><h3 id="5D74B8C4C813DAF3"><pre class="p-0 hdoc-pre-parent"><a class="hdoc-permalink-icon" href="#5D74B8C4C813DAF3">¶</a><code class="hdoc-function-code language-cpp">const WrappedIteratorT&amp; wrapped() const</code></pre></h3><p>Declared at: <a class="is-family-code" href="https://github.com/llvm/llvm-project/blob/release/10.x/llvm/include/llvm/ADT/iterator.h#L220">llvm/include/llvm/ADT/iterator.h:220</a></p></main></div></div></div></section></div><footer class="footer"><p>Documentation for LLVM 10.0.0.</p><p>Generated by <a href="https://hdoc.io/">hdoc</a> version 1.4.0-hdocInternal on 2022-12-14T09:44:14 UTC.</p><p class="has-text-grey-light">19AD43E11B2996</p></footer></body></html>

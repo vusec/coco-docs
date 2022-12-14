@@ -1,6 +1,0 @@
-<map id="llvm::IndirectBrInst::succ_op_iterator" name="llvm::IndirectBrInst::succ_op_iterator">
-<area shape="rect" id="node2" href="$classllvm_1_1iterator__adaptor__base.html" title="llvm::iterator_adaptor\l_base\&lt; succ_op_iterator,\l value_op_iterator, std\l::random_access_iterator\l_tag, BasicBlock *, ptrdiff\l_t, BasicBlock *, BasicBlock *\&gt;" alt="" coords="1172,77,1379,177"/>
-<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; succ_op_iterator,\l std::random_access_iterator\l_tag, BasicBlock *, ptrdiff\l_t, BasicBlock *, BasicBlock * \&gt;" alt="" coords="707,33,917,118"/>
-<area shape="rect" id="node5" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="267,121,491,192"/>
-<area shape="rect" id="node7" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type. " alt="" coords="685,143,939,213"/>
-</map>

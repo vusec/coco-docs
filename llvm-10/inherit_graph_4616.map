@@ -1,6 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structllvm_1_1remarks_1_1MetaSerializer.html" title="This is the base class for a remark metadata serializer. " alt="" coords="5,42,197,69"/>
-<area shape="rect" id="node2" href="$structllvm_1_1remarks_1_1BitstreamMetaSerializer.html" title="Serializer of metadata for bitstream remarks. " alt="" coords="277,5,442,47"/>
-<area shape="rect" id="node3" href="$structllvm_1_1remarks_1_1YAMLMetaSerializer.html" title="llvm::remarks::YAMLMetaSerializer" alt="" coords="245,71,473,98"/>
-<area shape="rect" id="node4" href="$structllvm_1_1remarks_1_1YAMLStrTabMetaSerializer.html" title="llvm::remarks::YAMLStrTab\lMetaSerializer" alt="" coords="521,64,705,105"/>
-</map>

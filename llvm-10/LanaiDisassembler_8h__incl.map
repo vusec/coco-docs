@@ -1,5 +1,0 @@
-<map id="lib/Target/Lanai/Disassembler/LanaiDisassembler.h" name="lib/Target/Lanai/Disassembler/LanaiDisassembler.h">
-<area shape="rect" id="node2" href="$MCDisassembler_8h.html" title="llvm/MC/MCDisassembler\l/MCDisassembler.h" alt="" coords="281,95,457,136"/>
-<area shape="rect" id="node3" href="$MCSymbolizer_8h.html" title="llvm/MC/MCDisassembler\l/MCSymbolizer.h" alt="" coords="156,184,332,225"/>
-<area shape="rect" id="node4" href="$MCRelocationInfo_8h.html" title="llvm/MC/MCDisassembler\l/MCRelocationInfo.h" alt="" coords="5,273,181,315"/>
-</map>

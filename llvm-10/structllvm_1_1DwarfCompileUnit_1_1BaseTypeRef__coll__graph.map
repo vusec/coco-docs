@@ -1,8 +1,0 @@
-<map id="llvm::DwarfCompileUnit::BaseTypeRef" name="llvm::DwarfCompileUnit::BaseTypeRef">
-<area shape="rect" id="node2" href="$classllvm_1_1DIE.html" title="A structured debug information entry. " alt="" coords="157,333,234,360"/>
-<area shape="rect" id="node3" href="$structllvm_1_1IntrusiveBackListNode.html" title="llvm::IntrusiveBackListNode" alt="" coords="11,257,198,284"/>
-<area shape="rect" id="node4" href="$classllvm_1_1PointerIntPair.html" title="llvm::PointerIntPair\l\&lt; llvm::IntrusiveBackListNode\l *, 1 \&gt;" alt="" coords="5,139,204,195"/>
-<area shape="rect" id="node5" href="$classllvm_1_1PointerIntPair.html" title="PointerIntPair &#45; This class implements a pair of a pointer and small integer. " alt="" coords="19,5,190,61"/>
-<area shape="rect" id="node6" href="$classllvm_1_1DIEValueList.html" title="A list of DIE values. " alt="" coords="222,257,353,284"/>
-<area shape="rect" id="node7" href="$classunsigned.html" title="unsigned" alt="" coords="258,333,333,360"/>
-</map>

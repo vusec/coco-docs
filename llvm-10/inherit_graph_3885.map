@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; EmitAndFinalize, Error\l(ObjHandleT)\&gt;" alt="" coords="5,5,171,61"/>
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1RemoteObjectLayerAPI_1_1EmitAndFinalize.html" title="llvm::orc::RemoteObjectLayer\lAPI::EmitAndFinalize" alt="" coords="219,13,415,54"/>
-</map>

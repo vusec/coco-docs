@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structllvm_1_1detail_1_1AnalysisPassConcept.html" title="llvm::detail::AnalysisPass\lConcept\&lt; IRUnitT, PreservedAnalyses\lT, InvalidatorT, ExtraArgTs... \&gt;" alt="" coords="5,13,256,69"/>
-<area shape="rect" id="node2" href="$structllvm_1_1detail_1_1AnalysisPassModel.html" title="Wrapper to model the analysis pass concept. " alt="" coords="304,5,519,76"/>
-</map>

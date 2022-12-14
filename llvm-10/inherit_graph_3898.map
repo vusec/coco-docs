@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; OrcRPCResponse, void()\&gt;" alt="" coords="5,20,196,61"/>
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1rpc_1_1detail_1_1RPCEndpointBase_1_1OrcRPCResponse.html" title="llvm::orc::rpc::detail\l::RPCEndpointBase\&lt; ImplT,\l ChannelT, FunctionIdT,\l SequenceNumberT \&gt;::OrcRPCResponse" alt="" coords="244,5,511,76"/>
-</map>

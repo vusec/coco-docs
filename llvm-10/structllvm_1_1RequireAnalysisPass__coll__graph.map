@@ -1,4 +1,0 @@
-<map id="llvm::RequireAnalysisPass&lt; AnalysisT, IRUnitT, AnalysisManagerT, ExtraArgTs &gt;" name="llvm::RequireAnalysisPass&lt; AnalysisT, IRUnitT, AnalysisManagerT, ExtraArgTs &gt;">
-<area shape="rect" id="node2" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; RequireAnalysisPass\l\&lt; AnalysisT, IRUnitT,\l AnalysisManagerT, ExtraArgTs... \&gt; \&gt;" alt="" coords="413,14,657,85"/>
-<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes. " alt="" coords="5,29,143,70"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="llvm::TargetLoweringBase::ArgListEntry" name="llvm::TargetLoweringBase::ArgListEntry">
-<area shape="rect" id="node2" href="$classllvm_1_1Type.html" title="The instances of the Type class are immutable: once they are created, they are never changed..." alt="" coords="5,197,88,224"/>
-<area shape="rect" id="node3" href="$classunsigned.html" title="unsigned" alt="" coords="119,5,193,32"/>
-<area shape="rect" id="node6" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="222,197,309,224"/>
-<area shape="rect" id="node4" href="$classllvm_1_1SDValue.html" title="Unlike LLVM values, Selection DAG nodes may return multiple values as the result of a computation..." alt="" coords="333,197,440,224"/>
-<area shape="rect" id="node5" href="$classuint16__t.html" title="uint16_t" alt="" coords="465,197,533,224"/>
-<area shape="rect" id="node7" href="$classbool.html" title="bool" alt="" coords="562,197,609,224"/>
-</map>

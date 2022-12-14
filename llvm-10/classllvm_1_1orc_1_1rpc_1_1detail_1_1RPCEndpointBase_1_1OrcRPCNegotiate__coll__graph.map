@@ -1,4 +1,0 @@
-<map id="llvm::orc::rpc::detail::RPCEndpointBase&lt; ImplT, ChannelT, FunctionIdT, SequenceNumberT &gt;::OrcRPCNegotiate" name="llvm::orc::rpc::detail::RPCEndpointBase&lt; ImplT, ChannelT, FunctionIdT, SequenceNumberT &gt;::OrcRPCNegotiate">
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; OrcRPCNegotiate, FunctionIdT\l(std::string)\&gt;" alt="" coords="29,124,246,180"/>
-<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; DerivedFunc, FnT \&gt;" alt="" coords="59,5,215,47"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="llvm::TargetMachineBuilder" name="llvm::TargetMachineBuilder">
-<area shape="rect" id="node2" href="$classllvm_1_1TargetOptions.html" title="llvm::TargetOptions" alt="" coords="758,441,894,468"/>
-<area shape="rect" id="node9" href="$classllvm_1_1MCTargetOptions.html" title="llvm::MCTargetOptions" alt="" coords="389,568,546,595"/>
-<area shape="rect" id="node13" href="$classbool.html" title="bool" alt="" coords="52,517,99,544"/>
-<area shape="rect" id="node16" href="$classunsigned.html" title="unsigned" alt="" coords="430,163,505,189"/>
-<area shape="rect" id="node18" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; Reloc\l::Model \&gt;" alt="" coords="752,774,900,815"/>
-<area shape="rect" id="node19" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; T \&gt;" alt="" coords="400,781,535,808"/>
-<area shape="rect" id="node21" href="$classllvm_1_1Triple.html" title="Triple &#45; Helper class for working with autoconf configuration names. " alt="" coords="783,891,869,917"/>
-</map>

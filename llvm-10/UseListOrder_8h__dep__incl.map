@@ -1,6 +1,0 @@
-<map id="include/llvm/IR/UseListOrder.h" name="include/llvm/IR/UseListOrder.h">
-<area shape="rect" id="node2" href="$ValueEnumerator_8h.html" title="lib/Bitcode/Writer\l/ValueEnumerator.h" alt="" coords="85,80,222,121"/>
-<area shape="rect" id="node3" href="$BitcodeWriter_8cpp.html" title="lib/Bitcode/Writer\l/BitcodeWriter.cpp" alt="" coords="5,169,136,211"/>
-<area shape="rect" id="node4" href="$ValueEnumerator_8cpp.html" title="lib/Bitcode/Writer\l/ValueEnumerator.cpp" alt="" coords="173,169,323,211"/>
-<area shape="rect" id="node5" href="$AsmWriter_8cpp.html" title="lib/IR/AsmWriter.cpp" alt="" coords="297,87,441,114"/>
-</map>

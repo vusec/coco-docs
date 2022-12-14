@@ -1,4 +1,0 @@
-<map id="llvm::SwitchInst::CaseHandle" name="llvm::SwitchInst::CaseHandle">
-<area shape="rect" id="node2" href="$classllvm_1_1SwitchInst_1_1CaseHandleImpl.html" title="llvm::SwitchInst::CaseHandle\lImpl\&lt; SwitchInst, ConstantInt,\l BasicBlock \&gt;" alt="" coords="13,139,215,195"/>
-<area shape="rect" id="node3" href="$classllvm_1_1SwitchInst_1_1CaseHandleImpl.html" title="A handle to a particular switch case. " alt="" coords="5,5,223,61"/>
-</map>

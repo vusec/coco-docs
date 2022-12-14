@@ -1,7 +1,0 @@
-<map id="llvm::MCRegisterInfo::mc_superreg_iterator" name="llvm::MCRegisterInfo::mc_superreg_iterator">
-<area shape="rect" id="node2" href="$classllvm_1_1MCRegisterInfo_1_1mc__difflist__iterator.html" title="llvm::MCRegisterInfo\l::mc_difflist_iterator\l\&lt; mc_superreg_iterator \&gt;" alt="" coords="1312,75,1480,131"/>
-<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; mc_difflist_iterator\l\&lt; mc_superreg_iterator \&gt;,\l std::forward_iterator_tag,\l MCPhysReg \&gt;" alt="" coords="729,23,905,109"/>
-<area shape="rect" id="node8" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; mc_difflist_iterator\l\&lt; SubT \&gt;, std::forward_iterator\l_tag, MCPhysReg \&gt;" alt="" coords="716,133,917,204"/>
-<area shape="rect" id="node5" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="271,129,495,200"/>
-<area shape="rect" id="node7" href="$classllvm_1_1MCRegisterInfo_1_1mc__difflist__iterator.html" title="Forward iterator using DiffListIterator. " alt="" coords="967,113,1113,169"/>
-</map>

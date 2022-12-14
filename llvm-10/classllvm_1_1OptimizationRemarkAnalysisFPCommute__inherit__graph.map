@@ -1,7 +1,0 @@
-<map id="llvm::OptimizationRemarkAnalysisFPCommute" name="llvm::OptimizationRemarkAnalysisFPCommute">
-<area shape="rect" id="node2" href="$classllvm_1_1OptimizationRemarkAnalysis.html" title="Diagnostic information for optimization analysis remarks. " alt="" coords="39,319,213,360"/>
-<area shape="rect" id="node3" href="$classllvm_1_1DiagnosticInfoIROptimization.html" title="Common features for diagnostics dealing with optimization remarks that are used by IR passes..." alt="" coords="13,244,239,271"/>
-<area shape="rect" id="node4" href="$classllvm_1_1DiagnosticInfoOptimizationBase.html" title="Common features for diagnostics dealing with optimization remarks that are used by both IR and MIR pa..." alt="" coords="5,169,247,196"/>
-<area shape="rect" id="node5" href="$classllvm_1_1DiagnosticInfoWithLocationBase.html" title="Common features for diagnostics with an associated location. " alt="" coords="43,80,209,121"/>
-<area shape="rect" id="node6" href="$classllvm_1_1DiagnosticInfo.html" title="This is the base abstract class for diagnostic reporting in the backend. " alt="" coords="57,5,195,32"/>
-</map>

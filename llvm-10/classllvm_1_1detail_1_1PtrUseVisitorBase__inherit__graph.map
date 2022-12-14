@@ -1,5 +1,0 @@
-<map id="llvm::detail::PtrUseVisitorBase" name="llvm::detail::PtrUseVisitorBase">
-<area shape="rect" id="node2" href="$classllvm_1_1PtrUseVisitor.html" title="A base class for visitors over the uses of a pointer value. " alt="" coords="5,81,137,123"/>
-<area shape="rect" id="node3" href="$classllvm_1_1PtrUseVisitor.html" title="llvm::PtrUseVisitor\l\&lt; SliceBuilder \&gt;" alt="" coords="57,185,189,227"/>
-<area shape="rect" id="node4" href="$classAllocaSlices_1_1SliceBuilder.html" title="Builder for the alloca slices. " alt="" coords="38,276,209,303"/>
-</map>

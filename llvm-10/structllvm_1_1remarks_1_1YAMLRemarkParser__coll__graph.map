@@ -1,8 +1,0 @@
-<map id="llvm::remarks::YAMLRemarkParser" name="llvm::remarks::YAMLRemarkParser">
-<area shape="rect" id="node2" href="$structllvm_1_1remarks_1_1RemarkParser.html" title="Parser used to parse a raw buffer to remarks::Remark objects. " alt="" coords="372,43,565,69"/>
-<area shape="rect" id="node5" href="$classllvm_1_1yaml_1_1Stream.html" title="This class represents a YAML stream potentially containing multiple documents. " alt="" coords="403,156,535,183"/>
-<area shape="rect" id="node6" href="$classllvm_1_1yaml_1_1document__iterator.html" title="Iterator abstraction for Documents over a Stream. " alt="" coords="395,207,542,249"/>
-<area shape="rect" id="node7" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; llvm\l::remarks::ParsedStringTable \&gt;" alt="" coords="367,273,571,314"/>
-<area shape="rect" id="node8" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; T \&gt;" alt="" coords="5,280,140,307"/>
-<area shape="rect" id="node9" href="$classllvm_1_1SourceMgr.html" title="This owns the files read by a parser, handles include stacks, and handles diagnostic wrangling..." alt="" coords="410,339,527,365"/>
-</map>

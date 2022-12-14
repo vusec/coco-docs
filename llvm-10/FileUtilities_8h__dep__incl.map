@@ -1,6 +1,0 @@
-<map id="include/llvm/Support/FileUtilities.h" name="include/llvm/Support/FileUtilities.h">
-<area shape="rect" id="node2" href="$ThinLTOCodeGenerator_8cpp.html" title="lib/LTO/ThinLTOCodeGenerator.cpp" alt="" coords="5,95,236,121"/>
-<area shape="rect" id="node3" href="$FileUtilities_8cpp.html" title="lib/Support/FileUtilities.cpp" alt="" coords="261,95,439,121"/>
-<area shape="rect" id="node4" href="$Signals_8cpp.html" title="lib/Support/Signals.cpp" alt="" coords="463,169,619,196"/>
-<area shape="rect" id="node5" href="$Unix_2Signals_8inc.html" title="lib/Support/Unix/Signals.inc" alt="" coords="515,95,697,121"/>
-</map>

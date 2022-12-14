@@ -1,5 +1,0 @@
-<map id="llvm::ValueAsMetadata" name="llvm::ValueAsMetadata">
-<area shape="rect" id="node2" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy. " alt="" coords="5,139,113,165"/>
-<area shape="rect" id="node3" href="$classunsigned.html" title="unsigned" alt="" coords="22,5,97,32"/>
-<area shape="rect" id="node4" href="$classllvm_1_1ReplaceableMetadataImpl.html" title="Shared implementation of use&#45;lists for replaceable metadata. " alt="" coords="138,139,343,165"/>
-</map>

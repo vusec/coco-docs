@@ -1,4 +1,0 @@
-<map id="llvm::StatisticBase" name="llvm::StatisticBase">
-<area shape="rect" id="node2" href="$classllvm_1_1NoopStatistic.html" title="llvm::NoopStatistic" alt="" coords="5,80,139,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1TrackingStatistic.html" title="llvm::TrackingStatistic" alt="" coords="163,80,315,107"/>
-</map>

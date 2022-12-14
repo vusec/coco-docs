@@ -1,4 +1,0 @@
-<map id="llvm::orc::IndirectStubsManager" name="llvm::orc::IndirectStubsManager">
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1LocalIndirectStubsManager.html" title="IndirectStubsManager implementation for the host architecture, e.g. " alt="" coords="225,5,399,47"/>
-<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1remote_1_1OrcRemoteTargetClient_1_1RemoteIndirectStubsManager.html" title="Remote indirect stubs manager. " alt="" coords="211,71,413,127"/>
-</map>

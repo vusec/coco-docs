@@ -1,5 +1,0 @@
-<map id="llvm::pdb::HashTable&lt; ValueT &gt;" name="llvm::pdb::HashTable&lt; ValueT &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1pdb_1_1HashTable.html" title="llvm::pdb::HashTable\l\&lt; llvm::pdb::SrcHeaderBlock\lEntry \&gt;" alt="" coords="373,5,564,61"/>
-<area shape="rect" id="node3" href="$classllvm_1_1pdb_1_1HashTable.html" title="llvm::pdb::HashTable\l\&lt; SrcHeaderBlockEntry \&gt;" alt="" coords="383,86,555,127"/>
-<area shape="rect" id="node4" href="$classllvm_1_1pdb_1_1HashTable.html" title="llvm::pdb::HashTable\l\&lt; llvm::support::detail\l::packed_endian_specific\l_integral \&gt;" alt="" coords="384,151,553,222"/>
-</map>

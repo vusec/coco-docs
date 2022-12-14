@@ -1,4 +1,0 @@
-<map id="lib/Target/WebAssembly/WebAssemblyAsmPrinter.h" name="lib/Target/WebAssembly/WebAssemblyAsmPrinter.h">
-<area shape="rect" id="node2" href="$WebAssemblyAsmPrinter_8cpp.html" title="This file contains a printer that converts from our internal representation of machine&#45;dependent LLVM..." alt="" coords="5,95,207,136"/>
-<area shape="rect" id="node3" href="$WebAssemblyMCInstLower_8cpp.html" title="This file contains code to lower WebAssembly MachineInstrs to their corresponding MCInst records..." alt="" coords="231,95,445,136"/>
-</map>

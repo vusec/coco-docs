@@ -1,4 +1,0 @@
-<map id="llvm::UnrolledInstAnalyzer" name="llvm::UnrolledInstAnalyzer">
-<area shape="rect" id="node2" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l UnrolledInstAnalyzer,\l bool \&gt;" alt="" coords="17,124,168,180"/>
-<area shape="rect" id="node3" href="$classllvm_1_1InstVisitor.html" title="Base class for instruction visitors. " alt="" coords="23,5,162,47"/>
-</map>

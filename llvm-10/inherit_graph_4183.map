@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; RequireAnalysisPass\l\&lt; AnalysisT, IRUnitT,\l AnalysisManagerT, ExtraArgTs... \&gt; \&gt;" alt="" coords="5,5,249,76"/>
-<area shape="rect" id="node2" href="$structllvm_1_1RequireAnalysisPass.html" title="A utility pass template to force an analysis result to be available. " alt="" coords="297,13,501,69"/>
-</map>

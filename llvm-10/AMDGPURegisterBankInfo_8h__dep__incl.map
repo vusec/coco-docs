@@ -1,6 +1,0 @@
-<map id="lib/Target/AMDGPU/AMDGPURegisterBankInfo.h" name="lib/Target/AMDGPU/AMDGPURegisterBankInfo.h">
-<area shape="rect" id="node2" href="$AMDGPUInstructionSelector_8cpp.html" title="This file implements the targeting of the InstructionSelector class for AMDGPU. " alt="" coords="5,95,268,136"/>
-<area shape="rect" id="node3" href="$AMDGPURegisterBankInfo_8cpp.html" title="This file implements the targeting of the RegisterBankInfo class for AMDGPU. " alt="" coords="293,95,543,136"/>
-<area shape="rect" id="node4" href="$AMDGPUSubtarget_8cpp.html" title="Implements the AMDGPU specific subclass of TargetSubtarget. " alt="" coords="567,102,850,129"/>
-<area shape="rect" id="node5" href="$SIRegisterInfo_8cpp.html" title="SI implementation of the TargetRegisterInfo class. " alt="" coords="874,95,1079,136"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="include/llvm/DebugInfo/PDB/IPDBDataStream.h" name="include/llvm/DebugInfo/PDB/IPDBDataStream.h">
-<area shape="rect" id="node2" href="$DIADataStream_8h.html" title="include/llvm/DebugInfo\l/PDB/DIA/DIADataStream.h" alt="" coords="71,95,261,136"/>
-<area shape="rect" id="node5" href="$DIAEnumDebugStreams_8h.html" title="include/llvm/DebugInfo\l/PDB/DIA/DIAEnumDebugStreams.h" alt="" coords="285,95,525,136"/>
-<area shape="rect" id="node7" href="$PDBInterfaceAnchors_8cpp.html" title="lib/DebugInfo/PDB/PDBInterface\lAnchors.cpp" alt="" coords="549,95,764,136"/>
-<area shape="rect" id="node3" href="$DIADataStream_8cpp.html" title="lib/DebugInfo/PDB/DIA\l/DIADataStream.cpp" alt="" coords="5,184,164,225"/>
-<area shape="rect" id="node4" href="$DIAEnumDebugStreams_8cpp.html" title="lib/DebugInfo/PDB/DIA\l/DIAEnumDebugStreams.cpp" alt="" coords="189,184,383,225"/>
-<area shape="rect" id="node6" href="$DIASession_8cpp.html" title="lib/DebugInfo/PDB/DIA\l/DIASession.cpp" alt="" coords="408,184,567,225"/>
-</map>

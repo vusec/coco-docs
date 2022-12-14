@@ -1,4 +1,0 @@
-<map id="llvm::SCEVWrapPredicate" name="llvm::SCEVWrapPredicate">
-<area shape="rect" id="node2" href="$classllvm_1_1SCEVPredicate.html" title="This class represents an assumption made using SCEV expressions which can be checked at run&#45;time..." alt="" coords="65,95,212,121"/>
-<area shape="rect" id="node3" href="$classllvm_1_1FoldingSetBase_1_1Node.html" title="Node &#45; This class is used to maintain the singly linked bucket list in a folding set. " alt="" coords="5,5,120,32"/>
-</map>

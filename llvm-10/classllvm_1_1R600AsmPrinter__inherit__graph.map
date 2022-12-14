@@ -1,6 +1,0 @@
-<map id="llvm::R600AsmPrinter" name="llvm::R600AsmPrinter">
-<area shape="rect" id="node2" href="$classllvm_1_1AsmPrinter.html" title="This class is intended to be used as a driving class for all asm writers. " alt="" coords="37,229,156,256"/>
-<area shape="rect" id="node3" href="$classllvm_1_1MachineFunctionPass.html" title="MachineFunctionPass &#45; This class adapts the FunctionPass interface to allow convenient creation of pa..." alt="" coords="5,155,188,181"/>
-<area shape="rect" id="node4" href="$classllvm_1_1FunctionPass.html" title="FunctionPass class &#45; This class is used to implement most global optimizations. " alt="" coords="29,80,164,107"/>
-<area shape="rect" id="node5" href="$classllvm_1_1Pass.html" title="Pass interface &#45; Implemented by all &#39;passes&#39;. " alt="" coords="55,5,139,32"/>
-</map>

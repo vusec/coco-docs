@@ -1,5 +1,0 @@
-<map id="llvm::yaml::UnsignedValue" name="llvm::yaml::UnsignedValue">
-<area shape="rect" id="node2" href="$classllvm_1_1SMRange.html" title="Represents a range in source code. " alt="" coords="5,109,117,136"/>
-<area shape="rect" id="node3" href="$classllvm_1_1SMLoc.html" title="Represents a location in source code. " alt="" coords="14,5,109,32"/>
-<area shape="rect" id="node4" href="$classunsigned.html" title="unsigned" alt="" coords="141,109,216,136"/>
-</map>

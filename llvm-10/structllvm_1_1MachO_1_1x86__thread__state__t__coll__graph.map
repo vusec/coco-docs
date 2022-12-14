@@ -1,6 +1,0 @@
-<map id="llvm::MachO::x86_thread_state_t" name="llvm::MachO::x86_thread_state_t">
-<area shape="rect" id="node2" href="$structllvm_1_1MachO_1_1x86__thread__state64__t.html" title="llvm::MachO::x86_thread\l_state64_t" alt="" coords="159,189,327,230"/>
-<area shape="rect" id="node4" href="$structllvm_1_1MachO_1_1x86__thread__state32__t.html" title="llvm::MachO::x86_thread\l_state32_t" alt="" coords="159,314,327,355"/>
-<area shape="rect" id="node5" href="$classuint32__t.html" title="uint32_t" alt="" coords="5,356,73,383"/>
-<area shape="rect" id="node7" href="$structllvm_1_1MachO_1_1x86__state__hdr__t.html" title="llvm::MachO::x86_state\l_hdr_t" alt="" coords="162,379,323,421"/>
-</map>

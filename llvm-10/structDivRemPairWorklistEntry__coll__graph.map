@@ -1,5 +1,0 @@
-<map id="DivRemPairWorklistEntry" name="DivRemPairWorklistEntry">
-<area shape="rect" id="node2" href="$classllvm_1_1AssertingVH.html" title="llvm::AssertingVH\&lt;\l Instruction \&gt;" alt="" coords="23,185,159,227"/>
-<area shape="rect" id="node3" href="$classllvm_1_1ValueHandleBase.html" title="This is the common base class of value handles. " alt="" coords="7,5,165,32"/>
-<area shape="rect" id="node4" href="$classllvm_1_1AssertingVH.html" title="Value handle that asserts if the Value is deleted. " alt="" coords="107,81,243,123"/>
-</map>

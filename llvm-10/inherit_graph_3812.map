@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1orc_1_1ObjectLinkingLayer_1_1Plugin.html" title="Plugin instances can be added to the ObjectLinkingLayer to receive callbacks when code is loaded or e..." alt="" coords="5,5,164,47"/>
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1EHFrameRegistrationPlugin.html" title="llvm::orc::EHFrameRegistration\lPlugin" alt="" coords="212,5,419,47"/>
-</map>

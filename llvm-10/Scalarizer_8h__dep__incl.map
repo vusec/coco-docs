@@ -1,6 +1,0 @@
-<map id="include/llvm/Transforms/Scalar/Scalarizer.h" name="include/llvm/Transforms/Scalar/Scalarizer.h">
-<area shape="rect" id="node2" href="$LinkAllPasses_8h.html" title="include/llvm/LinkAllPasses.h" alt="" coords="5,102,195,129"/>
-<area shape="rect" id="node3" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="219,102,402,129"/>
-<area shape="rect" id="node4" href="$Scalar_8cpp.html" title="lib/Transforms/Scalar\l/Scalar.cpp" alt="" coords="427,95,573,136"/>
-<area shape="rect" id="node5" href="$Scalarizer_8cpp.html" title="lib/Transforms/Scalar\l/Scalarizer.cpp" alt="" coords="597,95,744,136"/>
-</map>

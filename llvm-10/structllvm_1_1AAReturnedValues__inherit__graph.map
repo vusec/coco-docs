@@ -1,7 +1,0 @@
-<map id="llvm::AAReturnedValues" name="llvm::AAReturnedValues">
-<area shape="rect" id="node2" href="$structllvm_1_1IRAttribute.html" title="llvm::IRAttribute\&lt;\l Attribute::Returned,\l AbstractAttribute \&gt;" alt="" coords="93,200,233,256"/>
-<area shape="rect" id="node3" href="$structllvm_1_1IRPosition.html" title="} " alt="" coords="5,5,120,32"/>
-<area shape="rect" id="node5" href="$structllvm_1_1IRAttribute.html" title="Helper class that provides common functionality to manifest IR attributes. " alt="" coords="100,81,225,123"/>
-<area shape="rect" id="node4" href="$structllvm_1_1AbstractAttribute.html" title="Base struct for all &quot;concrete attribute&quot; deductions. " alt="" coords="249,89,401,115"/>
-<area shape="rect" id="node6" href="$classllvm_1_1Base.html" title="Base" alt="" coords="145,5,197,32"/>
-</map>

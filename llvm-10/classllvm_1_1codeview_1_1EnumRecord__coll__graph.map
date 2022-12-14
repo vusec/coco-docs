@@ -1,9 +1,0 @@
-<map id="llvm::codeview::EnumRecord" name="llvm::codeview::EnumRecord">
-<area shape="rect" id="node2" href="$classllvm_1_1codeview_1_1TagRecord.html" title="llvm::codeview::TagRecord" alt="" coords="409,272,590,299"/>
-<area shape="rect" id="node3" href="$classllvm_1_1codeview_1_1TypeRecord.html" title="llvm::codeview::TypeRecord" alt="" coords="5,139,193,165"/>
-<area shape="rect" id="node5" href="$classuint16__t.html" title="uint16_t" alt="" coords="217,139,285,165"/>
-<area shape="rect" id="node8" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e. " alt="" coords="542,139,651,165"/>
-<area shape="rect" id="node9" href="$classsize__t.html" title="size_t" alt="" coords="568,5,625,32"/>
-<area shape="rect" id="node10" href="$classllvm_1_1codeview_1_1TypeIndex.html" title="A 32&#45;bit type reference. " alt="" coords="675,139,854,165"/>
-<area shape="rect" id="node11" href="$classuint32__t.html" title="uint32_t" alt="" coords="731,5,799,32"/>
-</map>

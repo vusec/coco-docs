@@ -1,6 +1,0 @@
-<map id="llvm::GCNIterativeScheduler" name="llvm::GCNIterativeScheduler">
-<area shape="rect" id="node2" href="$classllvm_1_1ScheduleDAGMILive.html" title="ScheduleDAGMILive is an implementation of ScheduleDAGInstrs that schedules machine instructions while..." alt="" coords="12,229,188,256"/>
-<area shape="rect" id="node3" href="$classllvm_1_1ScheduleDAGMI.html" title="ScheduleDAGMI is an implementation of ScheduleDAGInstrs that simply schedules machine instructions ac..." alt="" coords="24,155,176,181"/>
-<area shape="rect" id="node4" href="$classllvm_1_1ScheduleDAGInstrs.html" title="A ScheduleDAG for scheduling lists of MachineInstr. " alt="" coords="15,80,185,107"/>
-<area shape="rect" id="node5" href="$classllvm_1_1ScheduleDAG.html" title="llvm::ScheduleDAG" alt="" coords="31,5,169,32"/>
-</map>

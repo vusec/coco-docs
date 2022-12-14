@@ -1,4 +1,0 @@
-<map id="llvm::orc::remote::utils::GetRemoteInfo" name="llvm::orc::remote::utils::GetRemoteInfo">
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; GetRemoteInfo, std::tuple\l\&lt; std::string, uint32_t, uint32\l_t, uint32_t, uint32_t \&gt;()\&gt;" alt="" coords="357,29,547,99"/>
-<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; DerivedFunc, FnT \&gt;" alt="" coords="5,43,161,85"/>
-</map>

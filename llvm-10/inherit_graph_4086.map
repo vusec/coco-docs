@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; InvalidateAnalysisPass\l\&lt; AnalysisT \&gt; \&gt;" alt="" coords="5,5,176,61"/>
-<area shape="rect" id="node2" href="$structllvm_1_1InvalidateAnalysisPass.html" title="A no&#45;op pass template which simply forces a specific analysis result to be invalidated. " alt="" coords="224,13,384,54"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="llvm::detail::enumerator_iter&lt; R &gt;" name="llvm::detail::enumerator_iter&lt; R &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; enumerator_iter\l\&lt; R \&gt;, std::forward_iterator\l_tag, result_pair\&lt; R \&gt;, std\l::iterator_traits\&lt; IterOfRange\l\&lt; R \&gt; \&gt;::difference_type, std\l::iterator_traits\&lt; IterOfRange\l\&lt; R \&gt; \&gt;::pointer, std::iterator\l_traits\&lt; IterOfRange\&lt; R \&gt; \&gt;::reference \&gt;" alt="" coords="816,67,1077,211"/>
-<area shape="rect" id="node4" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="285,172,509,243"/>
-</map>

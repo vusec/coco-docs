@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structllvm_1_1SelectionDAG_1_1DAGUpdateListener.html" title="Clients of various APIs that cause global effects on the DAG can optionally implement this interface..." alt="" coords="5,5,152,47"/>
-<area shape="rect" id="node2" href="$structllvm_1_1SelectionDAG_1_1DAGNodeDeletedListener.html" title="llvm::SelectionDAG\l::DAGNodeDeletedListener" alt="" coords="200,5,381,47"/>
-</map>

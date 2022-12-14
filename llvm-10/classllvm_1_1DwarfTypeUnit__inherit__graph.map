@@ -1,4 +1,0 @@
-<map id="llvm::DwarfTypeUnit" name="llvm::DwarfTypeUnit">
-<area shape="rect" id="node2" href="$classllvm_1_1DwarfUnit.html" title="This dwarf writer support class manages information associated with a source file. " alt="" coords="20,80,133,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1DIEUnit.html" title="Represents a compile or type unit. " alt="" coords="26,5,127,32"/>
-</map>

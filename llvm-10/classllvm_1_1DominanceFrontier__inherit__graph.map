@@ -1,7 +1,0 @@
-<map id="llvm::DominanceFrontier" name="llvm::DominanceFrontier">
-<area shape="rect" id="node2" href="$classllvm_1_1ForwardDominanceFrontierBase.html" title="llvm::ForwardDominanceFrontier\lBase\&lt; BasicBlock \&gt;" alt="" coords="1169,29,1380,71"/>
-<area shape="rect" id="node3" href="$classllvm_1_1DominanceFrontierBase.html" title="llvm::DominanceFrontierBase\l\&lt; BasicBlock, false \&gt;" alt="" coords="597,5,792,47"/>
-<area shape="rect" id="node4" href="$classllvm_1_1DominanceFrontierBase.html" title="DominanceFrontierBase &#45; Common base class for computing forward and inverse dominance frontiers for a..." alt="" coords="5,35,200,76"/>
-<area shape="rect" id="node6" href="$classllvm_1_1DominanceFrontierBase.html" title="llvm::DominanceFrontierBase\l\&lt; BlockT, false \&gt;" alt="" coords="379,64,573,105"/>
-<area shape="rect" id="node5" href="$classllvm_1_1ForwardDominanceFrontierBase.html" title="DominanceFrontier Class &#45; Concrete subclass of DominanceFrontierBase that is used to compute a forwar..." alt="" coords="816,64,1027,105"/>
-</map>

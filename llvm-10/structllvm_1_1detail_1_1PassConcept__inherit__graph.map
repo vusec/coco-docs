@@ -1,4 +1,0 @@
-<map id="llvm::detail::PassConcept&lt; IRUnitT, AnalysisManagerT, ExtraArgTs &gt;" name="llvm::detail::PassConcept&lt; IRUnitT, AnalysisManagerT, ExtraArgTs &gt;">
-<area shape="rect" id="node2" href="$structllvm_1_1detail_1_1PassConcept.html" title="llvm::detail::PassConcept\l\&lt; IRUnitT, AnalysisManagerT,\l ExtraArgTs... \&gt;" alt="" coords="424,7,624,63"/>
-<area shape="rect" id="node3" href="$structllvm_1_1detail_1_1PassModel.html" title="A template wrapper used to implement the polymorphic API. " alt="" coords="673,7,920,63"/>
-</map>

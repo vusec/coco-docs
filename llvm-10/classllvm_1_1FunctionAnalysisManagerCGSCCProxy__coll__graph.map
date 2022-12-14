@@ -1,6 +1,0 @@
-<map id="llvm::FunctionAnalysisManagerCGSCCProxy" name="llvm::FunctionAnalysisManagerCGSCCProxy">
-<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title="llvm::AnalysisInfoMixin\l\&lt; FunctionAnalysisManagerCGSCCProxy \&gt;" alt="" coords="851,36,1129,77"/>
-<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; FunctionAnalysisManagerCGSCCProxy \&gt;" alt="" coords="357,5,636,47"/>
-<area shape="rect" id="node4" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes. " alt="" coords="5,39,143,80"/>
-<area shape="rect" id="node5" href="$structllvm_1_1AnalysisInfoMixin.html" title="A CRTP mix&#45;in that provides informational APIs needed for analysis passes. " alt="" coords="418,71,575,112"/>
-</map>

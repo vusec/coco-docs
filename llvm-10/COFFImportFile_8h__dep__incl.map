@@ -1,7 +1,0 @@
-<map id="include/llvm/Object/COFFImportFile.h" name="include/llvm/Object/COFFImportFile.h">
-<area shape="rect" id="node2" href="$COFFModuleDefinition_8h.html" title="include/llvm/Object\l/COFFModuleDefinition.h" alt="" coords="157,95,327,136"/>
-<area shape="rect" id="node3" href="$COFFModuleDefinition_8cpp.html" title="lib/Object/COFFModuleDefinition.cpp" alt="" coords="5,191,244,218"/>
-<area shape="rect" id="node4" href="$DlltoolDriver_8cpp.html" title="lib/ToolDrivers/llvm\l&#45;dlltool/DlltoolDriver.cpp" alt="" coords="279,184,440,225"/>
-<area shape="rect" id="node5" href="$COFFImportFile_8cpp.html" title="lib/Object/COFFImportFile.cpp" alt="" coords="402,102,602,129"/>
-<area shape="rect" id="node6" href="$SymbolicFile_8cpp.html" title="lib/Object/SymbolicFile.cpp" alt="" coords="626,102,807,129"/>
-</map>

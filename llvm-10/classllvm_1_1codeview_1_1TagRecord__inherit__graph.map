@@ -1,6 +1,0 @@
-<map id="llvm::codeview::TagRecord" name="llvm::codeview::TagRecord">
-<area shape="rect" id="node3" href="$classllvm_1_1codeview_1_1ClassRecord.html" title="llvm::codeview::ClassRecord" alt="" coords="5,155,199,181"/>
-<area shape="rect" id="node4" href="$classllvm_1_1codeview_1_1EnumRecord.html" title="llvm::codeview::EnumRecord" alt="" coords="223,155,416,181"/>
-<area shape="rect" id="node5" href="$structllvm_1_1codeview_1_1UnionRecord.html" title="llvm::codeview::UnionRecord" alt="" coords="440,155,633,181"/>
-<area shape="rect" id="node2" href="$classllvm_1_1codeview_1_1TypeRecord.html" title="llvm::codeview::TypeRecord" alt="" coords="225,5,413,32"/>
-</map>

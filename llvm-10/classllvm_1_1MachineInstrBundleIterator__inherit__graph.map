@@ -1,5 +1,0 @@
-<map id="llvm::MachineInstrBundleIterator&lt; Ty, IsReverse &gt;" name="llvm::MachineInstrBundleIterator&lt; Ty, IsReverse &gt;">
-<area shape="rect" id="node3" href="$classllvm_1_1MachineInstrBundleIterator.html" title="llvm::MachineInstrBundle\lIterator\&lt; MachineInstr \&gt;" alt="" coords="613,5,783,47"/>
-<area shape="rect" id="node4" href="$classllvm_1_1MachineInstrBundleIterator.html" title="llvm::MachineInstrBundle\lIterator\&lt; const MachineInstr \&gt;" alt="" coords="599,71,797,112"/>
-<area shape="rect" id="node2" href="$structllvm_1_1MachineInstrBundleIteratorHelper.html" title="llvm::MachineInstrBundle\lIteratorHelper\&lt; IsReverse \&gt;" alt="" coords="5,39,191,80"/>
-</map>

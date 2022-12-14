@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1orc_1_1rpc_1_1detail_1_1ResponseHandler.html" title="llvm::orc::rpc::detail\l::ResponseHandler\&lt; ChannelT \&gt;" alt="" coords="5,137,220,178"/>
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1rpc_1_1detail_1_1ResponseHandlerImpl.html" title="llvm::orc::rpc::detail\l::ResponseHandlerImpl\l\&lt; ChannelT, FuncRetT, HandlerT \&gt;" alt="" coords="268,5,497,61"/>
-<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1rpc_1_1detail_1_1ResponseHandlerImpl_3_01ChannelT_00_01Error_00_01HandlerT_01_4.html" title="llvm::orc::rpc::detail\l::ResponseHandlerImpl\l\&lt; ChannelT, Error, HandlerT \&gt;" alt="" coords="283,85,482,141"/>
-<area shape="rect" id="node4" href="$classllvm_1_1orc_1_1rpc_1_1detail_1_1ResponseHandlerImpl_3_01ChannelT_00_01Expected_3_01FuncRetT_01_4_00_01HandlerT_01_4.html" title="llvm::orc::rpc::detail\l::ResponseHandlerImpl\l\&lt; ChannelT, Expected\&lt; FuncRetT\l \&gt;, HandlerT \&gt;" alt="" coords="271,166,494,237"/>
-<area shape="rect" id="node5" href="$classllvm_1_1orc_1_1rpc_1_1detail_1_1ResponseHandlerImpl_3_01ChannelT_00_01void_00_01HandlerT_01_4.html" title="llvm::orc::rpc::detail\l::ResponseHandlerImpl\l\&lt; ChannelT, void, HandlerT \&gt;" alt="" coords="285,261,480,317"/>
-</map>

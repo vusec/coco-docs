@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; BoundsCheckingPass \&gt;" alt="" coords="5,5,180,47"/>
-<area shape="rect" id="node2" href="$structllvm_1_1BoundsCheckingPass.html" title="A pass to instrument code and perform run&#45;time bounds checking on loads, stores, and other memory int..." alt="" coords="228,13,411,39"/>
-</map>

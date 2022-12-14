@@ -1,4 +1,0 @@
-<map id="llvm::orc::SymbolAliasMapEntry" name="llvm::orc::SymbolAliasMapEntry">
-<area shape="rect" id="node2" href="$classllvm_1_1JITSymbolFlags.html" title="Flags for symbols in the JIT. " alt="" coords="5,5,155,32"/>
-<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1SymbolStringPtr.html" title="Pointer to a pooled string representing a symbol name. " alt="" coords="179,5,354,32"/>
-</map>

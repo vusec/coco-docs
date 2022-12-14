@@ -1,6 +1,0 @@
-<map id="llvm::OverlapStats" name="llvm::OverlapStats">
-<area shape="rect" id="node5" href="$structllvm_1_1CountSumOrPercent.html" title="llvm::CountSumOrPercent" alt="" coords="273,109,448,136"/>
-<area shape="rect" id="node7" href="$classbool.html" title="bool" alt="" coords="559,109,605,136"/>
-<area shape="rect" id="node8" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e. " alt="" coords="630,109,739,136"/>
-<area shape="rect" id="node9" href="$classsize__t.html" title="size_t" alt="" coords="656,5,713,32"/>
-</map>

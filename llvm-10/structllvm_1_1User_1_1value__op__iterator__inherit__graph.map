@@ -1,6 +1,0 @@
-<map id="llvm::User::value_op_iterator" name="llvm::User::value_op_iterator">
-<area shape="rect" id="node2" href="$classllvm_1_1iterator__adaptor__base.html" title="llvm::iterator_adaptor\l_base\&lt; value_op_iterator,\l op_iterator, std::random\l_access_iterator_tag, Value\l *, ptrdiff_t, Value *, Value *\&gt;" alt="" coords="1132,85,1323,170"/>
-<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; value_op_iterator,\l std::random_access_iterator\l_tag, Value *, ptrdiff_t, Value\l *, Value * \&gt;" alt="" coords="693,33,883,118"/>
-<area shape="rect" id="node5" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="267,121,491,192"/>
-<area shape="rect" id="node7" href="$classllvm_1_1iterator__adaptor__base.html" title="CRTP base class for adapting an iterator to a different type. " alt="" coords="661,143,915,213"/>
-</map>

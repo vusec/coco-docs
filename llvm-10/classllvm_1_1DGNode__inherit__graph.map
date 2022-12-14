@@ -1,6 +1,0 @@
-<map id="llvm::DGNode&lt; NodeType, EdgeType &gt;" name="llvm::DGNode&lt; NodeType, EdgeType &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1DDGNode.html" title="Data Dependence Graph Node The graph can represent the following types of nodes: " alt="" coords="165,95,357,136"/>
-<area shape="rect" id="node3" href="$classllvm_1_1PiBlockDDGNode.html" title="Subclass of DDGNode representing a pi&#45;block. " alt="" coords="5,184,165,211"/>
-<area shape="rect" id="node4" href="$classllvm_1_1RootDDGNode.html" title="Subclass of DDGNode representing the root node of the graph. " alt="" coords="190,184,333,211"/>
-<area shape="rect" id="node5" href="$classllvm_1_1SimpleDDGNode.html" title="Subclass of DDGNode representing single or multi&#45;instruction nodes. " alt="" coords="357,184,512,211"/>
-</map>

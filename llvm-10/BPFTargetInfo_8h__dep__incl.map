@@ -1,8 +1,0 @@
-<map id="lib/Target/BPF/TargetInfo/BPFTargetInfo.h" name="lib/Target/BPF/TargetInfo/BPFTargetInfo.h">
-<area shape="rect" id="node2" href="$BPFAsmParser_8cpp.html" title="lib/Target/BPF/AsmParser\l/BPFAsmParser.cpp" alt="" coords="5,95,180,136"/>
-<area shape="rect" id="node3" href="$BPFAsmPrinter_8cpp.html" title="lib/Target/BPF/BPFAsmPrinter.cpp" alt="" coords="205,102,431,129"/>
-<area shape="rect" id="node4" href="$BPFTargetMachine_8cpp.html" title="lib/Target/BPF/BPFTarget\lMachine.cpp" alt="" coords="455,95,629,136"/>
-<area shape="rect" id="node5" href="$BPFDisassembler_8cpp.html" title="lib/Target/BPF/Disassembler\l/BPFDisassembler.cpp" alt="" coords="653,95,844,136"/>
-<area shape="rect" id="node6" href="$BPFMCTargetDesc_8cpp.html" title="lib/Target/BPF/MCTargetDesc\l/BPFMCTargetDesc.cpp" alt="" coords="868,95,1067,136"/>
-<area shape="rect" id="node7" href="$BPFTargetInfo_8cpp.html" title="lib/Target/BPF/TargetInfo\l/BPFTargetInfo.cpp" alt="" coords="1091,95,1260,136"/>
-</map>

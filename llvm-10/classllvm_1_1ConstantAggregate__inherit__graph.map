@@ -1,8 +1,0 @@
-<map id="llvm::ConstantAggregate" name="llvm::ConstantAggregate">
-<area shape="rect" id="node5" href="$classllvm_1_1ConstantArray.html" title="ConstantArray &#45; Constant Array Declarations. " alt="" coords="5,304,144,331"/>
-<area shape="rect" id="node6" href="$classllvm_1_1ConstantStruct.html" title="llvm::ConstantStruct" alt="" coords="169,304,311,331"/>
-<area shape="rect" id="node7" href="$classllvm_1_1ConstantVector.html" title="Constant Vector Declarations. " alt="" coords="335,304,481,331"/>
-<area shape="rect" id="node2" href="$classllvm_1_1Constant.html" title="This is an important base class in LLVM. " alt="" coords="187,155,293,181"/>
-<area shape="rect" id="node3" href="$classllvm_1_1User.html" title="llvm::User" alt="" coords="199,80,281,107"/>
-<area shape="rect" id="node4" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="197,5,283,32"/>
-</map>

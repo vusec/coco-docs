@@ -1,6 +1,0 @@
-<map id="include/llvm/CodeGen/GCMetadataPrinter.h" name="include/llvm/CodeGen/GCMetadataPrinter.h">
-<area shape="rect" id="node2" href="$AsmPrinter_8cpp.html" title="lib/CodeGen/AsmPrinter\l/AsmPrinter.cpp" alt="" coords="5,95,168,136"/>
-<area shape="rect" id="node3" href="$ErlangGCPrinter_8cpp.html" title="lib/CodeGen/AsmPrinter\l/ErlangGCPrinter.cpp" alt="" coords="192,95,355,136"/>
-<area shape="rect" id="node4" href="$OcamlGCPrinter_8cpp.html" title="lib/CodeGen/AsmPrinter\l/OcamlGCPrinter.cpp" alt="" coords="379,95,541,136"/>
-<area shape="rect" id="node5" href="$GCMetadataPrinter_8cpp.html" title="lib/CodeGen/GCMetadataPrinter.cpp" alt="" coords="565,102,800,129"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structllvm_1_1MachineInstrBundleIteratorHelper.html" title="llvm::MachineInstrBundle\lIteratorHelper\&lt; IsReverse \&gt;" alt="" coords="5,5,191,47"/>
-<area shape="rect" id="node2" href="$classllvm_1_1MachineInstrBundleIterator.html" title="MachineBasicBlock iterator that automatically skips over MIs that are inside bundles (i..." alt="" coords="239,5,409,47"/>
-</map>

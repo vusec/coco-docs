@@ -1,5 +1,0 @@
-<map id="llvm::sampleprof::SampleProfileWriterBinary" name="llvm::sampleprof::SampleProfileWriterBinary">
-<area shape="rect" id="node2" href="$classllvm_1_1sampleprof_1_1SampleProfileWriter.html" title="Sample&#45;based profile writer. Base class. " alt="" coords="377,90,548,131"/>
-<area shape="rect" id="node6" href="$classllvm_1_1MapVector.html" title="llvm::MapVector\&lt; llvm\l::StringRef, uint32_t \&gt;" alt="" coords="386,155,539,197"/>
-<area shape="rect" id="node7" href="$classllvm_1_1MapVector.html" title="This class implements a map that also provides access to all stored values in a deterministic order..." alt="" coords="5,187,221,229"/>
-</map>

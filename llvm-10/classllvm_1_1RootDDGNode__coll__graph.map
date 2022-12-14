@@ -1,6 +1,0 @@
-<map id="llvm::RootDDGNode" name="llvm::RootDDGNode">
-<area shape="rect" id="node2" href="$classllvm_1_1DDGNode.html" title="Data Dependence Graph Node The graph can represent the following types of nodes: " alt="" coords="50,275,165,301"/>
-<area shape="rect" id="node3" href="$classllvm_1_1DGNode.html" title="Represent a node in the directed graph. " alt="" coords="51,199,164,225"/>
-<area shape="rect" id="node4" href="$classllvm_1_1SetVector.html" title="llvm::SetVector\&lt; EdgeType * \&gt;" alt="" coords="5,109,209,136"/>
-<area shape="rect" id="node5" href="$classllvm_1_1SetVector.html" title="A vector that has set insertion semantics. " alt="" coords="39,5,175,47"/>
-</map>

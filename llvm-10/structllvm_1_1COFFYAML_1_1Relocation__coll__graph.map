@@ -1,8 +1,0 @@
-<map id="llvm::COFFYAML::Relocation" name="llvm::COFFYAML::Relocation">
-<area shape="rect" id="node2" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; uint32_t \&gt;" alt="" coords="5,95,177,121"/>
-<area shape="rect" id="node3" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; T \&gt;" alt="" coords="24,5,159,32"/>
-<area shape="rect" id="node4" href="$classuint16__t.html" title="uint16_t" alt="" coords="201,95,269,121"/>
-<area shape="rect" id="node5" href="$classuint32__t.html" title="uint32_t" alt="" coords="293,95,361,121"/>
-<area shape="rect" id="node6" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e. " alt="" coords="389,95,498,121"/>
-<area shape="rect" id="node7" href="$classsize__t.html" title="size_t" alt="" coords="415,5,472,32"/>
-</map>

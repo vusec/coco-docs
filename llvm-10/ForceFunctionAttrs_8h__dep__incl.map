@@ -1,5 +1,0 @@
-<map id="include/llvm/Transforms/IPO/ForceFunctionAttrs.h" name="include/llvm/Transforms/IPO/ForceFunctionAttrs.h">
-<area shape="rect" id="node2" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="5,102,188,129"/>
-<area shape="rect" id="node3" href="$ForceFunctionAttrs_8cpp.html" title="lib/Transforms/IPO\l/ForceFunctionAttrs.cpp" alt="" coords="213,95,375,136"/>
-<area shape="rect" id="node4" href="$PassManagerBuilder_8cpp.html" title="lib/Transforms/IPO\l/PassManagerBuilder.cpp" alt="" coords="399,95,570,136"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="include/llvm/DebugInfo/PDB/IPDBSectionContrib.h" name="include/llvm/DebugInfo/PDB/IPDBSectionContrib.h">
-<area shape="rect" id="node2" href="$DIAEnumSectionContribs_8h.html" title="include/llvm/DebugInfo\l/PDB/DIA/DIAEnumSectionContribs.h" alt="" coords="40,95,287,136"/>
-<area shape="rect" id="node5" href="$DIASectionContrib_8h.html" title="include/llvm/DebugInfo\l/PDB/DIA/DIASectionContrib.h" alt="" coords="311,95,517,136"/>
-<area shape="rect" id="node7" href="$PDBInterfaceAnchors_8cpp.html" title="lib/DebugInfo/PDB/PDBInterface\lAnchors.cpp" alt="" coords="541,95,756,136"/>
-<area shape="rect" id="node8" href="$PDBSymbolData_8cpp.html" title="lib/DebugInfo/PDB/PDBSymbol\lData.cpp" alt="" coords="780,95,987,136"/>
-<area shape="rect" id="node3" href="$DIAEnumSectionContribs_8cpp.html" title="lib/DebugInfo/PDB/DIA\l/DIAEnumSectionContribs.cpp" alt="" coords="188,184,389,225"/>
-<area shape="rect" id="node4" href="$DIASession_8cpp.html" title="lib/DebugInfo/PDB/DIA\l/DIASession.cpp" alt="" coords="5,184,164,225"/>
-<area shape="rect" id="node6" href="$DIASectionContrib_8cpp.html" title="lib/DebugInfo/PDB/DIA\l/DIASectionContrib.cpp" alt="" coords="414,184,574,225"/>
-</map>

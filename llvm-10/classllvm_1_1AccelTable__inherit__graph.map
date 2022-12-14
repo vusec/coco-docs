@@ -1,6 +1,0 @@
-<map id="llvm::AccelTable&lt; DataT &gt;" name="llvm::AccelTable&lt; DataT &gt;">
-<area shape="rect" id="node3" href="$classllvm_1_1AccelTable.html" title="llvm::AccelTable\&lt; llvm\l::AppleAccelTableOffsetData \&gt;" alt="" coords="613,6,817,47"/>
-<area shape="rect" id="node4" href="$classllvm_1_1AccelTable.html" title="llvm::AccelTable\&lt; llvm\l::AppleAccelTableTypeData \&gt;" alt="" coords="617,71,814,113"/>
-<area shape="rect" id="node5" href="$classllvm_1_1AccelTable.html" title="llvm::AccelTable\&lt; llvm\l::DWARF5AccelTableData \&gt;" alt="" coords="619,137,811,178"/>
-<area shape="rect" id="node2" href="$classllvm_1_1AccelTableBase.html" title="A base class holding non&#45;template&#45;dependant functionality of the AccelTable class. " alt="" coords="5,79,155,105"/>
-</map>

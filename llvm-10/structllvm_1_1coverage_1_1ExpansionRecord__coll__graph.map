@@ -1,7 +1,0 @@
-<map id="llvm::coverage::ExpansionRecord" name="llvm::coverage::ExpansionRecord">
-<area shape="rect" id="node2" href="$structllvm_1_1coverage_1_1FunctionRecord.html" title="Code coverage information for a single function. " alt="" coords="964,207,1129,249"/>
-<area shape="rect" id="node7" href="$structllvm_1_1coverage_1_1CountedRegion.html" title="Associates a source range with an execution count. " alt="" coords="944,107,1149,133"/>
-<area shape="rect" id="node8" href="$structllvm_1_1coverage_1_1CounterMappingRegion.html" title="A Counter mapping region associates a source range with a specific counter. " alt="" coords="584,85,795,126"/>
-<area shape="rect" id="node10" href="$structllvm_1_1coverage_1_1Counter.html" title="A Counter is an abstract value that describes how to compute the execution count for a region of code..." alt="" coords="335,108,496,135"/>
-<area shape="rect" id="node11" href="$classunsigned.html" title="unsigned" alt="" coords="5,108,80,135"/>
-</map>

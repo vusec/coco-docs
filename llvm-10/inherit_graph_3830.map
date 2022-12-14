@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1orc_1_1rpc_1_1detail_1_1AsyncHandlerTraits.html" title="llvm::orc::rpc::detail\l::AsyncHandlerTraits\&lt;\l Error(std::decay\&lt; ResponseHandler\lT \&gt;::type, ArgTs...)\&gt;" alt="" coords="5,5,240,76"/>
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1rpc_1_1detail_1_1AsyncHandlerTraits_3_01Error_07ResponseHandlerT_00_01ArgTs_8_8_8_08_4.html" title="llvm::orc::rpc::detail\l::AsyncHandlerTraits\&lt;\l Error(ResponseHandlerT,\l ArgTs...)\&gt;" alt="" coords="288,5,463,76"/>
-</map>

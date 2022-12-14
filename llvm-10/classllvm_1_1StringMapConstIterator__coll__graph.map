@@ -1,8 +1,0 @@
-<map id="llvm::StringMapConstIterator&lt; ValueTy &gt;" name="llvm::StringMapConstIterator&lt; ValueTy &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1StringMapIterBase.html" title="llvm::StringMapIterBase\l\&lt; StringMapConstIterator\l\&lt; ValueTy \&gt;, const StringMapEntry\l\&lt; ValueTy \&gt; \&gt;" alt="" coords="1473,117,1701,187"/>
-<area shape="rect" id="node3" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; StringMapConstIterator\l\&lt; ValueTy \&gt;, std::forward\l_iterator_tag, const StringMapEntry\l\&lt; ValueTy \&gt; \&gt;" alt="" coords="759,49,987,135"/>
-<area shape="rect" id="node5" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="273,145,497,215"/>
-<area shape="rect" id="node9" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; DerivedTy, std\l::forward_iterator_tag,\l ValueTy \&gt;" alt="" coords="795,210,950,281"/>
-<area shape="rect" id="node7" href="$classllvm_1_1StringMapEntryBase.html" title="StringMapEntryBase &#45; Shared base class of StringMapEntry instances. " alt="" coords="785,159,960,185"/>
-<area shape="rect" id="node8" href="$classllvm_1_1StringMapIterBase.html" title="llvm::StringMapIterBase\l\&lt; DerivedTy, ValueTy \&gt;" alt="" coords="1056,201,1219,242"/>
-</map>

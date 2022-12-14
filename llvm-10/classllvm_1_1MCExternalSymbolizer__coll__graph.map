@@ -1,5 +1,0 @@
-<map id="llvm::MCExternalSymbolizer" name="llvm::MCExternalSymbolizer">
-<area shape="rect" id="node2" href="$classllvm_1_1MCSymbolizer.html" title="Symbolize and annotate disassembled instructions. " alt="" coords="135,109,275,136"/>
-<area shape="rect" id="node4" href="$classllvm_1_1MCContext.html" title="Context object for machine code objects. " alt="" coords="239,13,360,39"/>
-<area shape="rect" id="node5" href="$classchar.html" title="char" alt="" coords="299,109,345,136"/>
-</map>

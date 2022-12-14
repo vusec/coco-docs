@@ -1,5 +1,0 @@
-<map id="llvm::mca::RetireControlUnit::RUToken" name="llvm::mca::RetireControlUnit::RUToken">
-<area shape="rect" id="node2" href="$classllvm_1_1mca_1_1InstRef.html" title="An InstRef contains both a SourceMgr index and Instruction pair. " alt="" coords="5,5,136,32"/>
-<area shape="rect" id="node3" href="$classbool.html" title="bool" alt="" coords="161,5,207,32"/>
-<area shape="rect" id="node4" href="$classunsigned.html" title="unsigned" alt="" coords="237,5,312,32"/>
-</map>

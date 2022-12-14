@@ -1,5 +1,0 @@
-<map id="lib/Target/MSP430/MCTargetDesc/MSP430InstPrinter.h" name="lib/Target/MSP430/MCTargetDesc/MSP430InstPrinter.h">
-<area shape="rect" id="node2" href="$MSP430InstPrinter_8cpp.html" title="lib/Target/MSP430/MCTarget\lDesc/MSP430InstPrinter.cpp" alt="" coords="5,95,197,136"/>
-<area shape="rect" id="node3" href="$MSP430MCTargetDesc_8cpp.html" title="lib/Target/MSP430/MCTarget\lDesc/MSP430MCTargetDesc.cpp" alt="" coords="221,95,443,136"/>
-<area shape="rect" id="node4" href="$MSP430AsmPrinter_8cpp.html" title="lib/Target/MSP430/MSP430\lAsmPrinter.cpp" alt="" coords="467,95,651,136"/>
-</map>

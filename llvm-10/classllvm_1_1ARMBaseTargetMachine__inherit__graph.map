@@ -1,6 +1,0 @@
-<map id="llvm::ARMBaseTargetMachine" name="llvm::ARMBaseTargetMachine">
-<area shape="rect" id="node4" href="$classllvm_1_1ARMBETargetMachine.html" title="ARM/Thumb big endian target machine. " alt="" coords="5,229,193,256"/>
-<area shape="rect" id="node5" href="$classllvm_1_1ARMLETargetMachine.html" title="ARM/Thumb little endian target machine. " alt="" coords="218,229,405,256"/>
-<area shape="rect" id="node2" href="$classllvm_1_1LLVMTargetMachine.html" title="This class describes a target machine that is implemented with the LLVM target&#45;independent code gener..." alt="" coords="117,80,292,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1TargetMachine.html" title="Primary interface to the complete machine description for the target machine. " alt="" coords="135,5,275,32"/>
-</map>

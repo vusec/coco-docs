@@ -1,7 +1,0 @@
-<map id="llvm::DILocalVariable" name="llvm::DILocalVariable">
-<area shape="rect" id="node2" href="$classllvm_1_1DIVariable.html" title="Base class for variables. " alt="" coords="123,457,237,484"/>
-<area shape="rect" id="node3" href="$classllvm_1_1DINode.html" title="Tagged DWARF&#45;like metadata node. " alt="" coords="155,336,253,363"/>
-<area shape="rect" id="node4" href="$classllvm_1_1MDNode.html" title="Metadata node. " alt="" coords="112,215,219,241"/>
-<area shape="rect" id="node5" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy. " alt="" coords="25,139,133,165"/>
-<area shape="rect" id="node6" href="$classunsigned.html" title="unsigned" alt="" coords="41,5,116,32"/>
-</map>

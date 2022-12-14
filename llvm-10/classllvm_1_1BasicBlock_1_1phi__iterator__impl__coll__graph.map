@@ -1,4 +1,0 @@
-<map id="llvm::BasicBlock::phi_iterator_impl&lt; PHINodeT, BBIteratorT &gt;" name="llvm::BasicBlock::phi_iterator_impl&lt; PHINodeT, BBIteratorT &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; phi_iterator_impl\l\&lt; PHINodeT, BBIteratorT\l \&gt;, std::forward_iterator\l_tag, PHINodeT \&gt;" alt="" coords="688,46,859,131"/>
-<area shape="rect" id="node4" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="267,100,491,171"/>
-</map>

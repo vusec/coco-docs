@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; RequireAnalysisPass\l\&lt; AnalysisT, Loop, LoopAnalysis\lManager, LoopStandardAnalysisResults\l &amp;, LPMUpdater &amp;\&gt; \&gt;" alt="" coords="5,5,260,91"/>
-<area shape="rect" id="node2" href="$structllvm_1_1RequireAnalysisPass_3_01AnalysisT_00_01Loop_00_01LoopAnalysisManager_00_01LoopStan3bf5a976eadfbcaf71c516454c894dae.html" title="A partial specialization of the require analysis template pass to forward the extra parameters from a..." alt="" coords="308,13,563,83"/>
-</map>

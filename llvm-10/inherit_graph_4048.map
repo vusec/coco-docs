@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; DivRemPairsPass \&gt;" alt="" coords="5,5,160,47"/>
-<area shape="rect" id="node2" href="$structllvm_1_1DivRemPairsPass.html" title="Hoist/decompose integer division and remainder instructions to enable CFG improvements and better cod..." alt="" coords="208,13,371,39"/>
-</map>

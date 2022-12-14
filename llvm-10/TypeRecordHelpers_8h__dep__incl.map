@@ -1,7 +1,0 @@
-<map id="include/llvm/DebugInfo/CodeView/TypeRecordHelpers.h" name="include/llvm/DebugInfo/CodeView/TypeRecordHelpers.h">
-<area shape="rect" id="node2" href="$TypeRecordHelpers_8cpp.html" title="lib/DebugInfo/CodeView\l/TypeRecordHelpers.cpp" alt="" coords="5,95,172,136"/>
-<area shape="rect" id="node3" href="$TypeStreamMerger_8cpp.html" title="lib/DebugInfo/CodeView\l/TypeStreamMerger.cpp" alt="" coords="197,95,359,136"/>
-<area shape="rect" id="node4" href="$NativeEnumTypes_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeEnumTypes.cpp" alt="" coords="383,95,557,136"/>
-<area shape="rect" id="node5" href="$SymbolCache_8cpp.html" title="lib/DebugInfo/PDB/Native\l/SymbolCache.cpp" alt="" coords="581,95,754,136"/>
-<area shape="rect" id="node6" href="$TpiStream_8cpp.html" title="lib/DebugInfo/PDB/Native\l/TpiStream.cpp" alt="" coords="778,95,951,136"/>
-</map>

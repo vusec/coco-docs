@@ -1,4 +1,0 @@
-<map id="llvm::RewriteStatepointsForGC" name="llvm::RewriteStatepointsForGC">
-<area shape="rect" id="node2" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; RewriteStatepointsForGC \&gt;" alt="" coords="5,109,201,151"/>
-<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes. " alt="" coords="35,5,172,47"/>
-</map>

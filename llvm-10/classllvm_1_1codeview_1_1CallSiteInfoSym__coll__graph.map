@@ -1,6 +1,0 @@
-<map id="llvm::codeview::CallSiteInfoSym" name="llvm::codeview::CallSiteInfoSym">
-<area shape="rect" id="node2" href="$classllvm_1_1codeview_1_1SymbolRecord.html" title="llvm::codeview::SymbolRecord" alt="" coords="5,140,208,167"/>
-<area shape="rect" id="node4" href="$classuint16__t.html" title="uint16_t" alt="" coords="233,140,301,167"/>
-<area shape="rect" id="node5" href="$classuint32__t.html" title="uint32_t" alt="" coords="375,5,443,32"/>
-<area shape="rect" id="node6" href="$classllvm_1_1codeview_1_1TypeIndex.html" title="A 32&#45;bit type reference. " alt="" coords="456,140,635,167"/>
-</map>

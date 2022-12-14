@@ -1,5 +1,0 @@
-<map id="llvm::FPPassManager" name="llvm::FPPassManager">
-<area shape="rect" id="node2" href="$classllvm_1_1ModulePass.html" title="ModulePass class &#45; This class is used to implement unstructured interprocedural optimizations and ana..." alt="" coords="5,80,132,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1Pass.html" title="Pass interface &#45; Implemented by all &#39;passes&#39;. " alt="" coords="27,5,111,32"/>
-<area shape="rect" id="node4" href="$classllvm_1_1PMDataManager.html" title="PMDataManager provides the common place to manage the analysis data used by pass managers. " alt="" coords="157,80,309,107"/>
-</map>

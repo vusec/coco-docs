@@ -1,5 +1,0 @@
-<map id="lib/Target/AArch64/AArch64CallingConvention.h" name="lib/Target/AArch64/AArch64CallingConvention.h">
-<area shape="rect" id="node2" href="$AArch64CallingConvention_8cpp.html" title="lib/Target/AArch64\l/AArch64CallingConvention.cpp" alt="" coords="5,95,212,136"/>
-<area shape="rect" id="node3" href="$AArch64FastISel_8cpp.html" title="lib/Target/AArch64\l/AArch64FastISel.cpp" alt="" coords="236,95,387,136"/>
-<area shape="rect" id="node4" href="$AArch64ISelLowering_8cpp.html" title="lib/Target/AArch64\l/AArch64ISelLowering.cpp" alt="" coords="411,95,587,136"/>
-</map>

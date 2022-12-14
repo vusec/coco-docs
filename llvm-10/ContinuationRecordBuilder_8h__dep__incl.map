@@ -1,8 +1,0 @@
-<map id="include/llvm/DebugInfo/CodeView/ContinuationRecordBuilder.h" name="include/llvm/DebugInfo/CodeView/ContinuationRecordBuilder.h">
-<area shape="rect" id="node2" href="$CodeViewDebug_8cpp.html" title="lib/CodeGen/AsmPrinter\l/CodeViewDebug.cpp" alt="" coords="5,109,168,151"/>
-<area shape="rect" id="node3" href="$AppendingTypeTableBuilder_8cpp.html" title="lib/DebugInfo/CodeView\l/AppendingTypeTableBuilder.cpp" alt="" coords="192,109,405,151"/>
-<area shape="rect" id="node4" href="$ContinuationRecordBuilder_8cpp.html" title="lib/DebugInfo/CodeView\l/ContinuationRecordBuilder.cpp" alt="" coords="430,109,637,151"/>
-<area shape="rect" id="node5" href="$GlobalTypeTableBuilder_8cpp.html" title="lib/DebugInfo/CodeView\l/GlobalTypeTableBuilder.cpp" alt="" coords="661,109,851,151"/>
-<area shape="rect" id="node6" href="$MergingTypeTableBuilder_8cpp.html" title="lib/DebugInfo/CodeView\l/MergingTypeTableBuilder.cpp" alt="" coords="875,109,1074,151"/>
-<area shape="rect" id="node7" href="$CodeViewYAMLTypes_8cpp.html" title="lib/ObjectYAML/CodeViewYAMLTypes.cpp" alt="" coords="1099,117,1373,143"/>
-</map>

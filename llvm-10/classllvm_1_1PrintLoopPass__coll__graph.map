@@ -1,4 +1,0 @@
-<map id="llvm::PrintLoopPass" name="llvm::PrintLoopPass">
-<area shape="rect" id="node2" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; PrintLoopPass \&gt;" alt="" coords="6,109,143,151"/>
-<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes. " alt="" coords="6,5,143,47"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="llvm::PoisoningVH&lt; ValueTy &gt;" name="llvm::PoisoningVH&lt; ValueTy &gt;">
-<area shape="rect" id="node4" href="$classllvm_1_1PoisoningVH.html" title="llvm::PoisoningVH\&lt;\l llvm::BasicBlock \&gt;" alt="" coords="15,261,154,303"/>
-<area shape="rect" id="node2" href="$classllvm_1_1CallbackVH.html" title="Value handle with callbacks on RAUW and destruction. " alt="" coords="23,81,147,108"/>
-<area shape="rect" id="node3" href="$classllvm_1_1ValueHandleBase.html" title="This is the common base class of value handles. " alt="" coords="5,5,164,32"/>
-</map>

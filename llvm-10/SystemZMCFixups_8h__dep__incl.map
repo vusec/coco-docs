@@ -1,5 +1,0 @@
-<map id="lib/Target/SystemZ/MCTargetDesc/SystemZMCFixups.h" name="lib/Target/SystemZ/MCTargetDesc/SystemZMCFixups.h">
-<area shape="rect" id="node2" href="$SystemZMCAsmBackend_8cpp.html" title="lib/Target/SystemZ\l/MCTargetDesc/SystemZMCAsm\lBackend.cpp" alt="" coords="5,95,225,151"/>
-<area shape="rect" id="node3" href="$SystemZMCCodeEmitter_8cpp.html" title="lib/Target/SystemZ\l/MCTargetDesc/SystemZMCCode\lEmitter.cpp" alt="" coords="250,95,474,151"/>
-<area shape="rect" id="node4" href="$SystemZMCObjectWriter_8cpp.html" title="lib/Target/SystemZ\l/MCTargetDesc/SystemZMCObject\lWriter.cpp" alt="" coords="499,95,729,151"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="llvm::GCNIterativeScheduler::Region" name="llvm::GCNIterativeScheduler::Region">
-<area shape="rect" id="node2" href="$classllvm_1_1MachineInstrBundleIterator.html" title="llvm::MachineInstrBundle\lIterator\&lt; MachineInstr \&gt;" alt="" coords="582,24,751,65"/>
-<area shape="rect" id="node3" href="$structllvm_1_1MachineInstrBundleIteratorHelper_3_01false_01_4.html" title="llvm::MachineInstrBundle\lIteratorHelper\&lt; false \&gt;" alt="" coords="241,5,410,47"/>
-<area shape="rect" id="node4" href="$classllvm_1_1MachineInstrBundleIterator.html" title="MachineBasicBlock iterator that automatically skips over MIs that are inside bundles (i..." alt="" coords="240,77,411,119"/>
-<area shape="rect" id="node5" href="$structllvm_1_1MachineInstrBundleIteratorHelper.html" title="llvm::MachineInstrBundle\lIteratorHelper\&lt; IsReverse \&gt;" alt="" coords="5,77,191,119"/>
-<area shape="rect" id="node7" href="$structllvm_1_1GCNRegPressure.html" title="llvm::GCNRegPressure" alt="" coords="587,219,747,246"/>
-<area shape="rect" id="node8" href="$classunsigned.html" title="unsigned" alt="" coords="629,270,704,297"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="llvm::detail::AnalysisResultConcept&lt; IRUnitT, PreservedAnalysesT, InvalidatorT &gt;" name="llvm::detail::AnalysisResultConcept&lt; IRUnitT, PreservedAnalysesT, InvalidatorT &gt;">
-<area shape="rect" id="node2" href="$structllvm_1_1detail_1_1AnalysisResultModel_3_01IRUnitT_00_01PassT_00_01ResultT_00_01PreservedAndbc3544787cff5d22af2bdc429f22955.html" title="Specialization of AnalysisResultModel which provides the default invalidate functionality. " alt="" coords="323,5,550,76"/>
-<area shape="rect" id="node3" href="$structllvm_1_1detail_1_1AnalysisResultModel_3_01IRUnitT_00_01PassT_00_01ResultT_00_01PreservedAn6d42d8518eb189a23e3f9868e163378a.html" title="Specialization of AnalysisResultModel which delegates invalidate handling to ResultT. " alt="" coords="304,101,569,157"/>
-</map>

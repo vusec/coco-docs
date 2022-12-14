@@ -1,9 +1,0 @@
-<map id="llvm::object::MachOObjectFile" name="llvm::object::MachOObjectFile">
-<area shape="rect" id="node2" href="$classllvm_1_1object_1_1ObjectFile.html" title="This class is the base class for all object file types. " alt="" coords="13,363,169,389"/>
-<area shape="rect" id="node3" href="$classllvm_1_1object_1_1SymbolicFile.html" title="llvm::object::SymbolicFile" alt="" coords="5,171,177,197"/>
-<area shape="rect" id="node4" href="$classllvm_1_1object_1_1Binary.html" title="llvm::object::Binary" alt="" coords="24,95,159,121"/>
-<area shape="rect" id="node5" href="$classllvm_1_1MemoryBufferRef.html" title="llvm::MemoryBufferRef" alt="" coords="13,5,170,32"/>
-<area shape="rect" id="node6" href="$structllvm_1_1MachO_1_1mach__header__64.html" title="llvm::MachO::mach_header_64" alt="" coords="194,363,397,389"/>
-<area shape="rect" id="node7" href="$classuint32__t.html" title="uint32_t" alt="" coords="369,171,437,197"/>
-<area shape="rect" id="node8" href="$structllvm_1_1MachO_1_1mach__header.html" title="llvm::MachO::mach_header" alt="" coords="421,363,604,389"/>
-</map>

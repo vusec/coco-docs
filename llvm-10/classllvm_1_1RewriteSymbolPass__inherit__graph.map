@@ -1,4 +1,0 @@
-<map id="llvm::RewriteSymbolPass" name="llvm::RewriteSymbolPass">
-<area shape="rect" id="node2" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; RewriteSymbolPass \&gt;" alt="" coords="9,109,175,151"/>
-<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes. " alt="" coords="23,5,161,47"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1CSEConfigBase.html" title="llvm::CSEConfigBase" alt="" coords="5,31,156,57"/>
-<area shape="rect" id="node2" href="$classllvm_1_1CSEConfigConstantOnly.html" title="llvm::CSEConfigConstantOnly" alt="" coords="204,5,404,32"/>
-<area shape="rect" id="node3" href="$classllvm_1_1CSEConfigFull.html" title="llvm::CSEConfigFull" alt="" coords="233,56,375,83"/>
-</map>

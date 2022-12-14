@@ -1,7 +1,0 @@
-<map id="llvm::ImmutableCallSite" name="llvm::ImmutableCallSite">
-<area shape="rect" id="node2" href="$classllvm_1_1CallSiteBase.html" title="llvm::CallSiteBase\&lt;\&gt;" alt="" coords="924,49,1071,76"/>
-<area shape="rect" id="node3" href="$classllvm_1_1PointerIntPair.html" title="llvm::PointerIntPair\l\&lt; const Instruction *,\l 2, int \&gt;" alt="" coords="497,5,641,61"/>
-<area shape="rect" id="node4" href="$classllvm_1_1PointerIntPair.html" title="PointerIntPair &#45; This class implements a pair of a pointer and small integer. " alt="" coords="5,36,176,92"/>
-<area shape="rect" id="node6" href="$classllvm_1_1PointerIntPair.html" title="llvm::PointerIntPair\l\&lt; InstrTy *, 2, int \&gt;" alt="" coords="340,77,473,118"/>
-<area shape="rect" id="node5" href="$classllvm_1_1CallSiteBase.html" title="llvm::CallSiteBase\l\&lt; FunTy, BBTy, ValTy,\l UserTy, UseTy, InstrTy,\l CallTy, InvokeTy, CallBrTy,\l IterTy \&gt;" alt="" coords="665,79,855,164"/>
-</map>

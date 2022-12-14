@@ -1,5 +1,0 @@
-<map id="lib/Target/Lanai/MCTargetDesc/LanaiFixupKinds.h" name="lib/Target/Lanai/MCTargetDesc/LanaiFixupKinds.h">
-<area shape="rect" id="node2" href="$LanaiAsmBackend_8cpp.html" title="lib/Target/Lanai/MCTarget\lDesc/LanaiAsmBackend.cpp" alt="" coords="5,95,196,136"/>
-<area shape="rect" id="node3" href="$LanaiELFObjectWriter_8cpp.html" title="lib/Target/Lanai/MCTarget\lDesc/LanaiELFObjectWriter.cpp" alt="" coords="221,95,431,136"/>
-<area shape="rect" id="node4" href="$LanaiMCCodeEmitter_8cpp.html" title="lib/Target/Lanai/MCTarget\lDesc/LanaiMCCodeEmitter.cpp" alt="" coords="456,95,663,136"/>
-</map>

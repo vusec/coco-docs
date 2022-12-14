@@ -1,5 +1,0 @@
-<map id="include/llvm/ExecutionEngine/Orc/OrcRemoteTargetRPCAPI.h" name="include/llvm/ExecutionEngine/Orc/OrcRemoteTargetRPCAPI.h">
-<area shape="rect" id="node2" href="$OrcRemoteTargetClient_8h.html" title="include/llvm/ExecutionEngine\l/Orc/OrcRemoteTargetClient.h" alt="" coords="5,95,205,136"/>
-<area shape="rect" id="node3" href="$OrcRemoteTargetServer_8h.html" title="include/llvm/ExecutionEngine\l/Orc/OrcRemoteTargetServer.h" alt="" coords="230,95,434,136"/>
-<area shape="rect" id="node4" href="$RemoteObjectLayer_8h.html" title="include/llvm/ExecutionEngine\l/Orc/RemoteObjectLayer.h" alt="" coords="458,95,651,136"/>
-</map>

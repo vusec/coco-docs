@@ -1,3 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1orc_1_1rpc_1_1SerializationTraits_3_01ChannelT_00_01remote_1_1DirectBufferWriter_00bbaa1a148ad0540a98cfb1a4e8d99a62.html" title="llvm::orc::rpc::Serialization\lTraits\&lt; ChannelT, remote\l::DirectBufferWriter, remote\l::DirectBufferWriter, typename\l std::enable_if\&lt; std::is_base\l_of\&lt; RawByteChannel, ChannelT \&gt;\l::value \&gt;::type \&gt;" alt="" coords="5,5,236,120"/>
-</map>

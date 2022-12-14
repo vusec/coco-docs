@@ -1,8 +1,0 @@
-<map id="include/llvm/MCA/HardwareUnits/RetireControlUnit.h" name="include/llvm/MCA/HardwareUnits/RetireControlUnit.h">
-<area shape="rect" id="node2" href="$DispatchStage_8h.html" title="This file models the dispatch component of an instruction pipeline. " alt="" coords="123,95,293,136"/>
-<area shape="rect" id="node3" href="$Context_8cpp.html" title="This file defines a class for holding ownership of various simulated hardware units. " alt="" coords="259,184,403,211"/>
-<area shape="rect" id="node5" href="$RetireStage_8h.html" title="This file defines the retire stage of a default instruction pipeline. " alt="" coords="368,95,539,136"/>
-<area shape="rect" id="node7" href="$RetireControlUnit_8cpp.html" title="This file simulates the hardware responsible for retiring instructions. " alt="" coords="563,95,723,136"/>
-<area shape="rect" id="node4" href="$DispatchStage_8cpp.html" title="This file models the dispatch component of an instruction pipeline. " alt="" coords="5,184,235,211"/>
-<area shape="rect" id="node6" href="$RetireStage_8cpp.html" title="This file defines the retire stage of an instruction pipeline. " alt="" coords="427,184,639,211"/>
-</map>

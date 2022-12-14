@@ -1,6 +1,0 @@
-<map id="llvm::WasmYAML::CustomSection" name="llvm::WasmYAML::CustomSection">
-<area shape="rect" id="node2" href="$structllvm_1_1WasmYAML_1_1Section.html" title="llvm::WasmYAML::Section" alt="" coords="83,109,263,136"/>
-<area shape="rect" id="node5" href="$classllvm_1_1yaml_1_1BinaryRef.html" title="Specialized YAMLIO scalar type for representing a binary blob. " alt="" coords="287,109,435,136"/>
-<area shape="rect" id="node6" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e. " alt="" coords="460,109,569,136"/>
-<area shape="rect" id="node7" href="$classsize__t.html" title="size_t" alt="" coords="486,13,543,39"/>
-</map>

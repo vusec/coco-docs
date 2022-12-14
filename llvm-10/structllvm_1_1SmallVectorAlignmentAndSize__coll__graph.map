@@ -1,6 +1,0 @@
-<map id="llvm::SmallVectorAlignmentAndSize&lt; T, typename &gt;" name="llvm::SmallVectorAlignmentAndSize&lt; T, typename &gt;">
-<area shape="rect" id="node2" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::SmallVectorBase \&gt;" alt="" coords="553,7,744,49"/>
-<area shape="rect" id="node3" href="$classchar.html" title="char" alt="" coords="5,53,52,80"/>
-<area shape="rect" id="node4" href="$structllvm_1_1AlignedCharArrayUnion.html" title="A suitably aligned and sized character array member which can hold elements of any type..." alt="" coords="137,46,328,87"/>
-<area shape="rect" id="node5" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\&lt; T \&gt;" alt="" coords="537,73,760,100"/>
-</map>

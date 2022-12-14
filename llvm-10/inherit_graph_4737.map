@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1SetVector.html" title="llvm::SetVector\&lt; llvm\l::SelectInst *, SmallVector\l\&lt; llvm::SelectInst *, N \&gt;\l, SmallDenseSet\&lt; llvm::SelectInst\l *, N \&gt; \&gt;" alt="" coords="5,5,229,91"/>
-<area shape="rect" id="node2" href="$classllvm_1_1SmallSetVector.html" title="llvm::SmallSetVector\l\&lt; llvm::SelectInst *, 8 \&gt;" alt="" coords="277,27,439,69"/>
-</map>

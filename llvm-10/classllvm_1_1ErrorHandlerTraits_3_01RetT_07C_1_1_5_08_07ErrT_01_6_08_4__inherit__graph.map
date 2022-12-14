@@ -1,4 +1,0 @@
-<map id="llvm::ErrorHandlerTraits&lt; RetT(C::*)(ErrT &amp;)&gt;" name="llvm::ErrorHandlerTraits&lt; RetT(C::*)(ErrT &amp;)&gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1ErrorHandlerTraits.html" title="llvm::ErrorHandlerTraits\l\&lt; RetT(&amp;)(ErrT &amp;)\&gt;" alt="" coords="5,109,165,151"/>
-<area shape="rect" id="node3" href="$classllvm_1_1ErrorHandlerTraits.html" title="Helper for testing applicability of, and applying, handlers for ErrorInfo types. " alt="" coords="5,5,165,47"/>
-</map>

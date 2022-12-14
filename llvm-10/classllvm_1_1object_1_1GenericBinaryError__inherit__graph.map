@@ -1,6 +1,0 @@
-<map id="llvm::object::GenericBinaryError" name="llvm::object::GenericBinaryError">
-<area shape="rect" id="node6" href="$classllvm_1_1object_1_1EmptyResError.html" title="llvm::object::EmptyResError" alt="" coords="5,381,192,408"/>
-<area shape="rect" id="node2" href="$classllvm_1_1ErrorInfo.html" title="llvm::ErrorInfo\&lt; Generic\lBinaryError, BinaryError \&gt;" alt="" coords="13,200,185,241"/>
-<area shape="rect" id="node4" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types. " alt="" coords="119,81,278,123"/>
-<area shape="rect" id="node5" href="$classllvm_1_1ParentErrT.html" title="ParentErrT" alt="" coords="156,5,241,32"/>
-</map>

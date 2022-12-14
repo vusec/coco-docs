@@ -1,7 +1,0 @@
-<map id="llvm::SmallPriorityWorklist&lt; T, N &gt;" name="llvm::SmallPriorityWorklist&lt; T, N &gt;">
-<area shape="rect" id="node4" href="$classllvm_1_1SmallPriorityWorklist.html" title="llvm::SmallPriorityWorklist\l\&lt; llvm::LazyCallGraph::RefSCC *, 1 \&gt;" alt="" coords="976,5,1223,47"/>
-<area shape="rect" id="node5" href="$classllvm_1_1SmallPriorityWorklist.html" title="llvm::SmallPriorityWorklist\l\&lt; llvm::LazyCallGraph::SCC *, 1 \&gt;" alt="" coords="987,71,1212,112"/>
-<area shape="rect" id="node6" href="$classllvm_1_1SmallPriorityWorklist.html" title="llvm::SmallPriorityWorklist\l\&lt; llvm::Loop *, 4 \&gt;" alt="" coords="1011,136,1187,177"/>
-<area shape="rect" id="node2" href="$classllvm_1_1PriorityWorklist.html" title="llvm::PriorityWorklist\l\&lt; T, SmallVector\&lt; T, N\l \&gt;, SmallDenseMap\&lt; T, ptrdiff_t \&gt; \&gt;" alt="" coords="333,63,568,119"/>
-<area shape="rect" id="node3" href="$classllvm_1_1PriorityWorklist.html" title="A FILO worklist that prioritizes on re&#45;insertion without duplication. " alt="" coords="5,71,155,112"/>
-</map>

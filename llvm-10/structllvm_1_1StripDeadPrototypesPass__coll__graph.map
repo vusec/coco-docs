@@ -1,4 +1,0 @@
-<map id="llvm::StripDeadPrototypesPass" name="llvm::StripDeadPrototypesPass">
-<area shape="rect" id="node2" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; StripDeadPrototypesPass \&gt;" alt="" coords="9,109,207,151"/>
-<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes. " alt="" coords="39,5,177,47"/>
-</map>

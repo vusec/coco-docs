@@ -1,6 +1,0 @@
-<map id="include/llvm/Analysis/CmpInstAnalysis.h" name="include/llvm/Analysis/CmpInstAnalysis.h">
-<area shape="rect" id="node2" href="$CmpInstAnalysis_8cpp.html" title="lib/Analysis/CmpInstAnalysis.cpp" alt="" coords="5,102,224,129"/>
-<area shape="rect" id="node3" href="$InstructionSimplify_8cpp.html" title="lib/Analysis/Instruction\lSimplify.cpp" alt="" coords="248,95,403,136"/>
-<area shape="rect" id="node4" href="$InstCombineAndOrXor_8cpp.html" title="lib/Transforms/InstCombine\l/InstCombineAndOrXor.cpp" alt="" coords="427,95,610,136"/>
-<area shape="rect" id="node5" href="$InstCombineSelect_8cpp.html" title="lib/Transforms/InstCombine\l/InstCombineSelect.cpp" alt="" coords="634,95,817,136"/>
-</map>

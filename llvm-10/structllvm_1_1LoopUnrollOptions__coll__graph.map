@@ -1,6 +1,0 @@
-<map id="llvm::LoopUnrollOptions" name="llvm::LoopUnrollOptions">
-<area shape="rect" id="node2" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; unsigned \&gt;" alt="" coords="5,95,184,121"/>
-<area shape="rect" id="node3" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; T \&gt;" alt="" coords="122,5,257,32"/>
-<area shape="rect" id="node4" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; bool \&gt;" alt="" coords="209,95,359,121"/>
-<area shape="rect" id="node6" href="$classbool.html" title="bool" alt="" coords="518,95,565,121"/>
-</map>

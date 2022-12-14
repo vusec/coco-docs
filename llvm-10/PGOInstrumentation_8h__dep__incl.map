@@ -1,6 +1,0 @@
-<map id="include/llvm/Transforms/Instrumentation/PGOInstrumentation.h" name="include/llvm/Transforms/Instrumentation/PGOInstrumentation.h">
-<area shape="rect" id="node2" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="5,102,188,129"/>
-<area shape="rect" id="node3" href="$IndirectCallPromotion_8cpp.html" title="lib/Transforms/Instrumentation\l/IndirectCallPromotion.cpp" alt="" coords="212,95,411,136"/>
-<area shape="rect" id="node4" href="$PGOInstrumentation_8cpp.html" title="lib/Transforms/Instrumentation\l/PGOInstrumentation.cpp" alt="" coords="435,95,633,136"/>
-<area shape="rect" id="node5" href="$PGOMemOPSizeOpt_8cpp.html" title="lib/Transforms/Instrumentation\l/PGOMemOPSizeOpt.cpp" alt="" coords="657,95,856,136"/>
-</map>

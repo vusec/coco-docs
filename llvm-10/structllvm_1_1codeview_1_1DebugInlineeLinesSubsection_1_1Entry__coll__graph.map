@@ -1,5 +1,0 @@
-<map id="llvm::codeview::DebugInlineeLinesSubsection::Entry" name="llvm::codeview::DebugInlineeLinesSubsection::Entry">
-<area shape="rect" id="node3" href="$structllvm_1_1codeview_1_1InlineeSourceLineHeader.html" title="llvm::codeview::InlineeSource\lLineHeader" alt="" coords="575,86,771,127"/>
-<area shape="rect" id="node5" href="$classllvm_1_1codeview_1_1TypeIndex.html" title="A 32&#45;bit type reference. " alt="" coords="251,127,429,153"/>
-<area shape="rect" id="node6" href="$classuint32__t.html" title="uint32_t" alt="" coords="5,127,73,153"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="lib/Target/RISCV/MCTargetDesc/RISCVAsmBackend.h" name="lib/Target/RISCV/MCTargetDesc/RISCVAsmBackend.h">
-<area shape="rect" id="node2" href="$RISCVAsmParser_8cpp.html" title="lib/Target/RISCV/AsmParser\l/RISCVAsmParser.cpp" alt="" coords="5,95,196,136"/>
-<area shape="rect" id="node3" href="$RISCVAsmBackend_8cpp.html" title="lib/Target/RISCV/MCTarget\lDesc/RISCVAsmBackend.cpp" alt="" coords="221,95,423,136"/>
-<area shape="rect" id="node4" href="$RISCVELFStreamer_8cpp.html" title="lib/Target/RISCV/MCTarget\lDesc/RISCVELFStreamer.cpp" alt="" coords="448,95,649,136"/>
-<area shape="rect" id="node5" href="$RISCVMCExpr_8cpp.html" title="lib/Target/RISCV/MCTarget\lDesc/RISCVMCExpr.cpp" alt="" coords="674,95,858,136"/>
-</map>

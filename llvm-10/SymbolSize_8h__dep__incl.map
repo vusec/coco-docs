@@ -1,7 +1,0 @@
-<map id="include/llvm/Object/SymbolSize.h" name="include/llvm/Object/SymbolSize.h">
-<area shape="rect" id="node2" href="$SymbolizableObjectFile_8cpp.html" title="lib/DebugInfo/Symbolize\l/SymbolizableObjectFile.cpp" alt="" coords="5,102,193,143"/>
-<area shape="rect" id="node3" href="$IntelJITEventListener_8cpp.html" title="lib/ExecutionEngine\l/IntelJITEvents/IntelJITEvent\lListener.cpp" alt="" coords="217,95,411,151"/>
-<area shape="rect" id="node4" href="$OProfileJITEventListener_8cpp.html" title="lib/ExecutionEngine\l/OProfileJIT/OProfileJITEvent\lListener.cpp" alt="" coords="435,95,631,151"/>
-<area shape="rect" id="node5" href="$PerfJITEventListener_8cpp.html" title="lib/ExecutionEngine\l/PerfJITEvents/PerfJITEvent\lListener.cpp" alt="" coords="655,95,845,151"/>
-<area shape="rect" id="node6" href="$SymbolSize_8cpp.html" title="lib/Object/SymbolSize.cpp" alt="" coords="870,109,1046,136"/>
-</map>

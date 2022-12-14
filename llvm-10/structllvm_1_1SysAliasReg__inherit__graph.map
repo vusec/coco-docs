@@ -1,6 +1,0 @@
-<map id="llvm::SysAliasReg" name="llvm::SysAliasReg">
-<area shape="rect" id="node3" href="$structllvm_1_1AArch64IC_1_1IC.html" title="llvm::AArch64IC::IC" alt="" coords="5,162,145,189"/>
-<area shape="rect" id="node4" href="$structllvm_1_1AArch64PRCTX_1_1PRCTX.html" title="llvm::AArch64PRCTX\l::PRCTX" alt="" coords="169,155,320,196"/>
-<area shape="rect" id="node5" href="$structllvm_1_1AArch64TLBI_1_1TLBI.html" title="llvm::AArch64TLBI::TLBI" alt="" coords="345,162,513,189"/>
-<area shape="rect" id="node2" href="$structllvm_1_1SysAlias.html" title="llvm::SysAlias" alt="" coords="191,5,298,32"/>
-</map>

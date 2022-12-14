@@ -1,6 +1,0 @@
-<map id="llvm::ClassInfo" name="llvm::ClassInfo">
-<area shape="rect" id="node2" href="$classllvm_1_1MapVector.html" title="llvm::MapVector\&lt; MDString\l *, MethodsList \&gt;" alt="" coords="441,5,625,47"/>
-<area shape="rect" id="node3" href="$classllvm_1_1MapVector.html" title="This class implements a map that also provides access to all stored values in a deterministic order..." alt="" coords="5,5,221,47"/>
-<area shape="rect" id="node7" href="$classllvm_1_1codeview_1_1TypeIndex.html" title="A 32&#45;bit type reference. " alt="" coords="444,253,623,279"/>
-<area shape="rect" id="node8" href="$classuint32__t.html" title="uint32_t" alt="" coords="79,253,147,279"/>
-</map>

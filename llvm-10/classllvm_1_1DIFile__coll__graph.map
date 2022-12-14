@@ -1,8 +1,0 @@
-<map id="llvm::DIFile" name="llvm::DIFile">
-<area shape="rect" id="node2" href="$classllvm_1_1DIScope.html" title="Base class for scope&#45;like contexts. " alt="" coords="6,449,111,476"/>
-<area shape="rect" id="node3" href="$classllvm_1_1DINode.html" title="Tagged DWARF&#45;like metadata node. " alt="" coords="9,316,108,343"/>
-<area shape="rect" id="node4" href="$classllvm_1_1MDNode.html" title="Metadata node. " alt="" coords="5,215,112,241"/>
-<area shape="rect" id="node5" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy. " alt="" coords="50,139,158,165"/>
-<area shape="rect" id="node7" href="$classllvm_1_1MDString.html" title="A single uniqued string. " alt="" coords="95,265,204,292"/>
-<area shape="rect" id="node6" href="$classunsigned.html" title="unsigned" alt="" coords="67,5,141,32"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="lib/Target/WebAssembly/MCTargetDesc/WebAssemblyFixupKinds.h" name="lib/Target/WebAssembly/MCTargetDesc/WebAssemblyFixupKinds.h">
-<area shape="rect" id="node2" href="$WebAssemblyAsmBackend_8cpp.html" title="This file implements the WebAssemblyAsmBackend class. " alt="" coords="5,109,236,165"/>
-<area shape="rect" id="node3" href="$WebAssemblyMCCodeEmitter_8cpp.html" title="This file implements the WebAssemblyMCCodeEmitter class. " alt="" coords="261,109,517,165"/>
-<area shape="rect" id="node4" href="$WebAssemblyWasmObjectWriter_8cpp.html" title="This file handles Wasm&#45;specific object emission, converting LLVM&#39;s internal fixups into the appropria..." alt="" coords="541,109,783,165"/>
-</map>

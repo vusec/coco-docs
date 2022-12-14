@@ -1,4 +1,0 @@
-<map id="llvm::concat_iterator&lt; ValueT, IterTs &gt;" name="llvm::concat_iterator&lt; ValueT, IterTs &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; concat_iterator\l\&lt; ValueT, IterTs... \&gt;,\l std::forward_iterator_tag,\l ValueT \&gt;" alt="" coords="664,46,835,131"/>
-<area shape="rect" id="node4" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="267,100,491,171"/>
-</map>

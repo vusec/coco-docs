@@ -1,5 +1,0 @@
-<map id="include/llvm/Transforms/Utils/EscapeEnumerator.h" name="include/llvm/Transforms/Utils/EscapeEnumerator.h">
-<area shape="rect" id="node2" href="$ShadowStackGCLowering_8cpp.html" title="lib/CodeGen/ShadowStackGCLowering.cpp" alt="" coords="5,102,281,129"/>
-<area shape="rect" id="node3" href="$ThreadSanitizer_8cpp.html" title="lib/Transforms/Instrumentation\l/ThreadSanitizer.cpp" alt="" coords="305,95,504,136"/>
-<area shape="rect" id="node4" href="$EscapeEnumerator_8cpp.html" title="lib/Transforms/Utils\l/EscapeEnumerator.cpp" alt="" coords="529,95,691,136"/>
-</map>

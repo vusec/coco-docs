@@ -1,5 +1,0 @@
-<map id="llvm::DwarfCFIException" name="llvm::DwarfCFIException">
-<area shape="rect" id="node2" href="$classllvm_1_1DwarfCFIExceptionBase.html" title="llvm::DwarfCFIExceptionBase" alt="" coords="5,155,204,181"/>
-<area shape="rect" id="node3" href="$classllvm_1_1EHStreamer.html" title="Emits exception handling directives. " alt="" coords="41,80,168,107"/>
-<area shape="rect" id="node4" href="$classllvm_1_1AsmPrinterHandler.html" title="Collects and handles AsmPrinter objects required to build debug or EH information. " alt="" coords="23,5,187,32"/>
-</map>

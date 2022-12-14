@@ -1,7 +1,0 @@
-<map id="include/llvm/ObjectYAML/ObjectYAML.h" name="include/llvm/ObjectYAML/ObjectYAML.h">
-<area shape="rect" id="node2" href="$COFFEmitter_8cpp.html" title="The COFF component of yaml2obj. " alt="" coords="5,95,225,121"/>
-<area shape="rect" id="node3" href="$MachOEmitter_8cpp.html" title="The Mach component of yaml2obj. " alt="" coords="250,95,477,121"/>
-<area shape="rect" id="node4" href="$ObjectYAML_8cpp.html" title="lib/ObjectYAML/ObjectYAML.cpp" alt="" coords="501,95,717,121"/>
-<area shape="rect" id="node5" href="$WasmEmitter_8cpp.html" title="The Wasm component of yaml2obj. " alt="" coords="741,95,964,121"/>
-<area shape="rect" id="node6" href="$yaml2obj_8cpp.html" title="lib/ObjectYAML/yaml2obj.cpp" alt="" coords="989,95,1183,121"/>
-</map>

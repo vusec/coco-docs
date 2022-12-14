@@ -1,9 +1,0 @@
-<map id="include/llvm/CodeGen/LiveRangeCalc.h" name="include/llvm/CodeGen/LiveRangeCalc.h">
-<area shape="rect" id="node2" href="$SplitKit_8h.html" title="lib/CodeGen/SplitKit.h" alt="" coords="255,95,405,121"/>
-<area shape="rect" id="node3" href="$InlineSpiller_8cpp.html" title="lib/CodeGen/InlineSpiller.cpp" alt="" coords="5,169,196,196"/>
-<area shape="rect" id="node5" href="$SplitKit_8cpp.html" title="lib/CodeGen/SplitKit.cpp" alt="" coords="463,169,629,196"/>
-<area shape="rect" id="node6" href="$LiveIntervals_8cpp.html" title="lib/CodeGen/LiveIntervals.cpp" alt="" coords="481,95,678,121"/>
-<area shape="rect" id="node7" href="$LiveRangeCalc_8cpp.html" title="lib/CodeGen/LiveRangeCalc.cpp" alt="" coords="703,95,915,121"/>
-<area shape="rect" id="node8" href="$MachineVerifier_8cpp.html" title="lib/CodeGen/MachineVerifier.cpp" alt="" coords="939,95,1153,121"/>
-<area shape="rect" id="node4" href="$RegAllocGreedy_8cpp.html" title="lib/CodeGen/RegAllocGreedy.cpp" alt="" coords="221,169,439,196"/>
-</map>

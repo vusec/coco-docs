@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structllvm_1_1VReg2SUnit.html" title="An individual mapping from virtual register number to SUnit. " alt="" coords="5,5,132,32"/>
-<area shape="rect" id="node2" href="$structllvm_1_1VReg2SUnitOperIdx.html" title="Mapping from virtual register to SUnit including an operand index. " alt="" coords="180,5,353,32"/>
-</map>

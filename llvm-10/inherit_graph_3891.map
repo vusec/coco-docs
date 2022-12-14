@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; GetRemoteInfo, std::tuple\l\&lt; std::string, uint32_t, uint32\l_t, uint32_t, uint32_t \&gt;()\&gt;" alt="" coords="5,5,195,76"/>
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1remote_1_1utils_1_1GetRemoteInfo.html" title="GetRemoteInfo result is (Triple, PointerSize, PageSize, TrampolineSize, IndirectStubsSize). " alt="" coords="243,20,385,61"/>
-</map>

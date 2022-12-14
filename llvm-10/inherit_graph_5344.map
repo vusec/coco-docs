@@ -1,5 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structllvm_1_1yaml_1_1MachineFunctionInfo.html" title="Targets should override this in a way that mirrors the implementation of llvm::MachineFunctionInfo. " alt="" coords="5,31,216,57"/>
-<area shape="rect" id="node2" href="$structllvm_1_1yaml_1_1SIMachineFunctionInfo.html" title="llvm::yaml::SIMachineFunctionInfo" alt="" coords="275,5,499,32"/>
-<area shape="rect" id="node3" href="$structllvm_1_1yaml_1_1WebAssemblyFunctionInfo.html" title="llvm::yaml::WebAssemblyFunctionInfo" alt="" coords="264,56,511,83"/>
-</map>

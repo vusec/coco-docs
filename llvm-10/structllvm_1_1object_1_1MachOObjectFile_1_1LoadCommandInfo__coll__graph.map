@@ -1,5 +1,0 @@
-<map id="llvm::object::MachOObjectFile::LoadCommandInfo" name="llvm::object::MachOObjectFile::LoadCommandInfo">
-<area shape="rect" id="node2" href="$classchar.html" title="char" alt="" coords="45,109,92,136"/>
-<area shape="rect" id="node3" href="$structllvm_1_1MachO_1_1load__command.html" title="llvm::MachO::load_command" alt="" coords="117,109,309,136"/>
-<area shape="rect" id="node4" href="$classuint32__t.html" title="uint32_t" alt="" coords="179,5,247,32"/>
-</map>

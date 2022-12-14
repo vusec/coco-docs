@@ -1,4 +1,0 @@
-<map id="llvm::latency_sort" name="llvm::latency_sort">
-<area shape="rect" id="node2" href="$classllvm_1_1LatencyPriorityQueue.html" title="llvm::LatencyPriorityQueue" alt="" coords="5,96,184,123"/>
-<area shape="rect" id="node3" href="$classllvm_1_1SchedulingPriorityQueue.html" title="This interface is used to plug different priorities computation algorithms into the list scheduler..." alt="" coords="15,5,174,47"/>
-</map>

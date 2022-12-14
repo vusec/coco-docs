@@ -1,6 +1,0 @@
-<map id="llvm::DenseMapInfo&lt; codeview::LocallyHashedType &gt;" name="llvm::DenseMapInfo&lt; codeview::LocallyHashedType &gt;">
-<area shape="rect" id="node2" href="$structllvm_1_1codeview_1_1LocallyHashedType.html" title="A locally hashed type represents a straightforward hash code of a serialized record. " alt="" coords="58,184,290,211"/>
-<area shape="rect" id="node3" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; uint8_t \&gt;" alt="" coords="5,95,175,121"/>
-<area shape="rect" id="node4" href="$classllvm_1_1ArrayRef.html" title="ArrayRef &#45; Represent a constant reference to an array (0 or more elements consecutively in memory)..." alt="" coords="21,5,159,32"/>
-<area shape="rect" id="node5" href="$classllvm_1_1hash__code.html" title="An opaque object representing a hash code. " alt="" coords="199,95,317,121"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="include/llvm/Support/CBindingWrapping.h" name="include/llvm/Support/CBindingWrapping.h">
-<area shape="rect" id="node2" href="$c_2Types_8h.html" title="llvm&#45;c/Types.h" alt="" coords="327,95,435,121"/>
-<area shape="rect" id="node9" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="586,95,741,121"/>
-<area shape="rect" id="node3" href="$c_2DataTypes_8h.html" title="llvm&#45;c/DataTypes.h" alt="" coords="159,169,295,196"/>
-<area shape="rect" id="node8" href="$ExternC_8h.html" title="llvm&#45;c/ExternC.h" alt="" coords="321,169,441,196"/>
-<area shape="rect" id="node10" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="399,244,562,271"/>
-<area shape="rect" id="node13" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="517,169,687,196"/>
-</map>

@@ -1,3 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1orc_1_1rpc_1_1SerializationTraits_3_01ChannelT_00_01std_1_1string_00_01T_00_01typenc0aa439a9d21788855b4445082ea7521.html" title="llvm::orc::rpc::Serialization\lTraits\&lt; ChannelT, std::string,\l T, typename std::enable_if\l\&lt; std::is_base_of\&lt; RawByteChannel,\l ChannelT \&gt;::value &amp;&amp;(std::is_same\l\&lt; T, const char * \&gt;::value\|\|std::is\l_same\&lt; T, char * \&gt;::value)\&gt;::type \&gt;" alt="" coords="5,5,247,120"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="llvm::orc::LLJITBuilder" name="llvm::orc::LLJITBuilder">
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1LLJITBuilderState.html" title="llvm::orc::LLJITBuilderState" alt="" coords="412,5,596,32"/>
-<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1LLJITBuilderSetters.html" title="llvm::orc::LLJITBuilderSetters\l\&lt; LLJIT, LLJITBuilder, LLJITBuilder\lState \&gt;" alt="" coords="389,56,619,112"/>
-<area shape="rect" id="node4" href="$classllvm_1_1orc_1_1LLJITBuilderSetters.html" title="llvm::orc::LLJITBuilderSetters\l\&lt; JITType, SetterImpl, State \&gt;" alt="" coords="5,63,207,105"/>
-</map>

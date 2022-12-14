@@ -1,5 +1,0 @@
-<map id="llvm::X86_64MachoTargetObjectFile" name="llvm::X86_64MachoTargetObjectFile">
-<area shape="rect" id="node2" href="$classllvm_1_1TargetLoweringObjectFileMachO.html" title="llvm::TargetLoweringObject\lFileMachO" alt="" coords="31,155,213,196"/>
-<area shape="rect" id="node3" href="$classllvm_1_1TargetLoweringObjectFile.html" title="llvm::TargetLoweringObjectFile" alt="" coords="21,80,223,107"/>
-<area shape="rect" id="node4" href="$classllvm_1_1MCObjectFileInfo.html" title="llvm::MCObjectFileInfo" alt="" coords="44,5,200,32"/>
-</map>

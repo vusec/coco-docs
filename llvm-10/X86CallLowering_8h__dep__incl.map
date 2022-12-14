@@ -1,5 +1,0 @@
-<map id="lib/Target/X86/X86CallLowering.h" name="lib/Target/X86/X86CallLowering.h">
-<area shape="rect" id="node2" href="$X86CallLowering_8cpp.html" title="This file implements the lowering of LLVM calls to machine code calls for GlobalISel. " alt="" coords="5,87,236,114"/>
-<area shape="rect" id="node3" href="$X86Subtarget_8cpp.html" title="lib/Target/X86/X86Subtarget.cpp" alt="" coords="261,87,471,114"/>
-<area shape="rect" id="node4" href="$X86TargetMachine_8cpp.html" title="lib/Target/X86/X86Target\lMachine.cpp" alt="" coords="495,80,661,121"/>
-</map>

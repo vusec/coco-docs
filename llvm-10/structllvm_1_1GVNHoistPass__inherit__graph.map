@@ -1,4 +1,0 @@
-<map id="llvm::GVNHoistPass" name="llvm::GVNHoistPass">
-<area shape="rect" id="node2" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; GVNHoistPass \&gt;" alt="" coords="9,109,146,151"/>
-<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes. " alt="" coords="9,5,146,47"/>
-</map>

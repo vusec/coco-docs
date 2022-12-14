@@ -1,6 +1,0 @@
-<map id="include/llvm/DWARFLinker/DWARFLinkerDeclContext.h" name="include/llvm/DWARFLinker/DWARFLinkerDeclContext.h">
-<area shape="rect" id="node2" href="$DWARFLinker_8h.html" title="include/llvm/DWARFLinker\l/DWARFLinker.h" alt="" coords="35,95,215,136"/>
-<area shape="rect" id="node4" href="$DWARFLinkerCompileUnit_8cpp.html" title="lib/DWARFLinker/DWARFLinker\lCompileUnit.cpp" alt="" coords="239,95,453,136"/>
-<area shape="rect" id="node5" href="$DWARFLinkerDeclContext_8cpp.html" title="lib/DWARFLinker/DWARFLinker\lDeclContext.cpp" alt="" coords="477,95,690,136"/>
-<area shape="rect" id="node3" href="$DWARFLinker_8cpp.html" title="lib/DWARFLinker/DWARFLinker.cpp" alt="" coords="5,184,244,211"/>
-</map>

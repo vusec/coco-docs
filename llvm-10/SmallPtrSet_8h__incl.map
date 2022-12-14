@@ -1,9 +1,0 @@
-<map id="include/llvm/ADT/SmallPtrSet.h" name="include/llvm/ADT/SmallPtrSet.h">
-<area shape="rect" id="node2" href="$EpochTracker_8h.html" title="llvm/ADT/EpochTracker.h" alt="" coords="285,95,458,121"/>
-<area shape="rect" id="node5" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="527,177,690,203"/>
-<area shape="rect" id="node8" href="$ReverseIteration_8h.html" title="llvm/Support/ReverseIteration.h" alt="" coords="53,95,260,121"/>
-<area shape="rect" id="node18" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="533,95,703,121"/>
-<area shape="rect" id="node9" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="5,169,169,211"/>
-<area shape="rect" id="node10" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="136,259,311,285"/>
-<area shape="rect" id="node11" href="$c_2DataTypes_8h.html" title="llvm&#45;c/DataTypes.h" alt="" coords="155,333,291,360"/>
-</map>

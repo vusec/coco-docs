@@ -1,6 +1,0 @@
-<map id="include/llvm/Transforms/CFGuard.h" name="include/llvm/Transforms/CFGuard.h">
-<area shape="rect" id="node2" href="$AArch64TargetMachine_8cpp.html" title="lib/Target/AArch64\l/AArch64TargetMachine.cpp" alt="" coords="5,95,192,136"/>
-<area shape="rect" id="node3" href="$ARMTargetMachine_8cpp.html" title="lib/Target/ARM/ARMTarget\lMachine.cpp" alt="" coords="216,95,397,136"/>
-<area shape="rect" id="node4" href="$X86TargetMachine_8cpp.html" title="lib/Target/X86/X86Target\lMachine.cpp" alt="" coords="422,95,589,136"/>
-<area shape="rect" id="node5" href="$CFGuard_8cpp.html" title="This file contains the IR transform to add Microsoft&#39;s Control Flow Guard checks on Windows targets..." alt="" coords="613,95,776,136"/>
-</map>

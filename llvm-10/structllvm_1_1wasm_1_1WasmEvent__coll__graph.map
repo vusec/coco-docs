@@ -1,6 +1,0 @@
-<map id="llvm::wasm::WasmEvent" name="llvm::wasm::WasmEvent">
-<area shape="rect" id="node2" href="$classuint32__t.html" title="uint32_t" alt="" coords="9,5,77,32"/>
-<area shape="rect" id="node3" href="$structllvm_1_1wasm_1_1WasmEventType.html" title="llvm::wasm::WasmEventType" alt="" coords="63,109,262,136"/>
-<area shape="rect" id="node4" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e. " alt="" coords="287,109,396,136"/>
-<area shape="rect" id="node5" href="$classsize__t.html" title="size_t" alt="" coords="313,5,370,32"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="include/llvm/BinaryFormat/MsgPack.h" name="include/llvm/BinaryFormat/MsgPack.h">
-<area shape="rect" id="node2" href="$MsgPackWriter_8h.html" title="This file contains a MessagePack writer. " alt="" coords="83,95,256,136"/>
-<area shape="rect" id="node4" href="$MsgPackWriter_8cpp.html" title="This file implements a MessagePack writer. " alt="" coords="205,184,381,225"/>
-<area shape="rect" id="node5" href="$MsgPackReader_8cpp.html" title="This file implements a MessagePack reader. " alt="" coords="331,95,507,136"/>
-<area shape="rect" id="node3" href="$MsgPackDocument_8cpp.html" title="lib/BinaryFormat/MsgPack\lDocument.cpp" alt="" coords="5,184,181,225"/>
-</map>

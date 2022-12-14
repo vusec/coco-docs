@@ -1,7 +1,0 @@
-<map id="include/llvm/Analysis/ModuleSummaryAnalysis.h" name="include/llvm/Analysis/ModuleSummaryAnalysis.h">
-<area shape="rect" id="node2" href="$ModuleSummaryAnalysis_8cpp.html" title="lib/Analysis/ModuleSummary\lAnalysis.cpp" alt="" coords="5,95,196,136"/>
-<area shape="rect" id="node3" href="$BitcodeWriterPass_8cpp.html" title="lib/Bitcode/Writer\l/BitcodeWriterPass.cpp" alt="" coords="221,95,381,136"/>
-<area shape="rect" id="node4" href="$ThinLTOCodeGenerator_8cpp.html" title="lib/LTO/ThinLTOCodeGenerator.cpp" alt="" coords="405,102,636,129"/>
-<area shape="rect" id="node5" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="660,102,843,129"/>
-<area shape="rect" id="node6" href="$ThinLTOBitcodeWriter_8cpp.html" title="lib/Transforms/IPO\l/ThinLTOBitcodeWriter.cpp" alt="" coords="867,95,1047,136"/>
-</map>

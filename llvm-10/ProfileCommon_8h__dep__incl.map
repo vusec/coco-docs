@@ -1,7 +1,0 @@
-<map id="include/llvm/ProfileData/ProfileCommon.h" name="include/llvm/ProfileData/ProfileCommon.h">
-<area shape="rect" id="node2" href="$InstrProfReader_8cpp.html" title="lib/ProfileData/InstrProf\lReader.cpp" alt="" coords="5,95,164,136"/>
-<area shape="rect" id="node3" href="$InstrProfWriter_8cpp.html" title="lib/ProfileData/InstrProf\lWriter.cpp" alt="" coords="188,95,347,136"/>
-<area shape="rect" id="node4" href="$ProfileSummaryBuilder_8cpp.html" title="lib/ProfileData/ProfileSummary\lBuilder.cpp" alt="" coords="371,95,572,136"/>
-<area shape="rect" id="node5" href="$SampleProfReader_8cpp.html" title="lib/ProfileData/SampleProf\lReader.cpp" alt="" coords="597,95,773,136"/>
-<area shape="rect" id="node6" href="$SampleProfWriter_8cpp.html" title="lib/ProfileData/SampleProf\lWriter.cpp" alt="" coords="797,95,973,136"/>
-</map>

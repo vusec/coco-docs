@@ -1,5 +1,0 @@
-<map id="llvm::ScoreboardHazardRecognizer" name="llvm::ScoreboardHazardRecognizer">
-<area shape="rect" id="node3" href="$classllvm_1_1ARMHazardRecognizer.html" title="ARMHazardRecognizer handles special constraints that are not expressed in the scheduling itinerary..." alt="" coords="5,162,197,189"/>
-<area shape="rect" id="node4" href="$classllvm_1_1PPCDispatchGroupSBHazardRecognizer.html" title="PPCDispatchGroupSBHazardRecognizer &#45; This class implements a scoreboard&#45;based hazard recognizer for P..." alt="" coords="221,155,451,196"/>
-<area shape="rect" id="node2" href="$classllvm_1_1ScheduleHazardRecognizer.html" title="HazardRecognizer &#45; This determines whether or not an instruction can be issued this cycle..." alt="" coords="111,5,327,32"/>
-</map>

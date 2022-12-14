@@ -1,5 +1,0 @@
-<map id="llvm::orc::IRMaterializationUnit" name="llvm::orc::IRMaterializationUnit">
-<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1BasicIRLayerMaterializationUnit.html" title="MaterializationUnit that materializes modules by calling the &#39;emit&#39; method on the given IRLayer..." alt="" coords="492,5,759,32"/>
-<area shape="rect" id="node4" href="$classllvm_1_1orc_1_1PartitioningIRMaterializationUnit.html" title="llvm::orc::PartitioningIRMaterializationUnit" alt="" coords="492,56,759,83"/>
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1MaterializationUnit.html" title="A MaterializationUnit represents a set of symbol definitions that can be materialized as a group..." alt="" coords="5,31,193,57"/>
-</map>

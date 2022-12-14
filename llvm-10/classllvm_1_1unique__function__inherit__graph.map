@@ -1,4 +1,0 @@
-<map id="llvm::unique_function&lt; FunctionT &gt;" name="llvm::unique_function&lt; FunctionT &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1unique__function.html" title="llvm::unique_function\l\&lt; void(Expected\&lt; SymbolMap \&gt;)\&gt;" alt="" coords="420,5,643,47"/>
-<area shape="rect" id="node3" href="$classllvm_1_1unique__function.html" title="llvm::unique_function\l\&lt; Expected\&lt; JITTargetAddress \&gt;()\&gt;" alt="" coords="415,71,648,112"/>
-</map>

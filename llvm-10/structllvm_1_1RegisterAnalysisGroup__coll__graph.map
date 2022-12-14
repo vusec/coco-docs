@@ -1,4 +1,0 @@
-<map id="llvm::RegisterAnalysisGroup&lt; Interface, Default &gt;" name="llvm::RegisterAnalysisGroup&lt; Interface, Default &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1RegisterAGBase.html" title="RegisterAnalysisGroup &#45; Register a Pass as a member of an analysis group. " alt="" coords="23,80,175,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1PassInfo.html" title="PassInfo class &#45; An instance of this class exists for every pass known by the system, and can be obtained from a live Pass by calling its getPassInfo() method. " alt="" coords="46,5,153,32"/>
-</map>

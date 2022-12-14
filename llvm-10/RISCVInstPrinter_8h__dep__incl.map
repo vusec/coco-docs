@@ -1,5 +1,0 @@
-<map id="lib/Target/RISCV/MCTargetDesc/RISCVInstPrinter.h" name="lib/Target/RISCV/MCTargetDesc/RISCVInstPrinter.h">
-<area shape="rect" id="node2" href="$RISCVInstPrinter_8cpp.html" title="lib/Target/RISCV/MCTarget\lDesc/RISCVInstPrinter.cpp" alt="" coords="5,95,189,136"/>
-<area shape="rect" id="node3" href="$RISCVMCTargetDesc_8cpp.html" title="lib/Target/RISCV/MCTarget\lDesc/RISCVMCTargetDesc.cpp" alt="" coords="213,95,427,136"/>
-<area shape="rect" id="node4" href="$RISCVAsmPrinter_8cpp.html" title="lib/Target/RISCV/RISCVAsm\lPrinter.cpp" alt="" coords="451,95,645,136"/>
-</map>

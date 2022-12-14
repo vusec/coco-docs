@@ -1,6 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classARMGenRegisterInfo.html" title="ARMGenRegisterInfo" alt="" coords="5,31,152,57"/>
-<area shape="rect" id="node2" href="$classllvm_1_1ARMBaseRegisterInfo.html" title="llvm::ARMBaseRegisterInfo" alt="" coords="200,31,385,57"/>
-<area shape="rect" id="node3" href="$structllvm_1_1ARMRegisterInfo.html" title="llvm::ARMRegisterInfo" alt="" coords="439,5,593,32"/>
-<area shape="rect" id="node4" href="$structllvm_1_1ThumbRegisterInfo.html" title="llvm::ThumbRegisterInfo" alt="" coords="433,56,599,83"/>
-</map>

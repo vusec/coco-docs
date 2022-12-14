@@ -1,4 +1,0 @@
-<map id="llvm::MipsGenRegisterBankInfo" name="llvm::MipsGenRegisterBankInfo">
-<area shape="rect" id="node3" href="$classllvm_1_1MipsRegisterBankInfo.html" title="This class provides the information for the target register banks. " alt="" coords="17,155,200,181"/>
-<area shape="rect" id="node2" href="$classllvm_1_1RegisterBankInfo.html" title="Holds all the information related to register banks. " alt="" coords="31,5,186,32"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="llvm::DILexicalBlockFile" name="llvm::DILexicalBlockFile">
-<area shape="rect" id="node2" href="$classllvm_1_1DILexicalBlockBase.html" title="llvm::DILexicalBlockBase" alt="" coords="123,536,295,563"/>
-<area shape="rect" id="node3" href="$classllvm_1_1DILocalScope.html" title="A scope for locals. " alt="" coords="153,460,289,487"/>
-<area shape="rect" id="node4" href="$classllvm_1_1DIScope.html" title="Base class for scope&#45;like contexts. " alt="" coords="173,375,278,402"/>
-<area shape="rect" id="node5" href="$classllvm_1_1DINode.html" title="Tagged DWARF&#45;like metadata node. " alt="" coords="164,291,263,317"/>
-<area shape="rect" id="node6" href="$classllvm_1_1MDNode.html" title="Metadata node. " alt="" coords="124,215,231,241"/>
-<area shape="rect" id="node7" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy. " alt="" coords="33,139,141,165"/>
-<area shape="rect" id="node8" href="$classunsigned.html" title="unsigned" alt="" coords="49,5,124,32"/>
-</map>

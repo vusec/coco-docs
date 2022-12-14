@@ -1,5 +1,0 @@
-<map id="include/llvm/Analysis/PtrUseVisitor.h" name="include/llvm/Analysis/PtrUseVisitor.h">
-<area shape="rect" id="node2" href="$PtrUseVisitor_8cpp.html" title="Implementation of the pointer use visitors. " alt="" coords="5,102,201,129"/>
-<area shape="rect" id="node3" href="$CoroFrame_8cpp.html" title="lib/Transforms/Coroutines\l/CoroFrame.cpp" alt="" coords="225,95,397,136"/>
-<area shape="rect" id="node4" href="$SROA_8cpp.html" title="This transformation implements the well known scalar replacement of aggregates transformation. " alt="" coords="422,95,569,136"/>
-</map>

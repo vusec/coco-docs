@@ -1,6 +1,0 @@
-<map id="llvm::MachineSchedRegistry" name="llvm::MachineSchedRegistry">
-<area shape="rect" id="node2" href="$classllvm_1_1MachinePassRegistryNode.html" title="llvm::MachinePassRegistry\lNode\&lt; ScheduleDAGInstrs\l *(*)(MachineSchedContext *)\&gt;" alt="" coords="416,7,617,63"/>
-<area shape="rect" id="node3" href="$classllvm_1_1MachinePassRegistryNode.html" title="MachinePassRegistryNode &#45; Machine pass node stored in registration list. " alt="" coords="5,14,188,55"/>
-<area shape="rect" id="node4" href="$classllvm_1_1MachinePassRegistry.html" title="llvm::MachinePassRegistry\l\&lt; ScheduleDAGCtor \&gt;" alt="" coords="425,87,608,129"/>
-<area shape="rect" id="node5" href="$classllvm_1_1MachinePassRegistry.html" title="MachinePassRegistry &#45; Track the registration of machine passes. " alt="" coords="5,87,188,129"/>
-</map>

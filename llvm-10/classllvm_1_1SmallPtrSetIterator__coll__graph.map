@@ -1,4 +1,0 @@
-<map id="llvm::SmallPtrSetIterator&lt; PtrTy &gt;" name="llvm::SmallPtrSetIterator&lt; PtrTy &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1SmallPtrSetIteratorImpl.html" title="SmallPtrSetIteratorImpl &#45; This is the common base class shared between all instances of SmallPtrSetIt..." alt="" coords="5,117,196,143"/>
-<area shape="rect" id="node4" href="$classllvm_1_1DebugEpochBase_1_1HandleBase.html" title="A base class for iterator classes (&quot;handles&quot;) that wish to poll for iterator invalidating modificatio..." alt="" coords="220,109,379,151"/>
-</map>

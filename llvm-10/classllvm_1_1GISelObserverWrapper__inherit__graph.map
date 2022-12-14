@@ -1,4 +1,0 @@
-<map id="llvm::GISelObserverWrapper" name="llvm::GISelObserverWrapper">
-<area shape="rect" id="node2" href="$classllvm_1_1MachineFunction_1_1Delegate.html" title="llvm::MachineFunction\l::Delegate" alt="" coords="5,5,159,47"/>
-<area shape="rect" id="node3" href="$classllvm_1_1GISelChangeObserver.html" title="Abstract class that contains various methods for clients to notify about changes. ..." alt="" coords="183,13,368,39"/>
-</map>

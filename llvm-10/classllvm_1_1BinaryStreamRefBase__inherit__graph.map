@@ -1,6 +1,0 @@
-<map id="llvm::BinaryStreamRefBase&lt; RefType, StreamType &gt;" name="llvm::BinaryStreamRefBase&lt; RefType, StreamType &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1BinaryStreamRefBase.html" title="llvm::BinaryStreamRefBase\l\&lt; BinaryStreamRef, BinaryStream \&gt;" alt="" coords="407,5,640,47"/>
-<area shape="rect" id="node4" href="$classllvm_1_1BinaryStreamRefBase.html" title="llvm::BinaryStreamRefBase\l\&lt; WritableBinaryStreamRef,\l WritableBinaryStream \&gt;" alt="" coords="430,71,617,127"/>
-<area shape="rect" id="node3" href="$classllvm_1_1BinaryStreamRef.html" title="BinaryStreamRef is to BinaryStream what ArrayRef is to an Array. " alt="" coords="713,13,868,39"/>
-<area shape="rect" id="node5" href="$classllvm_1_1WritableBinaryStreamRef.html" title="llvm::WritableBinaryStreamRef" alt="" coords="689,86,892,113"/>
-</map>

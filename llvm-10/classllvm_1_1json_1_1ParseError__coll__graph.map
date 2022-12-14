@@ -1,7 +1,0 @@
-<map id="llvm::json::ParseError" name="llvm::json::ParseError">
-<area shape="rect" id="node2" href="$classllvm_1_1ErrorInfo.html" title="llvm::ErrorInfo\&lt; ParseError \&gt;" alt="" coords="5,185,196,212"/>
-<area shape="rect" id="node3" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes. " alt="" coords="12,89,147,115"/>
-<area shape="rect" id="node4" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types. " alt="" coords="171,81,329,123"/>
-<area shape="rect" id="node5" href="$classllvm_1_1ParentErrT.html" title="ParentErrT" alt="" coords="207,5,293,32"/>
-<area shape="rect" id="node6" href="$classchar.html" title="char" alt="" coords="220,185,267,212"/>
-</map>

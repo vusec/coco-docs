@@ -1,6 +1,0 @@
-<map id="include/llvm/Transforms/AggressiveInstCombine/AggressiveInstCombine.h" name="include/llvm/Transforms/AggressiveInstCombine/AggressiveInstCombine.h">
-<area shape="rect" id="node2" href="$LinkAllPasses_8h.html" title="include/llvm/LinkAllPasses.h" alt="" coords="5,117,195,143"/>
-<area shape="rect" id="node3" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="219,117,402,143"/>
-<area shape="rect" id="node4" href="$AggressiveInstCombine_8cpp.html" title="lib/Transforms/Aggressive\lInstCombine/AggressiveInstCombine.cpp" alt="" coords="427,109,691,151"/>
-<area shape="rect" id="node5" href="$PassManagerBuilder_8cpp.html" title="lib/Transforms/IPO\l/PassManagerBuilder.cpp" alt="" coords="715,109,885,151"/>
-</map>

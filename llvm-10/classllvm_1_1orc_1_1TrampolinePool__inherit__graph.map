@@ -1,4 +1,0 @@
-<map id="llvm::orc::TrampolinePool" name="llvm::orc::TrampolinePool">
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1LocalTrampolinePool.html" title="A trampoline pool for trampolines within the current process. " alt="" coords="224,5,399,47"/>
-<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1remote_1_1OrcRemoteTargetClient_1_1RemoteTrampolinePool.html" title="llvm::orc::remote::\lOrcRemoteTargetClient\l::RemoteTrampolinePool" alt="" coords="228,71,395,127"/>
-</map>

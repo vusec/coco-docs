@@ -1,8 +1,0 @@
-<map id="include/llvm/DebugInfo/PDB/PDBSymbolTypeFunctionSig.h" name="include/llvm/DebugInfo/PDB/PDBSymbolTypeFunctionSig.h">
-<area shape="rect" id="node2" href="$PDBSymbolFunc_8h.html" title="include/llvm/DebugInfo\l/PDB/PDBSymbolFunc.h" alt="" coords="420,95,591,136"/>
-<area shape="rect" id="node4" href="$PDBSymbol_8cpp.html" title="lib/DebugInfo/PDB/PDBSymbol.cpp" alt="" coords="5,191,237,218"/>
-<area shape="rect" id="node5" href="$PDBSymbolFunc_8cpp.html" title="lib/DebugInfo/PDB/PDBSymbol\lFunc.cpp" alt="" coords="771,184,978,225"/>
-<area shape="rect" id="node7" href="$PDBSymbolTypeFunctionSig_8cpp.html" title="lib/DebugInfo/PDB/PDBSymbol\lTypeFunctionSig.cpp" alt="" coords="666,95,873,136"/>
-<area shape="rect" id="node3" href="$PDBContext_8cpp.html" title="lib/DebugInfo/PDB/PDBContext.cpp" alt="" coords="261,191,496,218"/>
-<area shape="rect" id="node6" href="$UDTLayout_8cpp.html" title="lib/DebugInfo/PDB/UDTLayout.cpp" alt="" coords="520,191,747,218"/>
-</map>

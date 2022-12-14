@@ -1,5 +1,0 @@
-<map id="llvm::RISCVTargetStreamer" name="llvm::RISCVTargetStreamer">
-<area shape="rect" id="node3" href="$classllvm_1_1RISCVTargetAsmStreamer.html" title="llvm::RISCVTargetAsmStreamer" alt="" coords="5,155,219,181"/>
-<area shape="rect" id="node4" href="$classllvm_1_1RISCVTargetELFStreamer.html" title="llvm::RISCVTargetELFStreamer" alt="" coords="243,155,453,181"/>
-<area shape="rect" id="node2" href="$classllvm_1_1MCTargetStreamer.html" title="Target specific streamer interface. " alt="" coords="147,5,312,32"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="llvm::MipsDAGToDAGISel" name="llvm::MipsDAGToDAGISel">
-<area shape="rect" id="node6" href="$classllvm_1_1Mips16DAGToDAGISel.html" title="llvm::Mips16DAGToDAGISel" alt="" coords="5,379,197,405"/>
-<area shape="rect" id="node7" href="$classllvm_1_1MipsSEDAGToDAGISel.html" title="llvm::MipsSEDAGToDAGISel" alt="" coords="222,379,418,405"/>
-<area shape="rect" id="node2" href="$classllvm_1_1SelectionDAGISel.html" title="SelectionDAGISel &#45; This is the common base class used for SelectionDAG&#45;based pattern&#45;matching instruc..." alt="" coords="131,229,291,256"/>
-<area shape="rect" id="node3" href="$classllvm_1_1MachineFunctionPass.html" title="MachineFunctionPass &#45; This class adapts the FunctionPass interface to allow convenient creation of pa..." alt="" coords="119,155,302,181"/>
-<area shape="rect" id="node4" href="$classllvm_1_1FunctionPass.html" title="FunctionPass class &#45; This class is used to implement most global optimizations. " alt="" coords="143,80,278,107"/>
-<area shape="rect" id="node5" href="$classllvm_1_1Pass.html" title="Pass interface &#45; Implemented by all &#39;passes&#39;. " alt="" coords="169,5,253,32"/>
-</map>

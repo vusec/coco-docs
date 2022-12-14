@@ -1,7 +1,0 @@
-<map id="lib/Target/Lanai/MCTargetDesc/LanaiBaseInfo.h" name="lib/Target/Lanai/MCTargetDesc/LanaiBaseInfo.h">
-<area shape="rect" id="node2" href="$LanaiInstrInfo_8cpp.html" title="lib/Target/Lanai/LanaiInstr\lInfo.cpp" alt="" coords="5,95,177,136"/>
-<area shape="rect" id="node3" href="$LanaiISelLowering_8cpp.html" title="lib/Target/Lanai/LanaiISel\lLowering.cpp" alt="" coords="201,95,371,136"/>
-<area shape="rect" id="node4" href="$LanaiMCInstLower_8cpp.html" title="lib/Target/Lanai/LanaiMCInst\lLower.cpp" alt="" coords="395,95,585,136"/>
-<area shape="rect" id="node5" href="$LanaiELFObjectWriter_8cpp.html" title="lib/Target/Lanai/MCTarget\lDesc/LanaiELFObjectWriter.cpp" alt="" coords="609,95,819,136"/>
-<area shape="rect" id="node6" href="$LanaiMCCodeEmitter_8cpp.html" title="lib/Target/Lanai/MCTarget\lDesc/LanaiMCCodeEmitter.cpp" alt="" coords="844,95,1051,136"/>
-</map>

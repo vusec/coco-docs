@@ -1,6 +1,0 @@
-<map id="llvm::DWARFYAML::VisitorImpl&lt; T &gt;" name="llvm::DWARFYAML::VisitorImpl&lt; T &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1DWARFYAML_1_1VisitorImpl.html" title="llvm::DWARFYAML::Visitor\lImpl\&lt; Data \&gt;" alt="" coords="11,109,196,151"/>
-<area shape="rect" id="node4" href="$classllvm_1_1DWARFYAML_1_1VisitorImpl.html" title="llvm::DWARFYAML::Visitor\lImpl\&lt; const Data \&gt;" alt="" coords="228,109,413,151"/>
-<area shape="rect" id="node3" href="$classllvm_1_1DWARFYAML_1_1Visitor.html" title="llvm::DWARFYAML::Visitor" alt="" coords="5,200,191,227"/>
-<area shape="rect" id="node5" href="$classllvm_1_1DWARFYAML_1_1ConstVisitor.html" title="llvm::DWARFYAML::ConstVisitor" alt="" coords="215,200,435,227"/>
-</map>

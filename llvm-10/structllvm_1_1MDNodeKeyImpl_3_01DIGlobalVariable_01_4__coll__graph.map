@@ -1,7 +1,0 @@
-<map id="llvm::MDNodeKeyImpl&lt; DIGlobalVariable &gt;" name="llvm::MDNodeKeyImpl&lt; DIGlobalVariable &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy. " alt="" coords="59,139,167,165"/>
-<area shape="rect" id="node6" href="$classllvm_1_1MDString.html" title="A single uniqued string. " alt="" coords="283,251,392,278"/>
-<area shape="rect" id="node3" href="$classunsigned.html" title="unsigned" alt="" coords="5,5,80,32"/>
-<area shape="rect" id="node4" href="$classuint32__t.html" title="uint32_t" alt="" coords="417,251,485,278"/>
-<area shape="rect" id="node5" href="$classbool.html" title="bool" alt="" coords="525,251,571,278"/>
-</map>

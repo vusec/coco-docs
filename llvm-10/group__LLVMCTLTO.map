@@ -1,4 +1,0 @@
-<map id="ThinLTO" name="ThinLTO">
-<area shape="rect" id="node2" href="$group__LLVMCTLTO__CACHING.html" title="// endgoup LLVMCTLTOThese entry points control the ThinLTO cache. " alt="" coords="316,13,476,39"/>
-<area shape="rect" id="node3" href="$group__LLVMC.html" title="This module exposes parts of the LLVM library as a C API. " alt="" coords="5,5,148,47"/>
-</map>

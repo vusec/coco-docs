@@ -1,5 +1,0 @@
-<map id="llvm::BumpPtrAllocatorImpl&lt; AllocatorT, SlabSize, SizeThreshold &gt;" name="llvm::BumpPtrAllocatorImpl&lt; AllocatorT, SlabSize, SizeThreshold &gt;">
-<area shape="rect" id="node4" href="$classllvm_1_1BumpPtrAllocatorImpl.html" title="llvm::BumpPtrAllocatorImpl\l\&lt; MallocAllocator, 65536 \&gt;" alt="" coords="881,29,1063,70"/>
-<area shape="rect" id="node2" href="$classllvm_1_1AllocatorBase.html" title="llvm::AllocatorBase\l\&lt; BumpPtrAllocatorImpl\l\&lt; AllocatorT, SlabSize,\l SizeThreshold \&gt; \&gt;" alt="" coords="332,14,493,85"/>
-<area shape="rect" id="node3" href="$classllvm_1_1AllocatorBase.html" title="CRTP base class providing obvious overloads for the core Allocate() methods of LLVM&#45;style allocators..." alt="" coords="5,29,140,70"/>
-</map>

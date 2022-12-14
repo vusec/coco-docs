@@ -1,7 +1,0 @@
-<map id="llvm::DenseMapInfo&lt; T &gt;" name="llvm::DenseMapInfo&lt; T &gt;">
-<area shape="rect" id="node2" href="$structllvm_1_1DenseMapInfo.html" title="llvm::DenseMapInfo\l\&lt; DeclContext *\&gt;" alt="" coords="333,5,472,47"/>
-<area shape="rect" id="node4" href="$structllvm_1_1DenseMapInfo.html" title="llvm::DenseMapInfo\l\&lt; Value *\&gt;" alt="" coords="333,71,472,112"/>
-<area shape="rect" id="node5" href="$structllvm_1_1DenseMapInfo.html" title="llvm::DenseMapInfo\l\&lt; MachineInstr *\&gt;" alt="" coords="333,136,472,177"/>
-<area shape="rect" id="node3" href="$structllvm_1_1DeclMapInfo.html" title="Info type for the DenseMap storing the DeclContext pointers. " alt="" coords="555,13,683,39"/>
-<area shape="rect" id="node6" href="$structllvm_1_1MachineInstrExpressionTrait.html" title="Special DenseMapInfo traits to compare MachineInstr* by value of the instruction rather than by point..." alt="" coords="521,136,716,177"/>
-</map>

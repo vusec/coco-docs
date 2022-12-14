@@ -1,9 +1,0 @@
-<map id="lib/Target/AVR/MCTargetDesc" name="lib/Target/AVR/MCTargetDesc">
-<area shape="rect" id="node1" href="dir_88ebf0c1408e3a3b1c0df70923f233b8.html" title="MCTargetDesc" alt="" coords="27,52,138,100"/>
-<area shape="rect" id="node2" href="dir_d44c64559bbebec7f509842c48db8b23.html" title="include" alt="" coords="45,244,117,292"/>
-<area shape="rect" id="edge1-headlabel" href="dir_000170_000000.html" title="75" alt="" coords="74,217,89,232"/>
-<area shape="rect" id="node3" href="dir_2454bd238024ca9f2c36237eef40a3dc.html" title="TargetInfo" alt="" coords="81,148,162,196"/>
-<area shape="rect" id="edge2-headlabel" href="dir_000170_000171.html" title="1" alt="" coords="109,121,117,135"/>
-<area shape="rect" id="edge3-headlabel" href="dir_000171_000000.html" title="1" alt="" coords="102,223,110,238"/>
-<area shape="rect" id="clust1" href="dir_e025955df7d625b5b4f5fd3465d9c8da.html" title="AVR" alt="" coords="16,16,149,111"/>
-</map>

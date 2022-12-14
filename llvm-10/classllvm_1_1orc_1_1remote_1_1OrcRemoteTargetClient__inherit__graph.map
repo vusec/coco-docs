@@ -1,7 +1,0 @@
-<map id="llvm::orc::remote::OrcRemoteTargetClient" name="llvm::orc::remote::OrcRemoteTargetClient">
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1rpc_1_1SingleThreadedRPCEndpoint.html" title="llvm::orc::rpc::SingleThreaded\lRPCEndpoint\&lt; rpc::RawByteChannel \&gt;" alt="" coords="1525,59,1780,101"/>
-<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1rpc_1_1detail_1_1RPCEndpointBase.html" title="llvm::orc::rpc::detail\l::RPCEndpointBase\&lt; SingleThreaded\lRPCEndpoint\&lt; rpc::RawByteChannel,\l uint32_t, uint32_t \&gt;, rpc::RawByteChannel,\l uint32_t, uint32_t \&gt;" alt="" coords="779,8,1057,93"/>
-<area shape="rect" id="node4" href="$classllvm_1_1orc_1_1rpc_1_1detail_1_1RPCEndpointBase.html" title="Contains primitive utilities for defining, calling and handling calls to remote procedures. " alt="" coords="5,58,195,129"/>
-<area shape="rect" id="node6" href="$classllvm_1_1orc_1_1rpc_1_1detail_1_1RPCEndpointBase.html" title="llvm::orc::rpc::detail\l::RPCEndpointBase\&lt; SingleThreaded\lRPCEndpoint\&lt; ChannelT, FunctionIdT,\l SequenceNumberT \&gt;, ChannelT, FunctionIdT,\l SequenceNumberT \&gt;" alt="" coords="460,89,755,175"/>
-<area shape="rect" id="node5" href="$classllvm_1_1orc_1_1rpc_1_1SingleThreadedRPCEndpoint.html" title="llvm::orc::rpc::SingleThreaded\lRPCEndpoint\&lt; ChannelT, FunctionId\lT, SequenceNumberT \&gt;" alt="" coords="1081,93,1320,149"/>
-</map>

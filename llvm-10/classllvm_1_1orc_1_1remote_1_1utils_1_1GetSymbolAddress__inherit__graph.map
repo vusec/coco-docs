@@ -1,4 +1,0 @@
-<map id="llvm::orc::remote::utils::GetSymbolAddress" name="llvm::orc::remote::utils::GetSymbolAddress">
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; GetSymbolAddress, JITTargetAddress\l(std::string SymbolName)\&gt;" alt="" coords="345,21,604,77"/>
-<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; DerivedFunc, FnT \&gt;" alt="" coords="5,29,161,70"/>
-</map>

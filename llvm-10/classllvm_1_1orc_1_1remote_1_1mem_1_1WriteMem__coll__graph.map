@@ -1,4 +1,0 @@
-<map id="llvm::orc::remote::mem::WriteMem" name="llvm::orc::remote::mem::WriteMem">
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; WriteMem, void(remote\l::DirectBufferWriter DB)\&gt;" alt="" coords="5,124,176,180"/>
-<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; DerivedFunc, FnT \&gt;" alt="" coords="13,5,169,47"/>
-</map>

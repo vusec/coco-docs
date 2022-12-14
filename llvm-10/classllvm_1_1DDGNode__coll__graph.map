@@ -1,5 +1,0 @@
-<map id="llvm::DDGNode" name="llvm::DDGNode">
-<area shape="rect" id="node2" href="$classllvm_1_1DGNode.html" title="Represent a node in the directed graph. " alt="" coords="51,199,164,225"/>
-<area shape="rect" id="node3" href="$classllvm_1_1SetVector.html" title="llvm::SetVector\&lt; EdgeType * \&gt;" alt="" coords="5,109,209,136"/>
-<area shape="rect" id="node4" href="$classllvm_1_1SetVector.html" title="A vector that has set insertion semantics. " alt="" coords="39,5,175,47"/>
-</map>

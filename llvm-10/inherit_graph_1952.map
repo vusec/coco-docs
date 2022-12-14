@@ -1,6 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1detail_1_1HelperFunctions.html" title="llvm::detail::HelperFunctions" alt="" coords="5,137,193,164"/>
-<area shape="rect" id="node2" href="$structllvm_1_1format__provider_3_01T_00_01typename_01std_1_1enable__if_3_01detail_1_1use__doublee78c119c5cb25c42f7563db3bc83fe30.html" title="Implementation of format_provider&lt;T&gt; for floating point types. " alt="" coords="259,5,433,91"/>
-<area shape="rect" id="node3" href="$structllvm_1_1format__provider_3_01T_00_01typename_01std_1_1enable__if_3_01detail_1_1use__integr3f71672fecff71e02bb660c09073cdca.html" title="Implementation of format_provider&lt;T&gt; for integral arithmetic types. " alt="" coords="241,115,451,186"/>
-<area shape="rect" id="node4" href="$structllvm_1_1format__provider_3_01T_00_01typename_01std_1_1enable__if_3_01detail_1_1use__pointe534bb0cf79d878bbd6de7ff14c0be512.html" title="Implementation of format_provider&lt;T&gt; for integral pointer types. " alt="" coords="259,211,433,296"/>
-</map>

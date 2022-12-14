@@ -1,7 +1,0 @@
-<map id="lib/Target/ARC/TargetInfo/ARCTargetInfo.h" name="lib/Target/ARC/TargetInfo/ARCTargetInfo.h">
-<area shape="rect" id="node2" href="$ARCAsmPrinter_8cpp.html" title="lib/Target/ARC/ARCAsmPrinter.cpp" alt="" coords="5,102,237,129"/>
-<area shape="rect" id="node3" href="$ARCTargetMachine_8cpp.html" title="lib/Target/ARC/ARCTarget\lMachine.cpp" alt="" coords="261,95,440,136"/>
-<area shape="rect" id="node4" href="$ARCDisassembler_8cpp.html" title="This file is part of the ARC Disassembler. " alt="" coords="465,95,658,136"/>
-<area shape="rect" id="node5" href="$ARCMCTargetDesc_8cpp.html" title="lib/Target/ARC/MCTargetDesc\l/ARCMCTargetDesc.cpp" alt="" coords="683,95,885,136"/>
-<area shape="rect" id="node6" href="$ARCTargetInfo_8cpp.html" title="lib/Target/ARC/TargetInfo\l/ARCTargetInfo.cpp" alt="" coords="910,95,1082,136"/>
-</map>

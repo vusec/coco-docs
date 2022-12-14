@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; LazyCallGraphDOTPrinterPass \&gt;" alt="" coords="5,5,233,47"/>
-<area shape="rect" id="node2" href="$classllvm_1_1LazyCallGraphDOTPrinterPass.html" title="A pass which prints the call graph as a DOT file to a raw_ostream. " alt="" coords="281,13,517,39"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="lib/Target/VE/VETargetMachine.h" name="lib/Target/VE/VETargetMachine.h">
-<area shape="rect" id="node2" href="$VEAsmPrinter_8cpp.html" title="lib/Target/VE/VEAsmPrinter.cpp" alt="" coords="5,87,216,114"/>
-<area shape="rect" id="node3" href="$VEISelDAGToDAG_8cpp.html" title="lib/Target/VE/VEISelDAGTo\lDAG.cpp" alt="" coords="240,80,427,121"/>
-<area shape="rect" id="node4" href="$VEISelLowering_8cpp.html" title="lib/Target/VE/VEISelLowering.cpp" alt="" coords="451,87,671,114"/>
-<area shape="rect" id="node5" href="$VETargetMachine_8cpp.html" title="lib/Target/VE/VETargetMachine.cpp" alt="" coords="666,169,897,196"/>
-<area shape="rect" id="node6" href="$VETargetTransformInfo_8h.html" title="This file a TargetTransformInfo::Concept conforming object specific to the VE target machine..." alt="" coords="747,80,963,121"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1DWARFAcceleratorTable_1_1Entry.html" title="An abstract class representing a single entry in the accelerator tables. " alt="" coords="5,39,208,80"/>
-<area shape="rect" id="node2" href="$classllvm_1_1AppleAcceleratorTable_1_1Entry.html" title="Apple&#45;specific implementation of an Accelerator Entry. " alt="" coords="256,5,441,47"/>
-<area shape="rect" id="node3" href="$classllvm_1_1DWARFDebugNames_1_1Entry.html" title="DWARF v5&#45;specific implementation of an Accelerator Entry. " alt="" coords="257,71,441,112"/>
-</map>

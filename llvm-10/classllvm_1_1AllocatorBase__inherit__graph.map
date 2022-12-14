@@ -1,8 +1,0 @@
-<map id="llvm::AllocatorBase&lt; DerivedT &gt;" name="llvm::AllocatorBase&lt; DerivedT &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1AllocatorBase.html" title="llvm::AllocatorBase\l\&lt; BumpPtrAllocatorImpl\l\&lt; AllocatorT, SlabSize,\l SizeThreshold \&gt; \&gt;" alt="" coords="353,10,515,81"/>
-<area shape="rect" id="node5" href="$classllvm_1_1AllocatorBase.html" title="llvm::AllocatorBase\l\&lt; BumpPtrAllocatorImpl\l\&lt; MallocAllocator, SlabSize,\l SlabSize \&gt; \&gt;" alt="" coords="539,83,725,154"/>
-<area shape="rect" id="node6" href="$classllvm_1_1AllocatorBase.html" title="llvm::AllocatorBase\l\&lt; MallocAllocator \&gt;" alt="" coords="367,158,501,199"/>
-<area shape="rect" id="node3" href="$classllvm_1_1BumpPtrAllocatorImpl.html" title="Allocate memory in an ever growing pool, as if by bump&#45;pointer. " alt="" coords="749,21,931,77"/>
-<area shape="rect" id="node4" href="$classllvm_1_1BumpPtrAllocatorImpl.html" title="llvm::BumpPtrAllocatorImpl\l\&lt; MallocAllocator, 65536 \&gt;" alt="" coords="1088,77,1269,118"/>
-<area shape="rect" id="node7" href="$classllvm_1_1MallocAllocator.html" title="llvm::MallocAllocator" alt="" coords="769,165,911,192"/>
-</map>

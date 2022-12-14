@@ -1,6 +1,0 @@
-<map id="llvm::rdf::RefNode" name="llvm::rdf::RefNode">
-<area shape="rect" id="node3" href="$structllvm_1_1rdf_1_1DefNode.html" title="llvm::rdf::DefNode" alt="" coords="5,155,135,181"/>
-<area shape="rect" id="node4" href="$structllvm_1_1rdf_1_1UseNode.html" title="llvm::rdf::UseNode" alt="" coords="159,155,291,181"/>
-<area shape="rect" id="node2" href="$structllvm_1_1rdf_1_1NodeBase.html" title="llvm::rdf::NodeBase" alt="" coords="78,5,217,32"/>
-<area shape="rect" id="node5" href="$structllvm_1_1rdf_1_1PhiUseNode.html" title="llvm::rdf::PhiUseNode" alt="" coords="149,229,300,256"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="llvm::ELFYAML::Symbol" name="llvm::ELFYAML::Symbol">
-<area shape="rect" id="node3" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; uint32_t \&gt;" alt="" coords="277,56,449,83"/>
-<area shape="rect" id="node4" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; T \&gt;" alt="" coords="5,115,140,141"/>
-<area shape="rect" id="node5" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; ELF\l_SHN \&gt;" alt="" coords="294,107,433,149"/>
-<area shape="rect" id="node7" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; uint8_t \&gt;" alt="" coords="281,173,446,200"/>
-<area shape="rect" id="node8" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e. " alt="" coords="309,280,418,307"/>
-<area shape="rect" id="node9" href="$classsize__t.html" title="size_t" alt="" coords="44,280,101,307"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="llvm::SCEVZeroExtendExpr" name="llvm::SCEVZeroExtendExpr">
-<area shape="rect" id="node2" href="$classllvm_1_1SCEVCastExpr.html" title="This is the base class for unary cast operator classes. " alt="" coords="77,199,224,225"/>
-<area shape="rect" id="node3" href="$classllvm_1_1SCEV.html" title="This class represents an analyzed expression in the program. " alt="" coords="61,109,152,136"/>
-<area shape="rect" id="node4" href="$classllvm_1_1FoldingSetBase_1_1Node.html" title="Node &#45; This class is used to maintain the singly linked bucket list in a folding set. " alt="" coords="5,5,120,32"/>
-<area shape="rect" id="node5" href="$classunsigned.html" title="unsigned" alt="" coords="168,5,243,32"/>
-<area shape="rect" id="node6" href="$classllvm_1_1Type.html" title="The instances of the Type class are immutable: once they are created, they are never changed..." alt="" coords="181,109,264,136"/>
-</map>

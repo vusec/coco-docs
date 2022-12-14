@@ -1,5 +1,0 @@
-<map id="llvm::AMDGPUMachineFunction" name="llvm::AMDGPUMachineFunction">
-<area shape="rect" id="node3" href="$classllvm_1_1R600MachineFunctionInfo.html" title="llvm::R600MachineFunctionInfo" alt="" coords="5,155,212,181"/>
-<area shape="rect" id="node4" href="$classllvm_1_1SIMachineFunctionInfo.html" title="This class keeps track of the SPI_SP_INPUT_ADDR config register, which tells the hardware which inter..." alt="" coords="236,155,424,181"/>
-<area shape="rect" id="node2" href="$structllvm_1_1MachineFunctionInfo.html" title="MachineFunctionInfo &#45; This class can be derived from and used by targets to hold private target&#45;speci..." alt="" coords="132,5,307,32"/>
-</map>

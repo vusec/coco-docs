@@ -1,5 +1,0 @@
-<map id="llvm::outliner::Candidate" name="llvm::outliner::Candidate">
-<area shape="rect" id="node2" href="$classllvm_1_1LiveRegUnits.html" title="A set of register units used to track register liveness. " alt="" coords="5,5,139,32"/>
-<area shape="rect" id="node3" href="$classbool.html" title="bool" alt="" coords="185,5,231,32"/>
-<area shape="rect" id="node4" href="$classunsigned.html" title="unsigned" alt="" coords="280,5,355,32"/>
-</map>

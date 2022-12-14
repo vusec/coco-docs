@@ -1,7 +1,0 @@
-<map id="llvm::DINamespace" name="llvm::DINamespace">
-<area shape="rect" id="node2" href="$classllvm_1_1DIScope.html" title="Base class for scope&#45;like contexts. " alt="" coords="133,384,238,411"/>
-<area shape="rect" id="node3" href="$classllvm_1_1DINode.html" title="Tagged DWARF&#45;like metadata node. " alt="" coords="172,299,271,326"/>
-<area shape="rect" id="node4" href="$classllvm_1_1MDNode.html" title="Metadata node. " alt="" coords="132,215,239,241"/>
-<area shape="rect" id="node5" href="$classllvm_1_1Metadata.html" title="Root of the metadata hierarchy. " alt="" coords="21,139,129,165"/>
-<area shape="rect" id="node6" href="$classunsigned.html" title="unsigned" alt="" coords="37,5,112,32"/>
-</map>

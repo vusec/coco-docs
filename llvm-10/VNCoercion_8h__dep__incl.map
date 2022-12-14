@@ -1,5 +1,0 @@
-<map id="include/llvm/Transforms/Utils/VNCoercion.h" name="include/llvm/Transforms/Utils/VNCoercion.h">
-<area shape="rect" id="node2" href="$GVN_8cpp.html" title="lib/Transforms/Scalar\l/GVN.cpp" alt="" coords="5,95,152,136"/>
-<area shape="rect" id="node3" href="$NewGVN_8cpp.html" title="This file implements the new LLVM&#39;s Global Value Numbering pass. " alt="" coords="176,95,323,136"/>
-<area shape="rect" id="node4" href="$VNCoercion_8cpp.html" title="lib/Transforms/Utils\l/VNCoercion.cpp" alt="" coords="347,95,483,136"/>
-</map>

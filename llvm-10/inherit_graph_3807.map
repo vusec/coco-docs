@@ -1,5 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1orc_1_1LocalCXXRuntimeOverridesBase.html" title="Support class for static dtor execution. " alt="" coords="5,39,193,80"/>
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1LegacyLocalCXXRuntimeOverrides.html" title="llvm::orc::LegacyLocalCXXRuntime\lOverrides" alt="" coords="241,5,472,47"/>
-<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1LocalCXXRuntimeOverrides.html" title="llvm::orc::LocalCXXRuntime\lOverrides" alt="" coords="263,71,451,112"/>
-</map>

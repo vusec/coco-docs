@@ -1,5 +1,0 @@
-<map id="include/llvm/CodeGen/RegisterUsageInfo.h" name="include/llvm/CodeGen/RegisterUsageInfo.h">
-<area shape="rect" id="node2" href="$RegisterUsageInfo_8cpp.html" title="lib/CodeGen/RegisterUsage\lInfo.cpp" alt="" coords="5,95,191,136"/>
-<area shape="rect" id="node3" href="$RegUsageInfoCollector_8cpp.html" title="lib/CodeGen/RegUsageInfo\lCollector.cpp" alt="" coords="215,95,397,136"/>
-<area shape="rect" id="node4" href="$RegUsageInfoPropagate_8cpp.html" title="lib/CodeGen/RegUsageInfo\lPropagate.cpp" alt="" coords="421,95,604,136"/>
-</map>

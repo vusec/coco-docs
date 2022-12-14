@@ -1,4 +1,0 @@
-<map id="lib/Target/RISCV/RISCVCallLowering.h" name="lib/Target/RISCV/RISCVCallLowering.h">
-<area shape="rect" id="node2" href="$RISCVCallLowering_8cpp.html" title="This file implements the lowering of LLVM calls to machine code calls for GlobalISel. " alt="" coords="5,95,196,136"/>
-<area shape="rect" id="node3" href="$RISCVSubtarget_8cpp.html" title="lib/Target/RISCV/RISCVSubtarget.cpp" alt="" coords="220,102,469,129"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="llvm::PassInfo" name="llvm::PassInfo">
-<area shape="rect" id="node2" href="$classllvm_1_1RegisterAGBase.html" title="RegisterAnalysisGroup &#45; Register a Pass as a member of an analysis group. " alt="" coords="23,87,175,114"/>
-<area shape="rect" id="node4" href="$structllvm_1_1RegisterPass.html" title="RegisterPass&lt;t&gt; template &#45; This template class is used to notify the system that a Pass is available ..." alt="" coords="199,80,333,121"/>
-<area shape="rect" id="node3" href="$structllvm_1_1RegisterAnalysisGroup.html" title="llvm::RegisterAnalysisGroup\l\&lt; Interface, Default \&gt;" alt="" coords="5,169,193,211"/>
-</map>

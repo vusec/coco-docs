@@ -1,6 +1,0 @@
-<map id="include/llvm/Demangle/MicrosoftDemangle.h" name="include/llvm/Demangle/MicrosoftDemangle.h">
-<area shape="rect" id="node2" href="$DemangleConfig_8h.html" title="llvm/Demangle/DemangleConfig.h" alt="" coords="5,259,227,285"/>
-<area shape="rect" id="node3" href="$MicrosoftDemangleNodes_8h.html" title="llvm/Demangle/MicrosoftDemangle\lNodes.h" alt="" coords="143,95,369,136"/>
-<area shape="rect" id="node4" href="$StringView_8h.html" title="llvm/Demangle/StringView.h" alt="" coords="308,184,495,211"/>
-<area shape="rect" id="node11" href="$Utility_8h.html" title="llvm/Demangle/Utility.h" alt="" coords="513,102,671,129"/>
-</map>

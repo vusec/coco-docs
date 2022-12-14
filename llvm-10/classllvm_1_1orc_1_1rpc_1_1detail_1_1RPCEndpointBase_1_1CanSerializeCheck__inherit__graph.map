@@ -1,3 +1,0 @@
-<map id="llvm::orc::rpc::detail::RPCEndpointBase&lt; ImplT, ChannelT, FunctionIdT, SequenceNumberT &gt;::CanSerializeCheck&lt; WireT, ConcreteT &gt;" name="llvm::orc::rpc::detail::RPCEndpointBase&lt; ImplT, ChannelT, FunctionIdT, SequenceNumberT &gt;::CanSerializeCheck&lt; WireT, ConcreteT &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1rpc_1_1detail_1_1CanSerialize.html" title="llvm::orc::rpc::detail\l::CanSerialize\&lt; ChannelT,\l WireT, ConcreteT \&gt;" alt="" coords="33,5,209,61"/>
-</map>

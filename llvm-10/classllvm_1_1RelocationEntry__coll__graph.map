@@ -1,6 +1,0 @@
-<map id="llvm::RelocationEntry" name="llvm::RelocationEntry">
-<area shape="rect" id="node4" href="$classuint32__t.html" title="uint32_t" alt="" coords="5,159,73,185"/>
-<area shape="rect" id="node7" href="$structllvm_1_1RelocationEntry_1_1SectionPair.html" title="llvm::RelocationEntry\l::SectionPair" alt="" coords="179,186,325,227"/>
-<area shape="rect" id="node5" href="$classbool.html" title="bool" alt="" coords="229,252,275,279"/>
-<area shape="rect" id="node8" href="$classunsigned.html" title="unsigned" alt="" coords="215,360,289,387"/>
-</map>

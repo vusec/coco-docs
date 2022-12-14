@@ -1,5 +1,0 @@
-<map id="lib/Target/AMDGPU/AMDGPULegalizerInfo.h" name="lib/Target/AMDGPU/AMDGPULegalizerInfo.h">
-<area shape="rect" id="node2" href="$AMDGPULegalizerInfo_8cpp.html" title="This file implements the targeting of the Machinelegalizer class for AMDGPU. " alt="" coords="5,95,260,136"/>
-<area shape="rect" id="node3" href="$AMDGPUSubtarget_8cpp.html" title="Implements the AMDGPU specific subclass of TargetSubtarget. " alt="" coords="285,102,567,129"/>
-<area shape="rect" id="node4" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="592,95,831,136"/>
-</map>

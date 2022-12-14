@@ -1,6 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1InstrProfReader.html" title="Base class and interface for reading profiling data of any known instrprof format. " alt="" coords="5,64,152,91"/>
-<area shape="rect" id="node2" href="$classllvm_1_1IndexedInstrProfReader.html" title="Reader for the indexed binary instrprof format. " alt="" coords="200,5,392,32"/>
-<area shape="rect" id="node3" href="$classllvm_1_1RawInstrProfReader.html" title="Reader for the raw instrprof binary format from runtime. " alt="" coords="209,57,383,98"/>
-<area shape="rect" id="node4" href="$classllvm_1_1TextInstrProfReader.html" title="Reader for the simple text based instrprof format. " alt="" coords="210,123,382,149"/>
-</map>

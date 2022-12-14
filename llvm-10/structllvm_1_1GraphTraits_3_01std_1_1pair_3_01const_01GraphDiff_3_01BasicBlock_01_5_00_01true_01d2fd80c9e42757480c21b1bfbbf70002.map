@@ -1,4 +1,0 @@
-<map id="llvm::GraphTraits&lt; std::pair&lt; const GraphDiff&lt; BasicBlock *, true &gt; *, BasicBlock * &gt; &gt;" name="llvm::GraphTraits&lt; std::pair&lt; const GraphDiff&lt; BasicBlock *, true &gt; *, BasicBlock * &gt; &gt;">
-<area shape="rect" id="node2" href="$structllvm_1_1CFGViewSuccessors.html" title="llvm::CFGViewSuccessors\l\&lt; true \&gt;" alt="" coords="5,109,185,151"/>
-<area shape="rect" id="node3" href="$structllvm_1_1CFGViewSuccessors.html" title="llvm::CFGViewSuccessors\l\&lt; InverseGraph \&gt;" alt="" coords="5,5,185,47"/>
-</map>

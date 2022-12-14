@@ -1,7 +1,0 @@
-<map id="llvm::jitlink::JITLinkerBase" name="llvm::jitlink::JITLinkerBase">
-<area shape="rect" id="node2" href="$classllvm_1_1jitlink_1_1JITLinker.html" title="llvm::jitlink::JITLinker\l\&lt; MachOJITLinker_arm64 \&gt;" alt="" coords="601,5,787,47"/>
-<area shape="rect" id="node4" href="$classllvm_1_1jitlink_1_1JITLinker.html" title="llvm::jitlink::JITLinker\l\&lt; MachOJITLinker_x86_64 \&gt;" alt="" coords="599,83,789,124"/>
-<area shape="rect" id="node6" href="$classllvm_1_1jitlink_1_1JITLinker.html" title="llvm::jitlink::JITLinker\l\&lt; LinkerImpl \&gt;" alt="" coords="231,49,377,91"/>
-<area shape="rect" id="node3" href="$classllvm_1_1jitlink_1_1MachOJITLinker__arm64.html" title="llvm::jitlink::MachOJITLinker\l_arm64" alt="" coords="839,5,1027,47"/>
-<area shape="rect" id="node5" href="$classllvm_1_1jitlink_1_1MachOJITLinker__x86__64.html" title="llvm::jitlink::MachOJITLinker\l_x86_64" alt="" coords="839,83,1027,124"/>
-</map>

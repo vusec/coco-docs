@@ -1,6 +1,0 @@
-<map id="llvm::X86FuchsiaTargetObjectFile" name="llvm::X86FuchsiaTargetObjectFile">
-<area shape="rect" id="node2" href="$classllvm_1_1X86ELFTargetObjectFile.html" title="This implemenatation is used for X86 ELF targets that don&#39;t have a further specialization. " alt="" coords="16,244,213,271"/>
-<area shape="rect" id="node3" href="$classllvm_1_1TargetLoweringObjectFileELF.html" title="llvm::TargetLoweringObject\lFileELF" alt="" coords="24,155,205,196"/>
-<area shape="rect" id="node4" href="$classllvm_1_1TargetLoweringObjectFile.html" title="llvm::TargetLoweringObjectFile" alt="" coords="13,80,216,107"/>
-<area shape="rect" id="node5" href="$classllvm_1_1MCObjectFileInfo.html" title="llvm::MCObjectFileInfo" alt="" coords="37,5,193,32"/>
-</map>

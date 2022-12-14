@@ -1,7 +1,0 @@
-<map id="llvm::IRBuilder&lt; T, Inserter &gt;" name="llvm::IRBuilder&lt; T, Inserter &gt;">
-<area shape="rect" id="node4" href="$classllvm_1_1IRBuilder.html" title="llvm::IRBuilder\&lt;\&gt;" alt="" coords="566,5,690,32"/>
-<area shape="rect" id="node5" href="$classllvm_1_1IRBuilder.html" title="llvm::IRBuilder\&lt; TargetFolder,\l IRBuilderCallbackInserter \&gt;" alt="" coords="529,58,727,99"/>
-<area shape="rect" id="node6" href="$classllvm_1_1IRBuilder.html" title="llvm::IRBuilder\&lt; TargetFolder \&gt;" alt="" coords="525,124,731,151"/>
-<area shape="rect" id="node2" href="$classllvm_1_1IRBuilderBase.html" title="Common base class shared among various IRBuilders. " alt="" coords="5,40,144,67"/>
-<area shape="rect" id="node3" href="$classllvm_1_1Inserter.html" title="Inserter" alt="" coords="41,91,108,117"/>
-</map>

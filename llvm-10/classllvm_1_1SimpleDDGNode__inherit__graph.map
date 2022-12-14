@@ -1,4 +1,0 @@
-<map id="llvm::SimpleDDGNode" name="llvm::SimpleDDGNode">
-<area shape="rect" id="node2" href="$classllvm_1_1DDGNode.html" title="Data Dependence Graph Node The graph can represent the following types of nodes: " alt="" coords="25,80,140,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1DGNode.html" title="Represent a node in the directed graph. " alt="" coords="26,5,139,32"/>
-</map>

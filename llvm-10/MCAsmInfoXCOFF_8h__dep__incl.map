@@ -1,6 +1,0 @@
-<map id="include/llvm/MC/MCAsmInfoXCOFF.h" name="include/llvm/MC/MCAsmInfoXCOFF.h">
-<area shape="rect" id="node2" href="$MCAsmInfoXCOFF_8cpp.html" title="lib/MC/MCAsmInfoXCOFF.cpp" alt="" coords="5,102,209,129"/>
-<area shape="rect" id="node3" href="$PPCMCAsmInfo_8h.html" title="lib/Target/PowerPC\l/MCTargetDesc/PPCMCAsmInfo.h" alt="" coords="233,95,461,136"/>
-<area shape="rect" id="node4" href="$PPCMCAsmInfo_8cpp.html" title="lib/Target/PowerPC\l/MCTargetDesc/PPCMCAsmInfo.cpp" alt="" coords="87,184,330,225"/>
-<area shape="rect" id="node5" href="$PPCMCTargetDesc_8cpp.html" title="lib/Target/PowerPC\l/MCTargetDesc/PPCMCTargetDesc.cpp" alt="" coords="354,184,615,225"/>
-</map>

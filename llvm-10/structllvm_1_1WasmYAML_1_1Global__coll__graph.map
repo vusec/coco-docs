@@ -1,9 +1,0 @@
-<map id="llvm::WasmYAML::Global" name="llvm::WasmYAML::Global">
-<area shape="rect" id="node2" href="$classuint32__t.html" title="uint32_t" alt="" coords="741,5,809,32"/>
-<area shape="rect" id="node3" href="$structllvm_1_1wasm_1_1WasmInitExpr.html" title="llvm::wasm::WasmInitExpr" alt="" coords="1032,131,1212,157"/>
-<area shape="rect" id="node8" href="$classbool.html" title="bool" alt="" coords="1099,181,1145,208"/>
-<area shape="rect" id="node9" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; const Value *, const\l PseudoSourceValue * \&gt;" alt="" coords="1039,275,1205,331"/>
-<area shape="rect" id="node10" href="$classllvm_1_1pointer__union__detail_1_1PointerUnionMembers.html" title="llvm::pointer_union\l_detail::PointerUnionMembers\l\&lt; PointerUnion\&lt; PTs... \&gt;,\l PointerIntPair\&lt; void *, pointer\l_union_detail::bitsRequired(sizeof...\l(PTs)), int, pointer_union_detail::\lPointerUnionUIntTraits\&lt; PTs... \&gt; \&gt;,\l 0, PTs... \&gt;" alt="" coords="431,267,661,397"/>
-<area shape="rect" id="node12" href="$classllvm_1_1PointerUnion.html" title="A discriminated union of two or more pointer types, with the discriminator in the low bit of the poin..." alt="" coords="711,341,840,382"/>
-<area shape="rect" id="node11" href="$classllvm_1_1pointer__union__detail_1_1PointerUnionMembers.html" title="llvm::pointer_union\l_detail::PointerUnionMembers\l\&lt; Derived, ValTy, I, Types \&gt;" alt="" coords="5,304,203,360"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="llvm::AMDGPULibFuncImpl" name="llvm::AMDGPULibFuncImpl">
-<area shape="rect" id="node3" href="$classllvm_1_1AMDGPUMangledLibFunc.html" title="llvm::AMDGPUMangledLibFunc" alt="" coords="5,155,213,181"/>
-<area shape="rect" id="node4" href="$classllvm_1_1AMDGPUUnmangledLibFunc.html" title="llvm::AMDGPUUnmangledLibFunc" alt="" coords="238,155,463,181"/>
-<area shape="rect" id="node2" href="$classllvm_1_1AMDGPULibFuncBase.html" title="llvm::AMDGPULibFuncBase" alt="" coords="135,5,324,32"/>
-</map>

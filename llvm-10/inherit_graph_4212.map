@@ -1,5 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; TargetIRAnalysis \&gt;" alt="" coords="5,5,152,47"/>
-<area shape="rect" id="node2" href="$structllvm_1_1AnalysisInfoMixin.html" title="llvm::AnalysisInfoMixin\l\&lt; TargetIRAnalysis \&gt;" alt="" coords="200,5,357,47"/>
-<area shape="rect" id="node3" href="$classllvm_1_1TargetIRAnalysis.html" title="Analysis pass providing the TargetTransformInfo. " alt="" coords="405,13,560,39"/>
-</map>

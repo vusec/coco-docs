@@ -1,7 +1,0 @@
-<map id="include/llvm/Bitstream/BitstreamWriter.h" name="include/llvm/Bitstream/BitstreamWriter.h">
-<area shape="rect" id="node2" href="$BitstreamRemarkSerializer_8h.html" title="include/llvm/Remarks\l/BitstreamRemarkSerializer.h" alt="" coords="214,95,407,136"/>
-<area shape="rect" id="node6" href="$BitcodeWriter_8cpp.html" title="lib/Bitcode/Writer\l/BitcodeWriter.cpp" alt="" coords="432,95,563,136"/>
-<area shape="rect" id="node3" href="$RemarkStreamer_8cpp.html" title="lib/IR/RemarkStreamer.cpp" alt="" coords="5,191,187,218"/>
-<area shape="rect" id="node4" href="$BitstreamRemarkSerializer_8cpp.html" title="lib/Remarks/BitstreamRemark\lSerializer.cpp" alt="" coords="211,184,410,225"/>
-<area shape="rect" id="node5" href="$RemarkSerializer_8cpp.html" title="lib/Remarks/RemarkSerializer.cpp" alt="" coords="435,191,656,218"/>
-</map>

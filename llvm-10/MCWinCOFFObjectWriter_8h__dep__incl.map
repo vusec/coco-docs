@@ -1,7 +1,0 @@
-<map id="include/llvm/MC/MCWinCOFFObjectWriter.h" name="include/llvm/MC/MCWinCOFFObjectWriter.h">
-<area shape="rect" id="node2" href="$MCAsmBackend_8cpp.html" title="lib/MC/MCAsmBackend.cpp" alt="" coords="5,109,193,136"/>
-<area shape="rect" id="node3" href="$WinCOFFObjectWriter_8cpp.html" title="lib/MC/WinCOFFObjectWriter.cpp" alt="" coords="218,109,439,136"/>
-<area shape="rect" id="node4" href="$AArch64WinCOFFObjectWriter_8cpp.html" title="lib/Target/AArch64\l/MCTargetDesc/AArch64WinCOFFObject\lWriter.cpp" alt="" coords="463,95,730,151"/>
-<area shape="rect" id="node5" href="$ARMWinCOFFObjectWriter_8cpp.html" title="lib/Target/ARM/MCTargetDesc\l/ARMWinCOFFObjectWriter.cpp" alt="" coords="754,102,967,143"/>
-<area shape="rect" id="node6" href="$X86WinCOFFObjectWriter_8cpp.html" title="lib/Target/X86/MCTargetDesc\l/X86WinCOFFObjectWriter.cpp" alt="" coords="992,102,1199,143"/>
-</map>

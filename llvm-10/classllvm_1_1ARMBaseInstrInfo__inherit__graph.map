@@ -1,6 +1,0 @@
-<map id="llvm::ARMBaseInstrInfo" name="llvm::ARMBaseInstrInfo">
-<area shape="rect" id="node3" href="$classllvm_1_1ARMInstrInfo.html" title="llvm::ARMInstrInfo" alt="" coords="5,155,137,181"/>
-<area shape="rect" id="node4" href="$classllvm_1_1Thumb1InstrInfo.html" title="llvm::Thumb1InstrInfo" alt="" coords="162,155,311,181"/>
-<area shape="rect" id="node5" href="$classllvm_1_1Thumb2InstrInfo.html" title="llvm::Thumb2InstrInfo" alt="" coords="335,155,485,181"/>
-<area shape="rect" id="node2" href="$classARMGenInstrInfo.html" title="ARMGenInstrInfo" alt="" coords="175,5,299,32"/>
-</map>

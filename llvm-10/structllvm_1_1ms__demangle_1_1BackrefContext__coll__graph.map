@@ -1,9 +1,0 @@
-<map id="llvm::ms_demangle::BackrefContext" name="llvm::ms_demangle::BackrefContext">
-<area shape="rect" id="node2" href="$structllvm_1_1ms__demangle_1_1NamedIdentifierNode.html" title="llvm::ms_demangle::\lNamedIdentifierNode" alt="" coords="147,317,293,359"/>
-<area shape="rect" id="node3" href="$structllvm_1_1ms__demangle_1_1IdentifierNode.html" title="llvm::ms_demangle::\lIdentifierNode" alt="" coords="242,212,385,253"/>
-<area shape="rect" id="node4" href="$structllvm_1_1ms__demangle_1_1Node.html" title="llvm::ms_demangle::Node" alt="" coords="174,5,349,32"/>
-<area shape="rect" id="node5" href="$structllvm_1_1ms__demangle_1_1NodeArrayNode.html" title="llvm::ms_demangle::\lNodeArrayNode" alt="" coords="127,95,270,136"/>
-<area shape="rect" id="node8" href="$structllvm_1_1ms__demangle_1_1TypeNode.html" title="llvm::ms_demangle::\lTypeNode" alt="" coords="351,95,494,136"/>
-<area shape="rect" id="node6" href="$classsize__t.html" title="size_t" alt="" coords="54,5,111,32"/>
-<area shape="rect" id="node7" href="$classStringView.html" title="StringView" alt="" coords="57,160,143,187"/>
-</map>

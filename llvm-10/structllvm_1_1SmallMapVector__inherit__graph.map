@@ -1,6 +1,0 @@
-<map id="llvm::SmallMapVector&lt; KeyT, ValueT, N &gt;" name="llvm::SmallMapVector&lt; KeyT, ValueT, N &gt;">
-<area shape="rect" id="node4" href="$structllvm_1_1SmallMapVector.html" title="llvm::SmallMapVector\l\&lt; llvm::Value *, llvm\l::Value *, 4 \&gt;" alt="" coords="1031,5,1182,61"/>
-<area shape="rect" id="node5" href="$structllvm_1_1SmallMapVector.html" title="llvm::SmallMapVector\l\&lt; unsigned, unsigned, 4 \&gt;" alt="" coords="1020,86,1193,127"/>
-<area shape="rect" id="node2" href="$classllvm_1_1MapVector.html" title="llvm::MapVector\&lt; KeyT,\l ValueT, SmallDenseMap\l\&lt; KeyT, unsigned, N \&gt;,\l SmallVector\&lt; std::pair\l\&lt; KeyT, ValueT \&gt;, N \&gt; \&gt;" alt="" coords="445,28,616,113"/>
-<area shape="rect" id="node3" href="$classllvm_1_1MapVector.html" title="This class implements a map that also provides access to all stored values in a deterministic order..." alt="" coords="5,50,221,91"/>
-</map>

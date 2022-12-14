@@ -1,7 +1,0 @@
-<map id="llvm::ValueMap&lt; KeyT, ValueT, Config &gt;" name="llvm::ValueMap&lt; KeyT, ValueT, Config &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1ValueMap.html" title="llvm::ValueMap\&lt; llvm\l::Value *, SCEVWrapPredicate\l::IncrementWrapFlags \&gt;" alt="" coords="495,9,698,65"/>
-<area shape="rect" id="node3" href="$classllvm_1_1ValueMap.html" title="llvm::ValueMap\&lt; const\l Value *, WeakTrackingVH \&gt;" alt="" coords="501,90,692,131"/>
-<area shape="rect" id="node4" href="$classllvm_1_1ValueMap.html" title="llvm::ValueMap\&lt; const\l llvm::GlobalValue *,\l std::unique_ptr\&lt; const\l llvm::GlobalValuePseudoSourceValue \&gt; \&gt;" alt="" coords="461,155,732,226"/>
-<area shape="rect" id="node5" href="$classllvm_1_1ValueMap.html" title="llvm::ValueMap\&lt; GlobalValue\l *, uint64_t, Config \&gt;" alt="" coords="499,250,694,291"/>
-<area shape="rect" id="node6" href="$classllvm_1_1ValueMap.html" title="llvm::ValueMap\&lt; const\l Function *, FuncInfo \&gt;" alt="" coords="519,315,675,357"/>
-</map>

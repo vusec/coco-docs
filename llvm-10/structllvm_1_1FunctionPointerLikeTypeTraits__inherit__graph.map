@@ -1,4 +1,0 @@
-<map id="llvm::FunctionPointerLikeTypeTraits&lt; Alignment, FunctionPointerT &gt;" name="llvm::FunctionPointerLikeTypeTraits&lt; Alignment, FunctionPointerT &gt;">
-<area shape="rect" id="node2" href="$structllvm_1_1FunctionPointerLikeTypeTraits.html" title="llvm::FunctionPointerLike\lTypeTraits\&lt; 4, ReturnT\l(*)(ParamTs...)\&gt;" alt="" coords="11,124,181,180"/>
-<area shape="rect" id="node3" href="$structllvm_1_1PointerLikeTypeTraits_3_01ReturnT_07_5_08_07ParamTs_8_8_8_08_4.html" title="Provide a default specialization for function pointers that assumes 4&#45;byte alignment. " alt="" coords="5,229,187,271"/>
-</map>

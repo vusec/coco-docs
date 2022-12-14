@@ -1,5 +1,0 @@
-<map id="llvm::MipsTargetStreamer" name="llvm::MipsTargetStreamer">
-<area shape="rect" id="node3" href="$classllvm_1_1MipsTargetAsmStreamer.html" title="llvm::MipsTargetAsmStreamer" alt="" coords="5,155,204,181"/>
-<area shape="rect" id="node4" href="$classllvm_1_1MipsTargetELFStreamer.html" title="llvm::MipsTargetELFStreamer" alt="" coords="228,155,424,181"/>
-<area shape="rect" id="node2" href="$classllvm_1_1MCTargetStreamer.html" title="Target specific streamer interface. " alt="" coords="133,5,298,32"/>
-</map>

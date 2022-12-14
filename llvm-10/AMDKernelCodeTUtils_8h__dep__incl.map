@@ -1,5 +1,0 @@
-<map id="lib/Target/AMDGPU/Utils/AMDKernelCodeTUtils.h" name="lib/Target/AMDGPU/Utils/AMDKernelCodeTUtils.h">
-<area shape="rect" id="node2" href="$AMDGPUAsmParser_8cpp.html" title="lib/Target/AMDGPU/AsmParser\l/AMDGPUAsmParser.cpp" alt="" coords="5,95,213,136"/>
-<area shape="rect" id="node3" href="$AMDGPUTargetStreamer_8cpp.html" title="lib/Target/AMDGPU/MCTarget\lDesc/AMDGPUTargetStreamer.cpp" alt="" coords="238,95,469,136"/>
-<area shape="rect" id="node4" href="$AMDKernelCodeTUtils_8cpp.html" title="lib/Target/AMDGPU/Utils\l/AMDKernelCodeTUtils.cpp" alt="" coords="493,95,677,136"/>
-</map>

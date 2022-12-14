@@ -1,6 +1,0 @@
-<map id="llvm::RegisterRegAllocBase&lt; SubClass &gt;" name="llvm::RegisterRegAllocBase&lt; SubClass &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1MachinePassRegistryNode.html" title="llvm::MachinePassRegistry\lNode\&lt; FunctionPass *(*)()\&gt;" alt="" coords="371,5,553,47"/>
-<area shape="rect" id="node3" href="$classllvm_1_1MachinePassRegistryNode.html" title="MachinePassRegistryNode &#45; Machine pass node stored in registration list. " alt="" coords="5,5,188,47"/>
-<area shape="rect" id="node4" href="$classllvm_1_1MachinePassRegistry.html" title="llvm::MachinePassRegistry\l\&lt; FunctionPassCtor \&gt;" alt="" coords="371,71,553,112"/>
-<area shape="rect" id="node5" href="$classllvm_1_1MachinePassRegistry.html" title="MachinePassRegistry &#45; Track the registration of machine passes. " alt="" coords="5,71,188,112"/>
-</map>

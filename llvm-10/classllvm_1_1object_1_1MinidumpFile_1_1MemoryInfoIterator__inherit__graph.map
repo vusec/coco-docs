@@ -1,4 +1,0 @@
-<map id="llvm::object::MinidumpFile::MemoryInfoIterator" name="llvm::object::MinidumpFile::MemoryInfoIterator">
-<area shape="rect" id="node2" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; MemoryInfoIterator,\l std::forward_iterator_tag,\l minidump::MemoryInfo \&gt;" alt="" coords="717,75,900,145"/>
-<area shape="rect" id="node4" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="267,129,491,200"/>
-</map>

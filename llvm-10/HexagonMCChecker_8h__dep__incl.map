@@ -1,7 +1,0 @@
-<map id="lib/Target/Hexagon/MCTargetDesc/HexagonMCChecker.h" name="lib/Target/Hexagon/MCTargetDesc/HexagonMCChecker.h">
-<area shape="rect" id="node2" href="$HexagonAsmParser_8cpp.html" title="lib/Target/Hexagon\l/AsmParser/HexagonAsmParser.cpp" alt="" coords="5,102,243,143"/>
-<area shape="rect" id="node3" href="$HexagonDisassembler_8cpp.html" title="lib/Target/Hexagon\l/Disassembler/HexagonDisassembler.cpp" alt="" coords="267,102,533,143"/>
-<area shape="rect" id="node4" href="$HexagonAsmBackend_8cpp.html" title="lib/Target/Hexagon\l/MCTargetDesc/HexagonAsmBackend.cpp" alt="" coords="557,102,832,143"/>
-<area shape="rect" id="node5" href="$HexagonMCChecker_8cpp.html" title="lib/Target/Hexagon\l/MCTargetDesc/HexagonMCChecker.cpp" alt="" coords="856,102,1123,143"/>
-<area shape="rect" id="node6" href="$HexagonMCInstrInfo_8cpp.html" title="lib/Target/Hexagon\l/MCTargetDesc/HexagonMCInstr\lInfo.cpp" alt="" coords="1147,95,1365,151"/>
-</map>

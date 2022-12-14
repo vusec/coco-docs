@@ -1,7 +1,0 @@
-<map id="llvm::MCInstrDesc" name="llvm::MCInstrDesc">
-<area shape="rect" id="node3" href="$classllvm_1_1MCOperandInfo.html" title="This holds information about one operand of a machine instruction, indicating the register class for ..." alt="" coords="98,109,245,136"/>
-<area shape="rect" id="node4" href="$classuint32__t.html" title="uint32_t" alt="" coords="35,5,103,32"/>
-<area shape="rect" id="node7" href="$classuint16__t.html" title="uint16_t" alt="" coords="269,109,337,136"/>
-<area shape="rect" id="node9" href="$classbool.html" title="bool" alt="" coords="524,109,571,136"/>
-<area shape="rect" id="node10" href="$classunsigned.html" title="unsigned" alt="" coords="690,109,765,136"/>
-</map>

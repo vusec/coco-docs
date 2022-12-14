@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1orc_1_1rpc_1_1detail_1_1RPCEndpointBase.html" title="llvm::orc::rpc::detail\l::RPCEndpointBase\&lt; SingleThreaded\lRPCEndpoint\&lt; rpc::RawByteChannel,\l uint32_t, uint32_t \&gt;, rpc::RawByteChannel,\l uint32_t, uint32_t \&gt;" alt="" coords="5,49,284,134"/>
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1rpc_1_1SingleThreadedRPCEndpoint.html" title="llvm::orc::rpc::SingleThreaded\lRPCEndpoint\&lt; rpc::RawByteChannel \&gt;" alt="" coords="332,71,587,112"/>
-<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1remote_1_1OrcRemoteTargetClient.html" title="This class provides utilities (including memory manager, indirect stubs manager, and compile callback..." alt="" coords="643,5,803,47"/>
-<area shape="rect" id="node4" href="$classllvm_1_1orc_1_1remote_1_1OrcRemoteTargetRPCAPI.html" title="llvm::orc::remote::\lOrcRemoteTargetRPCAPI" alt="" coords="635,71,812,112"/>
-<area shape="rect" id="node5" href="$classllvm_1_1orc_1_1remote_1_1OrcRemoteTargetServer.html" title="llvm::orc::remote::\lOrcRemoteTargetServer\l\&lt; ChannelT, TargetT \&gt;" alt="" coords="641,137,805,193"/>
-</map>

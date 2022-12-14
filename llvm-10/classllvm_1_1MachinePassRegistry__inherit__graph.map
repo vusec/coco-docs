@@ -1,4 +1,0 @@
-<map id="llvm::MachinePassRegistry&lt; PassCtorTy &gt;" name="llvm::MachinePassRegistry&lt; PassCtorTy &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1MachinePassRegistry.html" title="llvm::MachinePassRegistry\l\&lt; ScheduleDAGCtor \&gt;" alt="" coords="373,5,556,47"/>
-<area shape="rect" id="node3" href="$classllvm_1_1MachinePassRegistry.html" title="llvm::MachinePassRegistry\l\&lt; FunctionPassCtor \&gt;" alt="" coords="373,71,556,112"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="llvm::GlobalIndirectSymbol" name="llvm::GlobalIndirectSymbol">
-<area shape="rect" id="node6" href="$classllvm_1_1GlobalAlias.html" title="llvm::GlobalAlias" alt="" coords="5,379,125,405"/>
-<area shape="rect" id="node7" href="$classllvm_1_1GlobalIFunc.html" title="llvm::GlobalIFunc" alt="" coords="150,379,274,405"/>
-<area shape="rect" id="node2" href="$classllvm_1_1GlobalValue.html" title="llvm::GlobalValue" alt="" coords="77,229,201,256"/>
-<area shape="rect" id="node3" href="$classllvm_1_1Constant.html" title="This is an important base class in LLVM. " alt="" coords="85,155,192,181"/>
-<area shape="rect" id="node4" href="$classllvm_1_1User.html" title="llvm::User" alt="" coords="97,80,180,107"/>
-<area shape="rect" id="node5" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="95,5,182,32"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="llvm::SCEVAddRecExpr" name="llvm::SCEVAddRecExpr">
-<area shape="rect" id="node2" href="$classllvm_1_1SCEVNAryExpr.html" title="This node is a base class providing common functionality for n&#39;ary operators. " alt="" coords="73,199,221,225"/>
-<area shape="rect" id="node3" href="$classllvm_1_1SCEV.html" title="This class represents an analyzed expression in the program. " alt="" coords="76,109,167,136"/>
-<area shape="rect" id="node4" href="$classllvm_1_1FoldingSetBase_1_1Node.html" title="Node &#45; This class is used to maintain the singly linked bucket list in a folding set. " alt="" coords="5,5,120,32"/>
-<area shape="rect" id="node5" href="$classunsigned.html" title="unsigned" alt="" coords="144,5,219,32"/>
-<area shape="rect" id="node6" href="$classsize__t.html" title="size_t" alt="" coords="210,109,267,136"/>
-</map>

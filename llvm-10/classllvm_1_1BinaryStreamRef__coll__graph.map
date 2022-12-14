@@ -1,9 +1,0 @@
-<map id="llvm::BinaryStreamRef" name="llvm::BinaryStreamRef">
-<area shape="rect" id="node2" href="$classllvm_1_1BinaryStreamRefBase.html" title="llvm::BinaryStreamRefBase\l\&lt; BinaryStreamRef, BinaryStream \&gt;" alt="" coords="931,201,1164,242"/>
-<area shape="rect" id="node3" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; uint32_t \&gt;" alt="" coords="266,188,438,215"/>
-<area shape="rect" id="node8" href="$classllvm_1_1BinaryStreamRefBase.html" title="Common stuff for mutable and immutable StreamRefs. " alt="" coords="576,111,760,153"/>
-<area shape="rect" id="node4" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; T \&gt;" alt="" coords="5,188,140,215"/>
-<area shape="rect" id="node5" href="$classstd_1_1shared__ptr_3_01BinaryStream_01_4.html" title="shared_ptr\&lt; BinaryStream \&gt;" alt="" coords="575,269,761,296"/>
-<area shape="rect" id="node6" href="$classllvm_1_1BinaryStream.html" title="An interface for accessing data in a stream&#45;like format, but which discourages copying. " alt="" coords="601,320,735,347"/>
-<area shape="rect" id="node7" href="$classuint32__t.html" title="uint32_t" alt="" coords="318,5,386,32"/>
-</map>

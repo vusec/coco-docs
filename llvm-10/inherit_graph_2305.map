@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1FoldingSetBucketIteratorImpl.html" title="FoldingSetBucketIteratorImpl &#45; This is the common bucket iterator support shared by all folding sets..." alt="" coords="5,5,228,32"/>
-<area shape="rect" id="node2" href="$classllvm_1_1FoldingSetBucketIterator.html" title="llvm::FoldingSetBucketIterator\&lt; T \&gt;" alt="" coords="276,5,507,32"/>
-</map>

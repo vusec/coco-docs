@@ -1,8 +1,0 @@
-<map id="include/llvm/Transforms/Utils/PredicateInfo.h" name="include/llvm/Transforms/Utils/PredicateInfo.h">
-<area shape="rect" id="node2" href="$Scalar_2SCCP_8h.html" title="include/llvm/Transforms\l/Scalar/SCCP.h" alt="" coords="220,95,381,136"/>
-<area shape="rect" id="node5" href="$Scalar_2SCCP_8cpp.html" title="lib/Transforms/Scalar\l/SCCP.cpp" alt="" coords="369,184,515,225"/>
-<area shape="rect" id="node6" href="$NewGVN_8cpp.html" title="This file implements the new LLVM&#39;s Global Value Numbering pass. " alt="" coords="467,95,614,136"/>
-<area shape="rect" id="node7" href="$PredicateInfo_8cpp.html" title="lib/Transforms/Utils\l/PredicateInfo.cpp" alt="" coords="638,95,774,136"/>
-<area shape="rect" id="node3" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="5,191,188,218"/>
-<area shape="rect" id="node4" href="$IPO_2SCCP_8cpp.html" title="lib/Transforms/IPO\l/SCCP.cpp" alt="" coords="212,184,344,225"/>
-</map>

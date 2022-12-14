@@ -1,5 +1,0 @@
-<map id="llvm::MemoryBuffer" name="llvm::MemoryBuffer">
-<area shape="rect" id="node2" href="$classllvm_1_1SmallVectorMemoryBuffer.html" title="SmallVector&#45;backed MemoryBuffer instance. " alt="" coords="189,5,396,32"/>
-<area shape="rect" id="node3" href="$classllvm_1_1WritableMemoryBuffer.html" title="This class is an extension of MemoryBuffer, which allows copy&#45;on&#45;write access to the underlying conte..." alt="" coords="201,56,385,83"/>
-<area shape="rect" id="node4" href="$classllvm_1_1WriteThroughMemoryBuffer.html" title="This class is an extension of MemoryBuffer, which allows write access to the underlying contents and ..." alt="" coords="203,107,382,149"/>
-</map>

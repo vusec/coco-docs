@@ -1,4 +1,0 @@
-<map id="llvm::OperandTraits&lt; InsertElementInst &gt;" name="llvm::OperandTraits&lt; InsertElementInst &gt;">
-<area shape="rect" id="node2" href="$structllvm_1_1FixedNumOperandTraits.html" title="llvm::FixedNumOperandTraits\l\&lt; InsertElementInst, 3 \&gt;" alt="" coords="5,109,201,151"/>
-<area shape="rect" id="node3" href="$structllvm_1_1FixedNumOperandTraits.html" title="FixedNumOperandTraits &#45; determine the allocation regime of the Use array when it is a prefix to the U..." alt="" coords="5,5,201,47"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="include/llvm/DebugInfo/CodeView/RecordName.h" name="include/llvm/DebugInfo/CodeView/RecordName.h">
-<area shape="rect" id="node2" href="$LazyRandomTypeCollection_8cpp.html" title="lib/DebugInfo/CodeView\l/LazyRandomTypeCollection.cpp" alt="" coords="5,95,220,136"/>
-<area shape="rect" id="node3" href="$RecordName_8cpp.html" title="lib/DebugInfo/CodeView\l/RecordName.cpp" alt="" coords="245,95,407,136"/>
-<area shape="rect" id="node4" href="$TypeTableCollection_8cpp.html" title="lib/DebugInfo/CodeView\l/TypeTableCollection.cpp" alt="" coords="431,95,602,136"/>
-<area shape="rect" id="node5" href="$GlobalsStream_8cpp.html" title="lib/DebugInfo/PDB/Native\l/GlobalsStream.cpp" alt="" coords="626,95,799,136"/>
-<area shape="rect" id="node6" href="$GSIStreamBuilder_8cpp.html" title="lib/DebugInfo/PDB/Native\l/GSIStreamBuilder.cpp" alt="" coords="823,95,997,136"/>
-<area shape="rect" id="node7" href="$TpiStream_8cpp.html" title="lib/DebugInfo/PDB/Native\l/TpiStream.cpp" alt="" coords="1021,95,1194,136"/>
-</map>

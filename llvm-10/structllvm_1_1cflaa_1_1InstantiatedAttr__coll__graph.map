@@ -1,5 +1,0 @@
-<map id="llvm::cflaa::InstantiatedAttr" name="llvm::cflaa::InstantiatedAttr">
-<area shape="rect" id="node3" href="$structllvm_1_1cflaa_1_1InstantiatedValue.html" title="This is the result of instantiating InterfaceValue at a particular call. " alt="" coords="193,287,351,328"/>
-<area shape="rect" id="node4" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="319,197,406,224"/>
-<area shape="rect" id="node5" href="$classunsigned.html" title="unsigned" alt="" coords="211,5,285,32"/>
-</map>

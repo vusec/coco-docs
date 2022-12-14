@@ -1,9 +1,0 @@
-<map id="include/llvm/Support/FormatAdapters.h" name="include/llvm/Support/FormatAdapters.h">
-<area shape="rect" id="node2" href="$CodeView_2Formatters_8h.html" title="include/llvm/DebugInfo\l/CodeView/Formatters.h" alt="" coords="297,95,461,136"/>
-<area shape="rect" id="node7" href="$DWARFDie_8cpp.html" title="lib/DebugInfo/DWARF\l/DWARFDie.cpp" alt="" coords="485,95,639,136"/>
-<area shape="rect" id="node8" href="$Signals_8cpp.html" title="lib/Support/Signals.cpp" alt="" coords="663,102,819,129"/>
-<area shape="rect" id="node3" href="$PDB_2Native_2Formatters_8h.html" title="include/llvm/DebugInfo\l/PDB/Native/Formatters.h" alt="" coords="5,184,180,225"/>
-<area shape="rect" id="node4" href="$Formatters_8cpp.html" title="lib/DebugInfo/CodeView\l/Formatters.cpp" alt="" coords="205,184,367,225"/>
-<area shape="rect" id="node5" href="$TypeDumpVisitor_8cpp.html" title="lib/DebugInfo/CodeView\l/TypeDumpVisitor.cpp" alt="" coords="391,184,554,225"/>
-<area shape="rect" id="node6" href="$DIARawSymbol_8cpp.html" title="lib/DebugInfo/PDB/DIA\l/DIARawSymbol.cpp" alt="" coords="579,184,737,225"/>
-</map>

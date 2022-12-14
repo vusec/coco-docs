@@ -1,7 +1,0 @@
-<map id="lib/Target/X86/MCTargetDesc/X86FixupKinds.h" name="lib/Target/X86/MCTargetDesc/X86FixupKinds.h">
-<area shape="rect" id="node2" href="$X86AsmBackend_8cpp.html" title="lib/Target/X86/MCTargetDesc\l/X86AsmBackend.cpp" alt="" coords="5,95,201,136"/>
-<area shape="rect" id="node3" href="$X86ELFObjectWriter_8cpp.html" title="lib/Target/X86/MCTargetDesc\l/X86ELFObjectWriter.cpp" alt="" coords="225,95,421,136"/>
-<area shape="rect" id="node4" href="$X86MachObjectWriter_8cpp.html" title="lib/Target/X86/MCTargetDesc\l/X86MachObjectWriter.cpp" alt="" coords="445,95,641,136"/>
-<area shape="rect" id="node5" href="$X86MCCodeEmitter_8cpp.html" title="lib/Target/X86/MCTargetDesc\l/X86MCCodeEmitter.cpp" alt="" coords="665,95,861,136"/>
-<area shape="rect" id="node6" href="$X86WinCOFFObjectWriter_8cpp.html" title="lib/Target/X86/MCTargetDesc\l/X86WinCOFFObjectWriter.cpp" alt="" coords="885,95,1092,136"/>
-</map>

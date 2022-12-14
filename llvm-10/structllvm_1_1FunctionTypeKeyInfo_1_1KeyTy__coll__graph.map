@@ -1,7 +1,0 @@
-<map id="llvm::FunctionTypeKeyInfo::KeyTy" name="llvm::FunctionTypeKeyInfo::KeyTy">
-<area shape="rect" id="node2" href="$classllvm_1_1Type.html" title="The instances of the Type class are immutable: once they are created, they are never changed..." alt="" coords="5,102,88,129"/>
-<area shape="rect" id="node3" href="$classunsigned.html" title="unsigned" alt="" coords="9,5,84,32"/>
-<area shape="rect" id="node4" href="$classbool.html" title="bool" alt="" coords="222,102,269,129"/>
-<area shape="rect" id="node5" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; llvm\l::Type *\&gt;" alt="" coords="293,95,435,136"/>
-<area shape="rect" id="node6" href="$classllvm_1_1ArrayRef.html" title="ArrayRef &#45; Represent a constant reference to an array (0 or more elements consecutively in memory)..." alt="" coords="295,5,433,32"/>
-</map>

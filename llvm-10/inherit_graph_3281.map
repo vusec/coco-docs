@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1MemorySSAWalker.html" title="This is the generic walker interface for walkers of MemorySSA. " alt="" coords="5,42,175,69"/>
-<area shape="rect" id="node3" href="$classllvm_1_1DoNothingMemorySSAWalker.html" title="A MemorySSAWalker that does no alias queries, or anything else. " alt="" coords="223,71,453,98"/>
-</map>

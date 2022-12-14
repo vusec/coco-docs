@@ -1,7 +1,0 @@
-<map id="llvm::MCELFStreamer" name="llvm::MCELFStreamer">
-<area shape="rect" id="node4" href="$classllvm_1_1AVRMCELFStreamer.html" title="llvm::AVRMCELFStreamer" alt="" coords="5,229,185,256"/>
-<area shape="rect" id="node5" href="$classllvm_1_1HexagonMCELFStreamer.html" title="llvm::HexagonMCELFStreamer" alt="" coords="209,229,413,256"/>
-<area shape="rect" id="node6" href="$classllvm_1_1MipsELFStreamer.html" title="llvm::MipsELFStreamer" alt="" coords="437,229,596,256"/>
-<area shape="rect" id="node2" href="$classllvm_1_1MCObjectStreamer.html" title="Streaming object file generation interface. " alt="" coords="228,80,395,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1MCStreamer.html" title="Streaming machine code generation interface. " alt="" coords="247,5,375,32"/>
-</map>

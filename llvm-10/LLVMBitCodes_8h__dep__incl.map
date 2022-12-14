@@ -1,6 +1,0 @@
-<map id="include/llvm/Bitcode/LLVMBitCodes.h" name="include/llvm/Bitcode/LLVMBitCodes.h">
-<area shape="rect" id="node2" href="$BitcodeAnalyzer_8cpp.html" title="lib/Bitcode/Reader\l/BitcodeAnalyzer.cpp" alt="" coords="5,95,152,136"/>
-<area shape="rect" id="node3" href="$BitcodeReader_8cpp.html" title="lib/Bitcode/Reader\l/BitcodeReader.cpp" alt="" coords="177,95,314,136"/>
-<area shape="rect" id="node4" href="$MetadataLoader_8cpp.html" title="lib/Bitcode/Reader\l/MetadataLoader.cpp" alt="" coords="339,95,483,136"/>
-<area shape="rect" id="node5" href="$BitcodeWriter_8cpp.html" title="lib/Bitcode/Writer\l/BitcodeWriter.cpp" alt="" coords="507,95,637,136"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="lib/Target/PowerPC/MCTargetDesc/PPCMCExpr.h" name="lib/Target/PowerPC/MCTargetDesc/PPCMCExpr.h">
-<area shape="rect" id="node2" href="$PPCAsmParser_8cpp.html" title="lib/Target/PowerPC\l/AsmParser/PPCAsmParser.cpp" alt="" coords="5,102,219,143"/>
-<area shape="rect" id="node3" href="$PPCELFObjectWriter_8cpp.html" title="lib/Target/PowerPC\l/MCTargetDesc/PPCELFObject\lWriter.cpp" alt="" coords="243,95,453,151"/>
-<area shape="rect" id="node4" href="$PPCMCExpr_8cpp.html" title="lib/Target/PowerPC\l/MCTargetDesc/PPCMCExpr.cpp" alt="" coords="477,102,697,143"/>
-<area shape="rect" id="node5" href="$PPCAsmPrinter_8cpp.html" title="lib/Target/PowerPC\l/PPCAsmPrinter.cpp" alt="" coords="721,102,865,143"/>
-<area shape="rect" id="node6" href="$PPCMCInstLower_8cpp.html" title="lib/Target/PowerPC\l/PPCMCInstLower.cpp" alt="" coords="889,102,1047,143"/>
-</map>

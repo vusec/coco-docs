@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1detail_1_1DenseSetImpl.html" title="llvm::detail::DenseSetImpl\l\&lt; llvm::DWARFDebugNames\l::Abbrev, DenseMap\&lt; llvm\l::DWARFDebugNames::Abbrev,\l detail::DenseSetEmpty, AbbrevMapInfo,\l detail::DenseSetPair\&lt; llvm::DWARFDebugNames\l::Abbrev \&gt; \&gt;, AbbrevMapInfo \&gt;" alt="" coords="5,5,325,120"/>
-<area shape="rect" id="node2" href="$classllvm_1_1DenseSet.html" title="llvm::DenseSet\&lt; llvm\l::DWARFDebugNames::Abbrev,\l AbbrevMapInfo \&gt;" alt="" coords="373,35,587,91"/>
-</map>

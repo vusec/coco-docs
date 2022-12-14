@@ -1,4 +1,0 @@
-<map id="llvm::AssemblyAnnotationWriter" name="llvm::AssemblyAnnotationWriter">
-<area shape="rect" id="node2" href="$classllvm_1_1MemorySSAAnnotatedWriter.html" title="An assembly annotator class to print Memory SSA information in comments. " alt="" coords="5,95,192,136"/>
-<area shape="rect" id="node3" href="$classllvm_1_1PredicateInfoAnnotatedWriter.html" title="An assembly annotator class to print PredicateInfo information in comments. " alt="" coords="217,95,407,136"/>
-</map>

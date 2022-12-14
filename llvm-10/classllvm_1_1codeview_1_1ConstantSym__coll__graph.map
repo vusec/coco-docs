@@ -1,9 +1,0 @@
-<map id="llvm::codeview::ConstantSym" name="llvm::codeview::ConstantSym">
-<area shape="rect" id="node2" href="$classllvm_1_1codeview_1_1SymbolRecord.html" title="llvm::codeview::SymbolRecord" alt="" coords="548,7,751,33"/>
-<area shape="rect" id="node4" href="$classuint32__t.html" title="uint32_t" alt="" coords="269,95,337,121"/>
-<area shape="rect" id="node10" href="$classllvm_1_1codeview_1_1TypeIndex.html" title="A 32&#45;bit type reference. " alt="" coords="560,131,739,157"/>
-<area shape="rect" id="node5" href="$classllvm_1_1APSInt.html" title="llvm::APSInt" alt="" coords="601,181,697,208"/>
-<area shape="rect" id="node6" href="$classllvm_1_1APInt.html" title="Class for arbitrary precision integers. " alt="" coords="260,181,347,208"/>
-<area shape="rect" id="node8" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e. " alt="" coords="595,232,704,259"/>
-<area shape="rect" id="node9" href="$classsize__t.html" title="size_t" alt="" coords="275,232,332,259"/>
-</map>

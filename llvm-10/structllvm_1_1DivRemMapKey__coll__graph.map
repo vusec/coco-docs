@@ -1,6 +1,0 @@
-<map id="llvm::DivRemMapKey" name="llvm::DivRemMapKey">
-<area shape="rect" id="node2" href="$classllvm_1_1AssertingVH.html" title="llvm::AssertingVH\&lt;\l llvm::Value \&gt;" alt="" coords="22,185,158,227"/>
-<area shape="rect" id="node3" href="$classllvm_1_1ValueHandleBase.html" title="This is the common base class of value handles. " alt="" coords="5,5,164,32"/>
-<area shape="rect" id="node4" href="$classllvm_1_1AssertingVH.html" title="Value handle that asserts if the Value is deleted. " alt="" coords="106,81,242,123"/>
-<area shape="rect" id="node5" href="$classbool.html" title="bool" alt="" coords="183,193,229,219"/>
-</map>

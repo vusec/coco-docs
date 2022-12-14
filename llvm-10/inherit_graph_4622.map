@@ -1,6 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structllvm_1_1remarks_1_1RemarkSerializer.html" title="This is the base class for a remark serializer. " alt="" coords="5,46,215,73"/>
-<area shape="rect" id="node2" href="$structllvm_1_1remarks_1_1BitstreamRemarkSerializer.html" title="Implementation of the remark serializer using LLVM bitstream. " alt="" coords="275,5,441,47"/>
-<area shape="rect" id="node3" href="$structllvm_1_1remarks_1_1YAMLRemarkSerializer.html" title="Serialize the remarks to YAML. " alt="" coords="263,71,453,112"/>
-<area shape="rect" id="node4" href="$structllvm_1_1remarks_1_1YAMLStrTabRemarkSerializer.html" title="Serialize the remarks to YAML using a string table. " alt="" coords="501,71,685,112"/>
-</map>

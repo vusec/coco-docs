@@ -1,6 +1,0 @@
-<map id="llvm::ConstantTokenNone" name="llvm::ConstantTokenNone">
-<area shape="rect" id="node2" href="$classllvm_1_1ConstantData.html" title="Base class for constants with no operands. " alt="" coords="25,229,160,256"/>
-<area shape="rect" id="node3" href="$classllvm_1_1Constant.html" title="This is an important base class in LLVM. " alt="" coords="39,155,146,181"/>
-<area shape="rect" id="node4" href="$classllvm_1_1User.html" title="llvm::User" alt="" coords="51,80,134,107"/>
-<area shape="rect" id="node5" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="49,5,136,32"/>
-</map>

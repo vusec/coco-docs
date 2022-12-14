@@ -1,9 +1,0 @@
-<map id="include/llvm/Support/Compression.h" name="include/llvm/Support/Compression.h">
-<area shape="rect" id="node2" href="$Symbolize_8cpp.html" title="lib/DebugInfo/Symbolize\l/Symbolize.cpp" alt="" coords="5,95,169,136"/>
-<area shape="rect" id="node3" href="$ELFObjectWriter_8cpp.html" title="lib/MC/ELFObjectWriter.cpp" alt="" coords="194,102,381,129"/>
-<area shape="rect" id="node4" href="$Decompressor_8cpp.html" title="lib/Object/Decompressor.cpp" alt="" coords="405,102,596,129"/>
-<area shape="rect" id="node5" href="$InstrProf_8cpp.html" title="lib/ProfileData/InstrProf.cpp" alt="" coords="620,102,803,129"/>
-<area shape="rect" id="node6" href="$SampleProfReader_8cpp.html" title="lib/ProfileData/SampleProf\lReader.cpp" alt="" coords="827,95,1003,136"/>
-<area shape="rect" id="node7" href="$SampleProfWriter_8cpp.html" title="lib/ProfileData/SampleProf\lWriter.cpp" alt="" coords="1027,95,1203,136"/>
-<area shape="rect" id="node8" href="$Compression_8cpp.html" title="lib/Support/Compression.cpp" alt="" coords="1228,102,1419,129"/>
-</map>

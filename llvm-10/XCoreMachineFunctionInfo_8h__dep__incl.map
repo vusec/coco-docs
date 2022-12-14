@@ -1,7 +1,0 @@
-<map id="lib/Target/XCore/XCoreMachineFunctionInfo.h" name="lib/Target/XCore/XCoreMachineFunctionInfo.h">
-<area shape="rect" id="node2" href="$XCoreFrameLowering_8cpp.html" title="lib/Target/XCore/XCoreFrame\lLowering.cpp" alt="" coords="5,95,200,136"/>
-<area shape="rect" id="node3" href="$XCoreInstrInfo_8cpp.html" title="lib/Target/XCore/XCoreInstr\lInfo.cpp" alt="" coords="224,95,408,136"/>
-<area shape="rect" id="node4" href="$XCoreISelLowering_8cpp.html" title="lib/Target/XCore/XCoreISel\lLowering.cpp" alt="" coords="432,95,613,136"/>
-<area shape="rect" id="node5" href="$XCoreMachineFunctionInfo_8cpp.html" title="lib/Target/XCore/XCoreMachine\lFunctionInfo.cpp" alt="" coords="638,95,845,136"/>
-<area shape="rect" id="node6" href="$XCoreRegisterInfo_8cpp.html" title="lib/Target/XCore/XCoreRegister\lInfo.cpp" alt="" coords="869,95,1075,136"/>
-</map>

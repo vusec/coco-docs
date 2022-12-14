@@ -1,4 +1,0 @@
-<map id="llvm::object::Elf_Dyn_Base&lt; ELFType&lt; TargetEndianness, true &gt; &gt;" name="llvm::object::Elf_Dyn_Base&lt; ELFType&lt; TargetEndianness, true &gt; &gt;">
-<area shape="rect" id="node4" href="$structllvm_1_1object_1_1Elf__Dyn__Base.html" title="llvm::object::Elf_Dyn\l_Base\&lt; llvm::object::\lELFType\&lt; TargetEndianness,\l true \&gt; \&gt;" alt="" coords="369,107,565,178"/>
-<area shape="rect" id="node5" href="$structllvm_1_1object_1_1Elf__Dyn__Base.html" title="Elf_Dyn_Base: This structure matches the form of entries in the dynamic table section (..." alt="" coords="5,122,149,163"/>
-</map>

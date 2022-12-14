@@ -1,7 +1,0 @@
-<map id="lib/Target/ARC/ARCMachineFunctionInfo.h" name="lib/Target/ARC/ARCMachineFunctionInfo.h">
-<area shape="rect" id="node2" href="$ARCFrameLowering_8cpp.html" title="lib/Target/ARC/ARCFrameLowering.cpp" alt="" coords="5,102,261,129"/>
-<area shape="rect" id="node3" href="$ARCInstrInfo_8cpp.html" title="lib/Target/ARC/ARCInstrInfo.cpp" alt="" coords="286,102,501,129"/>
-<area shape="rect" id="node4" href="$ARCISelLowering_8cpp.html" title="lib/Target/ARC/ARCISelLowering.cpp" alt="" coords="525,102,768,129"/>
-<area shape="rect" id="node5" href="$ARCMachineFunctionInfo_8cpp.html" title="lib/Target/ARC/ARCMachine\lFunctionInfo.cpp" alt="" coords="793,95,983,136"/>
-<area shape="rect" id="node6" href="$ARCRegisterInfo_8cpp.html" title="lib/Target/ARC/ARCRegister\lInfo.cpp" alt="" coords="1007,95,1198,136"/>
-</map>

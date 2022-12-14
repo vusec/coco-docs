@@ -1,6 +1,0 @@
-<map id="include/llvm/Transforms/Scalar/SimpleLoopUnswitch.h" name="include/llvm/Transforms/Scalar/SimpleLoopUnswitch.h">
-<area shape="rect" id="node2" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="5,102,188,129"/>
-<area shape="rect" id="node3" href="$PassManagerBuilder_8cpp.html" title="lib/Transforms/IPO\l/PassManagerBuilder.cpp" alt="" coords="213,95,383,136"/>
-<area shape="rect" id="node4" href="$Scalar_8cpp.html" title="lib/Transforms/Scalar\l/Scalar.cpp" alt="" coords="407,95,554,136"/>
-<area shape="rect" id="node5" href="$SimpleLoopUnswitch_8cpp.html" title="lib/Transforms/Scalar\l/SimpleLoopUnswitch.cpp" alt="" coords="579,95,753,136"/>
-</map>

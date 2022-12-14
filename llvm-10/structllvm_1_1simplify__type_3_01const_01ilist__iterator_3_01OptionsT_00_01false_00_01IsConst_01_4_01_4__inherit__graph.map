@@ -1,3 +1,0 @@
-<map id="llvm::simplify_type&lt; const ilist_iterator&lt; OptionsT, false, IsConst &gt; &gt;" name="llvm::simplify_type&lt; const ilist_iterator&lt; OptionsT, false, IsConst &gt; &gt;">
-<area shape="rect" id="node2" href="$structllvm_1_1simplify__type_3_01ilist__iterator_3_01OptionsT_00_01false_00_01IsConst_01_4_01_4.html" title="Allow ilist_iterators to convert into pointers to a node automatically when used by the dyn_cast..." alt="" coords="21,5,191,61"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1detail_1_1DenseSetImpl.html" title="llvm::detail::DenseSetImpl\l\&lt; CVSymbol, DenseMap\&lt; CVSymbol,\l detail::DenseSetEmpty, llvm\l::pdb::GSIHashStreamBuilder::\lSymbolDenseMapInfo, detail::DenseSetPair\l\&lt; CVSymbol \&gt; \&gt;, llvm::pdb::GSIHashStreamBuilder\l::SymbolDenseMapInfo \&gt;" alt="" coords="5,5,332,120"/>
-<area shape="rect" id="node2" href="$classllvm_1_1DenseSet.html" title="llvm::DenseSet\&lt; CVSymbol,\l llvm::pdb::GSIHashStreamBuilder\l::SymbolDenseMapInfo \&gt;" alt="" coords="380,35,603,91"/>
-</map>

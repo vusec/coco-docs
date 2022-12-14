@@ -1,6 +1,0 @@
-<map id="llvm::ipo_iterator&lt; T, SetType, External &gt;" name="llvm::ipo_iterator&lt; T, SetType, External &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1po__iterator.html" title="llvm::po_iterator\&lt;\l Inverse\&lt; T \&gt;, SetType,\l External \&gt;" alt="" coords="1025,93,1188,149"/>
-<area shape="rect" id="node4" href="$classllvm_1_1po__iterator__storage.html" title="llvm::po_iterator_storage\l\&lt; SetType, ExtStorage \&gt;" alt="" coords="369,159,537,200"/>
-<area shape="rect" id="node6" href="$classllvm_1_1po__iterator.html" title="llvm::po_iterator\&lt;\l GraphT, SetType, ExtStorage, GT \&gt;" alt="" coords="587,100,824,141"/>
-<area shape="rect" id="node5" href="$classllvm_1_1po__iterator__storage.html" title="Default po_iterator_storage implementation with an internal set object. " alt="" coords="5,159,171,200"/>
-</map>

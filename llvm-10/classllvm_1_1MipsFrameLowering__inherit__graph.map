@@ -1,5 +1,0 @@
-<map id="llvm::MipsFrameLowering" name="llvm::MipsFrameLowering">
-<area shape="rect" id="node3" href="$classllvm_1_1Mips16FrameLowering.html" title="llvm::Mips16FrameLowering" alt="" coords="5,155,191,181"/>
-<area shape="rect" id="node4" href="$classllvm_1_1MipsSEFrameLowering.html" title="llvm::MipsSEFrameLowering" alt="" coords="215,155,405,181"/>
-<area shape="rect" id="node2" href="$classllvm_1_1TargetFrameLowering.html" title="Information about stack frame layout on the target. " alt="" coords="113,5,293,32"/>
-</map>

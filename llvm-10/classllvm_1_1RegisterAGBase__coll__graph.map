@@ -1,3 +1,0 @@
-<map id="llvm::RegisterAGBase" name="llvm::RegisterAGBase">
-<area shape="rect" id="node2" href="$classllvm_1_1PassInfo.html" title="PassInfo class &#45; An instance of this class exists for every pass known by the system, and can be obtained from a live Pass by calling its getPassInfo() method. " alt="" coords="28,5,135,32"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="llvm::SparcelTargetMachine" name="llvm::SparcelTargetMachine">
-<area shape="rect" id="node2" href="$classllvm_1_1SparcTargetMachine.html" title="llvm::SparcTargetMachine" alt="" coords="10,155,185,181"/>
-<area shape="rect" id="node3" href="$classllvm_1_1LLVMTargetMachine.html" title="This class describes a target machine that is implemented with the LLVM target&#45;independent code gener..." alt="" coords="10,80,185,107"/>
-<area shape="rect" id="node4" href="$classllvm_1_1TargetMachine.html" title="Primary interface to the complete machine description for the target machine. " alt="" coords="27,5,167,32"/>
-</map>

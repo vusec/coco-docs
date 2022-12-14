@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1MCParsedAsmOperand.html" title="MCParsedAsmOperand &#45; This abstract class represents a source&#45;level assembly instruction operand..." alt="" coords="5,5,197,32"/>
-<area shape="rect" id="node2" href="$structllvm_1_1X86Operand.html" title="X86Operand &#45; Instances of this class represent a parsed X86 machine instruction. " alt="" coords="245,5,372,32"/>
-</map>

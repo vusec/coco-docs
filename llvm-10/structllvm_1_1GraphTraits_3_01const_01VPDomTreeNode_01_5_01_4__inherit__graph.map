@@ -1,4 +1,0 @@
-<map id="llvm::GraphTraits&lt; const VPDomTreeNode * &gt;" name="llvm::GraphTraits&lt; const VPDomTreeNode * &gt;">
-<area shape="rect" id="node2" href="$structllvm_1_1DomTreeGraphTraitsBase.html" title="llvm::DomTreeGraphTraits\lBase\&lt; const VPDomTreeNode,\l VPDomTreeNode::const_iterator \&gt;" alt="" coords="400,21,628,77"/>
-<area shape="rect" id="node3" href="$structllvm_1_1DomTreeGraphTraitsBase.html" title="llvm::DomTreeGraphTraits\lBase\&lt; Node, ChildIterator \&gt;" alt="" coords="5,29,192,70"/>
-</map>

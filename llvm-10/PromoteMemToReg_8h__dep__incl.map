@@ -1,9 +1,0 @@
-<map id="include/llvm/Transforms/Utils/PromoteMemToReg.h" name="include/llvm/Transforms/Utils/PromoteMemToReg.h">
-<area shape="rect" id="node2" href="$CoroFrame_8cpp.html" title="lib/Transforms/Coroutines\l/CoroFrame.cpp" alt="" coords="5,95,177,136"/>
-<area shape="rect" id="node3" href="$AddressSanitizer_8cpp.html" title="lib/Transforms/Instrumentation\l/AddressSanitizer.cpp" alt="" coords="201,95,400,136"/>
-<area shape="rect" id="node4" href="$HWAddressSanitizer_8cpp.html" title="This file is a part of HWAddressSanitizer, an address sanity checker based on tagged addressing..." alt="" coords="424,95,623,136"/>
-<area shape="rect" id="node5" href="$RewriteStatepointsForGC_8cpp.html" title="lib/Transforms/Scalar\l/RewriteStatepointsForGC.cpp" alt="" coords="647,95,848,136"/>
-<area shape="rect" id="node6" href="$SROA_8cpp.html" title="This transformation implements the well known scalar replacement of aggregates transformation. " alt="" coords="873,95,1019,136"/>
-<area shape="rect" id="node7" href="$Mem2Reg_8cpp.html" title="lib/Transforms/Utils\l/Mem2Reg.cpp" alt="" coords="1043,95,1179,136"/>
-<area shape="rect" id="node8" href="$PromoteMemoryToRegister_8cpp.html" title="lib/Transforms/Utils\l/PromoteMemoryToRegister.cpp" alt="" coords="1203,95,1414,136"/>
-</map>

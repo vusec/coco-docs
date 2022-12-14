@@ -1,4 +1,0 @@
-<map id="llvm::codeview::BinaryAnnotationIterator" name="llvm::codeview::BinaryAnnotationIterator">
-<area shape="rect" id="node2" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; BinaryAnnotationIterator,\l std::forward_iterator_tag,\l DecodedAnnotation \&gt;" alt="" coords="700,63,913,134"/>
-<area shape="rect" id="node4" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="267,115,491,186"/>
-</map>

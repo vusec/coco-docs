@@ -1,6 +1,0 @@
-<map id="include/llvm/Transforms/Vectorize/LoopVectorizationLegality.h" name="include/llvm/Transforms/Vectorize/LoopVectorizationLegality.h">
-<area shape="rect" id="node2" href="$LoopVectorizationLegality_8cpp.html" title="lib/Transforms/Vectorize\l/LoopVectorizationLegality.cpp" alt="" coords="5,109,205,151"/>
-<area shape="rect" id="node3" href="$VPlanTransforms_8h.html" title="This file provides utility VPlan to VPlan transformations. " alt="" coords="281,109,445,151"/>
-<area shape="rect" id="node4" href="$LoopVectorize_8cpp.html" title="lib/Transforms/Vectorize\l/LoopVectorize.cpp" alt="" coords="161,199,325,240"/>
-<area shape="rect" id="node5" href="$VPlanTransforms_8cpp.html" title="This file implements a set of utility VPlan to VPlan transformations. " alt="" coords="349,199,513,240"/>
-</map>

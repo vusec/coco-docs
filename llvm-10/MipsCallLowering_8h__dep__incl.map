@@ -1,4 +1,0 @@
-<map id="lib/Target/Mips/MipsCallLowering.h" name="lib/Target/Mips/MipsCallLowering.h">
-<area shape="rect" id="node2" href="$MipsCallLowering_8cpp.html" title="This file implements the lowering of LLVM calls to machine code calls for GlobalISel. " alt="" coords="5,95,168,136"/>
-<area shape="rect" id="node3" href="$MipsSubtarget_8cpp.html" title="lib/Target/Mips/MipsSubtarget.cpp" alt="" coords="192,102,413,129"/>
-</map>

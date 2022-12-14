@@ -1,4 +1,0 @@
-<map id="llvm::RegisterScheduler" name="llvm::RegisterScheduler">
-<area shape="rect" id="node2" href="$classllvm_1_1MachinePassRegistryNode.html" title="llvm::MachinePassRegistry\lNode\&lt; ScheduleDAGSDNodes\l *(*)(SelectionDAGISel *,\l CodeGenOpt::Level)\&gt;" alt="" coords="393,14,599,85"/>
-<area shape="rect" id="node3" href="$classllvm_1_1MachinePassRegistryNode.html" title="MachinePassRegistryNode &#45; Machine pass node stored in registration list. " alt="" coords="5,29,188,70"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="llvm::orc::RemoteObjectLayerAPI::Lookup" name="llvm::orc::RemoteObjectLayerAPI::Lookup">
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; Lookup, Expected\&lt; RemoteSymbol\l \&gt;(ObjHandleT, std::string)\&gt;" alt="" coords="389,21,631,77"/>
-<area shape="rect" id="node3" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; DerivedFunc, FnT \&gt;" alt="" coords="5,29,161,70"/>
-</map>

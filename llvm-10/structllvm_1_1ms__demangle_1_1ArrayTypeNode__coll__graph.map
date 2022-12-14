@@ -1,6 +1,0 @@
-<map id="llvm::ms_demangle::ArrayTypeNode" name="llvm::ms_demangle::ArrayTypeNode">
-<area shape="rect" id="node2" href="$structllvm_1_1ms__demangle_1_1TypeNode.html" title="llvm::ms_demangle::\lTypeNode" alt="" coords="217,95,360,136"/>
-<area shape="rect" id="node3" href="$structllvm_1_1ms__demangle_1_1Node.html" title="llvm::ms_demangle::Node" alt="" coords="87,5,261,32"/>
-<area shape="rect" id="node5" href="$structllvm_1_1ms__demangle_1_1NodeArrayNode.html" title="llvm::ms_demangle::\lNodeArrayNode" alt="" coords="40,95,183,136"/>
-<area shape="rect" id="node6" href="$classsize__t.html" title="size_t" alt="" coords="5,5,63,32"/>
-</map>

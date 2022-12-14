@@ -1,6 +1,0 @@
-<map id="llvm::remarks::YAMLMetaSerializer" name="llvm::remarks::YAMLMetaSerializer">
-<area shape="rect" id="node2" href="$structllvm_1_1remarks_1_1MetaSerializer.html" title="This is the base class for a remark metadata serializer. " alt="" coords="5,338,197,365"/>
-<area shape="rect" id="node3" href="$classllvm_1_1raw__ostream.html" title="This class implements an extremely fast bulk output stream that can only output to a stream..." alt="" coords="37,241,166,268"/>
-<area shape="rect" id="node5" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; llvm\l::StringRef \&gt;" alt="" coords="221,331,360,372"/>
-<area shape="rect" id="node6" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; T \&gt;" alt="" coords="223,241,358,268"/>
-</map>

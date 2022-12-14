@@ -1,4 +1,0 @@
-<map id="llvm::AMDGPUTargetStreamer" name="llvm::AMDGPUTargetStreamer">
-<area shape="rect" id="node2" href="$classllvm_1_1MCTargetStreamer.html" title="Target specific streamer interface. " alt="" coords="24,95,189,121"/>
-<area shape="rect" id="node3" href="$classllvm_1_1MCStreamer.html" title="Streaming machine code generation interface. " alt="" coords="43,5,171,32"/>
-</map>

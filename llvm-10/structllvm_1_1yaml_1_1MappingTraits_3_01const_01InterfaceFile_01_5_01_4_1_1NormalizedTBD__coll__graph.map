@@ -1,9 +1,0 @@
-<map id="llvm::yaml::MappingTraits&lt; T &gt;::NormalizedTBD" name="llvm::yaml::MappingTraits&lt; T &gt;::NormalizedTBD">
-<area shape="rect" id="node2" href="$classllvm_1_1BumpPtrAllocatorImpl.html" title="Allocate memory in an ever growing pool, as if by bump&#45;pointer. " alt="" coords="580,21,761,77"/>
-<area shape="rect" id="node3" href="$classllvm_1_1AllocatorBase.html" title="llvm::AllocatorBase\l\&lt; BumpPtrAllocatorImpl\l\&lt; AllocatorT, SlabSize,\l SizeThreshold \&gt; \&gt;" alt="" coords="332,14,493,85"/>
-<area shape="rect" id="node4" href="$classllvm_1_1AllocatorBase.html" title="CRTP base class providing obvious overloads for the core Allocate() methods of LLVM&#45;style allocators..." alt="" coords="5,29,140,70"/>
-<area shape="rect" id="node7" href="$classllvm_1_1MachO_1_1PackedVersion.html" title="llvm::MachO::PackedVersion" alt="" coords="575,203,767,229"/>
-<area shape="rect" id="node12" href="$classllvm_1_1SmallSet.html" title="SmallSet &#45; This maintains a set of unique values, optimizing for the case when the set is small (less..." alt="" coords="605,457,736,498"/>
-<area shape="rect" id="node14" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e. " alt="" coords="616,577,725,604"/>
-<area shape="rect" id="node15" href="$classsize__t.html" title="size_t" alt="" coords="384,577,441,604"/>
-</map>

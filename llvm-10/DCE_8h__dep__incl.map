@@ -1,5 +1,0 @@
-<map id="include/llvm/Transforms/Scalar/DCE.h" name="include/llvm/Transforms/Scalar/DCE.h">
-<area shape="rect" id="node2" href="$IRMutator_8cpp.html" title="lib/FuzzMutate/IRMutator.cpp" alt="" coords="5,102,200,129"/>
-<area shape="rect" id="node3" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="225,102,407,129"/>
-<area shape="rect" id="node4" href="$DCE_8cpp.html" title="lib/Transforms/Scalar\l/DCE.cpp" alt="" coords="432,95,579,136"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="lib/Target/Sparc/SparcMachineFunctionInfo.h" name="lib/Target/Sparc/SparcMachineFunctionInfo.h">
-<area shape="rect" id="node2" href="$SparcFrameLowering_8cpp.html" title="lib/Target/Sparc/SparcFrame\lLowering.cpp" alt="" coords="5,95,195,136"/>
-<area shape="rect" id="node3" href="$SparcInstrInfo_8cpp.html" title="lib/Target/Sparc/SparcInstr\lInfo.cpp" alt="" coords="219,95,397,136"/>
-<area shape="rect" id="node4" href="$SparcISelLowering_8cpp.html" title="lib/Target/Sparc/SparcISel\lLowering.cpp" alt="" coords="422,95,597,136"/>
-<area shape="rect" id="node5" href="$SparcMachineFunctionInfo_8cpp.html" title="lib/Target/Sparc/SparcMachine\lFunctionInfo.cpp" alt="" coords="621,95,822,136"/>
-<area shape="rect" id="node6" href="$SparcRegisterInfo_8cpp.html" title="lib/Target/Sparc/SparcRegister\lInfo.cpp" alt="" coords="846,95,1047,136"/>
-</map>

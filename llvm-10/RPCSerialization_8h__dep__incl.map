@@ -1,9 +1,0 @@
-<map id="include/llvm/ExecutionEngine/Orc/RPC/RPCSerialization.h" name="include/llvm/ExecutionEngine/Orc/RPC/RPCSerialization.h">
-<area shape="rect" id="node2" href="$RawByteChannel_8h.html" title="include/llvm/ExecutionEngine\l/Orc/RPC/RawByteChannel.h" alt="" coords="229,95,427,136"/>
-<area shape="rect" id="node7" href="$RPCUtils_8h.html" title="include/llvm/ExecutionEngine\l/Orc/RPC/RPCUtils.h" alt="" coords="451,95,645,136"/>
-<area shape="rect" id="node3" href="$OrcRemoteTargetRPCAPI_8h.html" title="include/llvm/ExecutionEngine\l/Orc/OrcRemoteTargetRPCAPI.h" alt="" coords="223,184,441,225"/>
-<area shape="rect" id="node4" href="$OrcRemoteTargetClient_8h.html" title="include/llvm/ExecutionEngine\l/Orc/OrcRemoteTargetClient.h" alt="" coords="5,273,205,315"/>
-<area shape="rect" id="node5" href="$OrcRemoteTargetServer_8h.html" title="include/llvm/ExecutionEngine\l/Orc/OrcRemoteTargetServer.h" alt="" coords="230,273,434,315"/>
-<area shape="rect" id="node6" href="$RemoteObjectLayer_8h.html" title="include/llvm/ExecutionEngine\l/Orc/RemoteObjectLayer.h" alt="" coords="458,273,651,315"/>
-<area shape="rect" id="node8" href="$RPCError_8cpp.html" title="lib/ExecutionEngine\l/OrcError/RPCError.cpp" alt="" coords="467,184,629,225"/>
-</map>

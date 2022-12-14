@@ -1,7 +1,0 @@
-<map id="llvm::IndexListEntry" name="llvm::IndexListEntry">
-<area shape="rect" id="node2" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; IndexList\lEntry \&gt;" alt="" coords="1243,109,1417,151"/>
-<area shape="rect" id="node3" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; IndexListEntry,\l Options... \&gt;::type \&gt;" alt="" coords="692,60,899,131"/>
-<area shape="rect" id="node5" href="$classllvm_1_1ilist__node__impl.html" title="Implementation for an ilist node. " alt="" coords="276,115,416,156"/>
-<area shape="rect" id="node8" href="$classllvm_1_1ilist__node__impl.html" title="llvm::ilist_node_impl\l\&lt; ilist_detail::compute\l_node_options\&lt; T, Options...\l \&gt;::type \&gt;" alt="" coords="700,155,891,225"/>
-<area shape="rect" id="node7" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; T,\l Options \&gt;" alt="" coords="948,143,1081,184"/>
-</map>

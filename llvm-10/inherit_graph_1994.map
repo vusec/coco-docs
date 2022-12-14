@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1DGNode.html" title="Represent a node in the directed graph. " alt="" coords="5,49,187,90"/>
-<area shape="rect" id="node2" href="$classllvm_1_1DDGNode.html" title="Data Dependence Graph Node The graph can represent the following types of nodes: " alt="" coords="235,56,349,83"/>
-<area shape="rect" id="node3" href="$classllvm_1_1PiBlockDDGNode.html" title="Subclass of DDGNode representing a pi&#45;block. " alt="" coords="397,5,557,32"/>
-<area shape="rect" id="node4" href="$classllvm_1_1RootDDGNode.html" title="Subclass of DDGNode representing the root node of the graph. " alt="" coords="406,56,549,83"/>
-<area shape="rect" id="node5" href="$classllvm_1_1SimpleDDGNode.html" title="Subclass of DDGNode representing single or multi&#45;instruction nodes. " alt="" coords="400,107,555,133"/>
-</map>

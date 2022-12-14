@@ -1,5 +1,0 @@
-<map id="include/llvm/Analysis/AliasAnalysisEvaluator.h" name="include/llvm/Analysis/AliasAnalysisEvaluator.h">
-<area shape="rect" id="node2" href="$LinkAllPasses_8h.html" title="include/llvm/LinkAllPasses.h" alt="" coords="5,102,195,129"/>
-<area shape="rect" id="node3" href="$AliasAnalysisEvaluator_8cpp.html" title="lib/Analysis/AliasAnalysis\lEvaluator.cpp" alt="" coords="219,95,391,136"/>
-<area shape="rect" id="node4" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="415,102,598,129"/>
-</map>

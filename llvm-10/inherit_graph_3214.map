@@ -1,8 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1MCSymbol.html" title="MCSymbol &#45; Instances of this class represent a symbol name in the MC file, and MCSymbols are created ..." alt="" coords="5,107,124,133"/>
-<area shape="rect" id="node2" href="$classllvm_1_1MCSymbolCOFF.html" title="llvm::MCSymbolCOFF" alt="" coords="177,5,331,32"/>
-<area shape="rect" id="node3" href="$classllvm_1_1MCSymbolELF.html" title="llvm::MCSymbolELF" alt="" coords="183,56,325,83"/>
-<area shape="rect" id="node4" href="$classllvm_1_1MCSymbolMachO.html" title="llvm::MCSymbolMachO" alt="" coords="173,107,335,133"/>
-<area shape="rect" id="node5" href="$classllvm_1_1MCSymbolWasm.html" title="llvm::MCSymbolWasm" alt="" coords="175,157,333,184"/>
-<area shape="rect" id="node6" href="$classllvm_1_1MCSymbolXCOFF.html" title="llvm::MCSymbolXCOFF" alt="" coords="172,208,336,235"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="include/llvm/CodeGen/MachineLoopUtils.h" name="include/llvm/CodeGen/MachineLoopUtils.h">
-<area shape="rect" id="node2" href="$ModuloSchedule_8h.html" title="include/llvm/CodeGen\l/ModuloSchedule.h" alt="" coords="173,95,324,136"/>
-<area shape="rect" id="node4" href="$ModuloSchedule_8cpp.html" title="lib/CodeGen/ModuloSchedule.cpp" alt="" coords="253,184,471,211"/>
-<area shape="rect" id="node5" href="$MachineLoopUtils_8cpp.html" title="lib/CodeGen/MachineLoopUtils.cpp" alt="" coords="399,102,626,129"/>
-<area shape="rect" id="node6" href="$ARMLowOverheadLoops_8cpp.html" title="Finalize v8.1&#45;m low&#45;overhead loops by converting the associated pseudo instructions into machine oper..." alt="" coords="650,95,874,136"/>
-<area shape="rect" id="node3" href="$MachinePipeliner_8cpp.html" title="lib/CodeGen/MachinePipeliner.cpp" alt="" coords="5,184,228,211"/>
-</map>

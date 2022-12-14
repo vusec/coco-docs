@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1FeatureBitset.html" title="Container class for subtarget features. " alt="" coords="5,5,137,32"/>
-<area shape="rect" id="node2" href="$classllvm_1_1FeatureBitArray.html" title="Class used to store the subtarget bits in the tables created by tablegen. " alt="" coords="185,5,331,32"/>
-</map>

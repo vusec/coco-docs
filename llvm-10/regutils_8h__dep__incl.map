@@ -1,7 +1,0 @@
-<map id="lib/Support/regutils.h" name="lib/Support/regutils.h">
-<area shape="rect" id="node2" href="$regcomp_8c.html" title="lib/Support/regcomp.c" alt="" coords="5,155,155,181"/>
-<area shape="rect" id="node3" href="$regex2_8h.html" title="lib/Support/regex2.h" alt="" coords="212,80,351,107"/>
-<area shape="rect" id="node4" href="$regexec_8c.html" title="lib/Support/regexec.c" alt="" coords="179,155,325,181"/>
-<area shape="rect" id="node5" href="$regfree_8c.html" title="lib/Support/regfree.c" alt="" coords="349,155,488,181"/>
-<area shape="rect" id="node6" href="$regerror_8c.html" title="lib/Support/regerror.c" alt="" coords="426,80,569,107"/>
-</map>

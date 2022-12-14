@@ -1,5 +1,0 @@
-<map id="llvm::Interpreter" name="llvm::Interpreter">
-<area shape="rect" id="node2" href="$classllvm_1_1ExecutionEngine.html" title="Abstract interface for implementation execution of LLVM modules, designed to support both interpreter..." alt="" coords="5,117,157,143"/>
-<area shape="rect" id="node3" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l Interpreter \&gt;" alt="" coords="182,109,303,151"/>
-<area shape="rect" id="node4" href="$classllvm_1_1InstVisitor.html" title="Base class for instruction visitors. " alt="" coords="173,5,312,47"/>
-</map>

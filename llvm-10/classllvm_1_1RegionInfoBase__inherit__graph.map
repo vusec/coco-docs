@@ -1,6 +1,0 @@
-<map id="llvm::RegionInfoBase&lt; Tr &gt;" name="llvm::RegionInfoBase&lt; Tr &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1RegionInfoBase.html" title="llvm::RegionInfoBase\l\&lt; RegionTraits\&lt; MachineFunction \&gt; \&gt;" alt="" coords="425,5,668,47"/>
-<area shape="rect" id="node4" href="$classllvm_1_1RegionInfoBase.html" title="llvm::RegionInfoBase\l\&lt; RegionTraits\&lt; Function \&gt; \&gt;" alt="" coords="449,71,644,112"/>
-<area shape="rect" id="node3" href="$classllvm_1_1MachineRegionInfo.html" title="llvm::MachineRegionInfo" alt="" coords="717,13,884,39"/>
-<area shape="rect" id="node5" href="$classllvm_1_1RegionInfo.html" title="llvm::RegionInfo" alt="" coords="742,78,859,105"/>
-</map>

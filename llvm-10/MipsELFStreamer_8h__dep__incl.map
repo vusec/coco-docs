@@ -1,7 +1,0 @@
-<map id="lib/Target/Mips/MCTargetDesc/MipsELFStreamer.h" name="lib/Target/Mips/MCTargetDesc/MipsELFStreamer.h">
-<area shape="rect" id="node2" href="$MipsELFStreamer_8cpp.html" title="lib/Target/Mips/MCTarget\lDesc/MipsELFStreamer.cpp" alt="" coords="5,95,192,136"/>
-<area shape="rect" id="node3" href="$MipsMCTargetDesc_8cpp.html" title="lib/Target/Mips/MCTarget\lDesc/MipsMCTargetDesc.cpp" alt="" coords="217,95,415,136"/>
-<area shape="rect" id="node4" href="$MipsNaClELFStreamer_8cpp.html" title="lib/Target/Mips/MCTarget\lDesc/MipsNaClELFStreamer.cpp" alt="" coords="439,95,657,136"/>
-<area shape="rect" id="node5" href="$MipsOptionRecord_8cpp.html" title="lib/Target/Mips/MCTarget\lDesc/MipsOptionRecord.cpp" alt="" coords="681,95,871,136"/>
-<area shape="rect" id="node6" href="$MipsTargetStreamer_8cpp.html" title="lib/Target/Mips/MCTarget\lDesc/MipsTargetStreamer.cpp" alt="" coords="896,95,1096,136"/>
-</map>

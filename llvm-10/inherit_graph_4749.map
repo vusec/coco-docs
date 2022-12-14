@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1SimpleBitstreamCursor.html" title="This represents a position within a bitstream. " alt="" coords="5,5,195,32"/>
-<area shape="rect" id="node2" href="$classllvm_1_1BitstreamCursor.html" title="This represents a position within a bitcode file, implemented on top of a SimpleBitstreamCursor. " alt="" coords="243,5,392,32"/>
-</map>

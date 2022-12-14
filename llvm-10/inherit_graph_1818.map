@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structllvm_1_1DenseMapInfo.html" title="llvm::DenseMapInfo\l\&lt; MachineInstr *\&gt;" alt="" coords="5,5,144,47"/>
-<area shape="rect" id="node2" href="$structllvm_1_1MachineInstrExpressionTrait.html" title="Special DenseMapInfo traits to compare MachineInstr* by value of the instruction rather than by point..." alt="" coords="192,5,387,47"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="llvm::PointerLikeTypeTraits&lt; ReturnT(*)(ParamTs...)&gt;" name="llvm::PointerLikeTypeTraits&lt; ReturnT(*)(ParamTs...)&gt;">
-<area shape="rect" id="node2" href="$structllvm_1_1FunctionPointerLikeTypeTraits.html" title="llvm::FunctionPointerLike\lTypeTraits\&lt; 4, ReturnT\l(*)(ParamTs...)\&gt;" alt="" coords="11,124,181,180"/>
-<area shape="rect" id="node3" href="$structllvm_1_1FunctionPointerLikeTypeTraits.html" title="Provide suitable custom traits struct for function pointers. " alt="" coords="11,5,181,61"/>
-</map>

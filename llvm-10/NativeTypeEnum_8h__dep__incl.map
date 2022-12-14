@@ -1,8 +1,0 @@
-<map id="include/llvm/DebugInfo/PDB/Native/NativeTypeEnum.h" name="include/llvm/DebugInfo/PDB/Native/NativeTypeEnum.h">
-<area shape="rect" id="node2" href="$NativeEnumTypes_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeEnumTypes.cpp" alt="" coords="5,95,179,136"/>
-<area shape="rect" id="node3" href="$NativeSession_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeSession.cpp" alt="" coords="203,95,376,136"/>
-<area shape="rect" id="node4" href="$NativeSymbolEnumerator_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeSymbolEnumerator.cpp" alt="" coords="400,95,600,136"/>
-<area shape="rect" id="node5" href="$NativeTypeArray_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeTypeArray.cpp" alt="" coords="624,95,797,136"/>
-<area shape="rect" id="node6" href="$NativeTypeEnum_8cpp.html" title="lib/DebugInfo/PDB/Native\l/NativeTypeEnum.cpp" alt="" coords="821,95,995,136"/>
-<area shape="rect" id="node7" href="$SymbolCache_8cpp.html" title="lib/DebugInfo/PDB/Native\l/SymbolCache.cpp" alt="" coords="1019,95,1192,136"/>
-</map>

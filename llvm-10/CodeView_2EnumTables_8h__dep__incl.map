@@ -1,7 +1,0 @@
-<map id="include/llvm/DebugInfo/CodeView/EnumTables.h" name="include/llvm/DebugInfo/CodeView/EnumTables.h">
-<area shape="rect" id="node2" href="$CodeViewDebug_8cpp.html" title="lib/CodeGen/AsmPrinter\l/CodeViewDebug.cpp" alt="" coords="5,95,168,136"/>
-<area shape="rect" id="node3" href="$CodeView_2EnumTables_8cpp.html" title="lib/DebugInfo/CodeView\l/EnumTables.cpp" alt="" coords="192,95,355,136"/>
-<area shape="rect" id="node4" href="$SymbolDumper_8cpp.html" title="lib/DebugInfo/CodeView\l/SymbolDumper.cpp" alt="" coords="379,95,541,136"/>
-<area shape="rect" id="node5" href="$TypeRecordMapping_8cpp.html" title="lib/DebugInfo/CodeView\l/TypeRecordMapping.cpp" alt="" coords="565,95,736,136"/>
-<area shape="rect" id="node6" href="$CodeViewYAMLSymbols_8cpp.html" title="lib/ObjectYAML/CodeViewYAMLSymbols.cpp" alt="" coords="761,102,1050,129"/>
-</map>

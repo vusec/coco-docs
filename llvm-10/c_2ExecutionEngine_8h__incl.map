@@ -1,7 +1,0 @@
-<map id="include/llvm&#45;c/ExecutionEngine.h" name="include/llvm&#45;c/ExecutionEngine.h">
-<area shape="rect" id="node2" href="$ExternC_8h.html" title="llvm&#45;c/ExternC.h" alt="" coords="1258,319,1378,345"/>
-<area shape="rect" id="node3" href="$c_2Target_8h.html" title="llvm&#45;c/Target.h" alt="" coords="690,169,799,196"/>
-<area shape="rect" id="node4" href="$c_2Types_8h.html" title="llvm&#45;c/Types.h" alt="" coords="125,244,233,271"/>
-<area shape="rect" id="node15" href="$c_2TargetMachine_8h.html" title="llvm&#45;c/TargetMachine.h" alt="" coords="684,95,843,121"/>
-<area shape="rect" id="node5" href="$c_2DataTypes_8h.html" title="llvm&#45;c/DataTypes.h" alt="" coords="111,319,247,345"/>
-</map>

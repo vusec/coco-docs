@@ -1,4 +1,0 @@
-<map id="llvm::DWARFYAML::ConstVisitor" name="llvm::DWARFYAML::ConstVisitor">
-<area shape="rect" id="node2" href="$classllvm_1_1DWARFYAML_1_1VisitorImpl.html" title="llvm::DWARFYAML::Visitor\lImpl\&lt; const Data \&gt;" alt="" coords="23,109,208,151"/>
-<area shape="rect" id="node3" href="$classllvm_1_1DWARFYAML_1_1VisitorImpl.html" title="A class to visits DWARFYAML Compile Units and DIEs in preorder. " alt="" coords="23,5,208,47"/>
-</map>

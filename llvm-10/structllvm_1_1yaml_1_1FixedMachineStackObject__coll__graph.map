@@ -1,8 +1,0 @@
-<map id="llvm::yaml::FixedMachineStackObject" name="llvm::yaml::FixedMachineStackObject">
-<area shape="rect" id="node2" href="$structllvm_1_1yaml_1_1StringValue.html" title="A wrapper around std::string which contains a source range that&#39;s being set during parsing..." alt="" coords="432,157,589,184"/>
-<area shape="rect" id="node3" href="$classllvm_1_1SMRange.html" title="Represents a range in source code. " alt="" coords="177,117,289,144"/>
-<area shape="rect" id="node9" href="$structllvm_1_1yaml_1_1UnsignedValue.html" title="A wrapper around unsigned which contains a source range that&#39;s being set during parsing. " alt="" coords="421,87,600,113"/>
-<area shape="rect" id="node4" href="$classllvm_1_1SMLoc.html" title="Represents a location in source code. " alt="" coords="5,117,100,144"/>
-<area shape="rect" id="node10" href="$classunsigned.html" title="unsigned" alt="" coords="196,49,271,76"/>
-<area shape="rect" id="node11" href="$classbool.html" title="bool" alt="" coords="487,379,534,405"/>
-</map>

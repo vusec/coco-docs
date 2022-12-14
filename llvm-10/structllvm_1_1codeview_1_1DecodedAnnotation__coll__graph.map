@@ -1,7 +1,0 @@
-<map id="llvm::codeview::DecodedAnnotation" name="llvm::codeview::DecodedAnnotation">
-<area shape="rect" id="node4" href="$classuint32__t.html" title="uint32_t" alt="" coords="291,95,359,121"/>
-<area shape="rect" id="node5" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; uint8_t \&gt;" alt="" coords="383,95,553,121"/>
-<area shape="rect" id="node6" href="$classllvm_1_1ArrayRef.html" title="ArrayRef &#45; Represent a constant reference to an array (0 or more elements consecutively in memory)..." alt="" coords="399,5,537,32"/>
-<area shape="rect" id="node7" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e. " alt="" coords="577,95,687,121"/>
-<area shape="rect" id="node8" href="$classsize__t.html" title="size_t" alt="" coords="603,5,661,32"/>
-</map>

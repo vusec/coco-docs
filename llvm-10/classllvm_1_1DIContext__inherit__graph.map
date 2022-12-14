@@ -1,4 +1,0 @@
-<map id="llvm::DIContext" name="llvm::DIContext">
-<area shape="rect" id="node2" href="$classllvm_1_1DWARFContext.html" title="DWARFContext This data structure is the top level entity that deals with dwarf debug information pars..." alt="" coords="5,80,156,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1pdb_1_1PDBContext.html" title="PDBContext This data structure is the top level entity that deals with PDB debug information parsing..." alt="" coords="181,80,338,107"/>
-</map>

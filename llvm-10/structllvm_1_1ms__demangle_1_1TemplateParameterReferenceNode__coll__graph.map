@@ -1,8 +1,0 @@
-<map id="llvm::ms_demangle::TemplateParameterReferenceNode" name="llvm::ms_demangle::TemplateParameterReferenceNode">
-<area shape="rect" id="node2" href="$structllvm_1_1ms__demangle_1_1Node.html" title="llvm::ms_demangle::Node" alt="" coords="5,93,180,120"/>
-<area shape="rect" id="node7" href="$structllvm_1_1ms__demangle_1_1SymbolNode.html" title="llvm::ms_demangle::\lSymbolNode" alt="" coords="771,43,913,85"/>
-<area shape="rect" id="node8" href="$structllvm_1_1ms__demangle_1_1QualifiedNameNode.html" title="llvm::ms_demangle::\lQualifiedNameNode" alt="" coords="540,94,683,135"/>
-<area shape="rect" id="node9" href="$structllvm_1_1ms__demangle_1_1NodeArrayNode.html" title="llvm::ms_demangle::\lNodeArrayNode" alt="" coords="271,149,413,190"/>
-<area shape="rect" id="node5" href="$classbool.html" title="bool" alt="" coords="819,211,865,237"/>
-<area shape="rect" id="node10" href="$classsize__t.html" title="size_t" alt="" coords="64,207,121,233"/>
-</map>

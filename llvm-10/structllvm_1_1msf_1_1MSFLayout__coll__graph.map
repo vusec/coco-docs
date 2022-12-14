@@ -1,7 +1,0 @@
-<map id="llvm::msf::MSFLayout" name="llvm::msf::MSFLayout">
-<area shape="rect" id="node3" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; llvm\l::support::detail::packed\l_endian_specific_integral \&gt;" alt="" coords="367,101,547,157"/>
-<area shape="rect" id="node4" href="$classllvm_1_1ArrayRef.html" title="ArrayRef &#45; Represent a constant reference to an array (0 or more elements consecutively in memory)..." alt="" coords="19,115,157,142"/>
-<area shape="rect" id="node5" href="$structllvm_1_1msf_1_1SuperBlock.html" title="llvm::msf::SuperBlock" alt="" coords="381,181,532,207"/>
-<area shape="rect" id="node6" href="$classchar.html" title="char" alt="" coords="65,173,111,199"/>
-<area shape="rect" id="node8" href="$classllvm_1_1BitVector.html" title="llvm::BitVector" alt="" coords="403,231,511,258"/>
-</map>

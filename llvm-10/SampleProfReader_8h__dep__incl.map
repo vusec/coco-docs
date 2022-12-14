@@ -1,6 +1,0 @@
-<map id="include/llvm/ProfileData/SampleProfReader.h" name="include/llvm/ProfileData/SampleProfReader.h">
-<area shape="rect" id="node2" href="$SampleProfReader_8cpp.html" title="lib/ProfileData/SampleProf\lReader.cpp" alt="" coords="5,95,181,136"/>
-<area shape="rect" id="node3" href="$X86DiscriminateMemOps_8cpp.html" title="lib/Target/X86/X86Discriminate\lMemOps.cpp" alt="" coords="205,95,408,136"/>
-<area shape="rect" id="node4" href="$X86InsertPrefetch_8cpp.html" title="lib/Target/X86/X86Insert\lPrefetch.cpp" alt="" coords="432,95,595,136"/>
-<area shape="rect" id="node5" href="$SampleProfile_8cpp.html" title="lib/Transforms/IPO\l/SampleProfile.cpp" alt="" coords="619,95,751,136"/>
-</map>

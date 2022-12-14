@@ -1,6 +1,0 @@
-<map id="include/llvm/DebugInfo/CodeView/TypeIndexDiscovery.h" name="include/llvm/DebugInfo/CodeView/TypeIndexDiscovery.h">
-<area shape="rect" id="node2" href="$TypeHashing_8cpp.html" title="lib/DebugInfo/CodeView\l/TypeHashing.cpp" alt="" coords="5,95,168,136"/>
-<area shape="rect" id="node3" href="$TypeIndexDiscovery_8cpp.html" title="lib/DebugInfo/CodeView\l/TypeIndexDiscovery.cpp" alt="" coords="192,95,363,136"/>
-<area shape="rect" id="node4" href="$TypeRecordHelpers_8cpp.html" title="lib/DebugInfo/CodeView\l/TypeRecordHelpers.cpp" alt="" coords="387,95,554,136"/>
-<area shape="rect" id="node5" href="$TypeStreamMerger_8cpp.html" title="lib/DebugInfo/CodeView\l/TypeStreamMerger.cpp" alt="" coords="579,95,741,136"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="llvm::RuntimeDyld::MemoryManager" name="llvm::RuntimeDyld::MemoryManager">
-<area shape="rect" id="node2" href="$classllvm_1_1MCJITMemoryManager.html" title="llvm::MCJITMemoryManager" alt="" coords="206,5,397,32"/>
-<area shape="rect" id="node5" href="$classllvm_1_1orc_1_1remote_1_1OrcRemoteTargetClient_1_1RemoteRTDyldMemoryManager.html" title="Remote&#45;mapped RuntimeDyld&#45;compatible memory manager. " alt="" coords="192,56,411,112"/>
-<area shape="rect" id="node3" href="$classllvm_1_1RTDyldMemoryManager.html" title="llvm::RTDyldMemoryManager" alt="" coords="459,5,655,32"/>
-<area shape="rect" id="node4" href="$classllvm_1_1SectionMemoryManager.html" title="This is a simple memory manager which implements the methods called by the RuntimeDyld class to alloc..." alt="" coords="703,5,897,32"/>
-</map>

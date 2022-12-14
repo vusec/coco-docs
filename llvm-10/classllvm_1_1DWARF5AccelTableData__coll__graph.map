@@ -1,8 +1,0 @@
-<map id="llvm::DWARF5AccelTableData" name="llvm::DWARF5AccelTableData">
-<area shape="rect" id="node2" href="$classllvm_1_1AccelTableData.html" title="Interface which the different types of accelerator table data have to conform. " alt="" coords="25,333,171,360"/>
-<area shape="rect" id="node3" href="$classllvm_1_1DIE.html" title="A structured debug information entry. " alt="" coords="195,333,273,360"/>
-<area shape="rect" id="node4" href="$structllvm_1_1IntrusiveBackListNode.html" title="llvm::IntrusiveBackListNode" alt="" coords="11,257,198,284"/>
-<area shape="rect" id="node5" href="$classllvm_1_1PointerIntPair.html" title="llvm::PointerIntPair\l\&lt; llvm::IntrusiveBackListNode\l *, 1 \&gt;" alt="" coords="5,139,204,195"/>
-<area shape="rect" id="node6" href="$classllvm_1_1PointerIntPair.html" title="PointerIntPair &#45; This class implements a pair of a pointer and small integer. " alt="" coords="19,5,190,61"/>
-<area shape="rect" id="node7" href="$classllvm_1_1DIEValueList.html" title="A list of DIE values. " alt="" coords="222,257,353,284"/>
-</map>

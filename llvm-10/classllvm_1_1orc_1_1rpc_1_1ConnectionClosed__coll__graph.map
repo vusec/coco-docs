@@ -1,7 +1,0 @@
-<map id="llvm::orc::rpc::ConnectionClosed" name="llvm::orc::rpc::ConnectionClosed">
-<area shape="rect" id="node2" href="$classllvm_1_1ErrorInfo.html" title="llvm::ErrorInfo\&lt; Connection\lClosed \&gt;" alt="" coords="5,185,188,227"/>
-<area shape="rect" id="node3" href="$classllvm_1_1ErrorInfoBase.html" title="Base class for error info classes. " alt="" coords="8,89,143,115"/>
-<area shape="rect" id="node4" href="$classllvm_1_1ErrorInfo.html" title="Base class for user error types. " alt="" coords="167,81,325,123"/>
-<area shape="rect" id="node5" href="$classllvm_1_1ParentErrT.html" title="ParentErrT" alt="" coords="203,5,289,32"/>
-<area shape="rect" id="node6" href="$classchar.html" title="char" alt="" coords="212,193,259,219"/>
-</map>

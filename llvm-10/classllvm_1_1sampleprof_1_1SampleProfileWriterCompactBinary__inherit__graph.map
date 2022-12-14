@@ -1,4 +1,0 @@
-<map id="llvm::sampleprof::SampleProfileWriterCompactBinary" name="llvm::sampleprof::SampleProfileWriterCompactBinary">
-<area shape="rect" id="node2" href="$classllvm_1_1sampleprof_1_1SampleProfileWriterBinary.html" title="Sample&#45;based profile writer (binary format). " alt="" coords="12,95,183,136"/>
-<area shape="rect" id="node3" href="$classllvm_1_1sampleprof_1_1SampleProfileWriter.html" title="Sample&#45;based profile writer. Base class. " alt="" coords="12,5,183,47"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="llvm::R600RegisterInfo" name="llvm::R600RegisterInfo">
-<area shape="rect" id="node2" href="$classR600GenRegisterInfo.html" title="R600GenRegisterInfo" alt="" coords="5,109,153,136"/>
-<area shape="rect" id="node3" href="$structllvm_1_1RegClassWeight.html" title="Each TargetRegisterClass has a per register weight, and weight limit which must be less than the limi..." alt="" coords="177,109,331,136"/>
-<area shape="rect" id="node4" href="$classunsigned.html" title="unsigned" alt="" coords="217,5,291,32"/>
-</map>

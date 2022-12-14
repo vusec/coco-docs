@@ -1,4 +1,0 @@
-<map id="llvm::OperandTraits&lt; BranchInst &gt;" name="llvm::OperandTraits&lt; BranchInst &gt;">
-<area shape="rect" id="node2" href="$structllvm_1_1VariadicOperandTraits.html" title="llvm::VariadicOperandTraits\l\&lt; BranchInst, 1 \&gt;" alt="" coords="5,109,188,151"/>
-<area shape="rect" id="node3" href="$structllvm_1_1VariadicOperandTraits.html" title="VariadicOperandTraits &#45; determine the allocation regime of the Use array when it is a prefix to the U..." alt="" coords="5,5,188,47"/>
-</map>

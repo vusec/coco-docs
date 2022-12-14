@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; LCSSAPass \&gt;" alt="" coords="5,5,143,47"/>
-<area shape="rect" id="node2" href="$classllvm_1_1LCSSAPass.html" title="Converts loops into loop&#45;closed SSA form. " alt="" coords="191,13,319,39"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="llvm::MipsCallLowering::MipsHandler" name="llvm::MipsCallLowering::MipsHandler">
-<area shape="rect" id="node2" href="$classllvm_1_1MachineRegisterInfo.html" title="MachineRegisterInfo &#45; Keep track of information for virtual and physical registers, including vreg register classes, use/def chains for registers, etc. " alt="" coords="5,5,180,32"/>
-<area shape="rect" id="node3" href="$classllvm_1_1MachineIRBuilder.html" title="Helper class to build MachineInstr. " alt="" coords="205,5,362,32"/>
-</map>

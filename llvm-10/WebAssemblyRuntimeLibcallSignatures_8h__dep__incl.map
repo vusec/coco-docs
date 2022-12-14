@@ -1,4 +1,0 @@
-<map id="lib/Target/WebAssembly/WebAssemblyRuntimeLibcallSignatures.h" name="lib/Target/WebAssembly/WebAssemblyRuntimeLibcallSignatures.h">
-<area shape="rect" id="node2" href="$WebAssemblyMCInstLower_8cpp.html" title="This file contains code to lower WebAssembly MachineInstrs to their corresponding MCInst records..." alt="" coords="5,95,220,136"/>
-<area shape="rect" id="node3" href="$WebAssemblyRuntimeLibcallSignatures_8cpp.html" title="This file contains signature information for runtime libcalls. " alt="" coords="244,95,528,136"/>
-</map>

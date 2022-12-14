@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1pdb_1_1IPDBEnumChildren.html" title="llvm::pdb::IPDBEnumChildren\l\&lt; PDBSymbol \&gt;" alt="" coords="5,74,203,115"/>
-<area shape="rect" id="node2" href="$classllvm_1_1pdb_1_1DIAEnumSymbols.html" title="llvm::pdb::DIAEnumSymbols" alt="" coords="257,5,448,32"/>
-<area shape="rect" id="node3" href="$classllvm_1_1pdb_1_1NativeEnumGlobals.html" title="llvm::pdb::NativeEnumGlobals" alt="" coords="253,56,452,83"/>
-<area shape="rect" id="node4" href="$classllvm_1_1pdb_1_1NativeEnumModules.html" title="llvm::pdb::NativeEnumModules" alt="" coords="251,107,455,133"/>
-<area shape="rect" id="node5" href="$classllvm_1_1pdb_1_1NativeEnumTypes.html" title="llvm::pdb::NativeEnumTypes" alt="" coords="257,157,448,184"/>
-</map>

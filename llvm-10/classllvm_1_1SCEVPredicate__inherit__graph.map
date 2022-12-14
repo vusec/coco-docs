@@ -1,6 +1,0 @@
-<map id="llvm::SCEVPredicate" name="llvm::SCEVPredicate">
-<area shape="rect" id="node3" href="$classllvm_1_1SCEVEqualPredicate.html" title="This class represents an assumption that two SCEV expressions are equal, and this can be checked at r..." alt="" coords="5,155,184,181"/>
-<area shape="rect" id="node4" href="$classllvm_1_1SCEVUnionPredicate.html" title="This class represents a composition of other SCEV predicates, and is the class that most clients will..." alt="" coords="209,155,389,181"/>
-<area shape="rect" id="node5" href="$classllvm_1_1SCEVWrapPredicate.html" title="This class represents an assumption made on an AddRec expression. " alt="" coords="413,155,590,181"/>
-<area shape="rect" id="node2" href="$classllvm_1_1FoldingSetBase_1_1Node.html" title="Node &#45; This class is used to maintain the singly linked bucket list in a folding set. " alt="" coords="241,5,356,32"/>
-</map>

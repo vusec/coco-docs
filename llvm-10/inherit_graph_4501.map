@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1PriorityWorklist.html" title="llvm::PriorityWorklist\l\&lt; llvm::LazyCallGraph\l::RefSCC *, SmallVector\l\&lt; llvm::LazyCallGraph::RefSCC\l *, N \&gt;, SmallDenseMap\&lt; llvm\l::LazyCallGraph::RefSCC *, ptrdiff_t \&gt; \&gt;" alt="" coords="5,5,264,105"/>
-<area shape="rect" id="node2" href="$classllvm_1_1SmallPriorityWorklist.html" title="llvm::SmallPriorityWorklist\l\&lt; llvm::LazyCallGraph::RefSCC *, 1 \&gt;" alt="" coords="312,35,559,76"/>
-</map>

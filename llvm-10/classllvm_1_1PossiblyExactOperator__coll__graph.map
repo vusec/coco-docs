@@ -1,6 +1,0 @@
-<map id="llvm::PossiblyExactOperator" name="llvm::PossiblyExactOperator">
-<area shape="rect" id="node2" href="$classllvm_1_1Operator.html" title="This is a utility class that provides an abstraction for the common functionality between Instruction..." alt="" coords="47,349,151,376"/>
-<area shape="rect" id="node3" href="$classllvm_1_1User.html" title="llvm::User" alt="" coords="58,273,141,300"/>
-<area shape="rect" id="node4" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="56,197,143,224"/>
-<area shape="rect" id="node5" href="$classunsigned.html" title="unsigned" alt="" coords="62,5,137,32"/>
-</map>

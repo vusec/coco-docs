@@ -1,4 +1,0 @@
-<map id="llvm::objcarc::ObjCARCAAResult" name="llvm::objcarc::ObjCARCAAResult">
-<area shape="rect" id="node2" href="$classllvm_1_1AAResultBase.html" title="llvm::AAResultBase\l\&lt; ObjCARCAAResult \&gt;" alt="" coords="34,109,195,151"/>
-<area shape="rect" id="node3" href="$classllvm_1_1AAResultBase.html" title="A CRTP&#45;driven &quot;mixin&quot; base class to help implement the function alias analysis results concept..." alt="" coords="45,5,185,47"/>
-</map>

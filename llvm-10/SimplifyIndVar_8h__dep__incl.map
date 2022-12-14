@@ -1,6 +1,0 @@
-<map id="include/llvm/Transforms/Utils/SimplifyIndVar.h" name="include/llvm/Transforms/Utils/SimplifyIndVar.h">
-<area shape="rect" id="node2" href="$IndVarSimplify_8cpp.html" title="lib/Transforms/Scalar\l/IndVarSimplify.cpp" alt="" coords="5,95,152,136"/>
-<area shape="rect" id="node3" href="$LoopUnroll_8cpp.html" title="lib/Transforms/Utils\l/LoopUnroll.cpp" alt="" coords="176,95,312,136"/>
-<area shape="rect" id="node4" href="$LoopUnrollAndJam_8cpp.html" title="lib/Transforms/Utils\l/LoopUnrollAndJam.cpp" alt="" coords="337,95,498,136"/>
-<area shape="rect" id="node5" href="$SimplifyIndVar_8cpp.html" title="lib/Transforms/Utils\l/SimplifyIndVar.cpp" alt="" coords="523,95,659,136"/>
-</map>

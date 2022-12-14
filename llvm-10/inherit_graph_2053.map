@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structllvm_1_1DomTreeGraphTraitsBase.html" title="llvm::DomTreeGraphTraits\lBase\&lt; const VPDomTreeNode,\l VPDomTreeNode::const_iterator \&gt;" alt="" coords="5,5,233,61"/>
-<area shape="rect" id="node2" href="$structllvm_1_1GraphTraits_3_01const_01VPDomTreeNode_01_5_01_4.html" title="llvm::GraphTraits\&lt;\l const VPDomTreeNode * \&gt;" alt="" coords="281,13,468,54"/>
-</map>

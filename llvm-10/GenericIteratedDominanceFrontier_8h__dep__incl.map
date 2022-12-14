@@ -1,9 +1,0 @@
-<map id="include/llvm/Support/GenericIteratedDominanceFrontier.h" name="include/llvm/Support/GenericIteratedDominanceFrontier.h">
-<area shape="rect" id="node2" href="$IteratedDominanceFrontier_8h.html" title="include/llvm/Analysis\l/IteratedDominanceFrontier.h" alt="" coords="549,95,739,136"/>
-<area shape="rect" id="node3" href="$MemorySSA_8cpp.html" title="lib/Analysis/MemorySSA.cpp" alt="" coords="5,191,197,218"/>
-<area shape="rect" id="node4" href="$MemorySSAUpdater_8cpp.html" title="lib/Analysis/MemorySSAUpdater.cpp" alt="" coords="222,191,461,218"/>
-<area shape="rect" id="node5" href="$ADCE_8cpp.html" title="lib/Transforms/Scalar\l/ADCE.cpp" alt="" coords="485,184,632,225"/>
-<area shape="rect" id="node6" href="$GVNHoist_8cpp.html" title="lib/Transforms/Scalar\l/GVNHoist.cpp" alt="" coords="656,184,803,225"/>
-<area shape="rect" id="node7" href="$PromoteMemoryToRegister_8cpp.html" title="lib/Transforms/Utils\l/PromoteMemoryToRegister.cpp" alt="" coords="827,184,1037,225"/>
-<area shape="rect" id="node8" href="$SSAUpdaterBulk_8cpp.html" title="lib/Transforms/Utils\l/SSAUpdaterBulk.cpp" alt="" coords="1062,184,1213,225"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="include/llvm/DebugInfo/CodeView/DebugCrossExSubsection.h" name="include/llvm/DebugInfo/CodeView/DebugCrossExSubsection.h">
-<area shape="rect" id="node2" href="$DebugCrossExSubsection_8cpp.html" title="lib/DebugInfo/CodeView\l/DebugCrossExSubsection.cpp" alt="" coords="5,95,211,136"/>
-<area shape="rect" id="node3" href="$DebugSubsectionVisitor_8cpp.html" title="lib/DebugInfo/CodeView\l/DebugSubsectionVisitor.cpp" alt="" coords="235,95,426,136"/>
-<area shape="rect" id="node4" href="$CodeViewYAMLDebugSections_8cpp.html" title="lib/ObjectYAML/CodeViewYAMLDebug\lSections.cpp" alt="" coords="451,95,701,136"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="llvm::COFFYAML::Object" name="llvm::COFFYAML::Object">
-<area shape="rect" id="node2" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; llvm\l::COFFYAML::PEHeader \&gt;" alt="" coords="389,15,572,57"/>
-<area shape="rect" id="node3" href="$classllvm_1_1Optional.html" title="llvm::Optional\&lt; T \&gt;" alt="" coords="5,5,140,32"/>
-<area shape="rect" id="node4" href="$structllvm_1_1COFF_1_1header.html" title="llvm::COFF::header" alt="" coords="412,112,549,139"/>
-<area shape="rect" id="node5" href="$classuint16__t.html" title="uint16_t" alt="" coords="39,79,107,105"/>
-<area shape="rect" id="node7" href="$classuint32__t.html" title="uint32_t" alt="" coords="39,203,107,229"/>
-</map>

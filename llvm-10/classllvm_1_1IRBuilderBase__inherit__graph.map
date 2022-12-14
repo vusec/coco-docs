@@ -1,6 +1,0 @@
-<map id="llvm::IRBuilderBase" name="llvm::IRBuilderBase">
-<area shape="rect" id="node2" href="$classllvm_1_1IRBuilder.html" title="llvm::IRBuilder\&lt; TargetFolder \&gt;" alt="" coords="525,5,731,32"/>
-<area shape="rect" id="node3" href="$classllvm_1_1IRBuilder.html" title="llvm::IRBuilder\&lt; TargetFolder,\l IRBuilderCallbackInserter \&gt;" alt="" coords="529,115,727,157"/>
-<area shape="rect" id="node4" href="$classllvm_1_1IRBuilder.html" title="llvm::IRBuilder\&lt;\&gt;" alt="" coords="566,201,690,228"/>
-<area shape="rect" id="node5" href="$classllvm_1_1IRBuilder.html" title="This provides a uniform API for creating instructions and inserting them into a basic block: either a..." alt="" coords="193,86,325,127"/>
-</map>

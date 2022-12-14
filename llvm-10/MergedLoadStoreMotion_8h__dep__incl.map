@@ -1,4 +1,0 @@
-<map id="include/llvm/Transforms/Scalar/MergedLoadStoreMotion.h" name="include/llvm/Transforms/Scalar/MergedLoadStoreMotion.h">
-<area shape="rect" id="node2" href="$PassBuilder_8cpp.html" title="This file provides the implementation of the PassBuilder based on our static pass registry as well as..." alt="" coords="5,102,188,129"/>
-<area shape="rect" id="node3" href="$MergedLoadStoreMotion_8cpp.html" title="This pass performs merges of loads and stores on both sides of a. " alt="" coords="213,95,405,136"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="llvm::EarlyCSEPass" name="llvm::EarlyCSEPass">
-<area shape="rect" id="node2" href="$structllvm_1_1PassInfoMixin.html" title="llvm::PassInfoMixin\l\&lt; EarlyCSEPass \&gt;" alt="" coords="8,109,145,151"/>
-<area shape="rect" id="node3" href="$structllvm_1_1PassInfoMixin.html" title="A CRTP mix&#45;in to automatically provide informational APIs needed for passes. " alt="" coords="8,5,145,47"/>
-</map>

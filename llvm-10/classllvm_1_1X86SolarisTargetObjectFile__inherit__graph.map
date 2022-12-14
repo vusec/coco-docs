@@ -1,6 +1,0 @@
-<map id="llvm::X86SolarisTargetObjectFile" name="llvm::X86SolarisTargetObjectFile">
-<area shape="rect" id="node2" href="$classllvm_1_1X86ELFTargetObjectFile.html" title="This implemenatation is used for X86 ELF targets that don&#39;t have a further specialization. " alt="" coords="13,244,211,271"/>
-<area shape="rect" id="node3" href="$classllvm_1_1TargetLoweringObjectFileELF.html" title="llvm::TargetLoweringObject\lFileELF" alt="" coords="21,155,203,196"/>
-<area shape="rect" id="node4" href="$classllvm_1_1TargetLoweringObjectFile.html" title="llvm::TargetLoweringObjectFile" alt="" coords="11,80,213,107"/>
-<area shape="rect" id="node5" href="$classllvm_1_1MCObjectFileInfo.html" title="llvm::MCObjectFileInfo" alt="" coords="34,5,190,32"/>
-</map>

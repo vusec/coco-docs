@@ -1,5 +1,0 @@
-<map id="include/llvm/Transforms/Utils/LowerMemIntrinsics.h" name="include/llvm/Transforms/Utils/LowerMemIntrinsics.h">
-<area shape="rect" id="node2" href="$AMDGPULowerIntrinsics_8cpp.html" title="lib/Target/AMDGPU/AMDGPULower\lIntrinsics.cpp" alt="" coords="5,95,243,136"/>
-<area shape="rect" id="node3" href="$NVPTXLowerAggrCopies_8cpp.html" title="lib/Target/NVPTX/NVPTXLower\lAggrCopies.cpp" alt="" coords="267,95,477,136"/>
-<area shape="rect" id="node4" href="$LowerMemIntrinsics_8cpp.html" title="lib/Transforms/Utils\l/LowerMemIntrinsics.cpp" alt="" coords="501,95,669,136"/>
-</map>

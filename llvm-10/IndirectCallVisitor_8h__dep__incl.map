@@ -1,6 +1,0 @@
-<map id="include/llvm/Analysis/IndirectCallVisitor.h" name="include/llvm/Analysis/IndirectCallVisitor.h">
-<area shape="rect" id="node2" href="$IndirectCallPromotionAnalysis_8cpp.html" title="lib/Analysis/IndirectCall\lPromotionAnalysis.cpp" alt="" coords="5,95,164,136"/>
-<area shape="rect" id="node3" href="$IndirectCallPromotion_8cpp.html" title="lib/Transforms/Instrumentation\l/IndirectCallPromotion.cpp" alt="" coords="188,95,387,136"/>
-<area shape="rect" id="node4" href="$ValueProfilePlugins_8inc.html" title="lib/Transforms/Instrumentation\l/ValueProfilePlugins.inc" alt="" coords="411,95,609,136"/>
-<area shape="rect" id="node5" href="$ValueProfileCollector_8cpp.html" title="lib/Transforms/Instrumentation\l/ValueProfileCollector.cpp" alt="" coords="411,184,609,225"/>
-</map>

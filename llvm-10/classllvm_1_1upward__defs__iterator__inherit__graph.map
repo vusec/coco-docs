@@ -1,4 +1,0 @@
-<map id="llvm::upward_defs_iterator" name="llvm::upward_defs_iterator">
-<area shape="rect" id="node2" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; upward_defs_iterator,\l std::forward_iterator_tag,\l const MemoryAccessPair \&gt;" alt="" coords="748,63,943,134"/>
-<area shape="rect" id="node4" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="273,115,497,186"/>
-</map>

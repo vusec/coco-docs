@@ -1,6 +1,0 @@
-<map id="llvm::object::XCOFFSectionHeader&lt; T &gt;" name="llvm::object::XCOFFSectionHeader&lt; T &gt;">
-<area shape="rect" id="node2" href="$structllvm_1_1object_1_1XCOFFSectionHeader.html" title="llvm::object::XCOFFSection\lHeader\&lt; XCOFFSectionHeader32 \&gt;" alt="" coords="413,5,647,47"/>
-<area shape="rect" id="node4" href="$structllvm_1_1object_1_1XCOFFSectionHeader.html" title="llvm::object::XCOFFSection\lHeader\&lt; XCOFFSectionHeader64 \&gt;" alt="" coords="413,71,647,112"/>
-<area shape="rect" id="node3" href="$structllvm_1_1object_1_1XCOFFSectionHeader32.html" title="llvm::object::XCOFFSection\lHeader32" alt="" coords="696,5,883,47"/>
-<area shape="rect" id="node5" href="$structllvm_1_1object_1_1XCOFFSectionHeader64.html" title="llvm::object::XCOFFSection\lHeader64" alt="" coords="696,71,883,112"/>
-</map>

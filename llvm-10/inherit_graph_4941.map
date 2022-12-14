@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1SwitchInst_1_1CaseHandleImpl.html" title="llvm::SwitchInst::CaseHandle\lImpl\&lt; SwitchInst, ConstantInt,\l BasicBlock \&gt;" alt="" coords="5,5,207,61"/>
-<area shape="rect" id="node2" href="$classllvm_1_1SwitchInst_1_1CaseHandle.html" title="llvm::SwitchInst::CaseHandle" alt="" coords="255,20,451,47"/>
-</map>

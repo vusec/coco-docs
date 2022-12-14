@@ -1,7 +1,0 @@
-<map id="include/llvm/IR/NoFolder.h" name="include/llvm/IR/NoFolder.h">
-<area shape="rect" id="node2" href="$ARMParallelDSP_8cpp.html" title="Armv6 introduced instructions to perform 32&#45;bit SIMD operations. " alt="" coords="5,80,192,121"/>
-<area shape="rect" id="node3" href="$XCoreLowerThreadLocal_8cpp.html" title="This file contains a pass that lowers thread local variables on the XCore. " alt="" coords="217,80,410,121"/>
-<area shape="rect" id="node4" href="$ArgumentPromotion_8cpp.html" title="lib/Transforms/IPO\l/ArgumentPromotion.cpp" alt="" coords="434,80,601,121"/>
-<area shape="rect" id="node5" href="$SimplifyCFG_8cpp.html" title="lib/Transforms/Utils\l/SimplifyCFG.cpp" alt="" coords="625,80,761,121"/>
-<area shape="rect" id="node6" href="$SLPVectorizer_8cpp.html" title="lib/Transforms/Vectorize\l/SLPVectorizer.cpp" alt="" coords="786,80,950,121"/>
-</map>

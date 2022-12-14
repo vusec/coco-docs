@@ -1,7 +1,0 @@
-<map id="llvm::ConstantUniqueMap&lt; ConstantClass &gt;" name="llvm::ConstantUniqueMap&lt; ConstantClass &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1ConstantUniqueMap.html" title="llvm::ConstantUniqueMap\l\&lt; ConstantArray \&gt;" alt="" coords="368,5,541,47"/>
-<area shape="rect" id="node3" href="$classllvm_1_1ConstantUniqueMap.html" title="llvm::ConstantUniqueMap\l\&lt; ConstantVector \&gt;" alt="" coords="368,71,541,112"/>
-<area shape="rect" id="node4" href="$classllvm_1_1ConstantUniqueMap.html" title="llvm::ConstantUniqueMap\l\&lt; ConstantStruct \&gt;" alt="" coords="368,136,541,177"/>
-<area shape="rect" id="node5" href="$classllvm_1_1ConstantUniqueMap.html" title="llvm::ConstantUniqueMap\l\&lt; llvm::InlineAsm \&gt;" alt="" coords="368,201,541,243"/>
-<area shape="rect" id="node6" href="$classllvm_1_1ConstantUniqueMap.html" title="llvm::ConstantUniqueMap\l\&lt; llvm::ConstantExpr \&gt;" alt="" coords="368,267,541,308"/>
-</map>

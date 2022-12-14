@@ -1,5 +1,0 @@
-<map id="llvm::ContextualFoldingSet&lt; T, Ctx &gt;" name="llvm::ContextualFoldingSet&lt; T, Ctx &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1FoldingSetImpl.html" title="FoldingSetImpl &#45; An implementation detail that lets us share code between FoldingSet and ContextualFo..." alt="" coords="8,185,181,212"/>
-<area shape="rect" id="node3" href="$classllvm_1_1FoldingSetBase.html" title="FoldingSetBase &#45; Implements the folding set functionality. " alt="" coords="21,109,168,136"/>
-<area shape="rect" id="node5" href="$classunsigned.html" title="unsigned" alt="" coords="104,5,179,32"/>
-</map>

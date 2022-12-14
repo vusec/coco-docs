@@ -1,6 +1,0 @@
-<map id="include/llvm/MC/MCAsmInfoWasm.h" name="include/llvm/MC/MCAsmInfoWasm.h">
-<area shape="rect" id="node2" href="$MCAsmInfoWasm_8cpp.html" title="lib/MC/MCAsmInfoWasm.cpp" alt="" coords="5,109,203,136"/>
-<area shape="rect" id="node3" href="$WebAssemblyMCAsmInfo_8h.html" title="This file contains the declaration of the WebAssemblyMCAsmInfo class. " alt="" coords="227,95,479,151"/>
-<area shape="rect" id="node4" href="$WebAssemblyMCAsmInfo_8cpp.html" title="This file contains the declarations of the WebAssemblyMCAsmInfo properties. " alt="" coords="86,199,338,255"/>
-<area shape="rect" id="node5" href="$WebAssemblyMCTargetDesc_8cpp.html" title="This file provides WebAssembly&#45;specific target descriptions. " alt="" coords="362,199,625,255"/>
-</map>

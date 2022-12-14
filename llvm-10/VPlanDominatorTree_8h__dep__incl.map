@@ -1,8 +1,0 @@
-<map id="lib/Transforms/Vectorize/VPlanDominatorTree.h" name="lib/Transforms/Vectorize/VPlanDominatorTree.h">
-<area shape="rect" id="node2" href="$VPlanHCFGBuilder_8h.html" title="This file defines the VPlanHCFGBuilder class which contains the public interface (buildHierarchicalCF..." alt="" coords="99,95,263,136"/>
-<area shape="rect" id="node5" href="$VPlanPredicator_8h.html" title="This file defines the VPlanPredicator class which contains the public interfaces to predicate and lin..." alt="" coords="287,95,451,136"/>
-<area shape="rect" id="node7" href="$VPlan_8cpp.html" title="This is the LLVM vectorization plan. " alt="" coords="475,95,639,136"/>
-<area shape="rect" id="node3" href="$LoopVectorize_8cpp.html" title="lib/Transforms/Vectorize\l/LoopVectorize.cpp" alt="" coords="193,184,357,225"/>
-<area shape="rect" id="node4" href="$VPlanHCFGBuilder_8cpp.html" title="This file implements the construction of a VPlan&#45;based Hierarchical CFG (H&#45;CFG) for an incoming IR..." alt="" coords="5,184,169,225"/>
-<area shape="rect" id="node6" href="$VPlanPredicator_8cpp.html" title="This file implements the VPlanPredicator class which contains the public interfaces to predicate and ..." alt="" coords="381,184,545,225"/>
-</map>

@@ -1,3 +1,0 @@
-<map id="llvm::HasReferenceResolver" name="llvm::HasReferenceResolver">
-<area shape="rect" id="node2" href="$classllvm_1_1Resolver.html" title="Interface for looking up the initializer for a variable name, used by Init::resolveReferences. " alt="" coords="47,5,154,32"/>
-</map>

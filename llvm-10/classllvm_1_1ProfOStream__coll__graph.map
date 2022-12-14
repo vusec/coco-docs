@@ -1,5 +1,0 @@
-<map id="llvm::ProfOStream" name="llvm::ProfOStream">
-<area shape="rect" id="node2" href="$structllvm_1_1support_1_1endian_1_1Writer.html" title="Adapter to write values to a stream in a particular byte order. " alt="" coords="5,331,148,372"/>
-<area shape="rect" id="node4" href="$classllvm_1_1raw__ostream.html" title="This class implements an extremely fast bulk output stream that can only output to a stream..." alt="" coords="132,241,261,268"/>
-<area shape="rect" id="node6" href="$classbool.html" title="bool" alt="" coords="245,338,292,365"/>
-</map>

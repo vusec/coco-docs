@@ -1,6 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1PassInfo.html" title="PassInfo class &#45; An instance of this class exists for every pass known by the system, and can be obtained from a live Pass by calling its getPassInfo() method. " alt="" coords="5,42,112,69"/>
-<area shape="rect" id="node2" href="$classllvm_1_1RegisterAGBase.html" title="RegisterAnalysisGroup &#45; Register a Pass as a member of an analysis group. " alt="" coords="160,13,312,39"/>
-<area shape="rect" id="node4" href="$structllvm_1_1RegisterPass.html" title="RegisterPass&lt;t&gt; template &#45; This template class is used to notify the system that a Pass is available ..." alt="" coords="169,64,303,105"/>
-<area shape="rect" id="node3" href="$structllvm_1_1RegisterAnalysisGroup.html" title="llvm::RegisterAnalysisGroup\l\&lt; Interface, Default \&gt;" alt="" coords="360,5,548,47"/>
-</map>

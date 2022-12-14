@@ -1,4 +1,0 @@
-<map id="llvm::minidump::Module" name="llvm::minidump::Module">
-<area shape="rect" id="node2" href="$structllvm_1_1minidump_1_1LocationDescriptor.html" title="Specifies the location (and size) of various objects in the minidump file. " alt="" coords="358,109,525,150"/>
-<area shape="rect" id="node5" href="$structllvm_1_1minidump_1_1VSFixedFileInfo.html" title="llvm::minidump::VSFixedFileInfo" alt="" coords="336,175,547,201"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="llvm::IsAOpInit" name="llvm::IsAOpInit">
-<area shape="rect" id="node2" href="$classllvm_1_1TypedInit.html" title="This is the common super&#45;class of types that have a specific, explicit, type. " alt="" coords="5,171,113,197"/>
-<area shape="rect" id="node3" href="$classllvm_1_1Init.html" title="llvm::Init" alt="" coords="23,95,95,121"/>
-<area shape="rect" id="node5" href="$classllvm_1_1FoldingSetBase_1_1Node.html" title="Node &#45; This class is used to maintain the singly linked bucket list in a folding set. " alt="" coords="138,171,253,197"/>
-</map>

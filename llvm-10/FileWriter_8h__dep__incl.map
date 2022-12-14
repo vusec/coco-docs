@@ -1,9 +1,0 @@
-<map id="include/llvm/DebugInfo/GSYM/FileWriter.h" name="include/llvm/DebugInfo/GSYM/FileWriter.h">
-<area shape="rect" id="node2" href="$FileWriter_8cpp.html" title="lib/DebugInfo/GSYM\l/FileWriter.cpp" alt="" coords="5,95,148,136"/>
-<area shape="rect" id="node3" href="$FunctionInfo_8cpp.html" title="lib/DebugInfo/GSYM\l/FunctionInfo.cpp" alt="" coords="172,95,315,136"/>
-<area shape="rect" id="node4" href="$GsymCreator_8cpp.html" title="lib/DebugInfo/GSYM\l/GsymCreator.cpp" alt="" coords="339,95,481,136"/>
-<area shape="rect" id="node5" href="$Header_8cpp.html" title="lib/DebugInfo/GSYM\l/Header.cpp" alt="" coords="505,95,648,136"/>
-<area shape="rect" id="node6" href="$InlineInfo_8cpp.html" title="lib/DebugInfo/GSYM\l/InlineInfo.cpp" alt="" coords="672,95,815,136"/>
-<area shape="rect" id="node7" href="$LineTable_8cpp.html" title="lib/DebugInfo/GSYM\l/LineTable.cpp" alt="" coords="839,95,981,136"/>
-<area shape="rect" id="node8" href="$Range_8cpp.html" title="lib/DebugInfo/GSYM\l/Range.cpp" alt="" coords="1005,95,1148,136"/>
-</map>

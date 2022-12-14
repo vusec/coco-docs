@@ -1,5 +1,0 @@
-<map id="llvm::pdb::PDBSymbolAnnotation" name="llvm::pdb::PDBSymbolAnnotation">
-<area shape="rect" id="node2" href="$classllvm_1_1pdb_1_1PDBSymbol.html" title="PDBSymbol defines the base of the inheritance hierarchy for concrete symbol types (e..." alt="" coords="357,56,512,83"/>
-<area shape="rect" id="node3" href="$classllvm_1_1pdb_1_1IPDBSession.html" title="IPDBSession defines an interface used to provide a context for querying debug information from a debu..." alt="" coords="17,5,180,32"/>
-<area shape="rect" id="node4" href="$classllvm_1_1pdb_1_1IPDBRawSymbol.html" title="IPDBRawSymbol defines an interface used to represent an arbitrary symbol. " alt="" coords="5,56,192,83"/>
-</map>

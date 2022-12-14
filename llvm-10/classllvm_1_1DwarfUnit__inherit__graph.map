@@ -1,5 +1,0 @@
-<map id="llvm::DwarfUnit" name="llvm::DwarfUnit">
-<area shape="rect" id="node3" href="$classllvm_1_1DwarfCompileUnit.html" title="llvm::DwarfCompileUnit" alt="" coords="5,155,167,181"/>
-<area shape="rect" id="node4" href="$classllvm_1_1DwarfTypeUnit.html" title="llvm::DwarfTypeUnit" alt="" coords="191,155,333,181"/>
-<area shape="rect" id="node2" href="$classllvm_1_1DIEUnit.html" title="Represents a compile or type unit. " alt="" coords="123,5,225,32"/>
-</map>

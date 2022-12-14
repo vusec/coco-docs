@@ -1,8 +1,0 @@
-<map id="lib/CodeGen/SelectionDAG/ScheduleDAGSDNodes.h" name="lib/CodeGen/SelectionDAG/ScheduleDAGSDNodes.h">
-<area shape="rect" id="node2" href="$ScheduleDAGFast_8cpp.html" title="lib/CodeGen/SelectionDAG\l/ScheduleDAGFast.cpp" alt="" coords="5,95,187,136"/>
-<area shape="rect" id="node3" href="$ScheduleDAGRRList_8cpp.html" title="lib/CodeGen/SelectionDAG\l/ScheduleDAGRRList.cpp" alt="" coords="211,95,392,136"/>
-<area shape="rect" id="node4" href="$ScheduleDAGSDNodes_8cpp.html" title="lib/CodeGen/SelectionDAG\l/ScheduleDAGSDNodes.cpp" alt="" coords="417,95,607,136"/>
-<area shape="rect" id="node5" href="$ScheduleDAGVLIW_8cpp.html" title="lib/CodeGen/SelectionDAG\l/ScheduleDAGVLIW.cpp" alt="" coords="632,95,813,136"/>
-<area shape="rect" id="node6" href="$SelectionDAGISel_8cpp.html" title="lib/CodeGen/SelectionDAG\l/SelectionDAGISel.cpp" alt="" coords="837,95,1019,136"/>
-<area shape="rect" id="node7" href="$SelectionDAGPrinter_8cpp.html" title="lib/CodeGen/SelectionDAG\l/SelectionDAGPrinter.cpp" alt="" coords="1043,95,1224,136"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="llvm::CallBase::BundleOpInfo" name="llvm::CallBase::BundleOpInfo">
-<area shape="rect" id="node2" href="$classllvm_1_1StringMapEntry.html" title="llvm::StringMapEntry\l\&lt; uint32_t \&gt;" alt="" coords="101,289,245,331"/>
-<area shape="rect" id="node3" href="$classllvm_1_1StringMapEntryStorage.html" title="StringMapEntryStorage &#45; Holds the value in a StringMapEntry. " alt="" coords="5,95,195,136"/>
-<area shape="rect" id="node4" href="$classllvm_1_1StringMapEntryBase.html" title="StringMapEntryBase &#45; Shared base class of StringMapEntry instances. " alt="" coords="46,5,221,32"/>
-<area shape="rect" id="node7" href="$classllvm_1_1StringMapEntryStorage.html" title="StringMapEntryStorage &#45; Holds the value in a StringMapEntry. " alt="" coords="219,95,408,136"/>
-<area shape="rect" id="node6" href="$classllvm_1_1StringMapEntry.html" title="StringMapEntry &#45; This is used to represent one value that is inserted into a StringMap. " alt="" coords="215,185,359,227"/>
-<area shape="rect" id="node8" href="$classuint32__t.html" title="uint32_t" alt="" coords="270,297,338,323"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="llvm::SequentialType" name="llvm::SequentialType">
-<area shape="rect" id="node4" href="$classllvm_1_1ArrayType.html" title="Class to represent array types. " alt="" coords="5,229,120,256"/>
-<area shape="rect" id="node5" href="$classllvm_1_1VectorType.html" title="Class to represent vector types. " alt="" coords="145,229,266,256"/>
-<area shape="rect" id="node2" href="$classllvm_1_1CompositeType.html" title="Common super class of ArrayType, StructType and VectorType. " alt="" coords="60,80,207,107"/>
-<area shape="rect" id="node3" href="$classllvm_1_1Type.html" title="The instances of the Type class are immutable: once they are created, they are never changed..." alt="" coords="92,5,175,32"/>
-</map>

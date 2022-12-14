@@ -1,3 +1,0 @@
-<map id="llvm::TargetRegisterInfo" name="llvm::TargetRegisterInfo">
-<area shape="rect" id="node2" href="$classllvm_1_1MCRegisterInfo.html" title="MCRegisterInfo base class &#45; We assume that the target defines a static array of MCRegisterDesc object..." alt="" coords="13,5,160,32"/>
-</map>

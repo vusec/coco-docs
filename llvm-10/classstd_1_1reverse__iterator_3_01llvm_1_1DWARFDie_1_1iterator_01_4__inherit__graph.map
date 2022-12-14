@@ -1,4 +1,0 @@
-<map id="std::reverse_iterator&lt; llvm::DWARFDie::iterator &gt;" name="std::reverse_iterator&lt; llvm::DWARFDie::iterator &gt;">
-<area shape="rect" id="node2" href="$classllvm_1_1iterator__facade__base.html" title="llvm::iterator_facade\l_base\&lt; reverse_iterator\l\&lt; llvm::DWARFDie::iterator\l \&gt;, bidirectional_iterator\l_tag, const llvm::DWARFDie \&gt;" alt="" coords="723,57,928,143"/>
-<area shape="rect" id="node4" href="$classllvm_1_1iterator__facade__base.html" title="CRTP base class which implements the entire standard iterator facade in terms of a minimal subset of ..." alt="" coords="267,115,491,186"/>
-</map>

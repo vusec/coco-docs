@@ -1,6 +1,0 @@
-<map id="lib/Target/ARM/MCTargetDesc/ARMAsmBackend.h" name="lib/Target/ARM/MCTargetDesc/ARMAsmBackend.h">
-<area shape="rect" id="node2" href="$ARMAsmBackend_8cpp.html" title="lib/Target/ARM/MCTargetDesc\l/ARMAsmBackend.cpp" alt="" coords="141,184,344,225"/>
-<area shape="rect" id="node3" href="$ARMAsmBackendDarwin_8h.html" title="lib/Target/ARM/MCTargetDesc\l/ARMAsmBackendDarwin.h" alt="" coords="28,95,230,136"/>
-<area shape="rect" id="node4" href="$ARMAsmBackendELF_8h.html" title="lib/Target/ARM/MCTargetDesc\l/ARMAsmBackendELF.h" alt="" coords="254,95,457,136"/>
-<area shape="rect" id="node5" href="$ARMAsmBackendWinCOFF_8h.html" title="lib/Target/ARM/MCTargetDesc\l/ARMAsmBackendWinCOFF.h" alt="" coords="482,95,686,136"/>
-</map>

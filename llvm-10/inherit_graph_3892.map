@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1orc_1_1rpc_1_1Function.html" title="llvm::orc::rpc::Function\l\&lt; GetSymbolAddress, JITTargetAddress\l(std::string SymbolName)\&gt;" alt="" coords="5,5,264,61"/>
-<area shape="rect" id="node2" href="$classllvm_1_1orc_1_1remote_1_1utils_1_1GetSymbolAddress.html" title="Get the address of a remote symbol. " alt="" coords="312,13,479,54"/>
-</map>

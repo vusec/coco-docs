@@ -1,6 +1,0 @@
-<map id="lib/Target/ARM/MCTargetDesc/ARMInstPrinter.h" name="lib/Target/ARM/MCTargetDesc/ARMInstPrinter.h">
-<area shape="rect" id="node2" href="$ARMAsmPrinter_8cpp.html" title="lib/Target/ARM/ARMAsmPrinter.cpp" alt="" coords="5,102,240,129"/>
-<area shape="rect" id="node3" href="$ARMAsmParser_8cpp.html" title="lib/Target/ARM/AsmParser\l/ARMAsmParser.cpp" alt="" coords="264,95,443,136"/>
-<area shape="rect" id="node4" href="$ARMInstPrinter_8cpp.html" title="lib/Target/ARM/MCTargetDesc\l/ARMInstPrinter.cpp" alt="" coords="467,95,669,136"/>
-<area shape="rect" id="node5" href="$ARMMCTargetDesc_8cpp.html" title="lib/Target/ARM/MCTargetDesc\l/ARMMCTargetDesc.cpp" alt="" coords="693,95,896,136"/>
-</map>

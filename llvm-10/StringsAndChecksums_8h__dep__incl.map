@@ -1,7 +1,0 @@
-<map id="include/llvm/DebugInfo/CodeView/StringsAndChecksums.h" name="include/llvm/DebugInfo/CodeView/StringsAndChecksums.h">
-<area shape="rect" id="node2" href="$DebugSubsectionVisitor_8h.html" title="include/llvm/DebugInfo\l/CodeView/DebugSubsectionVisitor.h" alt="" coords="67,95,308,136"/>
-<area shape="rect" id="node4" href="$CodeViewYAMLDebugSections_8cpp.html" title="lib/ObjectYAML/CodeViewYAMLDebug\lSections.cpp" alt="" coords="221,184,471,225"/>
-<area shape="rect" id="node5" href="$StringsAndChecksums_8cpp.html" title="lib/DebugInfo/CodeView\l/StringsAndChecksums.cpp" alt="" coords="384,95,569,136"/>
-<area shape="rect" id="node6" href="$COFFEmitter_8cpp.html" title="The COFF component of yaml2obj. " alt="" coords="593,102,813,129"/>
-<area shape="rect" id="node3" href="$DebugSubsectionVisitor_8cpp.html" title="lib/DebugInfo/CodeView\l/DebugSubsectionVisitor.cpp" alt="" coords="5,184,196,225"/>
-</map>

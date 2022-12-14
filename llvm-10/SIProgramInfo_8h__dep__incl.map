@@ -1,7 +1,0 @@
-<map id="lib/Target/AMDGPU/SIProgramInfo.h" name="lib/Target/AMDGPU/SIProgramInfo.h">
-<area shape="rect" id="node2" href="$AMDGPUAsmPrinter_8h.html" title="AMDGPU Assembly printer class. " alt="" coords="267,95,496,136"/>
-<area shape="rect" id="node6" href="$AMDGPUHSAMetadataStreamer_8cpp.html" title="AMDGPU HSA Metadata Streamer. " alt="" coords="521,95,805,136"/>
-<area shape="rect" id="node3" href="$AMDGPUAsmPrinter_8cpp.html" title="The AMDGPUAsmPrinter is used to print both assembly string and also binary code. " alt="" coords="5,184,235,225"/>
-<area shape="rect" id="node4" href="$AMDGPUMCInstLower_8cpp.html" title="Code to lower AMDGPU MachineInstrs to their corresponding MCInst. " alt="" coords="259,184,504,225"/>
-<area shape="rect" id="node5" href="$AMDGPUPALMetadata_8cpp.html" title="This class has methods called by AMDGPUAsmPrinter to accumulate and print the PAL metadata..." alt="" coords="528,184,717,225"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="include/llvm/Demangle/Utility.h" name="include/llvm/Demangle/Utility.h">
-<area shape="rect" id="node2" href="$ItaniumDemangle_8h.html" title="include/llvm/Demangle\l/ItaniumDemangle.h" alt="" coords="259,95,413,136"/>
-<area shape="rect" id="node5" href="$MicrosoftDemangle_8h.html" title="include/llvm/Demangle\l/MicrosoftDemangle.h" alt="" coords="437,95,592,136"/>
-<area shape="rect" id="node6" href="$MicrosoftDemangle_8cpp.html" title="lib/Demangle/MicrosoftDemangle.cpp" alt="" coords="495,191,735,218"/>
-<area shape="rect" id="node7" href="$MicrosoftDemangleNodes_8cpp.html" title="lib/Demangle/MicrosoftDemangle\lNodes.cpp" alt="" coords="667,95,882,136"/>
-<area shape="rect" id="node3" href="$ItaniumDemangle_8cpp.html" title="lib/Demangle/ItaniumDemangle.cpp" alt="" coords="5,191,235,218"/>
-<area shape="rect" id="node4" href="$ItaniumManglingCanonicalizer_8cpp.html" title="lib/Support/ItaniumMangling\lCanonicalizer.cpp" alt="" coords="259,184,442,225"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="include/llvm/DebugInfo/CodeView/DebugSymbolRVASubsection.h" name="include/llvm/DebugInfo/CodeView/DebugSymbolRVASubsection.h">
-<area shape="rect" id="node2" href="$DebugSubsectionVisitor_8cpp.html" title="lib/DebugInfo/CodeView\l/DebugSubsectionVisitor.cpp" alt="" coords="5,95,196,136"/>
-<area shape="rect" id="node3" href="$DebugSymbolRVASubsection_8cpp.html" title="lib/DebugInfo/CodeView\l/DebugSymbolRVASubsection.cpp" alt="" coords="221,95,447,136"/>
-<area shape="rect" id="node4" href="$CodeViewYAMLDebugSections_8cpp.html" title="lib/ObjectYAML/CodeViewYAMLDebug\lSections.cpp" alt="" coords="471,95,722,136"/>
-</map>

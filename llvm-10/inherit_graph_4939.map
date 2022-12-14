@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classllvm_1_1SwitchCG_1_1SwitchLowering.html" title="llvm::SwitchCG::SwitchLowering" alt="" coords="5,13,220,39"/>
-<area shape="rect" id="node2" href="$classllvm_1_1SelectionDAGBuilder_1_1SDAGSwitchLowering.html" title="llvm::SelectionDAGBuilder\l::SDAGSwitchLowering" alt="" coords="268,5,445,47"/>
-</map>

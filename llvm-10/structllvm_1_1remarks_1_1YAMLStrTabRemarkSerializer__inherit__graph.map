@@ -1,4 +1,0 @@
-<map id="llvm::remarks::YAMLStrTabRemarkSerializer" name="llvm::remarks::YAMLStrTabRemarkSerializer">
-<area shape="rect" id="node2" href="$structllvm_1_1remarks_1_1YAMLRemarkSerializer.html" title="Serialize the remarks to YAML. " alt="" coords="15,80,205,121"/>
-<area shape="rect" id="node3" href="$structllvm_1_1remarks_1_1RemarkSerializer.html" title="This is the base class for a remark serializer. " alt="" coords="5,5,215,32"/>
-</map>

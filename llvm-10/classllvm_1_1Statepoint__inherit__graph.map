@@ -1,4 +1,0 @@
-<map id="llvm::Statepoint" name="llvm::Statepoint">
-<area shape="rect" id="node2" href="$classllvm_1_1StatepointBase.html" title="llvm::StatepointBase\l\&lt; Function, Instruction,\l Value, CallBase \&gt;" alt="" coords="8,139,165,195"/>
-<area shape="rect" id="node3" href="$classllvm_1_1StatepointBase.html" title="A wrapper around a GC intrinsic call, this provides most of the actual functionality for Statepoint a..." alt="" coords="5,5,168,61"/>
-</map>

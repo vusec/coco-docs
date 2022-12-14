@@ -1,4 +1,0 @@
-<map id="llvm::ValueInfo" name="llvm::ValueInfo">
-<area shape="rect" id="node2" href="$classllvm_1_1PointerIntPair.html" title="llvm::PointerIntPair\l\&lt; const GlobalValueSummaryMap\lTy::value_type *, 3, int \&gt;" alt="" coords="5,139,227,195"/>
-<area shape="rect" id="node3" href="$classllvm_1_1PointerIntPair.html" title="PointerIntPair &#45; This class implements a pair of a pointer and small integer. " alt="" coords="31,5,201,61"/>
-</map>

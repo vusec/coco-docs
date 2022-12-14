@@ -1,4 +1,0 @@
-<map id="llvm::DDGBuilder" name="llvm::DDGBuilder">
-<area shape="rect" id="node2" href="$classllvm_1_1AbstractDependenceGraphBuilder.html" title="llvm::AbstractDependence\lGraphBuilder\&lt; DataDependence\lGraph \&gt;" alt="" coords="5,109,216,165"/>
-<area shape="rect" id="node3" href="$classllvm_1_1AbstractDependenceGraphBuilder.html" title="This abstract builder class defines a set of high&#45;level steps for creating DDG&#45;like graphs..." alt="" coords="18,5,203,47"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="include/llvm/ADT/ilist_base.h" name="include/llvm/ADT/ilist_base.h">
-<area shape="rect" id="node2" href="$ilist__node__base_8h.html" title="llvm/ADT/ilist_node\l_base.h" alt="" coords="686,95,822,136"/>
-<area shape="rect" id="node3" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="654,184,825,211"/>
-<area shape="rect" id="node4" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="645,348,807,375"/>
-<area shape="rect" id="node7" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="244,259,408,300"/>
-<area shape="rect" id="node16" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="433,266,603,293"/>
-<area shape="rect" id="node8" href="$Support_2DataTypes_8h.html" title="llvm/Support/DataTypes.h" alt="" coords="92,348,267,375"/>
-<area shape="rect" id="node9" href="$c_2DataTypes_8h.html" title="llvm&#45;c/DataTypes.h" alt="" coords="111,423,247,449"/>
-</map>

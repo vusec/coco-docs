@@ -1,5 +1,0 @@
-<map id="llvm::DWARFDebugPubTable::Entry" name="llvm::DWARFDebugPubTable::Entry">
-<area shape="rect" id="node3" href="$structllvm_1_1dwarf_1_1PubIndexEntryDescriptor.html" title="Describes an entry of the various gnu_pub* debug sections. " alt="" coords="140,95,320,136"/>
-<area shape="rect" id="node6" href="$classllvm_1_1StringRef.html" title="StringRef &#45; Represent a constant reference to a string, i.e. " alt="" coords="345,102,454,129"/>
-<area shape="rect" id="node7" href="$classsize__t.html" title="size_t" alt="" coords="371,5,428,32"/>
-</map>

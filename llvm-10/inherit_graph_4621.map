@@ -1,6 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structllvm_1_1remarks_1_1RemarkParser.html" title="Parser used to parse a raw buffer to remarks::Remark objects. " alt="" coords="5,46,199,73"/>
-<area shape="rect" id="node2" href="$structllvm_1_1remarks_1_1BitstreamRemarkParser.html" title="Parses and holds the state of the latest parsed remark. " alt="" coords="259,5,425,47"/>
-<area shape="rect" id="node3" href="$structllvm_1_1remarks_1_1YAMLRemarkParser.html" title="Regular YAML to Remark parser. " alt="" coords="247,71,437,112"/>
-<area shape="rect" id="node4" href="$structllvm_1_1remarks_1_1YAMLStrTabRemarkParser.html" title="YAML with a string table to Remark parser. " alt="" coords="485,71,669,112"/>
-</map>

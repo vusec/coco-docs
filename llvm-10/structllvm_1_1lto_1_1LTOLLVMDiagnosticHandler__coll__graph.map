@@ -1,4 +1,0 @@
-<map id="llvm::lto::LTOLLVMDiagnosticHandler" name="llvm::lto::LTOLLVMDiagnosticHandler">
-<area shape="rect" id="node2" href="$structllvm_1_1DiagnosticHandler.html" title="This is the base class for diagnostic handling in LLVM. " alt="" coords="73,95,234,121"/>
-<area shape="rect" id="node3" href="$classllvm_1_1DiagnosticInfo.html" title="This is the base abstract class for diagnostic reporting in the backend. " alt="" coords="5,5,144,32"/>
-</map>

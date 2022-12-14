@@ -1,4 +1,0 @@
-<map id="llvm::SystemZHazardRecognizer" name="llvm::SystemZHazardRecognizer">
-<area shape="rect" id="node2" href="$classllvm_1_1ScheduleHazardRecognizer.html" title="HazardRecognizer &#45; This determines whether or not an instruction can be issued this cycle..." alt="" coords="5,95,221,121"/>
-<area shape="rect" id="node3" href="$classunsigned.html" title="unsigned" alt="" coords="76,5,151,32"/>
-</map>

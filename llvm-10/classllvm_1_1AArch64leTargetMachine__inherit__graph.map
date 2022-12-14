@@ -1,5 +1,0 @@
-<map id="llvm::AArch64leTargetMachine" name="llvm::AArch64leTargetMachine">
-<area shape="rect" id="node2" href="$classllvm_1_1AArch64TargetMachine.html" title="llvm::AArch64TargetMachine" alt="" coords="10,155,201,181"/>
-<area shape="rect" id="node3" href="$classllvm_1_1LLVMTargetMachine.html" title="This class describes a target machine that is implemented with the LLVM target&#45;independent code gener..." alt="" coords="18,80,193,107"/>
-<area shape="rect" id="node4" href="$classllvm_1_1TargetMachine.html" title="Primary interface to the complete machine description for the target machine. " alt="" coords="35,5,175,32"/>
-</map>

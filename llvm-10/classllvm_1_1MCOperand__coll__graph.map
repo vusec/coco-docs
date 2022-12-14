@@ -1,5 +1,0 @@
-<map id="llvm::MCOperand" name="llvm::MCOperand">
-<area shape="rect" id="node2" href="$classllvm_1_1MCExpr.html" title="Base class for the full range of assembler expressions which are needed for parsing. " alt="" coords="5,5,108,32"/>
-<area shape="rect" id="node5" href="$classllvm_1_1MCInst.html" title="Instances of this class represent a single low&#45;level machine instruction. " alt="" coords="309,5,407,32"/>
-<area shape="rect" id="node6" href="$classunsigned.html" title="unsigned" alt="" coords="431,5,506,32"/>
-</map>
